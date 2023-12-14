@@ -3,6 +3,7 @@ from streamlit_chat import message
 from utilities.helper import LLMHelper
 import regex as re
 import os
+import traceback
 from random import randint
 
 def clear_chat_data():
