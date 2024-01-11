@@ -1,0 +1,13 @@
+title:
+LPT:  Shift + Right Click on a folder in Windows 7 for more options including "open command window here."
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/staau/
+author:apocryphalauthor
+subreddit:LifeProTips
+score:1095
+numComments:98
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,17 @@
+title:
+YSK that poison control centers are completely free, have been around for 60 years, and that calling one can often prevent an emergency room visit.
+
+content:
+[66.6% of poison exposure cases (page 20)](https://aapcc.s3.amazonaws.com/pdfs/annual_reports/12_21_2017_2016_Annua.pdf) are able to be handled just by calling a poison control center and following instructions over the phone. It's incredibly easy to get expert advice by calling 1-800-222-1222. 
+
+There's also a website at https://triage.webpoisoncontrol.org.
+
+It's tempting to immediately call 911 for every case of exposure to some sort of substance, but most poisonings aren't that serious. [Even drinking bleach typically only causes minor effects to most children.](https://www.poison.org/articles/2012-feb/laundry-products)
+
+url:https://reddit.com/r/YouShouldKnow/comments/8rh28j/
+author:Doulich
+subreddit:YouShouldKnow
+score:4147
+numComments:155
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Don't take advice you see on the Internet without fact-checking it first. Websites will commonly give misleading advice to get page views.
+
+content:
+Especially if it's in image/meme format, or has no citations or links. 
+
+url:https://reddit.com/r/LifeProTips/comments/5ln57b/
+author:ArmaDolphins
+subreddit:LifeProTips
+score:1188
+numComments:107
+isOver18:False
+hasPostBody:True

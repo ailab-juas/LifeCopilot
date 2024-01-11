@@ -1,0 +1,13 @@
+title:
+LPT: If you often order food through takeaway services like Just Eat, try finding a takeaway and then going to the restaurant's own website. Many have their own delivery service and will offer a discount if you order directly from them, as they don't have to pay a commission to the takeaway service.
+
+content:
+Companies like Just Eat, Uber Eats, and Deliveroo commonly take 20-30% commission on each order. So many places will happily offer discounts of around 10-15% if it means they don't have to pay this additional charge.
+
+url:https://reddit.com/r/LifeProTips/comments/kbsacx/
+author:Penguin__Farts
+subreddit:LifeProTips
+score:1733
+numComments:75
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+LPT: If you find yourself lost in unfamiliar wilderness, immediately STOP and begin marking your location - break brush, organize branches, or stones, or dig trenches into clear man made shapes
+
+content:
+People who are lost often begin to wander, and this strategy marks the first location you realized you were lost for both yourself and possible searchers. Title is a bit messy, but obviously terrain and environment will dictate the materials available to use for marking your location. Make your marking clear enough it will be able to withstand rain/weather, ideally for multiple days or even weeks. 
+
+Once you have established your "home base", you may begin searching for the trail or other signs of human activity. It is incredibly important however to do this with a calm and collected mind, not panicking and trying to push yourself in a random direction in desperate hope. Begin slowly, and always count your steps. Mark your path away from your "home base" as you move, so that there is a clear way back. At first, only try say 20 steps in as straight as a line as you can manage, before returning to your home base. Now try a line in the opposite direction, 20 steps and return. This approach is much safer with a compass, as you can stick to cardinal directions and there is less chance of you becoming turned around. Always be marking your passage, and always try to return to your base as it is much more likely to be close to where people would be traveling or looking for you. 
+
+url:https://reddit.com/r/LifeProTips/comments/5n8j3d/
+author:MimzytheBun
+subreddit:LifeProTips
+score:19024
+numComments:1184
+isOver18:False
+hasPostBody:True

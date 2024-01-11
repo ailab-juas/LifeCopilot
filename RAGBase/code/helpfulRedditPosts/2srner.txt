@@ -1,0 +1,13 @@
+title:
+LPT: Water down juice for your kids.
+
+content:
+They'll consume less sugar and more water, and they won't know the difference until they catch you doing it.
+
+url:https://reddit.com/r/LifeProTips/comments/2srner/
+author:jonnysomething
+subreddit:LifeProTips
+score:2846
+numComments:1127
+isOver18:False
+hasPostBody:True

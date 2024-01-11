@@ -1,0 +1,19 @@
+title:
+LPT: use Ctrl + shift + V (paste without formattting instead of Ctrl + V (paste) to save time
+
+content:
+Ctrl + shift + V (paste without formatting) keeps the text font/colour/size the same as the rest of the text. So essentially you don't have to change the text font, colour and size after pasting text. 
+
+This has saved me loads of time and effort.
+
+Edit: as people have been saying in the comments, unfortunately this doesn't work on every program.
+
+Also, on mac, the command is option + command + shift + V.
+
+url:https://reddit.com/r/LifeProTips/comments/jr4v5q/
+author:jrs1354
+subreddit:LifeProTips
+score:5304
+numComments:156
+isOver18:False
+hasPostBody:True

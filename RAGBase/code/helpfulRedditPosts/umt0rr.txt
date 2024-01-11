@@ -1,0 +1,13 @@
+title:
+LPT: If you have private mortgage insurance (PMI) on your mortgage, now is the perfect time to get an updated assessment on your home value and drop that PMI payment.
+
+content:
+Depending on the terms of your loan, you may be able to cancel your PMI payment if your loan-to-value (LTV) ratio is less than 75% or 80%. With house values skyrocketing, it's a perfect time to look into it.
+
+url:https://reddit.com/r/LifeProTips/comments/umt0rr/
+author:Enginerdad
+subreddit:LifeProTips
+score:5082
+numComments:270
+isOver18:False
+hasPostBody:True

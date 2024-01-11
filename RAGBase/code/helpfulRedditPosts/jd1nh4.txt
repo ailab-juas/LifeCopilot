@@ -1,0 +1,13 @@
+title:
+LPT: A basic formula to effectively communicate on phone, email or in person is using SBAR. S is situation, B is background, A is action (that you are taking) and R is a response (or what you want to happen. This can help anxiety, rambling too much and just over all help you be more efficient.
+
+content:
+Obviously you can tailor the formula to work for your situation but the bottom line is that the formula can help to reduce anxiety, stress or over explaining. It’s a basic structure and can be used at work, school, on the phone and emails. Too many times I hear people over explaining before getting to their question or point when really a simple sentence would have explained everything.
+
+url:https://reddit.com/r/LifeProTips/comments/jd1nh4/
+author:elephantfunk
+subreddit:LifeProTips
+score:1603
+numComments:48
+isOver18:False
+hasPostBody:True

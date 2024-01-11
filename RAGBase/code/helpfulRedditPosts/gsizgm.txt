@@ -1,0 +1,13 @@
+title:
+YSK that when trying to help someone, you should be specific and ask what they need help with instead of asking if they need help.
+
+content:
+Some people (including myself) won't ask for help even if they need it, and they won't say that they need help if asked. For example instead of asking "do you need help?" ask "what else do you have left to do?" Basically don't ask them a question that they can say no to.
+
+url:https://reddit.com/r/YouShouldKnow/comments/gsizgm/
+author:oscarrm25
+subreddit:YouShouldKnow
+score:8910
+numComments:108
+isOver18:False
+hasPostBody:True

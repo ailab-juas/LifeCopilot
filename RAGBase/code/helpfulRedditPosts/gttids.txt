@@ -1,0 +1,13 @@
+title:
+LPT: When you use a public locker, always use the top row, most lockers are not water tight and a surprising amount of people don’t tighten the lids on their drinks properly
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/gttids/
+author:TheNorthSeaKraken
+subreddit:LifeProTips
+score:8879
+numComments:97
+isOver18:False
+hasPostBody:False

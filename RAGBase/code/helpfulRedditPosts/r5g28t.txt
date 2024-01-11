@@ -1,0 +1,13 @@
+title:
+LPT: The internet is not a real place. Pay more attention to what happens in your real life with real people and real situations and build your world view based on that. Don't base your choices upon what you see online
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/r5g28t/
+author:muhallayspeeshka
+subreddit:LifeProTips
+score:2786
+numComments:155
+isOver18:False
+hasPostBody:False

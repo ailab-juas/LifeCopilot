@@ -1,0 +1,39 @@
+title:
+YSK a lot of things about Africa.
+
+content:
+I was a Peace Corps volunteer in [Cameroon](http://en.wikipedia.org/wiki/Cameroon), which has the distinction of being one of those countries (like Togo or Guyana) that hardly anyone has ever heard of. I lived there in Central Africa for two years. Following PC, I worked in development across Kenya, Sudan, Mali and South Africa. 
+
+Reddit is smart about so many things, but here in the West, we just don't learn much about Africa, and that's reflected in a lot of the comments I see here. So I thought I'd try to help!
+
+* [Africa is a lot bigger](http://strangemaps.files.wordpress.com/2006/11/africa_in_perspective_map.jpg) than it looks on your usual Mercador map, because it straddles the equator. You could fit the continental U.S., China, Western Europe, India and Argentina in there and still have lots of room left over.
+
+* Africa is not the poorest place in the world. India is. [There are actually more people living in "extreme poverty" in India than in all of sub-Saharan Africa](http://www.guardian.co.uk/world/2010/jul/14/poverty-india-africa-oxford), according to most studies. India also suffers from much greater rates of child malnutrition. 
+
+* [Most of the French-speaking people in the world live in Africa.](http://en.wikipedia.org/wiki/French_language#Africa) French is at least one of the official languages of 31 countries in Africa, reflecting the widespread colonial influence of France and Belgium. English is the dominant Western language in Ghana, Nigeria, east and southern Africa. In almost all of those cases, "local" languages - Yoruba, Swahili, Xhosa, Zulu, Hausa, etc. - are more widespread and better-known.
+
+* Because it is such a huge continent, Africa is not accurately described as a land of civil wars and famines. Civil conflict does exist - East/Southern Sudan, the Eastern Congo and Somalia are well-publicized examples - but the vast majority of the continent is very peaceful. Saying Africa is rife with war because of those examples is like saying the same about Asia because of Afghanistan and Pakistan. Likewise, famine is very rare throughout most of the continent. Most issues with food security are market failures, not problems with supply.
+
+* [Africa has some of the best economic growth rates in the world.](http://www.foreignpolicy.com/articles/2010/11/29/the_african_miracle) Like much of the developing world, Africa is largely "de-coupled" from the West economically, such that its economic growth hasn't been strongly affected by our recession. You want a great ROI? Put it in the Ghanaian or Nigerian stock market. Seriously.
+
+* We are not really to blame for Africa's woes. This is some editorializing on my part, but since colonization is really the extent of what most westerners know about Africa, there's a lot of lazy assumptions (paired with rich-country guilt) that we must be to blame for everything that has gone wrong there since independence swept the continent in the 50s/60s. Surely, there is still a good deal of colonial influence, particularly in the Francophone countries - but 50 years after independence, African messes are more accurately blamed on leadership failures. One-party strongman rule has been the norm for much of the continent for a long time. Some strongmen were propped up by the West - Mobutu being one famous example - others were not (Kenyatta, Senghor, Eyadema). This dynamic is changing, but change is slow.
+
+* "Africans" are an incredibly diverse group; probably more so than in any other geographic entity on earth. Culturally, racially, religiously, even genetically, there is far greater diversity in Africa that you will find in Asia, and surely in Europe or North/South America. As the birthplace of human evolution, this shouldn't really be a surprise.
+
+* Africa is often most associated with poverty. It's true - much of the continent is pretty poor. But "poor" means very different things for different people. In southern Cameroon, no one has much money, but land is plentiful and free and primary schooling is usually available. In Sudan, there is sometimes food insecurity, and there used to be a great deal of violence. In Mali, it's often difficult to find any job that allows you more than a subsistence level of income, but schooling and food is available. Access to basic healthcare varies greatly from region to region, country to country, and even town to town. "Africans" are not a large group of unhappy poor people.
+
+* Lions, elephants, gorillas and other big game don't live everywhere. Most Africans aren't actually real crazy about animals like these, and prefer to shoot 'em on sight.
+
+* Nigerians are not all email spammers. They're actually really nice.
+
+* **Do you really want to "help Africa?"** Don't give your money to some charity. Go visit! Much of Africa is a lovely place, full of very friendly people, and there's lots to do there. Your tourist dollars will do more for the economy than any NGO, and the stories you'll have will (hopefully!) help change the frankly awful and misleading image that Africa has been given. That will do more long-term good than almost anything else.
+
+I could continue here about the role the West has in development, but I'll stop there. Enjoy!
+
+url:https://reddit.com/r/YouShouldKnow/comments/khrho/
+author:Ntang
+subreddit:YouShouldKnow
+score:1005
+numComments:357
+isOver18:False
+hasPostBody:True

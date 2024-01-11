@@ -1,0 +1,13 @@
+title:
+LPT: if you’re in a hotel with a Samsung TV that has all the menus disabled, pressing Mute - 1 - 1 - 9 - Enter will get to to a special configuration menu where you can disable the restrictions.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/jlrt5c/
+author:Flupsy
+subreddit:LifeProTips
+score:1220
+numComments:44
+isOver18:False
+hasPostBody:False

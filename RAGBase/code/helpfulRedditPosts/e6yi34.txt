@@ -1,0 +1,13 @@
+title:
+LPT: Instead of getting defensive say, "Thank you for letting me know your thoughs, I'll consider them."
+
+content:
+Always listen to understand instead of listening to reply.
+
+url:https://reddit.com/r/LifeProTips/comments/e6yi34/
+author:YourSunflower_
+subreddit:LifeProTips
+score:1691
+numComments:106
+isOver18:False
+hasPostBody:True

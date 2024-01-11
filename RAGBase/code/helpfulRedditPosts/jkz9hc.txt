@@ -1,0 +1,13 @@
+title:
+LPT: For people starting a new job. If a task typically takes someone ~3.5 hours and you can get it done in 1 hour, don't turn your task in right away - wait about an hour. If your manager(s) discover how productive you really are, they will quickly overwork you without proper compensation.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/jkz9hc/
+author:VT_Forever
+subreddit:LifeProTips
+score:95952
+numComments:3112
+isOver18:False
+hasPostBody:False

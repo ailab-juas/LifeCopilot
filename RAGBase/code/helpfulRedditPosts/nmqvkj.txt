@@ -1,0 +1,13 @@
+title:
+YSK: that the average residential oven is rarely accurate. An aftermarket in oven thermometer is necessary.
+
+content:
+Why YSK: your oven face plate temperature scale is printed on a piece of metal in a production line that's not really accurate. Baking and cooking have core temps for a reason. Your flopped Japanese cheesecake or overcooked muffins but undercooked in the middle may not be entirely your fault.
+
+url:https://reddit.com/r/YouShouldKnow/comments/nmqvkj/
+author:Thatonechippedcup
+subreddit:YouShouldKnow
+score:5831
+numComments:153
+isOver18:False
+hasPostBody:True

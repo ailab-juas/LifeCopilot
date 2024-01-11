@@ -1,0 +1,13 @@
+title:
+LPT: The best parking spot at a grocery store isn't the one closest to the entrance. It's the one closest to the cart return.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ae78w3/
+author:seeyakid
+subreddit:LifeProTips
+score:15225
+numComments:716
+isOver18:False
+hasPostBody:False

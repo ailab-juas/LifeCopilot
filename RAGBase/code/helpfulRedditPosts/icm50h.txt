@@ -1,0 +1,13 @@
+title:
+LPT: Allow people the freedom to change. If someone decides to modify their beliefs or behaviors in a positive way, refrain from pointing out their inconsistencies, being sarcastic, joking, or otherwise commenting.
+
+content:
+If someone changes their mind and behaviors over time, it’s more likely a sign of correcting errors in premature decision-making or undoing bad habits. As life goes on, people gain more experience, perspective, and information to make better, well-informed decisions. Change is a sign of growth so it’s best to be supportive throughout that process.
+
+url:https://reddit.com/r/LifeProTips/comments/icm50h/
+author:super_corndog
+subreddit:LifeProTips
+score:64634
+numComments:1308
+isOver18:False
+hasPostBody:True

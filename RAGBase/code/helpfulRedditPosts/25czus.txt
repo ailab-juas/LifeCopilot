@@ -1,0 +1,23 @@
+title:
+LPT: Before applying for jobs, have a friend contact your references as of they worked for a potential employer.
+
+content:
+I work for a company that conducts background, educational,  criminal and reference checks for a number of large companies. We are an external 3rd party, and you wouldn't believe the number of refused or just plain awful references I hear everyday. We then submit a form back to the company who will just close the file (resulting in no call back for an interview) regardless of the circumstances. These people can be disgruntled former employers who just don't care about your future or who actively want to prevent you from getting another job. 
+
+What I suggest is have a friend call your employers saying they work for a 3rd party company who has been authorized to contact them, and just ask some basic questions:
+
+What was the candidates responsibilities, how did they handle stress, conflict, pressure? We're they punctual? And most importantly would they recommend the candidate for the job (or would they ever consider rehiring). 
+
+At least this way you can not waste your time with horrible references. 
+
+Cheers. 
+
+
+
+url:https://reddit.com/r/LifeProTips/comments/25czus/
+author:pathogenv
+subreddit:LifeProTips
+score:2700
+numComments:510
+isOver18:False
+hasPostBody:True

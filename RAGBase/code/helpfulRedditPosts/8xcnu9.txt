@@ -1,0 +1,15 @@
+title:
+YSK: The USGS (United States Geological Survey) has a website called "Did You Feel It?" where you can report your time, location, and the severity of shaking if you felt an earthquake. The data collected could be potentially life-saving for future events and is extremely scientifically significant.
+
+content:
+https://earthquake.usgs.gov/data/dyfi/
+
+This service helps to create maps of earthquake damage and severity. By reporting this information, you can help seismologists predict the damage that could be caused by future earthquakes in the area as well as their potential time of re-occurrence.
+
+url:https://reddit.com/r/YouShouldKnow/comments/8xcnu9/
+author:duder_mcbrohansen
+subreddit:YouShouldKnow
+score:6833
+numComments:125
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: If you’re wondering if maybe you should be wearing safety gear (glasses, helmet, gloves, hard hat), the answer is always “Yes”.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/samm3t/
+author:tysmily
+subreddit:LifeProTips
+score:2578
+numComments:98
+isOver18:False
+hasPostBody:False

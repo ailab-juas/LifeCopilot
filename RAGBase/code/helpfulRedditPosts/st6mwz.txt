@@ -1,0 +1,15 @@
+title:
+LPT - If you get a call from a utility/bank/etc. saying there is a problem with your account, hang up immediately and call their main Customer Service number.
+
+content:
+It's very easy to protect yourself from someone claiming to be with your bank, your cell phone provider, your power company, etc.  Whenever you get a call from someone claiming that there is a problem with your account and they want you provide account-verification information, then DON'T DO IT.  Just hang up, then call them on their official customer service line.  This will ensure you get in touch with a real employee and you can ask them if there is, really, a problem with your account.  
+
+It's really easy for some scammer to call you and say they are a Verizon employee, but it's very hard for a scammer to get your callback from within the actual Verizon call center....
+
+url:https://reddit.com/r/LifeProTips/comments/st6mwz/
+author:DNAisjustneuteredRNA
+subreddit:LifeProTips
+score:3557
+numComments:128
+isOver18:False
+hasPostBody:True

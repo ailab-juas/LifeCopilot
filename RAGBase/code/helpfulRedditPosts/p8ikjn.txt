@@ -1,0 +1,13 @@
+title:
+LPT: Before a predictable natural disaster (like a hurricane or blizzard), don't overlook your more mundane chores while preparing. If you will be without electricity or hot water for days, you will want to have enough clean laundry and dishes to last you through it.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/p8ikjn/
+author:FastWalkingShortGuy
+subreddit:LifeProTips
+score:29683
+numComments:552
+isOver18:False
+hasPostBody:False

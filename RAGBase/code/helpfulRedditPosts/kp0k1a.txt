@@ -1,0 +1,26 @@
+title:
+YSK When you have self-defeating thoughts, feelings or habits, it helps to ask what’s the story behind them - and revise it. Psychologists call this story editing and it’s an actually engaging, evidence-based way to improve mental health.
+
+content:
+Note: From the discussion below, I realise it may be more appropriate to say **reframe** rather than **revise** the story.
+
+**Why YSK:** There’s significant evidence that story editing can improve mood, reduce depressive symptoms, help you find clarity and achieve closure on upsetting experiences. Having studied the research on mental health and tried many approaches myself, I always come back to story editing. It’s accessible, works for problems big and small, gets your mind unstuck, you name it.
+
+TECHNIQUES: You can do a sort of brain dump, where you write without stopping or censoring yourself for 15 min (a form of the[ expressive writing](https://www.health.harvard.edu/newsletter_article/expressive-writing-for-mental-health) pioneered by James Pennebaker). Another effective way is to write about an upsetting event from a third-person’s perspective ( a form of[ self-distancing](https://www.psychologytoday.com/us/articles/201901/the-art-self-distancing)).
+
+If you think about it, it makes sense - we are storytelling creatures, after all. Sometimes the stories we tell get us into trouble and the way out is to learn to take control and not get frozen in bad stories.  
+
+
+EDIT: Wow, this sort of exploded. I did not expect such a wide-ranging conversation. Thank you everyone for having such a deep, exhilarating and wide-ranging discussion with me. That's what I love most about Reddit!   
+
+
+For anyone who wants a deeper dive into the theory, practice and studies on self-distancing, [here's a great write-up](http://selfcontrol.psych.lsa.umich.edu/wp-content/uploads/2016/12/1-s2.0-S0065260116300338-main-2.pdf).  
+And if you just want some practical tips to get started, [this place](https://ggia.berkeley.edu/practice/gaining_perspective_on_negative_events) a good one.
+
+url:https://reddit.com/r/YouShouldKnow/comments/kp0k1a/
+author:Ellie_D
+subreddit:YouShouldKnow
+score:38151
+numComments:672
+isOver18:False
+hasPostBody:True

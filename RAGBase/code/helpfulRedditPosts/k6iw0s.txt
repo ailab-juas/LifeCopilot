@@ -1,0 +1,15 @@
+title:
+YSK that there is a simplified English version of Wikipedia.
+
+content:
+ [https://simple.wikipedia.org](https://simple.wikipedia.org/) is the link.
+
+Why YSK: This has a load of articles, described in much simpler terms, making it way easier to understand a topic, for instance [Thermocouple on the Simple page](https://simple.wikipedia.org/wiki/Thermocouple) vs [Thermocouple on the regular page](https://en.wikipedia.org/wiki/Thermocouple). This is a great revision tool for many topics.
+
+url:https://reddit.com/r/YouShouldKnow/comments/k6iw0s/
+author:typicalcitrus
+subreddit:YouShouldKnow
+score:15021
+numComments:202
+isOver18:False
+hasPostBody:True

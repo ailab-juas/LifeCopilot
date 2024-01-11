@@ -1,0 +1,19 @@
+title:
+LPT: Shift + Del removes autfill entries from the chrome address bar.
+
+content:
+If you regularly use the omnibar in chrome you can find that some things autofill that you don't want. 
+
+For example:
+If i type 'weather' in the address bar it will autocomplete to 'weather.com'.
+
+This is not my desired behavior since i prefer to use the google weather display. So when it autocompletes to 'weather.com' i simply do shift + del and it will not longer autocomplete to weather.com
+
+
+url:https://reddit.com/r/LifeProTips/comments/1ww9g0/
+author:Knoxie_89
+subreddit:LifeProTips
+score:2314
+numComments:154
+isOver18:False
+hasPostBody:True

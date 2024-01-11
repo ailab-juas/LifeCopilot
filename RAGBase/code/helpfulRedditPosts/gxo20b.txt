@@ -1,0 +1,13 @@
+title:
+LPT: If you are tired of AutoModerator being the first comment on every Reddit post (and collapsing it every time) you can block it like every other user.
+
+content:
+Edit: If you use Apollo [you can do this with a setting](https://reddit.com/r/LifeProTips/comments/gxo20b/_/ft6u371/?context=1so) so you won’t miss if your post is removed
+
+url:https://reddit.com/r/LifeProTips/comments/gxo20b/
+author:mrRonSwanHuh
+subreddit:LifeProTips
+score:1394
+numComments:70
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: If you wake up earlier than your alarm clock, don't go back to sleep. You'll feel much more well rested and awake for the rest of the day.
+
+content:
+It's feels a lot better waking up at the end of your sleep cycle. EVEN if you get an hour or so less sleep. 
+
+url:https://reddit.com/r/LifeProTips/comments/1fjd4q/
+author:[deleted]
+subreddit:LifeProTips
+score:2073
+numComments:469
+isOver18:False
+hasPostBody:True

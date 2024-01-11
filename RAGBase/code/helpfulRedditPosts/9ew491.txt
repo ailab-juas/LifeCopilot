@@ -1,0 +1,15 @@
+title:
+LPT: Universities like MIT offer free online courses for subjects like Computer Science, Engineering, Psychology and more that include full lectures and exams
+
+content:
+I stumbled upon https://ocw.mit.edu/courses/find-by-topic/ earlier and have been watching videos on programming in Python. A lot of subjects are covered and it's all free. Happy learning!
+
+Edit: Thanks for the gold, y'all!
+
+url:https://reddit.com/r/LifeProTips/comments/9ew491/
+author:memes_ofproduction
+subreddit:LifeProTips
+score:32519
+numComments:666
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Watching first person mountain biking videos while exercising on a stationary bike makes it a lot more exciting. Works for treadmills and hiking videos too!
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/76clgc/
+author:Evilish_Olive
+subreddit:LifeProTips
+score:2172
+numComments:52
+isOver18:False
+hasPostBody:False

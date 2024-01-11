@@ -1,0 +1,13 @@
+title:
+LPT: If you don't have free access to an article for an essay or for your studies, email one of the authors. Most understand that students can't afford expensive journal subscriptions and will send you a pdf of their work for free.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/mcjkfu/
+author:MrBoxwine
+subreddit:LifeProTips
+score:19399
+numComments:547
+isOver18:False
+hasPostBody:False

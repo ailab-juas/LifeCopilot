@@ -1,0 +1,21 @@
+title:
+YSK Purchases made at dispensaries will show up as ATM withdrawals on your bank statement
+
+content:
+Why YSK: I work in the fraud department at a major bank and I get SO MANY calls daily from people reporting fraudulent ATM transactions with random amounts you normally can't withdraw from an ATM. 
+Legally, dispensaries cannot say they are a dispensary so transactions made will not show as such. 
+Save yourself the hassle of filing a claim and having to get a new card by remembering this the next time you make a purchase at your favorite spot or when you see a transaction at an ATM pop up that you may not recognize and you've shopped at a dispensary recently :)
+
+Edit to say: I get it, many of you only know of cash dispensaries. That's cool. Just trying to help those it does apply to :)
+
+Edit #2 to add: I work in the US and this is only specific to my country. Our bank is in most of the 50 states and I have dealt with this issue in most of the states where it is legal. I NEVER expected this to blow up, was just trying to share some info to help anyone I could avoid getting their card closed for no reason.
+
+Edit #3 (last one, I swear) to add: in the US dispensaries are not federally legal so it can cause problems with the law and the banks to actually call themselves "dispensaries "
+
+url:https://reddit.com/r/YouShouldKnow/comments/p91w18/
+author:canicryaboutit
+subreddit:YouShouldKnow
+score:5994
+numComments:293
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,17 @@
+title:
+YSK that a lot of car issues are extremely simple to fix yourself
+
+content:
+Why YSK: I am by no means savvy with a car. But most car companies make some maintenance very simple to do yourself. For example, changing light bulbs. The bulbs themselves cost $2-$6 and can mostly be replaced in just a few minutes without any tools.
+
+Will save you a lot of money if you had been previously taking your car to a mechanic for these issues.
+
+Edit: from all the comments, it looks like the fan favorite, go-to YouTube channel for learning about car maintenance is ChrisFix - check him out!
+
+url:https://reddit.com/r/YouShouldKnow/comments/t4ermi/
+author:nickleone1
+subreddit:YouShouldKnow
+score:15445
+numComments:1367
+isOver18:False
+hasPostBody:True

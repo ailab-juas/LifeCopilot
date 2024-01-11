@@ -1,0 +1,13 @@
+title:
+YSK: AidAccess.org is an online abortion pill provider available via mail in the United States. The org only requests a donation amount of your choice.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/YouShouldKnow/comments/uh8nt0/
+author:[deleted]
+subreddit:YouShouldKnow
+score:1448
+numComments:55
+isOver18:False
+hasPostBody:True

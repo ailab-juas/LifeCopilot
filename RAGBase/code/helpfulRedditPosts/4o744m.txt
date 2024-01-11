@@ -1,0 +1,28 @@
+title:
+YSK How to stay as safe as you can in a shooter situation
+
+content:
+My company suggested we all take a class in how to handle emergencies that pose an immediate threat to life.  I'll try as best I can to boil that 30 minute class down to a few concepts.  These are all general guidelines.  
+
+Most mass shooting events are over in less than 2 minutes.  The police usually arrive in less than 5 minutes.  Your actions in the first few seconds may help you stay alive.
+
+- When you walk into any place, note how to get out.  It takes less than a second to do, but observe where the exits are.
+
+- When in doubt, get out.  The further away you get, the safer you are.
+
+- Rescue someone only if you can do it safely.  One dead person is horrible.  Adding your name to that list is even worse.
+
+- If you can't get out, hide.  In a closet, under a table, anywhere.  Stay as low and flat as you possibly can. (Edit: thanks to /u/xtreme777 for pointing this out)  But don't lie down unless you have to.  Stay in a crouched position so you can run to safety if an opening presents itself.  
+
+- Immediately put your cell phone on silent or turn it off.  People have died from receiving a text, which made a noise or vibration on their phone, causing their hiding place to be revealed.
+
+- When the police arrive, their first priority is to stop the shooter.  After the area is under control, they tend to the wounded. Even if you are wounded, the police may not help you until they find the shooter.  Shooters can pretend to be dead or wounded in their attempt to kill more people.  Don't yell or shout, keep your hands visible at all times. Your immediate job is to show the police with complete certainty that you aren't a threat.  
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/4o744m/
+author:gjallard
+subreddit:YouShouldKnow
+score:1805
+numComments:567
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: AAA offers a tipsy tow service today free of charge.
+
+content:
+So, if you have a membership and feel unsafe driving tonight after a night of drinking please contact them. This will not go against your 3 free services you're given a year.
+
+url:https://reddit.com/r/LifeProTips/comments/1hn78n/
+author:Penguin619
+subreddit:LifeProTips
+score:1743
+numComments:94
+isOver18:False
+hasPostBody:True

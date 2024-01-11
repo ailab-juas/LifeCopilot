@@ -1,0 +1,19 @@
+title:
+YSK that religiosity is a bigger predictor of perceived problematic porn use than actual frequency of consumption.
+
+content:
+Why YSK: There's a lot of information out there about porn addiction and how harmful it can supposedly be to the viewer. However, a lot of research points to it being more about the user than the actual porn. 
+
+This isn't to say that users can't develop less-than-healthy worldviews or habits around porn. However, it is to say that reports of problematic porn use are often unintentionally exaggerated.
+
+Source to the paper about the link between religiosity and problematic porn use: [Pornography Problems Due to Moral Incongruence: An Integrative Model with a Systematic Review and Meta-Analysis](https://link.springer.com/article/10.1007/s10508-018-1248-x)
+
+Edit: Thanks to u/pancurio for the [link to the free article download.](http://library.lol/scimag/10.1007/s10508-018-1248-x)
+
+url:https://reddit.com/r/YouShouldKnow/comments/y937j0/
+author:jrrfolkien
+subreddit:YouShouldKnow
+score:3810
+numComments:297
+isOver18:False
+hasPostBody:True

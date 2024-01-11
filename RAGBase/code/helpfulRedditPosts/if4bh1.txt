@@ -1,0 +1,13 @@
+title:
+LPT: It's easy to let your social life become just you and your partner, but make an effort to keep up with your friends. It helps keep perspective and, though you might not feel you need them anymore, they might need you. If something serious happens and you find out later, you'll feel terrible.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/if4bh1/
+author:zazzlekdazzle
+subreddit:LifeProTips
+score:3874
+numComments:118
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,15 @@
+title:
+YSK that if your pet isn’t eating, you shouldn’t wait more than 2 days until you take them to the vet
+
+content:
+Been reading far too many reddit posts lately where people are waiting a week plus to get their pet seen only to be shocked when the pet needs to be euthanized.
+
+Not only can pets not tell us when they’re sick, they likely won’t even show it. Even if their body condition is good, if you see a full bowl after two days, GO TO THE VET RIGHT AWAY. Call around, please don’t wait for your regular doctor. Their body could be shutting down right in front of you.
+
+url:https://reddit.com/r/YouShouldKnow/comments/gh26ep/
+author:diadiktyo
+subreddit:YouShouldKnow
+score:30126
+numComments:1069
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT (Netflix) Use Hola VPN and change your location settings to Chile to access a wider selection
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/2pty6a/
+author:itsanrnotau
+subreddit:LifeProTips
+score:2058
+numComments:342
+isOver18:False
+hasPostBody:False

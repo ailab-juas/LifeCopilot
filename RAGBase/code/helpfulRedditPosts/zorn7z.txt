@@ -1,0 +1,21 @@
+title:
+YSK that if you need a journal article or paper that is behind a paywall, you can email the person who wrote it for a free copy
+
+content:
+Why YSK: So many papers are behind ridiculously expensive paywalls! A lot of people probably presume that this is the only way to get them, but it isn't! I have been doing this for over a year, and it has a 100% success rate.
+
+&amp;#x200B;
+
+How to do it: Some web pages for the article paywall have a hyperlink to the writer's email address, if it doesn't, don't be afraid to just search for their email online. Once you have their email, politely ask the author for a copy of the study, and maybe tell them in about a sentence what you want it for. They usually will get back to you in about a day or two.
+
+&amp;#x200B;
+
+Why the author would do it: The author of the paper doesn't receive any money for publishing their work in a journal most of the time. They couldn't care less if you get the article through the journal or not. Many are just happy that someone cares about their work! As a bonus, you can even ask them questions about their work, and though I've never done this, many people have told me they are more than happy to answer.
+
+url:https://reddit.com/r/YouShouldKnow/comments/zorn7z/
+author:theflighttest
+subreddit:YouShouldKnow
+score:1401
+numComments:71
+isOver18:False
+hasPostBody:True

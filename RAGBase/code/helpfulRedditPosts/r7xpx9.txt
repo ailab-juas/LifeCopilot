@@ -1,0 +1,13 @@
+title:
+LPT: If you are using Google Mail, you are provided two unique mail addresses by using either '@googlemail.com' or '@gmail.com' which allows you to create two different accounts for a service with just one address.
+
+content:
+I use this i.e. for gaming. Usually I would use an alternative mail account but then I randomly found this out and felt like sharing. Is this commonly known?
+
+url:https://reddit.com/r/LifeProTips/comments/r7xpx9/
+author:unsalle
+subreddit:LifeProTips
+score:44388
+numComments:1219
+isOver18:False
+hasPostBody:True

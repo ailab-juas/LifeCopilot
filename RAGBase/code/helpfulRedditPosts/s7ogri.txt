@@ -1,0 +1,31 @@
+title:
+YSK: TurboTax will stealth-charge you an additional $44+ at checkout unless you opt to pay with a card.
+
+content:
+**Why YSK: I**f you choose to have your fees taken out of your refund TurboTax automatically charges you for "Premium Benefits". You also have to sign a consent form allowing Intuit to use your tax information for more than just filing with the IRS.
+
+To avoid this opt to pay with a card instead.
+
+Inevitable Edit:I wanted to share based on my experience. After spending 2+ hours combing through my finances/apps/receipts... brain fog had set in. The way the $44 charge is intentionally placed where it is on the page, isn't advertised as an "additional" fee, how small the font is + fine print in addition to the overly abundant spacing between "Pay with Your Refund" and "Premium Services Benefits" with a slightly off centered "$44"... I genuinely think this is an additional charge that is easily missed/overlooked...and I think whoever was hired to oversee the layout, Web Dev of the this particular page, was instructed to make this additional fee easy to overlook.
+
+\~\* Five Minutes Later \*\~
+
+The fine print:
+
+From TurboTaxes Checkout Page: "Premium Services gives you Audit Defense, Full Identity Restoration, Identity Theft Insurance, and other great benefits, along with the FREE option to pay with your federal refund. Learn more"
+
+After clicking on the "Learn More" link, it seems as though in addition to allowing you to deduct all fees out of your federal refund, you also get Identity Theft Protection and Monitoring for a year.
+
+I don't know if it's a banking institution but more fine print states: "TurboTax®, in partnership with TaxAudit"
+
+"TaxResources, Inc., dba TaxAudit, will provide the audit defense services for the tax return described on the membership certificate in return for the applicable membership fee and compliance with all applicable terms of this agreement (the “Audit Defense Plan”).[https://turbotax.intuit.com/corp/auditdefense-oneyear/](https://turbotax.intuit.com/corp/auditdefense-oneyear/)"
+
+So for what its worth, I just wanted to make others aware to look out for this being  we can all be susceptible to mad-dash clicking through the checkout process a and not realize until after the fact that what we thought would cost $77 winds up being $121 +tax.
+
+url:https://reddit.com/r/YouShouldKnow/comments/s7ogri/
+author:-sunshyne-
+subreddit:YouShouldKnow
+score:11793
+numComments:416
+isOver18:False
+hasPostBody:True

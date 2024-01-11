@@ -1,0 +1,13 @@
+title:
+LPT: On auto-flush public toilets, use a piece of toilet paper to cover the sensor so it dosen't keep flushing during your poop.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/vnrji/
+author:Danchaz
+subreddit:LifeProTips
+score:1193
+numComments:199
+isOver18:False
+hasPostBody:False

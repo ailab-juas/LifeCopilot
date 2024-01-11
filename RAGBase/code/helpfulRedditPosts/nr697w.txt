@@ -1,0 +1,17 @@
+title:
+YSK that removing the orange tip from toy guns can be dangerous
+
+content:
+Why YSK: The orange tip on toy guns is a universal sign that the gun is fake. If a toy gun has its orange tip removed or painted over, strangers might assume it's real and [be forced to defend themselves](https://www.keranews.org/2019-05-13/how-realistic-looking-toy-guns-confuse-police-and-get-people-killed).
+
+This is especially dangerous for kids, who tend to play fight with their friends or run around in public. Some kids will remove the orange tip or sharpie over it so the gun looks more realistic. Parents, make sure your kids know not to do that.
+
+Adults are free to modify their airsoft guns, but they should be aware of how strangers might react. Don't aim them at anyone in the view of strangers, unless you're in an airsoft arena. Consider keeping them out of view when not in use.
+
+url:https://reddit.com/r/YouShouldKnow/comments/nr697w/
+author:Ajreil
+subreddit:YouShouldKnow
+score:12160
+numComments:739
+isOver18:False
+hasPostBody:True

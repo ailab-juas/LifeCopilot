@@ -1,0 +1,13 @@
+title:
+LPT: If you ask a question to someone, especially in front of others, and they respond with a joke, don't press the issue. It could be a sensitive topic and better dealt with in private or not at all.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/r3cu77/
+author:[deleted]
+subreddit:LifeProTips
+score:3761
+numComments:58
+isOver18:False
+hasPostBody:True

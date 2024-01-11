@@ -1,0 +1,13 @@
+title:
+YSK that right-clicking on Google maps (or holding down on smartphones) will give you the GPS co-ordinates. For example, 40.6887489, -74.0442608. This will help you find remote places that do not have a clear address.
+
+content:
+I am a cartographer and I use this option everyday, not sure if it is common knowledge or helpful to the average user.
+
+url:https://reddit.com/r/YouShouldKnow/comments/gbggc4/
+author:I_am_the_1_who_knox
+subreddit:YouShouldKnow
+score:2502
+numComments:52
+isOver18:False
+hasPostBody:True

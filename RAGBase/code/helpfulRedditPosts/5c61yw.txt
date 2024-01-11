@@ -1,0 +1,19 @@
+title:
+YSK: If you're feeling down after the election, research suggests senses of doom felt after an unfavorable election are greatly over-exaggerated
+
+content:
+Sorry for the long title and I'm sure I will get my fair share of negative attention here. Anyways, humans are the only animals which can not only imagine future events but also imagine how they will feel during those events. This is called affective forecasting and while humans can do it, they are very bad at it.
+
+Further reading:
+
+[Link](https://www.psychologytoday.com/blog/the-social-self/201011/post-election-depression-or-elation-dont-get-too-distraught-or-jubilant)
+
+[Link](https://www.psychologytoday.com/blog/second-thought/201011/how-the-mind-construesthe-post-election-blues)
+
+url:https://reddit.com/r/YouShouldKnow/comments/5c61yw/
+author:solo_dol0
+subreddit:YouShouldKnow
+score:13299
+numComments:4984
+isOver18:False
+hasPostBody:True

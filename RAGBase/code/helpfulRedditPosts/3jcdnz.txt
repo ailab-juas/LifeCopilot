@@ -1,0 +1,25 @@
+title:
+LPT: Don't max your yearly 401k contribution early when your company offers a 401k match.
+
+content:
+This LPT is for everyone contributing more than the amount required to receive the maximum match from your employer. 401k contributions have a yearly individual maximum contribution ([$18,000 in 2015](http://www.irs.gov/uac/Newsroom/IRS-Announces-2015-Pension-Plan-Limitations-1)), however company 401k match contributions do not count towards this limit. In many companies (check your company policy on 401k matching), the 401k match does not take into account how close the employee is getting to their yearly limit. Once the limit is hit and the employee contributions stop, the company match also stops. You then lose out on that extra money for the remainder of the year.
+
+For example, lets say you're making $104,000 per year, and contributing 25% of each paycheck to your 401k, pre-tax. Your company offers a 1:1 match to your contributions, up to 5% of your gross salary.
+
+Assuming 26 paychecks in a year, your pre-tax pay is $4000. That ends up being an employee contribution of $1000 per paycheck, and a company match of $200. You would hit the $18000 limit on paycheck 18, having earned a match of $3600.
+
+However, if you lowered your % contribution to ~17.31%, you would contribute $692.4 each paycheck, but still receive a company match of $200. You would hit your yearly limit on the 26th and final paycheck, and will have earned a company match of $5200.
+
+EDIT: As several have people have mentioned, this does depend on your specific company's 401k policies. In some cases the match is not paid per paycheck, or your company may pay a "catch up" match with the missing money at the end of the year.
+
+EDIT2: Changed the 5% match in the example to indicate it's matching off of your gross salary, not as a percentage of your 401k contribution.
+
+EDIT3: For those asking questions in general about a 401k and whether or not to also invest in Roth IRAs, I would direct you to /r/personalfinance. Their FAQ [here](https://www.reddit.com/r/personalfinance/wiki/commontopics) specifically provides recommendations of at what point it is advisable to contribute to a personal IRA instead of increasing your 401k contribution.
+
+url:https://reddit.com/r/LifeProTips/comments/3jcdnz/
+author:BigBolter
+subreddit:LifeProTips
+score:2887
+numComments:400
+isOver18:False
+hasPostBody:True

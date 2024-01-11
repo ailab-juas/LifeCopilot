@@ -1,0 +1,17 @@
+title:
+YSK that people dealing with depression can find it incredibly hard to maintain contact with friends and family. If someone hasn’t been in touch for months don’t assume they’re a bad friend.
+
+content:
+This is prompted by the comments on a r/Facepalm post with lots of people saying if someone hasn’t checked up on you this year they’re a shitty friend, there’s no excuse etc.
+
+Why YSK: Over the years I’ve known friends and family withdraw from the world for months on end because of depression or other illnesses. They often carry a lot of guilt about this and it becomes a self perpetuating issue because they’re afraid of the response they’ll get when they eventually do make contact again. You often won’t know what’s going on with them, they’ll just drop off the radar. But these people will need your friendship and support more than ever when they begin to engage with the world again. So if someone goes quiet don’t write them off as a ‘shitty friend’. Be open minded about their reasons, give them space, time and understanding, and be ready to pick up the threads again when they’re ready.
+
+(Citation needed for sub rules about health flair? Here’s an [NHS document](https://www.cpft.nhs.uk/download.cfm?ver=1738) that describes withdrawal from social activity as symptom of depression)
+
+url:https://reddit.com/r/YouShouldKnow/comments/kkhm94/
+author:shortercrust
+subreddit:YouShouldKnow
+score:67621
+numComments:1321
+isOver18:False
+hasPostBody:True

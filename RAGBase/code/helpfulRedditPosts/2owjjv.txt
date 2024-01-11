@@ -1,0 +1,13 @@
+title:
+YSK You will forfeit your return airline ticket if you do not make the departing flight.
+
+content:
+I just learned this a little too late.  After speaking with several representatives on a popular garden gnome-related airfare site, if you do not use the first ticket (to your destination) you are considered a No-show and your returning (back home) ticket is considered forfeit.
+
+url:https://reddit.com/r/YouShouldKnow/comments/2owjjv/
+author:darkhelmet41290
+subreddit:YouShouldKnow
+score:1129
+numComments:192
+isOver18:False
+hasPostBody:True

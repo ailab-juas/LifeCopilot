@@ -1,0 +1,41 @@
+title:
+LPT - If you notice a group of ants exploring your house but are unsure where they are coming from, gently poke/semi-squish a few of them with your finger and they will lead you back to their source.
+
+content:
+*Disclaimer: I base this purely on about a dozen instances of dealing with ants this year and some googling to figure out a way to find their source... So if someone has better info, please correct me.*
+
+------
+
+With that said, ants find food by sending out scouts who, by sheer determination and statistical inevitability, stumble across crumbs/food/water/etc. The whole time they are looking, they lay down a pheromone trail.
+
+Eventually, when one finds something, it follows its pheromone trail back to the nest, re-enforcing the trail, and notifying the colony that it found something. Then it returns back to the food (following its trail again), as do other ants, which re-enforces the trail's scent. Other ants that may have been out scouting may stumble across this strong trail and abandon their own in order to follow it.
+
+The result of this after a while is an efficient, organized line of ants traveling directly to the food from the colony. 
+
+However, ants also leave "warning pheromones" when they encounter a hazard. So by slightly squishing them, you can get them to run home while following their trail backwards. (**be careful not to move them when you press on them... if they can't find their trail, they will just run around chaotically**).
+
+The bad news: their trails can be relatively far... So it can take some time to monitor an ant that isn't near the source of entry. It has worked well for me in my bathroom where they keep finding new crevices to come out of.
+
+--------
+
+**UPDATE:** This going to the front page has resulted in 2 things: (1) me being outted as a monster, and (2) a lot of great pest control tips. 
+
+Here’s a summary of the good ones:
+
+* Several users, including /u/bike_fool, recommend something called “[Terro](http://www.amazon.com/TERRO-PreFilled-Liquid-Killer-Baits/dp/B000HJBKMQ/ref=sr_1_2?ie=UTF8&amp;qid=1395099055&amp;sr=8-2&amp;keywords=terro),” which, based on the reviews and the fact that it seems to be self contained makes it my #1 choice for the future (going to order some now).
+
+* /u/MadNachos recommends [Optigard](http://www.amazon.com/Optigard-Ant-Bait-Gel-~~Compares/dp/B003K8JDPM/ref=sr_1_1?ie=UTF8&amp;qid=1395098852&amp;sr=8-1&amp;keywords=optiguard) bait
+
+* Several users recommend diatomaceous earth or borax with sugar water as natural ways to deal with the issue.
+
+* /u/SnorriThorfinnsson uses “instant grits,” which apparently makes the ants explode later.
+
+
+
+url:https://reddit.com/r/LifeProTips/comments/20n22w/
+author:sirberus
+subreddit:LifeProTips
+score:2665
+numComments:505
+isOver18:False
+hasPostBody:True

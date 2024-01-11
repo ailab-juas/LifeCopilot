@@ -1,0 +1,13 @@
+title:
+LPT: The starting number in a zipcode in the US goes from the Northeast (0) to the West coast (9) so if you want to quickly estimate how far something is based on zipcode alone, just look at the first digit.
+
+content:
+This may be incredibly common knowledge to most people,  but after shipping things my entire adult life I *just* realized it.
+
+url:https://reddit.com/r/LifeProTips/comments/cqgu6m/
+author:sweetcuppingcakes
+subreddit:LifeProTips
+score:2240
+numComments:149
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+YSK You can see how US politicians/candidates get their campaign funds. Use OpenSecrets.org
+
+content:
+WHY: The midterm elections are here for some states and other state elections are soon coming. If a candidate or incumbent talks about a particular issue/bill, you can see if they stand to make any money from the bill. 
+
+Use:  https://www.opensecrets.org/
+
+url:https://reddit.com/r/YouShouldKnow/comments/8ijyvt/
+author:Cyire
+subreddit:YouShouldKnow
+score:10207
+numComments:158
+isOver18:False
+hasPostBody:True

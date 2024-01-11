@@ -1,0 +1,13 @@
+title:
+You should know to use the statistics section of a youtube video to check whether a video has been posted to reddit
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/17km11/
+author:rustlecrowe
+subreddit:YouShouldKnow
+score:1341
+numComments:83
+isOver18:False
+hasPostBody:False

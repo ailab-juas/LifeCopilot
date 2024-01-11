@@ -1,0 +1,19 @@
+title:
+YSK that fire extinguishers expire.
+
+content:
+Why YSK: Most people don’t realize this and it’s rare but if the extinguisher is out of date, it can malfunction when you need it. That can obviously be extremely dangerous. You can find the date on the tag attached to the top of the unit.
+
+“Although they don't have a true "expiration date," traditional fire extinguishers generally have a 10-12 year life expectancy. Disposable fire extinguishers should be replaced every 12 years. Rechargeable fire extinguishers should be taken to an experienced fire equipment company and recharged every 10 years.”
+
+Edit: Seems like the date could be in a few places. Could be on the tag, stamped into the body, on the adhesive label, and sometimes under the plastic ring surrounding the neck of the unit. 
+
+Source: https://support.firstalert.com/s/article/How-long-do-fire-extinguishers-last
+
+url:https://reddit.com/r/YouShouldKnow/comments/qjalo0/
+author:McBadPants
+subreddit:YouShouldKnow
+score:2998
+numComments:88
+isOver18:False
+hasPostBody:True

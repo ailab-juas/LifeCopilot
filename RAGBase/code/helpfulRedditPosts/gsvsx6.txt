@@ -1,0 +1,13 @@
+title:
+LPT: If someone is asking you to co-sign a loan with them, it's because they are viewed as a high risk by the lender and they can't afford/qualify for the loan on their own. If you are not comfortable with paying the entire balance by yourself, don't co-sign.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/gsvsx6/
+author:RallyX26
+subreddit:LifeProTips
+score:1822
+numComments:92
+isOver18:False
+hasPostBody:False

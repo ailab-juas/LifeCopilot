@@ -1,0 +1,15 @@
+title:
+YSK: You never have to enter your real email address when connecting to free WiFi (and you shouldn't)
+
+content:
+As you likely don't have internet access at the time you're connecting, there would be no way for you to verify that the email is actually yours. For that reason, there are no checks or verifications in place on the email you enter.
+
+Throw in the most ridiculous email address that comes to mind and you're good to go, spam free.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ax76sa/
+author:martybell
+subreddit:YouShouldKnow
+score:3885
+numComments:174
+isOver18:False
+hasPostBody:True

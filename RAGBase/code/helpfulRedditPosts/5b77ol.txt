@@ -1,0 +1,13 @@
+title:
+LPT: if an indoor cat gets outside and lost, put their litter box outside. They can smell it from up to a mile away and find their way home.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5b77ol/
+author:ShameYourBrains
+subreddit:LifeProTips
+score:39205
+numComments:1749
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,25 @@
+title:
+YSK about sleep apnea. A common medical issue, sleep apnea causes you to stop breathing while you sleep. The disorder affects millions and often goes undiagnosed. Serious sleep apnea can lead to an elevated risk for high blood pressure, diabetes, and more.
+
+content:
+Why YSK. [Sleep apnea](https://www.mayoclinic.org/diseases-conditions/sleep-apnea/symptoms-causes/syc-20377631) can negatively affect every aspect of your life. All people require regular sleep, and apnea can significantly decrease the amount and quality of your sleep.
+
+There are several forms of apnea, but a medical diagnosis is required for all of them. Common symptoms include:
+
+* Loud snoring
+* Episodes in which you stop breathing during sleep — which would be reported by another person
+* Gasping for air during sleep
+* Awakening with a dry mouth
+* Morning headache
+* Difficulty staying asleep (insomnia)
+* Excessive daytime sleepiness (hypersomnia)
+
+Sleep apnea is treatable, and often requires a take-home sleep study to diagnose.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ts619t/
+author:ButtholeBanquets
+subreddit:YouShouldKnow
+score:4879
+numComments:437
+isOver18:False
+hasPostBody:True

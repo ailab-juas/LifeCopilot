@@ -1,0 +1,15 @@
+title:
+YSK that, per U.S. fire code, exit/entrance doors on public buildings open out.
+
+content:
+Save yourself the embarrassment of pushing when you should have pulled.
+
+EDIT: There seems to be some confusion. This applies to all entrance and exit doors of public buildings over a certain occupancy (which can vary), not just fire exits. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/3vm7np/
+author:InaudibleDirge
+subreddit:YouShouldKnow
+score:1460
+numComments:170
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+LPT: Large candles have a minimum first burn time to prevent tunneling.
+
+content:
+The first burn is the most important. Candles should burn one hour for every 1 inch in diameter of the actual candle size. Therefore, a 4 inch diameter candle should burn for a minimum of 4 hours to liquefy the entire top layer of wax. If the wax is not allowed to liquefy or to melt from edge to edge of the jar or tumbler, it will create a 'memory ring,' especially if this is the first time the candle is lit. Once a candle has this 'memory ring,' it will continue to tunnel and to burn that way for the life of the candle.
+
+I learned this last year, and it has greatly improved my candle burning life. Not super exciting, but enjoy!
+
+url:https://reddit.com/r/LifeProTips/comments/gnop0f/
+author:Robotdeath
+subreddit:LifeProTips
+score:38637
+numComments:939
+isOver18:False
+hasPostBody:True

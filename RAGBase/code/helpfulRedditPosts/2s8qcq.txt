@@ -1,0 +1,13 @@
+title:
+YSK that stale bread isn`t from a loss of moisture but crystallization of the gelatin strands. Reheat the loaf of bread to 140°F/60°F and it will soften the bread again.
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/2s8qcq/
+author:orangek1tty
+subreddit:YouShouldKnow
+score:1850
+numComments:137
+isOver18:False
+hasPostBody:False

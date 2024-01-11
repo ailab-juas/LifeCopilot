@@ -1,0 +1,13 @@
+title:
+YSK that you can use ctrl + backspace to delete a whole word rather than a single character
+
+content:
+Try it!
+
+url:https://reddit.com/r/YouShouldKnow/comments/1hxuvw/
+author:cheezpuffs
+subreddit:YouShouldKnow
+score:1654
+numComments:135
+isOver18:False
+hasPostBody:True

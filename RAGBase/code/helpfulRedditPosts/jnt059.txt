@@ -1,0 +1,16 @@
+title:
+YSK: If you feel like you are being followed on the road. Take 5 consecutive left (or right) turns.
+
+content:
+Why YSK: If you are ever on the road and feel like the person behind you is following you and you are growing concerned. Take 5 consecutive left turns (or right if you’d prefer). If the car is still following you after you have done 5 consecutive turns you have basically done a full loop around the block and there is a very high chance that they infact are following you. 
+You should drive straight to your local police/law enforcement agency or call emergency services.
+
+Edit: A lot of people commenting that it should only be 4 turns. I was always told 5 as somebody could just be going around the block- but 5 turns will usually take you down a street you were just in.
+
+url:https://reddit.com/r/YouShouldKnow/comments/jnt059/
+author:J-R-Hudson
+subreddit:YouShouldKnow
+score:28087
+numComments:831
+isOver18:False
+hasPostBody:True

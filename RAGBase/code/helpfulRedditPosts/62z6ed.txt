@@ -1,0 +1,13 @@
+title:
+LPT: When you have a good idea, start it before telling someone what you're going to do
+
+content:
+If you want to share it, the energy you have for wanting to actually get the idea started will be gone as soon as you share it. Get the idea going and then share to get their input / feedback. 
+
+url:https://reddit.com/r/LifeProTips/comments/62z6ed/
+author:upupandadam
+subreddit:LifeProTips
+score:1890
+numComments:74
+isOver18:False
+hasPostBody:True

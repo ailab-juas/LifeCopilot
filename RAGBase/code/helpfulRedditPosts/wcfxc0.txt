@@ -1,0 +1,17 @@
+title:
+YSK: reverse image search with google app before you buy anything on Wayfair
+
+content:
+Why YSK: It will save you money.
+
+Wayfair has a deal with their suppliers that they can change they name of their items. If you try to search for said item you won’t find anything online. They do this purposefully so they can jack up the prices on you.
+
+We figured this out because we bought a Wayfair “exclusive” item. Didn’t even think to look elsewhere and then got the package and it had a completely different name. So we looked that up and the accent cabinets we bought were $75 cheaper on the Home Depot site. I’ve done this with multiple items since and have found every single item except one for cheaper.
+
+url:https://reddit.com/r/YouShouldKnow/comments/wcfxc0/
+author:Kgcampbell
+subreddit:YouShouldKnow
+score:15094
+numComments:526
+isOver18:False
+hasPostBody:True

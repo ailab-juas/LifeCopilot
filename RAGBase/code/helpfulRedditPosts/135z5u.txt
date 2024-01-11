@@ -1,0 +1,31 @@
+title:
+LPT: How to write an essay quickly and efficiently!
+
+content:
+I am a history major at a large university. Writing papers is practically all of my school work. I receive As on all my essays, except for the one time I got ten percent knocked off for forgetting the title (remember the title, please). Over time, I have discovered ways that you all may or may not know. This is obviously for research-based essays.
+
+*I have made edits based on popular suggestions!*
+
+* First of all, know your professor or the AI grading it. Write papers according to what they want.
+
+* Organize your sources. If you are given a list of sources you can use, determine which book is a primary source or secondary source. The secondary source book (typically the textbook of the class if that is allowed) will be the basis of your essay. You will compliment it with primary sources and then embellish with a few points from lecture. *IF* your textbook is a real textbook (a book intended for covering a subject and published by a textbook publisher), then you never use it. If the books for your class are scholarly works by an individual (or sometimes two or three) professionals in the field, then you can use it. (That was what I meant by textbook).
+
+* When you write, dig through the book for all the chapters covering your subject. Start off with that secondary source book and write from it. Go back and add in the primary sources or additional secondary sources, then embellish with lecture points. Focusing on one book initially helps you to get the point across and then you can go back and elaborate or add sources to get the page/word count.
+
+* ~~Use your lectures as a source! Professors and the TAs that will most likely be grading the essay like seeing that you paid attention in class.~~ Only do this if the professor asks for it or you know it will be fine.
+
+* If you cannot use your textbook, but you can use your own sources, find another book similar to your textbook. Mostly, this works for history papers. Can't use your *A History of the Roman People* textbook for the paper? Then use *History of Rome*.
+
+* Do not waste time on footnotes when you are writing your essay. Instead, do this: If I am quoting from an author named Ward on page 232, type (w232). After you are done, go back and do your footnotes. Obviously, if you are using another author with the same last initial, make sure the include the first initial so you do not get confused and misattribute a quote. While trying to figure out the footnotes in Word, you can lose your momentum or a great idea.
+
+* As for the dreaded length requirements: learn to be eloquent. I like to write fantasy stories, so this is a developed skill. Right now, I am being concise for obvious reasons.  Unless your professor allows it, do not quote entire paragraphs from your sources word for word. This makes it too obvious that you are doing your paper last minute. Instead, summarize what you read in your own words and then put in your citation after you have completed summarizing. This is the easiest way to gain length, since a research essay is just a collection of sources regurgitated into a coherent paper.
+
+* Lastly, choose a topic with widely available information that is easy to understand. I was given a list for my Roman history paper with topics such as slavery, economics, and wars. While I love studying Roman warfare, it is a broad topic that is often confusing. Instead, I went with religion and culture. Why? The information is straightforward and easy to find. The aforementioned book *A History of the Roman People* has chapters dedicated to those subjects divided from the rest of the information, making it incredibly easy to find.
+
+url:https://reddit.com/r/LifeProTips/comments/135z5u/
+author:[deleted]
+subreddit:LifeProTips
+score:1253
+numComments:187
+isOver18:False
+hasPostBody:True

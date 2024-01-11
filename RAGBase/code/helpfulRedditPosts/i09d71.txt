@@ -1,0 +1,13 @@
+title:
+LPT: Your tastebuds will change over time. Foods you used to hate will suddenly taste great to you and vice-versa as you mature. Take advantage of this by trying food you think you don’t like every once in a while. You may find your new favorite!
+
+content:
+I used to abhor onions, but in the last year or so I have found myself really liking them. All the sudden, I have new ways to enjoy burgers, sandwiches, and salads that I never would have before. Give them a try!
+
+url:https://reddit.com/r/LifeProTips/comments/i09d71/
+author:TheStant
+subreddit:LifeProTips
+score:1417
+numComments:147
+isOver18:False
+hasPostBody:True

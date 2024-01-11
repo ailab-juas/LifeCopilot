@@ -1,0 +1,13 @@
+title:
+YSK if you want to listen to music or an audiobook on your iPhone or iPad before you go to sleep, you can have it turn off automatically using the clock app.
+
+content:
+All you have to do is go to the Timer section, go to “When Timer Ends” and scroll all the way down to the bottom and press “Stop Playing”
+
+url:https://reddit.com/r/YouShouldKnow/comments/9s94f8/
+author:Muskrat777
+subreddit:YouShouldKnow
+score:4228
+numComments:82
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+YSK about the better/more effective version of Google Translate: Deepl.com
+
+content:
+The drawback is less available languages. But [Deepl.com](https://Deepl.com) is ''trained'' to accurately translate large sections of texts. It has helped me understand scientific papers much better!
+
+Some more background info:  [https://mastercaweb.u-strasbg.fr/2018/12/deepl-vs-google-translate-a-modern-day-david-and-goliath?lang=en](https://mastercaweb.u-strasbg.fr/2018/12/deepl-vs-google-translate-a-modern-day-david-and-goliath?lang=en)
+
+url:https://reddit.com/r/YouShouldKnow/comments/e5g0b6/
+author:HelixR
+subreddit:YouShouldKnow
+score:17018
+numComments:445
+isOver18:False
+hasPostBody:True

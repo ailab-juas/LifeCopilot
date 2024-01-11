@@ -1,0 +1,17 @@
+title:
+LPT: When hiring a virtual worker ( Freelancer.com, Fiverr.com, etc), always bury a code word in the request to ensure they have read your request
+
+content:
+ I  have been ordering a number of projects off both sites this week  (Fiverr and Freelancer), and am always amazed how many gig workers will  bid on the title alone, without reading the actual details of the request.
+
+My  strategy (not original to me, though I can't remember where I read this advice) is to add a sentence, three-quarters of the way through the task  description, telling them that their bid will not be considered unless  they include some random word that I name:  like "GLASSES" or "TUGBOAT" or  "SUNSHINE".
+
+Then when reviewing  bid submissions, unless there is some compelling reason not to, I delete  every bid that doesn't include that word.  On my last request  (tonight), I deleted 12 of 19 bids, then focused on the 7 remaining  bidders, *who actually READ my request*, and selected an amazingly talented and detail oriented producer to deliver this next project, knowing he already fully understood what I wanted delivered.
+
+url:https://reddit.com/r/LifeProTips/comments/gnp4w7/
+author:RandomContent0
+subreddit:LifeProTips
+score:13995
+numComments:464
+isOver18:False
+hasPostBody:True

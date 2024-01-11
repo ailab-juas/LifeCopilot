@@ -1,0 +1,13 @@
+title:
+LPT: If you're new to a city or trying to make new friends, volunteer for a cause that's related to your hobbies or something you're interested in. People who volunteer tend to be good people, and if you pick a non profit or cause that interests you, you'll likely share other interests as well.
+
+content:
+Also, volunteer regardless. It's very rewarding!
+
+url:https://reddit.com/r/LifeProTips/comments/5ti88g/
+author:zigzagcow
+subreddit:LifeProTips
+score:1696
+numComments:77
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,19 @@
+title:
+LPT: Google Wallet can be used for converting prepaid Visa/Mastercard gift cards back into cash
+
+content:
+From: http://reddit.com/r/Android/comments/1tpkzz/protip_google_wallet_can_be_used_for_converting
+
+&gt; Having received my physical Google Wallet card, I've begun to leave all my other credit cards at home and solely carry around my GW card, transferring cash onto my Wallet balance from my phone when needed and then withdrawing the funds at an ATM.
+
+&gt; Discovered that prepaid Visas and Mastercard can be added directly to your Wallet account, which can then be used to withdraw cash from ATMs. Especially useful right now since Wallet waives the transfer fees [for the first $250. After that it's 2.9% to transfer plus any prepaid purchase fee].
+
+http://google.com/wallet
+
+url:https://reddit.com/r/LifeProTips/comments/1tq8zk/
+author:retrac1324
+subreddit:LifeProTips
+score:2730
+numComments:380
+isOver18:False
+hasPostBody:True

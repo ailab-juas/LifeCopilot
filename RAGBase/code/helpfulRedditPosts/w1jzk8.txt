@@ -1,0 +1,13 @@
+title:
+LPT: As tempting as it is to keep windows open during a heat wave, if you have no air conditioning in your house close all windows and shades that are sun-facing.
+
+content:
+Once the weather starts to get warmer in the morning it’s best to shut your house up and keep any cool air from the night trapped in your house. Once it cools down at night, set fans in your windows and blast the cooler air in. Repeat until heat wave has passed.
+
+url:https://reddit.com/r/LifeProTips/comments/w1jzk8/
+author:RoseyPosey30
+subreddit:LifeProTips
+score:22835
+numComments:840
+isOver18:False
+hasPostBody:True

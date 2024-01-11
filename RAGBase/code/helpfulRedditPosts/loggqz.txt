@@ -1,0 +1,15 @@
+title:
+YSK: Positive reinforcement goes a long way.
+
+content:
+Why YSK: praise is one of the main drivers in human psychology. We focus too often on scolding or pointing out the wrongs, but very rarely make others notice their rights. In arguments, take time to acknowledge and praise intellectual honesty or the admission of a mistake. It will make the conversation way easier and more productive, making you look like a good listener and a fair debater. With kids, compliment them when they do the right thing rather than waiting for an error. Learning goes both ways, and it's much more effective when people feel pride rather than shame.
+
+EDIT: grammar
+
+url:https://reddit.com/r/YouShouldKnow/comments/loggqz/
+author:JeanValjean1789
+subreddit:YouShouldKnow
+score:18366
+numComments:306
+isOver18:False
+hasPostBody:True

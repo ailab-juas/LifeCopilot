@@ -1,0 +1,13 @@
+title:
+YSK if you decide to help a turtle cross the road, always move him in the direction he was heading, even if it's away from the water.
+
+content:
+She is likely laying eggs, and will go back the same way, making it more likely to get ran over, and making her journey more taxing than necessary. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/332gpc/
+author:walkinthecow
+subreddit:YouShouldKnow
+score:1290
+numComments:122
+isOver18:False
+hasPostBody:True

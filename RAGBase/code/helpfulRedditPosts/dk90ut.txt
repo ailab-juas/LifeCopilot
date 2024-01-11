@@ -1,0 +1,13 @@
+title:
+YSK that if you find a wallet, you can put it in any USPS box, and they'll send it to the address on the driver's liscense at no cost
+
+content:
+I just found this out a little over a year ago, and I think more people need to know so you don't just mindlessly try to find the owner
+
+url:https://reddit.com/r/YouShouldKnow/comments/dk90ut/
+author:myname_isben
+subreddit:YouShouldKnow
+score:16755
+numComments:297
+isOver18:False
+hasPostBody:True

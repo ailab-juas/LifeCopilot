@@ -1,0 +1,13 @@
+title:
+LPT: The first thing you should print after purchasing a 3D printer is replacement parts for said printer
+
+content:
+That way if one piece breaks, you can easily swap it out without having to order a part. Most 3D printers have at least a half dozen parts built from 3D printed parts. Also, make sure that the first thing you print after replacing a part is another one of those parts.
+
+url:https://reddit.com/r/LifeProTips/comments/4nln4u/
+author:cazantyl
+subreddit:LifeProTips
+score:5981
+numComments:1361
+isOver18:False
+hasPostBody:True

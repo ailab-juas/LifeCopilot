@@ -1,0 +1,13 @@
+title:
+YSK that there is a website that helps you find the most perfect color combinations and color schemes
+
+content:
+It's called the [Color Calculator](https://www.sessions.edu/color-calculator/) and you can have up to 4 color combinations. This website has helped me a lot when choosing colors for art pieces and can be used for any situation where you need some colors. Just choose what color you know you want and what harmony you want and boom, a perfect color scheme.
+
+url:https://reddit.com/r/YouShouldKnow/comments/g4j55n/
+author:InvisibleLemons
+subreddit:YouShouldKnow
+score:1551
+numComments:24
+isOver18:False
+hasPostBody:True

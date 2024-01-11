@@ -1,0 +1,20 @@
+title:
+YSK to never search for a domain name you want to purchase using a Domain Registrar
+
+content:
+**Why YSK:** Domain Registrars such as [GoDaddy.com](https://GoDaddy.com) have been known to be shady and purchase websites people search for shortly after they search for them.
+
+To purchase a website bought by a Domain Registrar you will need to go to a bidding war with them. Bidding typically starts at $199 and to submit an offer you typically need to use an agent to do the bidding on your behalf, starting at $19.99 per bid and the agent also requires 20% of the purchase amount as commission.
+
+**Solution**  
+Using a neutral domain registration lookup tool like [https://whois.icann.org/en](https://whois.icann.org/en), you can safely verify if the domain exists, who if anyone has purchased it and when. Then if you decide to purchase it, do it in one lookup on the same day.
+
+Edit: removed namecheap.com as they are legit. Issue seems to be with godaddy.com.
+
+url:https://reddit.com/r/YouShouldKnow/comments/rudsdb/
+author:kingjvv
+subreddit:YouShouldKnow
+score:5721
+numComments:223
+isOver18:False
+hasPostBody:True

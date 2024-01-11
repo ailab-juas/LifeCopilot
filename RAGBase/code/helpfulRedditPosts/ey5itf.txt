@@ -1,0 +1,13 @@
+title:
+LPT: When moving into a new place always test the water
+
+content:
+You can get test strip kits online or in hardware stores. You never really know what will be coming out of the tap unless you test it. There could be pipe damage that even the landlord or previous owners were unaware of.
+
+url:https://reddit.com/r/LifeProTips/comments/ey5itf/
+author:lesllle
+subreddit:LifeProTips
+score:1557
+numComments:132
+isOver18:False
+hasPostBody:True

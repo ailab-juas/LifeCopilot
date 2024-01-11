@@ -1,0 +1,13 @@
+title:
+YSK up until December 12 th, you can get a Whopper for 1¢ from Burger King if you order it on their app within 600 ft of a McDonald's location
+
+content:
+It's a new promotion they're doing and you can only fulfill this once. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/a3osze/
+author:elcielo17
+subreddit:YouShouldKnow
+score:13444
+numComments:599
+isOver18:False
+hasPostBody:True

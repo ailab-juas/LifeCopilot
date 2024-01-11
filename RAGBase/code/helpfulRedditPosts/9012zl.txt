@@ -1,0 +1,19 @@
+title:
+YSK that AT&amp;T might be changing your account plans and charging you extra without your knowledge
+
+content:
+This month I noticed my AT&amp;T bill was slightly higher than last month's, by about $5. I looked into it and it turned out they had changed my wireless plan, without my prior knowledge or consent, and had the nerve to charge me for it.
+
+I spoke with a representative and they said that the company does this to "keep up with today's trends" of apps requiring more and more data usage, and to "protect their customers" from going over their data limit, which results in a network speed slowdown until the next billing cycle.
+
+It'd be one thing if they did it for free, out of courtesy. But the fact that they're doing it behind customers' backs and charging for it is unacceptable and opens the door to other things like this (or worse) in the future.
+
+If you're an AT&amp;T customer, watch your bill closely from month to month and make sure it's consistent. If they try to pull this with you, you can tell them to switch it back and ask for a refund or credit for the difference on your next bill.
+
+url:https://reddit.com/r/YouShouldKnow/comments/9012zl/
+author:systembusy
+subreddit:YouShouldKnow
+score:4207
+numComments:213
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: When buying a car, don’t be tempted by any offer of free oil changes. Dealership oil changes take a lot longer than quick lube joints, and you’ll find yourself waiting 4-10 times longer and have to schedule your entire day around oil changes.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/rgyihe/
+author:Drumlin
+subreddit:LifeProTips
+score:3483
+numComments:612
+isOver18:False
+hasPostBody:False

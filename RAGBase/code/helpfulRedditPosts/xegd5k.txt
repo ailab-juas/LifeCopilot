@@ -1,0 +1,13 @@
+title:
+LPT: Practice swearing less to those you talk to often. When you do choose to use a swear word, it’ll have more of an impactful effect.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/xegd5k/
+author:whatdontyousee
+subreddit:LifeProTips
+score:6491
+numComments:416
+isOver18:False
+hasPostBody:False

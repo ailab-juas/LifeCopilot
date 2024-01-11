@@ -1,0 +1,14 @@
+title:
+LPT: Stop doing other people’s jobs for them. It doesn’t make you a team player, it just adds to your workload.
+
+content:
+If you have a coworker, or manager that isn’t doing their job. Let them fail. If they ask for help, point them to information that will help them with the problem, but don’t do their work. 
+If you do their work, all it will get you is their work and yours. Your manager will not promote you or give you a raise for it, they might even hold you back from promotions because you are too valuable to let go of.
+
+url:https://reddit.com/r/LifeProTips/comments/rs5h7b/
+author:notthatguytheother1
+subreddit:LifeProTips
+score:17972
+numComments:444
+isOver18:False
+hasPostBody:True

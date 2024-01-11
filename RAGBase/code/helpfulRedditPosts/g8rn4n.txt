@@ -1,0 +1,13 @@
+title:
+YSK if your car blinker is blinking twice as fast as usual, it means a blinker on that side is out.
+
+content:
+Save yourself the ticket and go get that bulb changed!
+
+url:https://reddit.com/r/YouShouldKnow/comments/g8rn4n/
+author:skepticallincoln
+subreddit:YouShouldKnow
+score:28176
+numComments:698
+isOver18:False
+hasPostBody:True

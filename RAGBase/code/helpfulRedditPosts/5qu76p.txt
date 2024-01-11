@@ -1,0 +1,15 @@
+title:
+YSK Who your congressmen/women are and how to reach them
+
+content:
+Regardless of what your political affiliation is, people are elected to voice your opinions and represent your interests as to what our government should or should not be doing.  [The House of Representatives](http://www.house.gov/representatives/find/) allows you to look up your representative if you don't know who it is just by typing in your zip code, and gives you a link to email them as well as a link to their website (which usually includes their mailing address, phone number, fax number, office hours, etc).  A similar site exists for [your senators (in case you forgot, you have two of these), sorted by state](https://www.senate.gov/general/contact_information/senators_cfm.cfm).  
+
+On a similar note, if you want to know how your voice has been represented historically by these people, [Congress keeps track of bills and who votes how](https://www.congress.gov/), as well as sites like [GovTrack](https://www.govtrack.us/).  If you want to reach the people who represent you at the state and local level, [usa.gov has you covered with ways to look up and get in touch with them as well](https://www.usa.gov/elected-officials ).  
+
+url:https://reddit.com/r/YouShouldKnow/comments/5qu76p/
+author:IokepaKaimana
+subreddit:YouShouldKnow
+score:3590
+numComments:122
+isOver18:False
+hasPostBody:True

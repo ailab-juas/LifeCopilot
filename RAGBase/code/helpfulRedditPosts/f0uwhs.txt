@@ -1,0 +1,15 @@
+title:
+YSK that lighter roast coffee has more caffeine than darker roasts.
+
+content:
+Dark roasts have a more ‘powerful’ and bitter flavor that many falsely associate with caffeine potency. Lighter roasts actually have more caffeine than darker roasts and have higher acidity levels as well.
+
+Edit: source: https://www.thecoffeemaven.com/light-roast-vs-dark-roast-coffee/#the_light_roast
+
+url:https://reddit.com/r/YouShouldKnow/comments/f0uwhs/
+author:Reverenter
+subreddit:YouShouldKnow
+score:1265
+numComments:66
+isOver18:False
+hasPostBody:True

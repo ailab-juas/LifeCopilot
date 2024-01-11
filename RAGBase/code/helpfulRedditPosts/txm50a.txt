@@ -1,0 +1,21 @@
+title:
+YSK that income tax in the US is progressive. This means that the incomes are grouped into brackets, and each bracket has a tax that applies ONLY TO THE MONEY IN THAT BRACKET. So, if you get a raise and go into a higher bracket, the higher rate does not apply to all your income.
+
+content:
+**Why YSK.** With taxes almost due, and with income tax being complicated enough, it's important to know that there's a common misperception that going into a higher bracket might mean you make less money overall. This is *NOT* the case. If you go into a higher bracket with a higher tax rate, that rate applies only to the money you earn in that bracket. The money you earn in the lower bracket is still taxed at the lower bracket's rate. 
+
+To understand this let's use a simplified example. Let's say there are two tax brackets and rates. Up to $50,000 in income is taxed at 10%, and anything over $50,000 is taxed at 30%. Let's say you currently earn $50,000. As you're in the 10% bracket, you have to pay $5,000 in taxes, so your take home, or net, pay is $45,000. (Again, greatly simplified.)
+
+This year you get a $10,000 raise. You're now earning $60,000, putting you in the 30% bracket. Does that mean you're now going to pay 30% of $60,000, or $18,000 total, and have a net income of $42,000? In other words, did your raise mean you earn less this year?
+
+**No.** You'll pay 10% of the first $50,000 ($5,000) and 30% of the next $10,000 ($3,000), for a total of $8,000, leaving you with a net of $52,000. 
+
+So, even if your income has increased and put you in a higher bracket, you're not going to have a decrease in net income. Of course, there are a lot of factors that can affect your total tax liability. If you're ever unsure of what your tax liability is or what your obligations are, always talk to a professional. As in, a real accountant, tax attorney, or some other competent professional. A lot of "tax preparers" know barely anything, and can end up costing you more. Also, if you make less than $54,000 a year, are a senior, have a disability, or do not speak English well, you can often find volunteer (free) tax assistance from experienced tax professionals through the Federal government's [Volunteer Income Tax Assistance (VITA) program](https://www.benefits.gov/benefit/1543).
+
+url:https://reddit.com/r/YouShouldKnow/comments/txm50a/
+author:ButtholeBanquets
+subreddit:YouShouldKnow
+score:11973
+numComments:536
+isOver18:False
+hasPostBody:True

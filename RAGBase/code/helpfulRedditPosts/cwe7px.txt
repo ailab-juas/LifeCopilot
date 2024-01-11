@@ -1,0 +1,16 @@
+title:
+YSK TurboTax is legally required to offer a free option for people making less than $66k/yr
+
+content:
+However....they go far out of their way to make sure you can't find it.
+Here's a good link that details both the deceptive practices as well as where to find the tool, if you qualify.
+
+Edit: forgot the link. lol. https://www.propublica.org/article/turbotax-just-tricked-you-into-paying-to-file-your-taxes
+
+url:https://reddit.com/r/YouShouldKnow/comments/cwe7px/
+author:kryptos68
+subreddit:YouShouldKnow
+score:14831
+numComments:365
+isOver18:False
+hasPostBody:True

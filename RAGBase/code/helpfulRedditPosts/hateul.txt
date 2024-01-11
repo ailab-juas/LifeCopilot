@@ -1,0 +1,48 @@
+title:
+YSK when trying to change someone else's mind, there are three argument styles to use. Which one is most effective depends on how the other person came to their beliefs.
+
+content:
+When you come up against someone who believes something different than you, and you want to try and talk them out of their belief, it’s important to realize they likely came to their viewpoint on the topic differently than you came to yours. There are three main ways people come to beliefs, and as such there are three main ways you can go about arguing against them. **People come to believe certain things by logic, authority, or values. To give a convincing argument, you need to base it on the same thing: logic, authority, or values.** 
+
+**Logic:**
+
+This is the easiest one to argue against. When you present a group of people with a logic puzzle, and then present the solution, nobody generally argues with the solution because everyone started with the same information and can follow the thought process that led to the solution. To try convincing someone out of a viewpoint they arrived at by logic:
+
+* Ask the other person how they came by this belief and try to follow their train of thought. Don’t interrupt, except to ask for clarification.
+* Make sure that both of you have the same information to start from. Perhaps there’s something one of you didn’t know that makes the difference.
+* Keep track of any assumptions you both are making. If one of the other person’s assumptions about how the world works doesn’t hold up, call it into question. If you’re making an assumption that the other person isn’t making, explain why you think it’s a reasonable one.
+* Watch for common [logical fallacies](https://yourlogicalfallacyis.com/) in the other person’s argument. (and in your own)
+
+**Authority:**
+
+Like it or not, this is the way most of your beliefs about the world are initially formed. How do we know facts we can’t see like “the Earth goes around the Sun” or “the mitochondria is the powerhouse of the cell”? Well, we’re told them by an authority on the subject, usually a teacher. This is why people like flat-earthers or anti-vaxxers, who try to dispute beliefs commonly held as facts, start by trying to discredit the authorities. They call into question whether you can trust teachers or researchers. To try convincing someone out of a viewpoint they arrived at by authority:
+
+* First, and most important, get the sources the other person is basing their beliefs on. Preferably, get the source that they feel the strongest tied to, which can very often be their first exposure to the topic. 
+   * To get that source, don’t ask the other person to “show me some evidence” or some such. Ask them how they first came by this belief and let them talk about their journey to their viewpoint. They’ll likely bring it up themselves.
+* Once you have the sources, ask questions. Why do they trust this source? Are there others they find more reputable? What else have the creators of that source written or said? 
+* Identify any potential bias in their source. (ex: Do the writers have any conflicts of interest? Why did they write that article?) Call this into question. 
+* If the creators of the source have said or written anything that contradicts that source, bring that up. 
+* If asked for your own source, provide one if you can and explain why you believe that authority can be trusted. (If you arrived at your belief through logic or values, providing a source may be difficult.) 
+* Do *not* try to force a source the other person doesn’t trust down their throat. In fact, it’s best to wait until the other person asks for a source to even provide one.
+
+**Values:**
+
+This one’s the hardest, as different people have such wildly different values and priorities. As such, trying to change an opinion that’s based on a person’s values can be very tricky if you don’t know how they see the world. They might consider some parts of an issue more or less important than you might. This type of discussion is most likely to lead to an “agree to disagree” scenario. To try convincing someone out of a viewpoint they arrived at by values:
+
+* Ask the other person how they came by this belief and let them tell you the values they hold that led them to their viewpoint. Don’t interrupt, except to ask for clarification. 
+* Make your argument based on values the other person holds highly. Do not try to base your argument on something the other person doesn’t care about. (i.e. if someone isn’t religious, any argument involving spirituality will likely fall on deaf ears. If someone doesn’t value fairness very highly, arguments about helping those who are disadvantaged won’t be as effective.)
+* Is there another belief or value the other person holds highly that might clash with their view? Bring it up and ask how these thoughts mesh together in their mind.
+* If asked, explain your own values on the topic. Try to avoid soapboxing. This discussion should be about the other person's beliefs, not yours.
+* As a last resort, call their value into question. Ask the other person why they prioritize one core part of their belief over another. This is not likely to work, as people's values are generally extremely resistant to change, but it gives everyone involved something to think over. 
+
+&amp;#x200B;
+
+There are some common threads to these. In changing someone’s mind, questions are key. Ask for someone else’s viewpoint before giving your own. Asking *how* they came to their view is often better than asking *why* they believe it. Keep in mind how you came to your own belief and how that differs from the other person’s thought process. And, of course, don’t expect them to flip their stance on the spot. Changing someone’s mind takes time and, in the end, you cannot drag someone to a new conclusion. They have to come to it themselves. If you give a convincing argument, you can introduce doubt into their belief and help them on their way to changing their view. That is what success looks like.
+
+url:https://reddit.com/r/YouShouldKnow/comments/hateul/
+author:hilfigertout
+subreddit:YouShouldKnow
+score:2709
+numComments:70
+isOver18:False
+hasPostBody:True

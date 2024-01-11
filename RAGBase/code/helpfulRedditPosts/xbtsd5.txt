@@ -1,0 +1,14 @@
+title:
+LPT: You can read all the banned books online for free
+
+content:
+The one tip book burners don’t want you to know! There is a free archive of most banned books where you can read them unrestricted! 
+[Free Banned Book Archive](https://archive.org/details/bannedbooks)
+
+url:https://reddit.com/r/LifeProTips/comments/xbtsd5/
+author:aMaG1CaLmAnG1Na
+subreddit:LifeProTips
+score:3815
+numComments:185
+isOver18:False
+hasPostBody:True

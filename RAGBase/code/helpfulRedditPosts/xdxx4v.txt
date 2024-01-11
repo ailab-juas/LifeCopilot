@@ -1,0 +1,13 @@
+title:
+LPT: Open VLC and drag a youtube link to it. It'll play in VLC (with all the capabilities of VLC), and it'll skip ads.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/xdxx4v/
+author:Eoussama
+subreddit:LifeProTips
+score:50093
+numComments:1972
+isOver18:False
+hasPostBody:False

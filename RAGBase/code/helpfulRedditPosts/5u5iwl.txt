@@ -1,0 +1,13 @@
+title:
+LPT: When going on a vacation, plan something exciting for when you return. It will likely make it easier for you to relax and enjoy your vacation rather than dreading it coming to an end.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5u5iwl/
+author:22FrostBite22
+subreddit:LifeProTips
+score:12959
+numComments:621
+isOver18:False
+hasPostBody:False

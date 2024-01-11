@@ -1,0 +1,13 @@
+title:
+LPT: Hold down the space bar on your phone’s keyboard, then slide your finger in any direction to easily reposition your cursor to make changes.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/j991iw/
+author:soft_bespoken
+subreddit:LifeProTips
+score:3283
+numComments:245
+isOver18:False
+hasPostBody:False

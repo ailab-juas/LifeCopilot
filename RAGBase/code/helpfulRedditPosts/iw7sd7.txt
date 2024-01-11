@@ -1,0 +1,17 @@
+title:
+LPT: If you struggle in job interviews, take a personality test beforehand. Use language from your results to prepare for common questions about strengths, weaknesses, working with others, etc.
+
+content:
+I'm a weirdo that really enjoys conducting interviews. As an interviewer, we are looking for candidates to answer questions as clearly, concisely, and concretely as possible. The strongest responses cite specific examples as evidence, whereas the weakest ones usually answer in vague, generic terms. 
+ 
+My favorite assessments are MBTI (16 Personalities) and Clifton Strengths (StrengthsFinders), and there are free versions available online. They provide detailed reports that describe your strengths and weaknesses, your ideal working environment, how you like to be managed, how you interact with others, how you handle stress, how you like to be appreciated, etc. Use these reports to come up with examples from your own life. 
+
+On a final note, even though I enjoy interviews, I've also sat on the other side of the table and experienced that awful moment when your mind draws a blank, you word vomit a nonsensical answer, only to have the perfect response pop into your brain right before bed. Prepping for an interview is not "cheating." Take the time to jot down some key talking points and questions for the interviewer and bring the notes with you. If you get really nervous, practice in the shower or in front of a mirror so it feels more comfortable in the moment.
+
+url:https://reddit.com/r/LifeProTips/comments/iw7sd7/
+author:djryce
+subreddit:LifeProTips
+score:1900
+numComments:85
+isOver18:False
+hasPostBody:True

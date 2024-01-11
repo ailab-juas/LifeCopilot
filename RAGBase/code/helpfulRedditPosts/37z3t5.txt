@@ -1,0 +1,15 @@
+title:
+YSK when applying for an internal position in a company... write a brand new résumé
+
+content:
+HR already has your old résumé on file, so the idea is to show them that you've made significant progress since the initial hiring. It's much better to use your last résumé as a reference document... and re-write the new one from scratch. If you don't, you might end up looking like the perfect candidate for your *current* position - awkward.
+
+Your focus should be on where you want to go rather than where you have been. ([source.](https://www.vmsolu.com/how-to-prepare-a-resume-for-an-internal-job/))
+
+url:https://reddit.com/r/YouShouldKnow/comments/37z3t5/
+author:svpotter
+subreddit:YouShouldKnow
+score:1861
+numComments:64
+isOver18:False
+hasPostBody:True

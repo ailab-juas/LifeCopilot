@@ -1,0 +1,29 @@
+title:
+YSK Come 1/22/18, residents of nine states will need a passport to board any flight, domestic or international
+
+content:
+The nine states are:
+
+Kentucky
+Maine
+Minnesota
+Missouri
+Montana
+Oklahoma
+Pennsylvania
+South Carolina
+Washington
+
+Each of these states does not currently issue a state ID that lives up to federal ID minimum security requirements, according to the REAL ID Act of 2005. 
+
+Green cards and military IDs will work too.
+ 
+[9 States Will Require Passports for Domestic Flights Within the U.S.](http://www.esquire.com/lifestyle/a13027232/new-passport-rules-domestic-flights/)
+
+url:https://reddit.com/r/YouShouldKnow/comments/76twg5/
+author:cjruk1
+subreddit:YouShouldKnow
+score:2004
+numComments:181
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Shift + Delete erases embarassing suggestions in your browser.
+
+content:
+Use arrow keys to select the suggestion, then hit Shift + Delete to erase them.
+
+url:https://reddit.com/r/LifeProTips/comments/17e9sw/
+author:[deleted]
+subreddit:LifeProTips
+score:2939
+numComments:318
+isOver18:False
+hasPostBody:True

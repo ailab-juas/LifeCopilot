@@ -1,0 +1,18 @@
+title:
+LPT: Accidentally close out a tab you were using? Don't fret. You can press Ctrl+Shift+T to bring it right back!
+
+content:
+Furthermore, if you close out a whole window, just reopen the browser you were using and press Ctrl+Shift+T. The whole window will be restored.
+
+
+
+
+EDIT: As u/SmileFirstThenSpeak reminded me, if you keep pressing Ctrl+Shift+T, it'll keep going back and opening older tabs, so if you need a tab you closed like 5 tabs ago, you can press it five times.
+
+url:https://reddit.com/r/LifeProTips/comments/elrhpf/
+author:RandomlyAxis
+subreddit:LifeProTips
+score:3021
+numComments:222
+isOver18:False
+hasPostBody:True

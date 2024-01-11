@@ -1,0 +1,13 @@
+title:
+LPT: That money that scientific journals charge you to read a paper goes 100% to the Publisher, 0% to the Authors. If you just email us to ask for our papers, we are allowed to send them to you for free!
+
+content:
+There are a few exceptions, but most will send them to you for free, and will be genuinely delighted to do so.
+
+url:https://reddit.com/r/LifeProTips/comments/sq6r1n/
+author:sonicyeayea
+subreddit:LifeProTips
+score:57131
+numComments:755
+isOver18:False
+hasPostBody:True

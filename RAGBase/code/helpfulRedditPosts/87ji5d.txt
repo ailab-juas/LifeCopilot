@@ -1,0 +1,13 @@
+title:
+LPT — Quickly find out whether a power outage is affecting your neighbors too by whipping out your phone and scanning for Wi-Fi networks. If there's a lot less networks than normal, your neighbors' power is probably out too.
+
+content:
+Generally, no power = no router = no Wi-Fi = no fun.
+
+url:https://reddit.com/r/LifeProTips/comments/87ji5d/
+author:751assets
+subreddit:LifeProTips
+score:37146
+numComments:1484
+isOver18:False
+hasPostBody:True

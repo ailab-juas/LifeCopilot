@@ -1,0 +1,13 @@
+title:
+LPT: a Word or any Office file is a zip in disguise
+
+content:
+Just rename your file from .docx to .zip and open it. You will get a  folder of all the stuff inside the doc, like all the images and some crazy xml content. This saves a lot of time. All of the Office files that end  with ‘x’ (.DOCx, .PPTx, .XLSx) are built on an XML foundation and can be opened that way. If you get an older file (.doc) just open in Word and  “save as” a docx file to get an unzippable file.
+
+url:https://reddit.com/r/LifeProTips/comments/g3ntzq/
+author:karloproducer
+subreddit:LifeProTips
+score:38207
+numComments:1136
+isOver18:False
+hasPostBody:True

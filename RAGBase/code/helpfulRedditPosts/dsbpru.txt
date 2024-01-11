@@ -1,0 +1,15 @@
+title:
+YSK: If you’re filling out a customer service survey, the only person affected by the score is most likely the lowest level person you worked with. If you are treated unfairly by a company, contact the corporate office directly to get the problem fixed.
+
+content:
+Example 1: If you go to a big chain pharmacy and the pharmacist is unprofessional, putting low marks on the survey will only affect the cashier who rang you out. 
+
+Example 2: if you’re angry about your ISP’s quality or pricing or hold times, marking the survey with a low score will only hurt the poor call center worker who answered the phone. The people who control the staffing, pricing, or business practices of the company will never read your survey comments.
+
+url:https://reddit.com/r/YouShouldKnow/comments/dsbpru/
+author:becks258
+subreddit:YouShouldKnow
+score:19281
+numComments:452
+isOver18:False
+hasPostBody:True

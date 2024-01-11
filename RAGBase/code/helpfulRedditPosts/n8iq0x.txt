@@ -1,0 +1,13 @@
+title:
+LPT: Visit thrift stores in the "rich" area of town
+
+content:
+Thrift stores in lower economic areas tend to have lower quality donations and the inventory is more picked over. A thrift store in a more up-scale area of town is likely to have both better donations and less shoppers.
+
+url:https://reddit.com/r/LifeProTips/comments/n8iq0x/
+author:SomethingElse38
+subreddit:LifeProTips
+score:3579
+numComments:227
+isOver18:False
+hasPostBody:True

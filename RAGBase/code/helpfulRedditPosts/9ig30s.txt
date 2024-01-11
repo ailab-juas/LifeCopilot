@@ -1,0 +1,15 @@
+title:
+YSK: If you use Google voice commands on your phone, you may be surprised what data is being kept without your knowledge
+
+content:
+I've just discovered months of random voice recordings that Google has kept, where it "thinks" I am activating the voice commands. Check out https://myactivity.google.com and look at Voice &amp; Audio Activity.
+
+A lot of the recordings seem to start before I had said "Ok Google", which suggests it is potentially recording all the time. Check through your privacy settings and disable the options to keep recordings.
+
+url:https://reddit.com/r/YouShouldKnow/comments/9ig30s/
+author:YouWannaSomeWang
+subreddit:YouShouldKnow
+score:3882
+numComments:322
+isOver18:False
+hasPostBody:True

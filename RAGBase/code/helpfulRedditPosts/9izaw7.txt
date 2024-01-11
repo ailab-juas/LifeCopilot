@@ -1,0 +1,15 @@
+title:
+YSK You can mute gas station ads at the pump by pressing the 2nd from the top button to the right of the screen.
+
+content:
+This works on nearly all gas station pumps. 
+
+https://i.imgur.com/T34FrLJ.jpg
+
+url:https://reddit.com/r/YouShouldKnow/comments/9izaw7/
+author:jeeebus
+subreddit:YouShouldKnow
+score:3169
+numComments:374
+isOver18:False
+hasPostBody:True

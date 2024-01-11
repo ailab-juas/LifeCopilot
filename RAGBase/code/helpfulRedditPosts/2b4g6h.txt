@@ -1,0 +1,19 @@
+title:
+YSK There is a PDF cookbook targeting those on a food stamp budget, providing healthy recipes for under $4/day.
+
+content:
+Edit: I should have mentioned in the title it's a **free** PDF cookbook
+
+[Link](https://8b862ca0073972f0472b704e2c0c21d0480f50d3.googledrive.com/host/0Bxd6wdCBD_2tdUdtM0d4WTJmclU/good-and-cheap.pdf)
+
+"For her final project for a master's degree in food studies at New York University, Leanne Brown created a practical cookbook, titled Good and Cheap: A Healthy Cookbook for Food Stamp Budgets, which includes over 130 pages of recipes that fit into a $4 a day food budget. Originally written with the intent to help poor families, who may receive Supplemental Nutrition Assistance Program benefits, to eat better, the cookbook is a great reference for anyone trying to stretch their grocery budget. Brown is giving away her cookbook as a free PDF download from her website."
+
+Though it's targeted for those on food stamps, I think this also applies to college students, the frugal, or anybody learning to cook or wanting to keep things in a budget. I know when I first started cooking, my greatest challenge was not buying overly-specific ingredients for a single recipe, only to be confused with what to do with the rest and have it go bad. This cookbook is basic, cheap, and a good starting, middle, or ending place for just about anyone.
+
+url:https://reddit.com/r/YouShouldKnow/comments/2b4g6h/
+author:[deleted]
+subreddit:YouShouldKnow
+score:2638
+numComments:207
+isOver18:False
+hasPostBody:True

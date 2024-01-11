@@ -1,0 +1,23 @@
+title:
+LPT: Buy good tickets when Ticketmaster won't allow you to leave one empty seat.
+
+content:
+For many events, ticketmaster won't let you purchase the best seats available because it would leave one empty seat. e.g., there are three empty seats on the front row but you only want two tickets.
+
+To get around this follow these steps:
+
+* Open ticketmaster.com in a new browser window in incognito mode 
+* Start (but don't complete) the purchase process for one of the seats in the group
+* Open ticketmaster.com in second browser window and the seats you wanted will now be available 
+
+Also, ticketmaster can die in a fire.
+
+**EDIT:** this tip is intended for use with events where you get to choose your seats. I suppose you could get lucky buying "best available" seats but I've never tried it.
+
+url:https://reddit.com/r/LifeProTips/comments/tgobb/
+author:mechtonia
+subreddit:LifeProTips
+score:1481
+numComments:232
+isOver18:False
+hasPostBody:True

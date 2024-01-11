@@ -1,0 +1,13 @@
+title:
+YSK: Google maps can tell you when you need to leave by.
+
+content:
+Why YSK: Google maps is pretty common but few people know that you can input the time you need to arrive and it'll tell you exactly when you should leave. This is super helpful for planning your day! Directions can be found at the link in the comments.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ud5afp/
+author:frontpageonce
+subreddit:YouShouldKnow
+score:1189
+numComments:64
+isOver18:False
+hasPostBody:True

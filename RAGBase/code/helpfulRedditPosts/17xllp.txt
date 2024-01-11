@@ -1,0 +1,50 @@
+title:
+YSK how to win at Scrabble.
+
+content:
+After reading batgirl289’s awesome [summary on proper Monopoloy strategy](http://www.reddit.com/r/YouShouldKnow/comments/167x1g/ysk_how_to_win_at_monopoly/), I thought I’d chime in with the game *I* know--Scrabble. It’s another game where a lot of people attribute losses to bad luck. Sure, you have no control over what tiles you have, but a seasoned player will beat a novice practically every time. Clearly, the tiles aren’t everything.
+
+Before I discuss strategy though, a word on words. Language is not fixed. Should “blogging” be valid in Scrabble? How about “irregardless?” That word you and your sister made up as kids? Common words uttered in Pig Latin? Obscure 17th-century words that are still in dictionaries but effectively gutted from our vocabulary? These beg interesting historical and linguistic questions. But if you ask any competitive Scrabble player, those questions are irrelevant. There is a single list of authoritative words, called (appropriately enough) the Tournament Word List (TWL). It’s the most recent edition of the *Official Scrabble Player’s Dictionary* with three important changes: (1) offensive words are included; (2) words with roots over 8 letters are added; and (3) definitions are removed (to save space). That’s the authority. If you play a word in the TWL, it’s valid. If your word isn’t in the TWL, it’s invalid. Although some players use word meanings as a memorization aid, no serious players remember all (or even most) of them. Nor are players particularly concerned with why such-and-such word is included or left out. You’ve gotta draw the line somewhere. With that said, here are a few general tips to up your Scrabble game.
+
+
+**1. Know your 2-letter words.**
+
+This *alone* boosts your average score by about 50 points and puts you at an enormous advantage against someone who doesn’t know the 2s. Knowing these words basically makes parallel plays--playing a word parallel to another word, forming a bunch of little words along the way--possible. Don’t forget you get points for all those little words too. And they can add up. There are only 101 of the 2-letter words, and you know about half of them already. If you are looking for a quick and reliable shortcut to beating your friends, this is probably more important than the rest of my tips combined.
+
+**2. Stop playing defensively.**
+
+How many times have you seen an awesome opening--an easy link to a triple word score, for instance--but just didn’t have anything good to put there? So instead, you make some crappy low-scoring play to block your opponent. More often than not, you’re actually hurting your score. Blocking a good opening not only stops your opponent from playing there, it also stops *you* from playing there in case your opponent can’t. This effect is compounded further if your opponent is good. Good players can work with whatever board they have, meaning the *only* person you’re blocking is yourself. Generally speaking, if you have a better move (worth at least around 8 more points), go for it.
+
+**3. Save up for bingos.**
+
+I’m always surprised when a casual player doesn’t realize there’s a 50-point incentive for using all of your tiles at once (called a bingo). That’s a lot of points. I’ve played a lot of games that essentially boiled down to who got the most bingos. The most valuable tiles for getting bingos are, in order, the blank, S, and E. Think at least one move ahead! Whenever you make a move, pay equal attention to what tiles you leave behind. There’s a general rule of thumb, in fact. Don’t play an S unless the move you’re thinking of beats your next-best move by at least 8 points. And don’t use the blank unless it beats your next-best move by at least *20* points. Save them for bingos.
+
+Here’s an example. Let’s say you have the rack AEIKRST. What words do you think you’d play? A lot of casual players would go for RAKES or SKATE, or maybe if they have a good eye for anagramming, KAISER (the longest valid play with just those letters). In most cases though, you’re actually hurting yourself! Look how awesome your letters are, aside from that pesky K. With no other information, I’d suggest just trying to get rid of the K or maybe playing one of the 2-letter words KI or KA (if you know your 2s) and keeping the rest. Let’s say you just play the K and draw a D. Do you see a common bingo in ADEIRST? (Answers at end.)
+
+The single biggest thing that drives me nuts when playing against a casual opponent? When they use the blank for anything less than a 40- or 50-point word. It’s actually a little unusual for a competitive player to use a blank on something other than a bingo. Consider the rack AEIRST plus one blank. Do you see a common bingo there? (Answers at end.)
+
+**4. Look for prefixes and suffixes.**
+
+The act of actually moving tiles around, even just a few times, is helpful for practically anyone, top-tier Scrabblers included. (Although at certain level, this strategy becomes a bit more nuanced.) Move RE or UN to the beginning of your rack. Or move ING or ED to the end. Even though it doesn’t seem like a huge difference, juggling 4 or 5 tiles in your head is *worlds* easier than juggling all 7. This is how you’ll find most bingos. To see what I mean, try and find the words in these letters. Watch what happens if you isolate common prefixes and suffixes: EINSWU, CEINORS, DEENSU. (Answers at end.)
+
+**5. Treat your Q like the plague.**
+
+Don’t let the ‘10’ on it deceive you. It’s one of the worst tiles. Probably *the* worst. It can outright cost you a game if you don’t draw it until the end. Having an additional U upgrades it from plague to minor cold, but it’s still something you should try and get rid of. The problem is when you have the Q, you’re basically only playing with 6 tiles. That’s a pretty big disadvantage against an opponent who can use all 7. Know the words QI and QAT. There’s a whole host of similarly helpful words: QAID, QADI, QANAT, SUQ, QUA, and so on. It’s a list worth memorizing, albeit not as game-changing as the 2-letter words.
+
+One final note: an English degree doesn’t really help you at all. There are roughly 180,000 words in the TWL. Of those, you probably know around 30,000 of them. Think about that: Over 80 percent of the acceptable words in Scrabble mean nothing to you. Moreover, consider what words are most useful in Scrabble. Words with lots of vowels (AALII, ILIA, URAEI). Seven- and eight-letter bingos with lots of common letters (ANESTRI, SEROTINE, AUDIENT). Words that help you dump an excess number of a particular tile (NINON, LALL, ABAYA). Words that hook on to common words (SPIRATE, QUINTETT, ENOW). An opponent with an English degree might stump you once in a while with a nice SAT word you’ve never heard before, but no one picks up good Scrabble words just by reading a lot. They’re words you memorize through concerted study.
+
+~ ~ ~
+
+Answers:
+
+1. There are actually 8 valid bingos with ADEIRST. Here they are in approximate order of commonness: TIRADES, ASTRIDE, ARIDEST (most arid), TARDIES (‘tardy’ can be a noun), STAIDER (more staid), DISRATE (to lower a rating), DIASTER (a stage in mitosis).
+2. There are 70(!) valid bingos with ?AEIRST. (The blank is usually represented with a question mark.) I can’t speak to how many of them you know, but some of them are quite common: WAITERS, RACIEST, SALTIER, TRIAGES, RETAILS, ATTIRES, and NASTIER, to name a few.
+3. I was going for UNWISE, COINERS, and ENSUED. (COINERS has three valid anagrams though: CRONIES, ORCEINS, and RECOINS. ENSUED has one: ENDUES.)
+
+url:https://reddit.com/r/YouShouldKnow/comments/17xllp/
+author:richarizard
+subreddit:YouShouldKnow
+score:2149
+numComments:236
+isOver18:False
+hasPostBody:True

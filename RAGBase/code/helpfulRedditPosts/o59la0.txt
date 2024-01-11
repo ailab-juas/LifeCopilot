@@ -1,0 +1,13 @@
+title:
+LPT: You can trade your time for money but you can never buy your time back. Keep quality of life in mind with all decisions.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/o59la0/
+author:geekender
+subreddit:LifeProTips
+score:31441
+numComments:605
+isOver18:False
+hasPostBody:False

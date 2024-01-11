@@ -1,0 +1,13 @@
+title:
+YSK that if your employer cuts your hours significantly you are entitled to partial unemployment
+
+content:
+The rules vary by state, but if your employer cuts your hours from full time to part or otherwise significantly decreases your work time without cause, you can file wit your state’s unemployment office for unemployment pay.  Your employer will be notified of the claim which may result in your hours going back to normal if the manager has been acting inappropriately.
+
+url:https://reddit.com/r/YouShouldKnow/comments/967fh2/
+author:throwaway_0578
+subreddit:YouShouldKnow
+score:5679
+numComments:205
+isOver18:False
+hasPostBody:True

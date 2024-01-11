@@ -1,0 +1,13 @@
+title:
+[LPT] For fluffy, Mile-High pancakes, let your batter sit for 10-15 minutes to "rise"!
+
+content:
+This will make your flat pancakes and inch high or better. Try it!
+
+url:https://reddit.com/r/LifeProTips/comments/3jlwok/
+author:FreshFocusPhoto
+subreddit:LifeProTips
+score:2832
+numComments:478
+isOver18:False
+hasPostBody:True

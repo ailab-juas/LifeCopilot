@@ -1,0 +1,17 @@
+title:
+YSK: Spirit, Frontier, Southwest, and Alaska Airlines are the four worst airlines for overbooking flights
+
+content:
+Why YSK: if your flight is overbooked, you could be “bounced” (denied boarding) and forced to take another flight. If you have a connecting flight, or if you don’t want to get stuck at the airport and arrive late to your destination, you should consider booking your holiday travel through an airline that has a better record for not overbooking flights. 
+
+JetBlue and Delta Airlines have the best track record when it comes to bumping the fewest passengers. See https://jtbbusinesstravel.com/best-worst-airlines-overbooking/
+
+I didn’t realize that Alaska was one of the worst for overbooking, and now I’m suffering the consequences.
+
+url:https://reddit.com/r/YouShouldKnow/comments/xnuxnv/
+author:flourescent-black
+subreddit:YouShouldKnow
+score:7405
+numComments:350
+isOver18:False
+hasPostBody:True

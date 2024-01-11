@@ -1,0 +1,13 @@
+title:
+YSK: You can file your taxes for free through a program called VITA. VITA is a Nationwide program staffed by local individuals that will prepare and file your state and federal taxes for free.
+
+content:
+Some of these VITA sites are staffed by high school and college students, giving them the experience they need for their career field while providing you with a free service.
+
+url:https://reddit.com/r/YouShouldKnow/comments/cwp37t/
+author:LifelongScouter
+subreddit:YouShouldKnow
+score:4584
+numComments:108
+isOver18:False
+hasPostBody:True

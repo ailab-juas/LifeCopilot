@@ -1,0 +1,15 @@
+title:
+YSK about Project Gutenberg that has a library of over 42,000 books online to read for free
+
+content:
+Project Gutenberg offers over 42,000 free ebooks: choose among free epub books, free kindle books, download them or read them online.
+
+www.gutenberg.org
+
+url:https://reddit.com/r/YouShouldKnow/comments/1xwnhe/
+author:Deltron540
+subreddit:YouShouldKnow
+score:1211
+numComments:50
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: when making nachos, put a tortilla underneath your chips to turn leftover toppings into a taco.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ag94zc/
+author:CommanderNightHawk
+subreddit:LifeProTips
+score:46753
+numComments:1286
+isOver18:False
+hasPostBody:False

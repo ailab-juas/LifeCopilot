@@ -1,0 +1,15 @@
+title:
+YSK the difference between “compliment” and “complement.” If it adds to (or improves) something, it complements it.
+
+content:
+If you say my outfit looks good, you’re complimenting it.
+
+If the zebra-print scarf really improves my overall outfit, it complements it.
+
+url:https://reddit.com/r/YouShouldKnow/comments/c6pzpx/
+author:Delica
+subreddit:YouShouldKnow
+score:5189
+numComments:160
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,17 @@
+title:
+YSK: reporting text spamming is incredibly Simple and helpful
+
+content:
+this is another form of illegal marketing, texting without consent that can be pretty painful if your phone number has ever been leaked or posted online, you probably get these texts quite frequently
+
+For the main the carriers in the states the process is incredibly streamlined and simply, all you have to do is copy the text, and send it to (SPAM) "7726" you will get a response almost immediately asking you to respond next with the number that sent it, send the number and boom, you're done.
+
+At least In Verizon's case they will also follow up with how to block the number from ever contacting you again
+
+url:https://reddit.com/r/YouShouldKnow/comments/663fz6/
+author:siccoblue
+subreddit:YouShouldKnow
+score:1403
+numComments:71
+isOver18:False
+hasPostBody:True

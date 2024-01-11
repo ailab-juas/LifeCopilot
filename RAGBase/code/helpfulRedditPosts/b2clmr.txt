@@ -1,0 +1,13 @@
+title:
+LPT: writing a negative Yelp review is easier than writing a positive one because we are motivated to seek justice for being wronged. But try to write good ones when you can. It feels good helping out a business that deserves it.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/b2clmr/
+author:riverrelic
+subreddit:LifeProTips
+score:2038
+numComments:61
+isOver18:False
+hasPostBody:False

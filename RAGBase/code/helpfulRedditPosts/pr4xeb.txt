@@ -1,0 +1,15 @@
+title:
+YSK: Most car bluetooth phones are extremely loud and hearable to the outside even if the windows are up.
+
+content:
+Why YSK: Because everyone outside of the car, walking by or even standing outside can hear everything you're saying regardless of if the windows are up.
+
+Definitely don't discuss banking or any other confidential subjects or information on a bluetooth car phone because it is easy for someone outside the car to overhear and possibly steal the information.
+
+url:https://reddit.com/r/YouShouldKnow/comments/pr4xeb/
+author:SpeakeasyG1887
+subreddit:YouShouldKnow
+score:24321
+numComments:578
+isOver18:False
+hasPostBody:True

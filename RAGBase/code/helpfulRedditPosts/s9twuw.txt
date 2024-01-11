@@ -1,0 +1,17 @@
+title:
+YSK that in the U.S. your employer can't retaliate against you if you try to unionize
+
+content:
+Why YSK: Many workers in the service sector [are interested in forming a union](https://gcgj.mit.edu/sites/default/files/imce/resource-uploads/Kochan%20et%20al.%20Worker%20Voice%20Survey%20Paper%20June%202018.pdf) to negotiate higher wages or better benefits. [Unionized workers make 13.2% more money](https://www.epi.org/publication/fear-at-work-how-employers-scare-workers-out-of-unionizing/) than nonunion workers. But [studies have shown](https://www.epi.org/publication/fear-at-work-how-employers-scare-workers-out-of-unionizing/) that many people fear retaliation or punishment. 
+
+The National Labor Relations Act [prohibits employers from firing or retaliating against employees](https://www.nlrb.gov/guidance/key-reference-materials/national-labor-relations-act) who are forming a union. If you are interested in forming a union, the AFL-CIO is one of many unions that publishes a [how-to guide for unionizing](https://aflcio.org/formaunion/4-steps-form-union).
+
+Edit: [Here's another, more detailed how-to guide on forming a union](https://www.ueunion.org/org_steps.html) by the United Electrical, Radio and Machine Workers of America, with a Spanish translation included. It's relevant to other industries also.
+
+url:https://reddit.com/r/YouShouldKnow/comments/s9twuw/
+author:rhinokitty
+subreddit:YouShouldKnow
+score:7212
+numComments:411
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: don't believe the discounts they show you on sites like Amazon, they're all made up. Instead, look at the price history on sites like camelcamelcamel and you'll most likely see that the discounted price is just the regular price with a misleading discount tag to mislead you.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/zmlc7q/
+author:sbbh1
+subreddit:LifeProTips
+score:2753
+numComments:87
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: When someone gifts you a bottle of wine, grab a sharpie and write their name on the bottle. Later when you enjoy that bottle send them an email/text and let them know you enjoyed it.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/juzlku/
+author:Robhow
+subreddit:LifeProTips
+score:7232
+numComments:160
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,15 @@
+title:
+YSK: If you have an Android phone you can download the adblocker ublock origin when using Firefox Nightly.
+
+content:
+Why YSK:
+
+Ads are annoying and intrusive, especially on mobile devices. With Ublock origin you can browse the web without being bombarded with annoying ads or interfaces on your mobile device.
+
+url:https://reddit.com/r/YouShouldKnow/comments/kr23wk/
+author:MentalAdversity
+subreddit:YouShouldKnow
+score:11610
+numComments:511
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: If you're a self learner, you can always google a subject and add "ppt" at the end to get presentations made by professors/teachers about that subject.
+
+content:
+Some presentations can be from actual .edu websites. Be careful when it comes to tech, some presentations could be outdated. :)
+
+url:https://reddit.com/r/LifeProTips/comments/ms7ord/
+author:ilikejuice88
+subreddit:LifeProTips
+score:1402
+numComments:29
+isOver18:False
+hasPostBody:True

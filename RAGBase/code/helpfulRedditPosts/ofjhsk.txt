@@ -1,0 +1,18 @@
+title:
+YSK: adding "filetype:pdf" to your google search query will make all results link to pdf documents. You can often use this to find good and full explanations of practical concepts in your field.
+
+content:
+Why YSK:
+
+Searching through webpages will often give you simplified, incomplete or waffling explanations, or just irrelevant stuff altogether. This has certainly been the case with engineering for me. Webpages take more effort to develop than simply uploading a pdf to the internet (and they are often made by people who just want your attention ). Which do you think the average expert/professional will prefer to do?
+
+
+You'll find that this can take you to good, full explanations of a specific concept as pdf files; usually in the form of instructions, manuals, guides, lecture notes, white papers, application notes, preprints etc. - depending on the field. You can check the number of pages in each link on the google search page first to make sure it's not a giant textbook or a 1 page brochure or something before clicking. Check domain names as well for safety.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ofjhsk/
+author:pjrido
+subreddit:YouShouldKnow
+score:19381
+numComments:153
+isOver18:False
+hasPostBody:True

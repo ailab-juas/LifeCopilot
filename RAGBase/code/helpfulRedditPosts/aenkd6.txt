@@ -1,0 +1,13 @@
+title:
+LPT: Before you clean your computer monitor, open up Notepad and fullscreen it. Having an all white background makes all of the grime easy to see.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/aenkd6/
+author:NarkahUdash
+subreddit:LifeProTips
+score:3596
+numComments:125
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+YSK, if you're going camping/hiking with young children, avoid dressing them in camouflage or neutral colors.
+
+content:
+Why YSK: Children go missing while camping or on nature outings often. Dressing them in camouflage will only hinder them from being found if they were to wind up lost. Bright colors are much easier to locate , and keeps the child safer around off road vehicles anf hunting activities.
+
+url:https://reddit.com/r/YouShouldKnow/comments/myof6t/
+author:Wifeofwes
+subreddit:YouShouldKnow
+score:15156
+numComments:379
+isOver18:False
+hasPostBody:True

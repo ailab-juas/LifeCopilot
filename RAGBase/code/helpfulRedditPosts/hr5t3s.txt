@@ -1,0 +1,13 @@
+title:
+LPT: During medical school I was taught that the vast majority of box cutter injuries happened after insertion of a brand new blade, because you're used to applying more force with a dull blade so it becomes excessive and results you cutting yourself, so be extra cautious when using a new blade.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/hr5t3s/
+author:LikesCereal
+subreddit:LifeProTips
+score:4905
+numComments:165
+isOver18:False
+hasPostBody:False

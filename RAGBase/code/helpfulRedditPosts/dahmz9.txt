@@ -1,0 +1,15 @@
+title:
+YSK you can change your phone's audio output to mono to make listening with one earbud sound better
+
+content:
+It makes a very big difference
+
+On android and iPhone, the option will be under accessibility in settings
+
+url:https://reddit.com/r/YouShouldKnow/comments/dahmz9/
+author:CitizenOfTheReddit
+subreddit:YouShouldKnow
+score:9123
+numComments:267
+isOver18:False
+hasPostBody:True

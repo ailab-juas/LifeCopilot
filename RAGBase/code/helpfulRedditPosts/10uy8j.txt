@@ -1,0 +1,13 @@
+title:
+Using Google Chrome, you can view Google's cached versions of thepiratebay.se and still download torrents even when thepiratebay is down. 
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/10uy8j/
+author:i_dont_translate
+subreddit:LifeProTips
+score:1548
+numComments:95
+isOver18:False
+hasPostBody:False

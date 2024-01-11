@@ -1,0 +1,15 @@
+title:
+YSK: Responding to certain memes can expose you to identity thieves.
+
+content:
+Example: http://imgur.com/9AelV38
+
+The make of your first car (this pic), the city you were born in (your Star Wars name), the street you grew up on on (your porn name), and the list goes on. Without thinking, people are sharing their answers to these silly memes and opening the door to identity theft.
+
+url:https://reddit.com/r/YouShouldKnow/comments/39gmk9/
+author:richardallensmith
+subreddit:YouShouldKnow
+score:1258
+numComments:155
+isOver18:False
+hasPostBody:True

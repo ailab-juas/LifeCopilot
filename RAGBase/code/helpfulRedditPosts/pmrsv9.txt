@@ -1,0 +1,13 @@
+title:
+LPT: when using a recipe online open it in “print view”. This will eliminate ads and give you a condensed one page version of the whole recipe.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/pmrsv9/
+author:DirtyMudder92
+subreddit:LifeProTips
+score:1585
+numComments:40
+isOver18:False
+hasPostBody:False

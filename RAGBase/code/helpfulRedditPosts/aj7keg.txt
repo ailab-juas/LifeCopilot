@@ -1,0 +1,23 @@
+title:
+YSK regardless of your income level, 35 out of the 43 US states that require state tax returns also allow for free e-Filing, so don't let someone charge you for it (e.g., TurboTax wants $39.99).
+
+content:
+Check your state's laws. Many people also qualify to file their federal _and_ state returns simultaneously thereby potentially streamlining the process even more.
+
+edit: Lot of good references being given in the comments:
+
+https://www.mymoneyblog.com/free-online-tax-e-filing-options-for-all-50-states.html c/o u/jclast
+
+www.myfreetaxes.com c/o u/fastman86
+
+https://www.irs.gov/filing/free-file-do-your-federal-taxes-for-free c/o u/HortonGetsAPuppy
+
+https://www.creditkarma.com/tax?ref=tax_ckhomecta c/o u/ruggedr
+
+url:https://reddit.com/r/YouShouldKnow/comments/aj7keg/
+author:kalabash
+subreddit:YouShouldKnow
+score:5613
+numComments:248
+isOver18:False
+hasPostBody:True

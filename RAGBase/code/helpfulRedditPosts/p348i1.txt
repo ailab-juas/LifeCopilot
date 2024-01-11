@@ -1,0 +1,13 @@
+title:
+LPT: Store your dog treats in a separate container like a cookie jar. In doing this, the dog will associate treats with the sound of the cookie jar instead of plastic bags being opened. This way, your pup won't be expecting a snack every time you open a bag.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/p348i1/
+author:CalmerThanYouAre_716
+subreddit:LifeProTips
+score:1456
+numComments:53
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,15 @@
+title:
+YSK If you really feel the need to talk to someone there are "warm lines" you can call
+
+content:
+**Why YSK:** Warm lines, unlike hotlines which are used for emergencies (ex. suicide hotline), are often available as well 24/7 and can be used if you just need to vent or talk to someone. I recently experienced not having anybody to talk to as it was really late at night (3-4 am), but really felt the need to do so as I was going through a crisis for a recent breakup, so I instead called the suicide hotline as I knew you can call them in case of non-emergency situations too. I talked to someone and they were super helpful and supportive and really helped me not feel alone.Towards the end of the call I asked them if there was an alternative solution as I didn’t want to risk occupying a line in case someone in an emergency was trying to call, and they told me about the existence of "warm lines". Hope this helps. Talking to other human beings really helps.
+
+[List of warm lines](https://screening.mhanational.org/content/need-talk-someone-warmlines/)
+
+url:https://reddit.com/r/YouShouldKnow/comments/ueqq10/
+author:whizzaban
+subreddit:YouShouldKnow
+score:12581
+numComments:233
+isOver18:False
+hasPostBody:True

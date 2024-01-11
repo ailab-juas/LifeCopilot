@@ -1,0 +1,21 @@
+title:
+YSK: The app TrafficKam allows you to upload pictures of your hotel room which can save a child that is forced into CP.
+
+content:
+This article explains it the best: http://www.snopes.com/2016/07/03/taking-pictures-of-your-hotel-room-could-help-stop-human-trafficking/
+
+TLDR: Take up to 4 pics of your hotel room - TraffickCam, enables travelers to help law enforcement track down traffickers by submitting pictures of hotel rooms around the world that can be matched against a national database used by police.
+
+[**play store**](https://play.google.com/store/apps/details?id=com.exchangeinitiative.traffickcam)
+
+[**apple store**]( https://appsto.re/ph/5haP_.i) thank you /u/theairstrip
+
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/5f688i/
+author:danknissan
+subreddit:YouShouldKnow
+score:5281
+numComments:160
+isOver18:False
+hasPostBody:True

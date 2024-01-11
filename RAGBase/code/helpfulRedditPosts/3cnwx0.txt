@@ -1,0 +1,13 @@
+title:
+LPT: Don't use these deadlocks, they are very easy to open.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/3cnwx0/
+author:Kroucher
+subreddit:LifeProTips
+score:2155
+numComments:374
+isOver18:False
+hasPostBody:False

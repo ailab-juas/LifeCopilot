@@ -1,0 +1,13 @@
+title:
+LPT: Wake up an hour earlier for work.
+
+content:
+Take your time getting ready. Have coffee, surf your phone, whatever you like. The relief from not running late can't be understated. You'll arrive much more awake and relaxed. It will impact your entire day positively.
+
+url:https://reddit.com/r/LifeProTips/comments/r6my7f/
+author:Uchihamaki
+subreddit:LifeProTips
+score:6634
+numComments:789
+isOver18:False
+hasPostBody:True

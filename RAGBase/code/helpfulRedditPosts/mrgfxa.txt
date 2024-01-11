@@ -1,0 +1,20 @@
+title:
+LPT: Before doing business or setting up an account with an online service - especially online financial services - try and find their customer service number. If you can't find it or have to jump through lots of hoops to get it, odds are their customer service is terrible and not worth your time.
+
+content:
+This is mostly from experience, I've found that companies that gladly offer their 800 number for help are much easier to deal with in the event an issue occurs. I had an online bank account once that took over a month to get into it due to a password issue and they wouldn't give their phone number until I pressed for it through many long, arduous email chains
+
+Edit:
+u/Immolating_Catus recommended this in the comments and it's so important.
+
+"Don’t forget to check for online canceling of subscriptions.
+
+If they expect you to mail in or call, it might be more trouble than it’s worth."
+
+url:https://reddit.com/r/LifeProTips/comments/mrgfxa/
+author:rockcellist
+subreddit:LifeProTips
+score:3798
+numComments:112
+isOver18:False
+hasPostBody:True

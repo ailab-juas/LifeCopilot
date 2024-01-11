@@ -1,0 +1,13 @@
+title:
+YSK about wordsforthat.com - it's a new site like a reverse urban dictionary
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/1os6f3/
+author:Seventytvvo
+subreddit:YouShouldKnow
+score:1838
+numComments:91
+isOver18:False
+hasPostBody:False

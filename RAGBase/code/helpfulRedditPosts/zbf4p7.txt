@@ -1,0 +1,15 @@
+title:
+LPT: Now is a good time to check your furnace air filter - it takes seconds and can make a huge difference in heating your home during winter.
+
+content:
+A dirty air filter in your furnace can prevent heat from being pumped through your house and cause other issues. As many folks crank up the thermostat for the winter months, it's a good idea to check your air filter to make sure it's not clogged up. I realize many people may have a schedule for changing filters, but newer homeowners may not realize that this needs to be done regularly. 
+
+Here's a quick and easy tutorial on what to do: https://youtu.be/sOcfx5o9-B4
+
+url:https://reddit.com/r/LifeProTips/comments/zbf4p7/
+author:3fifteen
+subreddit:LifeProTips
+score:2529
+numComments:148
+isOver18:False
+hasPostBody:True

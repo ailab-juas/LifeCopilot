@@ -1,0 +1,17 @@
+title:
+LPT Disable Microsoft Word add-ons to open documents faster. AcerCloud word particularly slow.
+
+content:
+I disabled my AcerCloud word add-on and opening documents now takes less than 2 seconds, before, it took around 20-30 which gets very annoying, particularly if you are under time pressure to meet a deadline. 
+
+I seen a LTP by another user here a few months ago, turn autosave on for 1 min instead of the default ( which i think is 10?) this IMO is worth mentioning, saved me a few times.  
+
+Edit: Requested to add this to post; yes, sorry. Open up Microsoft Word (2010), then go File - Options - Add-ins, view the type colum and scroll to that section and click the Go button. From there disable (untick) the acer cloud add-in. Same idea for the rest, only the type will differ.
+
+url:https://reddit.com/r/LifeProTips/comments/3sw2s8/
+author:QuietMrFx977
+subreddit:LifeProTips
+score:1905
+numComments:133
+isOver18:False
+hasPostBody:True

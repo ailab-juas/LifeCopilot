@@ -1,0 +1,15 @@
+title:
+LPT: When you take a coffee order for colleagues/friends note their preferences on their contact in your phone or in a note-taking app. Next time you can be more efficient and surprise them with the correct order.
+
+content:
+I will randomly get coffee for my team when I have time in the morning.  Doing this means I don't have to call ahead and ask them and they seem to appreciate it a lot more when I walk in with the correct order vs when they are expecting it.
+
+I personally use evernote to keep track of stuff like this so that it's all in one place but using the "note" section in their contact info works well too.
+
+url:https://reddit.com/r/LifeProTips/comments/b59ptq/
+author:NerdMachine
+subreddit:LifeProTips
+score:1602
+numComments:133
+isOver18:False
+hasPostBody:True

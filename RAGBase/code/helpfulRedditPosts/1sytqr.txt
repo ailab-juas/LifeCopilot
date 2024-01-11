@@ -1,0 +1,13 @@
+title:
+LPT: Drill a few holes through the back of your garbage can to prevent the suction that makes removing a full bag difficult. Make a row of holes about an inch from the bottom to keep bag leaks from ending up on the floor.
+
+content:
+Makes removing bags much easier, and you'll end up with fewer bag tears.
+
+url:https://reddit.com/r/LifeProTips/comments/1sytqr/
+author:tkdguy
+subreddit:LifeProTips
+score:1137
+numComments:92
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: The advice you've been giving to people, especially on your own volition, is likely to be advice that you should be taking yourself.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/2ti9i4/
+author:tyson1988
+subreddit:LifeProTips
+score:2805
+numComments:307
+isOver18:False
+hasPostBody:False

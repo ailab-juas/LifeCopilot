@@ -1,0 +1,51 @@
+title:
+YSK that Amazon has a serious problem with counterfeit products, and it's all because of something called "commingled inventory."
+
+content:
+Anecdotally, the problem is getting *severe.* I used to buy all my household basics on Amazon (shampoo, toothpaste, etc), and I've gotten a very high rate of fake products over the past 2 years or so, specifically.
+
+Most recently, I bought a bottle of shampoo that seemed really odd and gave me a pretty serious rash on my scalp. I contacted the manufacturer, and they confirmed it was a fake. Amazon will offer to give your money back if you send it back, but that's all the protection you have as a buyer.
+
+Since I started noticing this issue, I've gotten counterfeit batteries, counterfeit shampoo, and counterfeit guitar strings, and they were *all sold by Amazon.com.* It got so bad that I completely stopped using Amazon. 
+
+The bigger question is "what the hell is going on?" This didn't seem to be a problem, say, 5 years ago. I started looking into why this was the case, and I found a pretty clear answer: **commingled inventory.**
+
+Basically, it works like this:
+
+- As we know, Amazon has third-party sellers that have their products fulfilled by Amazon.
+- These sellers send in their products to be stored at an Amazon warehouse
+- When a buyer buys that item, Amazon will ship the products directly to buyers.
+
+Sounds straight-forward enough, right? Here's the problem, though: **Amazon treats all items with the same SKU as identical.**
+
+So, let's say I am a third-party seller on Amazon, and I am selling Crest Toothpaste. I send 100 tubes of Crest Toothpaste to Amazon for Amazon fulfillment, and then 100 tubes are listed by me on Amazon. The problem is that my tubes of Crest aren't entered into the system as "SolitaryEgg's Storefront Crest Toothpaste," they are just entered as "Crest Toothpaste" and thrown into a bin with *all the other crest toothpaste.* Even the main "sold by Amazon.com" stock.
+
+You can see why this is not good. If you go and buy something from Amazon, you'll be sent a product that literally anyone could've sent in. It's basically become a big flea market with no accountability, and even Amazon themselves don't keep track of who sent in what. It doesn't matter if you buy it directly from Amazon, or a third party seller with 5 star reviews, or a third party seller with 1 star reviews.  Regardless, someone (or a robot) at the warehouse is going to go to the Crest Toothpaste bin, grab a random one, and send it to you. And it could've come *from anywhere.*
+
+This is especially bad because it doesn't just *allow* for counterfeit items, it actively encourages it. If I'm a shady dude, I can send in a bunch of fake crest toothpaste. I get credit for those items and can sell them on Amazon. Then when someone buys it from me, my customer will *probably* get a legitimate tube that some other seller (or Amazon themselves) sent in. My fake tubes will just get lost in the mix, and if someone notices it's fake, some other poor seller will likely get the bad review/return. 
+
+I started looking around Amazon's reviews, and almost *every product* has some % of people complaining about counterfeit products, or products where the safety seal was removed and re-added. It's not everyone of course, but it seems like some % of people get fake products pretty much across the board, from vitamins to lotions to toothpastes and everything else. Seriously, go check any household product right now and read the 1-star reviews, and I guarantee you you'll find photos of fake products, items with needle-punctures in the safety seals, etc etc. It's rampant. Now, sure, some of these people might be lying, but I doubt they all are.
+
+In the end, this "commingled inventory" has created a pretty serious counterfeit problem on amazon, and it can actually be a *really really* serious problem if you're buying vitamins, household cleaners, personal hygiene products, etc. And there is literally nothing you can do about it, because commingled inventory also means that "sold by amazon" and seller reviews are completely meaningless.
+
+It's surprising to me that this problem seems to get almost no attention. Here's a source that explains it pretty well:
+
+https://blog.redpoints.com/en/amazon-commingled-inventory-management
+
+but you can find a lot of legitimate sources online to read more about it. A lot of big newspapers have covered the issue. A few more reads:
+
+https://www.forbes.com/sites/wadeshepard/2017/12/13/how-to-protect-your-family-from-dangerous-fakes-on-amazon-this-holiday-season/#716ea6d77cf1
+
+https://www.theatlantic.com/technology/archive/2018/04/amazon-may-have-a-counterfeit-problem/558482/
+
+https://www.washingtonpost.com/technology/2019/11/14/how-amazons-quest-more-cheaper-products-has-resulted-flea-market-fakes/
+
+EDIT: And, no, I'm not an anti-Amazon shill. No, I don't work for Amazon's competitors (do they even have competitors anymore?). I'm just a person who got a bunch of fake stuff on Amazon, got a scalp rash from counterfeit shampoo, then went down an internet rabbit hole.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ifytxk/
+author:SolitaryEgg
+subreddit:YouShouldKnow
+score:90695
+numComments:3270
+isOver18:False
+hasPostBody:True

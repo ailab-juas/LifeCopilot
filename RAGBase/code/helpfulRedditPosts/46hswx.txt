@@ -1,0 +1,13 @@
+title:
+LPT: If someone does a good job for you and you are asked to do a survey, do it. Their compensation may depend on it.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/46hswx/
+author:halfpercenter
+subreddit:LifeProTips
+score:5313
+numComments:1466
+isOver18:False
+hasPostBody:False

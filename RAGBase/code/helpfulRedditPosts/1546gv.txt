@@ -1,0 +1,13 @@
+title:
+LPT: Drive your car with the windows down and no music occasionally to check for weird noises that may help with early detection of issues before they become major problems.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1546gv/
+author:Waldamos
+subreddit:LifeProTips
+score:1291
+numComments:221
+isOver18:False
+hasPostBody:False

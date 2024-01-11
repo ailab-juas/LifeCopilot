@@ -1,0 +1,13 @@
+title:
+YSK that there is a professional looking typeface that's optimised for legibility on computer screens and 100% free to use for whatever you want to do, even use it commercially. It's called Inter UI.
+
+content:
+I have been using this font for a while and am in love with it, to say the least. Get it [here](http://www.rsms.me/inter).
+
+url:https://reddit.com/r/YouShouldKnow/comments/83w56m/
+author:AndroidScript
+subreddit:YouShouldKnow
+score:6363
+numComments:185
+isOver18:False
+hasPostBody:True

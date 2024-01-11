@@ -1,0 +1,13 @@
+title:
+LPT: You can access pinned programs on the taskbar using the Windows Key + 1 through 0
+
+content:
+Let's say you have Chrome as the third program on your taskbar, then press the Windows Key + 3 to launch it. This works for the first ten programs you have pinned, using Windows Key + 1, 2, 3 ... 9, 0
+
+url:https://reddit.com/r/LifeProTips/comments/2ka5qa/
+author:walkingtheriver
+subreddit:LifeProTips
+score:3027
+numComments:296
+isOver18:False
+hasPostBody:True

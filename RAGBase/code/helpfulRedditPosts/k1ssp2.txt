@@ -1,0 +1,13 @@
+title:
+YSK: As long as the meat came up to temperature (165 deg F), pink turkey meat - even with pink runoff near the bone - is safe to eat according to the USDA
+
+content:
+Why YSK: Avoid a potential fight and / or sending the turkey back into the oven. Source: https://www.fsis.usda.gov/wps/wcm/connect/d177e22b-0799-491b-88ff-d3ecc18f09f2/Is_PInk_Turkey_Meat_Safe.pdf?MOD=AJPERES
+
+url:https://reddit.com/r/YouShouldKnow/comments/k1ssp2/
+author:neph4
+subreddit:YouShouldKnow
+score:13557
+numComments:385
+isOver18:False
+hasPostBody:True

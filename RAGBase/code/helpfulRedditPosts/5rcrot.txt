@@ -1,0 +1,15 @@
+title:
+LPT: When using Pandora, never use thumbs up, only thumbs down. This will keep the station constantly looking for something you like, while avoiding things you don't like. It also keeps it from playing the same 10 songs over and over.
+
+content:
+Unless a "playlist" is what you're actually going for, but we all know that's why we have Spotify.
+
+Edit: sorry. 
+
+url:https://reddit.com/r/LifeProTips/comments/5rcrot/
+author:neccoguy21
+subreddit:LifeProTips
+score:27466
+numComments:1370
+isOver18:False
+hasPostBody:True

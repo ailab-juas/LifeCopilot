@@ -1,0 +1,15 @@
+title:
+YSK that the expiration date for things like honey and salt is for the container not the product
+
+content:
+So you can stop saying things like “if they found that thousand year old honey that was still good to eat then why does mine go off next week?”
+
+Edit: I’ve been made aware that some non perishable foods have best by dates for commercial reasons.
+
+url:https://reddit.com/r/YouShouldKnow/comments/espzjo/
+author:MinifigsJos
+subreddit:YouShouldKnow
+score:14759
+numComments:654
+isOver18:False
+hasPostBody:True

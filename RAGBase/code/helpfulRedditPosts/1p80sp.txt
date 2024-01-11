@@ -1,0 +1,15 @@
+title:
+LPT: Remove all of the distractions from Youtube without a plugin
+
+content:
+I just discovered this: http://www.youtube.com/feather_beta
+
+It will basically change Youtube to what it was a few years ago, except there are no comments and it will load way faster.
+
+url:https://reddit.com/r/LifeProTips/comments/1p80sp/
+author:nehalvpatel
+subreddit:LifeProTips
+score:1572
+numComments:159
+isOver18:False
+hasPostBody:True

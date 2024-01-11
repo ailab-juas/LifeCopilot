@@ -1,0 +1,21 @@
+title:
+YSK Ian's secure shoelace knot. I only have to tie it once for the lifetime of my shoes. Yet it is easy to untie on purpose.
+
+content:
+http://www.fieggen.com/shoelace/secureknot.htm
+
+Seriously, my shoes wear out before this knot will come undone. 
+
+Yet, unlike a double knot, it is easy to untie on purpose. 
+
+Edit: for those who are unsure what the difference is, this is a "regular" knot:
+
+http://www.fieggen.com/shoelace/standardknot.htm
+
+url:https://reddit.com/r/YouShouldKnow/comments/5jxmrs/
+author:Dusk_Galaxy
+subreddit:YouShouldKnow
+score:4011
+numComments:170
+isOver18:False
+hasPostBody:True

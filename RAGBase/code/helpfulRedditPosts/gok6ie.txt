@@ -1,0 +1,13 @@
+title:
+LPT: take a few minutes and learn the NATO phonetic alphabet (alpha, bravo, charlie, delta, echo...). It comes in handy when you are providing letters over the phone, plus it sounds really cool.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/gok6ie/
+author:ihavethebestmarriage
+subreddit:LifeProTips
+score:3693
+numComments:405
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: Always follow a waiter's advice/suggestion. If you order something and they suggest something else entirely, they may be trying to do you a favor.
+
+content:
+Just had a fun night in the restroom after eating a less-than-fresh red snapper taco. When I ordered it, the guy at the counter said, "We also have a chipotle fish taco with cod that's really good." I wish I had realized that he was trying to save my life.
+
+url:https://reddit.com/r/LifeProTips/comments/uxyjq8/
+author:2ManyMonitors
+subreddit:LifeProTips
+score:3556
+numComments:226
+isOver18:False
+hasPostBody:True

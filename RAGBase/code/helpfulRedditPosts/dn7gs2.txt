@@ -1,0 +1,13 @@
+title:
+YSK that real, privacy-focused browsing is more accessible than ever as the Tor Project now offers a fully-polished browser available for Windows, macOS, Linux, and Android.
+
+content:
+The days when using the Tor network required a lengthy tutorial are over, you can download the Tor browser just as you would Chrome or Firefox here: https://www.torproject.org/download/
+
+url:https://reddit.com/r/YouShouldKnow/comments/dn7gs2/
+author:ArtVandalay7
+subreddit:YouShouldKnow
+score:8574
+numComments:407
+isOver18:False
+hasPostBody:True

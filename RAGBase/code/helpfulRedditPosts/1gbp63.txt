@@ -1,0 +1,65 @@
+title:
+YSK that on Tuesday a judge confirmed what intern advocates have been alleging for years: a lot of upaid intership programs are illegal.
+
+content:
+Unpaid internships* are increasingly a fact of life for college students. The National Association of Colleges and Employers found that 55 percent of the class of 2012 had an internship or co-op during their time in college. Almost half of those — 47 percent — were unpaid. A third of internships at for-profit companies were unpaid.
+
+Depending on how you look at it, this is either massive exploitation of young people by powerful corporations which worsens inequality, or a valuable opportunity for on-the-job training at lower cost than a degree or certificate at a college or university.
+
+But whatever your moral leanings, a judge on Tuesday confirmed what intern advocates have been alleging for years: a lot of these programs are illegal.
+
+Judge William Pauley, who sits on the United States District Court for the Southern District of New York, ruled that Fox Searchlight’s use of interns in the production of the movies “Black Swan” and “500 Days of Summer” violated minimum wage and overtime laws, and that those interns can file a class action against the studio. He concluded:
+
+They worked as paid employees work, providing an immediate advantage to their employer and performing low-level tasks not requiring specialized training. The benefits they may have received — such as knowledge of how a production or accounting office functions or references for future jobs — are the results of simply having worked as any other employee works, not of internships designed to be uniquely educational to the interns and of little utility to the employer. They received nothing approximating the education they would receive in an academic setting or vocational school.
+
+The tests being hinted at there — of whether an internship provides valuable training and whether it benefits the firm or the intern more — reflect the reasoning of a 2010 fact sheet put out by the Department of Labor’s Wage and Hour Divison, which enforces these laws. That fact sheet sets up six criteria to determine if an internship is legal or not:
+
+1.The internship, even though it includes actual operation of the facilities of the employer, is similar to training which would be given in an educational environment;
+
+2.The internship experience is for the benefit of the intern;
+
+3.The intern does not displace regular employees, but works under close supervision of existing staff;
+
+4.The employer that provides the training derives no immediate advantage from the activities of the intern; and on occasion its operations may actually be impeded;
+
+5.The intern is not necessarily entitled to a job at the conclusion of the internship; and
+
+6.The employer and the intern understand that the intern is not entitled to wages for the time spent in the internship.
+
+Pauley cites that fact sheet, reproduces all six points, and then proceeds to determine if the internships in this case satisfied all six requirements. Perhaps the most important result of the ruling is that it treats that fact sheet, effectively, as a binding interpretation of federal law around internships.
+
+Some employment attorneys think that move is a mistake. “You’ve got to consider a lot of different factors including these six factors,” Camille Olson, a partner at Seyfarth and Shaw who frequently defends companies in wage and hour cases.
+
+A better analysis, she argues, can be found in Xuedan Wang v. The Hearst Corporation, a case in which Wang, a former unpaid intern at Harper’s Bazaar, tried to put together a class action on behalf of the Heart Corporation’s unpaid interns. The judge in that case, Harold Baer (also of the Southern District of New York), didn’t discount the six-factors in the fact sheet — “After all,” he writes, “they emanate from the agency that administers the laws under which Plaintiffs brought this lawsuit.” – but also argued that one must look at the “totality of circumstances.”
+
+Baer ruled that Wang couldn’t file a class action, as she couldn’t show that all of Hearst’s interns faced similar enough conditions for them to file a suit together. But more importantly for these cases going forward, he denied summary judgment for the plaintiffs. That is, unlike Pauley, he declined to rule, without a trial, that Wang and her prospective co-plaintiffs were employees covered by minimum wage and overtime laws.
+
+The trial has been adjourned indefinitely, though Juno Turner, one of Wang’s attorneys at the firm Outten &amp; Golden, which also represents the interns in the Fox case, confirms that they’re planning on going forward with a jury trial. All of which reinforces Olson’s point that Pauley is just just one judge, in just one district, and it’s hard to predict what appeals court judges will rule on any of these cases.
+
+As you can imagine, intern advocates disagree vehemently with Olson’s suggestion that the reasoning in the Pauley ruling was weak. ” I think the reasoning will stand up strongly and clearly,” Ross Perlin, author of “Intern Nation” and a critic of unpaid internships, says. That includes, he continues, the reasoning that for-profit companies’ interns are employees entitled to back pay, and that they constitute a class that can file a class action suit.
+
+They also differ on which kinds of firms are breaking these laws. Perlin argues that even non-profit firms — which are allowed to have unpaid “volunteers” — are likely in violation of the law if they have actual unpaid interns. “Just because you’re working for somebody who’s been classified as a 501(c)3 doesn’t mean you don’t have to treat them like workers,” he says, though he concedes, “Interns would have the burden of proving they’re not volunteers. Somebody is going to have to step up and make the case.” A logical place to start, he says, would be D.C. “Congress has exempted its own interns from fair labor standards act,” he says. “That’s something waiting to be addressed.”
+
+Olson thinks that’s far-fetched. “We’ve had volunteers at hospitals and not-for-profits that are performing responsibilities, and never had a claim to paid work,” she says. “It would be a first, but I don’t think there’s a strong argument to be made there.”
+
+But the two agree that there are many for-profit companies currently in violation of the law, even if Fox Searchlight and Hearst aren’t specifically among them. “In the last 3-4 years for-profit companies are really reviewing their internship programs, and eliminating unpaid internships more and more, because they don’t want to run the risk that there’s not enough benefit for the worker,” she says. “Of the ones that do offer internships, many have revised them so they are paying minimum wage.”
+
+That’s largely an effect of media scrutiny, she argues. “The media coverage has made a difference in companies having heightened awareness, that they want their programs to be compliant,” she says. “And that’s a really good thing.” That could be the most important way that cases like this change things. Neither Olson nor Perlin have noticed the Department of Labor stepping up enforcement lately, and lawsuits are a rather expensive and time-consuming way to protect your rights. Olson notes that some settlements in these cases have been as paltry as $1,100.
+
+She advises interns who think their companies are running afoul of the law to talk to their human resources department, perhaps through an anonymous tip, or to contact their state or federal wage and hour department to get answers on what’s required, and whether the company is violating those rules. Potentially the matter could be resolved without the cost of a lawyer.
+
+Of course, you’d expect a defendant’s lawyer to say that, but she has a point. The worst thing that happens if you file an internal complaint is that you lose the unpaid internship, and the $0 in future compensation that you could have gotten from it. And if the reputational cost of being fired from the internship is too great to bear, then legal recourse is still available. Unpaid interns have nothing to lose but their chains.
+
+\* Full disclosure: I’ve had three unpaid summer internships in my life, two at nonprofits and one at a for-profit that hasn’t made a profit in years. The Washington Post pays its interns, who are great.
+
+Update: The first version of this article said 52 percent of the class of 2012 had internships or co-op experiments in college. The actual number is 55 percent. We regret the error.
+
+http://www.washingtonpost.com/blogs/wonkblog/wp/2013/06/13/are-unpaid-internships-illegal/
+
+url:https://reddit.com/r/YouShouldKnow/comments/1gbp63/
+author:God_Wills_It_
+subreddit:YouShouldKnow
+score:2665
+numComments:470
+isOver18:False
+hasPostBody:True

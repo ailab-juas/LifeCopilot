@@ -1,0 +1,13 @@
+title:
+LPT: If you pay for Netflix, reset your password every year or two. That way anyone who's been using it will reach out to you when they can't log in, allowing you to keep tabs on your freeloaders and decide whether or not to continue letting them use it for free.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/b56c39/
+author:jraychris
+subreddit:LifeProTips
+score:39944
+numComments:1631
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: Don't argue with people on online platforms. People tend to be more defensive of their opinions and more aggressive with their words. It will only ruin your day and waste your time.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/g7csn2/
+author:BenRegulus
+subreddit:LifeProTips
+score:62838
+numComments:2595
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,15 @@
+title:
+YSK that if you're using a free VPN on your phone or computer, the provider likely is making their money by tracking and selling your browsing information.
+
+content:
+You can read about a study of free VPN services here:  [https://www.entrepreneur.com/article/337885](https://www.entrepreneur.com/article/337885) 
+
+The phrase "if you're not paying for the product, you are the product" really applies here. VPNs, especially in some countries, are a vitally important way to maintain your privacy on the internet. Don't make the mistake of handing your privacy over to a shady company that can abuse it! Some of the well-established and trusted VPN services do require a subscription fee, but the competition between them has kept the fees affordable and it is well worth the cost.
+
+url:https://reddit.com/r/YouShouldKnow/comments/cpeubn/
+author:mattermanna
+subreddit:YouShouldKnow
+score:4263
+numComments:178
+isOver18:False
+hasPostBody:True

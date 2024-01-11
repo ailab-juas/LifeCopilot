@@ -1,0 +1,26 @@
+title:
+LPT: Get ripped off, but not worth going to small claims court? File a complaint with your state Attorney General's Office
+
+content:
+*Edit: To find your state's consumer protection agency, which may be the AG or another agency, start [here](http://www.usa.gov/state-consumer) and select your state. If you're not sure whether your state's consumer protection agency is the right place to take your complaint, give them a call.  If they can't help you, they probably can point you in the right direction.* 
+
+*Edit 2: If your issue is with a business based in another state, you should still direct your complaint to your state's AG. Their mandate is to defend the consumer rights of you and your neighbors.*
+
+If you listen to the (excellent) Reply All podcast, it's like Super Tech Support for your consumer rights. If you've been cheated by a business or you see a business cheating other people and want to do something about it, in many states you can file a complaint with your Attorney General's Office online in as little as fifteen minutes.
+
+I've done this twice, once for myself and once for a friend. Most recently, I had an issue with T-Mobile's prepaid service. I was out $100 in service credit and unable to unlock my T-Mobile phone to use it with another service. Four hours at my local T-Mobile store resulted in nothing but impotent frustration. Three days after filing an online complaint with my state AG, I received a voicemail from a T-Mobile rep titled *Sr. Specialist, Executive Response:
+A Division of the Office of the President*. It was a busy week for me, and I didn't get a chance to return his call, so one week later, I received an email from the same Sr. Specialist. He wrote that he had unlocked the device for me and would be sending a prepaid MasterCard loaded with the $100 I believed I was owed. I literally did *nothing* after submitting my complaint. My issue just fixed itself, as if by magic.
+
+The first time I made a complaint to my AG was when I learned that a small local check cashing chain had sold my then-girlfriend a counterfeit item two years ago. When she tried to return it, they refused to refund her money. What really motivated me to complain was that two years later they were *still* advertising these worthless counterfeits and taking naive people for $80 a pop. After filing a complaint with my AG, the check casher volunteered to refund us the full $80 in cash, two years later, with no proof of purchase. A few weeks later, they also took down the posters advertising the counterfeit item.
+
+Note that the complaint should be made with your *state's* AG Office, not the US Attorney General. The US AG will accept consumer complaints, but they do not provide the kind of hands on service that many state AGs do. Also, the zeal with which consumer complaints are pursued will vary from state to state. In Ohio, the AG provides a voluntary informal mediation process, and a complaint can conveniently be filed online. In contrast, the Wyoming AG requires that complaints be made by mail and is primarily interested in using those complaints to identify patterns of fraud and the like.
+
+
+
+url:https://reddit.com/r/LifeProTips/comments/9ci4qe/
+author:istjohn
+subreddit:LifeProTips
+score:3146
+numComments:125
+isOver18:False
+hasPostBody:True

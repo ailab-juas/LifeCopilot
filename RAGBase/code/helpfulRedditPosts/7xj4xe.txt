@@ -1,0 +1,13 @@
+title:
+LPT: Store potatoes and onions well apart from each other. They release moisture and gases that can make the other get bad faster.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/7xj4xe/
+author:SalazarRED
+subreddit:LifeProTips
+score:42013
+numComments:1339
+isOver18:False
+hasPostBody:False

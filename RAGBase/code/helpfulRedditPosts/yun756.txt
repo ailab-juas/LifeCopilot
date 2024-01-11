@@ -1,0 +1,17 @@
+title:
+YSK that if your vehicle gets impounded/towed in the US, (for any reason, be it lack of insurance or forgotten ticket), after 30 days they can auction off your vehicle with no notification.
+
+content:
+Why YSK, They will tell you $20 or so dollars a day to get it out, but what they don’t tell you is that after 30 days they can place a lien on your vehicle and auction it off to pay off that $1000 that you owe. I accidentally found this out recently and almost had my life completely ruined.
+
+I’m just hoping somebody else’s life won’t be ruined.
+
+Edit: as a lawyer pointed out in the comments, this may not be true in all states.  This was in Florida. I’m not a lawyer.
+
+url:https://reddit.com/r/YouShouldKnow/comments/yun756/
+author:1_am_not_a_b0t
+subreddit:YouShouldKnow
+score:14267
+numComments:472
+isOver18:False
+hasPostBody:True

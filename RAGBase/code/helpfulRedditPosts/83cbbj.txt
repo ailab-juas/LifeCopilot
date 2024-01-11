@@ -1,0 +1,13 @@
+title:
+LPT: Put glowsticks on your dog's neck when camping so you can see where they are at night.
+
+content:
+I was camping and attached glowsticks to my dog's collar. It was way easier than carrying a flashlight when taking them out to use the bathroom.
+
+url:https://reddit.com/r/LifeProTips/comments/83cbbj/
+author:CookieJID
+subreddit:LifeProTips
+score:17490
+numComments:629
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+YSK: if you're ever in a car accident, take photos of the damage AND location of the accident
+
+content:
+Why YSK: if you are ever sued or found at fault, oftentimes lawyers will ask "time and location" questions such as "how much time passed between when you noticed the vehicle and when the collision happened?" or "what was the closest mile marker?" or "was the accident on a curve in the road?"
+
+Take photos of the damage and where the accident occurred!
+
+url:https://reddit.com/r/YouShouldKnow/comments/xa12ky/
+author:shanster925
+subreddit:YouShouldKnow
+score:2878
+numComments:53
+isOver18:False
+hasPostBody:True

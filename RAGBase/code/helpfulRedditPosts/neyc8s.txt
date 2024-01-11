@@ -1,0 +1,19 @@
+title:
+YSK: BBQ brushes with metal bristles are deadly.
+
+content:
+Why YSK: The small wire pieces can break off and be ingested, and those little shards can cause significant damage to your body, and require emergency surgery for perforated organs. Keep your family safe this summer and use a plastic (or wood/stone/onion/foil/kevlar, as others have pointed out) BBQ brush.
+
+Article 1: https://www.cbc.ca/news/canada/manitoba/wire-barbecue-brushes-health-canada-review-1.4205997
+
+Article 2: https://www.cbc.ca/news/canada/manitoba/bbq-wire-brushes-new-standard-1.5456886
+
+Article 3: https://www.consumerreports.org/food-safety/wire-grill-brush-danger/
+
+url:https://reddit.com/r/YouShouldKnow/comments/neyc8s/
+author:idratherbecamping
+subreddit:YouShouldKnow
+score:9081
+numComments:567
+isOver18:False
+hasPostBody:True

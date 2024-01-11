@@ -1,0 +1,15 @@
+title:
+YSK: Writing "Should of" is never grammatically correct.
+
+content:
+Why YSK: At least every day on Reddit I see someone using the phrase "should of" instead of should have. Sometimes it's even found in news articles. “Should of” is never correct. But, you can write “should've.” That is a perfectly correct contraction for “should have.” This is not at all a problem in spoken English because the correct “should've” and the incorrect “should of” sound about the same. The issue arises when the reader sees "should of" in writing and assumes it's correct. Often seen on blogs, this phrase reflects poorly on the writer's skill, intelligence, and/or credibility.
+
+[ Why WOULD OF, COULD OF, &amp; SHOULD OF Are Mistakes](https://www.english-grammar-revolution.com/would-of.html)
+
+url:https://reddit.com/r/YouShouldKnow/comments/njabr2/
+author:iwasntlucid
+subreddit:YouShouldKnow
+score:20401
+numComments:2015
+isOver18:False
+hasPostBody:True

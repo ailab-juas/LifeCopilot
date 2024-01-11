@@ -1,0 +1,13 @@
+title:
+LPT: If you struggle with the motivation to clean/tidy your house, restrict it to 30 minutes once a day – i.e., “I’ll clean as much as I can for 30 minutes, and that’s good enough until tomorrow”
+
+content:
+**Edit: Or, as some commenters are suggesting, if 30 minutes seems a bit too much, clean for five minutes once or twice a day to start. Then, after the five-minute increment feels comfortable, up it to ten minutes twice a day.
+
+url:https://reddit.com/r/LifeProTips/comments/qcwxai/
+author:SojourningCPA
+subreddit:LifeProTips
+score:5033
+numComments:190
+isOver18:False
+hasPostBody:True

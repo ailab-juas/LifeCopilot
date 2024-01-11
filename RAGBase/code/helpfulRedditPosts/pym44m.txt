@@ -1,0 +1,19 @@
+title:
+YSK that if you struggle with extremely cold hands in the winter, your doctor may be able to help
+
+content:
+Why YSK: I've struggled with numb/cold hands in quite literally any ambient temperature less than 10C (50F) for most of my adult life. I had to use a combination of mittens and chemical hand warmers for winter, because my hands still wouldn't stay warm in regular gloves. I thought this was just a miserable quirk that I couldn't change.
+
+When it came up at a doctor's appointment randomly, the doc said that this is classic Raynaud's Phenomenon (previously I thought that just meant purple hands, and mine were never as purple as the pictures), and that the issue with cold is absolutely treatable! 
+
+I was put on an extremely low dose of a calcium channel blocker (hopefully [this](https://emedicine.medscape.com/article/331197-treatment) is an okay citation) to open my blood vessels a bit, and the doc said that alternatives are available if that isn't enough. So far, though, I've have huge improvements in numbness and have been able to go without gloves in fall weather, which I could not do before!
+
+So, the bottom line - if you struggle with something like this, YOU ARE NOT DOOMED TO BE MISERABLE. It's worth bringing up to a medical professional!
+
+url:https://reddit.com/r/YouShouldKnow/comments/pym44m/
+author:spyzspaztastic
+subreddit:YouShouldKnow
+score:3509
+numComments:182
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,30 @@
+title:
+LPT: Tired of signing in/signing out of YouTube, or having to confirm age, for "age-restricted" videos? Change the link to this to bypass it. (view description)
+
+content:
+I cannot remember who taught me this trick, but I know it wasn't from reddit.
+
+For example take this link (Watch_Dogs Gameplay Premiere)
+http://www.youtube.com/watch?v=6LZM3_wp2ps
+
+and make it this:
+http://www.youtube.com/v/6LZM3_wp2ps
+
+In short, **take out the 'watch?' and replace the '=' with a '/'**
+
+If you'd like to know what it exactly does, it redirects you to a youtube API link that has no age restrictions. For this video, you're redirected to this:
+http://youtube.googleapis.com/v/6LZM3_wp2ps
+
+Did I mention that it maximizes the use of your window, like [this?](http://i.imgur.com/pMwV8Bx.jpg) 
+
+Thank me later.
+
+Edit: thanks to HawkEy3: adding **'nsfw'** before the **'youtube.com'** does nearly the same thing for half the work.
+
+url:https://reddit.com/r/LifeProTips/comments/191phk/
+author:fs200vids
+subreddit:LifeProTips
+score:1066
+numComments:75
+isOver18:False
+hasPostBody:True

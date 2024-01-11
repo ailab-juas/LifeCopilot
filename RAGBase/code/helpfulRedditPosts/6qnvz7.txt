@@ -1,0 +1,13 @@
+title:
+LPT: Bring a healthy snack to work. If you're looking for a snack but don't feel like eating the one you brought, you're not hungry you're bored.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/6qnvz7/
+author:jumamillion
+subreddit:LifeProTips
+score:31660
+numComments:1102
+isOver18:False
+hasPostBody:False

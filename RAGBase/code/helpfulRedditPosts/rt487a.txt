@@ -1,0 +1,15 @@
+title:
+YSK: When buying an instrument for measuring, whether it be length, weight or volume etc. go for brands that are well-known and well-respected, because cheap and infamous brands often provide inaccurate/imprecise scales and measurements.
+
+content:
+Why YSK: This is my experience, one day I purchased a metal ruler that was not from a popular brand and made some lines with it, after that when I took an old ruler of a well-known and well-respected brand and measured those same lines with it, I came to know that they are not correct in length, I realised that one of the rulers has inaccurate scale on it, so I grabbed a couple of more rulers from different well-known brands and placed them next to each other and found out they all are equal in scale and only the metal one is differing. On that day I learned that measuring tools should be bought carefully or I should say "...should be bought from well-known and well-respected brands."
+
+Thanks for reading.
+
+url:https://reddit.com/r/YouShouldKnow/comments/rt487a/
+author:iamabdullahsaud
+subreddit:YouShouldKnow
+score:3201
+numComments:88
+isOver18:False
+hasPostBody:True

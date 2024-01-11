@@ -1,0 +1,13 @@
+title:
+LPT: If you're making a gif/video, and you have the opportunity to put subtitles on it, please do. Many of us are hard of hearing or are browsing reddit at night and can't have sound on. You might even get more karma because it'll be accessible to a larger audience!
+
+content:
+Many of us, like myself, can't watch things without subtitles or we miss a lot.  It always makes me smile seeing someone has captioned a video. It seems small, but it makes a big difference in many people's lives. Thank you!
+
+url:https://reddit.com/r/LifeProTips/comments/jhxq3v/
+author:ShelbyEileen
+subreddit:LifeProTips
+score:76369
+numComments:689
+isOver18:False
+hasPostBody:True

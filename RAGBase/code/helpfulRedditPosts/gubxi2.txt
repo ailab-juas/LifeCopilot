@@ -1,0 +1,13 @@
+title:
+LPT: Compliment every person you meet, even something as small as the color of their shirt. It will provide them and you with a morale boost, and could potentially be the highlight of their day.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/gubxi2/
+author:thatonecashier
+subreddit:LifeProTips
+score:1458
+numComments:78
+isOver18:False
+hasPostBody:False

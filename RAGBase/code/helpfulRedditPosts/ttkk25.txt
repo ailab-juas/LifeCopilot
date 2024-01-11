@@ -1,0 +1,13 @@
+title:
+LPT: You don't get paid more by working harder. You get paid more because a job you can do is in demand because not many people can do it. If you want to be paid more, learn a skill that's difficult for most people and valuable to an employer.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ttkk25/
+author:abramcpg
+subreddit:LifeProTips
+score:43094
+numComments:2319
+isOver18:False
+hasPostBody:False

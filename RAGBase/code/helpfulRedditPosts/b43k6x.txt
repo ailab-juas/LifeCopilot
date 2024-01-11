@@ -1,0 +1,17 @@
+title:
+YSK that healthcare providers will often say they "accept" your insurance, but that does not mean they are "covered."
+
+content:
+Just experienced this first hand, and got a surprise $400 bill for a 20 minute appointment from a place that told me they take my insurance. Apparently it's "common knowledge" that you have to confirm everything with your insurance company, but it wasn't common enough for me, so I thought others might benefit from learning that for whatever reason it seems legal for healthcare providers to mislead customers in this way. In my case I even paid a copay when I left the office, which I thought for sure meant that the rest would be covered by insurance, and walked out without seeing any other charges. Now 7 months later I see they sent an invoice to my insurance company, Humana, but that Humana denied payment.
+
+Being "in network" does not mean you're covered either, by the way. Always, always, always check with your insurance company to confirm not just that the **agency** you're going to is covered, and not just the **doctor** that you're seeing, but also each and every **procedure** they are doing, and each and every **specialist** that is being called in or that you're being sent to in order to enact those procedures.
+
+It seems like an impossible standard for most laypeople to meet, but apparently the responsibility is not on doctors or clinics to even know if they're covered by a certain insurance policy, which seems bizarre to me coming from the mental health field where we have to know that stuff before we even  set an appointment with the client.
+
+url:https://reddit.com/r/YouShouldKnow/comments/b43k6x/
+author:DaystarEld
+subreddit:YouShouldKnow
+score:3609
+numComments:365
+isOver18:False
+hasPostBody:True

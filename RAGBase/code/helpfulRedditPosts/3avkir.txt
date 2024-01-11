@@ -1,0 +1,24 @@
+title:
+LPT: How not to lose money in vending machines
+
+content:
+I recently got a job as a snack and drink vendor, driving a truck and filling vending machines. I learned that the reason items sometimes hang in the metal spirals and don't drop is because they were loaded incorrectly. Items are supposed to be loaded into a vending machine with both bottom corners of the package out in front of the spiral. If the person who filled the machine was lazy and put them in at an angle, with one corner behind the spiral, it will greatly increase the chance of those items getting stuck and not dropping.
+
+So simply don't buy anything from a vending machine unless you can see both bottom corners of the package in front of the spiral. 
+
+Here's a pic for reference:
+http://photography.colinpurrington.com/img/s4/v66/p560238837-3.jpg
+
+The poor soul who pays for that bag of Elfin Crackers or the Baked Cheetos on the far right is probably not going to get them.
+
+I never knew this before I had this job, and I figured it's something a lot of people probably don't know, so I thought I'd share it.
+
+Also, shaking or tilting the machine to make a stuck item drop may damage the internal mechanisms, and cause the machine to stop working entirely. Not to mention that it may fall on you!
+
+url:https://reddit.com/r/LifeProTips/comments/3avkir/
+author:DankoJones84
+subreddit:LifeProTips
+score:4706
+numComments:844
+isOver18:False
+hasPostBody:True

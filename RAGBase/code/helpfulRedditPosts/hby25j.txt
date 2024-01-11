@@ -1,0 +1,13 @@
+title:
+LPT: When applying for jobs, disregard the "X+ years of experience required".
+
+content:
+I work as an agency recruiter and help people get their resumes in front of hiring managers on a daily basis. The "X+ years of experience required" isn't typically a hard requirement unless applying for a job with a defense contractor. Having a similar skill set as the one listed in the job description is much more important than anything else. Also, when applying to entry level jobs, disregard the "X+ years of experience required". If it is tagged as entry level, most of the time a college degree and internship experience will be sufficient to be considered for the role. Internal HR departments tend to work slowly and recycle job descriptions instead of creating new ones all of the time. When I post jobs, I would much rather see someone with the skill set who has less experience than someone who has the required/more experience, but doesn't match the skill set. 9/10 times, I will get the person with less experience an interview over someone who has the years of experience, but doesn't fully match the description.
+
+url:https://reddit.com/r/LifeProTips/comments/hby25j/
+author:_Zelko_
+subreddit:LifeProTips
+score:8129
+numComments:336
+isOver18:False
+hasPostBody:True

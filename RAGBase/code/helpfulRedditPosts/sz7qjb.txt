@@ -1,0 +1,17 @@
+title:
+LPT: Always have a medicines kit at home. The kit should have Paracetamol, Anti-inflammatory painkillers, Antihistamines, Antacids, Hydrocortisone cream, Antiseptic cream.
+
+content:
+If you are unable to find these medications around you,  here are your top alternatives:
+
+* [paracetamol alternatives](https://druggist.online/alternative-to-paracetamol/)
+*  [Antihistamines for childrens](https://druggist.online/liquid-antihistamines/)
+* [Heart Burn Medications](https://druggist.online/omeprazole-alternative/)
+
+url:https://reddit.com/r/LifeProTips/comments/sz7qjb/
+author:expertpauljohnson
+subreddit:LifeProTips
+score:6358
+numComments:366
+isOver18:False
+hasPostBody:True

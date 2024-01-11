@@ -1,0 +1,13 @@
+title:
+LPT: The F3 key does the same as Ctrl+F
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1sv3ej/
+author:Glitchsmasher
+subreddit:LifeProTips
+score:1285
+numComments:163
+isOver18:False
+hasPostBody:False

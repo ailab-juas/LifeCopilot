@@ -1,0 +1,15 @@
+title:
+LPT: Have a separate account on your laptop for performing presentations
+
+content:
+Recently I've been giving a lot of presentations for school, work, and other stuff I do on the side. Often, other people use my computer during these presentations. I only have one personal laptop, however, which I use for almost everything, so the UI is heavily customized, fairly unprofessional, and super messy. (Rotating backgrounds, custom key and trackpad shortcuts, stuff all over the desktop, etc.)
+
+Rather than worry about cleaning up or adjusting stuff every time I do something more formal, I created a second account on my computer. I leave everything in this account at the default settings, and switch over to it when I give presentations. The benefits are twofold. First, it isn't embarrassing to plug my computer into a projector, and second, other people can use my computer without getting confused by my customized controls. 
+
+url:https://reddit.com/r/LifeProTips/comments/1lzdqa/
+author:god_uses_a_mac
+subreddit:LifeProTips
+score:1967
+numComments:201
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+YSK that the odds of killing a pedestrian with your vehicle become twice as deadly between the speeds of 30 and 40 mph. In residential neighborhoods where the limit is 30, go 30. It can mean the difference between someone living or dying.
+
+content:
+If you hit someone at 30mph with your vehicle, they have a 40% chance of not surviving the collision. If you hit them at 40mph, they have an 80% chance of not making it. The road right in front of my house is 30mph and people constantly fly up and down it going 40-50. It infuriates me that my next trip crossing the street to my mailbox could mean I end up in a casket tomorrow because many people place no value on human life other than them and their own.
+
+url:https://reddit.com/r/YouShouldKnow/comments/hw1s3p/
+author:Colin_Bowell
+subreddit:YouShouldKnow
+score:36627
+numComments:978
+isOver18:False
+hasPostBody:True

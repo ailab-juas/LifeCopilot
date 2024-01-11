@@ -1,0 +1,13 @@
+title:
+LPT: If an online advertisement asks you to answer demographic questions, just say you are less than 13 years old and they won't show you any ads.
+
+content:
+Tested this multiple times while using an online citation machine that forces you to watch an ad video every 48 hours. When the pre-ad survey pops up to "improve my advertisement experience" I just select the youngest age and the whole pop-up closes.
+
+url:https://reddit.com/r/LifeProTips/comments/9d0omu/
+author:hungersong
+subreddit:LifeProTips
+score:1040
+numComments:32
+isOver18:False
+hasPostBody:True

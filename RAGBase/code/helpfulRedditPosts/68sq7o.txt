@@ -1,0 +1,15 @@
+title:
+LPT: As we get into the warmer months, make sure your fan is spinning the right way. Counterclockwise draws warm air up and pushes cool air down
+
+content:
+To clarify, this is for ceiling fans.
+
+Also make sure to dust your fans before reversing them, unless you like snow!
+
+url:https://reddit.com/r/LifeProTips/comments/68sq7o/
+author:Star_Dog
+subreddit:LifeProTips
+score:2503
+numComments:175
+isOver18:False
+hasPostBody:True

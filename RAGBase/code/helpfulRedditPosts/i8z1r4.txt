@@ -1,0 +1,13 @@
+title:
+YSK that many processed foods that are advertised as 'Low Fat' have a lot of added sugar to make them taste better.
+
+content:
+This can mean that they're actually less healthy than their 'high fat' counterparts. Always read the nutrional information if you're looking to improve your diet so that you can make an informed decision.
+
+url:https://reddit.com/r/YouShouldKnow/comments/i8z1r4/
+author:Penguin__Farts
+subreddit:YouShouldKnow
+score:30532
+numComments:1024
+isOver18:False
+hasPostBody:True

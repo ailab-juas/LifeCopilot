@@ -1,0 +1,13 @@
+title:
+A golden rule for procrastinators or people stressed out because they have to much to do
+
+content:
+My neighbor gave me this tip and it does wonder. Every night, before you go to bed, decide for two things, outside of the everyday routine to complete the next day. Major or minor thing, it doesn't matter. I suggest that you choose those kinds of things that you would normally postpone. And best of all, if you normally feel bad about having a ton of things that needs to be done, then you can focus on the two things you completed that day. 
+
+url:https://reddit.com/r/LifeProTips/comments/xl1l2/
+author:viktorpedia
+subreddit:LifeProTips
+score:1255
+numComments:136
+isOver18:False
+hasPostBody:True

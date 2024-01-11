@@ -1,0 +1,15 @@
+title:
+YSK about www.rabb.it, a video chat app that lets you watch anything you want with other people
+
+content:
+I have some long distance friends and it's really easy to watch stuff together like that.  you can still talk and see each other while watching something, and the video and sound quality don't drop a bit.
+
+Edit: I should've added that it works through desktop also, and that you can also get the share on rabbit chrome extension that can broadcast anything directly from the tab, so any paid video streaming services can also be shared
+
+url:https://reddit.com/r/YouShouldKnow/comments/5sachc/
+author:Staviao
+subreddit:YouShouldKnow
+score:1649
+numComments:81
+isOver18:False
+hasPostBody:True

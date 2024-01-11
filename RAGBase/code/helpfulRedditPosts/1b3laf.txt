@@ -1,0 +1,44 @@
+title:
+LPT: Improve Your Wi-Fi Signal Using a Soda Can
+
+content:
+If you’ve ever had a TV with an antenna or a radio, you’ve probably heard of the trick of using tin foil to improve the signal. Using a soda or beer can to improve your wi-fi signal works in a very similar way. The metal in the can and the shape of the can when cut open can focus the signal to and from your router. The only things that you’ll need to achieve this are a beer or soda can, a utility knife, a pair of scissors and some form of adhesive that can easily be removed like tape or adhesive putty.
+
+6 Steps to Better Internet
+1 – Clean Out the Can
+
+Practically any substance that is found in cans like soda, beer, juice and more can create a sticky residue on the inside of the can. This can attract bugs and make your router sticky. Before you start cutting apart the can, thoroughly rinse it out with soap and warm water. Dry the can as thoroughly as possible.
+
+2 – Pull off the Tab
+
+The tab for the soda can really has no use for this project, so it’s best to remove it. To remove the tab, simply bend the tab back and forth until you hear it snap.
+
+3 – Cut off the Bottom of the Can
+
+Grab a utility knife and carefully cut a straight, horizontal line around bottom of the can at the point where the sides of the can start sloping to create the bottom. Cut very slowly to ensure a clean cut and to avoid accidentally cutting yourself. Once the bottom is completely removed, safely dispose of it to avoid accidentally grabbing it or stepping on it.
+
+4 – Creating the Base
+
+The base for your wifi extender will be the top of the can. To create the base, turn the can upside down and use your utility knife to make a cut horizontal cut that is similar to the one you made at the bottom of the can, but leaves an inch or so of metal to keep everything in one piece.
+
+5 – Cut the Side of the Can
+
+Position the can so that the leftover piece of metal used to keep the base attached is opposite the location you intend to make a vertical incision in the can. Use the scissors to cut a straight line from the bottom of the can to the top. Then open the can up to create a shape similar to a satellite dish. If the can is still wet at the point, thoroughly dry the can before placing it on top of your router.
+
+6 – Attaching the Can to Your Router
+
+Place the can over the antenna for your Wi-Fi connection through the hole in the base. Using tape or another easily removable adhesive such as adhesive putty, secure the can to your router. Adjust the can to maximize the signal.
+
+Basically the can should be splayed out, creating something similar to a sail around the router’s antenna. The antenna serves as a mast and the pop can helps the router function.
+
+You are now free to enjoy a stronger and more reliable wi-fi signal.
+
+[[Source](http://blog.makezine.com/2013/03/26/how-to-improve-your-wifi-signal-using-a-soda-can-in-6-steps/)]
+
+url:https://reddit.com/r/LifeProTips/comments/1b3laf/
+author:good_guy_submitter
+subreddit:LifeProTips
+score:1155
+numComments:231
+isOver18:False
+hasPostBody:True

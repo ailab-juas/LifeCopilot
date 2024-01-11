@@ -1,0 +1,15 @@
+title:
+YSK: You can play with cats from animal shelters with interactive live streaming cameras and controllable toys.
+
+content:
+A bunch of animal shelters have cameras that you can pan/zoom and cat toys you can control from your computer. They've been shown to increase adoption rates, which is great, but most tend to sleep when I looked. Still really cool though.  
+  
+[List of shelters with live stream](http://bestpetcam.com/the-ultimate-live-streaming-pet-camera-list-for-animal-shelters/)
+
+url:https://reddit.com/r/YouShouldKnow/comments/4dm0lc/
+author:DesignDev
+subreddit:YouShouldKnow
+score:2655
+numComments:130
+isOver18:False
+hasPostBody:True

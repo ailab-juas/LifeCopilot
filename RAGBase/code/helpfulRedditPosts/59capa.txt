@@ -1,0 +1,19 @@
+title:
+YSK, It's Insanely Easy to Fix a Wobbly Fan.
+
+content:
+I've been dreading tackling the wobbly fan in one of the rooms at our hotel for ages since every post I read talked about taping coins to the blades to balance them out with a guess and check method that could take hours.
+
+We have our first customers of the season arriving on Saturday so thank Pete I found [this article](http://homeguides.sfgate.com/straighten-drooping-ceiling-fan-blades-25857.html) that explained it's as simple as measuring from the blade tip to the ceiling and bending the blades until they match.
+
+Took about 1 minute to fix and now I feel terrible for all that procrastination.
+
+Edit: Several people have pointed out that this won't work with every type of fan. If the mounting brackets are made with cheap, shitty metal they could snap when you try to bend them. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/59capa/
+author:Oax_Mike
+subreddit:YouShouldKnow
+score:1490
+numComments:120
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+YSK most music streaming services pay the artists between $0.003 and $0.006 per played song. If you wanna make your $10/month subscription worth for the artists, you should listen between 50-100 songs a day.
+
+content:
+Why YSK: Because you probably want the money to go to the creators, not the streaming company.
+
+url:https://reddit.com/r/YouShouldKnow/comments/juwdbq/
+author:SalazarRED
+subreddit:YouShouldKnow
+score:25594
+numComments:901
+isOver18:False
+hasPostBody:True

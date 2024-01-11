@@ -1,0 +1,95 @@
+title:
+YSK: Password Best Practices
+
+content:
+I graduated from and work in cybersecurity. A good portion of my job is training the employees to the companies we are contracted to. Things like spotting malicious e-mails, social engineering, etc.
+
+One area that everyone seems to think they are great in, but usually aren't, is passwords. One example I do in my training is put up a series of password pairs and ask the audience which password is "stronger" (depending on the clientele, I'll go into what hashing is and do demonstrations of cracking). The results always surprise me.
+
+One of our SOC auditors wasn't even aware that NIST had updated their [guidelines](https://pages.nist.gov/800-63-3/sp800-63b.html) a few years ago. I think this speaks to how comfortable we all think we are with passwords, *when we really shouldn't be.*
+
+Now a days, your password is the key to your life. There are more malicious actors now than ever, using more sophisticated tools than ever. You should know how you can help protect yourself, starting with password hygiene.
+
+**Password Patterns (Avoid These):**
+
+* 77% of passwords containing a single digit append it to the end of their password. 10% of the time, an appended digit will be a "1" (includes data where more than one digit was appended). If the password has capitals, 15% of the time it will be a "1" ^(\[2\]). Adding a 1 to the end of your password has become effectively meaningless for your security.
+* To clarify the above regarding the 10% figure: The data set has passwords with varying number of digits ("pass123", "pass2134325", "pass1", etc.). Of *all* passwords which have *any number* digits appended, 10% of those only append a single "1".
+* 35% of passwords requiring a capital letter will capitalize the first letter ^(\[2\]).
+* 89% of 7-character long alpha strings can be targeted by either capitalizing the first character or capitalizing the whole string^(\[2\]).
+* 61% of passwords are the exact length of the minimum length set in the password policy^(\[3\])\*.
+* \~10% of users will model their password after their username^(\[3\]). ([john.smith@company.com](mailto:john.smith@company.com):Jsmith1)
+
+**Things to Keep in Mind When Creating a Password:**
+
+* Length is *more important* than complexity^(\[1\]) . This does not mean complexity is not important, just that length is *more* important. Shoot for length first, then complexity.
+* Avoid common substitutions, as they are baked into [password cracking rule-sets](https://github.com/praetorian-code/Hob0Rules). Common substitutions include: a = @, i = !, s = $, etc. Same with adding a 1 to the end of your password and capitalizing the first character. These are common patterns, and are well-known to crackers.
+* Instead of thinking "password" think "passphrase". A single dictionary word is extremely bad. Four to five random dictionary words, perhaps separated by spaces or special characters, is robust. *The benefit of a passphrase is that it is easier for you to generate entropy while still remembering your key. Generating entropy through randomized characters is hard, and results in a hard to remember password, meaning you will likely end up with less entropy.*
+* Avoid "password walking". This is using a password with adjacent keyboard characters (e.g. "qwerty", "1q2w3e4r", "1qaz2wsx", etc.)
+* Avoid any password present on a password blacklist^(\[4\]). Ideally, this should be a baked-in process.
+
+**Passwords in General:**
+
+* You should be using a different password for *every* website. At the very least, your e-mail password should be extremely strong and unique. If someone gets into your e-mail, they can simply reset every other password connected to that e-mail, regardless of how strong they are. Password re-use attacks are common^(\[5\]). *I cannot overstate the importance of this one tip.*
+* SMS-based two-factor authentication (2FA) is better than nothing, but [sim-swapping](https://www.digitaltrends.com/mobile/sim-swap-fraud-explained/) has made it inferior to other forms of 2FA and MFA.
+* I, and my colleagues, and many others **strongly recommend a** (non-browser-based, audited) **password manager**. There still seems to be debate about password managers. I will only comment that most security professionals and government agencies encourage the use of them^(\[6, 7, 8, 9, 10\]). *They are not a panacea. Use them in combination with other positive security habits, like frequent backups and 2FA/MFA.*
+
+**For developers and/or administrators:**
+
+* Ditch password resets. There is ample evidence now that users change their passwords in predictable patterns (password1 -&gt; password2 -&gt; password3 -&gt; pa$$word1 -&gt; etc.). Additionally, if users know that they will have to change their passwords, they are more likely to create a weaker -- but more memorable -- password. Passwords should only be force-changed at signs of compromise. Overall, effectiveness of password expiration in meeting its intended goal is weak^(\[11\]).
+* Drop the complexity song and dance. These restrictions will often force users into following one of the above exposed patterns of password creation, and there is little evidence that they increase password robustness (as they are currently implemented).\*\* The "inventor" of password complexity rules has even apologized and admitted there wasn't much empirical data on password security at the time he implemented the rules^(\[12\]).
+* Allow paste in password fields. This is less of a problem now, but there are still applications and websites which don't allow pasted passwords. Password managers are more ubiquitous each day. Don't discourage it.
+* Check user passwords against an up-to-date blacklist of common/compromised passwords. There are several tools and implementations to accomplish this.
+
+**Tools and Resources:**
+
+* [HaveIBeenPwned](https://haveibeenpwned.com/) is a resource where you enter your e-mail to see if it has appeared in any known breaches catalogued by the website.
+* [FreeOTP](https://freeotp.github.io/) is a free and open-source software token for 2FA.
+* [NIST 800-63B Digital Identity Guidelines](https://pages.nist.gov/800-63-3/sp800-63b.html)
+
+\-----------
+
+\* Knowing the minimum length required by policy, and knowing that 61% of passwords are that length will significantly increase the speed of password cracking.
+
+\*\* There is ongoing research into the benefits of having multiple rules in a "pool", of which a few are randomly selected to be applied on a user-to-user basis. (e.g. Alice must include a number and be a minimum length of 10 characters. Bob must include a special character and a minimum length of 9 characters).
+
+**Sources:**
+
+&gt;\[1\] [https://i.imgur.com/zFyBtyA.gif](https://i.imgur.com/zFyBtyA.gif) (note: "Time to crack" can be misleading, as it is dependent on things like hardware, methodology, etc. This illustrates the mathematics of length &gt; complexity only)  
+&gt;  
+&gt;\[2\] [http://www.cs.umd.edu/\~jkatz/security/downloads/passwords\_revealed-weir.pdf](http://www.cs.umd.edu/~jkatz/security/downloads/passwords_revealed-weir.pdf)  
+&gt;  
+&gt;\[3\] [https://resources.infosecinstitute.com/beyond-password-length-complexity/](https://resources.infosecinstitute.com/beyond-password-length-complexity/)  
+&gt;  
+&gt;\[4\] [https://github.com/wikimedia/password-blacklist](https://github.com/wikimedia/password-blacklist)  
+&gt;  
+&gt;\[5\] [https://techcrunch.com/2016/06/16/github-accounts-targeted-in-password-reuse-attack/](https://techcrunch.com/2016/06/16/github-accounts-targeted-in-password-reuse-attack/)  
+&gt;  
+&gt;\[6\] [https://nakedsecurity.sophos.com/2016/07/19/why-you-should-use-a-password-manager/](https://nakedsecurity.sophos.com/2016/07/19/why-you-should-use-a-password-manager/)  
+&gt;  
+&gt;\[7\] [https://www.techrepublic.com/article/5-reasons-why-you-should-use-a-password-manager/](https://www.techrepublic.com/article/5-reasons-why-you-should-use-a-password-manager/)  
+&gt;  
+&gt;\[8\] [https://www.csoonline.com/article/3344298/password-managers-remain-an-important-security-tool-despite-new-vulnerability-report.html](https://www.csoonline.com/article/3344298/password-managers-remain-an-important-security-tool-despite-new-vulnerability-report.html)  
+&gt;  
+&gt;\[9\] [https://www.ncsc.gov.uk/collection/top-tips-for-staying-secure-online/password-managers](https://www.ncsc.gov.uk/collection/top-tips-for-staying-secure-online/password-managers)  
+&gt;  
+&gt;\[10\] [https://cyber.gc.ca/en/guidance/password-managers-security-itsap30025](https://cyber.gc.ca/en/guidance/password-managers-security-itsap30025)  
+&gt;  
+&gt;\[11\] [https://www.cs.unc.edu/\~reiter/papers/2010/CCS.pdf](https://www.cs.unc.edu/~reiter/papers/2010/CCS.pdf)  
+&gt;  
+&gt;\[12\] [https://specopssoft.com/blog/father-password-rules-sorry-wasting-time/](https://specopssoft.com/blog/father-password-rules-sorry-wasting-time/)
+
+Edit 1: Clarified the comment regarding appended digits to passwords. 10% of the time when digits are appended to a password, it is a 1. This includes data where more than 1 digit has been appended.
+
+Edit 2: Post is back up! Thanks mod team. Feel free to ignore all of the "where'd it go" comments, haha.
+
+Edit 3: Added an additional bullet point further explaining the 10% statistic, as I've gotten some questions about it. Sorry about the confusion.
+
+**Edit 4: Many people are sharing their personal methods of password creation in detail. Please be careful when sharing that type of information. You might be surprised how significant that information can be when combined with other data from public sources.**
+
+url:https://reddit.com/r/YouShouldKnow/comments/gzq3bq/
+author:ieuaoqa
+subreddit:YouShouldKnow
+score:10530
+numComments:803
+isOver18:False
+hasPostBody:True

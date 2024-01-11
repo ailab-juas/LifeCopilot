@@ -1,0 +1,23 @@
+title:
+YSK how to properly set goals. Lots of new year's resolutions will get abandoned because they are not set up for success.
+
+content:
+S.M.A.R.T. is a popular acronym/method that significantly improves your chances of achieving your goal.
+
+Specific - instead of saying, "I want to lose weight this year", set a specific weight. "I want to lose 25 lbs by 2021"
+
+Measurable - 25 lbs is the goal and you can see your progress along the way
+
+Achievable - 25 lbs is something one could do without significant risk to their health (depending on their weight)
+
+Realistic/Relevant - Can you do it? Is it worth the time?
+
+Time oriented - "I want to lose 10 lbs by month 6, 15 by month 8, 25 by 12".
+
+url:https://reddit.com/r/YouShouldKnow/comments/egriem/
+author:thajerm1119
+subreddit:YouShouldKnow
+score:9146
+numComments:174
+isOver18:False
+hasPostBody:True

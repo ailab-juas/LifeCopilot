@@ -1,0 +1,13 @@
+title:
+LPT: Don’t listen to the other guy, do all of your PS4 or Xbox updates as soon as you get them. New consoles are a few system updates behind and won’t function unless updated. Most games can’t be started until updated. BONUS: Put it in rest mode. This will make the download quicker
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/a62nu4/
+author:Hoggy-26
+subreddit:LifeProTips
+score:5298
+numComments:328
+isOver18:False
+hasPostBody:False

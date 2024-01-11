@@ -1,0 +1,13 @@
+title:
+LPT: Always assume positive intent when you lack all the facts. This mindset will gradually make you less reactive, more compassionate and more forgiving of your own bad days.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/uacwfp/
+author:The_Nerdology
+subreddit:LifeProTips
+score:21268
+numComments:382
+isOver18:False
+hasPostBody:False

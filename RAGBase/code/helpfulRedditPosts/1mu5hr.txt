@@ -1,0 +1,21 @@
+title:
+LPT: If you have bad/no cell reception at your home, get your carrier to provide you a femtocell. This is a dongle that hooks up to your internet connection and broadcasts a cellular network. Most carriers will give it to you for free if you call and ask.
+
+content:
+A femtocell is basically a little network adapter that takes your internet connection and broadcasts a cellular network around your home. Most carriers will provide these to you for free if you legitimately do not get reliable service at your home. 
+
+* Verizon: http://www.verizonwireless.com/b2c/device/network-extender
+
+* AT&amp;T: http://www.att.com/standalone/3gmicrocell/
+
+* Sprint: http://now.sprint.com/airave/
+
+They won't give you one for free unless you call and are very persistent that you do not have coverage at your home. You may need to threaten to leave to a different carrier (and be willing to actually do this). It's a lot more cost-effective for them to send you a free network extender and keep you as a customer than it is to lose you as a customer. 
+
+url:https://reddit.com/r/LifeProTips/comments/1mu5hr/
+author:nope_nic_tesla
+subreddit:LifeProTips
+score:2602
+numComments:540
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: If the clothes in the dryer have static electricity, you can be sure they are 100% dry. Static does not form in moist or semi-moist conditions.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/v0wuzh/
+author:ScissorNightRam
+subreddit:LifeProTips
+score:5546
+numComments:141
+isOver18:False
+hasPostBody:False

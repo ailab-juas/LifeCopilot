@@ -1,0 +1,21 @@
+title:
+YSK: These four sites connect you to a wealth of knowledge and learning. I go to them to help me fill my idle time with learning (vs. TV, video games, etc.)
+
+content:
+As the title says, I refer to these sites when I have downtime at work or when I'm bored. I've managed to pick up a few new skills (for work and for fun). Here are the sites and a quick word on what I use them for.
+
+[OpenCourser](http://opencourser.com). Good for finding an online course to take, more for in-depth learning + building professional skills.
+
+[NoExcuseList](http://noexcuselist.com). Great for discovering new learning websites. Neatly categorized into sections (like cooking, music).
+
+[KhanAcademy](http://khanacademy.com). (Re-)Learn pretty much every subject taught in K-12. Edit: Also great for college-level math and exam prep (SAT, GMAT, MCAT, etc).
+
+[StackExchange](http://stackexchange.com/sites). Get answers from people who are super knowledgeable about all sorts of different things.
+
+url:https://reddit.com/r/YouShouldKnow/comments/61vcdr/
+author:MungoTungo
+subreddit:YouShouldKnow
+score:19572
+numComments:469
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Go to Task Manager, Options, and select "always on top". This will make it so task manager will never be stuck unusable behind a crashed game that is freezing your PC, and you can force close it.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/tcohe5/
+author:Omgzjustin
+subreddit:LifeProTips
+score:8643
+numComments:166
+isOver18:False
+hasPostBody:False

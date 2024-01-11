@@ -1,0 +1,13 @@
+title:
+YSK that you can earn Play Store credit by filling out short surveys in the Google Opinion Rewards program.
+
+content:
+I've never paid for an app. https://surveys.google.com/google-opinion-rewards/
+
+url:https://reddit.com/r/YouShouldKnow/comments/8k4t68/
+author:eycrypto
+subreddit:YouShouldKnow
+score:3603
+numComments:366
+isOver18:False
+hasPostBody:True

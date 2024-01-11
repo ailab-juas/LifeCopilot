@@ -1,0 +1,17 @@
+title:
+LPT: If you find someone's wallet, bring it to their bank (check credit/debit cards). The bank will have their most updated contact info. The address on ID may not be the most updated.
+
+content:
+I've lost my wallet a couple of times (not stolen since no activity on cards) but the person who found it can't contact me to let me know where it is :(
+
+Even if the address on the ID is correct, most people won't wait long enough for postage before cancelling their cards.
+
+EDIT: Sorry if this wasn't clear but I didn't mean that you should get the address of the person from the bank. I meant that the bank could call the owner of the wallet for you and let them know whats up.
+
+url:https://reddit.com/r/LifeProTips/comments/diez6l/
+author:A_perfect_blob
+subreddit:LifeProTips
+score:18226
+numComments:598
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+LPT: After you rent a car, particularly in a foreign country, call your bank and change your credit card number
+
+content:
+I work for a credit card company, and I commonly get calls from people who have been billed obscene amounts of money by unscrupulous rental car agencies several months after the fact. They claim the cardholder damaged the car even though it's six months later and no proof is supplied. Then we have to dispute the charges and contact the merchant, which can be a months long pain in the ass process. This can be avoided by simply changing your card number. That way, if they want to bill you, they actually need to send you an invoice instead of having instant carte blanche access to your money.
+
+Secondly, when you rent a car, take an overly gratuitous amount of photos when you pick up and drop off the car. Inside, outside, under the hood, in the trunk, and  each wheel. I mean, take so many pictures that you think it's too many, and then take a few more. We live in the future, folks. You can spare the space in your camera roll. In the event the rental car agency bills you, then they won't have a leg to stand on.
+
+url:https://reddit.com/r/LifeProTips/comments/gvaeu6/
+author:jmanpc
+subreddit:LifeProTips
+score:6221
+numComments:229
+isOver18:False
+hasPostBody:True

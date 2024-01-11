@@ -1,0 +1,13 @@
+title:
+LPT: Every time you are about to buy something and instead decide to save the money, transfer that exact amount to savings with a memo of what you were going to buy.
+
+content:
+This gives you immediate positive feedback when you watch your savings grow a little bit, and gives you further incentive to make similar decisions in the future.
+
+url:https://reddit.com/r/LifeProTips/comments/83w3qa/
+author:brlan10
+subreddit:LifeProTips
+score:32884
+numComments:839
+isOver18:False
+hasPostBody:True

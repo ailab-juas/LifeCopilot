@@ -1,0 +1,13 @@
+title:
+LPT: Your snooze button is not your friend. You gain no actual beneficial sleep in 5-15mins. It's better to set your alarm for your planned "get-up" time, and fully sleep until then.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/qd2rs4/
+author:Tastrix
+subreddit:LifeProTips
+score:2816
+numComments:290
+isOver18:False
+hasPostBody:False

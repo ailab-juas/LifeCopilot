@@ -1,0 +1,17 @@
+title:
+YSK: there's a Google Chrome extension called 'StayFocusd', which lets you block specific sites at specific times of day in order to increase your productivity. [Technology]
+
+content:
+You can find it on 
+
+https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji?hl=en
+
+And you can choose which days and which hours you want to stay 'focused', and which sites you want to block/allow. Obviously, and unfortunately, i NEEDED to block this site :D
+
+url:https://reddit.com/r/YouShouldKnow/comments/5vbu0p/
+author:Sleepinsun
+subreddit:YouShouldKnow
+score:2184
+numComments:93
+isOver18:False
+hasPostBody:True

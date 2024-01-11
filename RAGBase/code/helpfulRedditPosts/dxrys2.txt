@@ -1,0 +1,17 @@
+title:
+YSK That when you're browsing the internet while signed in to a Google account, your searches are stored in "My Activity" even after you clear your history!
+
+content:
+Unless you sign into to myactivity.google.com, and turn off the permissions to access YouTube, Location, and Internet Activity, all your deleted search, location and viewing history will be backed up anyway to your *"My Activity"* record!
+
+YouTube History, Location History and Browser History are all separate settings that you have to go into manually and turn off permissions for. It may even track what apps you have recently opened on your phone, depending on your type of phone. (i.e. it may tell you when you last opened Messages, etc)
+
+Google is incredibly intrusive, and though you technically can turn off the My Activity permissions, it's deceptive and you aren't told about it until you look for it. Make sure you understand what is being tracked, and that you are in control of it.
+
+url:https://reddit.com/r/YouShouldKnow/comments/dxrys2/
+author:swankyhumidifier
+subreddit:YouShouldKnow
+score:1296
+numComments:91
+isOver18:False
+hasPostBody:True

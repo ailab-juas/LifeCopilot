@@ -1,0 +1,13 @@
+title:
+YSK that if you Google/search for a gift card balance check, make sure you click on the retailer's legitimate website
+
+content:
+Why YSK: This morning I found a Target gift card in my closet. I Googled "Target gift card balance" so that I can see if it actually has money in it. The first result was an ad, and I noticed that the website domain was totally unrelated, but when I clicked on it, the page looked exactly the same as Target's. This is definitely a scam. If you put your card number and access code, they will steal it and you can kiss your balance goodbye.
+
+url:https://reddit.com/r/YouShouldKnow/comments/pm8w0t/
+author:Punanistan
+subreddit:YouShouldKnow
+score:1463
+numComments:44
+isOver18:False
+hasPostBody:True

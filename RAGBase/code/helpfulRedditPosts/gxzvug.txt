@@ -1,0 +1,13 @@
+title:
+LPT: When making rice you can use broth (chicken, beef, vegetable, etc) instead of water. It can add a lot of yummy flavor to it.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/gxzvug/
+author:magicone2571
+subreddit:LifeProTips
+score:2250
+numComments:154
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: If you can hear them but they can't hear you, you're the one with the weak signal.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/6d9b0v/
+author:DadThrowsBolts
+subreddit:LifeProTips
+score:31318
+numComments:863
+isOver18:False
+hasPostBody:False

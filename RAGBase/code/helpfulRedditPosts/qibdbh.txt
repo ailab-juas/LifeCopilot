@@ -1,0 +1,13 @@
+title:
+LPT: If you are a student and have an assignment you know you can't finish on time, email your teacher BEFORE the due date, rather than AFTER.
+
+content:
+If you email your teacher after the due date asking for more time, you may come across as irresponsible, and you are less likely to get more time. If you do it like a day before, your teacher will most likely appreciate the initiative and responsibility to each out, and likely give you more time to finish to the assignment.
+
+url:https://reddit.com/r/LifeProTips/comments/qibdbh/
+author:[deleted]
+subreddit:LifeProTips
+score:29089
+numComments:762
+isOver18:False
+hasPostBody:True

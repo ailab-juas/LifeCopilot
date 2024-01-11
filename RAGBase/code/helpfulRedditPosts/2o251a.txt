@@ -1,0 +1,13 @@
+title:
+LPT: See if your ISP is ripping you off. Try a speed test not affiliated with Ookla (speedtest.net).
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/2o251a/
+author:[deleted]
+subreddit:LifeProTips
+score:2755
+numComments:721
+isOver18:False
+hasPostBody:False

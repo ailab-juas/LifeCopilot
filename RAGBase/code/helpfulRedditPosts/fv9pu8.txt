@@ -1,0 +1,15 @@
+title:
+LPT : Pressing Ctrl + Backspace will delete the entire word while typing
+
+content:
+This can prevent unintentionally deleting letters from the previous word.
+
+Edit: The comments say it's Alt + Del for Mac users
+
+url:https://reddit.com/r/LifeProTips/comments/fv9pu8/
+author:VortexRayquaza
+subreddit:LifeProTips
+score:21870
+numComments:551
+isOver18:False
+hasPostBody:True

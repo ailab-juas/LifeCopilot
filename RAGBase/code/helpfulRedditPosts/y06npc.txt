@@ -1,0 +1,15 @@
+title:
+YSK: Almost all of the optical shops in the US are owned by the same company. You can save a lot of money on eyeglasses by learning which one's are still independent.
+
+content:
+Why YSK: You will pay at least 3X too much for exams, prescriptions, and glasses at most US optical shops.
+
+In the US, Europe, and perhaps other parts of the world, one company has basically cornered the optical market and now holds a monopoly so they can charge whatever they want. The same company owns almost all of the 'independent' optical shops, lens suppliers, and all designer frame manufacturers. There are only a few truly independent companies still in this space. Costco and Walmart are two notable exceptions that I'm aware of. Both offer an exam and complete set of glasses for around $100, compared to $400-$600 at 99% of the others.
+
+url:https://reddit.com/r/YouShouldKnow/comments/y06npc/
+author:PortlyCloudy
+subreddit:YouShouldKnow
+score:7540
+numComments:328
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Faster counting method.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1gwj6c/
+author:Piython
+subreddit:LifeProTips
+score:1715
+numComments:334
+isOver18:False
+hasPostBody:False

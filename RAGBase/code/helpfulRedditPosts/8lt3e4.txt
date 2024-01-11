@@ -1,0 +1,26 @@
+title:
+YSK that smoking marijuana daily can fuck up your stomach.
+
+content:
+To preface, I'm a nurse who sees this sort of patient fairly regularly. They present with:
+
+*Intense vomiting, even without having eaten anything,  
+*Moderate to severe abdominal pain,  
+*Negative CT scans and Endoscopic exams,  
+*History of HEAVY marijuana use (at least once every day)  
+But most interestingly...
+*Symptoms are best relieved by hot showers. My patients with this will take 4+ hours worth of showers daily.  
+
+The diagnosis for this is something called "Cannabinoid Hyperemesis Syndrome." The mechanism for this condition isnt quiet understood yet, however based on what I've seen it's very real. The only "cure" for the condition is to stop smoking marijuana. I'm posting this because these patients often refuse to believe that marijuana could be the cause of this condition, especially since it provides a temporary relief of symptoms immediately after ingesting. Ive had a few patients who did stop smoking, saw relief, and then returned to smoking and again became plagued with the worst vomiting episodes in their whole life.
+
+Sources:
+*https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3576702/
+*https://en.wikipedia.org/wiki/Cannabinoid_hyperemesis_syndrome
+
+url:https://reddit.com/r/YouShouldKnow/comments/8lt3e4/
+author:dudenurse11
+subreddit:YouShouldKnow
+score:6965
+numComments:998
+isOver18:False
+hasPostBody:True

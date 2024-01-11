@@ -1,0 +1,19 @@
+title:
+YSK: when you're stuck on a problem, sometimes the best thing is to walk away from it for a while.
+
+content:
+Why YSK: sometime when you look at a problem for too long, you can miss the details that will help you solve the problem. Walking away (literally or figuratively) will allow you a chance to reset your mind, and return the the problem with fresh eyes.
+
+From a practical sense, I have used this when programming/coding when a typo or missing punctuation mark breaks my code and keeps it from working. I've also used this for cash handling and bookkeeping when things just don't balance.
+
+This approach can also be helpful with interpersonal problems where your emotions may get in the way of understanding another person's perspective. In a situation like this there is value in telling the other person you want to 'press pause' for a little while and come back to this. Just be sure you follow through within an appropriate time. 
+
+Besides giving your emotions time to calm down, it also allows you to think about the issue without it being right in front of you. This is especially helpful if you're always coming up with a good answer after the conversation is finished.
+
+url:https://reddit.com/r/YouShouldKnow/comments/x1wwmy/
+author:movieguy95453
+subreddit:YouShouldKnow
+score:4960
+numComments:137
+isOver18:False
+hasPostBody:True

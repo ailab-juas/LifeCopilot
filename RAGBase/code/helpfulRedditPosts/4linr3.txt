@@ -1,0 +1,13 @@
+title:
+LPT: Travelling with a laptop, pack an HDMI cable
+
+content:
+If you have an HDMI port on your laptop, pack an HDMI cable when travelling. These days hotel TVs usually have an HDMI port open and they make good 2nd monitors. Also you can watch Netflix, Hulu etc, instead of whatever's on cable.
+
+url:https://reddit.com/r/LifeProTips/comments/4linr3/
+author:iainmcphersn
+subreddit:LifeProTips
+score:4387
+numComments:977
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: If you're struggling to find motivation to clean your house, invite people over for a party or meal.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5lb53l/
+author:mindthegap92
+subreddit:LifeProTips
+score:1721
+numComments:111
+isOver18:False
+hasPostBody:False

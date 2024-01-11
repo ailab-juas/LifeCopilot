@@ -1,0 +1,29 @@
+title:
+YSK that Harvard recently launched an Intro to Programming with Python, and it includes a free certificate of completion.
+
+content:
+Why YSK: I recently shared a [YSK about Harvard's Intro to CS](https://www.reddit.com/r/YouShouldKnow/comments/v35jdm/ysk_that_harvard_offers_a_free_certificate_for/), and many people seemed interested, so I thought you might also want to know about Harvard's new free Python course. :)
+
+In April, Harvard University launched **Intro to Programming with Python**, a free 9-week course for complete beginners, which includes a free certificate of completion.
+
+IMO, the course is excellent. It's taught by the same professor who teaches Harvard's Intro to CS, the university's most-popular on-campus course. He's super lively, and I think he explains things really well. 
+
+The course is very hands-on, with the instructor live coding from the very beginning, and with weekly problem sets and a final project that you complete through an in-browser code editor.
+
+Finally, when you finish the course, you get a free certificate of completion from Harvard that [looks like this](https://www.classcentral.com/report/harvard-cs50-python/). :)
+
+Here's where you can take the course, through Harvard OpenCourseWare:
+
+[https://cs50.harvard.edu/python/2022/](https://cs50.harvard.edu/python/2022/)
+
+I hope this helps!
+
+**Important**: You can also take the course via edX, but there, the certificate costs $199. If you take it through Harvard OpenCourseWare, the course is exactly the same, but the certificate is entirely free. :)
+
+url:https://reddit.com/r/YouShouldKnow/comments/vo3ngt/
+author:manocormen
+subreddit:YouShouldKnow
+score:22693
+numComments:363
+isOver18:False
+hasPostBody:True

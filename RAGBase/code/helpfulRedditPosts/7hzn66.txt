@@ -1,0 +1,16 @@
+title:
+YSK not to download an app called look
+
+content:
+Once you download it, it sends a mass text message to *all* of your contacts with a message similar to
+“Hey, [Your contact name]! u/loganthebrewer invited you to join look!” And a link. 
+I got the message and downloaded to see who ‘invited me’ and now all of my contacts are receiving spam texts. 
+Sorry about formatting - I’m on mobile.
+
+url:https://reddit.com/r/YouShouldKnow/comments/7hzn66/
+author:loganthebrewer
+subreddit:YouShouldKnow
+score:4301
+numComments:198
+isOver18:False
+hasPostBody:True

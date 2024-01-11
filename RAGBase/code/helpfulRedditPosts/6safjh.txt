@@ -1,0 +1,13 @@
+title:
+LPT: "Secret ingredients" are real. Cumin adds extra body and flavor to any spicy dish. Vinegar adds a pleasant tangy-ness to any soup. Black pepper enhances the flavor of almost any dish that doesn't fit into those two categories.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/6safjh/
+author:Frashizzle
+subreddit:LifeProTips
+score:7139
+numComments:532
+isOver18:False
+hasPostBody:False

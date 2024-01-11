@@ -1,0 +1,13 @@
+title:
+YSK These 99 lifehacks...in easy to understand photos. So. Clever.
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/11s8yt/
+author:MsKim
+subreddit:YouShouldKnow
+score:2306
+numComments:205
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: In Outlook, set up a rule to delay your sent emails by 2 minutes. If you sent by mistake just delete the mail from the outbox.
+
+content:
+EDIT: As suggested by several people, you can put an exception to the rule using a number of different identifiers (my fav being 4 blanks in the subject) if you need an "urgent" feature.
+
+url:https://reddit.com/r/LifeProTips/comments/4gt5dx/
+author:boludolof
+subreddit:LifeProTips
+score:3727
+numComments:313
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,16 @@
+title:
+YSK there’s a really good reason to obey 25mph speed limits in neighborhoods: a person is about 70 percent more likely to be killed if they’re struck by a vehicle traveling at 30 mph versus 25 mph.
+
+content:
+There’s a lot of research out there about this, and the risks definitely change a bit depending on the person’s age and physical condition. But on average, you have a near-100% chance of surviving a vehicle striking you at 25 mph, and only about a 20% chance of walking away ok as the car nears 40 mph.
+
+https://www.propublica.org/article/unsafe-at-many-speeds
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/a4rhhe/
+author:breeogie
+subreddit:YouShouldKnow
+score:7172
+numComments:305
+isOver18:False
+hasPostBody:True

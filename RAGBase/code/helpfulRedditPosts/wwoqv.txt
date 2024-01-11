@@ -1,0 +1,13 @@
+title:
+LPT: Search for misspelled items on eBay to score great deals [Lifehacker]
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/wwoqv/
+author:goobyplx
+subreddit:LifeProTips
+score:1686
+numComments:198
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: Treat early, 100-level college courses like foreign language classes. A 100-level Psychology course is not designed to teach students how to be psychologists, rather it introduces the language of Psychology.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/mcz2e1/
+author:this1tyme
+subreddit:LifeProTips
+score:34124
+numComments:807
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,15 @@
+title:
+LPT: Use Black Friday to unsubscribe from mailing lists
+
+content:
+Black Friday is the best day to stop all those annoying retail emails - as they will almost certainly send you one today. (also filter down your emails by searching the word 'unsubscribe' )
+
+Happy Unsubscribe Day!
+
+url:https://reddit.com/r/LifeProTips/comments/7f606y/
+author:rmckedin
+subreddit:LifeProTips
+score:2275
+numComments:70
+isOver18:False
+hasPostBody:True

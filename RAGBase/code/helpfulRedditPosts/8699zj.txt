@@ -1,0 +1,13 @@
+title:
+YSK that most ISPs advertise their speeds in Megabits (Mbs or Mbits/s) and not in Megabytes (MB/s), which is what most download speeds are calculated in. A megabit is 1/8 of a megabyte.
+
+content:
+This can be very misleading when testing your connection speed. Games are downloading at ~5MB/s? Well, you more than likely have roughly a 40-60 Mbit total bandwidth connection and not a 50MB.
+
+url:https://reddit.com/r/YouShouldKnow/comments/8699zj/
+author:remixorlandofla
+subreddit:YouShouldKnow
+score:7204
+numComments:312
+isOver18:False
+hasPostBody:True

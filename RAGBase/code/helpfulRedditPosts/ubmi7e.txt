@@ -1,0 +1,15 @@
+title:
+YSK that in the United States, phone calls to and from jails and prisons are routinely recorded. Anything you say while on the phone can be used to prosecute you.
+
+content:
+**Why YSK.** Tf you're ever arrested and have to make a call from jail, many jails and prisons have phones that prisoners can use. These phone lines are [routinely recorded and what you say can be used as evidence](https://www.findlaw.com/legalblogs/criminal-defense/anything-you-say-on-the-prison-phone-can-and-will-be-used-against-you/) in any case against you. 
+
+While your call to your attorney might be covered under attorney-client privilege, it is never a good idea to say anything that might be used against you over the phone.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ubmi7e/
+author:ButtholeBanquets
+subreddit:YouShouldKnow
+score:13752
+numComments:434
+isOver18:False
+hasPostBody:True

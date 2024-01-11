@@ -1,0 +1,14 @@
+title:
+YSK that you can measure distances on Google Maps by right-clicking and selecting "Measure distance" from the pop-up menu.
+
+content:
+You can also break it down into angles by sliding the white circles that appear on the measuring line.  This is a fantastic function that I just found out about tonight, although it's been available for about three years.  Here is the link from Google Maps Help:
+https://support.google.com/maps/answer/1628031
+
+url:https://reddit.com/r/YouShouldKnow/comments/6y79zw/
+author:niktemadur
+subreddit:YouShouldKnow
+score:5329
+numComments:150
+isOver18:False
+hasPostBody:True

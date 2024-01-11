@@ -1,0 +1,13 @@
+title:
+YSK about freerice.com, a fun trivia website that donates rice to the hungry for each correctly answered question
+
+content:
+I've spent a few hours on it myself and it's a uniquely productive way to learn and help others simultaneously!
+
+url:https://reddit.com/r/YouShouldKnow/comments/8o10zz/
+author:ajohnson360
+subreddit:YouShouldKnow
+score:10894
+numComments:333
+isOver18:False
+hasPostBody:True

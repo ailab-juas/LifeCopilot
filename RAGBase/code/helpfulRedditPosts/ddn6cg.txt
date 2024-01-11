@@ -1,0 +1,15 @@
+title:
+YSK that if you're trying to put out a small fire, the best way to do it is usually with a wet blanket
+
+content:
+This is especially true if you only have a limited amount of water. You can throw a whole bucket of water on a fire and it might not put it out (depending on how big the fire is), but if you soak a blanket or a sweater, it's much more effective at putting out fires. Remember, you're trying to stop the fire from getting air, with no air the fire will go out.
+
+If you only have a bottle of water, your best bet is to soak whatever fabric is on hand (like a towel or a t-shirt) and dousing it in water.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ddn6cg/
+author:srsly_its_so_ez
+subreddit:YouShouldKnow
+score:7974
+numComments:214
+isOver18:False
+hasPostBody:True

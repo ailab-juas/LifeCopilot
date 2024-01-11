@@ -1,0 +1,13 @@
+title:
+LPT: Get ready for bed by showering with just a night light on. Spending some time in low light will help your body start to wind down before it’s time to sleep.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/teg2wa/
+author:Catmeum
+subreddit:LifeProTips
+score:18269
+numComments:849
+isOver18:False
+hasPostBody:False

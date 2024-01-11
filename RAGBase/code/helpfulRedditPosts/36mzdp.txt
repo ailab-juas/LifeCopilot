@@ -1,0 +1,17 @@
+title:
+LPT: Run your business card through a couple of the more popular card scanner apps
+
+content:
+I regularly use a business card scanner app, and these apps are increasing in popularity.  I use one of the better ones, and I still find that around 30-40% of cards have some sort of design flourish, font or kerning that causes the OCR to misread important details.  So test your card, and if popular card scanner apps choke on your name, phone number or email address, make a note.  If you have control over your card design, update it to something more OCR friendly for when you re-print the next batch.  If you're at a larger company where an art department or other group or person controls the design, let them know that card scanners are mis-reading important information.
+
+ABBYY, CamCard, Presto BizCard, ScanBizCards, WorldCard Mobile and Yolu Card Reader all have free versions that you can use to test out your own card and see how well the OCR and software can parse your design.
+
+Takes a couple of minutes, costs you nothing and increases the likelihood that people will actually keep a copy of your contact details.
+
+url:https://reddit.com/r/LifeProTips/comments/36mzdp/
+author:[deleted]
+subreddit:LifeProTips
+score:2934
+numComments:256
+isOver18:False
+hasPostBody:True

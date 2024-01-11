@@ -1,0 +1,28 @@
+title:
+YSK: Just like Amazon, Overstock has a huge issue with counterfeit merchandise. Unlike Amazon, they don't provide refunds.
+
+content:
+After dealing with Overstock for nearly two months over a dispute over a ridiculously expensive pillow, I read the recent YSK about Amazon. Overstock has a similar issue with commingling inventory. In a nutshell, Overstock receives inventory from different distributors and cannot verify the authenticity of their items. Because they accept differing distributors for their inventory but store all the same products with the same sku together, you could receive an item from a counterfeit distributor and never really know.
+
+
+Unfortunately, unlike Amazon, Overstock has incredibly poor customer service and refuse returns, even within their so called return window.
+
+Why YSK: Overstock can send you fake merchandise and refuse a return.
+
+Edit: I've seen a few similar comments/questions and I wanted to clarify.
+
+First, I'm just a person, a disgruntled person, but a person nonetheless. I do not work for or have any affiliation with Amazon or Overstock.com. Read my history if you're interested. It's boring but you'll get the point. 
+
+Second, I am working with my cc company on a charge back. I'm honestly not holding my breath since they asked me to get a professional authentication on a pillow.
+
+Third, I doubt my situation is unique (as evidence by many comments) but I saw the other post and as I'm going through this ridiculous situation with Overstock, I thought I would share. I am pretty upset that Overstock has the position that because no one else has complained about the item, I must be mistaken. Also, they required a photo of the item without packaging to continue my complaint and then said the item was opened and therefore not returnable.
+
+In our current world, holding companies accountable for terrible business practices is vital.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ih1kkt/
+author:MeggieAC
+subreddit:YouShouldKnow
+score:18222
+numComments:290
+isOver18:False
+hasPostBody:True

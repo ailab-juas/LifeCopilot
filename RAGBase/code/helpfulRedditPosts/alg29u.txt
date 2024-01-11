@@ -1,0 +1,13 @@
+title:
+LPT: In light of the frigid temperatures hitting the US this week, please DO NOT take your dogs out for walks. Their paws can get frost bite very easily if not adequately protected.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/alg29u/
+author:SanJuniper0
+subreddit:LifeProTips
+score:2077
+numComments:141
+isOver18:False
+hasPostBody:False

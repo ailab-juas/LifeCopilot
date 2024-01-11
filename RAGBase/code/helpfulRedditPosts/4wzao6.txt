@@ -1,0 +1,27 @@
+title:
+YSK: This Thursday night / Friday morning may be the best meteorite shower in a long time.
+
+content:
+This Thursday night / Friday morning will be the Perseids meteor shower.  Apparently we are in a good position this year because Jupiter's gravity has pulled a bunch of extra crud into Earth's path, so we can expect a particularly good show.  This happens every 10 or 12 years.
+
+[This web page](http://darksitefinder.com/map/) has a map that will help you locate an area near you with dark skies.
+
+The moon will be fairly bright, but will set sometime around 1am (check locally).
+Edit 3:  this "around 1am" figure is for the Americas.  Sorry, rest of the world, you're going to have to figure this out for yourselves.
+
+Edit:  many people have asked if and when this will be visible in (Australia, UK, Korea, Nigeria . . .).  The answer is   
+1) I'm not at all an expert, but   
+2) my best understanding is that it lasts long enough that no matter where you are, if the sky is dark and clear, you will be able to see them.  They may peak Wednesday or Thursday or Friday night, that's way beyond my ability to figure out.
+
+Edit 2:  Thanks to /u/topwaterpar for these links:  
+[http://www.timeanddate.com/astronomy/meteor-shower/perseid.html](http://www.timeanddate.com/astronomy/meteor-shower/perseid.html)  
+[http://earthsky.org/astronomy-essentials/everything-you-need-to-know-perseid-meteor-shower](http://earthsky.org/astronomy-essentials/everything-you-need-to-know-perseid-meteor-shower)
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/4wzao6/
+author:tgeliot
+subreddit:YouShouldKnow
+score:5393
+numComments:534
+isOver18:False
+hasPostBody:True

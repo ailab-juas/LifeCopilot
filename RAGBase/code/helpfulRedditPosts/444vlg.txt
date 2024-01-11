@@ -1,0 +1,13 @@
+title:
+LPT: If your kitchen sink gets slow/clogged, pour 1/2 cup of baking soda down there followed by 1/2 cup of vinegar
+
+content:
+Wait 2-5 minutes and pour freshly boiled water down the sink. Cleared up months of backup in a ridiculously short time, and it's dirt cheap!
+
+url:https://reddit.com/r/LifeProTips/comments/444vlg/
+author:Nessunolosa
+subreddit:LifeProTips
+score:2512
+numComments:682
+isOver18:False
+hasPostBody:True

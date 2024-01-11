@@ -1,0 +1,13 @@
+title:
+YSK: Don’t hang up on emergency services, tell them you didn’t mean to call
+
+content:
+If you accidentally call emergency services, make sure you tell them, otherwise they will most likely send out a police car to your location, and you could be fined. Instead, just tell them, “Sorry i didn’t mean to call” and make sure they know it was a mistake.
+
+url:https://reddit.com/r/YouShouldKnow/comments/fap61p/
+author:TheRoyalBias
+subreddit:YouShouldKnow
+score:15969
+numComments:491
+isOver18:False
+hasPostBody:True

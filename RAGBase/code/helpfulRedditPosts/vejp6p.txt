@@ -1,0 +1,13 @@
+title:
+LPT: Never send a work email when you’re emotionally compromised. Type it up, save as draft and walk away. Ideally, sleep on it. You’ll make a smarter choice when not heated
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/vejp6p/
+author:Jumping_Bear_
+subreddit:LifeProTips
+score:44736
+numComments:920
+isOver18:False
+hasPostBody:False

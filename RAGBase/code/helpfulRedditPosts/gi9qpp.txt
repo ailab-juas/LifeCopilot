@@ -1,0 +1,21 @@
+title:
+LPT: If you have your phone synced to your Gmail account, you can Google search "Call My Phone". There will be an option to make your phone "Ring" loudly. You can even get the location, erase, or lock the device.
+
+content:
+Edit:
+
+To clear things up. This is the simplest form of finding your phone. You are not required to download an app or buy external hardware, such as Google Home.
+
+~~I am unsure if this works for iPhone, I'm sure someone here with an iPhone can test it.~~
+
+&amp;#x200B;
+
+Edit2: Does not work for iPhone. If the very very very minority of mobile users would test Windows phone or blackberry OS that would be awesome.
+
+url:https://reddit.com/r/LifeProTips/comments/gi9qpp/
+author:crazylegs888
+subreddit:LifeProTips
+score:9993
+numComments:291
+isOver18:False
+hasPostBody:True

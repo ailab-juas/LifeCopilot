@@ -1,0 +1,13 @@
+title:
+LPT: If you need to use the iron in a hotel room, run it across a towel first to make sure the last person didn't leave any dye / residue / shmutz on it that will damage your outfit.
+
+content:
+Learned this one the hard way....
+
+url:https://reddit.com/r/LifeProTips/comments/yfyff9/
+author:slapjammy
+subreddit:LifeProTips
+score:1995
+numComments:46
+isOver18:False
+hasPostBody:True

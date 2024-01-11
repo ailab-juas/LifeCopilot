@@ -1,0 +1,13 @@
+title:
+YSK that even if you have an emergency window breaking tool, it is nearly impossible to break a modern car window if you hit the center. Hit the corner in order to break it.
+
+content:
+I was pretty surprised by this. I keep a window breaker in my car. Had I not learned this, it wouldn't have done me any good.
+
+url:https://reddit.com/r/YouShouldKnow/comments/9d1ivh/
+author:RCampbell47
+subreddit:YouShouldKnow
+score:12350
+numComments:385
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,19 @@
+title:
+YSK that hard disk is most of the times the bottleneck on your computer
+
+content:
+Unless you are a gamer or for whatever reason you make an intensive use of your CPU for long periods of time, most probably when your computer feels slow it's due to the writing/reading to the hard disk.
+
+If you are thinking about getting a new computer because it's become really slow, consider replacing your hard disk with a solid state one (SSD).
+
+I've made this change in a couple of computers and the difference is just impressive, and for less than $100.
+
+EDIT; grammar
+
+url:https://reddit.com/r/YouShouldKnow/comments/65oj40/
+author:emdio
+subreddit:YouShouldKnow
+score:2264
+numComments:291
+isOver18:False
+hasPostBody:True

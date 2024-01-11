@@ -1,0 +1,17 @@
+title:
+LPT: If you want to find alternatives to something, start to type "[thing] vs" in Google, and take a look at what suggestions pop up
+
+content:
+I've been doing this forever and I don't know if anyone else does it.
+
+I mostly use it for software but it works for other things too.
+
+[Example](https://i.imgur.com/VJ6G0jq.png)
+
+url:https://reddit.com/r/LifeProTips/comments/ef2wzo/
+author:signsandwonders
+subreddit:LifeProTips
+score:2347
+numComments:84
+isOver18:False
+hasPostBody:True

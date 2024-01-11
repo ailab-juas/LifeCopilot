@@ -1,0 +1,15 @@
+title:
+YSK that there are archives of the pirate bay
+
+content:
+There are several archives of the pirate bay here:
+
+http://archiveteam.org/index.php?title=The_Pirate_Bay
+
+url:https://reddit.com/r/YouShouldKnow/comments/2otjfs/
+author:rawtfulawlz
+subreddit:YouShouldKnow
+score:1040
+numComments:87
+isOver18:False
+hasPostBody:True

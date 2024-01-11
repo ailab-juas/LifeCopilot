@@ -1,0 +1,13 @@
+title:
+Never buy lettuce again!
+
+content:
+After your done with a head of lettuce, put it in a bowl of water, (butt?) down. It will grow back within a week or less! Mine grows back within 4-6 days!
+
+url:https://reddit.com/r/LifeProTips/comments/18m8il/
+author:Kailey_Mathis
+subreddit:LifeProTips
+score:1619
+numComments:566
+isOver18:False
+hasPostBody:True

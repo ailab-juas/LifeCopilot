@@ -1,0 +1,21 @@
+title:
+LPT : clearly state what you want in the first line of your e-mail, and only give the explaination / context afterwards
+
+content:
+It saves so much time  and cognitive load for your reader – it also makes you look more  professional, in my opinion. I  also find it a lot easier to write e-mails that way ; I don't have to  think how to explain my request; I just ask, then explain why.
+
+Just be precise and straight-to-the point for the beginning :
+
+&gt;*Hello, I am writing to you about project XXX ; can you send me the minutes of the last meeting, of this monday ?*  
+&gt;  
+&gt;*I was away because of COVID, and would like to catchup because blahblablablah (you can pretty much go on for as long as you want at this point)*  
+&gt;  
+&gt;*Thanks*
+
+url:https://reddit.com/r/LifeProTips/comments/stt5gc/
+author:gamasco
+subreddit:LifeProTips
+score:16458
+numComments:564
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+YSK that Wikipedia has a page that allows you to read about interesting nearby places
+
+content:
+https://en.wikipedia.org/wiki/Special:Nearby
+
+It's pretty cool to see the Wikipedia pages of places in your town. My town has some historic buildings that I didn't know about. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/9qsh2z/
+author:hardward123
+subreddit:YouShouldKnow
+score:4314
+numComments:134
+isOver18:False
+hasPostBody:True

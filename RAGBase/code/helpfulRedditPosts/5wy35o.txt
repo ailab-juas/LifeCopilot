@@ -1,0 +1,13 @@
+title:
+LPT: When in an argument, act as if you're being recorded. This will prevent you from saying stupid things that you don't mean
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5wy35o/
+author:noHeadWerewolf
+subreddit:LifeProTips
+score:1445
+numComments:56
+isOver18:False
+hasPostBody:False

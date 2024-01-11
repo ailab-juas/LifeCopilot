@@ -1,0 +1,19 @@
+title:
+LPT: Google Maps Navigator has an "Avoid Highways" option that aside from getting you away from traffic, often takes you down beautiful country roads in either the same or only slightly more time.
+
+content:
+The option is currently in the "Options" section when you're confirming your route. Unless I'm in a hurry, I always use this. It makes driving far less tedious and much more pleasant and relaxing. I find myself to be in a much better mood and country roads are far prettier than interstates.
+
+Edit: As others have pointed out; if you already live somewhere very rural with few roads, it probably won't work well since the alternative routes will be rather extreme.
+
+Edit 2: This doesn't work if you use it in the middle of a major city. Come on y'all.
+
+Edit 3: Holy canoli. If it extends your driving to a ridiculous amount, obviously don't use it in that scenario unless you're willing to chill for said time. Holy meebus mother of jeebus.
+
+url:https://reddit.com/r/LifeProTips/comments/p3bezf/
+author:[deleted]
+subreddit:LifeProTips
+score:2058
+numComments:137
+isOver18:False
+hasPostBody:True

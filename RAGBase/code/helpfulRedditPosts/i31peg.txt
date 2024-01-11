@@ -1,0 +1,31 @@
+title:
+LPT: If you order online and the shop allows you to leave a comment for your order only leave a comment when absolutely vital and necessary.
+
+content:
+I work for an online store and I see this every day. People writing "Hello", " Thanks", funny jokes or funny requests into the comment field.
+
+Or my absolute favourite: "Please ship as fast as possible!"
+
+Well Mister what you do not realize is that your order would have already been processed and shipped - but your comment put it out off the fully automated processing and shipping queue and now it is in the queue for orders with special requests and waiting for manual review. If you are lucky and times are not busy it will still go out the same day, but if you are not lucky your request for fast shipping just cost you one day.
+
+**Edit:** I always wanted to write: "Wow this blew up!" under one of my posts. So here I go: Wow this blew up!
+
+Some seem a little disappointed and think their “Thank You” notes are not appreciated. They are! But most of the time it's only one customer service agent who is going to read them before clicking them away.
+
+If you want to do something nice however: Leave a review on the website or on a third party review site for everyone to see!
+
+Especially in smaller and mid-sized companies every single review is read. Not only by the customer service but by many of the employees, too. I have even seen nice reviews printed out and attached to the packing table by employees. Also: With your reviews you help those companies compete against the giants like Amazon and keep their independence from marketplaces.
+
+**Edit 2:** I realize my original post came across a little condescending. The point is not that you should not write any comments, but to realize that typing "Whassuup" into the comment box might cause a short delay of your order - depending on the companies internal processing - because someone will actually have to read this and then flag your request as "solved"
+
+(However requests for fast shipping ARE annoying, that's like telling the waiter not to serve your meal cold and then claiming credit for it when it actually is served hot.)
+
+&amp;#x200B;
+
+url:https://reddit.com/r/LifeProTips/comments/i31peg/
+author:llamazaresj
+subreddit:LifeProTips
+score:14130
+numComments:288
+isOver18:False
+hasPostBody:True

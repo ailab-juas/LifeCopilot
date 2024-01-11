@@ -1,0 +1,15 @@
+title:
+YSK: Minors Cannot Legally Enter Into A Contract And Therefore Can Return Products/Services For Full Price With No Repurcussions.
+
+content:
+Ex: Sharon is 17 and enters into a contract for a 12 month gym membership. 6 months in she decides she doesn't want to continue paying. As long as she is still under 18, she can void the contract. This can also be applied to products.
+
+Contracts are only voidable by minors.
+
+url:https://reddit.com/r/YouShouldKnow/comments/15dpn0/
+author:YSKJOE
+subreddit:YouShouldKnow
+score:1113
+numComments:184
+isOver18:False
+hasPostBody:True

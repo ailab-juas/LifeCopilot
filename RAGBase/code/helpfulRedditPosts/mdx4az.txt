@@ -1,0 +1,17 @@
+title:
+YSK about doesthedogdie.com - You can look up books, movies, etc and it will tell you if there are any unpleasant scenes without spoiling the plot.
+
+content:
+**Why YSK:** Some scenes can be distressing, especially for people with PTSD or who have suffered a loss. Googling a work of fiction is a good way to have it spoiled. This site has a list of trigger warnings for works of fiction and won't spoil anything. 
+
+https://www.doesthedogdie.com
+
+The site tracks 70+ categories like slurs, car crashes, dogs dying, spiders and cancer.
+
+url:https://reddit.com/r/YouShouldKnow/comments/mdx4az/
+author:Ajreil
+subreddit:YouShouldKnow
+score:18891
+numComments:416
+isOver18:False
+hasPostBody:True

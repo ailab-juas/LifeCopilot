@@ -1,0 +1,13 @@
+title:
+YSK: Starbucks gives you a discount when you bring your own mug
+
+content:
+By bringing in any personal cup, you qualify for a $.10 off cup discount regardless of the size of the beverage. You will be charged for the closest cup size, but not larger than the size of the personal cup.
+
+url:https://reddit.com/r/YouShouldKnow/comments/9th150/
+author:microtopian
+subreddit:YouShouldKnow
+score:2758
+numComments:253
+isOver18:False
+hasPostBody:True

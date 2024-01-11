@@ -1,0 +1,18 @@
+title:
+YSK that if somebody from your power company comes to your door and asks for a recent utility bill, no matter the reason he gives you, don’t give it to him.
+
+content:
+If he was really from your power supplier, he would already have access to all the information on the bill.
+
+What is probably going on is they are from a competing company that is trying to illegally make themselves your power supplier without your consent. Once they have your account number, there’s not much else they need to make the switch. Most people won’t notice this even happened for a while, and in the meantime, 
+they can slowly raise your rates. 
+
+So even if the person looks legit, don’t give him anything. If there is a real problem, your power provider will notify you by mail and phone.
+
+url:https://reddit.com/r/YouShouldKnow/comments/dpaati/
+author:The-Offbrand
+subreddit:YouShouldKnow
+score:1500
+numComments:73
+isOver18:False
+hasPostBody:True

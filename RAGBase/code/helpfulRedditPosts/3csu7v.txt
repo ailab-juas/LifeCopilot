@@ -1,0 +1,13 @@
+title:
+YSK that Saturday, July 11 (7/11) is free slurpee day at 7-Eleven stores
+
+content:
+Goes from 11 AM to 7 PM. Have fun!
+
+url:https://reddit.com/r/YouShouldKnow/comments/3csu7v/
+author:PotentiallyKinetic
+subreddit:YouShouldKnow
+score:1126
+numComments:118
+isOver18:False
+hasPostBody:True

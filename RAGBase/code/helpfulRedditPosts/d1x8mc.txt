@@ -1,0 +1,13 @@
+title:
+LPT set a nearby shop as your home address in your vehicle's nav. If someone were to steal your car, the last thing you want is for them to have directions to your house with a set of keys/garage door opener.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/d1x8mc/
+author:ItzGrenier
+subreddit:LifeProTips
+score:32385
+numComments:982
+isOver18:False
+hasPostBody:False

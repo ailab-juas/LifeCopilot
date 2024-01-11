@@ -1,0 +1,13 @@
+title:
+YSK that Bananas aren't supposed to be Spicy.
+
+content:
+Why YSK: You might be allergic to Bananas. If you feel like your tongue is weird after eating any fruit, you might want to get that checked out.
+
+url:https://reddit.com/r/YouShouldKnow/comments/zbwev7/
+author:TheTrueSpaceMuffin1
+subreddit:YouShouldKnow
+score:13677
+numComments:1328
+isOver18:False
+hasPostBody:True

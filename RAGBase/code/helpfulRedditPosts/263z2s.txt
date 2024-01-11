@@ -1,0 +1,13 @@
+title:
+LPT: How to hear someone easily in a noisy club
+
+content:
+When you're in a club / at a gig etc. and the music is too loud to hear what your friend is saying: Gently push your [tragus](http://en.wikipedia.org/wiki/Tragus_%28ear%29) into one ear thereby closing it and shutting out a lot of incoming frequencies from the room. Point this closed ear towards your friend's mouth and they can then literally shout and not only will it not hurt you - you'll easily be able to hear what they're saying.
+
+url:https://reddit.com/r/LifeProTips/comments/263z2s/
+author:CaptainIggy
+subreddit:LifeProTips
+score:2034
+numComments:494
+isOver18:False
+hasPostBody:True

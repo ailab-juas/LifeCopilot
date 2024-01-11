@@ -1,0 +1,13 @@
+title:
+LPT If you are applying to a job make sure your resume is in PDF format.
+
+content:
+Most companies don't open any other types of documents so make sure you are getting seen by your potential employer.
+
+url:https://reddit.com/r/LifeProTips/comments/d657je/
+author:Headgothunt
+subreddit:LifeProTips
+score:19137
+numComments:982
+isOver18:False
+hasPostBody:True

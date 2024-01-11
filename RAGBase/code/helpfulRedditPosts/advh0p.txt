@@ -1,0 +1,17 @@
+title:
+YSK that more than 40% of people have a vitamin D deficiency, especially in the winter months, which can cause fatigue, depression, pain, and a host of other problems.
+
+content:
+According to a [2011 study](https://www.ncbi.nlm.nih.gov/pubmed/21310306), 41.6% of adults in the US are deficient. This number goes up to 69.2% in Hispanics and 82.1% in African-Americans.
+
+I was having huge fatigue problems and got a blood test - I had extremely low vitamin D. Apparently it's incredibly common. Already feeling much better. Take some vitamin D supplements!!
+
+Edit: Those of you who suspect a vitamin D deficiency, let me know if it helps, I'm curious!
+
+url:https://reddit.com/r/YouShouldKnow/comments/advh0p/
+author:PowerMonkey500
+subreddit:YouShouldKnow
+score:8464
+numComments:440
+isOver18:False
+hasPostBody:True

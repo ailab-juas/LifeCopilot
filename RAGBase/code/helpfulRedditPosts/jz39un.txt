@@ -1,0 +1,33 @@
+title:
+YSK: There are not 8 types of burnout. The classic burnout inventory in psychological research has 3 dimensions: emotional exhaustion, depersonalization, and reduced personal achievement.
+
+content:
+**Why YSK:** There was a post today that blew up describing the "8 types" of burnout. This is not a peer-reviewed typology, and in fact came from a blog (see: [https://www.workingmother.com/identifying-types-of-burnout](https://www.workingmother.com/identifying-types-of-burnout)). Burnout is a real and important phenomenon, but we need to know how to properly conceptualize and measure it in order to address it. Researchers spend their *whole lives* studying these topics. So at best, pop psychology provides an incomplete understanding of the issue, and at worst, an inaccurate and misleading one.
+
+The Maslach Burnout Inventory measures 3 dimensions of burnout:
+
+* emotional exhaustion: feeling you can't "give of" yourself anymore; are severely lacking psychological resources
+* depersonalization/cynicism: negative attitudes towards others or towards the job (also: withdrawal or detachment, irritability, negative thoughts towards the job or those you encounter on the job)
+* reduced personal achievement: the tendency to evaluate yourself and your work negatively (feeling like you are unaccomplished; like your work is insufficient)
+
+The MBI was originally oriented towards healthcare professionals but paved the way for research in burnout across occupations.
+
+See:
+
+The Maslach Burnout Inventory: [https://www.researchgate.net/publication/277816643\_The\_Maslach\_Burnout\_Inventory\_Manual](https://www.researchgate.net/publication/277816643_The_Maslach_Burnout_Inventory_Manual)
+
+Schaufeli, W. B., Leiter, M. P., &amp; Maslach, C. (2009). Burnout: 35 years of research and practice. *The Career Development International*, *14*(3), 204–220. [https://doi.org/10.1108/13620430910966406](https://doi.org/10.1108/13620430910966406)
+
+open access link to Schaufeli et al. (2009): [https://www.wilmarschaufeli.nl/publications/Schaufeli/311.pdf](https://www.wilmarschaufeli.nl/publications/Schaufeli/311.pdf)
+
+Other related scales:
+
+[https://nam.edu/valid-reliable-survey-instruments-measure-burnout-well-work-related-dimensions/](https://nam.edu/valid-reliable-survey-instruments-measure-burnout-well-work-related-dimensions/)
+
+url:https://reddit.com/r/YouShouldKnow/comments/jz39un/
+author:TheRestlessHermit6
+subreddit:YouShouldKnow
+score:12895
+numComments:242
+isOver18:False
+hasPostBody:True

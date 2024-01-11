@@ -1,0 +1,13 @@
+title:
+LPT: Save the packing list from your camping trip. When you get home, add the things you forgot, remove what you brought but didn't need and then save the list for your next trip.
+
+content:
+Edit: Yes, there are many exceptions to this rule: Foul weather gear, first aid kit, bear spray, etc.  All good points.
+
+url:https://reddit.com/r/LifeProTips/comments/6nxhxz/
+author:paulysoftware
+subreddit:LifeProTips
+score:30751
+numComments:1424
+isOver18:False
+hasPostBody:True

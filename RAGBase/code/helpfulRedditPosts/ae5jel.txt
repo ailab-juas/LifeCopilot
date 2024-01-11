@@ -1,0 +1,13 @@
+title:
+LPT: Don't store bananas with your other fruits. Bananas give of a lot of ethylene in its ripening process which quickens the ripening process of your other fruits. (or do just that if you do want to ripen them faster). Alternatively, store bananas with your potatoes and onions to halt germination.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ae5jel/
+author:abbadon420
+subreddit:LifeProTips
+score:14354
+numComments:369
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: If you ever feel the need to confront somebody about a difficult matter, never do it on first impulse. Wait as long as it takes to calm yourself down, think through the scenario, and initiate the confrontation with a cool, empathetic and logical demeanor.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/4e5100/
+author:kitehkiteh
+subreddit:LifeProTips
+score:1193
+numComments:58
+isOver18:False
+hasPostBody:False

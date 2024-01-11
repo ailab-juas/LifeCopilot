@@ -1,0 +1,13 @@
+title:
+LPT: turn on the light above your stove when you are using a burner or the oven. It will serve as a visual reminder so you don't accidentally leave something on.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/tki9ym/
+author:Slawth_x
+subreddit:LifeProTips
+score:3374
+numComments:114
+isOver18:False
+hasPostBody:False

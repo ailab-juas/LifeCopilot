@@ -1,0 +1,13 @@
+title:
+LPT: If you are taking college courses, save all of your syllabi and put them in one folder. That way if you ever decide to transfer to another school, you will have proof to back up your transfer equivalency request. Don't let your hard work and money go to waste.
+
+content:
+For example, a college on the East Coast might list Organic Chemistry as CHEM 201 but a school on the West Coast might list it as CHEM 301. They could be the same exact course but neither college will be able to evaluate them without the syllabus. Course numbers alone are not nationwide. Also, there is no way every online transfer equivalency website can stay on top of each college course equivalence in the entire United States. 
+
+url:https://reddit.com/r/LifeProTips/comments/5vj7ku/
+author:zubat500
+subreddit:LifeProTips
+score:4854
+numComments:150
+isOver18:False
+hasPostBody:True

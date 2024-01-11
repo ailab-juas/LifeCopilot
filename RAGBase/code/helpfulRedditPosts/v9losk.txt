@@ -1,0 +1,52 @@
+title:
+YSK that in 18 states plus Puerto Rico, ALL adults are mandated reporters
+
+content:
+Edit:
+
+**What is a mandated reporter:**
+
+&gt;The Federal Child Abuse Prevention and Treatment 
+Act (CAPTA) requires each State to have provisions 
+or procedures for requiring certain individuals 
+to report known or suspected instances of 
+child abuse and neglect
+
+-----
+
+Those states are:
+
+Delaware, Florida, Idaho, Indiana, Kentucky, Maryland, Mississippi, Nebraska, New 
+Hampshire, New Jersey, New Mexico, North Carolina, Oklahoma, Rhode Island, Tennessee, 
+Texas, Utah, and Wyoming
+
+
+-----
+
+**Why YSK** - Most people know that teachers, school employees, daycare workers, and the like are mandated reporters but most do not know that they themselves may very well be one, as well.
+
+All 50 states have mandated reporting statutes, most are limited to certain professions (beyond just teachers) and some (the ones above) expand it to all adults.
+
+-----
+
+
+
+For more information on mandated reporting and exactly who is is a mandated reporter in each state, see [this direct download PDF from childwelfare.gov](https://www.childwelfare.gov/pubpdfs/manda.pdf)
+
+To check the statues for your individual state, go to
+
+https://www.childwelfare.gov/topics/systemwide/laws-policies/state/
+
+-----
+
+
+
+Penalties for willfully failing to report - https://www.childwelfare.gov/pubpdfs/report.pdf
+
+url:https://reddit.com/r/YouShouldKnow/comments/v9losk/
+author:Gangreless
+subreddit:YouShouldKnow
+score:1377
+numComments:84
+isOver18:False
+hasPostBody:True

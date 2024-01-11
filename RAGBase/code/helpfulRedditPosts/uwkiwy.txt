@@ -1,0 +1,25 @@
+title:
+YSK: how to make yourself understood by people with hearing difficulties
+
+content:
+Why YSK: people with hearing difficulties get frustrated not being able to understand what others say, and you can help.
+
+As a person with progressive hearing loss and tinnitus (ringing in the ears), there are a few things that I wish everyone knew about talking to people with impaired heading:
+
+Don't let your voice trail off. If I have to ask you to repeat yourself, ⅔ of the time it's because I couldn't hear the last two or three syllables of what you said. This is an extremely common speech pattern. To make it worse, all too often, when people repeat what they said they will start out loud, realize how loud they're being, get uncomfortable, and end up with just a ^murmur. And the word or two they murmur is probably what I didn't hear the first time. So keep your volume up all the way through what you're saying.
+
+Face me. As in keep your face pointed towards me all the time you're speaking. This isn't a common problem, but when it occurs, it can be bad. It tends to happen when someone is discussing something that is behind them, so they will turn their head to look at the thing they're talking about.
+
+Avoid contractions like "can't" and "didn't", especially if asked to repeat yourself. The "t" sound is high frequencies, which is what people generally lose first, making these words sound too much like "can" and "did". Please use "cannot" and "did not" instead.
+
+Please do not suggest I get a hearing aid or ask me if I've considered getting one. You don't know my particular situation, and it's none of your business.
+
+Thank you.
+
+url:https://reddit.com/r/YouShouldKnow/comments/uwkiwy/
+author:whyamisosoftinthemid
+subreddit:YouShouldKnow
+score:1668
+numComments:278
+isOver18:False
+hasPostBody:True

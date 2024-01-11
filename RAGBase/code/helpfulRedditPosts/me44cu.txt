@@ -1,0 +1,13 @@
+title:
+LPT: If you’re building a house now, have the builder install an appropriate electrical circuit to charge an electric car (typically 240V in North America). Even if you don’t have an electric car now, within a decade you probably will.
+
+content:
+Odds are you don’t have an electric car right now and might not be considering one yet. Electric cars are just starting to become more mainstream now, with many manufacturers introducing their first (or first mass-market targeted) electric car for this model year. Within the next decade, though, if you’re looking at a new car, you’ll likely be considering an electric vehicle from a wide variety of manufacturers. It will probably be cheaper to install the electrical circuit now before drywall is up than to do it later after the fact. You don’t need to install a charger; just get the higher voltage outlet installed that a level 2 charger needs.
+
+url:https://reddit.com/r/LifeProTips/comments/me44cu/
+author:jqubed
+subreddit:LifeProTips
+score:47861
+numComments:1964
+isOver18:False
+hasPostBody:True

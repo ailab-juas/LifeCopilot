@@ -1,0 +1,15 @@
+title:
+YSK if you are a student, you can get access to free internet in many locations in 72 countries with eduroam. [travel][technology]
+
+content:
+here is a [map of the locations in the US](https://www.eduroam.us/institutions) where you can get access. [canada](https://www.google.com/maps/d/u/0/embed?mid=zbVue3zy10d8.kvHJxKzZQgDY&amp;hl=en) and [70 other countries](https://www.eduroam.org/?p=where).  
+in europe, it is very popular and isn't just limited to academic centres. you can plan your travel so you visit one of these cites per day.  
+[here](http://wikitravel.org/en/Internet_access_while_traveling_abroad) is more information for internet while traveling.
+
+url:https://reddit.com/r/YouShouldKnow/comments/35yy42/
+author:jkjkjij22
+subreddit:YouShouldKnow
+score:1044
+numComments:45
+isOver18:False
+hasPostBody:True

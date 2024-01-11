@@ -1,0 +1,13 @@
+title:
+YSK about a website called eatbydate.com where, for many many foods, they'll tell you how long it can last past its "label date," how to best store it long-term, how to tell if it's gone bad, and what to use it for if you don't want to eat it straight. Great resource for reducing food waste!
+
+content:
+I've used it 5-6 times for foods that were way past its "label date," and it turns out they were totally fine to eat.
+
+url:https://reddit.com/r/YouShouldKnow/comments/i4qrc4/
+author:midnightgold74
+subreddit:YouShouldKnow
+score:1092
+numComments:29
+isOver18:False
+hasPostBody:True

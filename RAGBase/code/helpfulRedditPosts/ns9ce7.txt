@@ -1,0 +1,17 @@
+title:
+YSK: First-ever link found between asthma in toddlers and prenatal exposure to air pollution
+
+content:
+Why YSK:
+
+Context: [article](https://medlifestyle.news/2021/06/04/asthma-air-pollution/)
+
+Clean air solutions are not just a matter of climate change, but a matter of public health as well. The article talks about a new study that shows how pregnant mothers who were exposed to air pollution had babies who, when toddlers, had a significant increase in diagnoses of asthma. A previous study by the Asthma and Allergy Foundation of America also looked at the association of children’s direct exposure to air pollution particles and episodes of asthma. It states that "a study of  young campers with moderate to severe asthma showed they were 40 percent  more likely to have acute asthma episodes on high pollution summer days  than on days with average pollution levels." Increases in air pollution are going to lead to serious implications down the road regarding health complications and it’s an issue that should be at the forefront.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ns9ce7/
+author:IntelligentLaugh4530
+subreddit:YouShouldKnow
+score:14825
+numComments:298
+isOver18:False
+hasPostBody:True

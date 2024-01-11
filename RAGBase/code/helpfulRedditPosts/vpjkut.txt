@@ -1,0 +1,15 @@
+title:
+LPT: If your SO doesn't know where they want to eat, make suggestions based on flavours and textures, not actual dishes or restaurant locations.
+
+content:
+Ask some questions, do you want something crunchy? meaty? light? soupy? zesty? spicy? This will bring up cravings and you'll be sure to settle on a decision in no time.
+
+Don't get caught up in where you want to eat, or even what you want to eat, but talk about the properties of the food instead.
+
+url:https://reddit.com/r/LifeProTips/comments/vpjkut/
+author:AnArabFromLondon
+subreddit:LifeProTips
+score:1698
+numComments:153
+isOver18:False
+hasPostBody:True

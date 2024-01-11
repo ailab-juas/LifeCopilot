@@ -1,0 +1,15 @@
+title:
+YSK how to stop Amazon from pushing massive amounts of data to your Fire Tablet. Movies and TV shows are being cached on your device causing slow internet speeds and unwanted data usage against your data caps.
+
+content:
+In order to keep content delivery overhead down, Amazon will push out popular movies and shows to your Fire Tablet that they think you might watch. They do this during slower times of the day to spread out utilization across their network. The videos get cached on your device so that you can watch them offline. This is great for them and not so great for you, especially if you have datacaps or notice your internet slowing down. [Here's a quick walkthrough of how to disable the setting.](http://imgur.com/a/RD1sB)
+
+Big hat tip to the guys and gals over at /r/networking who helped figure this out for a network engineer at a school with over 100 Fire Tablets on his network.
+
+url:https://reddit.com/r/YouShouldKnow/comments/6uwnip/
+author:Tobias_Z
+subreddit:YouShouldKnow
+score:2251
+numComments:69
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: When presenting a problem to your boss, include your proposed solution and your reasoning behind it. Whether you are right or wrong, your boss will appreciate that you analyzed the issue rather than just sending it up the chain.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/aj2ofa/
+author:Boston500
+subreddit:LifeProTips
+score:1930
+numComments:100
+isOver18:False
+hasPostBody:False

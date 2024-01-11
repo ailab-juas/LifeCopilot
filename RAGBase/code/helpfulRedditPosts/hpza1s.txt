@@ -1,0 +1,13 @@
+title:
+YSK: if a job makes you pay money to work for them, it’s a scam. Period.
+
+content:
+Basically any MLM.
+
+url:https://reddit.com/r/YouShouldKnow/comments/hpza1s/
+author:TheLuchy
+subreddit:YouShouldKnow
+score:15912
+numComments:466
+isOver18:False
+hasPostBody:True

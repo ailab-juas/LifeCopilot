@@ -1,0 +1,23 @@
+title:
+LPT: When traveling abroad without cell service, you can still use GPS with your phone in airplane mode. Combine this with Google Maps' offline save feature and you won't ever get lost again.
+
+content:
+I'm currently traveling abroad in Mexico and this has been extremely useful. 
+
+Firstly, with Google Maps, you can save a given area of a map [with these instructions](https://support.google.com/gmm/answer/2650377) (link is for Android but it works pretty much the same on iOS). They do limit you to how big of an area you can save, but it's roughly a 50 mile radius. You can save up to 6 different areas meaning this can add up to a pretty big area. 
+
+Secondly, if you didn't pay for an international cell plan, you can still use your GPS. Because it relies on satellites and not your cell towers, it still works fine and uses 0 data. Just make sure you are in airplane mode and have your mobile data turned off. 
+
+I considered purchasing a SIM card with basic data connection, but this way I am still able to get decent use out of my smartphone with no data. And if I really need to in a pinch, I can make calls through roaming. Doing the math, this would still be much cheaper than purchasing a SIM unless I used more than about 30 minutes of voice chat. 
+
+Only downside to this is you can't get directions on the fly, which does require a data connection. But if you can follow a map this isn't that big of an annoyance. And if you are somewhere with a WiFi connection before your departure (our resort has free WiFi, for example), you can enter in your directions and then turn off your data. Once the initial itinerary is loaded, it simply uses GPS tracking for when to tell you to turn. 
+
+EDIT: Others have mentioned other applications like MapFactor, OsmAnd and iGo which also allow you to have offline maps, but you can have much larger areas or entire countries. I haven't used these but it sounds like it might be better alternatives to Google Maps, especially in some countries. 
+
+url:https://reddit.com/r/LifeProTips/comments/26xp0x/
+author:nope_nic_tesla
+subreddit:LifeProTips
+score:3489
+numComments:481
+isOver18:False
+hasPostBody:True

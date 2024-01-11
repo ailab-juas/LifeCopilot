@@ -1,0 +1,17 @@
+title:
+YSK how to tell Google to handle your data after your meet your demise.
+
+content:
+Google has a little known [Inactive Account Manager](https://www.google.com/settings/u/0/account/inactive) that is not setup on your account by default. You can tell Google how to handle your data after a set amount of inactive time (presumably your death) which includes: 
+
+* who to share your data with
+* what data to share with those people (email, photos, etc.)
+* whether or not to delete your data
+
+url:https://reddit.com/r/YouShouldKnow/comments/29koc0/
+author:ds2686
+subreddit:YouShouldKnow
+score:1554
+numComments:110
+isOver18:False
+hasPostBody:True

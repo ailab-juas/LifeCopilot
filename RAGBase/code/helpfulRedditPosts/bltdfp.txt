@@ -1,0 +1,13 @@
+title:
+LPT: Break your budget down into daily amounts so it's easier to manage. Ex: If your income = 3000 - 1200 (Rent) - 500 (Bills/Insurance/Phone) - 200 (Retirement) = 1100. 1100/30 (days per month) = $36.66 you can spend per day. Remembering $36 is easier than subtracting daily amounts from $1100.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/bltdfp/
+author:tygrrear
+subreddit:LifeProTips
+score:1952
+numComments:117
+isOver18:False
+hasPostBody:False

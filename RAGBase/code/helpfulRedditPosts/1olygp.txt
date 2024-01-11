@@ -1,0 +1,15 @@
+title:
+LPT: Press F2 to immediately rename a file, no more slow double clicks.
+
+content:
+Also if you have to rename a large number of files, select the first file press F2 and after you finish renaming it, press TAB to go to the next file or SHIFT+TAB to go to the previous file in the list, and continue from there.
+
+Edit: Well this exploded all over my face. It's for PC, Mac just press return. Not sure about tabbing in Mac though. 
+
+url:https://reddit.com/r/LifeProTips/comments/1olygp/
+author:_Sylver
+subreddit:LifeProTips
+score:2539
+numComments:414
+isOver18:False
+hasPostBody:True

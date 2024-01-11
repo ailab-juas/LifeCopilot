@@ -1,0 +1,19 @@
+title:
+YSK that even if a spam email says it knows your password, it probably still doesn't have intimate pics of you. Don't send them money.
+
+content:
+This has happened to myself and a few people I know. I also saw it on the other side of Reddit and thought it is not well-known enough (given the people I know panicking).
+
+They find the most vulnerable thing (eg a leaked old password) which freaks you out and makes you think they have access to much more than they actually do.
+
+Edit: Since this is getting a lot of traction, if you have any spam email asking you to log into banking or paypal, don't click the link, go to the site directly and log in.
+
+Edit 2: A lot of comments are recommending you get a password manager if you think you have been hacked. Since this thread is on security and online safety, I thought I'd point it out up here.
+
+url:https://reddit.com/r/YouShouldKnow/comments/i732i8/
+author:tomjarvis
+subreddit:YouShouldKnow
+score:20770
+numComments:514
+isOver18:False
+hasPostBody:True

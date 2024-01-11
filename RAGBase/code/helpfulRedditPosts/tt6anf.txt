@@ -1,0 +1,13 @@
+title:
+LPT: If you work in an office, learn to be proficient in Excel. A lot of people know the basics, but people will think you are a wizard if you really know what you are doing.
+
+content:
+I work with a lot of spreadsheets and it amazes me that a lot of people in the office don't know how to do anything in Excel beyond the basics.  If you really want to stand out in the workplace, learn to use excel and how do use formulas, pivot tables,  macros, vba etc.  People will think you are doing witchcraft.
+
+url:https://reddit.com/r/LifeProTips/comments/tt6anf/
+author:bw2082
+subreddit:LifeProTips
+score:4296
+numComments:432
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,23 @@
+title:
+YSK: Most Fridges/Freezers Are Safe To Transport On Their Side
+
+content:
+Why YSK: I know a lot of people who have complained about how they broke their fridge after they did this, and know even more people who choose to just leave behind/sell their fridge when they move because of what a hassle it is to transport. Knowing how a fridge/freezer works will save you money and time, and prevent you from breaking it yourself on accident.
+
+The concern comes from an issue that was common in older fridges/freezers. When tilted past a 45 degree angle, the oil in the compressor had a tendency to spill out into the cooling tubes and clog them, preventing coolant from filling the fridge completely. This used to be the end of a fridge's life and meant a hefty bill for a new one. Over time though, oils were treated so they wouldn't congeal around foreign particles, which prevented blocking. Additionally, more stringent, coiled cooling tubes were made with better materials like fiberglass and unique polymers that became an industry standard because they would give and compress to push things through the pipe. These two features have worked in tandem to prevent blockage, but their efforts won't stop people who ruin their fridges on accident.
+
+Because coolant tubes are usually quite small and oil is fairly viscous, it takes some time for the oil to move through the tubes. What usually kills a fridge/freezer after transport is turning it on before the oil has had a chance to settle in the compressor. If you run it without oil, the machine simply won't function outside of forcing pressure into the oil-filled coolant tubes, which only pushes the oil further up the pipe and compresses it into an actual blockage. It's a waste of a good fridge.
+
+The solution, of course, is to let the oil settle. In most fridges/freezers, the oil will settle back into the compressor after sitting upright for 24-48 hours regardless of how long it was on it's side. At bare minimum, give it the same amount of time upright as it was in transport. 
+
+I hope this helped!
+
+EDIT: Grammar
+
+url:https://reddit.com/r/YouShouldKnow/comments/njsj9t/
+author:TheOnlyJaayman
+subreddit:YouShouldKnow
+score:2537
+numComments:99
+isOver18:False
+hasPostBody:True

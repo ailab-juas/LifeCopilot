@@ -1,0 +1,23 @@
+title:
+YSK: if you want a telemarketer to stop calling you, don’t curse them out, hang up without saying anything, or even ask them to take you off their list. Instead, tell them your phone is a business line, a wrong number, or simply mention the Federal No Call List or say you’ll report them on the BBB.
+
+content:
+Why YSK: I’ve worked in a telemarketing firm. I know for a fact that cursing out a telemarketing employee is the best way to ensure that you get calls day in, day out. Most firms use automatic dialing programs, where you need to “disposition” the call after you hang up. So you select a preset from a menu of options to explain how the call went (ex. There’s an option for no answer, not interested, not qualified, and other things of that nature). 
+
+There is also a Callback Later disposition, in which the phone number would be put back into the automatic dialer’s call queue at another point in the day. I’ve seen time after time, when a co-worker got cussed out over the phone they would always disposition the call as callback later. We were trained to never disposition a phone number as Do Not Call unless the “customer” threatens to report us to the BBB or if they mention the federal no call list. 
+
+However there are also call dispositions for wrong numbers, which we would have to put for anyone who picks up the phone and says it’s a business line, or that they’re the new owner of the phone number and not the original person whom we had info for on a previous lead. Once a phone number was dispositioned as a wrong number, it was also taken out of the system. Also, no small business wants to get complaints written about them on the BBB, it’s hard enough for them to have a positive reputation as it is if they’re having a sales floor making 130k glorified cold calls on the daily.
+
+EDIT: This info is really only relevant for American based telemarketing companies as far as I know. I can’t speak on how other nations handle their telemarketers. However this info definitely isn’t relevant for India-based scam call centers. Some shitty criminal calling you out of most likely New Delhi India pretending to be Social Security or the IRS or a car warrantee specialist will not be in the slightest bit concerned about a federal no call list or the Better Business Bureau. 
+
+EDIT 2: The whole BBB thing is mainly anecdotal, as my employer at the time trained everyone to remove any “customer” from the list who mentioned they would report us to it. 
+
+TL:DR: telemarketing employees are just going to make sure you get called back by their company if you give them a hard time over the phone. Just mention the Federal No Call List or the Better Business Bureau or say it’s a wrong number or a business line and that’s an easier way to get you out of their system.
+
+url:https://reddit.com/r/YouShouldKnow/comments/k3kwxt/
+author:Matt-Vincent
+subreddit:YouShouldKnow
+score:21050
+numComments:859
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Hate your printer? Go laser, here's why.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/2uvheg/
+author:supershale
+subreddit:LifeProTips
+score:3513
+numComments:1425
+isOver18:False
+hasPostBody:False

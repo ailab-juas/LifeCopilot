@@ -1,0 +1,15 @@
+title:
+YSK there's a site where you can listen to different types of background noises in any combination, especially helpful for trying to get to sleep.
+
+content:
+http://www.noisli.com/
+
+There are static sounds, nature sounds, etc. that can be played together or individually.  I just open it on my phone while it's plugged in and go to bed.  It's significantly cut down the time I just lay there trying to sleep.
+
+url:https://reddit.com/r/YouShouldKnow/comments/1ulmtw/
+author:yogi89
+subreddit:YouShouldKnow
+score:1002
+numComments:91
+isOver18:False
+hasPostBody:True

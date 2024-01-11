@@ -1,0 +1,13 @@
+title:
+LPT: If you text someone an errand request, and they respond saying they will do it, wait a little while before you text back "Thanks". This response can act as a reminder for those with short term memory and avoids pestering
+
+content:
+&amp;#x200B;
+
+url:https://reddit.com/r/LifeProTips/comments/9bz3xn/
+author:chuckschwa
+subreddit:LifeProTips
+score:4831
+numComments:91
+isOver18:False
+hasPostBody:True

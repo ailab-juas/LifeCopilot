@@ -1,0 +1,13 @@
+title:
+LPT: Use olive oil instead of extra-virgin olive oil when cooking with heat. It has a higher smoke point and is cheaper. Use your nice oil for finishing dishes, not preparing them.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/6m1tat/
+author:pollywog
+subreddit:LifeProTips
+score:40539
+numComments:2238
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,19 @@
+title:
+LPT: If you want to wake up early (or at any specified time), try to fall asleep along an interval of 90 minutes -3/4.5/6/7.5/9 hours- this is how long each REM cycle is. Waking between cycles leaves you refreshed, while waking in the middle will leave you groggy.
+
+content:
+Say I want to wake up around 7AM. I also know with my body, I need at least 7 hours of sleep. Sleep cycles are usually 90min on average. It also takes the average human 14 minutes to fall asleep. The best rest I will get is not going to bed at midnight, but rather near 11:15PM. I will *fall asleep* near 11:30, and get 5 full sleep cycles before waking up. 
+
+Check out [this website](https://sleepyti.me/) if you'd like a webpage that does these bedtime calculations for you (it also shows when you should wake up if you are going to sleep now instead).
+
+I've tried this out and it has helped me to realize my sleep needs and how I can push them. If I was staying up late studying for instance, I'd stay up til later if it meant my sleep cycles would line up better than quitting at the moment I wanted and adding an extra half a cycle in. Hope this helps some people sleep better!
+
+Edit: changed "REM cycles" to sleep cycles, as someone commented the difference, apologies for mixing up the two!
+
+url:https://reddit.com/r/LifeProTips/comments/igasx1/
+author:h_unt
+subreddit:LifeProTips
+score:1178
+numComments:107
+isOver18:False
+hasPostBody:True

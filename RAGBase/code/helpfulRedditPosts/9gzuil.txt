@@ -1,0 +1,13 @@
+title:
+LPT: When making small talk or getting to know someone, ask "what keeps you busy?" rather than asking what they do as a profession or what they do for fun.
+
+content:
+This opens the door for them to tell you how they feel about the things they spend time doing, fun or not. 
+
+url:https://reddit.com/r/LifeProTips/comments/9gzuil/
+author:popmysickle
+subreddit:LifeProTips
+score:1147
+numComments:75
+isOver18:False
+hasPostBody:True

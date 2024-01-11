@@ -1,0 +1,13 @@
+title:
+LPT When purchasing products with warranties, set an alarm in your calendar for 1 month before it ends. If there are any defects, make use of the warranty.
+
+content:
+Even if I'm not being picky, I find legitimate reasons for a warranty replacement in most cases and extend the useful life of my purchase by a year. 
+
+url:https://reddit.com/r/LifeProTips/comments/5nopld/
+author:Lou_D_Lascivious
+subreddit:LifeProTips
+score:8185
+numComments:324
+isOver18:False
+hasPostBody:True

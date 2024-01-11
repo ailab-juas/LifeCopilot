@@ -1,0 +1,24 @@
+title:
+YSK: Due to the lack of regulations, investing in cryptocurrencies with a broker leaves you at the risk of losing your investment if the broker declares bankruptcy (this is currently happening with "Celcius" and a few other brokers).
+
+content:
+Normally if you hold traditional US investments (ex: stocks) with a broker, they are protected by regulations that ensure that if the broker goes under, the investments will not be lost. Every broker has to be registered with the **securities investor protection corporation** (SIPC) which protects investors if the broker goes under up to half a million dollars besides other measures. 
+
+Cryptocurrencies do not follow the same regulations and brokers are not required by law to protect your investment if they go under. 
+
+Very popular crypto broker Robin hood:
+
+&gt;Cryptocurrency investments through Robinhood Crypto are not protected by SIPC and that Robinhood Crypto is not a member of FINRA or SIPC.
+
+
+We often forget that regulations and laws are often built to try and stop bad things from repeating themselves. The same regulations that guide stocks and other traditional investments are built from mistakes of the past to try and prevent corruption, save your investments in case of a disaster and make the job of crime investigators easier. 
+
+why YSK: Doesn't matter if you consider this to be gambling or investing. People should be aware of the risks when it comes to their savings, investments, and big sums of money.
+
+url:https://reddit.com/r/YouShouldKnow/comments/wbzk1y/
+author:LobotomizedPig
+subreddit:YouShouldKnow
+score:4206
+numComments:211
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+YSK "Colorado applicants need not apply," and similar statements on job postings could mean the employer has shifty wage practices.
+
+content:
+Why YSK: Colorado recently passed a law that requires employers to post real salary ranges with every listing. Some employers don't like this and discourage or outright refuse to allow CO applicants. If that's the case, you may not want to work for them outside of CO either.
+
+url:https://reddit.com/r/YouShouldKnow/comments/su0xsh/
+author:Successful-Medicine9
+subreddit:YouShouldKnow
+score:36043
+numComments:872
+isOver18:False
+hasPostBody:True

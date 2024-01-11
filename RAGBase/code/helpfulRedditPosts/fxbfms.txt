@@ -1,0 +1,18 @@
+title:
+YSK: Mediastinger.com is a straightforward quick check on whether it's worth sticking around after the credits at the movies
+
+content:
+This one has been around for years (originally as moviestinger) just search for mediastinger moviename on google and you get a quick and easy page that quickly tells you whether there's anything after the credits and whether it's worth staying.
+
+For example:
+http://www.mediastinger.com/bloodshot-2020-after-the-credits/ says there are extra images shown during the credits but the user consensus is it's not worth sticking around for.
+
+http://www.mediastinger.com/jay-silent-bob-reboot-2019-after-the-credits/ Says there is extra scenes during and after the credits and that it is worth sticking around for.
+
+url:https://reddit.com/r/YouShouldKnow/comments/fxbfms/
+author:aza9999
+subreddit:YouShouldKnow
+score:10754
+numComments:195
+isOver18:False
+hasPostBody:True

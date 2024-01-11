@@ -1,0 +1,18 @@
+title:
+YSK that you can apply a filter on a youtube search by using a comma in the search. (eg, "Zelda, week, playlist" will find only playlists posted this week that match the search Zelda)
+
+content:
+Available filters: 
+
+* Time: hour, today, week, month, year
+* Type: video, channel, playlist, movie, show
+* Duration: short, long
+* Features: HD, CC, creativecommons, 3d, live, purchased
+
+url:https://reddit.com/r/YouShouldKnow/comments/1s05be/
+author:OmnipotentEntity
+subreddit:YouShouldKnow
+score:1335
+numComments:31
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: When unionizing a store, get as much recent financial information about that location as possible. If the owner suddenly tries to close that store after a successful union vote, it'll be much easier to prove it was retaliatory and not because the store was performing poorly.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/v6k4ji/
+author:MelkorHimself
+subreddit:LifeProTips
+score:12937
+numComments:399
+isOver18:False
+hasPostBody:False

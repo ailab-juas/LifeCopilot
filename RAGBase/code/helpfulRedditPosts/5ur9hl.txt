@@ -1,0 +1,13 @@
+title:
+LPT: If you're smoking with people and they need to borrow a lighter, don't light your own cigarette before handing them your lighter. This will ensure you get it back if someone pockets it.
+
+content:
+Enough criticism, guys. We all have bad habits. This is just a little tip to keep track of a $2 lighter.
+
+url:https://reddit.com/r/LifeProTips/comments/5ur9hl/
+author:KoosGoose
+subreddit:LifeProTips
+score:3729
+numComments:404
+isOver18:False
+hasPostBody:True

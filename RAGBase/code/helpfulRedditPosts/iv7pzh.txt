@@ -1,0 +1,15 @@
+title:
+LPT: You can set a one minute delay on Outlook (under rules) for all sent mail. That way if you suddenly realize you need to change something, or remove someone, you still can.
+
+content:
+[Article with how](https://support.microsoft.com/en-gb/office/delay-or-schedule-sending-email-messages-026af69f-c287-490a-a72f-6c65793744ba)
+
+It stays in your "Outbox" for a minute.  You can go back in, change whatever you need and send again.  Or Delete entirely.
+
+url:https://reddit.com/r/LifeProTips/comments/iv7pzh/
+author:covid17
+subreddit:LifeProTips
+score:6085
+numComments:164
+isOver18:False
+hasPostBody:True

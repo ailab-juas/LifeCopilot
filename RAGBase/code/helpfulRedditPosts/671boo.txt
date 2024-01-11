@@ -1,0 +1,13 @@
+title:
+LPT If you are worrying too much, try to precisely verbalize your negative thoughts. It enables the rational part of your brain, helping you to reduce the stress.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/671boo/
+author:ManoLorca
+subreddit:LifeProTips
+score:1557
+numComments:40
+isOver18:False
+hasPostBody:False

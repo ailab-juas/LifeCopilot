@@ -1,0 +1,13 @@
+title:
+YSK: There are alot of scammers that like to take advantage during Hurricane relief. Be careful who you donate to.
+
+content:
+Wyclef jean isn’t the only one guys. If you want to help provide relief to the Bahamas, make sure you do it through a reputable organization. Otherwise your money could be going straight in to someone’s pockets
+
+url:https://reddit.com/r/YouShouldKnow/comments/cz7kyc/
+author:ArthurDaTrainDayne
+subreddit:YouShouldKnow
+score:6642
+numComments:87
+isOver18:False
+hasPostBody:True

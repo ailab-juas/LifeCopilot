@@ -1,0 +1,13 @@
+title:
+LPT If sound is only coming out one side of your earphones. Put the quality on 240p, it changes the sound to mono and will put sound in both sides. (Youtube)
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/18tdtp/
+author:MasterRoshii
+subreddit:LifeProTips
+score:1465
+numComments:150
+isOver18:False
+hasPostBody:False

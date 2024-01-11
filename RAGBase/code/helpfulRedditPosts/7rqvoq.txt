@@ -1,0 +1,13 @@
+title:
+LPT: Before you stick your credit card in any reader, see if you can pull the reader off the machine. Card scanners are showing up everywhere, make a habit of checking every time.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/7rqvoq/
+author:scottawhit
+subreddit:LifeProTips
+score:28565
+numComments:1416
+isOver18:False
+hasPostBody:False

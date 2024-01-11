@@ -1,0 +1,13 @@
+title:
+YSK: just because a company advertises their breads, cookies, etc. are baked fresh everyday doesn't mean they are made in store.
+
+content:
+Yes, while true that the goods are baked fresh each day, they aren't made fresh, as they usually come in frozen.
+
+url:https://reddit.com/r/YouShouldKnow/comments/1s2oly/
+author:TheStabbingHobo
+subreddit:YouShouldKnow
+score:1229
+numComments:228
+isOver18:False
+hasPostBody:True

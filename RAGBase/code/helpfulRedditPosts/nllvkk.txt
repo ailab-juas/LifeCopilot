@@ -1,0 +1,17 @@
+title:
+LPT: If delivering news about an incident (hospital/car crash) start with "X is fine but they were in [the hospital / a car crash]." This prevents momentary shock that's unnecessary for the person hearing it
+
+content:
+Starting with "Dad's fine but he's in the hospital" makes a massive difference from starting with "Dad's in hospital but he's fine"
+
+Even worse is (and I'm pretty sure you gotta be a sadist to do this but I'm sure you've all heard it at least once) "Dave's in the hospital" ........ "Is he okay?!?" "Oh yeah he's fine"
+
+It's a difference between how I've heard a few different people deliver news over the last while and just finding in interesting registering my own and others responses.
+
+url:https://reddit.com/r/LifeProTips/comments/nllvkk/
+author:MonkeyOnYourMomsBack
+subreddit:LifeProTips
+score:1063
+numComments:65
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,25 @@
+title:
+YSK that if you have medical debt from a non profit hospital, you can have the bill significantly reduced or completely written off if your income says you can't afford to pay it.
+
+content:
+Why YSK: It does not matter how old the debt is or if it was sent to collections. It doesn't even matter if you had insurance when the bill was created. As long as the non profit hospital owns the debt and it wasn't sold off then you'll be eligible for financial assistance if you can't afford to pay the debt at all. Don't let them run you in circles. They will lie, they will tell you false info even if they're not supposed to. The billing might claim "oh, we can't do anything about it. The account was sent to "x" collection company. We can't change anything anymore since we don't have it, you have to speak with them." If your bill is as little as 2 years old, the collections agency will tell you "there's nothing we can do. The bill has aged out already. You can't do payment plans on 2, 3, 4 year old bills. The most I can do is give you a discount but it has to be paid in lump sum." This is a lie, and they will continue to lie and play dumb. My conversation with collections went something like 
+
+"Hi, I have a problem. I was eligible for free care at the hospital back in 2019 but the hospital never provided me with any information like they were supposed to (in my state, there is a law that says hospitals MUST provide patients with info on financial assistance) I only just recently got "x" health care and, had the hospital told me like they were required to, I would've had no bill"
+
+"I don't understand what you want me to do? Theres nothing you can do *my name* these bills are 2, 3, years old. They've aged out already. And you have 22 accounts,  TWENTY TWO. I don't mean to be rude but why would you wait so long to try and fix it?"
+
+"I did try and fix it before it was sent to collections but they gave me incorrect info. They told me my only options were a payment plan or pay in full. The hospital also never gave me financial assistance info like they're supposed to"
+
+"*my name* you're an adult, you're supposed to find that info on your own. If you wanted to set up a payment plan or something then you should've dealt with this in a timely manner before it was sent to collections. Its aged out, you can't do that anymore"
+
+After arguing with billing and collections for 5 hours, someone finally connected me with a financial assistance counselor. She apologized profusely for the lies I was told and said the debt doesnt age out and the debt can still be dealt with. Apparently this is something she's contacted Upper management about many times. 
+
+Don't let them lie to you and try to play stupid. Look up your states laws and never back down.
+
+url:https://reddit.com/r/YouShouldKnow/comments/nf2icd/
+author:smallcheetah107
+subreddit:YouShouldKnow
+score:2048
+numComments:78
+isOver18:False
+hasPostBody:True

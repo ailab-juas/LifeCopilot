@@ -1,0 +1,13 @@
+title:
+LPT: If an online seller addresses your issue in a way that puts you ahead at their cost, leave stellar feedback without revealing that you got more than you paid for. Sellers need good reviews, not inadvertent suggestions to people prone to complaining their way into free stuff
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/pu1mdv/
+author:D-Alembert
+subreddit:LifeProTips
+score:4770
+numComments:47
+isOver18:False
+hasPostBody:False

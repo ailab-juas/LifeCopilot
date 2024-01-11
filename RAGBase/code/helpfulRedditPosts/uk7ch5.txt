@@ -1,0 +1,15 @@
+title:
+YSK Apple Watches have a Voice Memo app which can be used as a surreptitious recording device
+
+content:
+All Apple Watches have a Voice Memo feature intended to allow you to take quick notes for later. However it is REALLY good at picking up conversations nearby. When the application is running the watch gives almost no visible indication it is on; a small amber icon appears when the screen is active.   
+   
+Why YSK: If you need to record a meeting with a boss/etc. (and it's legal in your area) it's a great way to make a recording of the encounter without drawing suspicion and without having to have your phone out and on the table. Conversely if someone is wearing an Apple Watch assume they could be recording you.
+
+url:https://reddit.com/r/YouShouldKnow/comments/uk7ch5/
+author:spottyrx
+subreddit:YouShouldKnow
+score:7392
+numComments:256
+isOver18:False
+hasPostBody:True

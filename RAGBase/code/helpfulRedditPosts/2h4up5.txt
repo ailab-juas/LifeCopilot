@@ -1,0 +1,13 @@
+title:
+LPT: Try to park next to cars that are nicer than yours. You're far less likely to have them open their door on you.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/2h4up5/
+author:Whind_Soull
+subreddit:LifeProTips
+score:2389
+numComments:1079
+isOver18:False
+hasPostBody:False

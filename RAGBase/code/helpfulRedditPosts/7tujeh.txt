@@ -1,0 +1,20 @@
+title:
+YSK That you can get word,excel, and powerpoint for free with your school email address
+
+content:
+Don't buy it. It's free for students! Your school email address is automatically given to all students and *usually* ends with .edu
+https://www.microsoft.com/en-us/education/products/office/default.aspx
+
+Edit: 
+
+1. This is in the United States (Not sure if applicable to other countries)
+
+2. As /U/new-fantomas pointed out,"If your school provides this additional benefit, you'll see the Install Office button on your Office 365 home page after you complete sign-up." So many of you will probably be able to download it on to your laptop/computer instead of having it via the internet.  
+
+url:https://reddit.com/r/YouShouldKnow/comments/7tujeh/
+author:Laloquera
+subreddit:YouShouldKnow
+score:7727
+numComments:316
+isOver18:False
+hasPostBody:True

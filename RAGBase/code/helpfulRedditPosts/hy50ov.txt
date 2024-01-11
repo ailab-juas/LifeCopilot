@@ -1,0 +1,13 @@
+title:
+LPT: Failure is an option. Embrace it. Fail, fail again, fail better. Giving up or not trying in the first place is not an option. Success is success be it on the first try or after a million failed attempts.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/hy50ov/
+author:[deleted]
+subreddit:LifeProTips
+score:5902
+numComments:193
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: If a 'news' medium uses inflammatory language, like 'crazy', 'owned', 'delusional', etc., it's not real news, but a propaganda outlet.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/s13yp7/
+author:rubberseatbelt
+subreddit:LifeProTips
+score:43387
+numComments:1559
+isOver18:False
+hasPostBody:False

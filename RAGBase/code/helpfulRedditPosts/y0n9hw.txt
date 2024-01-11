@@ -1,0 +1,13 @@
+title:
+LPT: If you’re feeling down, find someone who is very passionate about something, anything. Doesn’t matter what they love. Ask them to tell you all about it. Enthusiasm is contagious and will lift you up.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/y0n9hw/
+author:DavidAssBednar
+subreddit:LifeProTips
+score:1019
+numComments:40
+isOver18:False
+hasPostBody:False

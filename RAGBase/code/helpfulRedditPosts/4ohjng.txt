@@ -1,0 +1,21 @@
+title:
+YSK: Many times you can opt-out of arbitration provisions in contracts which waive many of your legal rights
+
+content:
+**tl;dr**: Contracts allow companies to deny you the right to a trial unless you say no.
+
+Arbitration provisions in contracts are becoming ubiquitous in most contracts including everything from credit cards to rental cars. If you sign a contract agreeing to arbitration you agree to use a third party arbitrator chosen by the business instead of the court system. Arbitrators tend to heavily bias the business and in many cases are more expensive than using the courts. Such provisions usually also waive your right to group together with other plaintiffs to participate in a class action. They are seen as a way to limit possible liability to a business.
+
+The decision of the arbitrator is usually binding with no avenue of appeal or oversight by the courts. Often times there is a non-disclosure agreement also in place to prevent you from being able to even talk about the results of your action.  Unlike Judges you are not required to be a lawyer or have a degree related to law to become an arbitrator.
+
+Due to recent pushback about automatic mandatory arbitration from the courts it is becoming increasing common to have clauses allowing you to opt-out of arbitration and get all of your rights back. Usually there is a time limit on doing this within a certain number of days of opening an account or otherwise signing a contract.
+
+*If you can it is almost always in your best interest to opt-out of arbitration.* You can always decide to agree to arbitration at a later date if you think that's a better option for you.
+
+url:https://reddit.com/r/YouShouldKnow/comments/4ohjng/
+author:nn123654
+subreddit:YouShouldKnow
+score:1226
+numComments:155
+isOver18:False
+hasPostBody:True

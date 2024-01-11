@@ -1,0 +1,13 @@
+title:
+LPT: When you are at the pool or beach, set your flip-flops facedown. Then they won't be scalding hot from the sun when you're ready to leave. 
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/vvuz6/
+author:shawbin
+subreddit:LifeProTips
+score:1255
+numComments:146
+isOver18:False
+hasPostBody:False

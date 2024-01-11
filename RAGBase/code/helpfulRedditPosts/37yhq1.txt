@@ -1,0 +1,13 @@
+title:
+LPT Things are only akward if you think it's awkward.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/37yhq1/
+author:thimovss
+subreddit:LifeProTips
+score:2153
+numComments:326
+isOver18:False
+hasPostBody:False

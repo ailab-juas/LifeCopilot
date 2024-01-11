@@ -1,0 +1,13 @@
+title:
+LPT: "No" is a complete sentence. The sooner you become comfortable using it as such the sooner your life will improve.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/lila1d/
+author:[deleted]
+subreddit:LifeProTips
+score:3576
+numComments:137
+isOver18:False
+hasPostBody:True

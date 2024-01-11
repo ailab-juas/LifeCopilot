@@ -1,0 +1,13 @@
+title:
+LPT: When filling out applications online, make sure you copy responses which typically take a long time to write, and paste them to a text file. You never know when you could get a server timeout.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/8v6ew2/
+author:walterwhiteredmption
+subreddit:LifeProTips
+score:23480
+numComments:310
+isOver18:False
+hasPostBody:False

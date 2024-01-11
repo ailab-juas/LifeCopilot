@@ -1,0 +1,16 @@
+title:
+LPT: if you're in Ukraine trying to escape, the Polish border is open and has resources for you
+
+content:
+* [Information in Ukrainian](https://www.gov.pl/web/udsc/ukraina---ua)
+* [English translation](https://www.gov.pl/web/udsc/ukraina-en)
+
+Tip originally from u/EnoughMention
+
+url:https://reddit.com/r/LifeProTips/comments/t0gasx/
+author:SsurebreC
+subreddit:LifeProTips
+score:28603
+numComments:404
+isOver18:False
+hasPostBody:True

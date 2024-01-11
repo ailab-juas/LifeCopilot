@@ -1,0 +1,13 @@
+title:
+YSK: As part of the US Tax overhaul effective 1/1/18, 529 Plan assets - aka college savings accounts - can now be used for private school tuition for grades K-12. Not just secondary school.
+
+content:
+YSK: As part of the US Tax overhaul effective 1/1/18, 529 Plan assets - aka college savings accounts - can now be used for private school tuition for grades K-12.  Not just post-secondary school.
+
+url:https://reddit.com/r/YouShouldKnow/comments/7ocnmy/
+author:PigFishBeer
+subreddit:YouShouldKnow
+score:2776
+numComments:331
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,39 @@
+title:
+LPT: check for unclaimed money using government websites (where valid)
+
+content:
+*Running list of countries so far:*
+
+&gt; Canada: http://ucbswww.bank-banque-canada.ca/scripts/search_english.cfm
+
+
+&gt; USA: http://www.usa.gov/Citizen/Topics/Government-Unclaimed-Money.shtml
+
+&gt; UK: http://unclaimedassets.co.uk/trace-forgotten-funds (thanks jameslee85)
+
+&gt; Australia: https://www.moneysmart.gov.au/tools-and-resources/find-unclaimed-money/unclaimed-money-search (thanks Not_MyName)
+
+&gt; New Zealand: http://www.ird.govt.nz/unclaimed-money/ (thanks whetu)
+
+&gt; Netherlands: http://www.rijksoverheid.nl/onderwerpen/consignatiekas (thanks aepe)
+
+*Other*
+
+&gt; http://www.missingmoney.com to search all states in the US (thanks avenlanzer)
+Source: work for unclaimed property division of state government
+
+&gt; http://unclaimed.org USA (thanks choreboy)
+
+*Final thoughts*
+
+&gt; the database is continually updated, and it may take years for items to appear - so it doesn't hurt to check back every few years
+
+Finally, a sincere "**you are welcome**" to those who thanked me (sorry I don't have time to reach out to each of you) and a special thank you to **rycar** :)
+
+url:https://reddit.com/r/LifeProTips/comments/2yspmk/
+author:tarzannnn
+subreddit:LifeProTips
+score:2871
+numComments:557
+isOver18:False
+hasPostBody:True

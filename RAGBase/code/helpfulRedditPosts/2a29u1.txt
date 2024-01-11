@@ -1,0 +1,15 @@
+title:
+YSK Comcast could be using your router as a Wifi Hotspot
+
+content:
+If Comcast is your internet provider, your router may now be set as a WiFi hotspot. A representative from Comcast said, "this is a new feature which Comcast has enabled by default." Check out the link below, and your account to verify. If you care about your personal information, giving a paid feature away for free, or internet speed, I highly recommend you disable this feature.
+
+Check your location here: http://hotspots.wifi.comcast.com/
+
+url:https://reddit.com/r/YouShouldKnow/comments/2a29u1/
+author:mikeycdavis
+subreddit:YouShouldKnow
+score:1520
+numComments:358
+isOver18:False
+hasPostBody:True

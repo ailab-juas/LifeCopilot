@@ -1,0 +1,26 @@
+title:
+LPT: Looking for some Christmas Magic? The International Space Station orbits the earth 15 times a day and can easily be confused with Santa's Sleigh by excited children in December
+
+content:
+This does require preparation. That tiny station is rarely streaking directly overhead at an ideal time, so you might need to be flexible or wait for a better opportunity in the future.
+
+
+* First you will want to find some dark skies near you with a website like: http://darksitefinder.com/maps/world.
+
+
+* Next, Check this: https://spotthestation.nasa.gov/sightings/ and put in your chosen location to see when the ISS passes overhead. 
+
+
+* And then, a few days before, You will want to check the night sky forecast at http://www.cleardarksky.com/csk/ to check on cloud cover.
+
+It's rare but some people will get that perfect Santa flying overhead on Chrismas Eve but for others, you can say something along the lines of "*I got a hot tip that Santa is doing his famous practice run to stretch the reindeers legs before the big night...*" 
+
+Credit to [this article](https://www.techadvisor.co.uk/how-to/internet/space-station-santas-sleigh-uk-christmas-eve-3592059/) for inspiring this post.
+
+url:https://reddit.com/r/LifeProTips/comments/a598i9/
+author:Scaramuccia
+subreddit:LifeProTips
+score:32846
+numComments:759
+isOver18:False
+hasPostBody:True

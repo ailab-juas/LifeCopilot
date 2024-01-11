@@ -1,0 +1,71 @@
+title:
+LPT: Use "C.A.R" or "S.T.A.R" in Job applications &amp; Interviews
+
+content:
+My [last post proved popular last time](https://www.reddit.com/r/LifeProTips/comments/5mk342/lpt_use_car_or_star_in_job_applications_interviews), so thought to  re-share it again....Hopefully a bit more easier to understand.
+
+&amp;nbsp;
+
+When applying for jobs, or in interviews they want examples, not just  "I can do *X*", **prove** to them you *can* do *X*. 
+
+It's ok to say "I can code, deal with angry customers, I can manage employees" - Anyone can say anything... But that's just empty words without backing up your statement/argument.
+
+&amp;nbsp;
+
+[C.A.R =  Context Action Result](https://www.bluesteps.com/blog/car-interview-technique-key-to-landing-executive-job.aspx)
+
+CAR is brief and to the point - Problem with that though, is when you apply for more senior jobs, they want a more in-depth application/interview...That's where S.T.A.R comes in.
+
+S.T.A.R breaks down a scenario in to many pieces, creating a very detailed answer - You should always try to use STAR over CAR.
+
+[S.T.A.R = Situation Task Action Result](https://www.futurelearn.com/courses/writing-applications/0/steps/5405)
+
+[**WHY CAR/STAR is effective**](http://blog.staffingadvisors.com/2016/07/07/car-star-interview-method-effective)
+
+&amp;nbsp;
+
+##CAR
+
+**C**ontext  
+
+
+"I deal with angry customers" becomes  
+
+
+**C**ontext: Working as a receptionist I signpost customers. One day a customer came into the reception very agressive and demanding for *X* to be sorted out.  
+
+
+**A**ction: Using my customer service training, I managed to calm down the customer and look into his complaint.
+
+
+**R**esult: I managed to resolve the complaint, and the customer left happy. 
+
+&amp;nbsp;
+
+##STAR
+**S**ituation: Working as a receptionist I signpost customers and assist with their queries. One day a customer came into the reception very aggressive and demanding for *X* to be sorted out.  
+
+**T**ask: As the first point of contact, it is my responsibility to assist with enquiries as efficiently as possible, avoiding escalation where possible.  
+
+**A**ction: Using my customer service training, I calmed down the customer and listened to his complaint. After verifying his details, 
+
+I looked up his details on the system and noticed an anomaly which was affecting this customer. 
+After liaising with another colleague, I managed to rectify this problem for the customer.  
+
+**R**esult: The customer was very happy the problem was resolved, and left happy.
+
+&amp;nbsp;
+
+Hope this helps some. 
+
+Feedback welcome. 
+
+
+
+url:https://reddit.com/r/LifeProTips/comments/8gb18r/
+author:JustAnotherUser_1
+subreddit:LifeProTips
+score:55587
+numComments:1428
+isOver18:False
+hasPostBody:True

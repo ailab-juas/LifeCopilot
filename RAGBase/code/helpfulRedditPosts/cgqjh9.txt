@@ -1,0 +1,13 @@
+title:
+YSK that sharper knives are safer than dull ones.
+
+content:
+So the sharper knives cut food easier and will have little risk of slipping off of the food and onto your finger, and even if it does cut you, it will make a cleaner cut which will not damage as much tissue as a dull knife would, so it will heal better.
+
+url:https://reddit.com/r/YouShouldKnow/comments/cgqjh9/
+author:ledgend78
+subreddit:YouShouldKnow
+score:1011
+numComments:54
+isOver18:False
+hasPostBody:True

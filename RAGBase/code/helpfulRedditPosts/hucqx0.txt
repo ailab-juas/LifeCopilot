@@ -1,0 +1,13 @@
+title:
+LPT: keep a shelf on your bookshelf just for the books you have finished reading. You’ll be inspired to read more and add books to your collection.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/hucqx0/
+author:[deleted]
+subreddit:LifeProTips
+score:1250
+numComments:49
+isOver18:False
+hasPostBody:False

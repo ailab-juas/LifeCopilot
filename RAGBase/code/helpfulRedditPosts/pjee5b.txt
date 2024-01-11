@@ -1,0 +1,13 @@
+title:
+LPT: The more items on a restaurant menu, the less fresh the food usually is going to be.
+
+content:
+Sorry for the confusion. I was trying to say that certain restaurants where I live have many different types of food and don't focus on one type of dish. I know that Mexican and Asian restaurants can use the same 15 ingredients in many different dishes, but some places just reheat a lot of their food, making it mediocre, even disgusting.
+
+url:https://reddit.com/r/LifeProTips/comments/pjee5b/
+author:yeetusyeetus69420
+subreddit:LifeProTips
+score:39652
+numComments:1476
+isOver18:False
+hasPostBody:True

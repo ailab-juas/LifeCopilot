@@ -1,0 +1,13 @@
+title:
+LPT: When someone compliments you, it's okay to just say "thank you." You don't have to give them the same compliment right back.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5xasp5/
+author:LordFarquaad44
+subreddit:LifeProTips
+score:25249
+numComments:1000
+isOver18:False
+hasPostBody:False

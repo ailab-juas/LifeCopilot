@@ -1,0 +1,13 @@
+title:
+LPT: Cooling racks (like for cookies) are great for putting under a laptop, it improves airflow and can protect the laptop from liquid spills on your desk/table.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/bvxhla/
+author:Chaotic_Good64
+subreddit:LifeProTips
+score:25479
+numComments:608
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+If a recipe calls for both oil and honey, always pour the oil into your measuring spoon first.  The honey will slide right off.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/16yrqp/
+author:Shabotski
+subreddit:LifeProTips
+score:1598
+numComments:195
+isOver18:False
+hasPostBody:False

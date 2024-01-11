@@ -1,0 +1,29 @@
+title:
+YSK: Just because a restaurant appears to have empty tables, does not mean they have room to seat you
+
+content:
+Why YSK: I work as a host seating people in a restaurant, and I frequently have people who, when I tell them there is a wait time, are confused or upset. They see apparently empty tables and don't understand why they can't be seated there immediately. It's usually due to one of these reasons:
+
+1) Those "empty" tables are for reservations that will be arriving within the next hour. Since your party will probably take longer than that, we can't risk seating you there.
+
+
+2) That section of empty tables is closed, because we do not have enough servers to cover it.
+
+
+3) We very recently sat a few tables in that server's section, and they would not be able to get to your table in a reasonable time. We have you wait 15 minutes for a table so that you aren't seated only to  feel that the server is ignoring you.
+
+
+4) We recently sat a lot of tables in different sections, and seating you would overwhelm the kitchen. We need to space out some parties, otherwise the kitchen will not be able to make everything in a reasonable amount of time. If you don't want to wait an hour after ordering to receive your food, this is what we have to do.
+
+
+It's pretty unlikely that a restaurant will turn you away for no reason. If we have space, we'd love to seat you! I have no reason to lie to you, yet I constantly get people who don't understand this and get angry with me.
+
+If the restaurant you want to go to takes reservations, especially if it's smaller and popular, you should always try to make a reservation, doubly so if it's during dinner rush. It'll save you a lot of time.
+
+url:https://reddit.com/r/YouShouldKnow/comments/v5fk5z/
+author:noodle_os
+subreddit:YouShouldKnow
+score:18569
+numComments:685
+isOver18:False
+hasPostBody:True

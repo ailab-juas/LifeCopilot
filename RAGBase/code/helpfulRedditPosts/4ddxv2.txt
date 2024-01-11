@@ -1,0 +1,13 @@
+title:
+LPT: Drop your name into conversation if you think someone has forgotten it. IE: "and I said to myself Dammit Cody, you know better".
+
+content:
+Does anyone have ideas on how to respectfully prompt for others names?
+
+url:https://reddit.com/r/LifeProTips/comments/4ddxv2/
+author:skittlesurprise
+subreddit:LifeProTips
+score:3373
+numComments:419
+isOver18:False
+hasPostBody:True

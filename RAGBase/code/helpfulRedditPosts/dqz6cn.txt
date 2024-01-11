@@ -1,0 +1,13 @@
+title:
+LPT: if a service ever asks why you’re leaving/ending your subscription, always choose the option related to cost. They’ll always offer a cheaper deal in future
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/dqz6cn/
+author:explosionhurtedme
+subreddit:LifeProTips
+score:5280
+numComments:125
+isOver18:False
+hasPostBody:False

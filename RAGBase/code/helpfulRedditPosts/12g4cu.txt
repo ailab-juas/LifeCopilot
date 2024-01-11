@@ -1,0 +1,13 @@
+title:
+LPT: Butter too hard or cold? - Grate it onto toast!
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/12g4cu/
+author:dravinicus
+subreddit:LifeProTips
+score:2495
+numComments:304
+isOver18:False
+hasPostBody:False

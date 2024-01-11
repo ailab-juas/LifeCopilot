@@ -1,0 +1,21 @@
+title:
+YSK how long it takes you to "wake up" in the morning
+
+content:
+Why YSK: Within minutes of waking up you’ll usually feel groggy before getting started with the day. You may be beginning your work day within that drowsy period. This period is called “**sleep inertia**”
+
+I’ve noticed recently that it takes me about an hour to 90mins from waking up to shake off that morning grogginess. After a general routine (breakfast, coffee, shower) i notice my mind and my body slowly shift from “i really dont want to get up right now” to “alright im good to go”
+
+Unfortunately, many have to clock in within an hour of waking up - you may be able to avoid this if you time it right. If you give yourself enough time between waking up and beginning work, you won’t have to battle that “sleep inertia”.
+
+Of course, many many factors come into play including the quality of sleep. Improving your sleep will go a long way but you’ll have to monitor your habits to see if you are truly well-rested
+
+source: [https://www.sleepfoundation.org/how-sleep-works/sleep-inertia](https://www.sleepfoundation.org/how-sleep-works/sleep-inertia)
+
+url:https://reddit.com/r/YouShouldKnow/comments/upavd3/
+author:roudie
+subreddit:YouShouldKnow
+score:8492
+numComments:663
+isOver18:False
+hasPostBody:True

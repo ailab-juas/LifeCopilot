@@ -1,0 +1,19 @@
+title:
+YSK that Youtube is updating their terms of service on December 10th with a new clause that they can terminate anyone they deem "not commercially viable"
+
+content:
+"Terminations by YouTube for Service Changes
+
+YouTube may terminate your access, or your Google account’s access to all or part of the Service if YouTube believes, in its sole discretion, that provision of the Service to you is no longer commercially viable. "
+
+this is a very broad and vague blanket term that could apply from people who make content that does not produce youtube ad revune to people using ad blocking software.
+
+https://www.youtube.com/t/terms?preview=20191210#main&amp;
+
+url:https://reddit.com/r/YouShouldKnow/comments/du95s3/
+author:no1careskid
+subreddit:YouShouldKnow
+score:55390
+numComments:3529
+isOver18:False
+hasPostBody:True

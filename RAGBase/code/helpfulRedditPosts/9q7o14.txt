@@ -1,0 +1,15 @@
+title:
+YSK Reporting crash data when an app or piece of software breaks is the fastest, easiest, and most efficient way to get bugs in your apps resolved.
+
+content:
+When an app crashes, a dialogue box saying something along the lines of "would you like to report this and send the information to developers?"  ALWAYS CLICK YES.  On our end, we don't see any personal information about you, but we get incredible insight into the cause of the problem, and as a result, are able to fix it much more efficiently.  In addition to this, our error logs populating with specific problems means a lot more to us than a bunch of 1 star reviews on the app page.  Finally, if you don't submit these reports, we have no way of knowing what's wrong or that a problem exists at all.
+
+Source: I am a developer
+
+url:https://reddit.com/r/YouShouldKnow/comments/9q7o14/
+author:Maxcr1
+subreddit:YouShouldKnow
+score:10367
+numComments:260
+isOver18:False
+hasPostBody:True

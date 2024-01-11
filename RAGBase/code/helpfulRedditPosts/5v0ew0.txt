@@ -1,0 +1,13 @@
+title:
+YSK: You can eat at your favorite restaurants cheaper by buying e-gift cards
+
+content:
+[deleted]
+
+url:https://reddit.com/r/YouShouldKnow/comments/5v0ew0/
+author:[deleted]
+subreddit:YouShouldKnow
+score:1418
+numComments:102
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+YSK: Most of brand new cars come with a low quality cabin air filter and you might want to replace it.
+
+content:
+Why YSK: Most of car manufacturers decide to put a low quality not-that-functional paper-like cabin air filter only to be able to say "there is a filter", that's the quality level of most of those filter, just replace it with a better one and I believe most of you people care about the air you breathe while driving.
+
+Edit: thanks u/fondspararna
+
+url:https://reddit.com/r/YouShouldKnow/comments/oky2re/
+author:yayikayran
+subreddit:YouShouldKnow
+score:8233
+numComments:401
+isOver18:False
+hasPostBody:True

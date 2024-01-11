@@ -1,0 +1,14 @@
+title:
+LPT:If in an area with no mobile reception but WiFi, turn on flight mode, then WiFi back on to save battery life.
+
+content:
+To expand... Once you activate flight mode you can then turn on your WiFi only. What this does is stops your phone from constantly searching for a tower which greatly increases your battery life. I'm assuming most mobiles can do this.
+Thanks
+
+url:https://reddit.com/r/LifeProTips/comments/2pz0py/
+author:wolfy747400
+subreddit:LifeProTips
+score:2756
+numComments:293
+isOver18:False
+hasPostBody:True

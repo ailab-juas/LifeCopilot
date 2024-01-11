@@ -1,0 +1,13 @@
+title:
+YSK its not a good idea to post a picture of keys online.
+
+content:
+Why YSK:  it is so easy to make a copy of a key from a picture.
+
+url:https://reddit.com/r/YouShouldKnow/comments/p4ta2e/
+author:MichaelTrickett
+subreddit:YouShouldKnow
+score:6528
+numComments:295
+isOver18:False
+hasPostBody:True

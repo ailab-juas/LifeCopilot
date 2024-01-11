@@ -1,0 +1,15 @@
+title:
+YSK about Amazon "Trade In", Where you can Turn in your used items for an Amazon Gift Card.
+
+content:
+I am trying to get rid of a few books on ebay, and amazon is going to give me more money for them just for trading them in. They send a box and I ship it to them and then they give me amazon credit. 
+
+[Amazon Trade In](https://www.amazon.com/b?node=9187220011)
+
+url:https://reddit.com/r/YouShouldKnow/comments/519uof/
+author:westondeboer
+subreddit:YouShouldKnow
+score:2326
+numComments:185
+isOver18:False
+hasPostBody:True

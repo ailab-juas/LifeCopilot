@@ -1,0 +1,19 @@
+title:
+YSK 29 states in the US have filial responsibility laws on the books -- making you legally responsible for your parents' medical expenses.
+
+content:
+The ~~29~~ 30 states are Alaska, Arkansas, California, Connecticut, Delaware, Georgia, Idaho, Indiana, Iowa, Kentucky, Louisiana, Maryland, Massachusetts, Mississippi, Montana, Nevada, New Hampshire, New Jersey, North Carolina, North Dakota, Ohio, Oregon, Pennsylvania, Rhode Island, South Dakota, Tennessee, Utah, Vermont, Virginia, and West Virginia. The Commonwealth of Puerto Rico also has them.
+
+The precise wording of the laws vary from state to state. Wikipedia has [an overview](http://en.wikipedia.org/wiki/Filial_responsibility_laws). Here's [a PDF](http://graphics8.nytimes.com/packages/pdf/health/NOA/30states.pdf) listing the exact law/statute for lookup purposes.
+
+Credit to /u/Jacob434 who [found this out the hard way](http://www.reddit.com/r/personalfinance/comments/2d1uu1/psa_certain_states_have_filial_support_laws_that/).
+
+Edit: Kansas should have been Arkansas. Also, [here's a list](http://law.psu.edu/_file/Pearson/FilialResponsibilityStatutes.pdf) of statutes by state and the most recent court case associated with the statute in that state.
+
+url:https://reddit.com/r/YouShouldKnow/comments/2d2gh2/
+author:TrekkieTechie
+subreddit:YouShouldKnow
+score:1055
+numComments:255
+isOver18:False
+hasPostBody:True

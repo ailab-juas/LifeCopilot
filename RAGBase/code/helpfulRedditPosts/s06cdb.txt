@@ -1,0 +1,15 @@
+title:
+YSK: Birds of prey such as hawks, eagles, and owls, as well as other apex predators like coyotes and mountain lions can easily stalk and kill your small dogs and cats when you leave them unattended around your house.
+
+content:
+Just read a recent story from Missouri where an owl swooped down and carried away a family’s dachshund for almost a mile before dropping it. The dog survived.
+
+Why YSK: It’s imperative that all of us keep a watchful eye on our pets when they are outside, especially if you live in areas that are shared with or in close proximity to habitats that are home to these types of predators.
+
+url:https://reddit.com/r/YouShouldKnow/comments/s06cdb/
+author:EevelBob
+subreddit:YouShouldKnow
+score:2387
+numComments:123
+isOver18:False
+hasPostBody:True

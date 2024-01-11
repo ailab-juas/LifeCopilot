@@ -1,0 +1,13 @@
+title:
+LPT: Perfect Pour, Rotate That Carton
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/3h43ap/
+author:elee0228
+subreddit:LifeProTips
+score:4043
+numComments:676
+isOver18:False
+hasPostBody:False

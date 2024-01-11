@@ -1,0 +1,13 @@
+title:
+LPT: In an emergency situation, don't yell for someone to call 911. Point to a specific person and tell them to call 911. If you don't make it a specific person's job, everyone will stand around waiting for someone else to do it.
+
+content:
+This applies to any job you need only one person to do in an emergency.
+
+url:https://reddit.com/r/LifeProTips/comments/n99m7z/
+author:thomthehipposlayer
+subreddit:LifeProTips
+score:1096
+numComments:74
+isOver18:False
+hasPostBody:True

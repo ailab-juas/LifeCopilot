@@ -1,0 +1,13 @@
+title:
+LPT: A great middle ground between deleting social media apps for sanity and wasting away hours daily on them is to always logout after browsing and not having credentials saved. The effort needed to log in each time will drastically reduce the number of times you actually end up browsing the apps..
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/p3f4pw/
+author:MossParkGuy
+subreddit:LifeProTips
+score:1113
+numComments:46
+isOver18:False
+hasPostBody:False

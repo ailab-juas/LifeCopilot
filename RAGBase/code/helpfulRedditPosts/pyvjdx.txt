@@ -1,0 +1,13 @@
+title:
+LPT: Don't tell anyone at work that you're good at Excel or PowerPoint unless you'd prefer to do that instead of what you normally do.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/pyvjdx/
+author:icebreakercardgame
+subreddit:LifeProTips
+score:7562
+numComments:348
+isOver18:False
+hasPostBody:False

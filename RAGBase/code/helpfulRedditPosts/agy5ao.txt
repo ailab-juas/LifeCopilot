@@ -1,0 +1,24 @@
+title:
+LPT: When starting a new job, don't be too quick to make suggestions for process improvements or changes.
+
+content:
+It's often very tempting to start pointing out ways that things can be improved.  While if may seem _totally obvious_ that certain changes should be made, there are often reasons why things work the way that they do.  Sometimes it takes a little bit longer to see why.  When you come in and start pointing out all the things that need to change,  your new coworkers will be polite (because you are new) but they will also be rolling their eyes because you're the 12th new person to point that out, but you don't understand the full story...   
+
+
+Being new at an organization provides you valuable perspective, but trying to enact change immediately will often result in being rebuked.  
+  
+
+
+An alternative approach would be to make notes on all the questions/ideas/suggestions/improvements that you observe.  Make a point to ask questions in these areas and learn all you can about the processes and dependencies.  Sit on these ideas for a while and flesh them out.  Then, instead of just pointing out that the current "way" is wrong, you can provide thoughts on what can change, how it can be implemented, and cover all the dependencies that people will be concerned about.  
+  
+
+
+Doing this will allow you to use your initial observations, but with the benefit of context, and (hopefully) some respect built up with your coworkers over time.  
+
+url:https://reddit.com/r/LifeProTips/comments/agy5ao/
+author:Deuceman927
+subreddit:LifeProTips
+score:1468
+numComments:89
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT Never give personal or money info to anyone who calls you. Only if you call them.
+
+content:
+Like email has no proof of identity, displayed phone numbers say whatever their machine wants it to say. They may call offering you a deal from some business you are already signed up for or were, and only if you accept the new deal over the phone you can get the discount etc. But they called you, so refuse until, if you're interested, call the expected business at their public number.
+
+url:https://reddit.com/r/LifeProTips/comments/53aiz6/
+author:BenRayfield
+subreddit:LifeProTips
+score:5121
+numComments:559
+isOver18:False
+hasPostBody:True

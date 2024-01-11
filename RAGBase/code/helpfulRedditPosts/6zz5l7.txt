@@ -1,0 +1,13 @@
+title:
+LPT: When calling a company, after they tell you that the call will be recorded ask the person if it is OK if you record the call, too. This helps keep them honest even if you don't actually record the call.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/6zz5l7/
+author:BBorNot
+subreddit:LifeProTips
+score:2431
+numComments:209
+isOver18:False
+hasPostBody:False

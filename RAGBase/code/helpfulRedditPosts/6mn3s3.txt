@@ -1,0 +1,13 @@
+title:
+YSK With all the hype on Amazon Prime Day, you should use https://smile.amazon.com/ to support a charity of your choice.
+
+content:
+[About Amazon Smile](https://smile.amazon.com/gp/chpf/about/ref=smi_se_rspo_laas_aas)
+
+url:https://reddit.com/r/YouShouldKnow/comments/6mn3s3/
+author:jrugger12
+subreddit:YouShouldKnow
+score:2312
+numComments:61
+isOver18:False
+hasPostBody:True

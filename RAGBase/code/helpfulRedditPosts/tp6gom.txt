@@ -1,0 +1,17 @@
+title:
+YSK In the US, all 3 credit agencies are required, by law, to offer free credit freeze services to all consumers. This will deny access to your credit report to any business while you have the freeze activated and will greatly reduce the ability for fraudulent accounts to be opened in your name.
+
+content:
+Why YSK:  if you are at all concerned about identity theft or credit fraud, freezing your credit will greatly reduce the risk of anybody being able to open fraudulent accounts in your name.  All credit requests will be denied unless you have specifically unfreeze your account. 
+
+Also, don’t pay for a service called a lock, which is essentially a paid version of a freeze.  The credit agencies try very hard to convince you to pay for things they must offer for free. 
+
+[Why a Free Credit Freeze Is Better Than a Credit Lock](https://www.consumerreports.org/credit-protection-monitoring/why-a-free-credit-freeze-is-better-than-a-credit-lock/)
+
+url:https://reddit.com/r/YouShouldKnow/comments/tp6gom/
+author:grandlewis
+subreddit:YouShouldKnow
+score:6831
+numComments:123
+isOver18:False
+hasPostBody:True

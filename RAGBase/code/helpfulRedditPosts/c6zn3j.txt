@@ -1,0 +1,38 @@
+title:
+YSK what your Door Dash driver sees, and how the delivery process works.
+
+content:
+**EDIT** [Here’s the update for Uber Eats!!!!](https://www.reddit.com/r/YouShouldKnow/comments/c78vf5/ysk_what_your_uber_eats_driver_sees_and_how_the/?utm_source=share&amp;utm_medium=ios_app) 
+
+There have been some recent posts about Door Dash’s payment model and how they use tips to subsidize the pay of the drivers who they contract. 
+
+The advice is that it’s always better to tip cash (and it’s good advice) but the comment I keep seeing repeated is that people are concerned that if they put a $0.00 tip in the app, they will somehow receive substandard service. I want to walk you through what we see as drivers and how the delivery process goes to alleviate any concerns about leaving a $0.00 tip in the app and tipping in cash. 
+
+PLEASE NOTE: Please don’t take this as a suggestion that you shouldn’t tip your driver. We work hard and do our best to get your food to you. We appreciate your appreciation. 
+
+When we’re logged on and receive an offer, the screen changes [to look like this. ](https://imgur.com/a/3Epp7wC) We see a map that shows the general area, a mileage total, total number of items, and a guaranteed payout. The guarantee is important because it’s what we use to decide whether or not we will take an order. General rule of thumb is never accept an order which pays less than $1/mile. Note that we cannot see a specific tip amount, just the total.
+
+Once we accept the offer we head to the restaurant, and when we get to the restaurant we slide a button to confirm that we’ve arrived. We are [then shown a screen which shows your order details.](https://imgur.com/a/R5dFTpg)This screen also shows any special requests you’ve made in regards to preparation, modifications, or substitutions. 
+
+We let the restaurant know that we’ve arrived and are given your order. If the bag is not sealed, we can look to make sure all items are included, however we cannot open boxes or packages to make sure it was prepared right. If the bag is sealed, we cannot open it to check anything and have to take the restaurant’s word for it. If you receive an order with missing items or incorrectly prepared food, please contact Door Dash customer service. The rating you give your dasher should only be a reflection of the delivery itself, not the preparation or absence of items as that is often outside of our control. 
+
+After we receive the order, we slide a button on the app verifying pickup and [showing us your address along with any delivery instructions.](https://imgur.com/a/r5VqFFB) If you have a gate code or any requests for the delivery itself, this is where we see them. Instructions to your building in an apartment complex are helpful as well. At this point we have already left the restaurant, so any requests regarding food preparation or additions to your order cannot be accommodated. It’s too late by this point. 
+
+Once we have handed you your food we swipe the button to confirm delivery [and are shown how much we were paid and whether or not a tip was included.](https://imgur.com/a/UcZlRfh) This order is a good example of the concern regarding Door Dash’s handling of tips. This customer was generous and tipped $5, but Door Dash used that $5 towards the guarantee and only paid $1.21 to the Dasher. If the customer had tipped $5 cash instead, Door Dash would have paid the full $6.21 guarantee and the dasher would have received $11.21 total for that delivery. 
+
+[Here are some more examples of various payouts.](https://imgur.com/a/CXtrKT4)
+
+I hope this clears up some things for you all. This info only applies to Door Dash, not other platforms, but I would be happy to put together walkthroughs for Uber Eats and GrubHub if anyone is interested.
+
+Let me know if you have any questions!
+
+
+**EDIT:** I’m seeing a lot of comments about how tipping is an outdated concept, should only be offered for service above and beyond, or how a particular dasher you’ve encountered was terrible and didn’t deserve a tip. Those are all also great reasons to tip $0 in the app and then give cash once/if you receive your food and are happy with the service your Dasher provided.
+
+url:https://reddit.com/r/YouShouldKnow/comments/c6zn3j/
+author:LSHT2019
+subreddit:YouShouldKnow
+score:14196
+numComments:866
+isOver18:False
+hasPostBody:True

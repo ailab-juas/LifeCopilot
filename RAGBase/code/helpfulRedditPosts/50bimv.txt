@@ -1,0 +1,18 @@
+title:
+YSK: If you see a random 'J' in an email. It's usually a smiley face
+
+content:
+Some mobile devices don't show emojis
+
+
+
+
+J
+
+url:https://reddit.com/r/YouShouldKnow/comments/50bimv/
+author:mrbaoss
+subreddit:YouShouldKnow
+score:2622
+numComments:201
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: When someone at work asks for your help with a mundane, easy to learn task, rather than doing it yourself because it's quicker, take the time to write up instructions for them to follow. You'll still be seen as helpful, but you won't become the office go-to for lazy people.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/esmbhx/
+author:LifeIsDeBubbles
+subreddit:LifeProTips
+score:1489
+numComments:76
+isOver18:False
+hasPostBody:False

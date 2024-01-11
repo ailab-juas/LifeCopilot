@@ -1,0 +1,13 @@
+title:
+Put a marble in cupcake tin to make heart shaped cupcakes &lt;3
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/x5f2v/
+author:pandachik713
+subreddit:LifeProTips
+score:1435
+numComments:255
+isOver18:False
+hasPostBody:False

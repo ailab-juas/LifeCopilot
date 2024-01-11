@@ -1,0 +1,15 @@
+title:
+LPT: Thinking of moving? Google "military BAH" for an idea on how much it costs to live somewhere
+
+content:
+One of the things the military does very well is calculate the cost of living in areas of the US. This is heavily researched so the government doesn't over or underpay servicemembers. If you're thinking of moving to a new area and are curious how much it costs for rent &amp; utilities, just google military Basic Allowance for Housing (BAH) and you'll see how much the military pays servicemembers to live there!
+
+Edit: Lots of people are asking about this for non-U.S. territories.. There is! Check out the [Overseas Housing Allowance calculator](http://https://www.defensetravel.dod.mil/site/ohaCalc.cfm) for more information!
+
+url:https://reddit.com/r/LifeProTips/comments/eb3yu5/
+author:aytoto
+subreddit:LifeProTips
+score:36833
+numComments:813
+isOver18:False
+hasPostBody:True

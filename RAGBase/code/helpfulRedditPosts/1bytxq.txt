@@ -1,0 +1,13 @@
+title:
+LPT: Have a Visa gift card with only one or two cents left on it? Save it.
+
+content:
+A basically worthless but still valid gift card can be used to fill out a billing information section of a website or service that forces you to fill it out. For example, Apple won't let you buy anything from the iTunes Store with iTunes gift card funds unless you have billing information filled out. No risk involved and you won't have to worry about getting charged for something stupid.
+
+url:https://reddit.com/r/LifeProTips/comments/1bytxq/
+author:TheJerseyDevilX
+subreddit:LifeProTips
+score:1226
+numComments:169
+isOver18:False
+hasPostBody:True

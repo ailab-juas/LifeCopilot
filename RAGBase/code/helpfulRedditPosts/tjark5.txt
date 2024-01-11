@@ -1,0 +1,13 @@
+title:
+LPT: Recording narration? When you make a mistake, clap your hands. Later, when you're editing the audio, the claps will show up as spikes on the waveform and make editing much easier
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/tjark5/
+author:angel_butts_69
+subreddit:LifeProTips
+score:74570
+numComments:1172
+isOver18:False
+hasPostBody:False

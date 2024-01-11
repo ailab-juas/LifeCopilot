@@ -1,0 +1,23 @@
+title:
+LPT: When applying for jobs, keep a running list of when you applied, which resume you used, the company name, and what the job entails.
+
+content:
+Hiring Manager here: When I phone screen a candidate, I'm so impressed when he or she immediately remembers applying with my company.  Huge bonus points for recalling any details from the job posting.
+
+An excel spreadsheet or google doc would be perfect for this.
+
+Date applied
+
+Resume used
+
+Company name
+
+Two sentences about the job posting
+
+url:https://reddit.com/r/LifeProTips/comments/2g41j4/
+author:chaknorrris
+subreddit:LifeProTips
+score:3364
+numComments:499
+isOver18:False
+hasPostBody:True

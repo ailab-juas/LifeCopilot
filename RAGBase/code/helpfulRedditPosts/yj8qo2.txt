@@ -1,0 +1,16 @@
+title:
+LPT: WD40 is not a good substitute for lubricating grease
+
+content:
+WD40 is a great product with a lot of uses, especially inhibiting rust and helping to free moving metal parts that are rusted in place.
+
+  
+It's not great as a lubricant for parts that need to move freely and will be exercised often, like hinges. It will work in a pinch, but it's not optimal. It contains solvents that evaporate quickly, so it does not provide long-lasting lubrication. If you have moving metal parts, like hinges, latches, axles, etc., and want to eliminate squeaks and keep them working well, a sprayable grease, like white lithium, is the way to go.
+
+url:https://reddit.com/r/LifeProTips/comments/yj8qo2/
+author:stonewallmike
+subreddit:LifeProTips
+score:9368
+numComments:710
+isOver18:False
+hasPostBody:True

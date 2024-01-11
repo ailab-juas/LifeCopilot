@@ -1,0 +1,13 @@
+title:
+LPT: If you're having company, stock up the restroom with hygiene products. It can be a great relief to find products in there if you've forgotten to bring some.
+
+content:
+Source: am stuck in here and feel embarrassed to request a refill...
+
+url:https://reddit.com/r/LifeProTips/comments/aplmxa/
+author:mutantmarine
+subreddit:LifeProTips
+score:1962
+numComments:110
+isOver18:False
+hasPostBody:True

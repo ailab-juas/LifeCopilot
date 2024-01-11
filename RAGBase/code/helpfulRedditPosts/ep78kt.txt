@@ -1,0 +1,15 @@
+title:
+LPT: Learn and practice the HALT and WAIT acronyms when in conversation
+
+content:
+HALT = Hungry, Angry, Lonely, Tired - if you are in any of these states, understand you are likely going to misinterpret AND BE misinterpreted. best to avoid important conversations.
+
+WAIT = Why am I talking? - are you dominating a conversation? are you trying to appear smart/something? are you being a good listener? etc
+
+url:https://reddit.com/r/LifeProTips/comments/ep78kt/
+author:dart_catcher
+subreddit:LifeProTips
+score:22137
+numComments:521
+isOver18:False
+hasPostBody:True

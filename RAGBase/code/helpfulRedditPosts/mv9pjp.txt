@@ -1,0 +1,17 @@
+title:
+LPT: Don’t share “this person is missing” posts unless the contact number is to the police!
+
+content:
+I often see this - a person writes a post about how their family member is missing and they want it shared so that they can find them and get in contact with them, and the only number on the post is their own number. 
+
+This is sometimes used to locate people who have escaped abuse, someone who left an abusive partner and took the kids with them to a safe house, or maybe someone escaping honor related violence. 
+
+Always call the police if you know something about someone who might be missing.
+
+url:https://reddit.com/r/LifeProTips/comments/mv9pjp/
+author:tempstud
+subreddit:LifeProTips
+score:44331
+numComments:848
+isOver18:False
+hasPostBody:True

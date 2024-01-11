@@ -1,0 +1,13 @@
+title:
+YSK even though plastic bottles say 'recycle with cap on' many recycling centers can't recycle plastic bottlecaps
+
+content:
+Why YSK:  I happened to read [this article](https://www.rd.com/article/keep-caps-on-bottles-when-recycling/) that mentioned that many facilities still don't have the technology to recycle bottle caps, even though pretty much all pop bottles say to recycle them with the caps on. I checked with my local recycling pickup and it turns out they don't recycle plastic caps either. I thought I was being environmentally conscious by always leaving the caps on but I guess not.
+
+url:https://reddit.com/r/YouShouldKnow/comments/zebgpq/
+author:teenypanini
+subreddit:YouShouldKnow
+score:5359
+numComments:224
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,14 @@
+title:
+YSK How people lie with charts
+
+content:
+This is a wonderful article by Nautilus magazine on how marketing agencies and other sponsored research agencies try to distort your reasoning by lying with charts, and maybe you can understand how you can prevent it.                                                
+http://nautil.us/issue/19/illusions/five-ways-to-lie-with-charts
+
+url:https://reddit.com/r/YouShouldKnow/comments/2sf8iz/
+author:newbie12q
+subreddit:YouShouldKnow
+score:1380
+numComments:93
+isOver18:False
+hasPostBody:True

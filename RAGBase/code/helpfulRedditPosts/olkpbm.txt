@@ -1,0 +1,13 @@
+title:
+LPT: Mix cornstarch into your shredded potato before frying for extra crispy hash browns, about 1 TBS per potato.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/olkpbm/
+author:Dirt_E_Harry
+subreddit:LifeProTips
+score:1020
+numComments:58
+isOver18:False
+hasPostBody:False

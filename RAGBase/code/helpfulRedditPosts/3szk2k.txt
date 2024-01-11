@@ -1,0 +1,13 @@
+title:
+YSK about PaycheckCity's salary calculator if you are looking for a job - especially one in a different state
+
+content:
+[Paycheck city](http://www.paycheckcity.com/calculator/salary/) has a handy paycheck calculator that helps you get a good idea of take home salary based on the gross salary and job location. It calculates SS tax, state tax, and federal taxes and gives you an output for monthly, bi-weekly, or weekly take home pay. Very convenient for seeing whether or not a job offers a realistic living wage.
+
+url:https://reddit.com/r/YouShouldKnow/comments/3szk2k/
+author:jjones217
+subreddit:YouShouldKnow
+score:1125
+numComments:28
+isOver18:False
+hasPostBody:True

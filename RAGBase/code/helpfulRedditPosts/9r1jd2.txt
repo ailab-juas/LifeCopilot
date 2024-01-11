@@ -1,0 +1,26 @@
+title:
+YSK that a Flushmate might make your toilet explode
+
+content:
+Name of product: Flushmate II 501-B pressure-assisted flushing systems
+
+
+Hazard:
+The system can burst at or near the vessel weld seam releasing stored pressure. This pressure can lift the tank lid and shatter the tank, posing impact and laceration hazards to consumers and property damage.
+Remedy:
+Replace
+Recall date:
+October 18, 2018
+Units:
+About 1.4 million (in addition, about 17,300 were sold in Canada) (The Series 503 Flushmate III was previously recalled June 2012, January 2014, and July 2016.)
+
+
+https://www.cpsc.gov/Recalls/2018/flushmate-recalls-flushmate-ii-501b-pressureassisted-flushing-systems-due-to-impact-and
+
+url:https://reddit.com/r/YouShouldKnow/comments/9r1jd2/
+author:nexgen23
+subreddit:YouShouldKnow
+score:1159
+numComments:91
+isOver18:False
+hasPostBody:True

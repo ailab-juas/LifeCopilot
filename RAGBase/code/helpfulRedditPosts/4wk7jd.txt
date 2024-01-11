@@ -1,0 +1,15 @@
+title:
+LPT If you accidentally dial 911, follow through with the call.
+
+content:
+You may panic and not say anything, then maybe hang up.  You aren't in trouble and you'll actually waste *more* of the operator's time by hanging up, because then they have to call you back to make sure there was no emergency.  
+
+
+
+url:https://reddit.com/r/LifeProTips/comments/4wk7jd/
+author:Manosenmipantalones
+subreddit:LifeProTips
+score:5664
+numComments:1902
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,17 @@
+title:
+LPT: Use the "over/under" method to keep your wires and cables from getting all kinky and weird.
+
+content:
+It's called the **over/under** method of cable coiling.  It is familiar to most people doing A/V work.  
+
+The basic idea is that the first loop twists the cable, and the next loop untwists it.  If you wind up cable the way most people do, every loop twists the cable in the same direction.  Doing that repeatedly is what causes cables to get all screwed up.
+
+It took me a long time to get this.  It was [this youtube video](https://www.youtube.com/watch?v=0yPcJD7RVuY) that finally taught me the technique.
+
+url:https://reddit.com/r/LifeProTips/comments/2asmac/
+author:5thinger
+subreddit:LifeProTips
+score:3591
+numComments:533
+isOver18:False
+hasPostBody:True

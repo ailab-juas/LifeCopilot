@@ -1,0 +1,15 @@
+title:
+LPT: Don't waste time with ctrl-alt-delete to click "Task Manager." Rather, ctrl-shift-esc opens Task Manager in Windows directly.
+
+content:
+Edit: to those of you claiming that this doesn't save time, perhaps you're correct that any one particular shortcut doesn't save time, but any power user will tell you that if you build up muscle memory it's exponentially faster to navigate a computer with a keyboard than a mouse. That's partially why platforms like Vim and Emacs are so popular.
+
+Also please stop commenting that you can "just right click the task bar." Literally every other comment is this.
+
+url:https://reddit.com/r/LifeProTips/comments/e3klgq/
+author:belligerent_ox
+subreddit:LifeProTips
+score:34425
+numComments:836
+isOver18:False
+hasPostBody:True

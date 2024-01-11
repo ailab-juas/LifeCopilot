@@ -1,0 +1,13 @@
+title:
+LPT: If you have a dashcam and see something where you need to record a licence plate but you know your dashcam is too far away, read the licence plate aloud for your cam's audio to record it.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/dppo9g/
+author:canadave_nyc
+subreddit:LifeProTips
+score:29174
+numComments:456
+isOver18:False
+hasPostBody:False

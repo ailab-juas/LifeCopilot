@@ -1,0 +1,13 @@
+title:
+LPT: If you are a heavy eater instead of telling yourself to "eat less", say "I will eat slowly"
+
+content:
+A study showed that the slower and mindfully you eat, the lesser you will eat. Telling yourself you should eat less or you shouldn't eat so much won't work all the time but slowing down will work.
+
+url:https://reddit.com/r/LifeProTips/comments/co22nf/
+author:Rak173
+subreddit:LifeProTips
+score:4180
+numComments:242
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT - If you think of a clever joke involving somebody's name, don't say it.
+
+content:
+Whether it's a rhyme, alliteration, or a pun, they've heard it before, they've heard it a thousand times, they won't find it funny. They may even respect you more for not going for the low hanging fruit.
+
+url:https://reddit.com/r/LifeProTips/comments/x27s7b/
+author:safm1213
+subreddit:LifeProTips
+score:1291
+numComments:314
+isOver18:False
+hasPostBody:True

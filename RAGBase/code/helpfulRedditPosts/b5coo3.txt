@@ -1,0 +1,33 @@
+title:
+YSK: Paypal has it's Own Exchange rate/Conversion rates. The Price you are Charged on a Website (Like Ebay.) May not be the price Paypal Charges you and Potentially Cost you more Money then the confirmed Purchase Price.
+
+content:
+Recently I made a purchase on Ebay from a UK seller. (I am in the states.)  The price was listed in GBP.  Ebay converted the price for me before the purchase so it was in US dollars.  Since I had my credit card linked with my Paypal I decided to just use the Paypal option (as my Discover card was the default payment on my Paypal, I get 5 percent cash back and it was a fairly large purchase.)  I saw the price on Ebay and clicked Confirm Purchase.  I have alerts on my phone for my credit card.  The alert said I got charged an extra 16 dollars.  I checked the Paypal invoice to learn that they have their own exchange rate and charged me more then what Ebay said I would be charged.   I would not have confirmed the purchase if I had seen the price I was charged.
+
+I would advise you not to use paypal when making an international purchase on Ebay.  I got charged more money then the confirmed purchase price because instead of just using my credit card, I used paypal.  My only recourse was to cancel the purchase, contact the seller and either ask them to relist it or see if I could work something out and wait days to get my refund back.  This would cost the seller money and time.   Or I could just eat the extra amount.
+
+&amp;#x200B;
+
+Edit: Apparently you can change who does the conversion rates if you have Credit Card linked to your account.  Here is how you do it.  
+
+1. Gear icon, top right
+
+2 Payments tab near the top (next to security tab)
+
+3. Click on "manage pre-approved payments"
+
+4. On the left hand side, you will see "Can't find what you're looking for? Try the [manage preapproved payments](https://www.paypal.com/cgi-bin/webscr?cmd=_manage-paylist) page." (you may have to scroll down. Botton left.)
+
+4.1 Click on "manage preaproved payments"
+
+5. Now in the old view, look for "set available funding sources" it will be on the right side of the page
+
+6.  Finally your credit cards with "conversion options" will appear. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/b5coo3/
+author:Lizard_brooks
+subreddit:YouShouldKnow
+score:3215
+numComments:82
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Funky smell in the basement? If there's drains, pour a bucket of water down them to keep the trap full.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/843mj7/
+author:9th_account
+subreddit:LifeProTips
+score:20991
+numComments:835
+isOver18:False
+hasPostBody:False

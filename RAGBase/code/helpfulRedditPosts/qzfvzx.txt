@@ -1,0 +1,13 @@
+title:
+YSK: You can still view dislike on YouTube videos using open source projects like FreeTube and NewPipe.
+
+content:
+Why YSK? Because like everyone else I too hate to click on a video without knowing the like to dislike ratio and watse my time on clickbait videos. But there is hope open source projects like [Freetube](https://freetubeapp.io) and [Newpipe](https://newpipe.net) still shows dislike on videos. While you can't like, dislike, or comment on videos you can freely watch any videos without being tracked by YouTube app or Google. On behalf of the open source community I highly recommend you download both freetube and newpipe and support the projects anyone way you can.
+
+url:https://reddit.com/r/YouShouldKnow/comments/qzfvzx/
+author:imstressedman
+subreddit:YouShouldKnow
+score:2851
+numComments:80
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,21 @@
+title:
+LPT: How to balance a wobbly table (without putting stuff under the legs)
+
+content:
+Tables are built with all 4 legs the exact same length, but an un-even floor can cause one leg to be above the ground, making it unstable and wobbly.
+
+It is mathematically proven that a stable position for the table can be found by simply rotating the table less than a quarter turn.
+
+[Video explaining how and why here](https://www.youtube.com/watch?v=OuF-WB7mD6k)
+
+EDIT: if that video isn't a sufficient explanation, I found the [original source here](http://arxiv.org/pdf/math/0511490.pdf) and an [article written about it here](http://www.scientificamerican.com/article/strange-but-true-turning/)
+
+EDIT2: fixed link
+
+url:https://reddit.com/r/LifeProTips/comments/2dvsx4/
+author:PhyterJet
+subreddit:LifeProTips
+score:1607
+numComments:488
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+LPT: Replace the word 'problem' for the word 'challenge', it can drastically change your feeling about a difficult situation.
+
+content:
+The only problem is I have to pay my rent next month... (real problem I have)
+
+The only *challenge* is I have to pay my rent next month. (It doesn't feel as big an issue) For me the rent issue is now something I know I can get over, just with a little work. It can also seem more "fun".
+
+url:https://reddit.com/r/LifeProTips/comments/2l062i/
+author:leem0
+subreddit:LifeProTips
+score:2748
+numComments:493
+isOver18:False
+hasPostBody:True

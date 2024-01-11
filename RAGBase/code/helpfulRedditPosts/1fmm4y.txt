@@ -1,0 +1,13 @@
+title:
+LPT: When composing a professional e-mail, do not put in the person's e-mail address until you have typed the entire e-mail.
+
+content:
+A tip an MBA friend gave me after accidentally sending an incomplete e-mail to my future employer. :( My loss, your gain!
+
+url:https://reddit.com/r/LifeProTips/comments/1fmm4y/
+author:ansile
+subreddit:LifeProTips
+score:2364
+numComments:202
+isOver18:False
+hasPostBody:True

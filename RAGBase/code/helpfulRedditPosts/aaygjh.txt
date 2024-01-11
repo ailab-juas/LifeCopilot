@@ -1,0 +1,15 @@
+title:
+YSK you can negotiate your mortgage rate. If you find lower rates wuth companies that are less reputable, ask your top choice to beat it. They probably will.
+
+content:
+Negotiating our rate before committing to one mortgage company saved us over $30,000 over the life of the loan, and we got to use a company our realtor trusted.
+
+You should also know that by paying the minimum payment each month, you're only paying a small portion of principle. On my $67,000 house for instance, the principle payment is about $100. The interest is $200. By doubling your principle payment you should be able to cut the life of the loan in half. Note that you should ensure your bank doesn't have any fees associated with early payoff.
+
+url:https://reddit.com/r/YouShouldKnow/comments/aaygjh/
+author:peranza
+subreddit:YouShouldKnow
+score:4199
+numComments:215
+isOver18:False
+hasPostBody:True

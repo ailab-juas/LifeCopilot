@@ -1,0 +1,26 @@
+title:
+YSK that cars are required to stop when approaching a school bus with flashing red lights and/or an extended stop sign.
+
+content:
+edit: This law applies to the US states.  (Meant to include that in the title, but oops)
+
+* First and foremost: **TRAFFIC LAWS IN THE US VARY FROM STATE TO STATE** The driver is responsible for knowing the laws where they are driving.  A good summary of this case is [here](https://en.wikipedia.org/wiki/School_bus_traffic_stop_laws).
+* Even though there is a stop sign on the bus, it isn't a stop and proceed with caution situation like a stop sign.  You must remain stopped until the lights turn off and the sign is retracted.
+* Cars are expected to stop in both directions, with some exceptions (see next)
+* In some states, you do not have to stop if you are in the oncoming lane and there is a physical barrier or median strip.  In some you don't have to stop if it is a multi-lane highway.
+* Buses may or may not have a physical stop sign that extends from the side.  In general, if there are red lights flashing you are expected to stop.  Again this may not apply in all states, but this is the safer scenario.
+* Yes, kids should be educated to cross the street safely, but this law is intended to create a virtual intersection where you would be able to cross with the same expectation of safety as you would have crossing at a traffic light.  More so in some cases, because in some states a when a bus stops and flashes its lights at an intersection, cars are expected to stop in all 4 directions.
+* Some localities route their buses so that the kids do not have to cross the street to board the bus, but this is not always common in rural areas.
+* In some cases, even emergency vehicles need to stop.
+* Violating this law has some of the most severe penalties for a moving violation, including large fines, license points, and mandatory suspensions.
+* Being particularly old, I can say that this law goes back decades is isn't new nanny state type stuff.  It goes back to when kids as young as 5 years old would be sent to the bus stop by themselves.
+
+edit: thanks for the gold dear stranger!
+
+url:https://reddit.com/r/YouShouldKnow/comments/bpt6ih/
+author:cerevant
+subreddit:YouShouldKnow
+score:1889
+numComments:233
+isOver18:False
+hasPostBody:True

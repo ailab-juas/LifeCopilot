@@ -1,0 +1,13 @@
+title:
+LPT: If you need a document notarised, ask your bank or credit union first as most offer notary services for free.
+
+content:
+I see people overpaying $10-$20 per signature at the UPS Store all the time when I get all my documents done at Bank of America or Chase for free.
+
+url:https://reddit.com/r/LifeProTips/comments/64wmg0/
+author:youyouxue
+subreddit:LifeProTips
+score:2120
+numComments:126
+isOver18:False
+hasPostBody:True

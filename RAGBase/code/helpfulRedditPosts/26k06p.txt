@@ -1,0 +1,13 @@
+title:
+YSK about Google's Android device manager which let's you find your phone, ring it, or wipe everything.
+
+content:
+https://www.google.com/android/devicemanager
+
+url:https://reddit.com/r/YouShouldKnow/comments/26k06p/
+author:RedditAuthority
+subreddit:YouShouldKnow
+score:1407
+numComments:96
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: When traveling, carry a shampoo bar instead of liquid shampoo. It's more compact, more eco-friendly, and can't leak all over your clothes.
+
+content:
+My wife started buying shampoo and conditioner bars as a way of cutting our plastic use at home. A useful benefit has been that we now don't need to buy those little travel-sized bottles of shampoo and conditioner for vacations. One bar will last for months of semi-daily use whereas a small bottle will be gone after just a few days. Between the cost and the plastic, shampoo bars are simply the most reasonable option.
+
+url:https://reddit.com/r/LifeProTips/comments/v8zhlq/
+author:DAVENP0RT
+subreddit:LifeProTips
+score:1250
+numComments:180
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Helmets are single use items / disposable. If you've fallen hard enough to protect your head, the inner foam is done for even if the outer shell is intact. Even if you just drop your helmet that can sometimes cause enough damage to not to provide adequate protection in a real event.
+
+content:
+I've seen too many people take a bad fall and say "thank god I was wearing a helmet" and think that it's held the same integrity as it was new. After protecting you, its service to you is terminated and it's time to buy a new one.
+
+url:https://reddit.com/r/LifeProTips/comments/ywdar3/
+author:aohare94
+subreddit:LifeProTips
+score:15505
+numComments:490
+isOver18:False
+hasPostBody:True

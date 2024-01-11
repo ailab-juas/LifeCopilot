@@ -1,0 +1,13 @@
+title:
+LPT: To kill a fly with your bare hands: Don't just swat downward at the fly -- the fly is 100x quicker than you are. Instead, clap your hands together in the air ABOVE the fly. The fly will get startled and fly up between your clapping hands. Kill rate goes from 0 to about 80 percent.
+
+content:
+(Yes I know -- "Use a flyswatter!" I'm obviously talking about when there is nothing like that handy.)
+
+url:https://reddit.com/r/LifeProTips/comments/obsye9/
+author:Alaska_Jack
+subreddit:LifeProTips
+score:29056
+numComments:1156
+isOver18:False
+hasPostBody:True

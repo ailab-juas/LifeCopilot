@@ -1,0 +1,17 @@
+title:
+YSK if you have a front-loading washing machine, the easiest and best thing you can do to prevent mold and mildew is to keep the door open when not in use. Open just enough to let water inside evaporate is all that is needed.
+
+content:
+Why YSK: Front loading washers are great and very popular, but they do have one big design flaw.  When closed, there is a rubber gasket that creates a water-tight seal, which is completely necessary when washing clothes.  However this also means when clothes are not being washed, water will not escape, which can lead to mold and mildew.  The simple solution is to leave the door open a crack after you are done to allow the gasket and tub to dry off through evaporation. 
+
+Edit: link
+
+[How to Solve Front Load Washer Mold Problems](https://www.pcrichard.com/how-to-solve-front-load-washer-mold-problems/Blog-10043.html)
+
+url:https://reddit.com/r/YouShouldKnow/comments/tpzrjn/
+author:grandlewis
+subreddit:YouShouldKnow
+score:8825
+numComments:346
+isOver18:False
+hasPostBody:True

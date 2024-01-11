@@ -1,0 +1,22 @@
+title:
+LPT: Using Excel at work? Learn to use named tables (Insert &gt; Table). It will simplify your formulas and your life
+
+content:
+Some benefits:
+
+* Reference column names instead of range references ([Amount] instead of $B$2:$B28)
+* Tables extend automatically when data is entered in the row beneath the bottom row. Formulas won't need to be updated! Same goes with columns added to the right. 
+* Formulas entered in a blank column of a table automatically copy to the whole column, and extend/contract with the table
+* Default design is banded rows (no need for conditional formatting, which always breaks)
+
+You can convert any data range to a table by pressing Ctrl + T. 
+
+I've introduced colleagues, and their minds are always just blown!
+
+url:https://reddit.com/r/LifeProTips/comments/enphg2/
+author:cjw_5110
+subreddit:LifeProTips
+score:6995
+numComments:250
+isOver18:False
+hasPostBody:True

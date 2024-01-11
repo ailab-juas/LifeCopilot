@@ -1,0 +1,23 @@
+title:
+LPT: Call your electric company each month around the time they read your meter, and submit your own meter reading.
+
+content:
+Many people aren't aware of this, but most electric companies have a feature when you call to enter your meter reading yourself.  My wife and I had noticed that during the months of December, January, and February (we have gas heat and live in Indiana where it gets pretty cold during the winter months, so we did NOT run our AC during those months,) our bill was much higher than what we had anticipated.  So, during the month of March, we decided to keep track of our meter for a full 30 days.  During that time, we only used about half the amount of electricity that our electric company claimed we had used during the preceding three months.  
+
+That was when we learned we could enter our own meter reading by calling the customer service number of our electric company (Duke Energy for us,) and that, apparently, sometimes electric companies don't actually read your meters, they just estimate your bill based on previous months usage.  At the end of March, April, and now May, we have been entering our own meter reading, and have proceeded to see a drop of nearly 33% to our electric bill compared to the months we had not entered our reading.  It makes it even more surprising that during the months we've been entering our own reading, we have been using our air more and more and have still continued to see a lower bill.  So, if you feel like your bill is higher than it should be, perhaps consider checking your own meter reading and comparing it to what your electric bill says. If you notice any discrepancies or feel like something is off, check with your electric company and see if they offer the ability to enter your own reading manually.  
+
+Tl;Dr: If your electric bill seems higher than it should be, consider submitting your usage from your meter to your electric company manually. 
+
+Edit: I see a lot of people defending the person who does the actual readings in this situation.  Please let me make myself clear that I am not at all blaming the man or woman who comes out and reads your meter. I am fully aware that they are just people trying to do their jobs and there are plenty of mitigating circumstances that may prevent them from being able to get a true reading.  Entering your reading yourself only takes about two minutes, and just helps to avoid situations where you get a bill that is significantly higher one month than you expected it to be.  Again, I am not in any way trying to say that the person doing the reading is at fault, I don't think that at all and just felt like I should clarify that.  I am also not saying that your bill won't even out over time.  This LPT is for people who can't afford a month where their bill is significantly higher than normal, even if it gets fixed 30 days later.  Some people can afford to get overcharged a few hundred dollars in one month if it's only going to be fixed the following month.  Others can't afford it however.  Thirty days is a long time when you live on a weekly basis.
+
+Edit 2: https://www.utwente.nl/en/news/!/2017/3/313543/electronic-energy-meters-false-readings-almost-six-times-higher-than-actual-energy-consumption
+
+A study about "smart meters" that some may find interesting. 
+
+url:https://reddit.com/r/LifeProTips/comments/6dqbi3/
+author:hamptont2010
+subreddit:LifeProTips
+score:7639
+numComments:565
+isOver18:False
+hasPostBody:True

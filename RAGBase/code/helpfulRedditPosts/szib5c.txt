@@ -1,0 +1,13 @@
+title:
+LPT: Closing a credit card actually hurts your credit score because it effects your credit utilization ratio, making getting new debt in the future more challenging. Leaving $0 annual fee cards open with a zero balance is better than closing them.
+
+content:
+*This is only true if you do not have lots of open credit cards.  Like 10 or more.
+
+url:https://reddit.com/r/LifeProTips/comments/szib5c/
+author:FLIPNUTZz
+subreddit:LifeProTips
+score:5302
+numComments:491
+isOver18:False
+hasPostBody:True

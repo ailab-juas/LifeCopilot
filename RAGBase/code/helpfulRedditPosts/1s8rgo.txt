@@ -1,0 +1,13 @@
+title:
+LPT: When signing up for the newsletter, instead of putting your name, put the website name. Then, when you get a million spam emails, you'll source it to the website that shred your name and email.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1s8rgo/
+author:wednesdays_eye
+subreddit:LifeProTips
+score:4068
+numComments:309
+isOver18:False
+hasPostBody:False

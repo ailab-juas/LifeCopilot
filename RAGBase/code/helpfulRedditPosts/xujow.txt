@@ -1,0 +1,13 @@
+title:
+LPT: Do NOT pay attention to the "cover dogs with syrup" LPT. It is bad information. You're likely to make a dog sick if you do this.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/xujow/
+author:casalex
+subreddit:LifeProTips
+score:1211
+numComments:210
+isOver18:False
+hasPostBody:False

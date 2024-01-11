@@ -1,0 +1,13 @@
+title:
+YSK: Socks are the most demanded item at homeless shelters. Please spare a few dollars for a pack of socks and donate them.
+
+content:
+I know this might have been said already but a good reminder during the winter never hurts anyone. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/a7xlet/
+author:Grifter56
+subreddit:YouShouldKnow
+score:7262
+numComments:168
+isOver18:False
+hasPostBody:True

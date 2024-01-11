@@ -1,0 +1,17 @@
+title:
+YSK: if in the UK or visiting and are hard of hearing, speech difficulties or anything that makes a phone call a challenge - our emergency service ‘999’ number has a text service you can activate.
+
+content:
+Why YSK: This is a service that will need to be activated on your mobile.  By default it is not activated. 
+
+Text ‘register’ to 999 and agree to activation on your mobile no. If you wish to use this service. 
+
+[PSNI link](https://www.psni.police.uk/globalassets/contact/emergency_sms.pdf)
+
+url:https://reddit.com/r/YouShouldKnow/comments/k9qk2q/
+author:Banana_Cat_Man
+subreddit:YouShouldKnow
+score:12611
+numComments:141
+isOver18:False
+hasPostBody:True

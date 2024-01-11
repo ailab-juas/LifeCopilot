@@ -1,0 +1,13 @@
+title:
+Google Drive LPT: Use Ctrl + drag on the corner of a selection for google to automatically populate the rest of the list with objects from the same category (more in comment) 
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1a7yos/
+author:psychuil
+subreddit:LifeProTips
+score:2541
+numComments:299
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,17 @@
+title:
+LPT: iOS has an option to turn off apps asking to rate them
+
+content:
+Like me most of you are probably sick of playing a free game then a pop up appears asking to rate the app? Apple have put in an option to turn this off (asking to rate is automatically on by default) so they can’t ask you anymore. To turn this off on iOS 11, go to settings and tap ‘account’ at the top then ‘iTunes and app store’ at the bottom there’s an option to turn off in-app reviews.
+
+Edit: this is still in beta and is a new feature by Apple. Companies had to put in rating notifications for themselves before but Apple are phasing out apps being able to do there own in app review notifications and replacing it with this Apple feature which you can turn off.
+
+My first Gild! Thank you! /u/Jkuz
+
+url:https://reddit.com/r/LifeProTips/comments/8vhm0m/
+author:thegayboynextdoor
+subreddit:LifeProTips
+score:47890
+numComments:1000
+isOver18:False
+hasPostBody:True

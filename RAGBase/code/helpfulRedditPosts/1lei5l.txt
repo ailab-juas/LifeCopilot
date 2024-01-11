@@ -1,0 +1,42 @@
+title:
+LPT: Delay your outgoing work email by 1 min
+
+content:
+There's been a few times I've sent out work emails on outlook and forgot to proof or attach a document before I jumped the gun and clicked send. That way you prevent any slip ups if you accidentally hit reply all or whatever.
+
+*Edit more detailed steps from u/spankr:*
+
+* Click "Rules" dropdown on the tool "ribbon"
+
+* Select "Manage Rules &amp; Alerts"
+
+* Click "New Rule..."
+
+* Highlight "Apply rule on messages I send"
+
+* Click "Next"
+
+* Click "Next" again
+
+* Click "OK" to the dialogue warning you that this rule will apply to every message you send
+
+* Check "Defer delivery by a number of minutes"
+
+* In the lower area, click the "a number of" link and set it to whatever you like
+
+* Click "OK"
+
+* Click "Finish"
+
+*edit: I've gotten at least 50 "Don't put the recipient's address in until the email is done". 
+Yes I get this is an option but the delay works as a quick auto safety net
+
+
+
+url:https://reddit.com/r/LifeProTips/comments/1lei5l/
+author:aznprd
+subreddit:LifeProTips
+score:2711
+numComments:345
+isOver18:False
+hasPostBody:True

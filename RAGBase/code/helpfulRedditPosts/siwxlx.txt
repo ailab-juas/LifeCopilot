@@ -1,0 +1,13 @@
+title:
+LPT: Go for an expensive house and a cheap car, not the other way round.
+
+content:
+The idea is that if you plan (and have the means) to buy something expensive, then let this be your house which appreciates in value rather than your car which depreciates in value.
+
+url:https://reddit.com/r/LifeProTips/comments/siwxlx/
+author:shpati
+subreddit:LifeProTips
+score:13224
+numComments:1155
+isOver18:False
+hasPostBody:True

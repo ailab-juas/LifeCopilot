@@ -1,0 +1,15 @@
+title:
+YSK that heat doesn't mean more chance of sunburn. It's easy to get sunburned in the snow.
+
+content:
+I've heard people say "it's hot, so wear sunscreen" but my friend who skis often told me that the sun reflecting off the snow can be even more dangerous. Wear sunscreen if you're outside for an extended period of time
+
+edit: or in any cold/cloudy environment. there are lots of great comments below about UV rays being the cause of sunburn 
+
+url:https://reddit.com/r/YouShouldKnow/comments/83p2ev/
+author:u-n-i-t-y
+subreddit:YouShouldKnow
+score:7534
+numComments:264
+isOver18:False
+hasPostBody:True

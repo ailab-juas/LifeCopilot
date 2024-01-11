@@ -1,0 +1,13 @@
+title:
+LPT: If you want to cool some water for your water bottle in a hurry, but don't want to have ice in it, pour the water through a funnel full of ice. 
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ug89j/
+author:doombuggy110
+subreddit:LifeProTips
+score:1180
+numComments:264
+isOver18:False
+hasPostBody:False

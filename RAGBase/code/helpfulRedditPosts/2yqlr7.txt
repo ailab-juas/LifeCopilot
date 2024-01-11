@@ -1,0 +1,13 @@
+title:
+LPT: By holding down ALT, you can highlight any part of hyperlinked text as if it was plain text.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/2yqlr7/
+author:TUBBB
+subreddit:LifeProTips
+score:1867
+numComments:155
+isOver18:False
+hasPostBody:False

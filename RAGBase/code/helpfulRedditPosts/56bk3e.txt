@@ -1,0 +1,13 @@
+title:
+LPT: If need dietary advice, see a dietitian, not a nutritionist. Dietitian is a legally protected term, nutritionist isn't a legally protected term.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/56bk3e/
+author:wellplastic
+subreddit:LifeProTips
+score:6433
+numComments:1555
+isOver18:False
+hasPostBody:False

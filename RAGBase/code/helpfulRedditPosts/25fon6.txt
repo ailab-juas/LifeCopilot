@@ -1,0 +1,13 @@
+title:
+LPT: A small sprinkle of salt helps curb the taste of bitterness in coffee if you didn't make the most appealing pot.
+
+content:
+This rule is pretty universal for all things bitter. Salt can also make a sweet food go from good to great. Try a pinch in your next batch of cookies.
+
+url:https://reddit.com/r/LifeProTips/comments/25fon6/
+author:PROFESSORCOCKNBALLS
+subreddit:LifeProTips
+score:1259
+numComments:244
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,19 @@
+title:
+LPT: Don’t pay for turbo tax
+
+content:
+If you’re filing your taxes with turbo tax and it says you have to pay to file, don’t do it. Just compete the full process and on the VERY LAST PAGE, there’s a link to click to review all the documents just before you submit.
+
+That shows you each form, completely filled out with all of the correct information. Now with that open, you want to go to the IRS website and use one of their linked sites. Find each form that is on the turbo tax review page you have open, and match all of the fields. Then submit with the other site and exit turbo tax.
+
+You’ve now filed your taxes for free!
+
+Edit: Woah wasn’t expecting this to blow up like this lol thanks for my first gold!
+
+url:https://reddit.com/r/LifeProTips/comments/esf8n7/
+author:jrnova9
+subreddit:LifeProTips
+score:61380
+numComments:2629
+isOver18:False
+hasPostBody:True

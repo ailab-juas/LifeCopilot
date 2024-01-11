@@ -1,0 +1,17 @@
+title:
+YSK about OpenStax. A website to get free pdf textbooks for subjects ranging in Maths, Science, Social Sciences, Humanities, Business, and AP.
+
+content:
+A non-profit organization dedicated to giving students the tools they need to be successful in class. They may not be as good as those recommended by professors, but they are good enough to get you by. The website is [https://openstax.org/](https://openstax.org/) and it is something to consider before pirating textbooks from some shady site. 
+
+&amp;#x200B;
+
+Another alternative is to check your school library, most of the time they have a hard-copy of the textbook used by lecturers. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/ak7yth/
+author:739RedRose
+subreddit:YouShouldKnow
+score:3457
+numComments:40
+isOver18:False
+hasPostBody:True

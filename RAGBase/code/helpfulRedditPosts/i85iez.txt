@@ -1,0 +1,13 @@
+title:
+LPT: never be a dead end. If someone asks a question, don’t be a dead end. Instead point them to what you think may be the next step, even if it’s only an educated guess. It will also make you think more creatively when solving problems of your own.
+
+content:
+Edit: obviously if you don’t know, say you don’t know, but still give the person some nugget of information to try to help them find an answer and don’t be deceptive or do anything to misdirect them.  Say “I don’t know, but if it were me I would ....”
+
+url:https://reddit.com/r/LifeProTips/comments/i85iez/
+author:sb0918
+subreddit:LifeProTips
+score:6168
+numComments:159
+isOver18:False
+hasPostBody:True

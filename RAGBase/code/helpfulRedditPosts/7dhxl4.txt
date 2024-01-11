@@ -1,0 +1,13 @@
+title:
+YSK Serious alcoholics can die from withdrawals, going cold turkey can be risky based on level of use
+
+content:
+Required citation: https://americanaddictioncenters.org/withdrawal-timelines-treatments/risk-of-death/
+
+url:https://reddit.com/r/YouShouldKnow/comments/7dhxl4/
+author:Dinosam
+subreddit:YouShouldKnow
+score:1141
+numComments:113
+isOver18:False
+hasPostBody:True

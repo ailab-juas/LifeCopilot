@@ -1,0 +1,13 @@
+title:
+LPT: If someone is repeating themself a lot, it's often because they don't feel like anyone is hearing or understanding them. Try making eye contact and rephrasing what they're saying, so they know they've been heard.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/d3s4ki/
+author:FarBlueShore
+subreddit:LifeProTips
+score:25318
+numComments:435
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,17 @@
+title:
+LPT: If you offer your advice for free no one will take it, but if you charge for your advice then people will listen to your every word.
+
+content:
+My dad was a lawyer and would say this to me all the time. He charged out at hundreds of dollars per hour. If he met some random person at a bar and told them *exactly* what to do... they never would.
+
+When he charged them they would take his advice.
+
+The more you charge, the more seriously someone will take your advice.
+
+url:https://reddit.com/r/LifeProTips/comments/w9stcy/
+author:thebigger
+subreddit:LifeProTips
+score:17556
+numComments:541
+isOver18:False
+hasPostBody:True

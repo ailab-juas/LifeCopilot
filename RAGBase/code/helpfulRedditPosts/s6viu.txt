@@ -1,0 +1,13 @@
+title:
+Pancake mix made in a ketchup bottle, easy peasy squeezes into the fry pan, no mess!
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/s6viu/
+author:actonesceneone
+subreddit:LifeProTips
+score:1950
+numComments:249
+isOver18:False
+hasPostBody:False

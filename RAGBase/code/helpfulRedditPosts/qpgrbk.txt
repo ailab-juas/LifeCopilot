@@ -1,0 +1,21 @@
+title:
+LPT: You can stop Spotify from playing certain artists.
+
+content:
+To stop Spotify from playing Chris Brown &amp; Travis Scott 
+
+Step 1: go to the artist home page 
+
+Step 2: click the 3 dots (…) 
+
+Step 3: select “Don’t play this artist”
+
+Edit: to add Travis Scott because yeah
+
+url:https://reddit.com/r/LifeProTips/comments/qpgrbk/
+author:yellowsloth
+subreddit:LifeProTips
+score:39115
+numComments:1868
+isOver18:False
+hasPostBody:True

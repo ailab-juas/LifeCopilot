@@ -1,0 +1,13 @@
+title:
+LPT: Join a subreddit of a country you know very little about. Seeing a daily feed of news from that country and reading the comments can really broaden your perspective on a huge number of issues you'd otherwise never know about.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/hk8fcv/
+author:[deleted]
+subreddit:LifeProTips
+score:2643
+numComments:155
+isOver18:False
+hasPostBody:False

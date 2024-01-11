@@ -1,0 +1,16 @@
+title:
+LPT: Inflation is currently ~2% per year. If you are not getting more than that per year as a raise, you are getting a pay cut. If you are not earning more than that in returns on your savings, you are losing money.
+
+content:
+It amazes me how many people I talk to who don't take inflation into account when they get a raise. Also, if you have a bunch of cash sitting in a savings account making 0.03% interest, you are losing ~2% of your money every year. Invest it, put it in a CD that matches or beats inflation, etc. 
+
+
+Edit: yes, I understand that inflation is probably more than 2% if you are looking at consumer goods, etc. That was just a ballpark number found on Google. 
+
+url:https://reddit.com/r/LifeProTips/comments/8quuo0/
+author:QAFY
+subreddit:LifeProTips
+score:27047
+numComments:1393
+isOver18:False
+hasPostBody:True

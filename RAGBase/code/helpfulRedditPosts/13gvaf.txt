@@ -1,0 +1,13 @@
+title:
+YSK: If you get one of these mailings from the Nielsen ratings, don't throw it out as junk mail. It may contain $2 cash, no strings attached.
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/13gvaf/
+author:Juno_Malone
+subreddit:YouShouldKnow
+score:1346
+numComments:140
+isOver18:False
+hasPostBody:False

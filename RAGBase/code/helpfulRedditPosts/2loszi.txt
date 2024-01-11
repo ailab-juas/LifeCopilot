@@ -1,0 +1,15 @@
+title:
+YSK what to do when you receive other people's mail.
+
+content:
+I work in the leasing office for an apartment community and I deal with this much more often than I should. Save yourself and your leasing agent some time by following this one weird trick.
+
+If you're currently living in an apartment or a rental home, you're probably still getting mail intended for a previous resident.  When you receive this mail, write "RTS - Not at this address" (RTS = return to sender) on the envelope and drop it in the outgoing mail slot.  It takes a few weeks of dedication, but after that, your mailbox will be filled with only *your* mail. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/2loszi/
+author:rosie_the_redditor
+subreddit:YouShouldKnow
+score:1254
+numComments:279
+isOver18:False
+hasPostBody:True

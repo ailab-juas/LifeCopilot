@@ -1,0 +1,17 @@
+title:
+YSK Avocados are toxic to almost every other animal except humans.
+
+content:
+Avocado contains a toxin called persin, but only certain species of animals are poisoned by persin. While dogs and cats are rarely affected by persin, avocado poisoning can be deadly to birds and large animals (such as cows, goats, sheep). The bigger risk to dogs and cats is a foreign body obstruction in the esophagus, stomach, or intestinal tract if part or all of a large avocado seed is swallowed. Pancreatitis (inflammation of the pancreas) is also possible due to the high fat content in avocados.
+
+Pet birds, including canaries, parakeets, cockatiels, and large parrots, should never be fed avocado as they are extremely susceptible to persin. Signs of poisoning in birds include inability to perch, difficulty breathing, fluid accumulation around the bird’s heart and lungs, liver and kidney failure, and sudden death.
+
+Ruminants and horses can also develop toxicity if they ingest enough avocados or avocado plant leaves.  Ingestion can result in mastitis (inflammation of the mammary glands), swelling of the mouth, head, neck, or chest, and damage to the heart with potential for death.
+
+url:https://reddit.com/r/YouShouldKnow/comments/icycoc/
+author:mohiemen
+subreddit:YouShouldKnow
+score:13619
+numComments:435
+isOver18:False
+hasPostBody:True

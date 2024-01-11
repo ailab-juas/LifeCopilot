@@ -1,0 +1,27 @@
+title:
+LPT: Do not ask if there is anything on the resume that concerns the interviewer. Instead, ask about opportunities you'll be presented with in five years if you joined the company tomorrow.
+
+content:
+The one about "Is there anything on my application that concerns you" is a horrible idea.
+
+Here are some real questions you should ask:
+
+"Assuming everything for today were to work out, what sort of opportunities will I be presented with in five years?"
+
+"I've done XXXX research about your company; however, I was unable to find any information about YYYY, can you tell me anything about this?" (exampe: Previous CEO, Current CEO)
+
+"If I were to join your team, what would you recommend for me to do to ensure my transition be as smooth as possible?" 
+
+"Do you have an email or phone number I can note so we can keep in touch?"
+
+"What are the positives and negatives about working here?"  (You probably won't get negatives. I only got them once)
+
+Edit:  It's interesting how the opinions of reddit strongly disagree with each other. My questions above are more geared towards large companies, or any where you want a career. I think the better advice here is what I saw someone else write, there is no such thing as a blanket interview set of questions.... And I don't think anyone should use these verbatim. You should be able to spin your own style off of all interview advice, and secure your own job. 
+
+url:https://reddit.com/r/LifeProTips/comments/1gn4du/
+author:pros599
+subreddit:LifeProTips
+score:1811
+numComments:290
+isOver18:False
+hasPostBody:True

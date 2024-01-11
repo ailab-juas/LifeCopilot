@@ -1,0 +1,15 @@
+title:
+YSK that Khan Academy has a mobile app for Android and iPhone
+
+content:
+https://www.khanacademy.org/about/blog/post/129669853050/khan-academy-in-your-pocket-new-apps-available
+
+Now you can thoroughly educate yourself, for free, anywhere you are.
+
+url:https://reddit.com/r/YouShouldKnow/comments/5umflm/
+author:KSSLR
+subreddit:YouShouldKnow
+score:1605
+numComments:51
+isOver18:False
+hasPostBody:True

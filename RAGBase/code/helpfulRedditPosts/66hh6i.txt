@@ -1,0 +1,13 @@
+title:
+LPT: Regardless of how well you know the person that you are speaking to, never finish their sentence unless they are evidently struggling for the words to say and are consequently looking for help
+
+content:
+As Shakespeare once said, "Listen to many, speak to a few." Finishing someone's sentence suggests that you haven't actually listened to what that person had to say in the first place, and that you're trying to speak for that person.  It's an easy habit to break and builds trust and respect between those speaking. It's a great way of increasing your patience with others and shows that you are interested in what they are saying. 
+
+url:https://reddit.com/r/LifeProTips/comments/66hh6i/
+author:rossjones3001
+subreddit:LifeProTips
+score:1074
+numComments:89
+isOver18:False
+hasPostBody:True

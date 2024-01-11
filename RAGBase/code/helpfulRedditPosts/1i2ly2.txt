@@ -1,0 +1,13 @@
+title:
+LPT: if you're having night time heartburn, try sleeping on your left hand side. This position should reduce your heartburn
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1i2ly2/
+author:puyaabbassi
+subreddit:LifeProTips
+score:1443
+numComments:284
+isOver18:False
+hasPostBody:False

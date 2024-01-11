@@ -1,0 +1,13 @@
+title:
+YSK that Dominoes is taking and selling your info without your permission, automatically. In the app section go to tabs and press “Do Not Sell My Info” to stop this.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/YouShouldKnow/comments/tuzsxa/
+author:[deleted]
+subreddit:YouShouldKnow
+score:12116
+numComments:355
+isOver18:False
+hasPostBody:True

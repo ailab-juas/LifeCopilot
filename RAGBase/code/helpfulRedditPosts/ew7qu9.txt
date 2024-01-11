@@ -1,0 +1,13 @@
+title:
+YSK You can instantly become an ordained minister by registering on ULC's website
+
+content:
+It's a quick way to add a cert onto your resumé, takes less than a minute. Being an ordained minister, you can legally wed people, perform various religious ceremonies, and perform funerals. https://www.ulc.org
+
+url:https://reddit.com/r/YouShouldKnow/comments/ew7qu9/
+author:Shokaro
+subreddit:YouShouldKnow
+score:5345
+numComments:465
+isOver18:False
+hasPostBody:True

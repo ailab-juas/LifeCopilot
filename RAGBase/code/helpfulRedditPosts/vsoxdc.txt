@@ -1,0 +1,13 @@
+title:
+LPT: when taking tests requiring a monitoring software on your personal device, download a virtual machine (ex.OracleVM) and set up windows on it.
+
+content:
+This will protect your privacy and allow you to use other software that doesn’t get turning off by the test monitoring software.
+
+url:https://reddit.com/r/LifeProTips/comments/vsoxdc/
+author:jacoby40
+subreddit:LifeProTips
+score:16954
+numComments:1084
+isOver18:False
+hasPostBody:True

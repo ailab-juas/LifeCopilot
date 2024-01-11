@@ -1,0 +1,14 @@
+title:
+LPT: Never go empty handed for client meetings or even with your boss. Always carry a notebook (even for short discussions). Give preference to notebook and pen for taking notes instead of using mobile or laptop.
+
+content:
+1. It gives confidence to the other person that you won't forget things that are discussed. 
+2. Writing down will make you look less distracted than typing it on mobile/laptop.
+
+url:https://reddit.com/r/LifeProTips/comments/k57uzd/
+author:asteroid44
+subreddit:LifeProTips
+score:1035
+numComments:146
+isOver18:False
+hasPostBody:True

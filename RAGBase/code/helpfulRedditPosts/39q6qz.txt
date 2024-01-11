@@ -1,0 +1,15 @@
+title:
+YSK that if you're signed up with a temp agency and they aren't calling you...
+
+content:
+You should know that if you've signed up with a temp agency, you have to call them once a week or so and say, "Hi, this is (so and so) and I'm just calling to let you know that I'm available this week!"
+
+It very much increases your chances of getting a call back.
+
+url:https://reddit.com/r/YouShouldKnow/comments/39q6qz/
+author:AmyinIndiana
+subreddit:YouShouldKnow
+score:1264
+numComments:100
+isOver18:False
+hasPostBody:True

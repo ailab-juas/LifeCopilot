@@ -1,0 +1,13 @@
+title:
+LPT: If you're renting, create your own condition report of the property (i.e. take your own photos of the property when you move in and before you leave). Real estate agents aren't on the side of tenants and will pull dodgy moves to retain your bond when you leave. Photos may be your only defence.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/kh9w5u/
+author:definitelyged
+subreddit:LifeProTips
+score:1199
+numComments:43
+isOver18:False
+hasPostBody:False

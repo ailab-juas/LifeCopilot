@@ -1,0 +1,17 @@
+title:
+LPT: if you work a salaried position that pays $X for a 40 hour week, but you work 50 hours, then your pay is actually $X - 20%. Keep this in mind when comparing positions and salaries.
+
+content:
+I used to work a job that I thought paid really well. It was a salaried position where I was paid for 40 hours a week but usually worked 55 hours.
+
+Now in my new job where I’m doing the exact same role just for a different company, my take home pay is slightly less each week, but I usually only work 38 hours a week.
+
+In this new job my hourly rate is actually much higher than it was previously.
+
+url:https://reddit.com/r/LifeProTips/comments/it4qpc/
+author:Beezneez86
+subreddit:LifeProTips
+score:4554
+numComments:352
+isOver18:False
+hasPostBody:True

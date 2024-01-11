@@ -1,0 +1,15 @@
+title:
+LPT: When learning a language, a native speaker making a mistake while speaking your language holds clues as to how you should speak their language. Thus, translating their grammar mistakes into their language may help you sound more like they do.
+
+content:
+People often use their native grammar rules when they speak a foreign language, and the less experience one has in a second language, the more they tend to use their own rules. In essence, when you speak a foreign language, you could improve your skills by deliberately mimicking their mistakes in your language while speaking their language. 
+
+Personal experience: I started translating the mistakes my friends make in English when I was speaking their language, and they commented how much my skills have improved in a really short time. They were then able to use the same tip to improve their own skills in English!
+
+url:https://reddit.com/r/LifeProTips/comments/l8pr0v/
+author:I_literally_can_not
+subreddit:LifeProTips
+score:3437
+numComments:161
+isOver18:False
+hasPostBody:True

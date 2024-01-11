@@ -1,0 +1,13 @@
+title:
+LPT: Click a city's name on google maps (desktop) to highlight the area it occupies.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/37o8gn/
+author:vrxz
+subreddit:LifeProTips
+score:1244
+numComments:76
+isOver18:False
+hasPostBody:False

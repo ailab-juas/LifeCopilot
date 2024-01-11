@@ -1,0 +1,25 @@
+title:
+LPT: If you're taking classes on Zoom, always leave your camera on and answer the teachers' questions as much as possible. Teaching is harder than ever with no live student feedback; professors will REALLY appreciate participation and remember your name and face well for it.
+
+content:
+For context, I am a 21-year-old college student. Although normally I'm the one taking classes rather than teaching them, I've had a part-time-job for the last few summers teaching math to kids, and this summer I'm doing it on Zoom for the first time.
+
+After my college went online last semester, I was absolutely guilty of being a "lurker" in most of my classes. I never turned on my camera, usually attended from my bed, and often got super distracted during lecture (or skipped lecture entirely) knowing that it would be recorded anyways.
+
+Now that I'm teaching, I'm realizing how difficult it is to teach in this environment, and how much student interaction is absolutely vital. Speaking into the void and getting no response from a sea of people with microphone and camera off is extremely demoralizing and lonely (and has made my teaching worse, since I cannot gauge student engagement or whether I'm going too fast). I dread going into the "classroom" now.
+
+The few students who participate every day are a total lifesaver. In the past, I never remembered any of my students' names or faces, but now I know each and every one of those who speak (both because their participation is more appreciated, and because I have a written reminder of their name every time they do speak). I've seen the same phenomenon in my college classes: those who participate and make an effort to look professional get significant recognition from the professors and are always referred to by their names.
+
+Also, turning on your camera and forcing yourself to look focused and professional will SIGNIFICANTLY improve your work ethic. Pretending to look focused will actually make you focus, and taking classes from your bed or without wearing pants is generally a poor way to learn.
+
+EDIT: Of course, not all of us have the privilege to be able to do this, as a lot of people have poor internet connection.
+
+Also, a lot of people are saying that using the chat is a good compromise. Keep in mind that, if your professor is screen sharing, as lecturers often are, they very likely cannot see the chat at all, even if they can see your faces. I've heard this from professors and experienced this myself, it's quite cumbersome to keep checking the chat on Zoom while screen sharing. 
+
+url:https://reddit.com/r/LifeProTips/comments/hltwh9/
+author:EgoSumAbbas
+subreddit:LifeProTips
+score:8655
+numComments:177
+isOver18:False
+hasPostBody:True

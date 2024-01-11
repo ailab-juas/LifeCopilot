@@ -1,0 +1,13 @@
+title:
+YSK that you can view your social security benefits right now, even if you're not close to retirement. Create an account and see if, and for how much, you are eligible to receive each month upon retiring early, on time, or late (U.S.) You can see disability payouts as well.
+
+content:
+You have to create an account through the social security website which takes 5 minutes (http://www.socialsecurity.gov/myaccount) and then you can see how much you will receive upon retirement, if you were suddenly disabled, or had a death in the household. Kind of neat.
+
+url:https://reddit.com/r/YouShouldKnow/comments/bmt7ze/
+author:BoltyMcSpeedy
+subreddit:YouShouldKnow
+score:2512
+numComments:168
+isOver18:False
+hasPostBody:True

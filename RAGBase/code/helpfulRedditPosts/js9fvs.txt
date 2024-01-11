@@ -1,0 +1,13 @@
+title:
+LPT: Don't ever actually drop a mic unless you personally are the one who paid for it.
+
+content:
+If you find yourself out doing karaoke or amateur comedy night or any other such public speaking event, don't do the "mic drop" that is often shown on various TV shows.  If you do, you will likely damage the mic -- they are sensitive critters -- and you will be forced to pay for it -- they are also expensive critters.
+
+url:https://reddit.com/r/LifeProTips/comments/js9fvs/
+author:ThatGuyFromOhio
+subreddit:LifeProTips
+score:20605
+numComments:712
+isOver18:False
+hasPostBody:True

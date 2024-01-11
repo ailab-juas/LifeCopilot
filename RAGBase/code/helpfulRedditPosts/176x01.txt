@@ -1,0 +1,17 @@
+title:
+LPT: If your internet provider supplies a modem and router, they are probably "leasing" it to you for a monthly fee. Buy your own modem and/or router and save long term.
+
+content:
+My dad had Time Warner Cable, and not only were they charging him $4 a month to lease the equipment, they were also charging $6 a month for a "wireless fee." 
+
+Meaning since they controlled the router web interface, they could do whatever they liked.
+
+We bought our own equipment and haven't looked back. Plus, if you're even a little tech savvy, you can really get a boost out of your new stuff.
+
+url:https://reddit.com/r/LifeProTips/comments/176x01/
+author:ProperNomenclature
+subreddit:LifeProTips
+score:1174
+numComments:212
+isOver18:False
+hasPostBody:True

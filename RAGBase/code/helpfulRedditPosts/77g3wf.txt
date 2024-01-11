@@ -1,0 +1,13 @@
+title:
+YSK that PayPal doesn't report to the three major credit bureaus.
+
+content:
+My identity was stolen in December 2016. Somebody tried to open approx. 20 credit accounts in my name.  I thought they were only able to open one (thanks, Victoria's Secret) until I received a call this morning from PayPal attempting to collect a debt. Explained the situation, started fraud resolution process etc. Didn't understand how I wasn't aware of this account because I check my credit report obsessively as my identity has been stolen. I was told it never showed up on my credit report because PayPal doesn't report to the credit bureaus. WTF?
+
+url:https://reddit.com/r/YouShouldKnow/comments/77g3wf/
+author:Chiralaurora
+subreddit:YouShouldKnow
+score:5127
+numComments:229
+isOver18:False
+hasPostBody:True

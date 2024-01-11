@@ -1,0 +1,13 @@
+title:
+LPT: If you're trying to get a flying insect out of your room at night, open your door, switch off your lights, and turn on your hallway light. The flying insect will be attracted to the hallway light and will leave your room.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/6q3hm7/
+author:SPACEMANSKRILLA
+subreddit:LifeProTips
+score:1569
+numComments:115
+isOver18:False
+hasPostBody:False

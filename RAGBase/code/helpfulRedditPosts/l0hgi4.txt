@@ -1,0 +1,13 @@
+title:
+LPT: If you're just starting off with exercising and dieting, one of the worst mistakes to avoid is doing too much too soon. This is unsustainable and normally leads to 'burning out' or injury. Start off slowly and give your body and mind time to adjust to this change in routine.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/l0hgi4/
+author:famously_decent
+subreddit:LifeProTips
+score:2160
+numComments:129
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,16 @@
+title:
+YSK: If you get a headache that hurts mostly in the front of your head, or behind your eyes, oftentimes this may indicate dehydration.
+
+content:
+Source, personal experience and talking to doctors. I get minor headaches frequently and whenever they're this kind, I can almost always alleviate them by drinking lots of water. 
+
+
+Note - this is not meant to diagnose or offer any medical advice. If you get headaches a lot go to the doctor. This is just a good general rule of thumb, like turning your laptop off and on when it's messed up. Try drinking lots of water first when you have a headache because a lot of times it helps. It's easier than you think to get a little dehydrated throughout the day. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/31rsfh/
+author:graaahh
+subreddit:YouShouldKnow
+score:2600
+numComments:185
+isOver18:False
+hasPostBody:True

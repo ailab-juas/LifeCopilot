@@ -1,0 +1,13 @@
+title:
+LPT: Needing to change your oil every 3,000 miles is a myth. Read your car care manual for the recommended change time specifications.
+
+content:
+My mechanic told me this, and sure enough, my car manufacturer recommends the oil to be changed every 5,000 miles.
+
+url:https://reddit.com/r/LifeProTips/comments/1pdobh/
+author:SillyBonsai
+subreddit:LifeProTips
+score:1667
+numComments:683
+isOver18:False
+hasPostBody:True

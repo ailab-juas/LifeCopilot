@@ -1,0 +1,13 @@
+title:
+LPT: If you find a pair of comfortable work shoes that you find yourself wearing a lot, go back and buy a second pair before it gets discontinued. This way you’ll have a backup pair for when they wear out.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/aeuqr8/
+author:tacoeagle
+subreddit:LifeProTips
+score:1423
+numComments:90
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: When stuck in traffic leave enough space so you can see the rear wheels of the vehicle in front.
+
+content:
+This gives you enough space to manoeuvre if the vehicle in front breaks down, do this at traffic lights and you've enough room for evasive manoeuvres if someone tries to car jack you. 
+
+url:https://reddit.com/r/LifeProTips/comments/2j0sg9/
+author:Waspeater
+subreddit:LifeProTips
+score:2440
+numComments:1104
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Having trouble understanding a Wikipedia Article? Look down the "In other language" tab to the left and see if your article is in "Simple English".
+
+content:
+Hope this helps! great when trying to research complex topics you are not familiar with.
+
+url:https://reddit.com/r/LifeProTips/comments/2w61nv/
+author:The_Baked_Buddha
+subreddit:LifeProTips
+score:2624
+numComments:256
+isOver18:False
+hasPostBody:True

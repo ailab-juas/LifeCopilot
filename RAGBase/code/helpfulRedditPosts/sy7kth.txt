@@ -1,0 +1,16 @@
+title:
+LPT: If your job is hiring, check their job postings to see if they are offering a higher starting salary for your position/similar positions.
+
+content:
+Sometimes jobs will offer higher pay because no one is applying, but won't give out raises to current employees to match that. 
+
+
+Also, if they have a pay range listed, you may qualify for a higher pay in that range.
+
+url:https://reddit.com/r/LifeProTips/comments/sy7kth/
+author:[deleted]
+subreddit:LifeProTips
+score:1119
+numComments:51
+isOver18:False
+hasPostBody:True

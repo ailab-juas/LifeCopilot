@@ -1,0 +1,13 @@
+title:
+LPT: From time to time take random pics with your friends. Not only selfies but also genuinely random pics; moments, memories! Upload the photos to Google Drive. You'll probably forget those photos... but your future self, years from now, will look back at them one day and smile.
+
+content:
+Sorry for suggesting Google Drive!! I forgot it makes stuff public, which is not very nice. I just wanted to put something related because I thought someone could comment "Well but I don't have storage on my cellphone for that". Google Photos is definitely better.
+
+url:https://reddit.com/r/LifeProTips/comments/uwrwr3/
+author:SauloJr
+subreddit:LifeProTips
+score:10357
+numComments:176
+isOver18:False
+hasPostBody:True

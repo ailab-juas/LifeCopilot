@@ -1,0 +1,13 @@
+title:
+YSK that you can donate rice to charity for free simply by answering vocabulary questions at freerice.com
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/1ub90b/
+author:Keyan2
+subreddit:YouShouldKnow
+score:1128
+numComments:112
+isOver18:False
+hasPostBody:False

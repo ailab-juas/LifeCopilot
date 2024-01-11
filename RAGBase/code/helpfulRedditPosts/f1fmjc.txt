@@ -1,0 +1,17 @@
+title:
+YSK that if you change the tires on your vehicle to a different size, your speedometer will no longer read the correct speed.
+
+content:
+When your vehicle's computer calculates your speed, it measures how fast your tires are spinning and then determines the speed of your car by multiplying the spin rate by the circumference of your tires, thus giving it the amount of distance you're covering in a unit of time, giving your car your speed, which it then displays on your speedometer. If you change the size of your tires without having someone reprogram your car's computer or doing it yourself, the speed that your speedometer displays while you're driving will be wrong.  
+
+If you switch to a larger tire, the circumference of your tires will be larger but your car will not know that, so it will still calculate speed based on the old tire size, and the speed displayed on your dash will actually be LOWER than how fast you are actually going. You may think that you are travelling 40 miles per hour in a 40 mph speed limit zone, but because you didn't reprogram your car when you changed your tires you will actually be traveling faster. This will cause you to always be going faster than you think you're going, and you will be at risk of being pulled over by police officers and ticketed when you didn't even know you were speeding. 
+
+[This is an article detailing how to reprogram your car's computer.](https://itstillruns.com/reprogram-computer-changing-tire-size-7980389.html)
+
+url:https://reddit.com/r/YouShouldKnow/comments/f1fmjc/
+author:BrushFireAlpha
+subreddit:YouShouldKnow
+score:12695
+numComments:311
+isOver18:False
+hasPostBody:True

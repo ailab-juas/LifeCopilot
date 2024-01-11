@@ -1,0 +1,13 @@
+title:
+YSK that Google has an inactive account manager and settings to control what happens to your account/data if you pass away like giving your pictures etc to a loved one.
+
+content:
+Check out [myaccount.google.com/inactive](https://myaccount.google.com/inactive)
+
+url:https://reddit.com/r/YouShouldKnow/comments/8c8xdd/
+author:Ek49ten
+subreddit:YouShouldKnow
+score:5027
+numComments:70
+isOver18:False
+hasPostBody:True

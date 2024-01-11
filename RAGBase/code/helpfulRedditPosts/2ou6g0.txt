@@ -1,0 +1,15 @@
+title:
+LPT: It's better to use a "boring" word that's 100% correct than a five dollar word that isn't quite right.
+
+content:
+I see a lot of papers, and this is my most frequent advice to students: put the thesaurus down. Yes, "ascribe" came up as a synonym for "classify", but the sentence "Thus, a person is ascribed as having a mental illness..." sounds horrible. Almost anyone reading your writing would rather understand your point and be able to easily navigate your ideas than see you use language that you clearly don't totally grasp and are only using to sound more intellectual. Your professors and TAs aren't fooled by fancy words unless you are using them with a pretty high degree of mastery. Just make your point in language that you are confident using, it sounds much better. 
+
+Edit: I'm all for learning new words and building vocabulary. Misusing words repeatedly in academic papers is not the way to go about it. I'm not discouraging anyone from learning and using big fancy words, I'm discouraging them from using a thesaurus incorrectly. As someone commented, a thesaurus is for when you know there's a better word but you can't think of it. If you're not 100% certain that the word fits, take a minute and look it up. Then you've learned a new word. 
+
+url:https://reddit.com/r/LifeProTips/comments/2ou6g0/
+author:Vaughnicorn
+subreddit:LifeProTips
+score:3417
+numComments:1041
+isOver18:False
+hasPostBody:True

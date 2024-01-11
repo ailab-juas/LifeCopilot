@@ -1,0 +1,15 @@
+title:
+LPT: Place your carton of ice cream inside a Ziploc bag FIRST before putting it in the freezer. It will keep it more soft and scoopable and prevent rock-solid disappointment + freezer burn later when you want to eat it.
+
+content:
+Source: Managed an ice cream place for too long. 
+
+It's a small thing, but for all my people out there with texture sensitivities, it's worth it.
+
+url:https://reddit.com/r/LifeProTips/comments/rpxi1f/
+author:cityalien
+subreddit:LifeProTips
+score:4032
+numComments:151
+isOver18:False
+hasPostBody:True

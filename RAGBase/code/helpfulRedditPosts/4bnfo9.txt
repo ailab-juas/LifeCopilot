@@ -1,0 +1,48 @@
+title:
+LPT: Telemarketer won't stop calling? There's a magic phrase that gets their attention every time. You just have to know about it.
+
+content:
+We all get them. Those calls from "Cardholder services" or that stupid medic alert device that's supposedly awesome. They never stop calling and it would appear that FCC complaints don't work because, hey, they'll "investigate" and then close your case. 
+
+There's a simple magic phrase you can use to get them to stop:
+
+"Can you mail me your privacy and opt-out policies, please?"
+
+"Whoa, what's that, Metal-Phoenix?"
+
+What that is is a special request that causes a few things to happen. 
+
+1. It tells the calling telemarketer that you are serious about not calling you again. As soon as you request those items, they are supposed to actually mail them to you. If they don't, there are other legal steps you can take that can let you yank money out of them. 
+
+2. It sets a definite date for them not to call you again. Once you make this request, they get a certain number of "Oops, you're really not off our call list" accidents within a year. (I think the limit is once, somebody chime in here). If they violate that, you can yank money out of them. 
+
+Don't scream. Don't get mad. Don't even sound angry. Once you ask for those policies to be mailed to you, they know that you know more than the average bear. 
+
+I just had that annoying medic alert call again. I can't tell you how many times I've asked to be removed (they hang up before I'm done speaking). I've filed I don't know how many FCC complaints. As soon as I asked for those, the rep said "I'll take you off our call list AND I'm walking over to my director right now to deal with that for you. You shouldn't receive any more calls. Sorry to have bothered you."
+
+---
+
+Edit: Because people keep messaging me on how to actually do the court thing, this is what I'm sending everyone. It should put you in the right direction:
+
+---
+
+Step 1. Read this: http://www.impactdialing.com/2012/05/how-to-sue-a-telemarketer/
+
+The more you can tag, the better.
+
+Step 2. Contact lawyer or file in small claims court.
+
+If you go the lawyer router, it can get expensive. File in small claims court. The company will have to send a non-lawyer to your location. They won't do this because it costs too much money and is problematic. Since they don't show, you get a default judgement.
+
+Step 3. They more than likely won't pay. If they do, awesome. If they don't, you can now go to the police and have them escort you to foreclose on their assets. (http://business.time.com/2011/06/06/homeowner-forecloses-on-bank-of-america-yes-you-heard-that-right/) But you might want lawyer advice on that first to make sure you do it right.
+
+You have to decide if it's worth your time.
+
+
+url:https://reddit.com/r/LifeProTips/comments/4bnfo9/
+author:Metal-Phoenix
+subreddit:LifeProTips
+score:5166
+numComments:3858
+isOver18:False
+hasPostBody:True

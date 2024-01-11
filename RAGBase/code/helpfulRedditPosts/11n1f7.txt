@@ -1,0 +1,29 @@
+title:
+LPT: Tired of looking for new content on your purple-clicked-link-cluttered frontpage? Check the "don't show links after i've liked/disliked them" option in preferences. This also encourages you to actually  down/upvoting content!
+
+content:
+https://ssl.reddit.com/prefs/
+
+Thought not everyone are tech savvy enough to look through their reddit preferences!
+
+* ###  Obviously use the ***hide*** button on links you don't have an opinion on.
+
+* [joeyparis:](http://www.reddit.com/r/LifeProTips/comments/11n1f7/lpt_tired_of_looking_for_new_content_on_your/c6nxkno) if you want to see the posts that you've voted on (that are now hidden) *just add* ***?show=all*** *to the URL* and you can see the hidden posts. It's useful for looking for a post you know you've already liked, disliked, or hid.
+
+* [jbachman:](http://www.reddit.com/r/LifeProTips/comments/11n1f7/lpt_tired_of_looking_for_new_content_on_your/c6ny9a6) alternatively go to http://www.reddit.com/user/user_name/liked/ where *user_name* should be replaced by your username
+
+* RES users: quickly move through posts and vote on them with K/J for up/down, and A/Z for upvote/downvote. 
+Press 'X' to expand a post/image.
+Press 'C' to go to the comments thread of a post
+
+* oh and if it's a link you upvoted *only seconds ago* which you want to see/go to comments, it might appear in the *recently viewed links* window, bottom right of the website
+
+* F5 to refresh page
+
+url:https://reddit.com/r/LifeProTips/comments/11n1f7/
+author:mygrapefruit
+subreddit:LifeProTips
+score:2358
+numComments:143
+isOver18:False
+hasPostBody:True

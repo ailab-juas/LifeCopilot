@@ -1,0 +1,13 @@
+title:
+LPT: Very frequently "Two for [whatever price]" deals at supermarkets are deceptive. You can buy 1 for the same unit price. They advertise this just so you will buy two units instead of one. You arent actually saving anything!
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/cigqbb/
+author:NeverTopComment
+subreddit:LifeProTips
+score:2199
+numComments:235
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+When hanging a picture, use a piece of tape to get the distance between the holes. 
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/t3ibe/
+author:icametodropbombs
+subreddit:LifeProTips
+score:1514
+numComments:55
+isOver18:False
+hasPostBody:False

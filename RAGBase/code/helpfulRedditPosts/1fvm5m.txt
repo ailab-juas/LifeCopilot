@@ -1,0 +1,13 @@
+title:
+YSK that you can request a gif from any YouTube video posted on Reddit by simply posting in the comments "Jiffy! xx:xx-xx:xx" (xx:xx stands for the time)
+
+content:
+.
+
+url:https://reddit.com/r/YouShouldKnow/comments/1fvm5m/
+author:[deleted]
+subreddit:YouShouldKnow
+score:4178
+numComments:2026
+isOver18:False
+hasPostBody:True

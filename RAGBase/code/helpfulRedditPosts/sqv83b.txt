@@ -1,0 +1,15 @@
+title:
+YSK: Any citizen of a Commonwealth nation can seek consular assistance at the British Embassy, and even be granted an Emergency British Passport
+
+content:
+Why YSK: if ever you need this, this could literally save your life one day. It is also useful if you have lost your passport and can’t get home. And the UK has embassies in most of the world’s countries. 
+
+For instance if you are stuck in Ukraine right now and your home nation doesn’t have an embassy in Ukraine. You can go to the British Embassy to ask for help as if it was your own. They can set you up with an emergency passport and help you leave.
+
+url:https://reddit.com/r/YouShouldKnow/comments/sqv83b/
+author:iThinkaLot1
+subreddit:YouShouldKnow
+score:8934
+numComments:317
+isOver18:False
+hasPostBody:True

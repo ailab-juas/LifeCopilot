@@ -1,0 +1,13 @@
+title:
+YSK the saying goes “nip it in the bud”, not “nip it in the butt”.
+
+content:
+Very common mistake. The saying refers to nipping a bud before it grows into a flower, or making sure a problem is handled before it becomes a bigger one!
+
+url:https://reddit.com/r/YouShouldKnow/comments/gjxccf/
+author:skepticallincoln
+subreddit:YouShouldKnow
+score:19051
+numComments:1047
+isOver18:False
+hasPostBody:True

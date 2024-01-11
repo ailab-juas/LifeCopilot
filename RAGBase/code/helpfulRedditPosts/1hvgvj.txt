@@ -1,0 +1,15 @@
+title:
+YSK about YouTubes Disco feature.
+
+content:
+Go to www.youtube.com/disco Enter in an Artists name and YouTube will auto arrange a playlist based on uploads of that artist' music.
+
+EDIT: Okay, it's not perfect. It's not YouTube's fault, it's the people that upload it and tag it with random tags.
+
+url:https://reddit.com/r/YouShouldKnow/comments/1hvgvj/
+author:[deleted]
+subreddit:YouShouldKnow
+score:1316
+numComments:139
+isOver18:False
+hasPostBody:True

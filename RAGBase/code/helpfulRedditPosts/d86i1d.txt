@@ -1,0 +1,13 @@
+title:
+LPT: How hungry you are is a measure of how soon you should eat, not how much you should eat.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/d86i1d/
+author:RallyX26
+subreddit:LifeProTips
+score:11645
+numComments:304
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: Always leave a clean room while going on a trip, even if it's only for a few days. It will make returning home so much more pleasant.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/oh7b6t/
+author:Ewaldd
+subreddit:LifeProTips
+score:2465
+numComments:66
+isOver18:False
+hasPostBody:False

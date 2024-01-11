@@ -1,0 +1,16 @@
+title:
+YSK that diabetes is a really, really terrible disease.
+
+content:
+It seems to me that a majority of the population see diabetes as a very benign, harmless disease where all you have to do is "check your blood sugar, and check it often." Diabetes is mainly a vascular disease that causes many horrible diseases. It doubles your risk for cardiovascular disease. It can lead to chronic kidney disease (via diabetic nephropathy), blindness (via diabetic retinopathy), and ulcers which could lead to amputation. Most diabetics die because of coronary artery disease.
+
+
+Edit: Diabetes should be viewed as a fatal and dangerous disease (more like cancer is) and should NOT be taken lightly.
+
+url:https://reddit.com/r/YouShouldKnow/comments/2fholb/
+author:wsmith27
+subreddit:YouShouldKnow
+score:1657
+numComments:421
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+LPT: When giving a check as a wedding gift, make it out to just the bride or just the groom
+
+content:
+If you make it out to both, you will force them to open a joint bank account under the bride's maiden name just to deposit your $100 check.  Worse yet, if you make it out to the couple under the mistaken assumption the bride is taking the groom's last name, then they can never deposit the check.
+
+EDIT: As always, the comments had the real LPT.  It appears that my problems stemmed from trying to deposit to a brokerage account. Banks are far less picky.
+
+url:https://reddit.com/r/LifeProTips/comments/1dhx2m/
+author:narwhal212
+subreddit:LifeProTips
+score:1442
+numComments:338
+isOver18:False
+hasPostBody:True

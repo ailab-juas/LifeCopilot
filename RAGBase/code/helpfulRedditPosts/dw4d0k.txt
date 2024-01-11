@@ -1,0 +1,19 @@
+title:
+YSK that a FLASHING check engine light is very different than a SOLID light.
+
+content:
+If your check engine light indicator turns on, the severity of the issue depends on whether the light is flashing or just always on. 
+
+If it’s just a solid light, you should get it checked out in the next day or so to address the whatever problem could arise if you were to just keep on driving it. 
+
+However, if your check engine light is flashing, you should get it fixed immediately and should pull over and STOP driving your car (if possible). The flashing indicates that there currently is a problem in the engine and any more driving while this problem is present, can cause even more damage to your vehicle. 
+
+My friend just had this happen to him and now is paying the price with his car badly damaged in the shop because he continued to drive his car for 30 additional minutes since it started flashing.
+
+url:https://reddit.com/r/YouShouldKnow/comments/dw4d0k/
+author:xLnRd22
+subreddit:YouShouldKnow
+score:9466
+numComments:421
+isOver18:False
+hasPostBody:True

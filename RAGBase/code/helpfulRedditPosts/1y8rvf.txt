@@ -1,0 +1,15 @@
+title:
+YSK About CarCareKiosk.com – Free How-to Videos to Fix Your Car. Learn how to do minor repair/maintenance for the exact make and model of your vehicle with specific videos and tutorials!
+
+content:
+http://www.carcarekiosk.com/
+
+This site has helped me out so many times. I have learned how to take care of my car, saving money, and in clutch situations knowing how to quickly change a tire can be crucial. These guys cover everything from oil, batteries, pretty much every minor maintenance you can think of.
+
+url:https://reddit.com/r/YouShouldKnow/comments/1y8rvf/
+author:Bogey_Kingston
+subreddit:YouShouldKnow
+score:1167
+numComments:61
+isOver18:False
+hasPostBody:True

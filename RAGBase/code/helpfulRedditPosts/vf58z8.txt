@@ -1,0 +1,13 @@
+title:
+LPT: If you’re at a house gathering and offer to help the host clean up afterwards (e.g., wash dishes) and they decline you more than once, don’t keep insisting on doing it. The host probably wants to clean up their own way.
+
+content:
+Insisting on helping them even after they decline may just put them in the awkward position of accepting your help when they really don’t want it.
+
+url:https://reddit.com/r/LifeProTips/comments/vf58z8/
+author:VineStellar
+subreddit:LifeProTips
+score:15251
+numComments:319
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: always overpay babysitters. They are more likely to be available for you than other people, even on short notice.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/qo8bhy/
+author:brother_p
+subreddit:LifeProTips
+score:27069
+numComments:697
+isOver18:False
+hasPostBody:False

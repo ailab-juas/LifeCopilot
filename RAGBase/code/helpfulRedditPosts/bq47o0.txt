@@ -1,0 +1,17 @@
+title:
+YSK Your TV has a Default Setting that Screws up Motion Blur, and Should be Turned Off
+
+content:
+Sometimes called smooth motion, many TV makers have this on by default. But the American Society of Cinematographers wants that turned off by default. It ruins how they intended their film and TV shows to look. 
+
+It might be fine for sports, but for things shot in the normal cinematic 24fps, it removes the intended motion blur. This effect is sometimes called the Soap Opera effect, because it makes it look more like it was shot on soap opera 30fps video cameras.
+
+So make sure your TV's smooth motion is turned off.
+
+url:https://reddit.com/r/YouShouldKnow/comments/bq47o0/
+author:solojones1138
+subreddit:YouShouldKnow
+score:3251
+numComments:264
+isOver18:False
+hasPostBody:True

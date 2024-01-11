@@ -1,0 +1,13 @@
+title:
+LPT: Keep a bookmarks folder for gift ideas that come up during daily browsing. That way, whenever there's a birthday or event, you're prepared.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/324nwb/
+author:jake-the-rake
+subreddit:LifeProTips
+score:1180
+numComments:49
+isOver18:False
+hasPostBody:False

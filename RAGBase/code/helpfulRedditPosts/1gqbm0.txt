@@ -1,0 +1,15 @@
+title:
+[YSK] ProxMate for Chrome lets you view blocked YouTube videos anywhere in the world.
+
+content:
+http://proxmate.dave.cx/
+
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/1gqbm0/
+author:ByteTripper
+subreddit:YouShouldKnow
+score:1069
+numComments:58
+isOver18:False
+hasPostBody:True

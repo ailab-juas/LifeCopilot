@@ -1,0 +1,13 @@
+title:
+LPT: If you ever have to park in a city at night, park in front of a bank. They're lit up and have cameras everywhere.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1fvuyc/
+author:Nick84572
+subreddit:LifeProTips
+score:2051
+numComments:182
+isOver18:False
+hasPostBody:False

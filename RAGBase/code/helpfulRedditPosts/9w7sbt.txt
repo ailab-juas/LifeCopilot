@@ -1,0 +1,15 @@
+title:
+LPT: If you're trying to exercise every day, and you really really want to skip a day, do an easy day instead. Walk for 5 minutes, or do 10 curls, just do SOMETHING.
+
+content:
+If you skip a day, you'll get into the habit of skipping a day from time to time. That's not good.
+
+If you do an easy day, then you're maintaining your habit of exercising every day, so that you won't "fall off the wagon". But you're also letting yourself adjust the amount that you do each day as you need to. 
+
+url:https://reddit.com/r/LifeProTips/comments/9w7sbt/
+author:mecha_bossman
+subreddit:LifeProTips
+score:2112
+numComments:78
+isOver18:False
+hasPostBody:True

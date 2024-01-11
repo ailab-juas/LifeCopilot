@@ -1,0 +1,14 @@
+title:
+YSK Google Docs/Sheets lets you search for a special character by drawing it
+
+content:
+Go to "Insert" in the menu bar, then "Special Characters..." 
+You'll get a popup to find the character you want. Under the keyword search bar, there is a blank box. Use your cursor to draw in that box. Characters similar to your drawing will show up in the results pane.
+
+url:https://reddit.com/r/YouShouldKnow/comments/aqazy0/
+author:ApostropheLiberation
+subreddit:YouShouldKnow
+score:2399
+numComments:37
+isOver18:False
+hasPostBody:True

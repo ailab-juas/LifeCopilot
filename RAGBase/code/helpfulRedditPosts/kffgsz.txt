@@ -1,0 +1,13 @@
+title:
+LPT: Delete the ‘sent from mobile device’ signature from your phones email app. Nobody needs to know you’re not at your computer.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/kffgsz/
+author:FrankGrimesIV
+subreddit:LifeProTips
+score:6241
+numComments:361
+isOver18:False
+hasPostBody:False

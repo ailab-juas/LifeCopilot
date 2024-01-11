@@ -1,0 +1,13 @@
+title:
+LPT: Instead of using 'Alt+PrtScrn' to grab a screen shot use 'Win+Shift+S', this will allow you to outline the area you want to copy rather than the entire window.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/qjvqc6/
+author:world_citizen7
+subreddit:LifeProTips
+score:1357
+numComments:89
+isOver18:False
+hasPostBody:False

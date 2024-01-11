@@ -1,0 +1,16 @@
+title:
+[LPT] Add "/zip" after an imgur album to download a zipped version of the whole album
+
+content:
+If you want to download a whole album off imgur, in the past you had to download every image seperately, but now add /zip after the album to download a zipped version of the album. 
+i.e. 
+
+    http://imgur.com/a/zqoqA to http://imgur.com/a/zqoqA/zip
+
+url:https://reddit.com/r/LifeProTips/comments/11yb1g/
+author:Alt_f4_
+subreddit:LifeProTips
+score:3584
+numComments:158
+isOver18:False
+hasPostBody:True

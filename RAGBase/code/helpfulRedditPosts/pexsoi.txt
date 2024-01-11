@@ -1,0 +1,13 @@
+title:
+LPT: Whenever you get a "your account has been compromised" email, don't click any links. Instead go directly to the website and login like normal. If they have the systems in place to send you an email, the odds of them not also having the stuff in place to alert you on login are slim.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/pexsoi/
+author:VasaLavTV
+subreddit:LifeProTips
+score:1413
+numComments:39
+isOver18:False
+hasPostBody:False

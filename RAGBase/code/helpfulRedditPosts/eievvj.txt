@@ -1,0 +1,23 @@
+title:
+LPT: Most people are posting pics of them from the begining of the decade in order to show how far they've progressed in life. If you find that boring, how about using Google's servers to find out what you were EXACTLY THINKING 10 years ago
+
+content:
+This is sort of a double life pro tip, one that can be used to increase your privacy, as well as give you insights of how you acted 10 years ago, what you were interested in, how your interests grew, and just how stupid you might have been. Now before I continue, I happen to find this extremely fascinating, others may find this extremely creepy. However, do what you will with this information.
+
+First, in order to start this, make sure you're **signed into Google using a Gmail account you've been using the longest**. The older the account, the more farther back you can look. Next go to [myactivity.google.com](https://myactivity.google.com) and you're almost there. Here where it may get creepy. It shows all your Google searches and how many times and at what times you visited any websites, searched anything on Google, and which apps you've opened. Yeah, pretty creepy. But whatever, I think you can delete it somewhere.
+
+Next, you can click on the filter options, and just think back to when you created your Gmail account. I created mine sometime before 2012, so my account is perfect for this. Long story short, filter the options using only the dates and set it to January 1st, 20XX, whatever that might be for you. And there you go, look back to what you Googled and which apps you were using and whatnot. More often than not, this will be nostalgic, and a bit creepy. But whatever. After looking back for a bit, I started rememebering what video games I was playing, which YouTubers I used to watch, and what information I was Googling.
+
+Stay safe and Happy New Years.
+
+EDIT: It's organized in a very weird way. You cannot choose to view older information first. Newest is always at the top. Click "Before" instead of "After" and select the date to be January 20XX, being one year ahead of the year you wanna view. Also you must view newest to oldest and cannot change it. So you'll start on May 31st, all the way to May 1st. If you wanna look at it chronologically, you have to scroll all the way to the bottom of the page and scroll up slowly.
+
+Also thanks for the gold, stranger.
+
+url:https://reddit.com/r/LifeProTips/comments/eievvj/
+author:ThaRoastKing
+subreddit:LifeProTips
+score:25245
+numComments:1112
+isOver18:False
+hasPostBody:True

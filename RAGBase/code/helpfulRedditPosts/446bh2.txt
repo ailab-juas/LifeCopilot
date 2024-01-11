@@ -1,0 +1,13 @@
+title:
+LPT: If you notice traffic starting jam up ahead of you, but can't see what caused it, watch the semis to see what lane they get into.
+
+content:
+Often, they will radio one another to give a heads up about which lane is blocked up ahead, so they can move over before traffic gets too jammed up.
+
+url:https://reddit.com/r/LifeProTips/comments/446bh2/
+author:whatsthatpidge
+subreddit:LifeProTips
+score:4781
+numComments:1323
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+Change your reddit preferences to hide posts after you vote on them. Really cleans up your page.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1ceo8l/
+author:McBurger
+subreddit:LifeProTips
+score:1817
+numComments:131
+isOver18:False
+hasPostBody:False

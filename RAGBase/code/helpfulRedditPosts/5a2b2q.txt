@@ -1,0 +1,13 @@
+title:
+LPT: Before you get a tattoo in another language, be sure to ask a native speaker or language specialist what it means without telling them first.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5a2b2q/
+author:mindthegap92
+subreddit:LifeProTips
+score:3944
+numComments:950
+isOver18:False
+hasPostBody:False

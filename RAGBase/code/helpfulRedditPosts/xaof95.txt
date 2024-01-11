@@ -1,0 +1,15 @@
+title:
+YSK that 11 American States have laws that ban companies from passing on credit card fees to the customer
+
+content:
+Why YSK:  You may live in a State that prohibits this and you can enforce your rights.   Here are the 11 States: —California, Colorado, Connecticut, Florida, Kansas, Maine, Massachusetts, New York, Oklahoma and Texas—and the Territory of Puerto Rico.   EDIT:  You may report violations to your State's Attorney General Office.  Some Redditors are reporting that certain states may have modified their laws.  Check with your State's Division of Consumer Affairs.
+
+Source:   [https://www.ncsl.org/research/financial-services-and-commerce/credit-or-debit-card-surcharges-statutes.aspx](https://www.ncsl.org/research/financial-services-and-commerce/credit-or-debit-card-surcharges-statutes.aspx)
+
+url:https://reddit.com/r/YouShouldKnow/comments/xaof95/
+author:GeoWannaBe
+subreddit:YouShouldKnow
+score:6466
+numComments:398
+isOver18:False
+hasPostBody:True

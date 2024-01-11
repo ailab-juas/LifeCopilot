@@ -1,0 +1,13 @@
+title:
+LPT: Don't describe problems or activities as "hard," especially to children. Use "challenging" instead. It signals that a problem can be conquered, that trying to conquer it is worthwhile, and that there is no shame in failure.
+
+content:
+I first heard this from a substitute teacher in HS who described wrestling as "challenging" when a student asked him if it was "hard." Not sure why but it completely shifted my view of it, and I've been using it ever since. I've seen it noticeably change people's attitudes to real problems (job loss, relationships, illness, etc), and now that I have kids I see it's especially effective for them.
+
+url:https://reddit.com/r/LifeProTips/comments/klptvb/
+author:kingharis
+subreddit:LifeProTips
+score:19231
+numComments:317
+isOver18:False
+hasPostBody:True

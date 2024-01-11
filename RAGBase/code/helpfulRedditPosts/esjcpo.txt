@@ -1,0 +1,13 @@
+title:
+LPT: If you want to cancel an online subscription but it doesn't allow you to cancel online you can change your address to a California one and the option to do so online will become available to you due to their state law.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/esjcpo/
+author:DetroitMM12
+subreddit:LifeProTips
+score:1580
+numComments:50
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,28 @@
+title:
+YSK that any product that claims to balance your body's pH is bullshit
+
+content:
+Our bodies contain strong mechanisms to maintain a balanced pH and this process is tightly regulated. If an over-the-counter treatment can affect your pH, then you are already in big trouble.  
+
+http://en.wikipedia.org/wiki/Acid–base_homeostasis
+
+____________________
+Edit: Just to clarify, this post is talking about supplements and over-the-counter products affecting your blood pH. *Never go against your physician's orders based on something you read on the internet*. Your physician may prescribe medications that affect localized changes in pH (such as the vagina, urine, stomach, etc). Your physician knows what he/she is doing, unlike the people who peddle these supplements.  
+
+For those looking for additional legitimate sources from a science/medical-based perspective, here are a couple:
+
+http://www.ncbi.nlm.nih.gov/pubmed/23551968
+
+http://sciencebasedpharmacy.wordpress.com/2009/11/13/your-urine-is-not-a-window-to-your-body-ph-balancing-a-failed-hypothesis/
+
+from /u/nolan1971 chemistry textbook explaining how the blood is buffered: http://i.imgur.com/A78IL4C.png
+
+/u/bruin116 provides a great explanation: *blood pH is one of the most tightly regulated things in the human body (via gas concentrations and your kidneys) - a pH change of 0.01 from the norm (around 7.4) for very long is a serious medical issue as most of the body's enzymes require an incredibly narrow pH range to function. Making your body a "more alkaline environment" as these people claim you should do for you health would literally kill you, and quickly, if any of their recommendations actually did anything to change blood pH. Stomach pH can be temporary influenced by food intake (and antacids like Tums) but is completely separate from blood pH and unless you have acid reflux or a similar issue, this won't have any effect on your health. The digestive system is completely isolated from nearly all of the organs and systems the alkaline people claim benefit (such as arterial and coronary inflammation) and thus stomach pH could not possibly be influencing them.*
+
+url:https://reddit.com/r/YouShouldKnow/comments/1wx3sd/
+author:Virian
+subreddit:YouShouldKnow
+score:1219
+numComments:200
+isOver18:False
+hasPostBody:True

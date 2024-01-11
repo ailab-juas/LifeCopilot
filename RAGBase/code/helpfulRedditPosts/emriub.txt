@@ -1,0 +1,13 @@
+title:
+LPT: Should you ever find yourself homeless, try to get a gym membership.
+
+content:
+Planet fitness is probably the ideal gym. $10/month, they give out free food twice a week, 24 hours, many locations. Even if it's not an option, a gym gives you a place to shit, shower and shave, you'll have a locker to store your things, and you can get out of the elements during rain or extreme heat or cold. If you still have a cell phone, even without a plan most gyms have wifi. It's not going to solve all your problems, but if you can scrape together $10 every month you'll be in a much better position.
+
+url:https://reddit.com/r/LifeProTips/comments/emriub/
+author:cat_respecter
+subreddit:LifeProTips
+score:71321
+numComments:3012
+isOver18:False
+hasPostBody:True

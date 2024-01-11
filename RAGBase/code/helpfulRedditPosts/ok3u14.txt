@@ -1,0 +1,19 @@
+title:
+YSK if your flatulence sometimes smells exceptionally foul, you may have lactose intolerance (or other food sensitivities)
+
+content:
+Why YSK: By identifying any food intolerance you have, you can avoid foul farts, fatigue, bloating, and other discomfort.
+
+When I was in college, I ripped a super nasty fart in my friend's car, and he was absolutely disgusted (even though he isn't usually fazed by such things). He was in medical school at the time and told me I might be lactose intolerant.
+
+It wasn't obvious to me until he told me, but it finally made sense. I used to eat cereal and milk before going to school and during class my stomach would growl excessively and it felt uncomfortable (I promise, I didn't fart in class). I always thought it was just due to my smoking or other things. After cutting out the milk, I noticed I felt much better.
+
+I'm not a doctor, so [here](https://www.healthline.com/health/smelly-farts#causes) is a source that explains some of the potential causes of nasty farts.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ok3u14/
+author:Punanistan
+subreddit:YouShouldKnow
+score:1070
+numComments:106
+isOver18:False
+hasPostBody:True

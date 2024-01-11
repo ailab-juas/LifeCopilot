@@ -1,0 +1,13 @@
+title:
+LPT if you have a prescription that's expensive even with insurance check the manufacturer's website. Many will have coupons or copay cards, I just lowered a prescription from $160 to $10.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/gnusn8/
+author:so_u_sa
+subreddit:LifeProTips
+score:1947
+numComments:117
+isOver18:False
+hasPostBody:False

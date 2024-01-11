@@ -1,0 +1,13 @@
+title:
+LPT: Turn on airplaine mode when playing a mobile game to get rid of ads.
+
+content:
+Works for eliminating most of those pesky mobile game ads for free rather than having to pay to do it :)
+
+url:https://reddit.com/r/LifeProTips/comments/3fei8c/
+author:JSpan_Man
+subreddit:LifeProTips
+score:4354
+numComments:548
+isOver18:False
+hasPostBody:True

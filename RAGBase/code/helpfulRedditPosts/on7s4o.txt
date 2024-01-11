@@ -1,0 +1,13 @@
+title:
+LPT: Always remember that a company’s HR exists to protect the company's interests first and foremost. For them, employees are just a line item on an expense report. Keep this in mind while sharing "confidential" information with HR
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/on7s4o/
+author:anotherDocObVious
+subreddit:LifeProTips
+score:3016
+numComments:172
+isOver18:False
+hasPostBody:False

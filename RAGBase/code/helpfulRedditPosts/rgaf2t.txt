@@ -1,0 +1,13 @@
+title:
+LPT: If you're moving for work try to find a place that is east of your job. Your eyes and morning commute will thank you.
+
+content:
+If you live east of your job then you will be traveling west when you go into work in the morning and east when you leave in the evening. In both cases the sun will be behind you when you drive and you won't have to worry about getting sun in your eyes early in the morning.
+
+url:https://reddit.com/r/LifeProTips/comments/rgaf2t/
+author:sensrawsm
+subreddit:LifeProTips
+score:1226
+numComments:86
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: You are not responsible for your first thought. You are, however, responsible for your second thought and your first action.
+
+content:
+It's common to have negative thoughts about yourself, situations, or others. But, please remember that thoughts are not facts. When you're feeling stuck and hopeless, do not think you are a failure or that you will never recover. Instead, focus on your second thought: *What can I do to turn this around?* *What is a less disordered way of thinking about this situation?* And then your first action: *I'm going to let go of what's not working.* *I'm listing options to help me move forward.* *I'm going to choose recovery.*
+
+url:https://reddit.com/r/LifeProTips/comments/qfx6l9/
+author:i_stillwonder
+subreddit:LifeProTips
+score:15233
+numComments:295
+isOver18:False
+hasPostBody:True

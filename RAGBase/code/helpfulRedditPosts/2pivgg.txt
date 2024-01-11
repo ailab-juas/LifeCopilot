@@ -1,0 +1,15 @@
+title:
+YSK there's a website where you can create a font of your own handwriting in minutes.
+
+content:
+http://www.myscriptfont.com/
+
+Great for customized art, posters, gifts, desktop backgrounds, etc.
+
+url:https://reddit.com/r/YouShouldKnow/comments/2pivgg/
+author:JoeyLucier
+subreddit:YouShouldKnow
+score:1693
+numComments:99
+isOver18:False
+hasPostBody:True

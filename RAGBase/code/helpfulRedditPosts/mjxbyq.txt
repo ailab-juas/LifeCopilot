@@ -1,0 +1,13 @@
+title:
+LPT: Make a bee waterer and help hydrate our pollinators.
+
+content:
+Bees need access to safe water sources, They often risk drowning in birdbaths or being eaten at rivers and lakes among birds, fish, frogs, and other wildlife. This is why they often fly around our clotheslines and may even land on us if we are in an outdoor pool on a hot day.  One solution to this problem is to fill a bowl with marbles and add water. Marbles give the bees a safe place to land so they can drink without drowning.
+
+url:https://reddit.com/r/LifeProTips/comments/mjxbyq/
+author:[deleted]
+subreddit:LifeProTips
+score:1313
+numComments:69
+isOver18:False
+hasPostBody:True

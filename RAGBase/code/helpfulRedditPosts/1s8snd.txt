@@ -1,0 +1,15 @@
+title:
+YSK according to US Federal Law, all tipped employees should be receiving at least the federal minimum wage, $7.25.
+
+content:
+The only time a tipped employee can be paid [$2.13+ an hour](http://www.dol.gov/elaws/faq/esa/flsa/002.htm) is if that person makes more or equal to the [federal minimum wage](http://www.dol.gov/dol/topic/wages/minimumwage.htm) with tips. If the tipped employee is being paid less than $7.25 an hour with tips, [the employer is required to make up the difference](http://www.dol.gov/elaws/faq/esa/flsa/002.htm).
+
+[The following states do no allow tip credit at all, and must be paid at least the minimum wage](http://www.dol.gov/whd/state/tipped.htm) (whichever is greater state vs federal): Alaska, California, Minnesota, Montana, Nevada, Oregon, Washington.
+
+url:https://reddit.com/r/YouShouldKnow/comments/1s8snd/
+author:alexanderpas
+subreddit:YouShouldKnow
+score:1568
+numComments:266
+isOver18:False
+hasPostBody:True

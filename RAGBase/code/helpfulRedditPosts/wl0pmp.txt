@@ -1,0 +1,36 @@
+title:
+YSK: If one or both of your parents is/was addicted to drugs or alcohol, it’s very likely that you will struggle with codependent traits and it is possible to work on these “Adult Child of an Addict/ Alcoholic” or “ACA Traits” through psychotherapy and support groups.
+
+content:
+Why YSK:
+I work as a mental health professional and I don't think ACA traits are discussed
+nearly enough in our society and the vast majority of people newly coming to
+treatment who are in the position of an ACA have never heard the term before and
+aren't aware of the literature and support groups available to help. ACA traits
+generally include difficulty creating and maintaining healthy boundaries with other
+people, difficulty discerning and communicating one's own emotions, and a
+tendency toward focusing on and prioritizing the needs and wants of others
+above one's own.
+
+"Adult Children of Alcoholics" by Janet Geringer Woititz is probably the seminal
+book on the subject and largely applicable to adult children of addicts as well.
+
+https://www.alibris.com/Adult-Children-of-Alcoholics-Expanded-Edition-Janet-Geringer-Woititz-Ed-D/book/7864031
+
+Although I understand many people are not interested in 12 Step-based support
+groups, for those that are there are many free meetings available both in-person
+and virtual for ACAs
+
+https://adultchildren.org/meeting-search/
+
+EDIT: fixed link
+
+EDIT 2: Maybe I could have been clearer, but to reiterate - ACA traits refer to the tendency of children of addicts to struggle with CODEPENDENT RELATIONSHIPS, NOT addiction or substance abuse themselves, although this too is a risk. This phenomenon does not refer to a genetic condition but a learned set of behaviors and beliefs that arises from being raised by one or more addicts.
+
+url:https://reddit.com/r/YouShouldKnow/comments/wl0pmp/
+author:Untap_Phased
+subreddit:YouShouldKnow
+score:7731
+numComments:313
+isOver18:False
+hasPostBody:True

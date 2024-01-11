@@ -1,0 +1,62 @@
+title:
+YSK of these free online resources and software before starting school or university.
+
+content:
+For Science/Engineering students, here’s is a good list to start:
+
+**[Wolfram Alpha](http://www.wolframalpha.com/)** - Mega knowledge engine and online calculator. Good for checking work and trying things out. Not free for the step-by-step solutions.
+
+**[fxSolver](https://www.fxsolver.com/)** - alternative to Wolfram Alpha for solving math and engineering problems quickly. Large library of equations to check, edit, calculate and plot.
+
+**[Cymath](https://www.cymath.com/)** - Nice step-by-step solutions. Math-centric.
+
+**[Symbolab](http://www.symbolab.com/)** - Really good for steb-by-step solutions to math problems. Cymath alternative.
+
+**[Desmos](https://www.desmos.com/)** - Amazing for plots.
+
+**[Mathway](https://www.mathway.com/)** - Cool math solver and chemistry solver. Plotting somewhat similar to Desmos.
+
+**[Paul's Online Notes](http://tutorial.math.lamar.edu/)** - Lots of math formula sheets and explanations of various topics.
+
+**[Mattermost]( https://www.mattermost.com/)**- Probably the best Slack-clone for collaborative projects and better privacy.
+
+**[Engineers Toolbox](http://www.engineeringtoolbox.com/)** - Engineering information. Formulas, constants, you name it.
+
+**[HyperPhysics](http://hyperphysics.phy-astr.gsu.edu/hbase/hframe.html)** - Organized topics for Physics.
+
+**[LaTeX](http://www.latex-project.org/ftp.html)** - Mathematics presentation software.
+
+**[Overleaf](https://www.overleaf.com)** - for collaborative LaTeX file editing and templates
+
+**[Matweb](http://www.matweb.com/)** - Material properties useful in machine design and Finite Element Analysis projects.
+
+**[Patrick JMT](http://patrickjmt.com/)** - Math tutorial videos.
+
+**[Khan Academy](http://www.khanacademy.org/)** - Many general and scientific tutorial videos. Math includes Differential Equations and Linear Algebra.
+
+**[MIT Open Courseware](http://ocw.mit.edu/index.htm)** - Course materials and lecture videos from the Massachusetts Institute of Technology.
+
+**[Udacity](http://www.udacity.com/courses)** - Computer Science classes.
+
+**[Openstax](https://openstax.org/subjects)** - Good quality free textbooks.
+
+**[Norelem](https://www.norelem.com/)** - Jigs and fxtures.
+
+**[McMaster-Carr](http://www.mcmaster.com/)** - Machine Design/Hardware.
+
+**[MISUMI](https://us.misumi-ec.com/)** - Machine Design/Hardware, alternative to McMaster-Carr
+
+**[Digi-Key](http://www.digikey.com/?curr=USD)** - Electronics/Controls.
+
+**[Arduino](http://www.arduino.cc/)** - Open-Source Hardware/Software combination for controlling various devices.
+
+**[Autodesk Education Community](http://students.autodesk.com/?nd=home)** - Free Student Software. Autocad, Inventor, 3dsmax, Maya, etc.
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/9emlik/
+author:borstaph
+subreddit:YouShouldKnow
+score:6546
+numComments:167
+isOver18:False
+hasPostBody:True

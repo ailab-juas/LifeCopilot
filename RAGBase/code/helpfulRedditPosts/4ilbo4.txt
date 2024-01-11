@@ -1,0 +1,15 @@
+title:
+YSK what a torrent is and how it works
+
+content:
+In todays age of technology you should know what a torrent is and how it works. The verge has a good short video on it.
+[Here!](http://www.theverge.com/video/2016/5/8/11635586/what-is-a-torrent)
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/4ilbo4/
+author:pimfi
+subreddit:YouShouldKnow
+score:1188
+numComments:139
+isOver18:False
+hasPostBody:True

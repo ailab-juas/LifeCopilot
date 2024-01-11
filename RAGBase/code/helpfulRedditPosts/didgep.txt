@@ -1,0 +1,13 @@
+title:
+LPT: If you want to save money by not buying stuff, don’t think of it as saving 4.99$ by eating at home, think of it as gaining 4.99$ by eating at home
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/didgep/
+author:xJoey23
+subreddit:LifeProTips
+score:4331
+numComments:130
+isOver18:False
+hasPostBody:False

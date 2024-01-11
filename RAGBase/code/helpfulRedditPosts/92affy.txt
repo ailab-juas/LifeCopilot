@@ -1,0 +1,13 @@
+title:
+YSK Attorney Client privilege only exists if the lawyer is representing the client for a specific incident
+
+content:
+[deleted]
+
+url:https://reddit.com/r/YouShouldKnow/comments/92affy/
+author:[deleted]
+subreddit:YouShouldKnow
+score:1009
+numComments:53
+isOver18:False
+hasPostBody:True

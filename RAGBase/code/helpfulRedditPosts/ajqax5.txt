@@ -1,0 +1,13 @@
+title:
+LPT: If you're at a retail store and want to price check something that's too large or awkward to carry to the self-service pricecheck scanner, take a photo of the barcode with your phone, and scan the photo of the barcode instead.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ajqax5/
+author:Wuddely
+subreddit:LifeProTips
+score:1830
+numComments:62
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: If an advertisement video asks you for your age at the beginning, select the youngest one available. Typically the ads they’re running won’t apply for that age and it will skip the entire ad.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/8bcfou/
+author:Kevhe4
+subreddit:LifeProTips
+score:12377
+numComments:234
+isOver18:False
+hasPostBody:False

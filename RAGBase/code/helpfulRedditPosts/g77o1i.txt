@@ -1,0 +1,13 @@
+title:
+LPT: You can tell if someone is choking by the noise they're making, if they're making a noise, it's coughing. If they're silent, they are choking.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/g77o1i/
+author:[deleted]
+subreddit:LifeProTips
+score:1461
+numComments:65
+isOver18:False
+hasPostBody:True

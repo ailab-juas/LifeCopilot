@@ -1,0 +1,13 @@
+title:
+YSK that you can change your car’s cabin filter and engine air filter by yourself, in less than 10 minutes and for less than $45
+
+content:
+Even if you don’t own a Phillips screwdriver for the engine air filter, an autozone will let you borrow one when you purchase the filters. Don’t let a dealership or oil change spot rip you off for something that can be learned and done easily.
+
+url:https://reddit.com/r/YouShouldKnow/comments/i0bjba/
+author:SanctimoniousMonk
+subreddit:YouShouldKnow
+score:2286
+numComments:110
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,27 @@
+title:
+YSK: If you your tongue tend to form a white coating on its surface, it is possible that you have bad breath, and people will rarely warn you about it. Use a tongue scraper. (Or: if your friend has bad breath, tell them. The solution is usually simple, and you can save them a lot of embarrassment).
+
+content:
+The white coating is a biofilm formed by food debris, desquamated epithelial cells and bacteria, and it is most common reason for bad breath (halitosis) ([https://pubmed.ncbi.nlm.nih.gov/29269592/](https://pubmed.ncbi.nlm.nih.gov/29269592/)). Nearly 90% of halitosis cases originate in the mouth ([https://pubmed.ncbi.nlm.nih.gov/11905111/](https://pubmed.ncbi.nlm.nih.gov/11905111/)), and 80-90% of these originate in the tongue ([https://pubmed.ncbi.nlm.nih.gov/11905111/](https://pubmed.ncbi.nlm.nih.gov/11905111/)).
+
+Some habits are directly associated with coating formation, such as consuming alcohol, smoking and not drinking enough water ([https://pubmed.ncbi.nlm.nih.gov/11905111/](https://pubmed.ncbi.nlm.nih.gov/11905111/)). However, some people are genetically predisposed to form it anyway, so cleaning the tongue is the easiest way to solve the problem ([https://pubmed.ncbi.nlm.nih.gov/25622725/](https://pubmed.ncbi.nlm.nih.gov/25622725/)).
+
+Many people don't clean their tongues properly, because it is not an easy task with a regular toothbrush. However, this can be easily done with a tongue scraper or, if you don't have one, with a tea spoon. Just add it to your routine and you should be fine. ~~For best results, use mouthwash afterwards if you aren't already.~~ Edit: disputed. The least I can affirm for now is that you should avoid mouthwashers that aren't alcohol-free. I will look into it and then edit this part accordingly.
+
+Sincerely, a fellow redditor who probably had bad breath during most of his teenage years and had to receive the tip from a dentist.
+
+Edit: uh oh, just realized I messed up when trying to rephrase the title a hundred times to fit in the character limit.
+
+Edit: no, you shouldn't use a razor for this task.
+
+Edit: many people are pointing out that you can use your toothbrush to clean your tongue. It is true. However, many people find it difficult to make a proper cleaning because of the gagging reflexes. A tongue scraper is flatter, so easier to use for most people.
+
+Edit: bad breath and a white coating can have different etiologies, and I am just referring to a common source of bad breath and a common form of white coating associated with this symptom. As mentioned by many users, a white tongue might be a symptom of oropharyngeal candidiasis (thrush) that is an infection from a yest-like fungus (Candida albicans), and it is more common in people with diabetes (after all, the yeast thrive in sugar-rich saliva) and it is treated with medications. If you are in doubt, seek a professional.
+
+url:https://reddit.com/r/YouShouldKnow/comments/hd6vib/
+author:[deleted]
+subreddit:YouShouldKnow
+score:25206
+numComments:923
+isOver18:False
+hasPostBody:True

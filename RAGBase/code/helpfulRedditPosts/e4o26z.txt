@@ -1,0 +1,13 @@
+title:
+LPT: Do not mistake someone being able to present a position or argument well with that person being correct. Often, those who are correct may not be able to make their case as well as those opposing them. Listen to the content of people's arguments more carefully than their presentation.
+
+content:
+I find this to be a problem not only on Reddit but also in real life. If someone sounds like they know what they're talking about, people generally agree with them, regardless of if that person is actually correct in what they're saying. This is a very easy way for misinformation to spread. Do your own research, even though it is much harder, and look for unbiased sources. It is worth it in the end and can even lead to a fair degree of humility, which is always something we need.
+
+url:https://reddit.com/r/LifeProTips/comments/e4o26z/
+author:Roushhouse
+subreddit:LifeProTips
+score:1142
+numComments:53
+isOver18:False
+hasPostBody:True

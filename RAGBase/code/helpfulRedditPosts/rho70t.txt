@@ -1,0 +1,17 @@
+title:
+LPT: Whenever you're cooking, just do the dishes during your cooking session. This will save you time. Don't wait till you're finished cooking/eating. It'll just pile up.
+
+content:
+My wife and I cook a lot. But we differ fundamentally when it comes to washing the dishes. She waits untill we are finished eating and everything just sits in the sink waiting for one of us to stand up and do the dishes. 
+
+I on the other hand, just wash the dishes during my cooking. So the only dishes that need washing are plates we actually use for eating.
+
+Or you could just immediately put everything in the dishwasher.
+
+url:https://reddit.com/r/LifeProTips/comments/rho70t/
+author:Imparat0r
+subreddit:LifeProTips
+score:4723
+numComments:259
+isOver18:False
+hasPostBody:True

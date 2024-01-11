@@ -1,0 +1,13 @@
+title:
+LPT: Keep a log of the places you have lived, and keep track of the move-in/move-out dates. It will make background checks much easier to complete.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/wl809p/
+author:DarkMatterSoup
+subreddit:LifeProTips
+score:2491
+numComments:134
+isOver18:False
+hasPostBody:False

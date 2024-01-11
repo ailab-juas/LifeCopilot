@@ -1,0 +1,13 @@
+title:
+LPT: Keep a card like this in your wallet, ideally in a highly visible place. It could save your life someday.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/12zrs0/
+author:reeseallen
+subreddit:LifeProTips
+score:2304
+numComments:389
+isOver18:False
+hasPostBody:False

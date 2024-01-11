@@ -1,0 +1,13 @@
+title:
+LPT: If you're willing to tell someone your problems, be ready to hear their solutions.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/2ulybx/
+author:dooblegoo
+subreddit:LifeProTips
+score:1296
+numComments:260
+isOver18:False
+hasPostBody:False

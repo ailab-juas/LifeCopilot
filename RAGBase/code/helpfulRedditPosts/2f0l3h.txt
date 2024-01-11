@@ -1,0 +1,13 @@
+title:
+LPT: Disable annotations on YouTube videos by default
+
+content:
+Log into YouTube, go to YouTube settings, and under the Annotations and Activity heading, uncheck the "Show annotations, channel promotions and interactive cards on videos" box.
+
+url:https://reddit.com/r/LifeProTips/comments/2f0l3h/
+author:airplanepeanut
+subreddit:LifeProTips
+score:2323
+numComments:315
+isOver18:False
+hasPostBody:True

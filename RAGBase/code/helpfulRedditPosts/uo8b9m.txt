@@ -1,0 +1,13 @@
+title:
+LPT: Most expensive is not always the best, but cheapest is almost always the worst.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/uo8b9m/
+author:apalapan
+subreddit:LifeProTips
+score:13887
+numComments:707
+isOver18:False
+hasPostBody:False

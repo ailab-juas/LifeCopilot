@@ -1,0 +1,15 @@
+title:
+YSK: If you have an incident at your home, like a fire, and you'll be displaced for any amount of time, anyone can listen to emergency scanners or see news reports that disclose your full address, and target your home, since they don't expect anyone to be there.
+
+content:
+I spent the first night in my garage, and ran off someone checking my place out at 430am. Thankful my alarm system has power again.
+
+Edit: thanks for the conversation. Yes, in the US, and scanners are not encrypted.  I'll respond more once I have power and internet again. Some people are absolute scum.
+
+url:https://reddit.com/r/YouShouldKnow/comments/4m4f9j/
+author:Lummoxx
+subreddit:YouShouldKnow
+score:1750
+numComments:197
+isOver18:False
+hasPostBody:True

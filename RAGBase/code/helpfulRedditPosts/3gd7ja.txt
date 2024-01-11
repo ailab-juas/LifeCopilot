@@ -1,0 +1,15 @@
+title:
+YSK that the voice recorder app is set to constantly run in the background by default in Windows 10.
+
+content:
+To turn off click Start&gt; Settings&gt; Privacy&gt; Background Apps&gt; then select which apps you want on and off. 
+
+You can also turn it off from the microphone menu instead of background apps.
+
+url:https://reddit.com/r/YouShouldKnow/comments/3gd7ja/
+author:TylerTheNomad
+subreddit:YouShouldKnow
+score:3290
+numComments:391
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT - Read the chapter in the textbook before professor teaches that very topic in class
+
+content:
+Made the world of a difference for me. You know the general idea of what's going to happen, so that even if it's a hard topic, you're not completely blank
+
+url:https://reddit.com/r/LifeProTips/comments/yoiyk8/
+author:Vannexe
+subreddit:LifeProTips
+score:4684
+numComments:153
+isOver18:False
+hasPostBody:True

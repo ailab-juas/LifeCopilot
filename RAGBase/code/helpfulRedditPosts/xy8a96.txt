@@ -1,0 +1,16 @@
+title:
+YSK Tea Tree oil is severely toxic to dogs and cats. Even applied topically it can cause muscle weakness, liver problems, and even death.
+
+content:
+Why YSK: Tea Tree oil is a phenomenal antiseptic and bug deterrent, but should NOT be used on dogs. 
+I learned this the hard way. 
+
+Source: https://www.petpoisonhelpline.com/poison/tea-tree-oil/
+
+url:https://reddit.com/r/YouShouldKnow/comments/xy8a96/
+author:throwmeaway4400000
+subreddit:YouShouldKnow
+score:18552
+numComments:550
+isOver18:False
+hasPostBody:True

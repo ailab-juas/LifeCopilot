@@ -1,0 +1,15 @@
+title:
+YSK that your mortgage lender may suspend payments but will expect it paid up in full at the end of suspension.
+
+content:
+Speaking for my lender and a few other friends’ lenders. It was in fine print and worded really weird. Logically, I think... “just give me a 3-6 month break and I’ll pick it up once things are more stable.” Instead they say, “sure, we’ll give you a break for 3-6 months, no penalties, no reporting to the Credit unions, BUT at the end of the suspension, you have to pay all the missed payments in full!” 
+
+Just read the fine print.
+
+url:https://reddit.com/r/YouShouldKnow/comments/fmre1l/
+author:east_off
+subreddit:YouShouldKnow
+score:6552
+numComments:241
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+YSK: When sending relief supplies to disaster victims, or to food banks in general, boxed milk is often overlooked.
+
+content:
+Why YSK: Disaster areas, such as the ones in Kentucky, Arkansas, Illinois, and surrounding areas are usually without power, and fresh milk is in scarce supply. Boxed milk, such as Gossner, Horizon, or Parmalat are shelf stable, and a much needed alternative to fresh.
+
+I remembered reading about this a while back, on a Reddit post regarding food banks. The thought came to me as I was watching news about a relief shipment headed to Kentucky, and saw cases of beer. The kids need shelf stable milk more than mom &amp; dad need beer...
+
+url:https://reddit.com/r/YouShouldKnow/comments/rqfr96/
+author:SkidWilly86
+subreddit:YouShouldKnow
+score:1444
+numComments:72
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: When you’re confronted with a big task and keep procrastinating, it’s often because you haven’t broken it down into little manageable tasks. Break your tasks down and take them one bit at a time. Everything is easier in little pieces.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/k92iml/
+author:bkornblith
+subreddit:LifeProTips
+score:3755
+numComments:107
+isOver18:False
+hasPostBody:False

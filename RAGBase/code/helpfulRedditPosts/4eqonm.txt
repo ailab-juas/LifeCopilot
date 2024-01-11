@@ -1,0 +1,13 @@
+title:
+LPT Before naming your new puppy, yell the name you're considering and think about how you'd feel yelling it in public.
+
+content:
+I just yelled "DOGMEAT!" in the park and felt like a moron.
+
+url:https://reddit.com/r/LifeProTips/comments/4eqonm/
+author:511100
+subreddit:LifeProTips
+score:1575
+numComments:336
+isOver18:False
+hasPostBody:True

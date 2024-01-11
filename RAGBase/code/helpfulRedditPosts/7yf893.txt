@@ -1,0 +1,17 @@
+title:
+YSK : Credit cards with contactless payments have cumulative spending limits that are reset when you pay using your PIN.
+
+content:
+If you are seeing proximity transactions refused despite having available credit, you have probably reached the limit.
+
+Try the transaction again using the chip card and your PIN, the limit will be reset and contactless payments will begin working properly again.
+
+If you regularly use your PIN, you will probably never hit the limit.
+
+url:https://reddit.com/r/YouShouldKnow/comments/7yf893/
+author:linux1970
+subreddit:YouShouldKnow
+score:2705
+numComments:185
+isOver18:False
+hasPostBody:True

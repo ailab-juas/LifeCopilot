@@ -1,0 +1,13 @@
+title:
+LPT: Unless you're a first responder or in the military, there nothing at your job that's worth putting your health or safety at risk for. Don't take unsafe shortcuts.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/esb41f/
+author:freebirdls
+subreddit:LifeProTips
+score:1487
+numComments:144
+isOver18:False
+hasPostBody:False

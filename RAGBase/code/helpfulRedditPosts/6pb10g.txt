@@ -1,0 +1,30 @@
+title:
+YSK: Putting Visine in drinks *doesn't* cause diarrhea, but it can cause a laundry list of shockingly bad other ailments
+
+content:
+http://www.snopes.com/medical/myths/visine.asp
+
+We've all heard the "bartender puts Visine in rowdy customer's drink" stories, with the supposed effect being diarrhea.  Thing is, although Visine doesn't cause diarrhea, the active ingredient Tetrahydrozoline has been shown to have these nasty effects:
+
+* Lowering body temperature to dangerous levels
+
+* Making breathing difficult, or even halting it entirely
+
+* Blurring vision
+
+* Causing nausea and vomiting
+
+* Elevating and then dropping blood pressure
+
+* Causing seizures or tremors
+
+* Sending the ingester into a coma
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/6pb10g/
+author:DaveboNutpunch
+subreddit:YouShouldKnow
+score:4825
+numComments:501
+isOver18:False
+hasPostBody:True

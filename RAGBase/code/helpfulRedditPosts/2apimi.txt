@@ -1,0 +1,13 @@
+title:
+YSK that if you can't (or don't want to) install stuff, you can stream software like Skype, Chrome, and VLC for free.
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/2apimi/
+author:[deleted]
+subreddit:YouShouldKnow
+score:1894
+numComments:119
+isOver18:False
+hasPostBody:False

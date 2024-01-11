@@ -1,0 +1,13 @@
+title:
+LPT: Have a new person starting at work? Try to refer to your other colleagues by name whenever you're around the new person. Chances are they will have trouble remembering everyone's names at first so regular reminders can help them fit in
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/8l878f/
+author:LordTrollsworth
+subreddit:LifeProTips
+score:24550
+numComments:428
+isOver18:False
+hasPostBody:False

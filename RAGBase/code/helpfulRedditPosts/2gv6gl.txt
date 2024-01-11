@@ -1,0 +1,35 @@
+title:
+YSK about "Problem Steps Recorder", a criminally underrated troubleshooting tool for Windows
+
+content:
+Problem Steps Recorder, or PSR.exe, is a great tool for end users and support analysts alike.
+
+You can access it by typing psr.exe in your start search bar, or by going start -&gt; run and typing psr.exe
+
+Its a tool that can record the steps you take to perform an action, or to demonstrate steps taken before an error is encountered.
+
+After the recording is made, the program automatically creates an html file that displays what actions were taken, and what dialog messages are displayed.
+
+If you run in to a problem at work, rather than sending a screenshot to your IT guys, you can just fire up psr, repeat the process, and send them the automatically created document. Your IT team will love you.
+
+Alternatively, if you are an IT guy, you can use it to quickly create a document to teach your user how to do something.
+
+Great bit of kit. You should try it.
+
+-edit-
+
+Forgot to mention this is a feature only in Windows 7 and up.
+
+[Shout out to](http://www.reddit.com/r/YouShouldKnow/comments/2gv6gl/ysk_about_problem_steps_recorder_a_criminally/ckmzb86) /u/Laibach23 who found an [earlier version for XP/Vista on TechNet](http://technet.microsoft.com/en-us/magazine/2009.03.utilityspotlight2.aspx?pr=blog)
+
+Thank you for the gold.
+
+Here's an example of the end result: https://www.sendspace.com/file/i4rinb
+
+url:https://reddit.com/r/YouShouldKnow/comments/2gv6gl/
+author:Henaree
+subreddit:YouShouldKnow
+score:2029
+numComments:81
+isOver18:False
+hasPostBody:True

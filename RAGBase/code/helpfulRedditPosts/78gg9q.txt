@@ -1,0 +1,13 @@
+title:
+LPT: If you've spent a considerable amount of time looking for a folder/file on your computer, once found, put a copy of it in the first place you looked. That's likely where it should be anyway.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/78gg9q/
+author:eyunzicker
+subreddit:LifeProTips
+score:1513
+numComments:93
+isOver18:False
+hasPostBody:False

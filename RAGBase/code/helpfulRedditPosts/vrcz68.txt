@@ -1,0 +1,13 @@
+title:
+LPT: When setting up a buffet table, put cutlery and napkins at the end of the line.
+
+content:
+For some reason the catering industry has popularized putting these items at the beginning of the line. However, it makes for awkward moments of trying to carry too much as patrons gather their food. That spoon you grabbed? You may not even need it.
+
+url:https://reddit.com/r/LifeProTips/comments/vrcz68/
+author:Fmstrat
+subreddit:LifeProTips
+score:1367
+numComments:70
+isOver18:False
+hasPostBody:True

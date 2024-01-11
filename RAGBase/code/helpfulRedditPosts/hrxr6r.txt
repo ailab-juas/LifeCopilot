@@ -1,0 +1,13 @@
+title:
+LPT use a smart color bulbs for gentle reminders
+
+content:
+Every night I have my color smart bulb change from blue to dark blue at 11 pm. It’s not as annoying as an alarm but let’s me know it’s getting late and should wrap up what I’m doing. I plan on doing this in my living room too to gently remind my kid it’s time for bed. Advantage: it’s a constant reminder until you notice it and it’s not annoying like an alarm. So you can ignore it for awhile and still have it remind you.
+
+url:https://reddit.com/r/LifeProTips/comments/hrxr6r/
+author:Onyxpurr
+subreddit:LifeProTips
+score:1010
+numComments:79
+isOver18:False
+hasPostBody:True

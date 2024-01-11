@@ -1,0 +1,13 @@
+title:
+LPT: Go in to every room in your house at least once per day.
+
+content:
+Even just to take one quick look around.  Issues with plumbing or pests can cause major damage if left unnoticed. Small things like windows ajar or unnecessary electric/electronic items on/drawing power can add up on your utility bills. 
+
+url:https://reddit.com/r/LifeProTips/comments/5iesgs/
+author:EvanFromCanada
+subreddit:LifeProTips
+score:9857
+numComments:1234
+isOver18:False
+hasPostBody:True

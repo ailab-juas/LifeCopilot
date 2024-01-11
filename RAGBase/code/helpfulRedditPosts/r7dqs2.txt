@@ -1,0 +1,13 @@
+title:
+LPT: If you accidentally call 911, don't hang up, stay on the line and explain that it was an accident. It's not illegal to dial a wrong number and they are required to investigate hang ups, so you're wasting valuable resources by not explaining the situation.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/r7dqs2/
+author:openedwire
+subreddit:LifeProTips
+score:1704
+numComments:85
+isOver18:False
+hasPostBody:False

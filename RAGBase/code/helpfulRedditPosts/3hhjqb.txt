@@ -1,0 +1,27 @@
+title:
+YSK the Food Donation Act protects you from US civil &amp; criminal liability for products donated in good faith
+
+content:
+[Bill Emerson Good Samaritan Food Donation Act - Summary by Feeding America](http://www.feedingamerica.org/ways-to-give/give-food/become-a-product-partner/protecting-our-food-partners.html)
+
+[The actual law - Published by GPO](http://www.gpo.gov/fdsys/pkg/PLAW-104publ210/pdf/PLAW-104publ210.pdf)
+
+[Last Week Tonight with John Oliver: Food Waste](https://www.youtube.com/watch?v=i8xwLWb0lLY)
+
+EDIT - Some of my common responses to various reactions here:
+
+* Last Week Tonight [sited](https://youtu.be/i8xwLWb0lLY?t=11m55s) the University of Arkansas' findings that they **could not find a single case of food donation related liability**. If the federal law was ever tested or effectively overturned in court, we should know about it by now.
+
+* For partially eaten leftovers and quickly perishable foods (e.g. restuarants): The only viable anti-waste solution I heard of found for them is to sell it to a pig farm for animal consumption - This is what many Vegas casinos do.
+
+* Lots of non-profits are willing to pick up food.  The additional cost is at or near zero if the employees spend time facilitating unloading of old food that a non-profit picks up instead of time spent throwing it away.  Of course refrigerated or prepared food may vary.
+
+* Companies like grocery stores can already track food depreciation/loss for accounting purposes.  Any donated food simply moves to a different column on a balance sheet and becomes tax deductible.
+
+url:https://reddit.com/r/YouShouldKnow/comments/3hhjqb/
+author:Renegade_Meister
+subreddit:YouShouldKnow
+score:1264
+numComments:44
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: If a child expresses fear going to someone’s house, don’t force them to go. Instead, reassure them you’re there for them and that you are there to keep them safe and try to ask them why they’re afraid.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/gsk449/
+author:tysmily
+subreddit:LifeProTips
+score:1226
+numComments:20
+isOver18:False
+hasPostBody:False

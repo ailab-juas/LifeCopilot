@@ -1,0 +1,15 @@
+title:
+YSK never sell anything on ebay you don't mind getting stolen
+
+content:
+The way Ebay rules work a buyer can simply order an item, recieve the item, said it didn't arrive/came broken/not what advertised and the seller will be obligated to refund you and then pay the shipping for you to send a different item or nothing if you say you didnt recieve it. 
+An example that happened to me: I was selling mtg cards (popular trading card game) and I shipped it. My buyer left a positive review for the service. Then 2 days later he messages me saying it was a different card than the one I advertised (it wasnt). He demands a refund, I try to contact ebay saying I have proof of photos of the cards and even packaging it, but because Ebay has no way of knowing if my proof is fake and who is saying the truth, they side with the buyer saying I have to refund and the buyer has to return the card to me. So I refund him and then he sends me a different card (I pay shipping costs). So thats the story how I lost a +100$ card and stopped selling on ebay.
+tl dr: ebay will always side with customer, so he can say he didnt recieve the item or got a different one and your obligated to refund him, making the buyer keep your item and his money.
+
+url:https://reddit.com/r/YouShouldKnow/comments/fuzund/
+author:Creador9
+subreddit:YouShouldKnow
+score:1357
+numComments:205
+isOver18:False
+hasPostBody:True

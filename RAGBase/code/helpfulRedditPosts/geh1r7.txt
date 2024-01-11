@@ -1,0 +1,19 @@
+title:
+YSK that many "low-fat foods" are often much higher in sugar than regular foods and as such are sometimes worse for you.
+
+content:
+To make up for potential lack of flavour that comes with making low-fat foods, many companies decide to add sugar.
+
+This gives you an increased risk of heart disease and diabetes and can cause high cholesterol levels.
+
+If you often buy low-fat foods, read the labels for amounts of sugar, as you may be doing worse for yourself. And if you're buying low-fat yoghurt, just think about how stupid that is. Yoghurt is, at its core, high fat milk + bacteria.
+
+Read more [here](https://www.bbcgoodfood.com/howto/guide/truth-about-low-fat-foods).
+
+url:https://reddit.com/r/YouShouldKnow/comments/geh1r7/
+author:typicalcitrus
+subreddit:YouShouldKnow
+score:2296
+numComments:98
+isOver18:False
+hasPostBody:True

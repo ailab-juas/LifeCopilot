@@ -1,0 +1,13 @@
+title:
+YSK no membership is required to purchase alcohol at Costco
+
+content:
+Why YSK: alcohol at Costco is often significantly cheaper than at supermarkets, liquor stores, and other alcohol stores like BevMo, but Costco is required by law to allow any one of legal age to purchase alcohol without needing a membership.
+
+url:https://reddit.com/r/YouShouldKnow/comments/s047fu/
+author:rustyfinch
+subreddit:YouShouldKnow
+score:1079
+numComments:112
+isOver18:False
+hasPostBody:True

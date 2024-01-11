@@ -1,0 +1,15 @@
+title:
+LPT: when hiking in a group and the front of the group stops to wait for the stragglers, don't start walking immediately when everyone catches up. Let the last person decide when to start walking again.
+
+content:
+The front of the group got a nice rest while waiting for everyone to catch up. But if you start walking as soon as everyone catches up, then the back of the group doesn't get to rest.
+
+Let the back of the group decide when the team starts walking again. Then everyone gets time to drink, eat, sit, etc. before continuing. This is especially important for longer day hikes or backpacking trips.
+
+url:https://reddit.com/r/LifeProTips/comments/yf06gx/
+author:naturemom
+subreddit:LifeProTips
+score:16634
+numComments:605
+isOver18:False
+hasPostBody:True

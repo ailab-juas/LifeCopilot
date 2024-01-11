@@ -1,0 +1,14 @@
+title:
+LPT: Tell your parents/grandparents to call your phone number immediately if they ever get a call saying that you need money.
+
+content:
+Scammers will call older people and try to make it sound like their son/daughter is in trouble and they need some amount of money wired to a weird address. By having them call your phone number if they ever get a call like this, it will prevent them from losing money or having their identity stolen.
+
+
+url:https://reddit.com/r/LifeProTips/comments/67s8er/
+author:Turkeyburgerfries
+subreddit:LifeProTips
+score:30934
+numComments:1898
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,19 @@
+title:
+LPT: When applying for jobs (especially to large organizations), look through the job description and add any keywords they use to your resume as frequently as possible to get your application through HR.
+
+content:
+I've learned this heuristically over the last couple of months. I'd love comments from anyone who works in HR hiring or similar fields that can either corroborate or refute this theory.
+
+HR is the first line of defense for hiring at most large organizations, but HR people aren't all that great at judging qualifications for specific jobs (e.g. A person with a Master's in HR doesn't know what makes for a good nuclear safety inspector). This leads them to filter out resumes using keywords and jargon as an indicator of abilities. Paid resume development tools have figured this out. They essentially populate your resume with the keywords that they've found effective at getting interviews, but you can do this yourself if you know your industry well and research the job. As a last ditch effort, you can even fill your resume with white-font keywords that aren't visible to people but will be picked up by filtering software. 
+
+edit: Apparently the white-text method was ill advised.
+
+ 
+
+url:https://reddit.com/r/LifeProTips/comments/2l2vwd/
+author:Alpha-Dog
+subreddit:LifeProTips
+score:3448
+numComments:321
+isOver18:False
+hasPostBody:True

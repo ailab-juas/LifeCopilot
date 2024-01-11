@@ -1,0 +1,25 @@
+title:
+YSK that Amazon can no longer remove credit cards from accounts, so if your card is stolen you need to report your card to your bank as compromised and make sure they issue a “stop payments” for Amazon.
+
+content:
+I realized after posting that the title is missing a bit of information -- Amazon cannot remove credit cards from accounts that aren't "verified" by the caller. My credit card number was stolen and put on someone else's account, but because the account is not in my name, Amazon cannot remove my credit card. If this account simply used my card to buy something once, I could simply have my bank close my card and issue a refund. However, the account used my card to purchase Prime on a monthly subscription and that has taken more hoops to jump through.
+
+Subscription services in general are set up as “auto-approve” so even if your card is closed, the bank will still allow the charge to show and be transferred to your new card. This is standard practice with all subscription-style purchases like Prime, Netflix, Hulu, etc. However, if your card was stolen and used to purchase a subscription, reporting your card as stolen won't keep future subscription charges from posting.
+
+The first charge showed in January. I called Amazon, called my bank, had the old card closed, and issued a refund. Come February, a Prime charge appeared using my closed credit card number and I got an email from my bank "reminding" me to update my card information. The bank representative I talked to this week explained the different procedures for "stolen" credit cards and "compromised" credit cards, that my card should have been flagged as compromised and wasn't, and why adding a "stop payment" to the closed card was necessary. 
+
+Some of this information may be fuzzy in terms of direct wording; it’s what I’ve been able to put together from talking to Amazon and Discover in January and then again this week. I also realize this is pretty specific to one particularly shitty event, but with the new change to Amazon policies, I'm hoping others can skip a lot of the hassle I've had to go through should this happen to them.
+
+Edited for clarity. Typing on mobile is not for me, I'm sorry for the confusion.
+
+Edit #2:  Welp. This post probably should have been titled just about anything other than what I chose. I should have focused more on the “stolen vs. compromised” part of dealing with credit cards but there’s not much I can do about that now. 
+
+Thanks for all the comments! I’m seeing that this situation is even more specific than I thought. Had I realized that before posting, this would look a lot different. Oh well, you guys get to be a part of my learning experience. It’s been a ride!
+
+url:https://reddit.com/r/YouShouldKnow/comments/f0vrgb/
+author:asocialbookworm
+subreddit:YouShouldKnow
+score:13154
+numComments:203
+isOver18:False
+hasPostBody:True

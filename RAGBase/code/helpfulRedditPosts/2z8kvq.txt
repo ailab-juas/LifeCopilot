@@ -1,0 +1,18 @@
+title:
+LPT: Use the phrase "My understanding was..." instead of "I assumed..."
+
+content:
+If you use the phrase "I assumed...", you'll be viewed as having hastily jumped to a conclusion based on insufficient evidence.
+
+If you use the phrase "My understanding was...", people will merely think you misunderstood something, and will be far kinder to you (and in instances where what you misunderstood was something they said, they will often apologize, or fault themselves for not being more explicit).
+
+This is especially useful in a professional/workplace environment. Telling your supervisor you "assumed" something typically results in a reprimand; saying "My understanding was..." will instead be attributed to a miscommunication, or a lack of clarity in their original instructions.
+
+
+url:https://reddit.com/r/LifeProTips/comments/2z8kvq/
+author:Cinnamon16
+subreddit:LifeProTips
+score:6184
+numComments:663
+isOver18:False
+hasPostBody:True

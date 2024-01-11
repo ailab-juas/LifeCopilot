@@ -1,0 +1,16 @@
+title:
+YSK that if you add ‘outline.com/‘ before a URL, it will bypass the paywall
+
+content:
+If you add this (before the http) it will move you onto another website and take all the text from that website. This means that you won’t have to pay to allow access to a newspaper or scientific journal, such as NY times
+
+
+Edit: thank you for my first gold
+
+url:https://reddit.com/r/YouShouldKnow/comments/ajer42/
+author:Brentobot
+subreddit:YouShouldKnow
+score:8687
+numComments:187
+isOver18:False
+hasPostBody:True

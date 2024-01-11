@@ -1,0 +1,15 @@
+title:
+YSK, if you travel to Canada, that we round all cash transactions to the closest 5 cents.
+
+content:
+For example, if the total is $9.98 and you give the cashier a $10 bill, they won't give you 2 cents back, and if the transaction is $9.97, they'll give you 5 cents back. I'm a cashier in an area where we get a lot of tourists and people often expect us to give them pennies in change, but we don't since 2013. Legally, they're still a valid method of payment that you can use in banks, but no one really uses them and unless you go to a bank, cashiers won't have any to give you.
+
+Note that transactions that aren't cash won't round the amount though, so $9.98 will remain $9.98 if you pay with debit, for instance.
+
+url:https://reddit.com/r/YouShouldKnow/comments/chthh7/
+author:ahealthiersnack
+subreddit:YouShouldKnow
+score:18731
+numComments:1130
+isOver18:False
+hasPostBody:True

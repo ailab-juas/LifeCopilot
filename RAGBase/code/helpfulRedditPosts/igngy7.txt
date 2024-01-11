@@ -1,0 +1,17 @@
+title:
+YSK that if you or a family member are on strong antibiotics or chemotherapy treatments, the good bacteria that breaks down wastes in septic systems or drainage fields could be compromised.
+
+content:
+Doctors may cover this issue prior to treatment, but if not, be aware that the residual medicines passing into the system could kill off the bacteria that decomposes waste. This could lead to backups in the tank and your home, or could harm the soil treatment area around it, leading to an expensive expansion of the drain field lines.
+
+If you think you're at risk of having this happen to you, get your septic tank pumped before you start treatment, and get it pumped more regularly as long as you are on the medication. Also, there are probiotics that you pour into your toilet and flush down to help keep the bacteria levels normal.
+
+More info: https://www.pumper.com/online_exclusives/2018/06/the-problem-with-medications-and-septic-systems
+
+url:https://reddit.com/r/YouShouldKnow/comments/igngy7/
+author:Galactic_Blacksmith
+subreddit:YouShouldKnow
+score:4926
+numComments:79
+isOver18:False
+hasPostBody:True

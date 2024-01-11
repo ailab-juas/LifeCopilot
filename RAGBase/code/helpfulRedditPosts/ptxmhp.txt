@@ -1,0 +1,13 @@
+title:
+LPT: When using an iron at a hotel for the first time during your stay, always activate the “steam” function on a hotel towel first. You will avoid a potentially nasty stain on whatever you are attempting to iron.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ptxmhp/
+author:G_Shocka
+subreddit:LifeProTips
+score:1889
+numComments:45
+isOver18:False
+hasPostBody:False

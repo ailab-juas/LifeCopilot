@@ -1,0 +1,13 @@
+title:
+LPT: Remove security from a .pdf file by printing to .xps then back to .pdf
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/40f0lh/
+author:thegreatestajax
+subreddit:LifeProTips
+score:5496
+numComments:644
+isOver18:False
+hasPostBody:False

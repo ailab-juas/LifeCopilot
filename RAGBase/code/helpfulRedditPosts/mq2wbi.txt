@@ -1,0 +1,34 @@
+title:
+LPT- Don't skip filling in those annoying applications that ask you to copy paste your resume after you've already attached it. At least, Add keywords from the job description in there.
+
+content:
+I used to be a recruiter. 
+These applications are annoying, I know, especially when you've already ATTACHED your resume but in a lot of cases, their CRM/data management systems can only pull from these text boxes. 
+If they are searching for "python" or "admin assistant", whatever, it will only show results from the "text boxes" you filled. It won't pull from your resume (unless they splurged on a fancy system, which is often not the case.)
+
+Agencies do this, and a lot of companies use this to parse resumes, as well, if they get more than they can feasibly go through. 
+
+If you fill it with "see resume"; "resume attached" or with nothing, you are doing yourself a huge disservice and your resume might get overlooked. 
+
+Add in your job title/dates and then instead of a full description just add keywords (applicable to that role) that you've taken from the job description. 
+
+Ex: 
+Administrative assistant -2017-2019
+Excel, management, finance, petty cash, filing, phone line, customer service
+
+This will save you time (instead of entering your whole resume) and will give your profile the most "flags" to be reviewed :) 
+
+
+Happy hunting folks.
+
+*Note: copy pasta-ing your whole resume section by section will yield the best results but 1- ain't nobody got time for that and 2- honestly, adding the keywords that they WILL be searching for is basically the same thing.
+
+**Edit** Thank you guys for the awards and I wish you all luck with your job search.
+
+url:https://reddit.com/r/LifeProTips/comments/mq2wbi/
+author:ACasualMayEpic
+subreddit:LifeProTips
+score:6316
+numComments:263
+isOver18:False
+hasPostBody:True

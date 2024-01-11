@@ -1,0 +1,24 @@
+title:
+LPT: simple way to read articles behind paywall
+
+content:
+i've seen some other ways of doing this (i'm 100 yrs old when it comes to tech) but i accidentally figured this out other day and it seems to work for a bunch of articles. thought i'd share.
+
+1. google search the title of the article
+2. when you find it in the search results, control+click and hit Save As...
+3. title it whatever, i save it to the desktop.
+4. open the saved link &amp; enjoy
+
+edit: yeah, pay for journalism when and if you're able to do so. 
+
+edit edit: pay for journalism if you *want to*  I really don't care.
+
+I posted the tip to share a helpful thing bc I think sharing knowledge is neat. i also didn't think many ppl would read this. if you'd rather pay then cool! do you. if not, ppl have left a bunch of other helpful tips in the comments.
+
+url:https://reddit.com/r/LifeProTips/comments/qfjuul/
+author:facesnotnames
+subreddit:LifeProTips
+score:3294
+numComments:166
+isOver18:False
+hasPostBody:True

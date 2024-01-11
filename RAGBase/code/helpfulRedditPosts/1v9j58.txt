@@ -1,0 +1,13 @@
+title:
+LPT: If Google Chrome freezes, hit Shift + Esc. Chrome has an inbuilt Task Manager
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1v9j58/
+author:sahildave1991
+subreddit:LifeProTips
+score:3635
+numComments:335
+isOver18:False
+hasPostBody:False

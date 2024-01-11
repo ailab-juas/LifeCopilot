@@ -1,0 +1,13 @@
+title:
+LPT: Having trouble learning or grasping a concept? Pretend you're trying to explain it to someone else and your brain will trick itself into understanding it better.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/772wsr/
+author:Pencilvestor
+subreddit:LifeProTips
+score:17813
+numComments:451
+isOver18:False
+hasPostBody:False

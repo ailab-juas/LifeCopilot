@@ -1,0 +1,15 @@
+title:
+LPT: When buying a house, during the inspection fill the bathtub up with water. While the tub is draining, flush the toilets. If the bowl fills up instead of empties, the sewer line may need replaced.
+
+content:
+From my own experience. I bought a house that sat unoccupied for 18 months. Less than a month after moving in, I notice my tub filling up with nasty water when my washing machine is draining. I have a big tree in the front yard, turns out the roots had grown into the sewer line and was slowing the draining process. Currently my plan is to treat the symptoms with an auger and root killer every six months or so until I can afford to cut down the tree and reroute the drain line.
+
+Edit: I will add that I did have a home inspection prior to purchase. He ran some faucets and flushed the toilets but he didn't really test the drain in conditions mimicking a draining washing machine or tub, which is when a slow drainline is problematic. 
+
+url:https://reddit.com/r/LifeProTips/comments/6n8zjw/
+author:writechriswrite
+subreddit:LifeProTips
+score:1957
+numComments:86
+isOver18:False
+hasPostBody:True

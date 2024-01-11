@@ -1,0 +1,13 @@
+title:
+LPT: Say “I am learning the language” instead of “Sorry, I don’t know the language” whenever moving to a new country. People are always glad to hear that you are willing to make the effort to learn their language.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/94htsx/
+author:QuashingQuasar
+subreddit:LifeProTips
+score:1494
+numComments:61
+isOver18:False
+hasPostBody:False

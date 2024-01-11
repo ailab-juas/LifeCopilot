@@ -1,0 +1,15 @@
+title:
+LPT: Hold down CTRL key when in Task Manager to freeze the list
+
+content:
+Just found it in Windows 8, got a friend to try it in Windows 7 and it works there too. Pretty useful if you got refresh speed at fast and you're trying to track a process with spiky CPU usage.  
+  
+edit: if you use Process Explorer by Sysinternals you can press Space to toggle pause, however if you're using this tool in the first place you probably know keyboard shortcuts :)
+
+url:https://reddit.com/r/LifeProTips/comments/1tcwaf/
+author:xdjoshuaaz
+subreddit:LifeProTips
+score:2613
+numComments:141
+isOver18:False
+hasPostBody:True

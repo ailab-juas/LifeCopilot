@@ -1,0 +1,15 @@
+title:
+YSK: Lysol disinfectant is NOT an air freshener and shouldn't be sprayed sporadically in the air
+
+content:
+It's a surface disinfectant - that's why it doesn't smell good when it's sprayed at random.
+
+It's also not nearly as effective and doesn't do anything to disinfect the air.
+
+url:https://reddit.com/r/YouShouldKnow/comments/5iing6/
+author:Svargas05
+subreddit:YouShouldKnow
+score:2872
+numComments:323
+isOver18:False
+hasPostBody:True

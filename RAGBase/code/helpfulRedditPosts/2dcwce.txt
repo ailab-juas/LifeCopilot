@@ -1,0 +1,51 @@
+title:
+YSK why some of the internet isn't working so well today.
+
+content:
+Last edit:
+
+
+www.bgpmon.net/what-caused-todays-internet-hiccup/
+
+It was due to something Verizon did that altered the routing table. They undid it and now it's OK. The routing table will get that big again. Now companies will be getting ready for that. Pretty much end of story.
+
+3rd edit: good article on the problem: www.zdnet.com/internet-hiccups-today-youre-not-alone-heres-why-7000032566/
+
+
+http://www.cidr-report.org/as2.0/#General_Status
+
+There's a problem with many older routers in higher levels of the internet having reached their limit due to memory limits. Further, this is part of a deeper problem with the internet. IPv4 is the older way of making addresses on the internet. this is where you will see IP addresses written like "208.67.222.222". The newer kind of address is called IPv6, and looks like this: "2620:0:ccc::2".
+
+Although today's issues are related to a memory limit, eventually the internet will have some growing pains related to the limit of IPv4 addresses, unless IPv6 is implemented fully enough by then for it to matter. But this is not going to be something to worry about like everyone thought Y2K was going to be. 
+
+Just thought that was interesting, as I always want to know the reason something isn't working right. Hope this was illuminating.
+
+http://www.reddit.com/r/sysadmin/comments/2dcol3/the_internet_hit_512k_bgp_routes_today_causing/
+
+
+More reading: 
+http://bgp512.com Cisco's own article warning about this very thing. In May.
+
+http://www.ipv4depletion.com/?p=672
+
+https://en.wikipedia.org/wiki/IPv6
+
+https://en.wikipedia.org/wiki/IPv4
+
+https://en.wikipedia.org/wiki/Border_Gateway_Protocol
+
+More info: This is a picture of the health of the internet, more or less. http://internetpulse.net/
+
+&gt;"Tldr. BGP is the backbone of the internet and the internets just got fat enough for the backbone to start cracking." ~ http://www.reddit.com/user/grudg3
+
+Edit 4. Why today? "Today just happened to be when the global routing table exceeded the limits on a lot of old hardware. Not enough planning ahead. 512,000th customer?"
+
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/2dcwce/
+author:[deleted]
+subreddit:YouShouldKnow
+score:1849
+numComments:294
+isOver18:False
+hasPostBody:True

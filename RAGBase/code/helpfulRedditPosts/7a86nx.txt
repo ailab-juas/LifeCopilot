@@ -1,0 +1,72 @@
+title:
+LPT: If ever you need a program you want for free (for example a video/photo editor) don't search for "free", search for "open source" to avoid limited trial versions, adverts and malware
+
+content:
+The reasoning being if you type "free", generally you will be advertised to or get the LITE version which will only have some of the functionality and then will be up-sold to.
+
+Open source does what it says on the tin - the code is open for anyone to examine and even adapt and is usually available in-full for free, occasionally accepting donations if you are so inclined. 
+
+This has the added bonus of ensuring there are no nasties like crapware or reporting your user history back to their servers etc. because open-source equates to peer-reviewed and open to be examined by anyone.
+
+EDIT: just because it was mentioned, being open source doesn't MEAN that a program is virus-free, but it is a substantially lower risk than closed-source software. Either way, you would be better off with open-source in general.
+
+I am assuming you will be excising a modest amount of caution with what you download by checking it against trusted reviewers/communities.
+
+Edit 2:
+
+As this thread has gained a lot of traction let's address some points: Yes, we know you can torrent a paid-for application. Hilarious as it is for you to keep posting it, you don't need to tell us. Open source is still valid for those of us who believe in privacy, transparency and actually supporting a developer. We are aware of pirating websites, I promise.
+
+Point 2: "Free speech, free beer!"
+
+&gt;usually available in-full for free
+
+&gt;usually
+
+&gt;*usually*
+
+&gt;**usually**
+
+
+Programs:
+
+&gt;Photoshop = GIMP
+
+&gt;Lightroom = Darktable
+
+&gt;Adobe Illustrator = Inkscape
+
+&gt;Video Editor/3D modeler = Blender
+
+&gt;Video Editor = Kdenlive
+
+&gt;Media Player = VLC (find a video format it can't play, I dare you!)
+
+&gt;Streaming/recording software = OBS
+
+&gt;Windows = Linux - Ubuntu with Cinamon or MATE desktop environment is the most Windows-like, ~~else-wise, there's actually an Open Source Windows called Windows 10 IoT Core (not really for desktop use though)~~ sorry not open source.
+
+&gt;Microsoft Office = LibreOffice
+
+&gt;Food = ha.ha. But it actually exists [in a manner of speaking](https://www.youtube.com/watch?v=yYB559Is9Y0)
+
+&gt;Minecraft = [actually a thing](https://minecraft.net/en-us/edition/pi/)
+
+&gt;Unzipping program = 7Zip
+
+&gt;Java = OpenJDK (though Oracle Java might be open source anyway)
+
+&gt;Virtualization = there are a few choices, but for non-commercial use, VirtualBox would be the way to go.
+
+&gt;Browser = Chromium (not chrome) or Firefox.
+
+My favourite iTunes alternative is Foobar2000, but I don't believe it's open source. I've heard good things about Audacious, which is, though.
+
+Please remember to support open source software you like with donations if you can swing it - the developers deserve a kickback!
+
+url:https://reddit.com/r/LifeProTips/comments/7a86nx/
+author:TheGentGaming
+subreddit:LifeProTips
+score:58788
+numComments:1458
+isOver18:False
+hasPostBody:True

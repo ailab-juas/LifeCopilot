@@ -1,0 +1,50 @@
+title:
+YSK how to tell the difference between a genuine institution and a 'diploma mill'.
+
+content:
+**Important edit**
+
+(from /u/Telionis) 
+
+The Carnegie Foundation has spent a lot of effort trying to classify every single institution of higher education in the country. The best way to avoid for-profit schools is to look up the institution on the CF website. CF clearly lists whether the school is public, private non-profit, or private for-profit under the "control" heading.
+Try it out: http://classifications.carnegiefoundation.org/lookup_listings/institution.php
+
+
+
+**NOTE**, This is reposted from [this](http://www.reddit.com/r/YouShouldKnow/comments/qyn5z/working_on_a_degree_ysk_how_to_tell_the/) link. All credit for this post goes to /u/BAXXT. I'm doing this because if there is anyone out there even considering one of these "colleges" it's more than in their best interest to read this.
+
+* [Accreditation](http://en.wikipedia.org/wiki/Educational_accreditation)
+
+Accreditation is the #1 way to tell if you are attending a 'real' college.  If your school is [regionally accredited](http://en.wikipedia.org/wiki/Regional_accreditation) then it is almost certainly a real school.  If it is [nationally accredited](http://en.wikipedia.org/wiki/National_accreditation) then you should consider this school 'not' accredited; this may seem harsh, but many employers will consider this degree as not acceptable or even a liability.
+
+Also, if you are trying to get an engineering degree, make sure it is [ABET](http://en.wikipedia.org/wiki/ABET) accredited.  Not being ABET accredited may not necessarily mean it is a worthless degree, but you aren't really considered an 'engineer' with out this accreditation.
+
+* Credit transfer
+
+This is a huge red flag.  If other colleges won't accept credit from this school, you almost certainly don't want to go there.  If you are at all unsure about the school check this.
+
+* [for-profit](http://www.huffingtonpost.com/zaid-jilani/the-bipartisan-force-behi_b_1326367.html)
+
+For-profit colleges are the reason this is becoming a problem.  Examples are:
+
+* DeVry
+* University of Phoenix
+* ITT Tech
+* Lincoln Tech
+* American City College.
+* Full Sail University
+* Everest
+* Strayer
+
+These are scams, and a 'degree' from one of these places will give you nothing but debt.  If anyone with a degree from one of these schools wants to give pro/con testimony, that would be great.
+
+
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/2101gw/
+author:UnEntitled
+subreddit:YouShouldKnow
+score:1549
+numComments:612
+isOver18:False
+hasPostBody:True

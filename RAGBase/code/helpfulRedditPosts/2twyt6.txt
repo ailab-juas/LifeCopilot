@@ -1,0 +1,13 @@
+title:
+LPT: Be very careful using Transunion to check your credit report, they will bill you 17.95 a week after your credit check with no warning.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/2twyt6/
+author:Monkeydunk
+subreddit:LifeProTips
+score:1017
+numComments:152
+isOver18:False
+hasPostBody:False

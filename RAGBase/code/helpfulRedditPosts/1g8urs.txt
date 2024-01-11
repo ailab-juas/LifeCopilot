@@ -1,0 +1,13 @@
+title:
+LPT: If you're accompanying someone on an unexpected trip to the hospital, check your cell phone battery and, time permitting, grab your charger before you leave.
+
+content:
+It's something that's easy to forget in the rush of an emergency, but it can make a huge difference in how you stay in contact with relatives and loved ones who might be trying to reach you for information.
+
+url:https://reddit.com/r/LifeProTips/comments/1g8urs/
+author:[deleted]
+subreddit:LifeProTips
+score:1364
+numComments:230
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Tired of 2 minute brownies? Try these 60 second deep dish chocolate chip cookies in a cup!
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/x00pe/
+author:a3b2c1
+subreddit:LifeProTips
+score:1554
+numComments:196
+isOver18:False
+hasPostBody:False

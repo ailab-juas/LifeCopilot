@@ -1,0 +1,13 @@
+title:
+YSK:When buying a holiday meal bundle, always double check if the food comes cooked or frozen.
+
+content:
+Why YSK: after working in a deli, restaurants, food delivery etc. I run into sooo many people who thought they were ordering a cooked turkey, dessert,  etc when really they were expected to cook it at home. Some places definitely do sell Thanksgiving meals fully cooked but always make sure that's the case!!
+
+url:https://reddit.com/r/YouShouldKnow/comments/zj0qsq/
+author:Virgo26_
+subreddit:YouShouldKnow
+score:6213
+numComments:101
+isOver18:False
+hasPostBody:True

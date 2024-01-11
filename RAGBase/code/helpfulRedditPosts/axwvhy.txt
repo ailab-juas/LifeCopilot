@@ -1,0 +1,13 @@
+title:
+LPT: If you found out someone made a mistake at work, tell them first before reporting it.
+
+content:
+I work in the software industry, and mistakes are a common thing. It seems that some people like mentioning other people wrongs like we are all counting points or something. I rather go to the person, point out the issue and suggest any solutions if I have.
+
+url:https://reddit.com/r/LifeProTips/comments/axwvhy/
+author:iAteSo
+subreddit:LifeProTips
+score:1181
+numComments:90
+isOver18:False
+hasPostBody:True

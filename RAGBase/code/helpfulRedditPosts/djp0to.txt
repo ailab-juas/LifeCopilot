@@ -1,0 +1,13 @@
+title:
+LPT: When performing research or saving images you wish to have, DO NOT use JPEG. The files degrade faster and are not good for presentation for scaling purposes. Save as PNG or PDF if you can.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/djp0to/
+author:Dynamus93
+subreddit:LifeProTips
+score:1138
+numComments:131
+isOver18:False
+hasPostBody:False

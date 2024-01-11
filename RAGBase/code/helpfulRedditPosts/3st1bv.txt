@@ -1,0 +1,36 @@
+title:
+YSK how to remove the ads from Skype and that it drastically lowers the memory usage
+
+content:
+Recently my skype started breaking down. At random times the textbox for typing would become completely useless. After a while I noticed this occurred whenever the advertisement up top changed, so I set out to get rid of the ad.
+
+Found a solution pretty quickly:
+
+http://www.cnet.com/how-to/how-to-disable-ads-in-skype/
+
+(if you're using skype 7.x you have to go through the steps for 6.x in addition to the steps for 7.x. If this didn't solve it, there's extra tips in the comments section!)
+
+Later after a restart I noticed that my skype's memory usage had also dropped drastically. before it was commonly in the 300MB area and could jump up to 600MB
+
+Now it's constanly at only 50MB.  
+**That's a 83% drop in memory usage**! It's huge!
+
+Do yourself and your PC a favor.
+
+note:
+
+- This also disables loading the home screen 
+- People that have skype credits apparently don't get ads
+- Ads are language dependent. So another method is possible which probably won't kill the home screen! see primnu 's comment!
+
+edit:  
+thread's back up :D  
+I accidentally got it deleted by the automod by adding a comments permalink in the OP :(
+
+url:https://reddit.com/r/YouShouldKnow/comments/3st1bv/
+author:poehalcho
+subreddit:YouShouldKnow
+score:2762
+numComments:120
+isOver18:False
+hasPostBody:True

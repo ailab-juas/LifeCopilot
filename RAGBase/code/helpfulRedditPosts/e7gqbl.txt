@@ -1,0 +1,23 @@
+title:
+YSK: There is a flash game preservation project called Flashpoint trying to save as many games as possible before Flash dies in 2020!
+
+content:
+It's called [Flashpoint](https://www.bluemaxima.org/flashpoint) and they have archived over 30,000 games all playable offline!
+
+Edit:
+
+This blew up so here are some helpful links as per the request of the Flashpoint team:
+
+[Game Master List](https://bluemaxima.org/flashpoint/datahub/Game_Master_List) - This is the Master List of everything they have so far. Curators are constantly working to add more and fill out the library so always check the master list before you request games.
+
+[Animation Master List](https://bluemaxima.org/flashpoint/datahub/Animation_Master_List) - This is a list of all the Animations they have saved thus far
+
+[Requests System](https://bluemaxima.org/flashpoint/datahub/Requests_System) - This page has links to a Game Request Form and an Animation Request Form. Please check the respective Master Lists before making requests!
+
+url:https://reddit.com/r/YouShouldKnow/comments/e7gqbl/
+author:CaCtUs2003
+subreddit:YouShouldKnow
+score:9522
+numComments:303
+isOver18:False
+hasPostBody:True

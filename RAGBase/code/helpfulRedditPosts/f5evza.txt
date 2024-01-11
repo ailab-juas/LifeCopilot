@@ -1,0 +1,15 @@
+title:
+YSK: The Internet Archive, is a free online resourse with 411 billion web pages, 23 million books, and tens of millions more videos, music, images, and software archived. Some content dates back as far as 1996, and most entrys can't be found anywhere else online anymore.
+
+content:
+I usually use Internet Archive to pull up old friends blogs, and websites which they though were long gone, but I recently found out that you can read old archived books, concerts, and tons of stuff that can't be found on Youtube or Google anymore.
+
+ edit: Link: [https://archive.org/](https://archive.org/) 
+
+url:https://reddit.com/r/YouShouldKnow/comments/f5evza/
+author:KingSulley
+subreddit:YouShouldKnow
+score:1608
+numComments:46
+isOver18:False
+hasPostBody:True

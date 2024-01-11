@@ -1,0 +1,21 @@
+title:
+YSK that your credit card probably includes free extended warranties, insurance and other benefits
+
+content:
+In addition to financial perks like cash back, you should know that most credit cards offer a ton of non-monetary perks which automatically apply to any purchase made with that card. These can include:
+
+- Extended product warranties 
+- Damage / theft protection
+- Rental car insurance 
+- Trip cancellation insurance
+- Roadside assistance 
+
+You should review the terms and conditions of your card carefully, as these policies vary and may not be as comprehensive as one from a dedicated third-party insurer. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/66y6km/
+author:anti09
+subreddit:YouShouldKnow
+score:1047
+numComments:26
+isOver18:False
+hasPostBody:True

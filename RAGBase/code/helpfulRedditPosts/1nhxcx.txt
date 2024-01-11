@@ -1,0 +1,26 @@
+title:
+LPT: Wear amber/orange tinted glasses/sunglasses 1hr+ before bedtime to increase melatonin in the brain, helping you going to sleep earlier, faster and more consistently.
+
+content:
+Another alternative is to avoid prolonged eye contact with blue light that is produced from devices with electronic screen on them such as laptops, smartphones and televisions before you go to bed. Blue light make up a portion of the visible spectrum that ranges between 380–450 nm. Researchers have discovered that prolonged contact with this range of light will suppress melatonin secretion in your  body. Melatonin secretion naturally start in your body around 10pm to midnight, and naturally suppressed during the day. It affect the sleep-wake cycle in human. 
+
+There's an awesome program called Flux that you can download that will automatically adjust the tint of your computer screen depend on the time of the day, changing to a "warmer" color at night.
+http://justgetflux.com
+Remember that ambient light can affect the production of melatonin as well, so make sure if you are using flux, you are itn a room with warm indoor light and not bright fluorescence light.
+
+If you are interested here's a wiki page about melatonin and it's influence on the biological clock in human. There's also some informative stuffs on the flux website on the "research" tab.
+http://en.m.wikipedia.org/wiki/Melatonin#Circadian_rhythm
+
+Last note, I believe I came across this information on reddit in the past but I'm not sure if anyone has posted about it on LPT. I did do a search here but couldn't find it, if anyone can find the original thread that would be cool.
+
+**Edit: for those who finds this gimiky, I recommend reading more about it before discrediting this tip. It's not going to be the same as taking sleeping supplements but it's one of the more natural ways to get into a habit of falling asleep in corresponding to your biological clock.**
+
+**Edit #2: I noticed that the title is a bit misleading. Doing this shouldn't really increase melatonin production (since your body naturally increase the production of it during night time, before you fall asleep), but rather prevent the suppression of it from artificial lighting in the blue light spectrum.**
+
+url:https://reddit.com/r/LifeProTips/comments/1nhxcx/
+author:R3xz
+subreddit:LifeProTips
+score:1654
+numComments:266
+isOver18:False
+hasPostBody:True

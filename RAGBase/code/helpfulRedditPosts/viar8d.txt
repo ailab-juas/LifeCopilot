@@ -1,0 +1,15 @@
+title:
+YSK: On (residential) bathroom doors that don’t appear to have a lock, try pushing the knob toward the door and turning clockwise.
+
+content:
+Why YSK: Many of the doors I’ve seen in older houses lock this way, but I’ve seen it make a ton of people uncomfortable because they don’t know how to lock the door while they go about their business. This tip actually extends to other doors in the same houses, but bathrooms are a real hot spot for privacy. 
+
+*To unlock, turn counterclockwise until the knob pops out on its own.*
+
+url:https://reddit.com/r/YouShouldKnow/comments/viar8d/
+author:That_Ganderman
+subreddit:YouShouldKnow
+score:4969
+numComments:288
+isOver18:False
+hasPostBody:True

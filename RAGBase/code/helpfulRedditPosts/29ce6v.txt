@@ -1,0 +1,19 @@
+title:
+YSK about the "Let go threshold" - if you have to touch something that might give you electric shock (e.g. wire fences), touch it with the back of your right hand.
+
+content:
+The threshold differs from person to person, but it's when your muscles spasm and your hand closes around whatever's shocking you, making you unable to let go.
+
+If you also touch with your right hand, the current has longer to travel to get to your heart, keeping you a tiny bit safer.
+
+I remember my first aid teacher telling me this many, many years ago, but I found sources [here](http://www.pat-testing.info/electric-shock.htm), [here](https://en.wikipedia.org/wiki/Electric_shock) and [here](http://www.mikeholt.com/mojonewsarchive/ET-HTML/HTML/EletricalShockHazard~20020326.htm).
+
+EDIT: Another good tip is to *never ever* touch with two hands – avoiding this lowers the chance of the current travelling across your chest (and heart) before exiting. Keeping your left hand in your pocket will also help the current exit to the ground without shocking your heart ([source](http://www.nachi.org/electric-fence-inspection.htm)). Thanks /u/NathanJang and /u/disgustipated.
+
+url:https://reddit.com/r/YouShouldKnow/comments/29ce6v/
+author:bardarn
+subreddit:YouShouldKnow
+score:1317
+numComments:163
+isOver18:False
+hasPostBody:True

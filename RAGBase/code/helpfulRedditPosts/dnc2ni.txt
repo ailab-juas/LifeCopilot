@@ -1,0 +1,13 @@
+title:
+LPT: A statement made by someone you perceive to be smarter than you does not automatically make their statement true. Always fact check those statements that might change the way you perceive your world view.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/dnc2ni/
+author:LightSlayerPantyOn
+subreddit:LifeProTips
+score:27923
+numComments:459
+isOver18:False
+hasPostBody:False

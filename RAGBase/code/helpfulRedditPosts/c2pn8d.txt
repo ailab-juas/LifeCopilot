@@ -1,0 +1,18 @@
+title:
+YSK that you can get Microsoft Office 365 for free if you're a student or educator with a valid school email address.
+
+content:
+Here's a link:
+
+https://www.microsoft.com/en-us/education/products/office
+
+
+It includes Word, PowerPoint, Excel, and more.
+
+url:https://reddit.com/r/YouShouldKnow/comments/c2pn8d/
+author:myjawbepoppinnnn
+subreddit:YouShouldKnow
+score:3384
+numComments:129
+isOver18:False
+hasPostBody:True

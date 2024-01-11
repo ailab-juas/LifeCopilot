@@ -1,0 +1,13 @@
+title:
+YSK that if you are paying student loans, the interest payments are tax deductible.
+
+content:
+Whoever you are paying to (or being garnished by) should be able to provide a 1098-d form/info that states total interest for that year.  This won't work if you use the 1040ez, but in my case the $2000ish got added to the $6300 standard deduction, saving me about $200. Almost a third of a paycheck!
+
+url:https://reddit.com/r/YouShouldKnow/comments/4coy1u/
+author:Ghosttwo
+subreddit:YouShouldKnow
+score:1941
+numComments:205
+isOver18:False
+hasPostBody:True

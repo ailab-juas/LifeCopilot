@@ -1,0 +1,13 @@
+title:
+LPT: If someone is asking you how to do something on a computer, just show them by recording a video of your screen by pressing Alt+Win+R on Windows or Shift+Command+5 on Mac. It's that easy!
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/g6wrji/
+author:dashader
+subreddit:LifeProTips
+score:2179
+numComments:77
+isOver18:False
+hasPostBody:False

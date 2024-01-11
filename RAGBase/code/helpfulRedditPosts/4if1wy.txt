@@ -1,0 +1,20 @@
+title:
+YSK that the transit of Mercury is tomorrow! The last time this happened was 10 years ago.
+
+content:
+The transit of Mercury is an astronomical event where the planet Mercury passes in front of the sun from our perspective. The last one occurred in 2006, and the next event will happen in 2019.
+
+It will be visible in it's entirety on the east coast of the US, South America , and Western Europe. It will be partially visible everywhere but eastern Asia, the South Pacific, and Australia.
+
+You can look here for more information:
+
+http://www.skyandtelescope.com/astronomy-news/observing-news/may-9th-transit-of-mercury-everything-you-need-to-know/
+https://en.wikipedia.org/wiki/Transit_of_Mercury
+
+url:https://reddit.com/r/YouShouldKnow/comments/4if1wy/
+author:ParallelResistance
+subreddit:YouShouldKnow
+score:1914
+numComments:138
+isOver18:False
+hasPostBody:True

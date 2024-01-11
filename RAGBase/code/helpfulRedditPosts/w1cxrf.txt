@@ -1,0 +1,21 @@
+title:
+YSK about justwatch.com. it tells you all the platforms a movie is streaming on
+
+content:
+edit: also works with tv shows!
+
+editedit: theres also an app!
+
+why ysk: instead of finding a movie and then searching netflix, hulu, prime video, tubi, etc, use [justwatch.com](https://www.justwatch.com/). it shows you every platform the movie is available on
+
+it seperates the platforms between free, subscription, and for renting/for buying, along with the prices for each platform. save a lot of time knowing instantly whether you have it or not
+
+it also has all of the platforms. kanopy, criterion, hoopla, tubi, plutotv, appletv, and more. if a movie isnt available anywhere, theres an option for them to send you an email when it becomes available (without making an account/being on their email list). ive also found nearly every movie on it, from blockbusters to the obscure. best part? its all free
+
+url:https://reddit.com/r/YouShouldKnow/comments/w1cxrf/
+author:pumpkin2500
+subreddit:YouShouldKnow
+score:12201
+numComments:347
+isOver18:False
+hasPostBody:True

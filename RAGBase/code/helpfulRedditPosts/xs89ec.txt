@@ -1,0 +1,21 @@
+title:
+YSK: If everyone in your household, including the family pet, suddenly develop flu-like symptoms at the same time, you may be experiencing carbon monoxide poisoning
+
+content:
+Why YSK: Carbon monoxide is a colorless and odorless gas caused by the incomplete combustion of fuel. CO poisoning results in over 20,000 emergency department visits and over 400 deaths per year in the US. 
+
+Symptoms may include headache, dizziness, nausea, vomiting, confusion.
+
+Animals often develop symptoms earlier than people, which is why coal miners used to bring a canary with them into mines. Symptoms in animals may include anxiety, aggression, fatigue and vomiting.
+
+If you think you might be experiencing CO poisoning get to fresh air immediately and seek medical attention.
+
+[https://www.cdc.gov/co/default.htm](https://www.cdc.gov/co/default.htm)
+
+url:https://reddit.com/r/YouShouldKnow/comments/xs89ec/
+author:Lagavulin16_neat
+subreddit:YouShouldKnow
+score:2722
+numComments:32
+isOver18:False
+hasPostBody:True

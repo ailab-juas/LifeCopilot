@@ -1,0 +1,48 @@
+title:
+YSK some very important legal/safety information if you recently acquired a drone
+
+content:
+It's estimated that over 1 million drones were purchased this holiday season. While drones are extremely interesting and fun hobbies, they can pose a danger if not used properly. Here are some things that you should know if you got one recently.
+  
+
+First of all, understand the laws. Drones can pose a danger to people, property and aircraft, so the laws are very important to understand. The following links apply to US drone operators but may contain information all operators will benefit from. Drones are controlled by the FAA and are referred to as UAS (Unmanned aircraft systems). 
+  
+
+[This](https://www.faa.gov/uas/faq/) is the FAA FAQ for UAS. It contains answers to a lot of questions you may have. 
+  
+
+[This](https://www.faa.gov/uas/registration/) is the FAA drone registration website. As of Dec. 21st, it is now legally required that anyone operating a drone over .55 lbs must register with the FAA. There is currently a lot of debate over this registry as some argue it's illegal and others believe that the information in the registry will be publicly available. I won't give opinions on these as they are up for debate, but I encourage you to do some research into this process. Registration is relatively simple and only costs $5 (refundable).   
+  
+
+[This](http://knowbeforeyoufly.org/) is a brief intro the the most important drone laws. It is endorsed by the FAA. It is in no way a complete lesson in drone law, but it's a good place to start.
+  
+
+[This](http://www.modelaircraft.org/) is the Academy of Model Aeronautics. It is an association for model aircraft operators. Membership includes an insurance policy that covers injury and property damage (see site for details). They are also the leading force in fighting tougher UAS laws being proposed by the FAA.
+   
+
+Lastly, there are some very useful subs for UAS that I'm not allowed to mention (post already got deleted once for this). Look for those.
+  
+
+Besides the links, one thing I can't recommend enough to new operators is to BUY A SMALL UAS FIRST. No matter how easy drones seem to fly, they can get out of control and you can hurt yourself or others. Drones don't fly like helicopters or planes; they are their own beasts. If the first time you fly a UAS is with a $XXX mid sized drone, you can easily blow hundreds in damage or cause injury. The Hubsan X4 is considered one the best UAS to learn how to fly with. They cost less than $50 online and are a fantastic way to learn how to fly without risking too much money/damage. Other small drones can do just fine as well, feel free to shop around.
+
+
+Drones are awesome sources of entertainment, but they are a responsibility. They are under a lot of scrutiny from the media and the government. Do your part to help the reputation of drones and their operators improve so we can continue this great hobby for years to come.
+
+
+Edit:
+
+
+Thanks to /u/aj4000 for [this](https://www.casa.gov.au/operations/standard-page/remotely-piloted-aircraft-rpa) link and [this](https://www.casa.gov.au/operations/standard-page/model-aircraft-and-rpa) link to appropriate pages for Australians.
+
+Thanks to /u/fernguts for [this](http://www.tc.gc.ca/media/documents/ca-standards/Info_graphic_-_Flying_an_umanned_aircraft_-_Find_out_if_you_need_permission_from_TC.pdf) infographic for Canadians. 
+
+
+Thanks to /u/Wanna_circlejerk for the idea to include a [lipo guide](http://www.rogershobbycenter.com/lipoguide/). Lipo batteries are widely used in RC nowadays and they have a reputation for being volatile if not cared for properly. Lipo fires are not uncommon and can be very serious. Please take the time to learn about them.
+
+url:https://reddit.com/r/YouShouldKnow/comments/3y8uig/
+author:geo950
+subreddit:YouShouldKnow
+score:1061
+numComments:83
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: If an ad asks you your age, answer below 13. Most ads won’t play or ask you again.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/9ig00r/
+author:kelloggj
+subreddit:LifeProTips
+score:1543
+numComments:75
+isOver18:False
+hasPostBody:False

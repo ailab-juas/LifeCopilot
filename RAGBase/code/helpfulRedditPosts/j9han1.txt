@@ -1,0 +1,13 @@
+title:
+YSK: Stainless steel kitchen knives are designed mainly to be rust resistant and look nice, not to cut well. Carbon steel knives will hold a much better edge.
+
+content:
+Why YSK: Because cooking is safer, easier and more pleasant when you have a properly sharp knife. Cheap stainless steel chef's knives cannot get properly sharp because the edge bends over. Now, there are a lot of different kinds of stainless steel and premium stainless steel knives can be great. But if the cheap ones that 99% of people buy and use were mainly designed to look attractive to shoppers and be easy to clean - not to be a good knife. For a knife that can get "proper sharp" at a cheap price point, go to your local thrift store and look for an old mottled/dull grey cook's knife. It's probably made of carbon steel. It might only cost you $1. But you'll be able to get it literally razor sharp and upkeep is only slightly more involved.
+
+url:https://reddit.com/r/YouShouldKnow/comments/j9han1/
+author:ScissorNightRam
+subreddit:YouShouldKnow
+score:1267
+numComments:64
+isOver18:False
+hasPostBody:True

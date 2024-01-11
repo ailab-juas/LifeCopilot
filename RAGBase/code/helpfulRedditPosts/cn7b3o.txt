@@ -1,0 +1,13 @@
+title:
+LPT: If you apply for a job and are successful, keep a copy of the job advert somewhere. It can help with updating your cv at a later date.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/cn7b3o/
+author:shadowmoses__
+subreddit:LifeProTips
+score:31034
+numComments:383
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,15 @@
+title:
+LPT: Are you a California resident, quitting Twitter and deleting your account? You have the right to request that Twitter delete all personal data retained about you and your account.
+
+content:
+There’s a handy form for this here that will auto-draft the required email for you: https://yourdigitalrights.org/d/twitter.com
+
+More detail on Twitter’s obligations under the California Consumer Privacy Act (CCPA) here: https://oag.ca.gov/privacy/ccpa#:~:text=Businesses%20do%20not%20have%20to,your%20request%20through%20that%20account.
+
+url:https://reddit.com/r/LifeProTips/comments/z055o6/
+author:micharala
+subreddit:LifeProTips
+score:55498
+numComments:1413
+isOver18:False
+hasPostBody:True

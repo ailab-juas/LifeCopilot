@@ -1,0 +1,13 @@
+title:
+LPT: My Fridge Food shows you all of the different meals you can make with the random food you have sitting in your pantry/fridge.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/18qkmo/
+author:caphits
+subreddit:LifeProTips
+score:2022
+numComments:209
+isOver18:False
+hasPostBody:False

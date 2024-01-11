@@ -1,0 +1,17 @@
+title:
+YSK that if your phone mysteriously stops working, don't try to get into your bank account.
+
+content:
+Sorry for the lack of details, I'm trying not to dox myself.
+
+Long story short, someone convinced a cell phone carrier to port my phone number to a phone they owned without interacting with me. They then waited until I needed to pay bills, which based on the time of month was today. I signed in using 2 factor authentication in which they got the text message code instead of me. How they translated that code into access to my online bank account, I cannot explain, but neither could anyone at my bak or cell phone company, and I used to work for that bank, and before that, my cellphone company, and I can't either. I couldn't access my bills, because my cell phone stopped working, prompting me to think my sim card shit the bed, so I just used a different method. While I was paying my bills, some asshole siphoned off about a grand from my account. The bank is covering the thousand dollars and I am definitely losing my cellphone number, but it's a minor inconvenience compared to actually losing a thousand dollars. Given my employment past, I feel like I should know better and I'm pretty ashamed of it, but both my bank and my cellphone company have said this has gotten really popular in the last few weeks so I wanted to bring attention to the problem.
+
+TL;DR: if a banking related inconvenience seems like a perfect storm, stop what you're doing before you give up too much info.
+
+url:https://reddit.com/r/YouShouldKnow/comments/7n5sii/
+author:CraptainHammer
+subreddit:YouShouldKnow
+score:2446
+numComments:150
+isOver18:False
+hasPostBody:True

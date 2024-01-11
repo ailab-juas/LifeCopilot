@@ -1,0 +1,13 @@
+title:
+LPT: When buying a printer look up what the cheapest ink available on the market is first. Then find the printer than matches it. I did this with my printer 6 years ago. I've spent next to nothing on ink since.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/rohzh7/
+author:malilk
+subreddit:LifeProTips
+score:5829
+numComments:263
+isOver18:False
+hasPostBody:False

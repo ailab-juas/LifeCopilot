@@ -1,0 +1,21 @@
+title:
+YSK nearly all modern vending machines in the US have a guaranteed delivery system.
+
+content:
+I always see things stuck in the vending machine and it confuses me because vending machines have a guaranteed delivery system. 
+
+What guaranteed delivery system means:
+
+Vending machines have a sensor near the bottom flap that detects if your snack has fallen past. If the vending machine doesn't detect a fall, it will turn the wire again. If the snack still doesn't fall, it will just give you a refund and mark that number as out of order. I think it turns twice or three times before refunding. Sometimes if your snack gets stuck and you are patient, you can get an extra snack or two as the machine tries to "unclog."
+
+The one thing to realize is the access flap will activate the sensor, by design (meaning if you reach for your snack before it fell or push the flap open before your snack falls, the machine will assume you received your treat). It's meant to keep people from stealing snacks. So before you push your selection, make sure the access flap is closed. 
+
+I don't know about non-US vending machines or some older ones (like 15+ years old). 
+
+url:https://reddit.com/r/YouShouldKnow/comments/2x8e89/
+author:[deleted]
+subreddit:YouShouldKnow
+score:1645
+numComments:131
+isOver18:False
+hasPostBody:True

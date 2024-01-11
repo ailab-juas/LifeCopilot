@@ -1,0 +1,13 @@
+title:
+LPT: if you need to wake up early drink a glass of water before bed, if you need to wake up very early, drink 2
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/c45nzo/
+author:StrongBuffaloAss69
+subreddit:LifeProTips
+score:2329
+numComments:175
+isOver18:False
+hasPostBody:False

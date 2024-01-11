@@ -1,0 +1,13 @@
+title:
+LPT: Don’t delete old playlists if you can prevent it; years later you can listen and not only rediscover music you were into but also experience whatever emotion you had associated with your tunes at the time.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/b5zqiz/
+author:lucasb16
+subreddit:LifeProTips
+score:48999
+numComments:1251
+isOver18:False
+hasPostBody:False

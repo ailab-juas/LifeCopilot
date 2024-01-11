@@ -1,0 +1,13 @@
+title:
+LPT: When you mess up writing the date as xx/xx/20 the first bit of this year instead of erasing or scratching through it, just write 21 after the date xx/xx/2021.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ko615u/
+author:aserverinblack
+subreddit:LifeProTips
+score:38468
+numComments:698
+isOver18:False
+hasPostBody:False

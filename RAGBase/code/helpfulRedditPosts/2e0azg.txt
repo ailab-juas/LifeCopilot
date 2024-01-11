@@ -1,0 +1,13 @@
+title:
+YSK that when a shop is closed, it is very rude to try to come in. Don't bother employees or knock on the window once the 'Closed' sign has been flipped.
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/2e0azg/
+author:ilikemazdas
+subreddit:YouShouldKnow
+score:1142
+numComments:522
+isOver18:False
+hasPostBody:False

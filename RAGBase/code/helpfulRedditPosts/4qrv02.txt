@@ -1,0 +1,13 @@
+title:
+LPT: If you turn the light on while using the bathroom in the middle of the night, keep one eye closed. When you're done and you turn off the light, close that eye and open the other eye and you'll be able to see much better in the dark, as that eye will still be dark-adapted.
+
+content:
+It's the same theory for why pirates wore eye patches, and was proven by MythBusters. Link: http://mentalfloss.com/article/52493/why-did-pirates-wear-eye-patches 
+
+url:https://reddit.com/r/LifeProTips/comments/4qrv02/
+author:davelebies
+subreddit:LifeProTips
+score:3684
+numComments:692
+isOver18:False
+hasPostBody:True

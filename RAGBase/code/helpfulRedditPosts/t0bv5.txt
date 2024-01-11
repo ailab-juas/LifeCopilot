@@ -1,0 +1,13 @@
+title:
+LPT: How to get more out of Google
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/t0bv5/
+author:Xenoo
+subreddit:LifeProTips
+score:2996
+numComments:389
+isOver18:False
+hasPostBody:False

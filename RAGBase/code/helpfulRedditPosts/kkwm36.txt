@@ -1,0 +1,27 @@
+title:
+YSK two less talked about symptoms of ADHD are poor mood regulation and rejection sensitivity
+
+content:
+Why YSK: People with ADHD are more prone to extreme emotions. This is the result of poor executive function (a set of mental tools required to complete tasks). Many people are misdiagnosed with other mood disorders when in fact they have ADHD. This can lead to many years of incorrect treatment plans and/or worsening symptoms.
+
+https://youtu.be/jM3azhiOy5E
+
+Edit: This post is not meant to diagnose or provide professional advice for treatment. Please talk to your doctor/therapist if you feel you may have ADHD (which, yes, can be diagnosed in adulthood). Please keep in mind that I used the phrasing "prone to" because it is not clear if this is a causal relationship between ADHD and mood regulation. Some people theorize people with ADHD are rejected more in childhood and become especially defensive over time. Sometimes comorbidity is the culprit. It's okay for us to discuss this.
+
+Thank you so much for the awards and comments &lt;3 Hopefully this information sparks some curiosity and introspection. It personally helped me take more responsibility for the emotional aspects of my disorder, which I did not even realize might connected for a long time. I often took my feelings as fact, now I challenge myself to stop and think about it. Cognitive Behavioral Therapy has helped me a lot with this, just my experience.
+
+Quick note: a normal human experience becomes a disorder when it brings you to the point of dysfunction. Yes, no one likes rejection, but if even the slightest PERCEIVED SENSE of rejection uproots your life or sends you spiraling, resulting in toxic or self-sabotaging behaviors, it may be worth it to ask for help from a professional. 
+
+Lastly, nowhere in my original post do I advocate taking medication, so I don't know why people are going off on me about that. Not only is medication NOT the ONLY treatment method available, but not all ADHD medications are stimulants, and you do not have to take any medication you are not comfortable with. There is a lot of stigma attached to ADHD meds in particular, all you can do is educate yourself, sift through the facts and myths, and make an informed decision with the help of a professional. Good luck friends.
+
+Edit: Here is a link to a peer-reviewed journal article on the subject of ADHD and Emotional Dysregulation https://www.researchgate.net/publication/339894571_Emotion_dysregulation_in_adults_with_attention_deficit_hyperactivity_disorder_a_meta-analysis
+
+It should also be said that the term Rejection Sensitivity is not a diagnosis in and of itself, therefore it would not get its own code in the DSM-5. It is a cluster of symptoms that can occur in many different conditions, ADHD can be one of those conditions. Here is an article on it in Psychology Today: https://www.psychologytoday.com/us/blog/friendship-20/201907/what-is-rejection-sensitive-dysphoria
+
+url:https://reddit.com/r/YouShouldKnow/comments/kkwm36/
+author:uthinkubettahthanme
+subreddit:YouShouldKnow
+score:29731
+numComments:1389
+isOver18:False
+hasPostBody:True

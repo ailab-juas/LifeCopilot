@@ -1,0 +1,15 @@
+title:
+YSK: it is illegal for companies to prevent or prohibit you from talking about your pay and working conditions with coworkers
+
+content:
+It's common practice, but not legal in any sense, even if they have company policies. Also not legal to fire you for doing it. 
+
+Edit: This is referring to the US, but I encourage anyone else to look into laws in their countries. A lot of them have similar laws.
+
+url:https://reddit.com/r/YouShouldKnow/comments/h7z3lw/
+author:Saravaw
+subreddit:YouShouldKnow
+score:22752
+numComments:498
+isOver18:False
+hasPostBody:True

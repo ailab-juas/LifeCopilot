@@ -1,0 +1,13 @@
+title:
+LPT: If you work from home, use your computer to take a photo of your office area when it's spotlessly clean. By setting it as your Zoom background you can easily trick your coworkers into believing that you're a responsible adult.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/n02la8/
+author:analogHedgeHog
+subreddit:LifeProTips
+score:14044
+numComments:314
+isOver18:False
+hasPostBody:False

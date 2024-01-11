@@ -1,0 +1,13 @@
+title:
+[LPT] If you catch yourself fantasizing about going back in time and changing your life, instead imagine what your future self would say if you asked them: "What should I change today?"
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/8b7ea0/
+author:Lance_Makes
+subreddit:LifeProTips
+score:1057
+numComments:36
+isOver18:False
+hasPostBody:False

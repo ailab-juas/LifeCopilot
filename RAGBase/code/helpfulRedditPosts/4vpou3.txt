@@ -1,0 +1,13 @@
+title:
+LPT: If you are sent a Pages file by a person with a Mac but you are on a PC, simply change the extension from .pages to .zip and inside you will find a PDF version.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/4vpou3/
+author:DoritosAreQuiteNice
+subreddit:LifeProTips
+score:6185
+numComments:1104
+isOver18:False
+hasPostBody:False

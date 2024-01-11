@@ -1,0 +1,14 @@
+title:
+LPT: Found a useful Youtube video but no time to watch all of it? Click on the three circles underneath the video and hit 'Open transcript'.
+
+content:
+Discovered after thinking of transcripts as a software project idea and sadly realising it has already existed for god knows how long. 
+https://i.imgur.com/pnN6sBC.png
+
+url:https://reddit.com/r/LifeProTips/comments/9vixq5/
+author:FlyingKanga
+subreddit:LifeProTips
+score:10743
+numComments:262
+isOver18:False
+hasPostBody:True

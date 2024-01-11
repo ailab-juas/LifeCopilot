@@ -1,0 +1,13 @@
+title:
+LPT: If you are going to be working on or cleaning a lawn mower take the spark plug out. Spinning the blade with your hand could cause it to start.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/8smhlp/
+author:DaggerMoth
+subreddit:LifeProTips
+score:17023
+numComments:849
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,23 @@
+title:
+YSK Crunchyroll has been hacked and if you go there it will try to automatically download a Trojan into your PC.
+
+content:
+You can find the details of the situation here:
+
+
+https://www.reddit.com/r/anime/comments/7aq2s7/psa_dont_enter_crunchyrollcom_at_the_moment_it
+
+
+**Update:**
+
+The site has been restored.  Please see this thread for details and/or if you feel you're infected.
+
+https://www.reddit.com/r/anime/comments/7aq2s7/psa_dont_enter_crunchyrollcom_at_the_moment_it/dpbxm3p/
+
+url:https://reddit.com/r/YouShouldKnow/comments/7aqguf/
+author:FallenKnightGX
+subreddit:YouShouldKnow
+score:18875
+numComments:576
+isOver18:False
+hasPostBody:True

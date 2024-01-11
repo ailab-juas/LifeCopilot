@@ -1,0 +1,13 @@
+title:
+LPT: If you are scared, panicked, or anxious about current events, a good way to break that cycle is to take scheduled breaks from news and media, even if that break is an entire day.
+
+content:
+I am a general practitioner MD in the US.  I am managing exponentially more fear-based questions and requests than actual Covid-associated healthcare (thankfully!).  People are just looking for some semblance of control in a situation that is nearly impossible to control.  Stick with what you know about prevention (the one thing we have SOME control over), including social distancing, frequent handwashing, and avoiding touching your nose/mouth/eyes.  But for many, that is not enough .  People are genuinely scared for their lives.  There is general agreement in the Psychological and general medical community that news and media can become a negative for the psyche.  Take a breath, and take a break!
+
+url:https://reddit.com/r/LifeProTips/comments/fnrlll/
+author:Doc-in-a-box
+subreddit:LifeProTips
+score:29358
+numComments:784
+isOver18:False
+hasPostBody:True

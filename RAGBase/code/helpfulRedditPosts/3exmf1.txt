@@ -1,0 +1,21 @@
+title:
+LPT: Only use your .edu email for school-related business. The account (and all its mail) belongs to the school, and they can disable it at any time.
+
+content:
+Your .edu email address feels like it's yours, but it is property of your university. They can (and will) disable it (permanently, and without notice) in certain conditions. Mitigate the possible damage by not using it for any personal or professional business.       
+
+You can [set up a non-university .edu address](https://domains.live.com/members/signup.aspx?domain=live.shop.edu.cn) to keep getting student discounts online. Also, it's unprofessional to use an .edu address for professional communications, anyway.             
+
+All communications on my .edu account are gone forever, and any website that I used that address to sign up for, I'll need to re-register if I ever forget a password. Looking back, I wish I hadn't used it for anything that wasn't school-related.      
+
+
+*Edit: The unprofessional comment seems to have caused a stir. Using an .edu address when working in academia is obviously not what I'm talking about, and I'm also not advocating for anyone to go putting tinalovesbutts333@hotmail.com on their resumes.*
+
+
+url:https://reddit.com/r/LifeProTips/comments/3exmf1/
+author:choco-early
+subreddit:LifeProTips
+score:3925
+numComments:927
+isOver18:False
+hasPostBody:True

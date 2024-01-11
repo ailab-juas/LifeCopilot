@@ -1,0 +1,13 @@
+title:
+LPT: To all the pranksters: Don't make other people believe that they are in a life-threatening situation or that something terrible happened to you. Long after you forgot about your "prank" they might still be dealing with the psychological trauma you caused, even if it wasn't meant that way.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/dplc2l/
+author:ae_goalpilot
+subreddit:LifeProTips
+score:5682
+numComments:382
+isOver18:False
+hasPostBody:False

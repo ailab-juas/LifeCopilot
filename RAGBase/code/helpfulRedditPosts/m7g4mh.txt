@@ -1,0 +1,13 @@
+title:
+LPT: There will come a time in your life when it feels like you have no friends. The sooner you can learn to be alone without feeling lonely, the more survivable that time will be.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/m7g4mh/
+author:9oreos
+subreddit:LifeProTips
+score:50900
+numComments:1433
+isOver18:False
+hasPostBody:False

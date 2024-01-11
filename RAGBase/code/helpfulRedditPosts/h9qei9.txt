@@ -1,0 +1,13 @@
+title:
+LPT: Mix cayenne pepper in with your birdseed to prevent squirrels from eating it.
+
+content:
+Anyone who has a bird feeder has had to deal with the squirrels stealing the seeds. However, squirrels hate chile. Birds, on the other hand, can’t sense it at all and regularly eat chiles and pepper seeds in the wild. If you mix powdered cayenne with your birdseed, the birds won’t know the difference while the squirrels will avoid it like the plague.
+
+url:https://reddit.com/r/LifeProTips/comments/h9qei9/
+author:kaganey
+subreddit:LifeProTips
+score:3556
+numComments:194
+isOver18:False
+hasPostBody:True

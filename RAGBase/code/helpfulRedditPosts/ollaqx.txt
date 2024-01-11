@@ -1,0 +1,15 @@
+title:
+YSK bed bugs can live in electronics such as laptops and chromebooks
+
+content:
+Why YSK: If you're ever unfortunate enough to have bed bugs make sure you check your electronics, especially laptops. Also, if you get refurbished electronics, maybe check. This could be enough to stop an infestation or reinfestation. 
+
+Where I work requires that I clean used laptops. Recently I've come across a number of bed bug infested ones. They live inside on the motherboard and in the ports. In one case, it was so badly infested a bed bug had made its way into the headphone jack and filled it with eggs.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ollaqx/
+author:AcceptableShame0
+subreddit:YouShouldKnow
+score:1686
+numComments:114
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,18 @@
+title:
+YSK what labels to boycott if you're planning on actually boycotting Nestlé
+
+content:
+I see Nestlé horror stories on Reddit constantly and they really do have their hands in everything but knowing what brands to avoid can be tricky. This link contains most of the products under Nestle by country: 
+
+http://www.infactcanada.ca/nestle_boycott_product.htm
+
+EDIT: Here's bottled water specifically.
+https://www.nestle-watersna.com/en/bottled-water-brands
+
+url:https://reddit.com/r/YouShouldKnow/comments/cvthbv/
+author:ArchiveSQ
+subreddit:YouShouldKnow
+score:8409
+numComments:333
+isOver18:False
+hasPostBody:True

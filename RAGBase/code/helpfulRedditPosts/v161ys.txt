@@ -1,0 +1,13 @@
+title:
+YSK that there is a version of Windows 10 that comes without any ads, bloatware and spyware. It's called Windows 10 LTSC.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/YouShouldKnow/comments/v161ys/
+author:[deleted]
+subreddit:YouShouldKnow
+score:16870
+numComments:939
+isOver18:False
+hasPostBody:True

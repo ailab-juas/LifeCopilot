@@ -1,0 +1,26 @@
+title:
+LPT: The first time you open the hood of your car should not be when you've broken down on the side of the road.
+
+content:
+Wow, I'm incredibly amazed by the number of people who commented and upvoted.  Thanks!  I tried to reply to a ton of you and noticed a common theme.  Many people provide the following two comments:
+
+1.  What can you fix on the side of the road anyway?
+2.  Where can I learn more about my car?
+
+Answers:
+1.  You can pull debris out from under the engine compartment (could sound like a banging noise).  You could also patch punctures in a radiator tube and top off your radiator.  If your car blows a fuse (as apparent by maybe a radio that won't play, or air conditioning that stops, or in my case, the total loss of a digital dashboard) you could replace a fuse pretty easily.  Most critically, you can assess whether or not the car is safe to drive.
+
+2.a.  There are two main sources of literature I would highly recommend, the first is the Haynes Manuals.  They are well written and really geared at DIYers and people who are generally trying to take care of and fix their car.  I think they run about $20, but I usually get one off of eBay within a week of picking out the make/model/year of the car I'm looking for.  These manuals have been around since the 50s or 60s and are worth their weight in gold.  I can't tell you how much money Haynes has saved me.
+2.b.  The dealer/manufacturer Shop Manual.  These are much more expensive and in depth than the Haynes Manual.  A Shop Manual will be hundreds of dollars new, but pretty quickly it's pirated and you can get a disk on eBay.  If you need to do less conventional repairs (let's say your car flooded and you're trying to figure out the proper voltage in the wiring harness to the transmission, the Shop Manual would tell you specific voltage, while the Haynes Manual probably won't).
+
+I tried to be brief, but it expanded quite a bit.  Neither here nor there, I would HIGHLY ENCOURAGE anyone to try to fix their car.  Listen... the worst thing that happens is you tow it to a mechanic and he charges you to fix it anyway.
+
+Thank you again for your many responses and comments, I appreciate it.
+
+url:https://reddit.com/r/LifeProTips/comments/h8zgba/
+author:[deleted]
+subreddit:LifeProTips
+score:8145
+numComments:449
+isOver18:False
+hasPostBody:True

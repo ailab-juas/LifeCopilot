@@ -1,0 +1,13 @@
+title:
+LPT: if you want to donate to a food bank, give them money rather than goods.
+
+content:
+Food banks often have deals with grocers that allow them to purchase food for cheaper than retail price. So for the price of your one can of corn, for example, the food bank could buy 2 or more
+
+url:https://reddit.com/r/LifeProTips/comments/zizy28/
+author:calparadise
+subreddit:LifeProTips
+score:2477
+numComments:150
+isOver18:False
+hasPostBody:True

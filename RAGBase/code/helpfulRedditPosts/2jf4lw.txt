@@ -1,0 +1,13 @@
+title:
+YSK if you re-download the AlienBlue app you will be upgraded to pro for FREE.
+
+content:
+Just download from the app store. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/2jf4lw/
+author:Jeez_Louise_
+subreddit:YouShouldKnow
+score:1237
+numComments:164
+isOver18:False
+hasPostBody:True

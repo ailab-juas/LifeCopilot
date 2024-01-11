@@ -1,0 +1,13 @@
+title:
+LPT: Need to test a printer? Print the Google homepage - has all the colors, uses almost no ink.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1l7efz/
+author:zackofalltrades
+subreddit:LifeProTips
+score:1299
+numComments:84
+isOver18:False
+hasPostBody:False

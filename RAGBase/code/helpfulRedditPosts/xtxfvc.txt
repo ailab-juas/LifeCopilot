@@ -1,0 +1,13 @@
+title:
+LPT: If people pressure you to do something you don't want to, and you say "no" repeatedly, make sure you do NOT eventually cave in after much pestering. If you do so, you're conditioning them into thinking that all they have to do is badger you enough X times in the future and you will give in.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/xtxfvc/
+author:SteadfastEnd
+subreddit:LifeProTips
+score:1200
+numComments:40
+isOver18:False
+hasPostBody:False

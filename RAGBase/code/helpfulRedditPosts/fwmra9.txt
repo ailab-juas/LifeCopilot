@@ -1,0 +1,13 @@
+title:
+LPT: don't post same photos on social media and dating sites. Make new photos just for dating sites so that people can't reverse image search you and try to contact you on social media.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/fwmra9/
+author:Edensy
+subreddit:LifeProTips
+score:10240
+numComments:234
+isOver18:False
+hasPostBody:False

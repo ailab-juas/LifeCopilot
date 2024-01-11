@@ -1,0 +1,13 @@
+title:
+YSK: if you have Hey Siri turned on you can say set a timer for 1 second. This will ring loud regardless of volume settings. Much better than asking Siri where are you. I saw the other post had a lot of popularity earlier today and think this solution is much better.
+
+content:
+Why YSK: I saw the popular post today and thing my solution is much better because it’s way louder and works regardless of volume or silent mode.
+
+url:https://reddit.com/r/YouShouldKnow/comments/yel26r/
+author:bigflagellum
+subreddit:YouShouldKnow
+score:6932
+numComments:153
+isOver18:False
+hasPostBody:True

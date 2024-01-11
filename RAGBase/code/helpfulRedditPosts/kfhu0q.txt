@@ -1,0 +1,15 @@
+title:
+LPT: Delete or empty your inactive PayPal accounts, since they started charging "inactive account service fee"
+
+content:
+I  do not want to comment on how I feel about that, but important thing is  that if your account is empty they will not take your money from the credit card, only if  you have some balance left.
+
+*The  fee won’t be applied to those who have a zero  balance, where there is a  credit or debit card linked to the account.  PayPal says will only take  the fee from the balance and not from a  linked card or a bank account.*
+
+url:https://reddit.com/r/LifeProTips/comments/kfhu0q/
+author:Z01dbrg
+subreddit:LifeProTips
+score:29780
+numComments:843
+isOver18:False
+hasPostBody:True

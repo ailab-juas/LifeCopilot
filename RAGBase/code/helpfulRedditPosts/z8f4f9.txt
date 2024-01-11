@@ -1,0 +1,13 @@
+title:
+LPT: You are not worth anything if you are not in the right place. If you are not appreciated, do not be angry, that means you are in the wrong place. Don't stay in a place where no one sees your value.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/z8f4f9/
+author:Barry-McKocinue
+subreddit:LifeProTips
+score:4166
+numComments:105
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: Use books to raise monitor? Use strips of paper for cable management.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1466ie/
+author:gtlloyd
+subreddit:LifeProTips
+score:2301
+numComments:149
+isOver18:False
+hasPostBody:False

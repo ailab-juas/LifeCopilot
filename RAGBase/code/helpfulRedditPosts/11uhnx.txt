@@ -1,0 +1,13 @@
+title:
+A new way to tie your shoes: strong as a double knot, unties like a single knot. The Turquoise Turtle.
+
+content:
+http://www.fieggen.com/shoelace/turquoiseturtleknot.htm
+
+url:https://reddit.com/r/LifeProTips/comments/11uhnx/
+author:docandersonn
+subreddit:LifeProTips
+score:1674
+numComments:256
+isOver18:False
+hasPostBody:True

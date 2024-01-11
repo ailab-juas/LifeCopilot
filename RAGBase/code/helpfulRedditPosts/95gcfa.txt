@@ -1,0 +1,17 @@
+title:
+LPT: When buying a car, set a reminder for a little while before the warranty expires. Then have a trusted mechanic inspect it carefully at that time so you can go to the dealer and have any lurking mechanical problems fixed before you stop being covered.
+
+content:
+Little things like corroded battery terminals can often go unnoticed until they cause worse problems. You want to get those fixed under warranty if you can or else you'll have to pay much more expensive repairs yourself later.
+
+edit: "trusted mechanic" can include your dealer themselves
+
+edit 2: RIP inbox, it's been real, turning off notifications for this post, thanks for popping my r/all cherry
+
+url:https://reddit.com/r/LifeProTips/comments/95gcfa/
+author:sudo999
+subreddit:LifeProTips
+score:26709
+numComments:671
+isOver18:False
+hasPostBody:True

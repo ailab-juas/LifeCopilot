@@ -1,0 +1,15 @@
+title:
+LPT: When meeting someone for the first time, try and use their name as early as possible; eg, 'Nice to meet you, [Name]'. You'll have a greater chance at recalling their name and will feel more confident in addressing them, thereby earning their respect.
+
+content:
+I know it sounds like a no-brainer but I see this happen all the time and I've certainly experienced immediately forgetting a name I was only just given.
+The only thing worse than saying 'I'm sorry, what was your name again?' is having someone say it to you.
+People like hearing their own name, especially from someone they've just met. Make a habit of saying their name in subsequent sentences and you won't go wrong.
+
+url:https://reddit.com/r/LifeProTips/comments/6dn2bl/
+author:whombelltolls
+subreddit:LifeProTips
+score:22077
+numComments:697
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,21 @@
+title:
+YSK Why cashiers ask for your zip code
+
+content:
+Your full name, credit card brand, and zip code combined can almost always be linked to an existing profile. It's much more difficult without the zip code. That profile aggregates and makes predictions based on your buying history at any store it can link you to.
+
+I work for a company which recently bought a large data set covering the US. Almost all of the data is made possible by people giving out their zip codes. 15% of US residents lie low enough to be absent from the database entirely. We have full names, addresses, phone numbers, and work history for everybody else. For the vast majority we have complete buying habits, interests, names/ages/interests of children, favorite color, any and all sports played, income, net worth, numbers and types of pets, preferred foods, ethnicity, religion, marriages, sexual orientation, political leanings, voting likelihood, hobbies, whether or not you have a garden, the color of your car, how big your house is, how much your house cost when you bought it, how much it's worth now, your mortgage interest rate, the amount you've got left to pay on it, whether or not you're likely to default on that mortgage, how much debt you have, your potential willingness to purchase a mail order bride, and a TON of other stuff.
+
+When they ask for your zip code, give them a fake.
+
+Edits for clarity:
+
+Yes, sometimes gas pumps ask for you zip to verify that it's your card. Yes, some stores ask for your zip code for other reasons. Not all businesses do this. In fact, it's pretty much just major box store chains. No, I won't look up your ex, stop PMing me asking me to look up your ex. I won't look you up either. I gave one guy proof, he might post about it if he's so inclined.
+
+url:https://reddit.com/r/YouShouldKnow/comments/28lj72/
+author:[deleted]
+subreddit:YouShouldKnow
+score:1368
+numComments:390
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT :Sign your signature in blue ink so that you distinguish an original document from a copy
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/8q8bca/
+author:[deleted]
+subreddit:LifeProTips
+score:20087
+numComments:627
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+YSK Android users can get Google Play credit for completing surveys in the "Google Opinion Rewards" app
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/2o1rzf/
+author:kdogg8
+subreddit:YouShouldKnow
+score:1565
+numComments:267
+isOver18:False
+hasPostBody:False

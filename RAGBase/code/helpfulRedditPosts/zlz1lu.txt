@@ -1,0 +1,46 @@
+title:
+YSK: “Call Before You Dig” is a free service available nationwide in the US and can be accessed by calling 811. Do not do any digging or excavation work before calling that number.
+
+content:
+Why YSK: Below the surface of our housing developments and streets is a vast network of various pipes, wires and other utilities. You need to know their locations before doing any sort of digging, but especially if you dig any holes or trenches deeper than 12”. 
+
+When you call 811 you tap into the network of all the major service and utility providers in your area that will help you track down where those wires and pipes are located. The process is very straightforward. Call 811 and provide the address/location for your excavation project. Use white paint to mark the area you will be digging in on your property. Utility companies will send someone over to mark the locations of their infrastructure using spray paint. In most places the service takes about 48-72h so plan accordingly. 
+
+Different colors are used to denote different utilities. 
+
+Red: Electrical 
+
+Orange: Telecommunications (phone, internet, alarm etc)
+
+Yellow: Natural gas, petroleum, oil, or other flammable liquids and gases. 
+
+Green: Sewer, storm water drains
+
+Blue: Potable (drinking) water
+
+Purple: Reclaimed water lines (irrigation etc)
+
+These colors are standard in the US but may be different in other countries.
+
+•Canada does not have a central phone number for locating underground utilities, but they do have location-specific numbers you can call for same service.
+
+This is a list of those numbers:
+
+https://call811.com/811-In-Your-State/Canada
+
+•”Dial Before You Dig”Provides a similar service in Australia: https://www.byda.com.au/
+
+• “National One Call” Provides a similar service in the UK: https://www.national-one-call.co.uk/
+
+Accidentally damaging underground utilities can be very dangerous. Be smart and plan ahead.
+
+
+[Thank You, u/banana_hammock_815 for adding additional information and context.](https://www.reddit.com/r/YouShouldKnow/comments/zlz1lu/ysk_call_before_you_dig_is_a_free_service/j0997a0/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf&amp;context=3)
+
+url:https://reddit.com/r/YouShouldKnow/comments/zlz1lu/
+author:BruceInc
+subreddit:YouShouldKnow
+score:12559
+numComments:370
+isOver18:False
+hasPostBody:True

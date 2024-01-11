@@ -1,0 +1,21 @@
+title:
+YSK that as of August 2014 cell service providers can no longer prevent you from unlocking your phone
+
+content:
+The "Unlocking Consumer Choice and Wireless Competition Act " (S. 517) overturns the Library of Congress' attempts to prevent phone unlocking under the DMCA. Whereas in the past carriers could make it nearly impossible to unlock a cell phone, it is now much easier to do so. AT&amp;T, for example, provides [an online form for you to request your phone's unlock code](https://www.att.com/deviceunlock/). 
+
+More info:
+
+https://www.govtrack.us/congress/bills/113/s517/text
+
+http://www.cnet.com/news/president-signs-cell-phone-unlocking-bill-into-law/
+
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/2v7bhh/
+author:ensoul
+subreddit:YouShouldKnow
+score:1060
+numComments:66
+isOver18:False
+hasPostBody:True

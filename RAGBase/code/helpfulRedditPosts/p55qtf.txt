@@ -1,0 +1,13 @@
+title:
+LPT: Surround yourself with things that you find aesthetically pleasing. Over the last few decades, more and more studies have found that surroundings that are actually aesthetically pleasing to us can help improve our well-being, behaviour, cognitive function and mood.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/p55qtf/
+author:GiveMeKFC
+subreddit:LifeProTips
+score:5299
+numComments:127
+isOver18:False
+hasPostBody:False

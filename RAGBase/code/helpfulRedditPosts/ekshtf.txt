@@ -1,0 +1,15 @@
+title:
+LPT: You can access most MIT courses for free online
+
+content:
+[https://ocw.mit.edu/index.htm](https://ocw.mit.edu/index.htm)
+
+They have high quality courses on everything from business to computer science, complete with notes and video lectures, FOR FREE.
+
+url:https://reddit.com/r/LifeProTips/comments/ekshtf/
+author:RocketRambo
+subreddit:LifeProTips
+score:38858
+numComments:677
+isOver18:False
+hasPostBody:True

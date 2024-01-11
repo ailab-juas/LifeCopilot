@@ -1,0 +1,14 @@
+title:
+YSK that if you have a power cut in the UK, always call 105 before calling your supplier.
+
+content:
+Your supplier likely doesn't supply your neighbours so doesn't know if the issue affects just you or a wider area.
+Calling 105 will put you through to the company that manages the wiring in your region and will be able to see if there is a genuine power cut or of it is just your property.
+
+url:https://reddit.com/r/YouShouldKnow/comments/6a1a4m/
+author:Uncharted_Nugatory
+subreddit:YouShouldKnow
+score:1737
+numComments:144
+isOver18:False
+hasPostBody:True

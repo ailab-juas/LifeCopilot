@@ -1,0 +1,29 @@
+title:
+LPT add thermal mass to your refrigerator to save on energy costs
+
+content:
+After getting called out by a couple house guests I thought i'd offer this tip to folks headed into winter where in some regions energy reduction is mandated and not everyone has access to energy star/similar low cost appliances to keep food cold efficiently.
+
+Your refrigerator can use a ton of energy depending on how you use it, where more door openings results in more work for the fridge to do, and more energy consumed to achieve its temp set point.
+
+If you keep a somewhat empty fridge like I do, only food for a weeks cooking + condiments, you should consider adding thermal mass in the form of water to the typically empty space in your fridge.
+
+I drink a lot of cold brew in the summer, and over the years have accumulated many half gallon jars as a result.  Filling these jars with water (resistant to temp change) and letting them live rent free in the fridge means that less of the void space is filling with fresh air \~68 degrees every time I open the door.
+
+If you can safely store water in your fridge via containers/jars/bottles you can ensure a lower energy consumption in this way.  While the gains are not astronomical, they are in line with some estimates for Europe for example where a reduction in energy usage per household only need drop 10-20% depending on impacts from Russia's war in Ukraine.
+
+Edit1:  Lots of good comments and questions so we should clarify some things!  I can't seem to link users but there are a lot of good comments in here floating to the top.
+
+Cooling warm/room temp water takes a lot of energy, it's important to store already cool water, whether from your well or sewer \~55 or 65F, or take advantage of naturally cold and free air outside.  Adding a bunch of water to the fridge all at once will also push the fridge to work hard and consume a lot of energy.
+
+Energy costs are likely to continue increasing, so you could reason that costs now to cool water for stowage will be less than the energy to cool without it in the future, but I don't want to crunch those numbers.  Just avoid putting warm water in the fridge.
+
+Also folks are right to call out the power outage case, where a fridge full of water, or freezer of ice, will stay cooler for longer.  With energy costs going up, and nations like Germany mentioning possible grid blackouts it makes more sense to do this.
+
+url:https://reddit.com/r/LifeProTips/comments/yx11b6/
+author:russiansareorcs
+subreddit:LifeProTips
+score:3360
+numComments:166
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+YSK: You don't need to point your phone screen at the PIN pad when using it to pay for things.
+
+content:
+Why YSK: Tap-to-pay is wireless, so pointing the screen away from you means you can't tell what your phone is doing. I've seen a lot of people of varying ages are still not used to NFC (near field communication) technology and wanted to clarify something.
+
+Also YSK: After you tap, you don't have to hold it there like it's a chip card. When you get a confirmation chime, it means it's done, you can put your card or phone away.
+
+url:https://reddit.com/r/YouShouldKnow/comments/suummb/
+author:Bigred2989-
+subreddit:YouShouldKnow
+score:6121
+numComments:341
+isOver18:False
+hasPostBody:True

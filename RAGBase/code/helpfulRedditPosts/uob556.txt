@@ -1,0 +1,44 @@
+title:
+YSK the morning after pill is NOT the abortion pill
+
+content:
+Why YSK: because abortion rights are about to evaporate in a lot of states. 
+
+
+Trigger warning: miscarriages and abortion
+
+
+I’ve seen a lot of news media lately about “the abortion pill” being referred to in the same breath as “the morning after pill”. These are completely different things. Lots of older folks also don’t know the difference, so I’ll lay it out:
+
+
+Emergency contraceptives:
+
+
+The morning after pill comes in a couple of options: an otc mega shot of progesterone or a prescription pill of something like ulipristal acetate. The former is plan b and is generally effective for 3 days post intercourse and less effective days 4-5, and is much less effective for patients weighing more (edit, patients over 155lbs or 70kg, thanks to top comment). It works by delivering progesterone and delaying ovulation.
+
+
+The latter ulipristal pill is more effective and consistently effective for 5 days post intercourse. You can also get a copper or 52mg levonorgestrel iud as emergency contraception within 5 days of intercourse
+
+
+The abortion pill(s):
+
+
+The medication abortion is a combination of two medications. Mifepristone ends the pregnancy by blocking hormones that continue the pregnancy, causing shedding of the uterine lining similar to a super heavy period. (Menses begin as a result of a drop in progesterone) Misoprostol is taken in tandem to relax the cervix and allow the tissue to pass more easily. The MAB involves a day or two of very significant cramping and bleeding. It is more effective early on in pregnancy until 10-12 weeks. 
+
+
+I am not a doctor. I work for a reproductive health clinic. 
+
+
+TLDR the abortion pill is not the morning after pill
+
+[Wikipedia on mifepristone](https://en.m.wikipedia.org/wiki/Mifepristone)
+
+[and misoprostal](https://en.m.wikipedia.org/wiki/Misoprostol)
+
+url:https://reddit.com/r/YouShouldKnow/comments/uob556/
+author:megapoopsforever
+subreddit:YouShouldKnow
+score:4152
+numComments:182
+isOver18:False
+hasPostBody:True

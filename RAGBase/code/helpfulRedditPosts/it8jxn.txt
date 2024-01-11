@@ -1,0 +1,13 @@
+title:
+YSK Call centers can hear everything you say when they put you "on hold"
+
+content:
+Why YSK: Be careful what you say when a call centre puts you on hold – they could still be listening. When you are on hold on a recorded line, you are still being recorded. Watch what you say.
+
+url:https://reddit.com/r/YouShouldKnow/comments/it8jxn/
+author:xnawi
+subreddit:YouShouldKnow
+score:14378
+numComments:519
+isOver18:False
+hasPostBody:True

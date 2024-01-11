@@ -1,0 +1,17 @@
+title:
+YSK The abbreviation "e.g." is short for 'exempli gratia' and is used to mean "for example." The abbreviation "i.e." is short for 'id est' and is used to mean "that is to say."
+
+content:
+These abbreviations are commonly misused interchangeably, but they mean different things. Mnemonic devices to help keep them straight: 
+
+*e.g.* = "example given"
+
+*i.e.* = "in essence"
+
+url:https://reddit.com/r/YouShouldKnow/comments/2aie1k/
+author:jaskmackey
+subreddit:YouShouldKnow
+score:4166
+numComments:316
+isOver18:False
+hasPostBody:True

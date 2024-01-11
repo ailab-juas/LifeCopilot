@@ -1,0 +1,15 @@
+title:
+LPT: Turn the sound on your TV to 'night mode' (sometimes called dynamic range compression).
+
+content:
+This normalises the sound, so you don't get parts which are much louder, like explosions, or quieter like dialogue. 
+
+That means you'll be able to hear everything without worrying about waking people up. The idea is the more constant sound is less disturbing.
+
+url:https://reddit.com/r/LifeProTips/comments/jpy3l0/
+author:taxbitch
+subreddit:LifeProTips
+score:4201
+numComments:152
+isOver18:False
+hasPostBody:True

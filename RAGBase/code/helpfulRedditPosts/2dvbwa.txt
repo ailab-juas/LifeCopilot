@@ -1,0 +1,24 @@
+title:
+YSK that you can turn any YouTube video anto a GIF by just adding “GIF” to the URL
+
+content:
+Want to turn something on YouTube into a GIF, but don’t want to futz with downloading third-party apps or digging around for an online converter?
+
+Here’s a handy, easy to remember trick: just add “GIF” to the beginning of the URL. After “www.” and before “youtube.com”
+
+So, for example, you’d turn:
+www.youtube.com/watch?v=dQw4w9WgXcQ
+
+into:
+
+www.gifyoutube.com/watch?v=dQw4w9WgXcQ
+
+and hit enter.
+
+url:https://reddit.com/r/YouShouldKnow/comments/2dvbwa/
+author:dre10g
+subreddit:YouShouldKnow
+score:1598
+numComments:114
+isOver18:False
+hasPostBody:True

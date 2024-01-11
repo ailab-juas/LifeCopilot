@@ -1,0 +1,15 @@
+title:
+LPT: If your check engine light comes on, go to an auto parts store to have them get the check engine code(s) for free. Once you have the code(s), check online at nhtsa.gov to see if your car has any recalls which match the code(s)/description of the problem. If so, the repair will be free.
+
+content:
+I just had this exact scenario unfold. My truck’s check engine light came on and I went to O’Reilly’s to get the codes because they do it for free. Once I got the codes and the printout descriptions of possible causes, I googled it and found the likely scenario for my make and model. I checked recalls for my truck and lo and behold there it was. The local dealership is fixing it tomorrow! 
+
+Many people probably would have taken the car to the mechanic to have it fixed. In this case, that would have cost me over $700! 
+
+url:https://reddit.com/r/LifeProTips/comments/8vsf3s/
+author:RunawaySlav
+subreddit:LifeProTips
+score:1248
+numComments:85
+isOver18:False
+hasPostBody:True

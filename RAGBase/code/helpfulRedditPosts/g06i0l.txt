@@ -1,0 +1,13 @@
+title:
+LPT: make it a habit to delete your account from applications before uninstalling them from your phone
+
+content:
+Am not going to give you a lecture how precious your time, attention and privacy is, if you stopped using app or website make it a habit to delete your account from their platform before leaving, will let you avoid a lot of spam, security risks and privacy concerns.
+
+url:https://reddit.com/r/LifeProTips/comments/g06i0l/
+author:oxid111
+subreddit:LifeProTips
+score:22745
+numComments:418
+isOver18:False
+hasPostBody:True

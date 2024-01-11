@@ -1,0 +1,13 @@
+title:
+LPT: always keep a first aid app in your phone, you could potentially save a life. The International Federation of Red Cross provides one for free. Be prepared, you could be someone’s only hope.
+
+content:
+I was watching a movie last weekend and a girl in the front rows had a seizure. It was my first time after graduating in which I faced the “is there a doctor?!” situation. I was at the very top of the theatre so, before rushing there to help, I could see everyone was paralyzed watching her. Seizures, like a lot of other conditions, require a really basic assistance that can be done by potentially everyone. Those apps let you select the symptoms and guide you through the optimal intervention in a matter of seconds.
+
+url:https://reddit.com/r/LifeProTips/comments/eh5bhb/
+author:SimplePhysician
+subreddit:LifeProTips
+score:4578
+numComments:317
+isOver18:False
+hasPostBody:True

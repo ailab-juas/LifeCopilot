@@ -1,0 +1,15 @@
+title:
+YSK: You can sign-up for free with the US Postal Service to get an email every morning that will show you the scanned images of everything you'll be receiving in your mailbox that day. It's called Informed Delivery, and can help eliminate "mailbox anxiety".
+
+content:
+This service is great and very few people know about it. It really helps when you're expecting that important letter or don't want to make a trip to a distant community mailbox unless it's necessary.
+
+[Informed Delivery ](https://informeddelivery.usps.com/box/pages/intro/start.action)
+
+url:https://reddit.com/r/YouShouldKnow/comments/fxtqkz/
+author:The_Real_Snarktopus
+subreddit:YouShouldKnow
+score:25670
+numComments:734
+isOver18:False
+hasPostBody:True

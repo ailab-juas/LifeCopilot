@@ -1,0 +1,15 @@
+title:
+LPT: When replying to an email, address the recipient with the name they signed off their email with. That's most likely what they want to be called, and it shows that you've actually read what they wrote.
+
+content:
+Someone who signs their email "Becky" probably prefers that over being called "Rebecca", even if that might be the name in their official email address. It just shows you actually read their email to the end and paid attention to the details.
+
+EDIT: This might not apply to more formal emails or where someone signs off with first and last name, not as obvious so going more formal might be more appropriate. But if they sign off with just a first name, that's probably fine to use. Usually when I sign just my first name I don't want people to keep calling me "Dear Ms Grinsekaetzle...!"
+
+url:https://reddit.com/r/LifeProTips/comments/hqd8p7/
+author:grinsekaetzle
+subreddit:LifeProTips
+score:28416
+numComments:849
+isOver18:False
+hasPostBody:True

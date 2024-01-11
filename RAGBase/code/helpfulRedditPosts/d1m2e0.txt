@@ -1,0 +1,13 @@
+title:
+YSK Google provides an account "self-destruct" feature buried in the account settings called "Inactive Account Manager". This feature would allow after a certain time frame of account inactivity, to have all of its data deleted.
+
+content:
+While hunting on how to turn off a Google Chrome feature that I dont find super secure, I came across Google's [Inactive Account Manager](https://myaccount.google.com/inactive) (this is a link to the Support page for this feature). I know people always joke about what happens to their browser history when they die, well now you have an option to share that information (Or dont) with someone you love (Or not love) and then have that data removed from existence (though if you share it, its probably going to live on forever).
+
+url:https://reddit.com/r/YouShouldKnow/comments/d1m2e0/
+author:Ghost_Snare
+subreddit:YouShouldKnow
+score:10623
+numComments:132
+isOver18:False
+hasPostBody:True

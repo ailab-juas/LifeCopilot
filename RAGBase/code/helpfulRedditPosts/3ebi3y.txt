@@ -1,0 +1,17 @@
+title:
+LPT: Word crashed on you? Here's how to recover your work under 10 seconds.
+
+content:
+Open Word again, click File -&gt; Info -&gt; Manage Versions -&gt; Recover Unsaved Documents
+
+edit: LOL FRONT PAGE I thank Vedu and Maxim and G for raising me.
+
+edit2: Thank you kind one for the gold, le fedora tip.
+
+url:https://reddit.com/r/LifeProTips/comments/3ebi3y/
+author:HeliosHype
+subreddit:LifeProTips
+score:2513
+numComments:206
+isOver18:False
+hasPostBody:True

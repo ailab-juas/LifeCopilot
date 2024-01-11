@@ -1,0 +1,13 @@
+title:
+YSK it's nobodies responsibility to "fix you", you have to do that yourself
+
+content:
+[deleted]
+
+url:https://reddit.com/r/YouShouldKnow/comments/i8bxdh/
+author:[deleted]
+subreddit:YouShouldKnow
+score:11519
+numComments:381
+isOver18:False
+hasPostBody:True

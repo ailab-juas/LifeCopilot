@@ -1,0 +1,13 @@
+title:
+LPT: If the grocery store is out of water/food/first aid in an impending emergency, try an office supply store
+
+content:
+I learned this living in Florida.  Grocery stores would run out of water at the first notification that a hurricane was coming.  However, office supply stores were always fully stocked because no one thought to go there.  You obviously can't get any real meals there, but they have cases of bottled water, office first aid kits, and non-perishable snacks (nuts, beef jerkey, trail mix) that will definitely get you through.
+
+url:https://reddit.com/r/LifeProTips/comments/2ena2q/
+author:Frankenberry1
+subreddit:LifeProTips
+score:2854
+numComments:596
+isOver18:False
+hasPostBody:True

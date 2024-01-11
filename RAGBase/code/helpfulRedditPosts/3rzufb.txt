@@ -1,0 +1,15 @@
+title:
+LPT: Print and save to not ruin your laundry
+
+content:
+Laundry is confusing. And the little symbols never made sense to me, however by printing this chart you can always have it handy by the washer and dryer so your laundry lasts longer with proper care.
+
+[Laundry cheat sheet](http://imgur.com/ah3K9vk)
+
+url:https://reddit.com/r/LifeProTips/comments/3rzufb/
+author:Benjaminsen
+subreddit:LifeProTips
+score:4388
+numComments:737
+isOver18:False
+hasPostBody:True

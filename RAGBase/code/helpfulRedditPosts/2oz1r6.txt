@@ -1,0 +1,15 @@
+title:
+YSK there's a website that lets you read free copies of magazines, sortable by category (such as "computers")
+
+content:
+[Link.](http://magastack.com/category/computers-digital)
+
+Thought you might appreciate this.
+
+url:https://reddit.com/r/YouShouldKnow/comments/2oz1r6/
+author:hackmebaby
+subreddit:YouShouldKnow
+score:2066
+numComments:107
+isOver18:False
+hasPostBody:True

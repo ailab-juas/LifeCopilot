@@ -1,0 +1,13 @@
+title:
+LPT: Create a LinkedIn when you aren't looking for a Job
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/32zkkk/
+author:rationalrule
+subreddit:LifeProTips
+score:1824
+numComments:342
+isOver18:False
+hasPostBody:False

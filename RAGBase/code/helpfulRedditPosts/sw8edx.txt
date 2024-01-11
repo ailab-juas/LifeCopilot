@@ -1,0 +1,13 @@
+title:
+LPT: Don't argue with people on the internet. People tend to be more defensive of their opinions and much more aggressive with their words. It will waste your time and make you have a bad mood.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/sw8edx/
+author:Leoz_13
+subreddit:LifeProTips
+score:1640
+numComments:163
+isOver18:False
+hasPostBody:False

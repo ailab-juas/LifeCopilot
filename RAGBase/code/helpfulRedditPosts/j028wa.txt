@@ -1,0 +1,15 @@
+title:
+YSK Yielding the right-of-way at a four-way stop isn't "nice"; you're disrupting the flow of traffic.
+
+content:
+Why YSK: Your intentions are probably kindly but the quickest, most efficient, and above all SAFEST way to process traffic through a multi-way stop sign is for people to take their right of way, in the order that they arrive at the stop. Waving people through to be friendly or because you aren't sure if it's your turn throws a giant wad of uncertainty into a rigidly mechanical and very safe system of prioritizing traffic. Pay attention and know whether it's your turn, and be friendly on social media or at the park.
+
+Bonus tip: if you arrive simultaneously with someone who is crossing the intersection against your path, you can remember who has the right-of-way with this mnemonic: the person on the RIGHT has the right of way.
+
+url:https://reddit.com/r/YouShouldKnow/comments/j028wa/
+author:coloradoconvict
+subreddit:YouShouldKnow
+score:45507
+numComments:1695
+isOver18:False
+hasPostBody:True

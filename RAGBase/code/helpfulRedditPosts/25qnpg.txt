@@ -1,0 +1,13 @@
+title:
+LPT: There's four things you need to keep your room clean: a hamper, a trashcan, a coin jar, and a file holder
+
+content:
+If you don't have a place to put things, sooner or later they are going on the floor, or a random pile. If your room is a mess right now, look around, I guarantee the mess consists of 90% garbage, clothes, papers, and coins. The only big mess-maker this doesn't handle is dirty dishes.
+
+url:https://reddit.com/r/LifeProTips/comments/25qnpg/
+author:MKorostoff
+subreddit:LifeProTips
+score:2709
+numComments:562
+isOver18:False
+hasPostBody:True

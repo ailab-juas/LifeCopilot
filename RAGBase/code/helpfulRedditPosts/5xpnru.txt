@@ -1,0 +1,13 @@
+title:
+LPT: If you like someone's outfit/shoes/hair/eyes/smile/etc. it is completely free and only takes a matter of seconds to let them know, and it could potentially turn around someone's bad day.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5xpnru/
+author:SLynch0000
+subreddit:LifeProTips
+score:1234
+numComments:112
+isOver18:False
+hasPostBody:False

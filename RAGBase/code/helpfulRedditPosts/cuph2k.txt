@@ -1,0 +1,13 @@
+title:
+LPT: If you want to learn another language, watch children’s shows in that language to pick up on it quicker.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/cuph2k/
+author:-slickset-
+subreddit:LifeProTips
+score:37271
+numComments:1225
+isOver18:False
+hasPostBody:False

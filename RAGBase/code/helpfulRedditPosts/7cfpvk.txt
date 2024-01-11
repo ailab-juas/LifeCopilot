@@ -1,0 +1,13 @@
+title:
+YSK there is a simplified version of Wikipedia that condenses the main points into simple english.
+
+content:
+It's at https://simple.wikipedia.org and has the main points of most articles from the regular Wikipedia site, so it's good for revising points or saving time.
+
+url:https://reddit.com/r/YouShouldKnow/comments/7cfpvk/
+author:JustAnotherMemeboi
+subreddit:YouShouldKnow
+score:3897
+numComments:105
+isOver18:False
+hasPostBody:True

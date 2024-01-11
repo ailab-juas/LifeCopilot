@@ -1,0 +1,15 @@
+title:
+LPT: Fill out your emergency contact info on your iPhone
+
+content:
+I was in a bad car accident in January, and I’m pretty sure this is the only way the hospital was able to contact my mother, whose number I never had memorized. I had a brain bleed from a concussion, was in icu for a liver laceration, had a fractured sternum, facial lacerations, etc. I really had no clue what happened that night, let alone who to contact or how to contact anyone. I’m pretty sure the only reason my mother came to the hospital right away was because of the emergency contact in my iphone. All you have to do is go to the “Health” app. Then click on “Review Medical ID Access”. Then scroll down to “Add emergency contact”. It’s a simple thing that can make your life a little better, if a worst case scenario, god forbid, ever happens.
+
+Edit: Not limited to iPhones. I just learned Androids offer a similar service.
+
+url:https://reddit.com/r/LifeProTips/comments/il2ey8/
+author:mysweetvulture
+subreddit:LifeProTips
+score:23894
+numComments:875
+isOver18:False
+hasPostBody:True

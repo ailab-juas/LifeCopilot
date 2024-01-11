@@ -1,0 +1,13 @@
+title:
+As it turns out, a box cutter works amazingly well for cutting uncooked frozen pizzas in half for single meals. Just flip over and cut through the crust.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/17y9a1/
+author:cocainevolcano
+subreddit:LifeProTips
+score:1850
+numComments:472
+isOver18:False
+hasPostBody:False

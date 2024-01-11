@@ -1,0 +1,52 @@
+title:
+YSK: Psychiatric acute inpatient isn't focused on mental health, it's about safety
+
+content:
+Why YSK: Many individuals and their family members are under the misconception that when in inpatient, that it's focus is changing the problematic mood/MH/behavior problems. Inpatient acute care is there to keep you safe during a crisis situation and stabilize to baseline functioning. It is a short term length of stay. Our hospital's average length of stay is about 3-5 days. Inpatient is what I would call a reactionary treatment more than preventative treatment.
+
+When should you bring an individual to the ER? Concerns of harm to self, harm to others, suicide thoughts or attempts and psychosis.  The individual will be assessed by a licensed therapist and make a recommended for treatment usually upon staffing it with an on call dr. If you are ever unsure you can call the emergency department at your closest hospital and they can consult with you over the phone.  
+
+Here are the different types of mental health programs found in the community that used for a longer term can be more effective at changing mood/behavior/mental health (I will also be using terms like "usually" or "commonly" because all programs are different):
+
+Outpatient therapy: usually 1-3 hrs a week and this can include individual, family, couples, school based services, and in home therapy.
+**please note for outpatient: if you DON'T like or get along with your therapist ask for another one or look elsewhere. It is ok, most of us therapist understand**
+
+Target Case Management: there will be a case manager that can assist in finding resources in the community to meet the needs of an individual. Some if these could include: advocating in a school, help filling out paperwork, transportation assistance, food assistance, etc.
+
+Psychiatry/Psychologist: I used to get these two confused a lot! Psychiatry is a MD that has a specialized knowledge of mental health disorders and medication. I've actually met a few psychiatrist that did therapy also. 
+
+Psychologist have a PhD. and they usually do testing and/or therapy.  I work with children and adolescents so the common way I see Psychologist used is testing in the school for IEP.
+
+Intensive Outpatient Program (IOP): This program is commonly used for the populations who struggle with addictions, but not exclusively. IOP is typically group therapy that meets 3-4x a week for 3-4 hours. IOP can focus on substance use,  mental health or both mental health and substance abuse treatment. It is usually used if Outpatient isn't enough or the problems are increasing in duration or intensity.. There can be individual intensive outpatient therapy (being seen multiple times a week by your therapist) but that isn't common and I don't think insurance likes it.
+
+Partial Hospitalization Programs (PHP) or day treatment: This program is a step after IOP but a step before inpatient.  PHP is usually 5 days a week, any where from 5 to 8 hours. Topics can cover both psychiatric or substance use or both.  Most child and adolescent PHPs available have a schooling portion in the morning and therapy in the afternoon.  PHP usually includes a psychiatrist following the individual. 
+
+Types of inpatient:
+
+Acute: like mentioned earlier, acute inpatient is for keeping an individual safe and stabilizing them from immediate safety risk (harm to self, harm to others, psychosis). Stay is usually 3-5 days but can be shorter or longer depending on the induvidual.
+
+Rehab: longer term inpatient for substance use disorder.  Length of stay differs but I've commonly heard 50-90 days.  Rehab will usually include an individual therapy, IOP or AA/NA, and psychiatry. Most times someone being discharged from rehab will step down to IOP or PHP.
+
+Residential/Group home: This is an out of home placement for child, adolescent and adults who need a more structured environment and 24/7 supervision with complex mental health or behavioral health problems. Most of the time children or adolescents are in the custody of the state (there are a few facilities that accept parents keeping custody but those wait list are usually months long). Length of stay is anywhere from a couple months to 1+ years depending.
+
+If you or a loved one is struggling with mental health please get help! 
+
+Psychologytoday.com
+
+Local community mental health or hospital
+
+1-800-273-8255 (1-800-273-TALK) - National Suicide Prevention Lifeline
+1-800-784-2433 (1-800-SUICIDE) - National Hopeline Network
+1-866-488-7386 (1-866-4.U.TREVOR aimed at gay and questioning youth)
+
+More resources here: https://www.healthyplace.com/other-info/resources/mental-health-hotline-numbers-and-referral-resources
+
+Also u/FromAshes2New posted apps and online resources for MH with those who have financial constraints.
+
+url:https://reddit.com/r/YouShouldKnow/comments/vqnehk/
+author:wingirl11
+subreddit:YouShouldKnow
+score:3456
+numComments:191
+isOver18:False
+hasPostBody:True

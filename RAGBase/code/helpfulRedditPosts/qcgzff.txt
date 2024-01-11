@@ -1,0 +1,13 @@
+title:
+LPT: If you’re conversing in a group, and the person talking is only looking at you, gently glance at other people in the group, then back to the speaker. This will often lead the person talking to glance/shift their eye contact around as well, and makes everyone feel more included.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/qcgzff/
+author:shoutsfrombothsides
+subreddit:LifeProTips
+score:1127
+numComments:31
+isOver18:False
+hasPostBody:False

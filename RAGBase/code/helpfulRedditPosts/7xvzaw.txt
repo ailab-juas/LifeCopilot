@@ -1,0 +1,14 @@
+title:
+YSK: There is a way to check the position of NASA satellites in real time and also look at the data they produce with a program called "Eyes on Earth". It's a very educational and fun tool.
+
+content:
+Use this to gain a perspective on the work NASA does! They also offer one on the solar system!
+https://eyes.jpl.nasa.gov/eyes-on-the-earth.html#
+
+url:https://reddit.com/r/YouShouldKnow/comments/7xvzaw/
+author:KaboomBaby4
+subreddit:YouShouldKnow
+score:6684
+numComments:59
+isOver18:False
+hasPostBody:True

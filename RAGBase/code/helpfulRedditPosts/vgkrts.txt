@@ -1,0 +1,13 @@
+title:
+LPT Put all your bedside chargers on one electrical strip, take the whole strip when you travel.
+
+content:
+It makes it easy to travel with. You don't have to plug and unplug everything in a different outlet when there may not be enough where you are going. If the bedside outlets are full where you're going you just unplug those and plug them in your strip. Makes it hard to forget your phone charger when you leave.
+
+url:https://reddit.com/r/LifeProTips/comments/vgkrts/
+author:arabspringstein
+subreddit:LifeProTips
+score:2591
+numComments:186
+isOver18:False
+hasPostBody:True

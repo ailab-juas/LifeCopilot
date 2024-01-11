@@ -1,0 +1,13 @@
+title:
+LPT: Google your college textbook's publisher and the phrase "Companion Website"--you'll find practice tests, review sheets, chapter summaries, and lists of important topics.
+
+content:
+I've done this for many of my textbooks and I find a companion website 80% of the time. And sometimes, the teacher has taken exam questions *directly* from the companion website since they think the student doesn't know about it. 
+
+url:https://reddit.com/r/LifeProTips/comments/1vf73f/
+author:NovelTAcct
+subreddit:LifeProTips
+score:1686
+numComments:32
+isOver18:False
+hasPostBody:True

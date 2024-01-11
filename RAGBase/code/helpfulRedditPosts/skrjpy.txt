@@ -1,0 +1,17 @@
+title:
+LPT: When a job interviewer asks, "What's your biggest weakness?", interpret the question in practical terms rather than in terms of personality faults.
+
+content:
+"Sometimes I let people take advantage of me", or "I take criticism personally" are bad answers. "I'm too honest" or "I work too hard", even if they believe you, make you sound like you'll be irritating to be around or you'll burn out.
+
+Instead, say something like, "My biggest weakness with regards to this job is, I have no experience with \[company's database platform\]" or "I don't have much knowledge about \[single specific aspect of job\] yet, so it would take me some time to learn."
+
+These are real weaknesses that are relevant to the job, but they're also fixable things that you'll correct soon after being hired. Personality flaws are not (and they're also none of the interviewer's business).
+
+url:https://reddit.com/r/LifeProTips/comments/skrjpy/
+author:Iron_Rod_Stewart
+subreddit:LifeProTips
+score:96974
+numComments:3402
+isOver18:False
+hasPostBody:True

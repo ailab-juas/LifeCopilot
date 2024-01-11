@@ -1,0 +1,13 @@
+title:
+LPT: When you start a new desk job, create a spreadsheet on your first day and track what you do.
+
+content:
+I started a new job today, and everything I learn goes into an .xls for reference purposes, with as many tabs as are needed. When I left my last job earlier this week, I handed over the full .xls for the new person so they would have a "how to" readily available.
+
+url:https://reddit.com/r/LifeProTips/comments/8wbncg/
+author:stormy_llewellyn
+subreddit:LifeProTips
+score:1383
+numComments:153
+isOver18:False
+hasPostBody:True

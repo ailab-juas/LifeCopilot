@@ -1,0 +1,25 @@
+title:
+YSK: A large portion of food safety is following correct internal cooking temperatures and storing procedures, especially for meats.
+
+content:
+Why YSK: Different meats have different cooking temps to ensure safety. For example:
+
+
+[This USDA website](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart) gives a basic breakdown. 
+
+
+In addition to cooking these meats to the safe internal temp, they should also be stored either completely separately or in order of lowest temperature on top to highest on bottom. Restaurants and food retailers have to follow this same procedure or face hefty fines and violations. None of these precautions matter if they aren’t continued in your home. 
+
+Storing raw chicken that has a 165F temp on top of beef or pork in your fridge means that the 145F cooking temp is no longer safe if the chicken leaks juices. You put yourself at risk for a number of [food borne illnesses and diseases](https://opentextbc.ca/meatcutting/chapter/diseases-associated-with-meat/). In addition, always store cooked over raw. 
+
+Ground and tenderized meats (like cubed steak) have a higher internal cooking temp because they pass through machines that could potentially harbor bacteria. Ground beef should not be stored on top of or handled with regular beef. 
+
+Wash your hands and prep surfaces between handling different meats, produce etc and follow the recommended cooking procedures to ensure food safety for yourself and others.
+
+url:https://reddit.com/r/YouShouldKnow/comments/vf7mar/
+author:NalaJax
+subreddit:YouShouldKnow
+score:6415
+numComments:281
+isOver18:False
+hasPostBody:True

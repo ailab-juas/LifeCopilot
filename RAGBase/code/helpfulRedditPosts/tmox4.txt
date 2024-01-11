@@ -1,0 +1,13 @@
+title:
+I'm about to turn 30, freaking out, so I wrote down basically everything I wish I knew 10 years ago...
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/tmox4/
+author:ianmathias
+subreddit:YouShouldKnow
+score:1204
+numComments:305
+isOver18:False
+hasPostBody:False

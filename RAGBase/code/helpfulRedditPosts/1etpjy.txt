@@ -1,0 +1,38 @@
+title:
+YSK the difference between less and fewer.
+
+content:
+Thought I'd throw this out there after seeing a recent popular TIL entitled - 'TIL Guinness has less calories than most beers, including Budweiser. It also contains several key vitamins'. Was also something my dad found much delight in correcting me on. 
+
+Anyway, Oxforddictionaries.com explains it well:
+
+**Use fewer if you’re referring to people or things in the plural (e.g. houses, newspapers, dogs, students, children). *Or calories ;)*.**
+
+For example:
+ 
+People these days are buying fewer newspapers. 
+Fewer students are opting to study science-related subjects.
+Fewer than thirty children each year develop the disease.
+ 
+**Use less when you’re referring to something that can’t be counted or doesn’t have a plural (e.g. money, air, time, music, rain).**
+
+For example:
+ 
+It’s a better job but they pay you less money.
+People want to spend less time in traffic jams. 
+Ironically, when I’m on tour, I listen to less music.
+ 
+Less is also used with numbers when they are on their own and with expressions of measurement or time, 
+
+e.g.:
+His weight fell from 18 stone to less than 12.Their marriage lasted less than two years. Heath Square is less than four miles away from Dublin city centre
+
+Edit: formatting
+
+url:https://reddit.com/r/YouShouldKnow/comments/1etpjy/
+author:quietlyrelieved
+subreddit:YouShouldKnow
+score:1485
+numComments:212
+isOver18:False
+hasPostBody:True

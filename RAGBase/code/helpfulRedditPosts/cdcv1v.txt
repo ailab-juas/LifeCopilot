@@ -1,0 +1,13 @@
+title:
+YSK the difference between the word "disinterested" and "uninterested"
+
+content:
+I've been seeing a bunch of people on reddit using the word "disinterested/disinteresting" when they really mean "uninterested/uninteresting". While "uninterested" means exactly what it sounds like, that you are just not interested in something, "disinterested" means that you are impartial and non-biased. An umpire should be disinterested in the outcome of a baseball game, while you may be uninterested about the outcome of the game if you just find it to be kind of boring.
+
+url:https://reddit.com/r/YouShouldKnow/comments/cdcv1v/
+author:Gromit43
+subreddit:YouShouldKnow
+score:7023
+numComments:262
+isOver18:False
+hasPostBody:True

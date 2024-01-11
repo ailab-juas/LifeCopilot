@@ -1,0 +1,13 @@
+title:
+LPT: If you aren't a sports fan, shop for groceries during "The Big Game."
+
+content:
+We shop for groceries during the weekly Football game.  It is a ghost town.  Usually we can get in and out in record time and all the goodies for people who are having parties are marked down after the event starts!
+
+url:https://reddit.com/r/LifeProTips/comments/2j1llt/
+author:natatafish
+subreddit:LifeProTips
+score:2697
+numComments:403
+isOver18:False
+hasPostBody:True

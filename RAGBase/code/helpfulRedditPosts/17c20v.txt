@@ -1,0 +1,13 @@
+title:
+LPT: When at a restaurant, wash your hands AFTER ordering. The menus are usually the the grossest thing you can touch.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/17c20v/
+author:that_other_guy_
+subreddit:LifeProTips
+score:1308
+numComments:177
+isOver18:False
+hasPostBody:False

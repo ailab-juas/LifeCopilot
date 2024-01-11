@@ -1,0 +1,17 @@
+title:
+YSK that in most sentences you can replace the word "but" for the word "and" to make the sentence seem less confrontational/disappointing.
+
+content:
+"You're a great employee, but I need you to come to work on time."
+
+"You're a great employee and I need you to come to work on time"
+
+It just creates a psychological cushion while "but" automatically makes the listener defensive.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ejpfvr/
+author:Rainbowsandkitties
+subreddit:YouShouldKnow
+score:4006
+numComments:129
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,24 @@
+title:
+LPT: Keeping two/three personal emails/phone numbers goes a long way in towards internet privacy and spam protection.
+
+content:
+I live in a country where I end up recieving atleast 10-15 unsolicited spam calls in a day+ many spam emails likewise. However, ever since I've started keeping two/three numbers/emails, things have ironed out. 
+
+I keep three numbers/emails and it kinda goes like this:
+First being for for personal-keeping social, friends and family restricted to this email/number. All inbound calls/email requests come form a particular list.
+
+The second being for business- for professional business related stuff, so I know what to read and filter stuff out. 
+
+Third is the most important- for the internet's sign-ups/all the random places that ask me to share my number/email. I never pick a call or read a email from this section because I know it won't matter to me. 
+
+However, as a tip, I'd advice having two in minimum(one personal and one for spam). The amount of spam calls/emails in your private inbox would consume you in today's world. There are plenty of apps that help manage multi-email settings and they come in handy. 
+
+This may kinda seem a little too much for some but it is a small investment that goes a long way to privacy protection and spam call/email filtering.
+
+url:https://reddit.com/r/LifeProTips/comments/zbjnv8/
+author:yabaBABAyega
+subreddit:LifeProTips
+score:1870
+numComments:99
+isOver18:False
+hasPostBody:True

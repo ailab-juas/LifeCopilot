@@ -1,0 +1,17 @@
+title:
+LPT: Paper due? Low on Black Ink? Change font color to dark Tan.
+
+content:
+Last night I was wrapping up a paper due for class and went to print. My black ink was low and the paper was difficult to read. I didn't have time to go and get more ink before turning it in so I improvised. I changed the font color in Word to a dark Tan and now you can read the paper just fine. The color difference between the dark Tan and black is almost indistinguishable. 
+
+Neat trick for when you run low on black ink. This trick will require that you have some color ink left though. 
+
+
+
+url:https://reddit.com/r/LifeProTips/comments/1yg3yl/
+author:JZer86
+subreddit:LifeProTips
+score:1770
+numComments:289
+isOver18:False
+hasPostBody:True

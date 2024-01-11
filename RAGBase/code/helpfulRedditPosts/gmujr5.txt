@@ -1,0 +1,15 @@
+title:
+YSK there is a website called BobRTC that allows you to call various different scammers from their website for free in order to waste their time so they have less time to scam innocent people
+
+content:
+this website is great and I have used it personally. It is a lot of fun and a great way to ensure less people are getting scammed out of their hard earned money. 
+
+(Disclaimer - sometimes scammers re-route their calls to real US companies, it is illegal to spam call legitimate companies and if it does re-route to a real company, disconnect and leave a comment explaining)
+
+url:https://reddit.com/r/YouShouldKnow/comments/gmujr5/
+author:M1ghty_boy
+subreddit:YouShouldKnow
+score:11036
+numComments:145
+isOver18:False
+hasPostBody:True

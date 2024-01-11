@@ -1,0 +1,13 @@
+title:
+YSK: Nutritious free meals are available for children and teens 18 and younger at many locations throughout USA throughout the summer while school is out of session.
+
+content:
+The Summer Food Service Program (SFSP) ensures that low-income children continue to receive nutritious meals when school is not in session. This summer, USDA plans to serve more than 200 million free meals to children 18 years and under at approved SFSP sites. https://www.fns.usda.gov/summerfoodrocks
+
+url:https://reddit.com/r/YouShouldKnow/comments/6diibl/
+author:netcraze
+subreddit:YouShouldKnow
+score:5589
+numComments:170
+isOver18:False
+hasPostBody:True

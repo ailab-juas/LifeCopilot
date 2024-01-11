@@ -1,0 +1,13 @@
+title:
+LPT: If you have a problem and someone is asking what's wrong, "You should know" is never an acceptable answer. A breakdown in communication never solves anything.
+
+content:
+ I've seen this answer in online gaming, in relationships, in all sorts  of situations where the person with the problem spends more time  complaining about the problem than helping to fix it. This never helps  anything.
+
+url:https://reddit.com/r/LifeProTips/comments/fv0yii/
+author:Muhznit
+subreddit:LifeProTips
+score:10096
+numComments:204
+isOver18:False
+hasPostBody:True

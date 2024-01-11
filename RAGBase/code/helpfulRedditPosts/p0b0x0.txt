@@ -1,0 +1,13 @@
+title:
+LPT: relaxing doesn’t “recharge your batteries”, but a catnap does. When you’ve lost your concentration set your alarm for 20 minutes, put your head down and close your eyes the whole time. Even if you don’t think you can sleep you probably will and you’ll wake up with restored focus.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/p0b0x0/
+author:weCo389
+subreddit:LifeProTips
+score:1669
+numComments:84
+isOver18:False
+hasPostBody:False

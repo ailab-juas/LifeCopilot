@@ -1,0 +1,13 @@
+title:
+LPT: If you have a hard time controlling late night food cravings, brush your teeth when you want to be done eating for the night. If you eat, you'll have to brush your teeth again. Hopefully your laziness outweighs your desire to eat.
+
+content:
+*This doesn't work if your desire to eat outweighs your laziness and your desire for good oral hygiene.
+
+url:https://reddit.com/r/LifeProTips/comments/eknw4g/
+author:WIPackerGuy
+subreddit:LifeProTips
+score:2354
+numComments:96
+isOver18:False
+hasPostBody:True

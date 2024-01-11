@@ -1,0 +1,17 @@
+title:
+LPT: You might have heard that teaching others is an effective study method. Treat your word document as your clueless friend when studying.
+
+content:
+Instead of mindlessly writing a summary, explain everything in great details just as if you were talking and trying to teach someone. Write out (your own) examples.
+
+Here's an example. By typing out the entire following paragraph I basically have it drilled into my mind already, instead of just writing the first sentence.
+&gt; Because some prices rise faster than others, the real CPI basket will change (substitution bias), which mitigates the effects of price changes. Because CPI uses a fixed basket of goods, it misses this substitution. It thus overstates increases in the cost of living (because in essence people will not purchase as many of the products that have rapid price increases, while the basket does not change so it assumed people will. Ex. The basket has 10lbs of beef at 5$/lb. If prices of beef doubles, people will not still purchase 10lbs. They might purchase 5lbs, and 5lbs chicken instead which is cheaper. Thus the CPI will overstate the increases of cost of living, as people won’t spend 50$ a month on beef, but only 25$, and perhaps 15$ on 5lbs of chicken (tot 40$).
+
+
+url:https://reddit.com/r/LifeProTips/comments/6dt4m0/
+author:Zyvoxx
+subreddit:LifeProTips
+score:11244
+numComments:171
+isOver18:False
+hasPostBody:True

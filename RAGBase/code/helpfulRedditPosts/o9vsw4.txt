@@ -1,0 +1,13 @@
+title:
+LPT: If you are at work and someone who does not work there asks you for one of your co-workers or when that co-worker's shifts are, do not answer that question. You do not know who that person is or their intentions.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/o9vsw4/
+author:starman123
+subreddit:LifeProTips
+score:50241
+numComments:1426
+isOver18:False
+hasPostBody:False

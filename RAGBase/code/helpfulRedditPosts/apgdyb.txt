@@ -1,0 +1,17 @@
+title:
+YSK: "If someone has 'GTE' [for "gate"] on their boarding pass, it means they don't have a seat."
+
+content:
+&gt;A pair of Air Canada insiders are shedding light on the airline's policy of overselling flights, revealing what they say is a widespread practice of duping passengers into believing they have a seat on a plane and stringing them along until the last possible moment.
+
+[https://www.cbc.ca/news/business/air-canada-agents-reveal-oversell-practices-1.5008217](https://www.cbc.ca/news/business/air-canada-agents-reveal-oversell-practices-1.5008217)
+
+N.B. Not sure if 'GTE' is specific to Air Canada or an industry term. I take this to mean if there is no assigned seat number on the boarding pass you are going to hear from the seat nazi - "NO SEAT FOR YOU!".
+
+url:https://reddit.com/r/YouShouldKnow/comments/apgdyb/
+author:NetScr1be
+subreddit:YouShouldKnow
+score:3814
+numComments:147
+isOver18:False
+hasPostBody:True

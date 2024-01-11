@@ -1,0 +1,13 @@
+title:
+LPT: when cutting garlic, oil up your blade, so the garlic won‘t stick to it.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ca34dk/
+author:metalgadse
+subreddit:LifeProTips
+score:17229
+numComments:576
+isOver18:False
+hasPostBody:False

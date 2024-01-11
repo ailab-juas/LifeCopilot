@@ -1,0 +1,17 @@
+title:
+LPT: Write down your favorite memories. Don't think you won't forget them. In 20 years, you'll be glad you did.
+
+content:
+My wife and I have a shared Google doc that we use to write down our favorite memories/inside jokes/cute thoughts we have about each other.   
+  
+For example, my favorite moment from our first year of marriage was the very first Christmas morning together. I wrote it down in great detail when I knew it all.  
+
+When we're older, we will be very happy that we kept such a good record.
+
+url:https://reddit.com/r/LifeProTips/comments/12ticg/
+author:DJSlambert
+subreddit:LifeProTips
+score:1578
+numComments:221
+isOver18:False
+hasPostBody:True

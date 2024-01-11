@@ -1,0 +1,15 @@
+title:
+LPT: Parenting tip, take a photo of your kids before heading out anywhere crowded.
+
+content:
+If you head out with young kids to an amusement park or the beach, or generally any crowded area, take a picture of your kids at the start of the day. 
+
+If you then get separated or one of your kids wander off, you can then show people exactly what they look like instead of a vague description.
+
+url:https://reddit.com/r/LifeProTips/comments/1k2do8/
+author:Ozstriker
+subreddit:LifeProTips
+score:1643
+numComments:339
+isOver18:False
+hasPostBody:True

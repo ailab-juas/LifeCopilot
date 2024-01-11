@@ -1,0 +1,15 @@
+title:
+YSK that you can opt in for texts about charges from cc companies
+
+content:
+All the major credit cards (banks, too) can send you text notifications which you will receive the instant a charge hits. Enabling such notifications goes a very long way in preventing fraudulent charges from being missed. 
+
+Why YSK: To avoid being a victim of theft via scams that claim your card didn’t work so a cash payment is necessary. If you get an immediate text that the payment went through, you won’t pay twice. (Unlike someone I know. Who double paid the same establishment. Three separate times.)
+
+url:https://reddit.com/r/YouShouldKnow/comments/zbh0dg/
+author:FinalOstrich8235
+subreddit:YouShouldKnow
+score:1975
+numComments:54
+isOver18:False
+hasPostBody:True

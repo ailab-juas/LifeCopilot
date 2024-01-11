@@ -1,0 +1,13 @@
+title:
+YSK Google now lets you send files up to 10gb using gmail
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/14gj6e/
+author:kashiskhing
+subreddit:YouShouldKnow
+score:1358
+numComments:41
+isOver18:False
+hasPostBody:False

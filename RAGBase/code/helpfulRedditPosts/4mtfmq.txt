@@ -1,0 +1,16 @@
+title:
+YSK about the Dunning–Kruger effect, and how people who are very bad at something think they are actually pretty good.
+
+content:
+Has it ever seemed to you that less competent people rate their competence higher than it actually is? It’s not just your imagination. 
+It's is a genuine cognitive bias called the Dunning-Kruger Effect.
+
+The Dunning–Kruger effect is a cognitive bias in which relatively unskilled persons suffer illusory superiority, mistakenly assessing their ability to be much higher than it really is. Dunning and Kruger attributed this bias to a metacognitive inability of the unskilled to recognize their own ineptitude and evaluate their own ability accurately.
+
+url:https://reddit.com/r/YouShouldKnow/comments/4mtfmq/
+author:Haulik
+subreddit:YouShouldKnow
+score:2076
+numComments:321
+isOver18:False
+hasPostBody:True

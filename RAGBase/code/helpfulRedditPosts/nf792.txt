@@ -1,0 +1,13 @@
+title:
+Use autocorrect "codes' when writing long papers.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/nf792/
+author:xGandhix
+subreddit:LifeProTips
+score:1691
+numComments:175
+isOver18:False
+hasPostBody:False

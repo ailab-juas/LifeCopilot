@@ -1,0 +1,19 @@
+title:
+YSK: Those money markers only check the kind of paper a bill is printed on
+
+content:
+That other YSK about counterfeit currency made me think of this.
+
+YSK that those money marker pens you can get anywhere are ONLY checking the kind of paper the bill is printed on. 
+
+Why YSK: One common method of counterfeiting money is called 'washing'. They remove the ink from a low denomination bill then print a high denomination bill on top of that. If you are just using the money marker to check, it wont detect this because it's still the right kind of 'paper'.
+
+Also, YSK [how to determine if a bill is counterfeit](https://fitsmallbusiness.com/how-to-detect-counterfeit-money/) aside from using the pen.
+
+url:https://reddit.com/r/YouShouldKnow/comments/qxriow/
+author:SheriffHeckTate
+subreddit:YouShouldKnow
+score:1679
+numComments:83
+isOver18:False
+hasPostBody:True

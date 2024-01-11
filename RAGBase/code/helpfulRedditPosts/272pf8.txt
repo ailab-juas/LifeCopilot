@@ -1,0 +1,13 @@
+title:
+LPT: How to untie a plastic bag. Impress your friends.
+
+content:
+Just follow [these beautifully illustrated instructions.](http://imgur.com/a/EF2ES)
+
+url:https://reddit.com/r/LifeProTips/comments/272pf8/
+author:[deleted]
+subreddit:LifeProTips
+score:1884
+numComments:158
+isOver18:False
+hasPostBody:True

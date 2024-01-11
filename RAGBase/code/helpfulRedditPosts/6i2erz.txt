@@ -1,0 +1,16 @@
+title:
+YSK that Google tracks everywhere you go with your signed-in devices. You can delete your history and change your settings in the following link.
+
+content:
+YSK that Google tracks everywhere you go with your signed-in devices. You can delete your history and change your settings in the following link:
+https://www.google.com/maps/timeline?pb
+
+Edit:  they use your information for monetary gain.
+
+url:https://reddit.com/r/YouShouldKnow/comments/6i2erz/
+author:fubaru_baja
+subreddit:YouShouldKnow
+score:8614
+numComments:601
+isOver18:False
+hasPostBody:True

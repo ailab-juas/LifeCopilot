@@ -1,0 +1,15 @@
+title:
+YSK: about alltherooms.com, which searches airbnb, hotels, vrbo, couchsurfing at the same time
+
+content:
+http://alltherooms.com
+
+I travel mostly for skiing and live music and it's great to have an overview of all of the lodging options and accommodations in a location all in one search. no need to jump from site to site comparing airbnb to vrbo and then all of the hotel sites. alltherooms returns all of the rooms available in a given city, in a searchable and filter-able list. I've saved lots of time and money and found accomodations which I wouldn't have found otherwise
+
+url:https://reddit.com/r/YouShouldKnow/comments/3tlnzh/
+author:KustyTheKlown
+subreddit:YouShouldKnow
+score:1955
+numComments:26
+isOver18:False
+hasPostBody:True

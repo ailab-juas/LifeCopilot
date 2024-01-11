@@ -1,0 +1,42 @@
+title:
+LPT: You can configure your adblocker to automatically block all "You're using an adblocker!" annoying messages
+
+content:
+For uBlock Origin users:
+
+1. Right click the extension icon and then Options. A new tab will open.
+2. You'll see a few sub-tabs, click on "Filter lists"
+3. Under "Ads", tick the box that says "Adblock Warning Removal List"
+4. If a warning icon appears beside it, click "Update now" on the top
+
+Done!
+
+\------
+
+**Edit:** for non uBlock Origin users
+
+&amp;#x200B;
+
+* **AdBlock Plus\***
+
+Options &gt; Advanced &gt; Filter Lists &gt; Adblock Warning Removal List &gt; Active (Thanks u/RedditDumpsterFires)
+
+* **AdGuard**
+
+ Ad Blocker &gt; Scroll down to add filter &gt; AdBlock Warning Removal List is down under annoyances (Thanks u/fishychan)
+
+* **uBlock\***
+
+ Enable "Adblock Warning Removal List‎" under "3rd party lists" (Thanks u/picartman)
+
+\------
+
+\* Keep in mind that uBlock is not private as it collects your personal data and that Adblock Plus' performance could be better. uBlock Origin solves both of these issues. I won't post the direct link to the sources as the last time I did that my LPT got removed, but you can google *"uBlock (non-Origin) adds user tracking, make sure your users have uBlock Origin!"* and *"Adblockers Performance Study DEV Community"* for more info.
+
+url:https://reddit.com/r/LifeProTips/comments/dgy0cf/
+author:kpqvz2
+subreddit:LifeProTips
+score:68613
+numComments:1161
+isOver18:False
+hasPostBody:True

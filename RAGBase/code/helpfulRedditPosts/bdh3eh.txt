@@ -1,0 +1,26 @@
+title:
+YSK about the Aviation Safety Reporting System (ASRS) which is run by NASA for airline staff (pilots, flight attendants, controllers, ground crew) to anonymously report incidents during flights without fear of career repercussions. The database is available to the public.
+
+content:
+You can search the entire DB at [https://asrs.arc.nasa.gov/search/database.html](https://asrs.arc.nasa.gov/search/database.html).
+
+&amp;#x200B;
+
+Here are two example incidents I found interesting from this year:
+
+&amp;#x200B;
+
+* **1612178** is a flight attendant claiming a pilot did not act accordingly while she was being verbally abused by a racist passenger.
+* **1611989** is a report about a passenger plane skidding off a runway and the story each pilot gave as to why it happened.  Note: I did a bit of looking around and I *think* this particular incident was [this Southwest Flight](https://www.usatoday.com/story/travel/flights/2018/12/06/southwest-airlines-plane-skids-off-runway-burbank-airport-california/2226932002/)
+
+&amp;#x200B;
+
+Edit: word
+
+url:https://reddit.com/r/YouShouldKnow/comments/bdh3eh/
+author:rerrify
+subreddit:YouShouldKnow
+score:3658
+numComments:64
+isOver18:False
+hasPostBody:True

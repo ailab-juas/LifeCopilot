@@ -1,0 +1,39 @@
+title:
+YSK if a family member dies and debt collectors tell you that you're now responsible for paying the deceased's debts, THEY ARE LYING. Debt does not pass to anyone else upon death.
+
+content:
+Read this: https://www.consumer.ftc.gov/articles/0081-debts-and-deceased-relatives
+It is a far-better-worded summary of what I was trying to explain here.
+(US ONLY. CHECK YOUR LOCAL AND STATE LAWS. CONTACT AN ATTORNEY WITH QUESTIONS)
+
+This is a common tactic of bill/debt collectors, especially with medical bills (which a lot of people rack up in their final days). Debt does not pass to anyone else upon someone's death. They can get paid from the estate, but, depending on your state laws, they're usually pretty low on the order of priorities. If the estate is insufficient to pay the debt, they're written off. Don't get tricked by these shady bill collectors. You are NOT responsible for your loved one's debt (unless you cosigned for the debt of course).
+
+For example, see Wisconsin's statute below:
+
+(1)  Classes and priority. At the time of their allowance, all claims and allowances shall be classified in one of the following classes. If the applicable assets of the estate are insufficient to pay all claims and allowances in full, the personal representative shall make payment in the following order:
+
+(a) Costs and expenses of administration.
+
+(b) Reasonable funeral and burial expenses.
+
+(c) Provisions for the family of the decedent under ss. 861.31, 861.33 and 861.35.
+
+(d) Reasonable and necessary expenses of the last sickness of the decedent, including compensation of persons attending the decedent.
+
+(e) All debts, charges or taxes owing to the United States, this state or a governmental subdivision or municipality of this state.
+
+(f) Wages, including pension, welfare and vacation benefits, due to employees which have been earned within 3 months before the date of the death of the decedent, not to exceed $300 in value to each employee.
+
+(g) Property assigned to the surviving spouse or surviving domestic partner under s. 861.41.
+
+(h) All other claims allowed.
+
+Check your state's laws or contact an attorney if you have questions about this or any specific situation.
+
+url:https://reddit.com/r/YouShouldKnow/comments/c7gowz/
+author:[deleted]
+subreddit:YouShouldKnow
+score:44586
+numComments:1023
+isOver18:False
+hasPostBody:True

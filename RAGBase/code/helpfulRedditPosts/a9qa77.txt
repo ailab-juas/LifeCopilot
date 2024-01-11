@@ -1,0 +1,13 @@
+title:
+LPT: Do a lot of photo editing? Get a gaming mouse with a sniper button - You can edit, then hold the button and drop your mouse speed down low to make perfect detailed movements.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/a9qa77/
+author:NeurodivergentPod
+subreddit:LifeProTips
+score:1125
+numComments:104
+isOver18:False
+hasPostBody:False

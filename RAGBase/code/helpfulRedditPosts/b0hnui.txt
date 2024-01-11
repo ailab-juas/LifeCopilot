@@ -1,0 +1,13 @@
+title:
+LPT: Missing person? Car? Pet? Consider passing information off to local food delivery places.
+
+content:
+We drive around all day, on all parts of the city and see lots of stuff. I had a guy come in looking for help and it dawned on me actually how good of an idea it was.
+
+url:https://reddit.com/r/LifeProTips/comments/b0hnui/
+author:teerude
+subreddit:LifeProTips
+score:2249
+numComments:54
+isOver18:False
+hasPostBody:True

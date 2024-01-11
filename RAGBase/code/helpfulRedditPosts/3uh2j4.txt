@@ -1,0 +1,15 @@
+title:
+LPT: When heating up your Thanksgiving leftovers, wet a paper towel and put it over your food to keep the moisture.
+
+content:
+Or any leftovers, to be exact.
+
+Don't know the science behind it, but it works.
+
+url:https://reddit.com/r/LifeProTips/comments/3uh2j4/
+author:atticusmars_
+subreddit:LifeProTips
+score:1041
+numComments:127
+isOver18:False
+hasPostBody:True

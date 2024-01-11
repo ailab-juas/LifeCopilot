@@ -1,0 +1,19 @@
+title:
+YSK that BBC has one of the biggest and best recipe collections available for free, and since they are a public service, they have no ads, no walls of text, just recipes
+
+content:
+Google has transformed every recipe web into a wall of text that they are forced to write if they don't want SEO to screw them.
+
+Fortunately for us, BBC is a public institution and they don't need to do it. The collection is massive and has the recipes right away.
+
+The web is https://bbc.co.uk/food
+
+Edit: as several comments have pointed out, there is also https://www.bbcgoodfood.com
+
+url:https://reddit.com/r/YouShouldKnow/comments/fd2m7j/
+author:ES_Legman
+subreddit:YouShouldKnow
+score:44040
+numComments:809
+isOver18:False
+hasPostBody:True

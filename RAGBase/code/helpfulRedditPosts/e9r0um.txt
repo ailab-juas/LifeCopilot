@@ -1,0 +1,13 @@
+title:
+YSK that you can read news articles behind paywalls for free by typing "outline.com/" before the link
+
+content:
+Many major news sites are putting their content behind paywalls. If you add "[outline.com/](https://outline.com/)" before the link (including http but not the quotations) it will allow you to read the article without any ads and subscription notifications!
+
+url:https://reddit.com/r/YouShouldKnow/comments/e9r0um/
+author:tildenpark
+subreddit:YouShouldKnow
+score:13687
+numComments:264
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: If you ever get disoriented underwater, look for air bubbles to guide your way up to the surface.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/4srgyh/
+author:DisgrasS
+subreddit:LifeProTips
+score:1786
+numComments:241
+isOver18:False
+hasPostBody:False

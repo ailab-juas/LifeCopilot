@@ -1,0 +1,13 @@
+title:
+LPT: Hold the "shift" key when adjusting the volume on your Macbook to eliminate the annoying bubble noise.
+
+content:
+This is especially helpful when the volume is high and you don't want to draw attention to yourself.
+
+url:https://reddit.com/r/LifeProTips/comments/2xrtyl/
+author:IZZIT_ALIVE
+subreddit:LifeProTips
+score:2263
+numComments:290
+isOver18:False
+hasPostBody:True

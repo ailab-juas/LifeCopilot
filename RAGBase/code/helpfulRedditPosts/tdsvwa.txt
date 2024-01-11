@@ -1,0 +1,15 @@
+title:
+LPT: After college you will forget how to do 90% of the things you were taught. While in college, instead of trying to focus on remembering the details on HOW to do something, focus more on remembering WHAT can be done.
+
+content:
+For example: Focus on remembering what a formula does and when to use it instead of memorizing the actual formula. That can always be looked up later.
+
+Also my post assumes you're already passing your classes, which should obviously be your first priority.
+
+url:https://reddit.com/r/LifeProTips/comments/tdsvwa/
+author:newtelegraphwhodis
+subreddit:LifeProTips
+score:4207
+numComments:123
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,23 @@
+title:
+YSK that the newer methods of teaching math in elementary schools has nothing to do with Common Core standards, and that these new methods are actually vastly improved over the "old fashioned" ways.
+
+content:
+I've seen so many people lately who've taken to Facebook--or in person--with raging complaints about Common Core and how the new methods of teaching math are absurd and don't teach their children anything, not to mention leave the parents incapable of helping their children. 
+
+**First YSK point:** Common Core is not a curriculum. There are absolutely no guidelines on what methods to use to teach anything. Common core is a list of skills/benchmarks that students, in particular grades, have to be taught/exposed to before they move on to the next grade. That's it. They don't even need to become proficient in these skills to move on. To get more information, visit the actual [Common Core site](http://www.corestandards.org/) that teachers use to look at the standards themselves. Take a look around, but especially visit the [FAQs](http://www.corestandards.org/about-the-standards/frequently-asked-questions/), the [Myths vs. Facts](http://www.corestandards.org/about-the-standards/myths-vs-facts/) page, and the actual list of [Standards](http://www.corestandards.org/read-the-standards/) that are broken down into grade levels for both English and Math. 
+
+**Second YSK point:** The issues that I see most parents raging out about are the new methods for teaching math. Once again, this has nothing to do with Common Core since Common Core leaves the methods of instruction up to the teachers/schools. Parents are actually unknowingly upset with the math curriculums that school districts are adopting. Many of these curriculums are employing  newer and more intuitive forms of teaching math that help students not only know the "how to" but also the "why". They end up actually *understanding* the principles behind math, which lends to an easier time understanding more complex math in later grades and through college. [Check out this page](http://www.patheos.com/blogs/friendlyatheist/2014/03/07/about-that-common-core-math-problem-making-the-rounds-on-facebook/) for a better explanation behind the math madness. 
+
+**EDIT:** Since I've been called out on misrepresenting Japanese methods for teaching math, please check out [this post by the Japan Times](http://www.japantimes.co.jp/community/2014/11/23/issues/teaching-quality-lesson-quantity-may-key-japans-top-math-marks/#.VR1lIHXd9XU) and [this post by the NY Times](http://www.nytimes.com/2014/07/27/magazine/why-do-americans-stink-at-math.html). 
+
+**ALSO**, because it appears this point seems to have been lost on many people, let me emphasize it more strongly: 
+
+**Common Core and "new new math" have nothing to do with each other; zilch, nada, no relation. They are completely different. One is benchmarks, the other is methods. Common core does not recommend any style of teaching. They leave that to the teacher's discretion.** 
+
+url:https://reddit.com/r/YouShouldKnow/comments/31383w/
+author:Jbrehm
+subreddit:YouShouldKnow
+score:1561
+numComments:425
+isOver18:False
+hasPostBody:True

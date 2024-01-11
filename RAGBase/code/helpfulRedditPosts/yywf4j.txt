@@ -1,0 +1,25 @@
+title:
+YSK in the US, your employer should not request medical certification for FMLA for "bonding with a new baby"
+
+content:
+In the US, FMLA requires employers to hold your job for you during medical leave, and also for specific other family situations. While pregnancy and birth are typically medical events, a healthy pregnancy in and of itself does not necessarily require leave. 
+
+
+Often, pregnant employees will work until the baby is born, and then take their leave to care for the baby. This isn't a medical leave, it's what's classified as "bonding with a newborn or newly placed son or daughter." Pregnancy may affect the ability to perform some jobs, making leave necessary and therefore requiring medical certification. But when leave is taken to care for a new baby, FMLA makes no distinction between parents who give birth and those who do not. 
+
+
+Caring for the baby is not a medical leave, it's a family leave, and in this situation the employer should not request medical certification for the employee's leave. They may request documentation of the relationship between the employee and the new child, but a birth certificate and/or adoption decree should suffice.
+
+
+Why YSK: An addition to the family is stressful enough without having to worry about getting various documentation to your employer, just do what's legally necessary. Plus, many practitioners charge a fee for filling out FMLA paperwork, so you can save yourself a few dollars by knowing that these forms aren't necessary.
+
+
+Source:  https://www.dol.gov/agencies/whd/fact-sheets/28q-taking-leave-for-birth-placement-child#:~:text=Employers%20may%20not%20request%20a,documentation%20of%20a%20family%20relationship.
+
+url:https://reddit.com/r/YouShouldKnow/comments/yywf4j/
+author:cetus_lapetus
+subreddit:YouShouldKnow
+score:3222
+numComments:110
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,19 @@
+title:
+YSK: Small speed increases can drastically affect your stopping distance in a car.
+
+content:
+There's a really good Numberphile video on this, but the main takeaway is that, because kinetic energy is proportional to velocity squared, braking distance/time (which brings the kinetic energy to zero at a full stop) also scales proportionally to velocity squared. 
+
+For example, imagine two cars of the exact same mass, one travelling at 50mph and the other at 70mph. They are travelling next to each other and see a wall ahead, braking at the same time. The 50mph driver stops just before the wall; intuitively you'd think the other driver hits at about 20mph, however it hits the wall at roughly 50mph. There's some wiggle room for things like braking efficiency at higher speed and reaction time for real world, but it's something to keep in mind for deciding your speed on the road.
+
+More food for thought: if a drive takes an hour at 60mph, it'd take about 51.5 minutes at 70mph, so you shave about 8-9 minutes off while increasing stopping distance by about 50-100ft (depending on braking strength, according to paper I found, source on request because I'm on mobile and don't want to format right now).
+
+Why YSK: Driving is a major part in everyone's lives but also incredibly dangerous and keeping in mind how your speed affects your stopping distances can greatly increase your safety with little impact on normal commute times.
+
+url:https://reddit.com/r/YouShouldKnow/comments/sqk8fj/
+author:Actionhankk
+subreddit:YouShouldKnow
+score:3007
+numComments:140
+isOver18:False
+hasPostBody:True

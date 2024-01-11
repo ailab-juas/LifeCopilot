@@ -1,0 +1,13 @@
+title:
+YSK: you can use incognito mode to get around most "you've ran out of free views" paywalls, like on WaPo
+
+content:
+Probably pretty common knowledge, but just in case it isn't, sites that have soft paywalls or a limited number of views like NYT and WaPo can be circumvented by opening the same link in incognito mode instead. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/7g5rio/
+author:PsyduckSexTape
+subreddit:YouShouldKnow
+score:7947
+numComments:371
+isOver18:False
+hasPostBody:True

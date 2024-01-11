@@ -1,0 +1,15 @@
+title:
+YSK it's ok to listen to someone's problems without offering advice.
+
+content:
+Why YSK: Many people feel the need to offer advice after someone shares their problems to them, regardless of whether they have experience in the matter or not.  It's ok to offer an ear without giving advice. In the end, bad advice can be more harmful than no advice at all.
+
+Sometimes all someone needs is a person to share with. It's perfectly fine to say something like "I'm sorry that you're going through this and if there's anything I can do to help please let me know." If you really feel like you can give sound advice, try asking the person if they would like advice first.
+
+url:https://reddit.com/r/YouShouldKnow/comments/st8iyn/
+author:batyablueberry
+subreddit:YouShouldKnow
+score:7297
+numComments:230
+isOver18:False
+hasPostBody:True

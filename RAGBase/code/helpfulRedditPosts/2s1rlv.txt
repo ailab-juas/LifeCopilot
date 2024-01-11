@@ -1,0 +1,13 @@
+title:
+YSK A towels two sides are usually different - one has long loops and one short. The side with long loops has more surface area. This side is quicker for drying a surface and can hold more moisture
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/2s1rlv/
+author:linkschode
+subreddit:YouShouldKnow
+score:1375
+numComments:109
+isOver18:False
+hasPostBody:False

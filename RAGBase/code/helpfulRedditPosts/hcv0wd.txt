@@ -1,0 +1,13 @@
+title:
+LPT: If you are filming someone leaving a crime in a vehicle, verbally say the license plate number.
+
+content:
+I just saw a video just posted of a hit and run, and by all reports no arrests have been made. If you are filming someone leaving a crime because you are trying to help, say the license plate of the vehicle you are following out loud (and multiple times) so it can be heard on playback.
+
+url:https://reddit.com/r/LifeProTips/comments/hcv0wd/
+author:elspicymchaggis
+subreddit:LifeProTips
+score:1252
+numComments:36
+isOver18:False
+hasPostBody:True

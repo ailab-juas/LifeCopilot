@@ -1,0 +1,13 @@
+title:
+LPT: Keep a photo of your checked luggage on your smartphone. 
+
+content:
+If it doesn't arrive at your destination then you can show the baggage services people the photo so they can quickly and easily record the necessary information about your lost bag. 
+
+url:https://reddit.com/r/LifeProTips/comments/15mded/
+author:adnea00
+subreddit:LifeProTips
+score:1689
+numComments:149
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,33 @@
+title:
+LPT: If you use Firefox on a computer with an SSD, change the "browser.sessionstore.interval" to 30 drastically improve your SSD lifespan.
+
+content:
+As describe [HERE](https://www.servethehome.com/firefox-is-eating-your-ssd-here-is-how-to-fix-it/) Firefox (and Google Chrome) save your browser's session state every 15 seconds. This means that even on an idle computer, this operation can write over 20GB of unnecessary information *every day*. Over time this can reduce your SSD'd lifespan **by half**. 
+
+HOW TO:
+
+* Type "about:config" in the URL bar.
+
+* Search for "browser.sessionstore.interval"
+
+* Set the value (in milliseconds) to higher intervals:
+
+     5 minutes = 300,000
+
+     10 minutes = 600,000
+
+     15 minutes = 900,000
+
+Edit: getting a lot of attitude about SSD's being a lot better since a few years ago. However please keep in mind, people may still have SSD's from 2008-2012 that this may be useful for. Also the reports given to me show higher end SSD's and the results may not be the same for low or mid range drives. Let's try to realize we don't all have the same situation.
+
+Edit 2: Just trying to help guys. I'm not "spreading BS". Its been mentioned on SecurityNow a few times recently so I decided to inform others. I've linked to an article and am not "making this up". If you don't find this useful so be it, just trying to help.
+
+Edit 3. Titles can't be edited. It should say 30 minutes.
+
+url:https://reddit.com/r/LifeProTips/comments/5abyc8/
+author:EthosPathosLegos
+subreddit:LifeProTips
+score:4870
+numComments:742
+isOver18:False
+hasPostBody:True

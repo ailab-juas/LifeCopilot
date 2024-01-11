@@ -1,0 +1,13 @@
+title:
+LPT: If you find a wallet on the ground you can put it in any US postbox and they will deliver it to the address on the ID free of charge
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/bqinq5/
+author:EnigmaFilms
+subreddit:LifeProTips
+score:1753
+numComments:95
+isOver18:False
+hasPostBody:False

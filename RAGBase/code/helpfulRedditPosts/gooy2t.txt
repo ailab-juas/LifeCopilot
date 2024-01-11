@@ -1,0 +1,13 @@
+title:
+LPT: If you have a family member who is overweight and requires frequent medical attention...don’t put their bedroom upstairs
+
+content:
+As a firefighter I’ve seen this too many times. A family member who has serious medical problems, is overweight, and immobile should not have a bedroom upstairs. It takes a lot of manpower and time to remove an unconscious person from an upstairs bedroom. These are precious seconds lost that could have potentially cost your loved one their life
+
+url:https://reddit.com/r/LifeProTips/comments/gooy2t/
+author:OficerJimLahey
+subreddit:LifeProTips
+score:1338
+numComments:88
+isOver18:False
+hasPostBody:True

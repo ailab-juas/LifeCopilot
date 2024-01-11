@@ -1,0 +1,15 @@
+title:
+LPT If you are a stargazer or are just curious where you can go near your city to escape light pollution and really see the stars, go to this site (link in comments)
+
+content:
+[This map](http://djlorenz.github.io/astronomy/lp2006/overlay/dark.html) is the shit. 
+
+My favorite use is to find places to watch meteor shower. Speaking of which, [here](http://www.amsmeteors.org/meteor-showers/meteor-shower-calendar/) is an amazing resource on meteor showers throughout the year. Also has the moon phase for the peak of each shower and a brief description, both for the next ten years.
+
+url:https://reddit.com/r/LifeProTips/comments/212jz1/
+author:Butthole__Pleasures
+subreddit:LifeProTips
+score:3099
+numComments:444
+isOver18:False
+hasPostBody:True

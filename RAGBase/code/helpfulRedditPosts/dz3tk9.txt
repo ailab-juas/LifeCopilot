@@ -1,0 +1,16 @@
+title:
+YSK: You can send presents to less fortunate kids this Christmas by going online, selecting a USPS letter, and send the gift to the child!
+
+content:
+What a great way to make a kid's Christmas a little brighter!
+
+
+https://www.uspsoperationsanta.com/
+
+url:https://reddit.com/r/YouShouldKnow/comments/dz3tk9/
+author:RandomUser0907
+subreddit:YouShouldKnow
+score:13025
+numComments:246
+isOver18:False
+hasPostBody:True

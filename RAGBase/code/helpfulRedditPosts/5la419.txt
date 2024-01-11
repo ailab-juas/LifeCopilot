@@ -1,0 +1,21 @@
+title:
+LPT: If you're new to the gym this week, please research gym etiquette and don't be afraid to ask for help!
+
+content:
+* Rerack your weights
+
+* Clean what you get dirty
+
+* Don't horde multiple pieces of equipment/machines
+
+* Buy a lock
+
+* Use deodorant
+
+url:https://reddit.com/r/LifeProTips/comments/5la419/
+author:Troglodeity
+subreddit:LifeProTips
+score:15385
+numComments:1793
+isOver18:False
+hasPostBody:True

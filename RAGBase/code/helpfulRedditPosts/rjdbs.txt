@@ -1,0 +1,13 @@
+title:
+Rub a walnut on damaged wooden furniture to cover up dings 
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/rjdbs/
+author:icametodropbombs
+subreddit:LifeProTips
+score:3067
+numComments:321
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: If you’re offered a job because “you’re good at figuring things out for yourself,” read between the lines on the red flag, because it says “you aren’t going to get any training.”
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/z9h0q4/
+author:gcwardii
+subreddit:LifeProTips
+score:7050
+numComments:256
+isOver18:False
+hasPostBody:False

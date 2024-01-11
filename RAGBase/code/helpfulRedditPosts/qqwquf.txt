@@ -1,0 +1,21 @@
+title:
+LPT: Turn the microphone off on your dashcam
+
+content:
+If you're running a dashcam, and you should be, turn the microphone off. Probably the speed output as well.  There is very little chance it would ever help you, but can certainly be used against you. 
+
+Don't ever volunteer the fact that you have video at the scene, only provide it to your insurance company. If the police ask for the footage tell them, "I'm not sure if it works", or something else non-committal. 
+
+I know silent video do not make as good of social media posts, but try to remember that this is about more than fake internet points.
+
+Edit: being able to speak out loud information about the scene and events could be vital.
+
+Edit: so a lot of people seem to think this is to commit fraud or avoid responsibility? That's not it at all. That's the same logic as "if you're doing nothing wrong, why do you care if you're being surveilled". The microphone really only captures what's going on **inside** your vehicle, which can open you to claims of distracted driving or admissions of fault ("oh no, I can't believe I did that!").
+
+url:https://reddit.com/r/LifeProTips/comments/qqwquf/
+author:Darklance
+subreddit:LifeProTips
+score:3249
+numComments:338
+isOver18:False
+hasPostBody:True

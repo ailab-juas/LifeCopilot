@@ -1,0 +1,13 @@
+title:
+YSK that you use 100% of brain, instead of the 10% many movies would have you believe.
+
+content:
+Link: http://en.wikipedia.org/wiki/Ten_percent_of_brain_myth#Refutation
+
+url:https://reddit.com/r/YouShouldKnow/comments/22by1w/
+author:DoctorPeter
+subreddit:YouShouldKnow
+score:1873
+numComments:278
+isOver18:False
+hasPostBody:True

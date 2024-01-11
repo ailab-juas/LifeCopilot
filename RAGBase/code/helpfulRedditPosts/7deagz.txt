@@ -1,0 +1,20 @@
+title:
+LPT: Live support chat systems allow the business to see what you're typing in realtime, so only enter text you're 100% comfortable with.
+
+content:
+Almost all support live chat systems provide a "Sneak Peek" feature that allows a customer support agent to see what you're typing in realtime before you submit. This can work against you if you're negotiating a resolution and type something (however brief) that gets taken the wrong way. Keep your in-progress thoughts outside of the chat!
+
+[ChatPirate](https://chatpirate.com/features/livechat)  
+[LiveChat](https://www.livechatinc.com/features/chat-tools/)  
+[Salesforce](https://www.salesforce.com/products/service-cloud/features/live-agent/)  
+[SnapEngage](https://snapengage.com/live-chat-features/)
+
+Edit: vendor links
+
+url:https://reddit.com/r/LifeProTips/comments/7deagz/
+author:crassFavourite
+subreddit:LifeProTips
+score:25131
+numComments:1191
+isOver18:False
+hasPostBody:True

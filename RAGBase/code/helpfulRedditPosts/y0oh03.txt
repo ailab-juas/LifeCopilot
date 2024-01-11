@@ -1,0 +1,13 @@
+title:
+LPT: No matter how many HR emails you get saying otherwise, work is never "Family," remember that.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/y0oh03/
+author:CrimeCoder
+subreddit:LifeProTips
+score:3667
+numComments:145
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,30 @@
+title:
+YSK: Older GPS devices may malfunction on April 6th without a firmware update
+
+content:
+Similar to y2k, the date system on older GPS devices will rollover to zero after April 6th. Some devices may just have a date error, some may crash, or some may direct you into a lake. Almost all cell phones should be fine, as well as the thousands of commercial systems.
+
+It's those with the old car dash type GPS models, handheld hiking types, handheld for golf etc that may be impacted. Go to the vendor website and there should be a firmware update to patch it.
+
+Main thing is that you should check the model your folks have been using since you bought it for them ten years ago for Christmas that's still mounted to their dash (see prior reference about driving into lake).
+
+Sources:
+
+Government: https://www.energy.gov/oe/articles/april-2019-global-positioning-system-gps-week-number-rollover
+
+User friendly explanation
+
+https://www.tomsguide.com/us/gps-mini-y2k-rsa2019,news-29583.html
+
+Video about origin of GPS and what the issue is: https://youtu.be/CnwAJrDikgU
+
+
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/b8s2o1/
+author:sliight
+subreddit:YouShouldKnow
+score:3075
+numComments:112
+isOver18:False
+hasPostBody:True

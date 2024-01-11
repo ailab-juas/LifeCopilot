@@ -1,0 +1,16 @@
+title:
+LPT: Find out the name of the Priceline Express Deal / Hotwire hidden hotel you are staying at before you book.
+
+content:
+For context, Priceline and Hotwire have rooms that are offered at steep discounts with the caveat that the name of the hotel is hidden. This can be HUGE when you can score deals like five star resorts at a fraction of the cost, but sometimes you are stuck with crappy hotels that aren't worth it even at the discounted rate.
+
+You can sleuth the different amenities and description of the hidden hotel on Google to try and guess the name, but there is also a chrome [extension](https://chrome.google.com/webstore/detail/travelarrow-hidden-hotel/coplmfnphahpcknbchcehdikbdieognn?hl=en&amp;authuser=0) that automatically predicts with very high accuracy the name of the hotel (creds to u/CurrentPangolin for creating it).                                   
+Found the name of a priceline express deal on my trip to SF and scored a sweet five star resort for my stay. I was deciding between two "hidden name" five star hotels and if I didn't find out the name beforehand, would've picked the crummy one.
+
+url:https://reddit.com/r/LifeProTips/comments/vw8yx5/
+author:EmotionalChungus
+subreddit:LifeProTips
+score:6126
+numComments:209
+isOver18:False
+hasPostBody:True

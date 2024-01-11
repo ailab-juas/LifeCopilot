@@ -1,0 +1,13 @@
+title:
+LPT: Update your auto insurance policy to reflect your new work-from-home commute mileage.
+
+content:
+I changed my daily commute from 40 miles to 0 now that I am working from home and it reduced my bill by a third.
+
+url:https://reddit.com/r/LifeProTips/comments/fulxne/
+author:13lele13
+subreddit:LifeProTips
+score:35214
+numComments:1268
+isOver18:False
+hasPostBody:True

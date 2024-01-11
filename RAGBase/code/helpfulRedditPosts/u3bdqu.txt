@@ -1,0 +1,13 @@
+title:
+LPT: When you go to hotels that require you to leave a room key in a wall holder to let you turn on the lights, instead of using your room key use ANY other card. The holder doesn't read the card, it just needs something to trip the switch.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/u3bdqu/
+author:jesedigniee
+subreddit:LifeProTips
+score:34254
+numComments:1698
+isOver18:False
+hasPostBody:False

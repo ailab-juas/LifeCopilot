@@ -1,0 +1,13 @@
+title:
+LPT: The back of a spoon is better at spreading than a knife is. When it comes to bread or toast, using the back end of a spoon to spread anything is much more efficient reaching the corners, not tearing up your bread, and creates a more even spread overall.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ps0q99/
+author:cougar515
+subreddit:LifeProTips
+score:2072
+numComments:218
+isOver18:False
+hasPostBody:False

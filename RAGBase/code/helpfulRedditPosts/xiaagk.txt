@@ -1,0 +1,36 @@
+title:
+LPT: when your insurance agent suggests you don't have coverage, ignore them. File the claim anyway.
+
+content:
+If you think you have an insurance claim, put in the claim with the carrier. Don't let your insurance agent talk you out of it.  Don't let them tell you there is no coverage.  
+
+I just found out I have coverage on a claim that the agent three times told me I probably shouldn't bother filing.  
+
+There is no downside to bringing real losses to the carrier, if coverage exists, they are there to help.
+
+Edit 1:
+A number of insurance industry people have weighed in the comments.  It seems about half of them think this is the right approach and the other half think that putting in a claim can raise your premiums.  This might be something that is state specific for those of us in the US.
+
+By the way, this is certainly not legal advice. I'm not in that industry just speaking with someone had this experience twice if being told not to put in it claim and then going through the exercise to find out there was some coverage.
+
+
+Edit 2:
+Insurance rules are different in every jurisdiction, so this advice certainly does not apply to every situation.
+
+Have an agents and trust, you're in a better position to make decisions then if you have a run of the mill guy who is not particularly interested in your situation.  Same advice applies to doctors, lawyers, really anyone whose advice you rely on.
+
+Edit 3:
+Yes of course, only file a claim if there's a reasonable chance you might have some coverage.
+
+Lastly:
+Insurance is for the big things. If you have a 500 deductible, you don't put in for a $700 claim. 
+
+My assumption, and many of people in the comment section agree, insurance companies will penalize policyholders for using the policies in the event of a loss.  Insurance companies are the house, they always win.
+
+url:https://reddit.com/r/LifeProTips/comments/xiaagk/
+author:ibuyofficefurniture
+subreddit:LifeProTips
+score:10619
+numComments:457
+isOver18:False
+hasPostBody:True

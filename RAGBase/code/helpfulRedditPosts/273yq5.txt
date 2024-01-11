@@ -1,0 +1,13 @@
+title:
+LPT: Learn more about the world by reading 1 country's Wikipedia article each day. It takes 20 minutes.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/273yq5/
+author:TheBeefCard1
+subreddit:LifeProTips
+score:2609
+numComments:415
+isOver18:False
+hasPostBody:False

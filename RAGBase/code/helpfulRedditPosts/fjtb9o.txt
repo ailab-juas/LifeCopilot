@@ -1,0 +1,19 @@
+title:
+LPT: If you're using Zoom for work or school, be aware that Zoom has an attention tracking feature.
+
+content:
+Update 4/18/2020: just in case people aren’t reading the comments, a bunch of people have commented to say Zoom seems to have removed the attention tracking feature! 
+
+Basically, Zoom has a function that allows the leader of the meeting to be notified when a participant's Zoom window is closed/inactive for 30+ seconds.
+
+&amp;#x200B;
+
+[Zoom's help center page about the attention tracking feature.](https://support.zoom.us/hc/en-us/articles/115000538083-Attendee-attention-tracking)
+
+url:https://reddit.com/r/LifeProTips/comments/fjtb9o/
+author:astrazebra
+subreddit:LifeProTips
+score:2064
+numComments:139
+isOver18:False
+hasPostBody:True

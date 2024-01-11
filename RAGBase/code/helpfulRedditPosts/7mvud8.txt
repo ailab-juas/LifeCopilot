@@ -1,0 +1,24 @@
+title:
+YSK: if you live in the US and your state's drivers license doesn't meet certain security criteria, you will need to travel with a passport starting Jan 22nd
+
+content:
+A lot of states have been granted extensions until later in the 2018 calendar year, and some states are already compliant. You should check online on the status of your state's ID, so you don't run into any travel issues starting this January. It looks like New York's extension is still under review, which would mean January 22nd is the day that residents with a NY drivers license will need to travel with a passport or other valid forms of ID (unless the extension is granted before that).
+
+Note: this is only relevant to US residents who travel domestically and use their state's drivers license as their form of ID. 
+
+You can check the official Department of Homeland Security page here:
+[https://www.dhs.gov/real-id](https://www.dhs.gov/real-id)
+
+Edit: wanted to clarify that this applies to commercial **flights**. So if you're going to the airport to fly within the US, you might require a passport in the near future. In the past, any state-issued drivers license was sufficient to go through TSA security. Those rules are changing depending on your state. 
+
+Edit2: if you go to the DHS page above and look at the color-coded map, it should clarify some information. If you live in a compliant state (shaded green), then you should be good until 2020. If you live in a state that was granted an extension (shaded yellow) you should be okay until October 2018 (gives you some time to plan ahead). If your state is "under review" like NY, MI, and LA (shaded blue) then you might still have the January 22nd deadline if the extension isn't granted, and immediate action should be taken on your part (do some research or apply for a passport, etc). Passports will of course require citizenship, so permanent residents should probably use their green cards, and other residential statuses will need to plan accordingly. Another user mentioned you can fly without an ID, but extra security measures will be taken during screening. Plan accordingly and allow extra time at the airport if any of this applies to you. 
+
+TL;DR - check the DHS website above. Apply for passport if your state's drivers license doesn't meet criteria for traveling domestically in US. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/7mvud8/
+author:dumpemout
+subreddit:YouShouldKnow
+score:7487
+numComments:670
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,21 @@
+title:
+YSK Comcast Customers (other ISPs?) Threaten to Cancel your internet every year to get lower internet prices
+
+content:
+Why YSK: At least with Comcast, threaten to cancel your internet each time your rates go up after an introductory period to get the same or close to the same rate. I’m just outside Washington D.C. and Comcast will more than double my Internet fees every year after my introductory rate. 
+
+When your introductory rate has completed, contact Comcast via chat or call. Tell them you want to know more about cheaper rates. They’ll give you some BS that there’s nothing they can do, these are the deals. They’re lying. 
+
+*Continue to threaten to cancel! Demand it.*
+
+They will transfer you to the last resort/saving a sale person. This is where you’ll find the actual deals. They’ll ask you what’s fair, say you want the same rate. It’s what you can afford (for me it’s 250mbs down 5 up for $60 a month. I opted for 150 mbs down 5 up for $50 now)
+
+They will give you that rate or it may go up $10. It’s work for me for the past 10 years and has only gone up $20 during this time period.
+
+url:https://reddit.com/r/YouShouldKnow/comments/szy4li/
+author:roguebananah
+subreddit:YouShouldKnow
+score:1117
+numComments:115
+isOver18:False
+hasPostBody:True

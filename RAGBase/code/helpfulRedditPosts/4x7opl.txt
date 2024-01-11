@@ -1,0 +1,13 @@
+title:
+LPT: Mesure your index finger, you'll have a portable ruler everywhere you go.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/4x7opl/
+author:ElCascador
+subreddit:LifeProTips
+score:2865
+numComments:323
+isOver18:False
+hasPostBody:False

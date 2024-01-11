@@ -1,0 +1,23 @@
+title:
+YSK: Aluminum is not an ingredient in deodorants
+
+content:
+Why YSK: Deodorant and antiperspirant are two different things. Antiperspirants usually contain aluminum as an ingredient. Deodorants, for the most part, do not. I’m seeing people buy the more expensive brand of deodorant, because the label says it’s aluminum free. Aluminum was never an ingredient in deodorant to begin with, don’t pay extra for “Aluminum free” deodorant. If anything, pay extra for the Aluminum free antiperspirants. 
+
+[source](https://www.goodhousekeeping.com/beauty/anti-aging/a37272089/is-deodorant-aluminum-bad-for-you/)
+
+[source2](https://www.healthline.com/health/what-to-know-about-aluminum-in-deodorant)
+
+Edit: Here’s what I’ve learned since posting this….Aluminum free antiperspirant doesn’t exist on the market, because the FDA says you can’t call it an antiperspirant without aluminum(pretty stupid IMO because there are other ways to reduce sweating). So best bet here, is to do research on the product, and see if they have an alternative way to block sweating, but even IF they have an alternative way, they cannot call it an antiperspirant on the market due to the FDA. 
+
+[Edit Source](https://www.ejisinc.com/blogs/news/best-aluminum-free-antiperspirants)
+
+[FDA subpart B](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=350&amp;amp;amp;showFR=1)
+
+url:https://reddit.com/r/YouShouldKnow/comments/rjxrki/
+author:andreezy93
+subreddit:YouShouldKnow
+score:13177
+numComments:960
+isOver18:False
+hasPostBody:True

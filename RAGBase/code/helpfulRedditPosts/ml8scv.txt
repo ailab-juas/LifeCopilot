@@ -1,0 +1,15 @@
+title:
+YSK about Terms of Service; Didn't Read
+
+content:
+Why YSK: [Terms of Service; Didn't Read](https://tosdr.org/index.html) (ToS;DR) is an [open-source](https://github.com/tosdr/browser-extensions) internet browser add-on that goes through the Terms of Service (ToS) of a website whenever you enter one. Each website (provided it's been reviewed) is marked with a rating from A to E (A being the highest and E being the grade I got in mathematics), depending on how safe or sketchy the Terms of Service are. It highlights the notable parts of the ToS and gives each point either a thumbs up or a thumbs down, again, depending on how safe or sketchy that part is. ToS;DR is a very useful add-on if you wish to know how reliable a site is without having to go through the Terms of Service. TOS;DR is available for [Chrome](https://chrome.google.com/webstore/detail/terms-of-service-didn%E2%80%99t-r/hjdoplcnndgiblooccencgcggcoihigg), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/terms-of-service-didnt-read/), [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/terms-of-service-didn%E2%80%99t-/oaaecoiolcpocebdnakfpfjegbmmpkjn), [Opera](https://addons.opera.com/en/extensions/details/terms-of-service-didnt-read/) and [Safari](https://safariextension.tosdr.org/) (only available with older versions!).
+
+You can also contact the developer on Reddit! [u/JustinBackDeveloper](https://www.reddit.com/u/JustinBackDeveloper)
+
+url:https://reddit.com/r/YouShouldKnow/comments/ml8scv/
+author:PenPinapplPen
+subreddit:YouShouldKnow
+score:14082
+numComments:147
+isOver18:False
+hasPostBody:True

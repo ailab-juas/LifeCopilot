@@ -1,0 +1,13 @@
+title:
+LPT: When you're at a large sports venue or an area with a lot of people turn off 4G for mobile data, 3G works like a dream
+
+content:
+At a rugby game right now with 30,000 people. My phone wasn't working with 4G, so turned it off and 3G works perfectly. 
+
+url:https://reddit.com/r/LifeProTips/comments/69lyle/
+author:BigJordC
+subreddit:LifeProTips
+score:1557
+numComments:141
+isOver18:False
+hasPostBody:True

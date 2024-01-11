@@ -1,0 +1,17 @@
+title:
+YSK you can create a font that is made out of your own personal handwriting
+
+content:
+You can use a website, such as [MyScriptFont](http://www.myscriptfont.com/) to create a usable font out of your own handwriting and then use in in programs that have different fonts available. All you do is print out the chart the website provides, fill it out, scan it, and then upload it. It's pretty simple, and quite neat!
+
+[Here](http://i.imgur.com/KSXvDUV.jpg) is an example of mine.
+
+It would be awesome to see what all of yours looks like!
+
+url:https://reddit.com/r/YouShouldKnow/comments/2uactx/
+author:Undeniably_Awesome
+subreddit:YouShouldKnow
+score:2100
+numComments:222
+isOver18:False
+hasPostBody:True

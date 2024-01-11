@@ -1,0 +1,16 @@
+title:
+YSK: The National Endowment for Financial Education puts together free Workshop kits to teach financial education on a huge variety of financial topics
+
+content:
+Great for educators, teachers, businesses that want to offer their employees financial literacy or parents that want to sit down with their kid and show some official presentations on "planning for college," etc.
+
+
+raw URL: https://www.financialworkshopkits.org/Workshops
+
+url:https://reddit.com/r/YouShouldKnow/comments/6n30qc/
+author:TheCilician
+subreddit:YouShouldKnow
+score:1522
+numComments:14
+isOver18:False
+hasPostBody:True

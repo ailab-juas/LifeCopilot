@@ -1,0 +1,13 @@
+title:
+LPT: Don’t take criticism from people you wouldn’t take advice from.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/k3yf4z/
+author:Niyi_M
+subreddit:LifeProTips
+score:1075
+numComments:42
+isOver18:False
+hasPostBody:False

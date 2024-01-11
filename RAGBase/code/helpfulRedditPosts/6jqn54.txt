@@ -1,0 +1,13 @@
+title:
+LPT: Smack a small reflective strip on the back of your phone case.
+
+content:
+I've been to a few music festivals (Bonnaroo) and this has saved my ass so many times when I've dropped my phone in the dark. Retrace your steps with a flashlight and you have a slightly better chance of finding it.
+
+url:https://reddit.com/r/LifeProTips/comments/6jqn54/
+author:DarwinismObvious
+subreddit:LifeProTips
+score:1164
+numComments:162
+isOver18:False
+hasPostBody:True

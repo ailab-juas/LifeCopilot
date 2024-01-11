@@ -1,0 +1,19 @@
+title:
+YSK about PatientsLikeMe.com, an online network connecting people with the same disease or condition where they can track and share their experiences. Meanwhile they generate data that help researchers, labs, regulators, providers and nonprofits develop more effective products, services and care.
+
+content:
+A tool where treatments, symptoms, and quality-of-life measures can be tracked over time and help the patients as well as medical professionals.
+
+
+More on wikipedia: https://en.wikipedia.org/wiki/PatientsLikeMe
+
+
+And their official website: https://www.patientslikeme.com/
+
+url:https://reddit.com/r/YouShouldKnow/comments/3bwbiv/
+author:fillingtheblank
+subreddit:YouShouldKnow
+score:1637
+numComments:38
+isOver18:False
+hasPostBody:True

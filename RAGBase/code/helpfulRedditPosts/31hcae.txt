@@ -1,0 +1,13 @@
+title:
+YSK about PC Gaming Wiki, a user curated collection of Wikipedia-style articles collecting fixes and improvement hacks for PC games.
+
+content:
+[PC Gaming Wiki](http://pcgamingwiki.com/wiki/Home) is a user curated collection of Wikipedia-style articles collecting fixes and improvement hacks for PC games. I can't remember the last time I had to Google a problem I'm having with a game. The fix is always up there already. It's actually become a routine for me to visit a game's PCGW page before I even fire it up for the first time, just to see what kind of essential improvements the community recommends.
+
+url:https://reddit.com/r/YouShouldKnow/comments/31hcae/
+author:Mortimer_Mnemonic
+subreddit:YouShouldKnow
+score:1079
+numComments:13
+isOver18:False
+hasPostBody:True

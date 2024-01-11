@@ -1,0 +1,15 @@
+title:
+LPT: If you are on a calorically restricted diet make sure to eat before going to supermarket to buy food.
+
+content:
+While on a diet, our hunger goes through the roof so to avoid binge buying donuts, ice cream, bacon, etc. Make yourself a favor and eat before going to the supermarket.
+
+Example: Be me, 4 weeks into my cut, didn't eat breakfast to save time and went to the supermarket, picked up the veggies I need, glanced at the donuts and various snacks, 404 error: will power not found, bought the donuts.
+
+url:https://reddit.com/r/LifeProTips/comments/9q3zoy/
+author:lotsofoats
+subreddit:LifeProTips
+score:2691
+numComments:85
+isOver18:False
+hasPostBody:True

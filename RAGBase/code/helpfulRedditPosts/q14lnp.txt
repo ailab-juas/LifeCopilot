@@ -1,0 +1,13 @@
+title:
+LPT: When someone is talking about a problem they are going through it's good to ask them whether you want them to offer some advice or solution, sometimes people just want someone to listen
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/q14lnp/
+author:whydoesgravitysuck
+subreddit:LifeProTips
+score:1093
+numComments:50
+isOver18:False
+hasPostBody:False

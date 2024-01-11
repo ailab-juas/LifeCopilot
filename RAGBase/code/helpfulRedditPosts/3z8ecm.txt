@@ -1,0 +1,21 @@
+title:
+YSK how to get rid of the 'Get Windows 10' notification
+
+content:
+After installing a few Windows 7 updates and restarting the computer, I was faced with the nagging notification.
+
+I don't want Windows 10 and never will, I'm loving Windows 7 and it will take something a lot better than 10 to pry me away from it.
+
+I'm sure some of you may feel the same way and want rid of the intrusive notification.
+
+I found this and wanted to share -
+
+http://www.majorgeeks.com/files/details/gwx_control_panel.html
+
+url:https://reddit.com/r/YouShouldKnow/comments/3z8ecm/
+author:playthatfunkymusic
+subreddit:YouShouldKnow
+score:1184
+numComments:353
+isOver18:False
+hasPostBody:True

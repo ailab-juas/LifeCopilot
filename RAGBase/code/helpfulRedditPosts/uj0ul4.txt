@@ -1,0 +1,19 @@
+title:
+YSK that pregnancies are measured from the first day of your last menstrual period. A woman who is 5 weeks pregnant has just missed her first period.
+
+content:
+Why YSK: Lots of people think "6 weeks pregnant" means "6 weeks after conception" or "6 weeks after your missed period." Instead, it means "6 weeks after the first day of your last menstrual period."
+
+It's a common misconception that women know when they are pregnant. Women who aren't tracking their mensuration may have no idea they've missed a period. Women with inconsistent menstrual cycles are especially vulnerable.
+
+More info:
+
+[https://flo.health/pregnancy/week-by-week/gestational-age](https://flo.health/pregnancy/week-by-week/gestational-age)
+
+url:https://reddit.com/r/YouShouldKnow/comments/uj0ul4/
+author:MoonBapple
+subreddit:YouShouldKnow
+score:17024
+numComments:839
+isOver18:False
+hasPostBody:True

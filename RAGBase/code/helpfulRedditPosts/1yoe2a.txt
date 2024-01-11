@@ -1,0 +1,27 @@
+title:
+LPT know why your smartphone is charging slowly. Good for any smartphone owner not just Android. (X-post r/android)
+
+content:
+Is your Android device charging slowly and you can't explain it? This is why.
+
+USB cables have a data wire and a charging wire within the cable itself. Most USB cables, probably over 99+% are 28/28. Buying after market micro USB cables will pretty much always result in getting cheap quality 28/28 cables and your device will barely break 500mah when it charges, maybe even less. 
+
+This isn't the only issue though. After you use a cable for a while it pushes slight stresses on the micro USB connector itself and compresses it. This causes poor connectivity between your device and the wire. This is why it seems like your device port feels like it's getting loose and you think something is wrong. It's most likely the cable being slowly damaged over time. 
+
+Solution? Get a 28/24 gauge cable. 24 gauge is ~ 60% larger and can handle 2amps. This is what is usually sent when you buy a tablet or large phone device. Your wire slowly gets damaged over time or may even stop working entirely. You order a cheap cable off Amazon or eBay and it never appears to charge at the correct speed anymore. 
+
+For the longest time I always thought my actual chargers were slowly dying and my charging speeds were getting worse but it turned out to almost always be poor quality cables. 
+
+Monoprice is the only place I have found that lists their cable gauges. [Here](http://www.monoprice.com/Search/Index?keyword=micro+usb+28%2F24) is a search for the correct term. 28/28 cables still show up so make sure to order the right cables if you need them. 
+
+This has been driving me crazy for the longest time and I couldn't find an explanation so I hope this helps others.
+
+http://www.reddit.com/r/Android/comments/1ynwb4/is_your_android_device_charging_slowly_and_you/
+
+url:https://reddit.com/r/LifeProTips/comments/1yoe2a/
+author:Esteef
+subreddit:LifeProTips
+score:1037
+numComments:105
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+YSK: How to chop like a pro - the Chef's guide to knives 
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/17dhup/
+author:herbg22
+subreddit:YouShouldKnow
+score:1974
+numComments:99
+isOver18:False
+hasPostBody:False

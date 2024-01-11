@@ -1,0 +1,19 @@
+title:
+YSK you can buy your own cable modem instead of renting it from your ISP. It will usually pay for itself in under a year.
+
+content:
+Comcast in my region charges around $8/mo for a modem rental, and you can buy a new one for $70 - or less if you buy used (I saw one of unknown status for $5 at the local thrift store last week).
+
+Motorola Surfboard modems are a safe bet. If you use Comcast/Xfinity, you can check [here](http://mydeviceinfo.comcast.net/) to verify compatibility before purchasing.
+
+**Your mileage may vary. Check with your ISP if unsure.**
+
+Edit: Added bold to line, above. This doesn't apply to every technology, every ISP, or every configuration in every market. My experience is with Comcast and I use a separate modem and router. If you use Comcast's VoIP phone service (I don't. Ooma FTW), you may not be able to buy your own modem. Check with Comcast.
+
+url:https://reddit.com/r/YouShouldKnow/comments/3yk8en/
+author:jaymzx0
+subreddit:YouShouldKnow
+score:1185
+numComments:140
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT If you’re feeling nauseous, but you think you have the physical and mental fortitude to prevent yourself from vomiting, be warned: when you feel a sudden rush of saliva in your mouth, you have 15-20 seconds before you will be projectile vomiting. Nothing can be done to stop it at this point.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/dfkkfq/
+author:Souper_Troll
+subreddit:LifeProTips
+score:1109
+numComments:190
+isOver18:False
+hasPostBody:False

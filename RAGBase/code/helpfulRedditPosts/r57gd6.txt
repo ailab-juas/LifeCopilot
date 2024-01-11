@@ -1,0 +1,13 @@
+title:
+LPT: When you find yourself starting to argue with someone (or they are starting an argument), listen to their full explanation and then accept that the two of you see things differently. You don’t have to convince them you’re right. We all see things through different lenses.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/r57gd6/
+author:DatabaseSolid
+subreddit:LifeProTips
+score:1682
+numComments:105
+isOver18:False
+hasPostBody:False

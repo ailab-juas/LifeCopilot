@@ -1,0 +1,41 @@
+title:
+YSK that the shortest route to a fire exit will be dictated by pushable doors.
+
+content:
+In almost all buildings (all new buildings), the fire doors that leads to the nearest fire exit will be push doors. This means that if you have to pull a fire door, you've probably gone too far.
+
+edit 2: In an attempt to clarify, this YSK ONLY applies to fire doors. These will be placed in main corridors.
+Your office door is not a fire door, neither is your bathroom door.
+
+Government Evidence from both the UK and Scotland
+
+http://www.gov.scot/resource/buildingstandards/2013NonDomestic/chunks/ch03s10.html
+Just under 2.9.8 is a diagram that shows the legal requirement for a fire door.
+
+http://www.bris.ac.uk/safety/media/gn/firedoors-gn.pdf
+Section 5 of the above PDF
+
+http://firecode.org.uk/Code_of_Practice_hardware_for_fire_and_escape_doors.pdf
+Section 2.1
+
+https://www.internationalworkplace.com/health-and-safety/forum/1199/1/0/fire-doors
+Second comment from the bottom (non-reddit format)
+
+http://www.ifsecglobal.com/securing-emergency-exit-doors/
+Second body paragraph
+
+https://www.osha.gov/pls/oshaweb/owadisp.show_document?p_id=9724&amp;p_table=STANDARDS
+1910.36(e)(2)
+
+example house floor plan:
+http://www.quenchfire.co.uk/images/Floor_Plan3.png
+
+I have done my best to please the critics, both welcome and unwelcome. It is a general rule, but all rules are general.
+
+url:https://reddit.com/r/YouShouldKnow/comments/320o4g/
+author:ProjectFrostbite
+subreddit:YouShouldKnow
+score:1300
+numComments:162
+isOver18:False
+hasPostBody:True

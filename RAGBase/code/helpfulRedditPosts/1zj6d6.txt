@@ -1,0 +1,17 @@
+title:
+LPT: If your roommates' cell phone alarm is going off and they are not in the room, call the phone and it will disable the alarm.
+
+content:
+Example: Roommate leaves to go shower and forgot to turn off the alarm
+
+If you're too lazy to get up and turn it off manually this works great or if there is a passcode on it, this still will disable the alarm
+
+YES- it was posted yesterday. I posted the same thing except there were errors on my part and a lot of misunderstanding so I deleted it and then posted it again today to try to be helpful. 
+
+url:https://reddit.com/r/LifeProTips/comments/1zj6d6/
+author:UberBueno
+subreddit:LifeProTips
+score:2981
+numComments:1356
+isOver18:False
+hasPostBody:True

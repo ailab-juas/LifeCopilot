@@ -1,0 +1,13 @@
+title:
+LPT: When planning a garden or backyard, always try to install a few plants native to your area. The local insects and birds have an ecological relationship with those plants, and might not be able to benefit from introduced species. Even a few small plants can help restore biodiversity.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ahc0u1/
+author:HighDingyDoo
+subreddit:LifeProTips
+score:46500
+numComments:661
+isOver18:False
+hasPostBody:False

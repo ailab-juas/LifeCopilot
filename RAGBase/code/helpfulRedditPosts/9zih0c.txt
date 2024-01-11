@@ -1,0 +1,13 @@
+title:
+LPT: Think carefully before complaining to a friend about another person. You may eventually forgive that person, but your friend will not.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/9zih0c/
+author:cstrife16
+subreddit:LifeProTips
+score:1018
+numComments:41
+isOver18:False
+hasPostBody:False

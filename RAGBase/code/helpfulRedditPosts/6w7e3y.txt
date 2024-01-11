@@ -1,0 +1,13 @@
+title:
+YSK the difference between the Swastika used by religious groups and the one used by the Nazis. Many Hindus and other religions might have one drawn on their car or on the stoop of their home door. The swastika originated centuries ago and is still a sacred symbol of Buddhism, Hinduism, and Jainism.
+
+content:
+The characteristics of the Nazi Swastika include it being tilted so that only a point is touching each side of an imaginary circumscribed square. The one that is used by Hindus, Jains, and Buddhists is not tilted and might have four dots in between each of the Swastika's "arms"
+
+url:https://reddit.com/r/YouShouldKnow/comments/6w7e3y/
+author:parth096
+subreddit:YouShouldKnow
+score:1005
+numComments:91
+isOver18:False
+hasPostBody:True

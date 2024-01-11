@@ -1,0 +1,13 @@
+title:
+LPT: If you have a guest room, spend a night or two in it. There may be problems with the room that your guests will never tell you about.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/49aup0/
+author:[deleted]
+subreddit:LifeProTips
+score:5598
+numComments:870
+isOver18:False
+hasPostBody:True

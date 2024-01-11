@@ -1,0 +1,36 @@
+title:
+YSK That any coffee sold as "dark roast" will usually have less caffeine than medium or light roast coffee
+
+content:
+I only found this out recently, and I feel like it is probably counter intuitive for most people - you would think the darkest, strongest tasting coffee would be the strongest caffeine wise, but it is actually the opposite. 
+
+
+So if you are looking for a strong caffeine boost, go with the lightest roast available. And if you're looking for a lower caffeine level, go with the dark roast.
+
+
+I don't think there is actually any scientific reason that this is the case, and the notion that longer roasting times lower caffeine content seems to be a myth, but check out the caffeine content for both Dunkin Donuts and Starbucks:
+
+
+https://www.caffeineinformer.com/complete-guide-to-dunkin-donuts-caffeine-content
+
+
+https://www.caffeineinformer.com/the-complete-guide-to-starbucks-caffeine
+
+
+The disparity at 20 oz for Dunkin between a normal and a dark roast is only 65 mg of caffeine, but the disparity at 20 oz for Starbucks between their dark and blonde roast is 135 mg, which is definitely significant.
+
+
+
+
+
+
+
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/6j5qly/
+author:showmeurknuckleball
+subreddit:YouShouldKnow
+score:1706
+numComments:157
+isOver18:False
+hasPostBody:True

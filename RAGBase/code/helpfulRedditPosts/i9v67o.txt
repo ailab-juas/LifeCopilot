@@ -1,0 +1,13 @@
+title:
+LPT: When you open a bag of chips or some kind of snack, open it upside down. All of the seasoning that settled at the bottom will now be at the top to recirculate all of the goodness back to the rest of the bag.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/i9v67o/
+author:smelllikesoundtastes
+subreddit:LifeProTips
+score:4337
+numComments:167
+isOver18:False
+hasPostBody:False

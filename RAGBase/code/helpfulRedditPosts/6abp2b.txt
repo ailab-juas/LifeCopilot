@@ -1,0 +1,19 @@
+title:
+LPT: Want to download the highest quality version of an Instagram photo? View the page source on desktop and find the line titled "og:image"
+
+content:
+Instagram tries to make it difficult to save photos outside of the app, but there's a pretty easy workaround.  
+
+Let's say you want to save this image to your desktop: https://www.instagram.com/p/BTO_dCkhxdQ/  
+
+Load it in it's own browser tab (I'm using Google Chrome), right click and select "View Page Source" (Ctrl+U): http://imgur.com/a/T45dd  
+
+Then in the page source search for "og:image". That URL links to the raw file. Copy and paste that image URL into a new tab and do with it as you wish! http://imgur.com/a/LWWQl
+
+url:https://reddit.com/r/LifeProTips/comments/6abp2b/
+author:a_ferocious_coug
+subreddit:LifeProTips
+score:25620
+numComments:622
+isOver18:False
+hasPostBody:True

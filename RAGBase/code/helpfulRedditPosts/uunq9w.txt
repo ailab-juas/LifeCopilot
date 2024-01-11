@@ -1,0 +1,13 @@
+title:
+YSK that Beauty Parlor Stroke Syndrome can cause strokes from pressure on the back of the neck while getting your hair shampooed in a salon.
+
+content:
+**Why YSK** While it is uncommon, people have suffered strokes from hyperextending their neck into the shampoo bowl which puts pressure on arteries. Putting a towel under your neck is one thing you can do to lessen the risk. This article explains it well: https://www.self.com/story/what-is-beauty-parlor-stroke-syndrome/amp
+
+url:https://reddit.com/r/YouShouldKnow/comments/uunq9w/
+author:cherrybounce
+subreddit:YouShouldKnow
+score:9219
+numComments:319
+isOver18:False
+hasPostBody:True

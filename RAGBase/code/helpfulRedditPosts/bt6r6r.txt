@@ -1,0 +1,13 @@
+title:
+LPT: If you're traveling in a foreign country and don't have the correct adaptor for the wall socket, check the back of the T.V. in your room. Most will have a USB port and you can charge your phone there.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/bt6r6r/
+author:potatobeagle
+subreddit:LifeProTips
+score:1237
+numComments:66
+isOver18:False
+hasPostBody:False

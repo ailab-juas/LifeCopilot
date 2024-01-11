@@ -1,0 +1,15 @@
+title:
+LPT: Mute your gas pump
+
+content:
+Mute your gas pump
+
+You know those incredibly annoying screens that play nonsense that nobody is interested in at full volume when you're pumping gas? You can mute them! The second button down from the top on the right of the screen works for me, but press all of them if it doesn't. One of them should mute it.
+
+url:https://reddit.com/r/LifeProTips/comments/zlsalz/
+author:ahandmadegrin
+subreddit:LifeProTips
+score:1201
+numComments:442
+isOver18:False
+hasPostBody:True

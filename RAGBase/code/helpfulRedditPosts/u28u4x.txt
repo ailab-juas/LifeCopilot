@@ -1,0 +1,13 @@
+title:
+LPT: if you’ve been avoiding doing a task, tell yourself you’ll only work on it for 2 minutes and then can stop if you want. Often, starting a task is harder than doing the task and you’ll keep going after 2 minutes.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/u28u4x/
+author:slowlybackwards
+subreddit:LifeProTips
+score:1737
+numComments:54
+isOver18:False
+hasPostBody:False

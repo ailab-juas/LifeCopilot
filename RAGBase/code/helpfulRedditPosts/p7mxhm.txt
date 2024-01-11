@@ -1,0 +1,13 @@
+title:
+LPT: When chopping food, turn the knife over and use the dull edge when pushing food off your cutting board into your pot/pan etc. It will keep the sharp edge sharp for significantly longer.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/p7mxhm/
+author:sycohozbst
+subreddit:LifeProTips
+score:27237
+numComments:748
+isOver18:False
+hasPostBody:False

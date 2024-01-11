@@ -1,0 +1,19 @@
+title:
+YSK that modern websites track our mouse movements, network traffic, and all of your key presses even if you never submit data to them.
+
+content:
+Two popular tools to do this are [Full Story](https://www.fullstory.com/) and [Inspectlet](https://www.inspectlet.com/).
+
+They can 'watch' what you're doing on the site in near real-time almost like it's a video of your screen.
+
+This is used to prioritize new user features and troubleshoot technical issues.
+
+This information can be stored for months and used to build a unique profile of you as a user.
+
+url:https://reddit.com/r/YouShouldKnow/comments/b0fh6t/
+author:CSMastermind
+subreddit:YouShouldKnow
+score:4612
+numComments:289
+isOver18:False
+hasPostBody:True

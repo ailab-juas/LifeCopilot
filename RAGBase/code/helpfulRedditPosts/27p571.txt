@@ -1,0 +1,25 @@
+title:
+LPT: Record all your past addresses (work/home) with phone numbers. You will need it!
+
+content:
+As I learned the hard way recently new requirements for applying to jobs and to rent apartments/homes require up to 10 years of prior work experience and address information. Creating all of this from scratch is quite the pain! Record all of the addresses where you have lived with your landlord's contact information as well as your previous work addresses. This will stop you from having to scramble around to find this information when you are filling out applications. I almost didn't get a job as I had a 2 year gap where I could not provide employer information due to the employer going out of business. Luckily I was able to contact an old work friend via Facebook and get the information from him.
+
+If you are like me and haven't recorded this information check your Amazon/Newegg/Food delivery/etc accounts, typically they keep records of where they have sent items previously. A credit report can also be handy to find these previous locations as well. Don't be like me though and keep having to go back and look all this up again and again, there is no guarantee that this information will be there forever. Write it down and store it in a secure place. 
+
+I'm using google docs but if you are more paranoid an encrypted flash drive would work well. TrueCrypt and other free encryption solutions are out there to assist you with this.
+
+Same goes for traffic tickets, keep a copy of the time/place/infraction/court/court dates/etc.
+
+I'd also recommend keeping a copy of your driver's license handy but once again make sure it is in a secure location, especially if your SSN is on it. 
+
+I live in the United States so it may be different in your country but it will never hurt you to have this information handy.
+
+EDIT: Thanks for the suggestions, added to them to the post.
+
+url:https://reddit.com/r/LifeProTips/comments/27p571/
+author:Durrok
+subreddit:LifeProTips
+score:1944
+numComments:313
+isOver18:False
+hasPostBody:True

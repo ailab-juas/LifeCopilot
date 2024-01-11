@@ -1,0 +1,15 @@
+title:
+LPT: When travelling, take pictures of signs at the places you visit.
+
+content:
+E.g. street signs, restaurants or cafés you liked or maybe the street you lived on. When you look at the pictures later you'll remember the names of the places and the sign-pictures will also make a natural chaptering when looking through your pictures. 
+
+Names are easy to forget over time and might be useful if you want to recommend places to friends later on. 
+
+url:https://reddit.com/r/LifeProTips/comments/1ajstg/
+author:lemon_cello
+subreddit:LifeProTips
+score:1093
+numComments:47
+isOver18:False
+hasPostBody:True

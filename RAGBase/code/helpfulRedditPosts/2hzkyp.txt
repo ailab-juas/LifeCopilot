@@ -1,0 +1,42 @@
+title:
+YSK facts about ebola from the WHO.
+
+content:
+Recently Ebola has been discovered in Dallas in an unidentified person that recently traveled to Africa, returning on September 20th. Many Americans are concerned, so I thought I would put to together a post with some facts from the WHO. 
+
+
+* Ebola virus disease (EVD), formerly known as Ebola haemorrhagic fever, is a severe, often fatal illness in humans.
+
+* The virus is transmitted to people from wild animals and spreads in the human population through human-to-human transmission.
+
+* The average EVD case fatality rate is around 50%. Case fatality rates have varied from 25% to 90% in past outbreaks.
+
+* The first EVD outbreaks occurred in remote villages in Central Africa, near tropical rainforests, but the most recent outbreak in west Africa has involved major urban as well as rural areas.
+
+* Community engagement is key to successfully controlling outbreaks. Good outbreak control relies on applying a package of interventions, namely case management, surveillance and contact tracing, a good laboratory service, safe burials and social mobilisation.
+
+* Early supportive care with rehydration, symptomatic treatment improves survival. There is as yet no licensed treatment proven to neutralise the virus but a range of blood, immunological and drug therapies are under development.
+
+* There are currently no licensed Ebola vaccines but 2 potential candidates are undergoing evaluation.
+
+* The incubation period is 2 to 21 days.
+
+* The virus is transmitted person to person via broken skin and contact with mucous membrane from body fluids from infected individuals. Body fluids include saliva, blood, semen, vaginal secretions, and breast milk.
+
+* Ebola has been known to be transmitted to healthcare workers that either did not practice, or have access to personal protection equipment including gloves and face masks and eye shields.
+
+* It is believed that one cause of the increased numbers is unsafe handling of deceased patients during the burial ritual, as the virus can be transmitted after death.
+
+Please like and share to spread the word about ebola in America. 
+For more information please visit http://www.who.int/mediacentre/factsheets/fs103/en/ from which this information was gathered, copied and paraphrased. 
+
+**edited for format thanks to u/earlap
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/2hzkyp/
+author:mrwhibbley
+subreddit:YouShouldKnow
+score:1442
+numComments:199
+isOver18:False
+hasPostBody:True

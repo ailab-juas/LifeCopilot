@@ -1,0 +1,13 @@
+title:
+LPT: If your older family members constantly call you for help working their home media systems, photograph all of the remotes.
+
+content:
+That way, when you are on the phone trying to talk them through playing a DVD for the fiftieth time, you can reference the photos and just say, "on the grey Sony remote, push the middle button second from the bottom." It will save your sanity.
+
+url:https://reddit.com/r/LifeProTips/comments/23s0ti/
+author:Rknot
+subreddit:LifeProTips
+score:2896
+numComments:219
+isOver18:False
+hasPostBody:True

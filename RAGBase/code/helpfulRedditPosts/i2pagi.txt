@@ -1,0 +1,13 @@
+title:
+LPT: If you want to buy something on Amazon very badly and you don't have enough money, read all the product reviews of 1 star and 2 stars. You will no longer have desire to buy that thing.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/i2pagi/
+author:[deleted]
+subreddit:LifeProTips
+score:1093
+numComments:42
+isOver18:False
+hasPostBody:False

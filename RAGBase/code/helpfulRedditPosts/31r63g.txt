@@ -1,0 +1,34 @@
+title:
+[LPT] Quickly Estimate A Yearly Salary From Hourly Pay!
+
+content:
+  
+Step 1.) Take hourly pay (i.e., $Y/hr)  
+Step 2.) Double hourly pay (i.e., $Y/hr x 2 = $Z)  
+Step 3.) Add three zeros to the result of "Step 2.)" (i.e.,  $Z x 1000 = Estimated Yearly Salary).    
+
+In short, this is the "hourly pay" multiplied by 2000. But, by following the above-mentioned steps one can **mentally** arrive to an **estimated salary** from the "hourly pay" with little effort or additional resources.
+
+**ASSUMPTIONS FOR THIS ESTIMATION:**  
+* You work 40 hours per week   
+* You only get paid for 50 weeks out of a calendar year.  
+*It should be understood that, basic arithmetic can be performed to obtain a more accurate figure for a yearly salary.  This post's focus is implementing a generalized, easily calculable, estimation method to obtain a ballpark figure for a yearly salary.*
+
+For example: $14/hr (hourly pay) --&gt; $28 (doubling hourly pay) --&gt; $28,000 (adding three zeros).  This means someone who makes $14/hr before tax will earn *roughly* $28,000 over the course of the year, before tax.  
+  
+  
+  
+Tl;dr (courtesy of /u/geohump):   
+Double the hourly rate: $14/hr -&gt; $28/hr  
+Add a "K/year": $28K/year  
+
+Edit: Formatting  
+Edit 2: Reorganized for clarity
+
+url:https://reddit.com/r/LifeProTips/comments/31r63g/
+author:FabricOfCosmos
+subreddit:LifeProTips
+score:1642
+numComments:457
+isOver18:False
+hasPostBody:True

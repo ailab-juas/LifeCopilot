@@ -1,0 +1,13 @@
+title:
+LPT: When proofing your own writing, change the font to keep from missing errors.
+
+content:
+Of course it's better to find a friend and proof each others' work. In lieu of that, temporarily change what you wrote to a different size, font, etc. Making it more difficult to read will slow you down and help you catch your own errors.
+
+url:https://reddit.com/r/LifeProTips/comments/4sszyd/
+author:LaughingFreckle
+subreddit:LifeProTips
+score:2953
+numComments:246
+isOver18:False
+hasPostBody:True

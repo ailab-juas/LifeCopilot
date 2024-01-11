@@ -1,0 +1,13 @@
+title:
+LPT: If you're already having a terrible day, do as many things that you've been dreading that you can.
+
+content:
+At a certain level of bad day, you're unlikely to feel much worse. After you complete your tasks, you'll feel better, or you'll at least keep those things from ruining another day. 
+
+url:https://reddit.com/r/LifeProTips/comments/5omo9o/
+author:tense_or
+subreddit:LifeProTips
+score:28523
+numComments:1078
+isOver18:False
+hasPostBody:True

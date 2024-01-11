@@ -1,0 +1,13 @@
+title:
+LPT: If you cut off the crown (green part) of a pineapple and plant it, it will grow a new pineapple.
+
+content:
+This is a years-long process and requires a somewhat warm climate, but there is something satisfying about growing something as seemingly exotic as a pineapple in your own backyard. 
+
+url:https://reddit.com/r/LifeProTips/comments/8ueww5/
+author:epbarbin
+subreddit:LifeProTips
+score:2677
+numComments:187
+isOver18:False
+hasPostBody:True

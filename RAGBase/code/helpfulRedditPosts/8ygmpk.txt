@@ -1,0 +1,26 @@
+title:
+YSK there is a new email scam going around.
+
+content:
+So I got an email that basically went like this:
+
+“Dear iknowdanjones,
+
+We have your password, and it is HippityHoppityGiveEmTheZoppity69. We have hacked into your computer and have video of you watching porn. If you don’t send us $2,000 worth of bitcoin within the next 48 hours, we will send this video to your entire contact list and various porn sites. “
+
+
+The thing is that HippityHoppityGiveEmTheZoppity69 used to be my password for my social media and a few other things, but I changed it about 7 or 8 years ago. I don’t use that password for anything anymore. 
+
+So I googled the email, and found this article: https://krebsonsecurity.com/2018/07/sextortion-scam-uses-recipients-hacked-passwords/
+
+Don’t fall for it, the found your old password through info of a hacked website a long time ago. If you still use that password provided for anything, you might consider changing it since that info is out there somewhere. 
+
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/8ygmpk/
+author:iknowdanjones
+subreddit:YouShouldKnow
+score:3722
+numComments:273
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: When installing software, always pick "Custom Installation", everything will already be the same as "Default Installation", except you can uncheck any toolbars/shortcuts/etc. that you don't want installed with the software.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1ca92f/
+author:B_Rich
+subreddit:LifeProTips
+score:1862
+numComments:244
+isOver18:False
+hasPostBody:False

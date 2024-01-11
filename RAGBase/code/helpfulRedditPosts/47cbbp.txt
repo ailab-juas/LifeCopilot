@@ -1,0 +1,24 @@
+title:
+LPT: Instead of googling the description of a bug in your pc, you should google "error xxxxxxx solved".
+
+content:
+For instance
+
+&gt;"Whenever I'm playing "My little pony: the RPG" on steam, it crashes right before the porney scene. Anyone have this problem?" 
+
+The description above most likely wont return you anything. Instead, look at the error number in the crash window and google like the following:
+
+&gt;0x0069ebola1 solved
+
+___________
+Edit: Nevermind, I fixed it. :)
+
+Thread locked.
+
+url:https://reddit.com/r/LifeProTips/comments/47cbbp/
+author:CaptainDogeSparrow
+subreddit:LifeProTips
+score:4625
+numComments:399
+isOver18:False
+hasPostBody:True

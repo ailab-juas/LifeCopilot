@@ -1,0 +1,14 @@
+title:
+LPT: How to hide what you're doing on windows 10
+
+content:
+Hey everyone who uses windows 10. Press the Windows key + Tab. This will bring up a menu with all your current windows. On the bottom, open up a second desktop. Now that you're in the second desktop, quickly switch between desktops by clicking: "windows key" + "ctrl" + "(left or right) arrow".     
+Boom. Have you're serious activities on the left desktop, and have you're reddit-at-work activities and whatever else in the right desktop. Have fun
+
+url:https://reddit.com/r/LifeProTips/comments/445qp9/
+author:Nkriska131
+subreddit:LifeProTips
+score:1035
+numComments:124
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: If you’re on zoom call, make it a habit to mute yourself by default and hold space bar to unmute temporarily while you speak. This will save you from unknowingly leaving yourself unmuted.
+
+content:
+Not just zoom, most other softwares/apps have this “push to talk” feature. This will make sure that you explicitly press and hold a button of sorts to unmute yourself - reducing the chances of leaving yourself unmuted without your knowledge.
+
+url:https://reddit.com/r/LifeProTips/comments/kn2910/
+author:the_last_lemurian
+subreddit:LifeProTips
+score:25308
+numComments:452
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Razors get dull mostly from rust, not use. To prolong the life of razor cartridges, dip the razor in rubbing alcohol or clean it with an alcohol pad after each use, effectively drying it off. Using this method, one cartridge can last several months, saving a lot of money.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/dwb05y/
+author:NB247
+subreddit:LifeProTips
+score:1135
+numComments:136
+isOver18:False
+hasPostBody:False

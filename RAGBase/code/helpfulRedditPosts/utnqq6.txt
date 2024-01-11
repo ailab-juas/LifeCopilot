@@ -1,0 +1,15 @@
+title:
+LPT Salt and acid are the secret to delicious food
+
+content:
+I’ve been cooking professionally for 12 years now. I’ve cooked in multiple James Beard finalist and one James Beard winning restaurant. I’m not saying this to brag or tout how great I am. In all honesty I’ve been at best a competent chef and line cook, but after having talked to my non industry friends and family I can safely say that not using salt and acids correctly is easily the defining factor between restaurant quality and homemade food. There are definitely multiple factors that go into good food including quality of ingredients, skill, and equipment, but the ability to properly season food is what will make your food go from good great 9/10 times.
+
+ First you should add a splash of acid and a solid pinch of salt at the beginning of the cooking process. Depending on what you’re cooking the acid will probably be some kind of citrus juice, vinegar or wine. I add a bit when I start cooking so that it can work it’s way into whatever I’m making and then add a bit more at the end to brighten up the dish (except wine, that’ll just end up making the dish boozy and not in a good way). Once your food is finished cooking taste it and then add a pinch more salt and a splash more vinegar and taste it again. Your food will have significantly more flavor  and depth. The goal here is to add salt pinch by pinch (only add one extra splash of vinegar as it overpowers food much easier than salt) until you get to the point where any more and your dish will taste like salt and not what you’re cooking. But be warned this threshold varies from dish to dish, and more importantly, from person to person. Everyone has a different salt threshold and unfortunately the only way to find where that line is for yourself is to cross it a few times. Once you master it though your food will go from tasty to delicious.
+
+url:https://reddit.com/r/LifeProTips/comments/utnqq6/
+author:Youmeandthedevil
+subreddit:LifeProTips
+score:14799
+numComments:917
+isOver18:False
+hasPostBody:True

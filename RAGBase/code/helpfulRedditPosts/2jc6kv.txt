@@ -1,0 +1,13 @@
+title:
+LPT: Email inbox full? Don't worry about deleting a large number, delete a large volume. Sort by size, and delete the largest (non-essential) messages.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/2jc6kv/
+author:ConstableBobrovsky
+subreddit:LifeProTips
+score:1171
+numComments:205
+isOver18:False
+hasPostBody:False

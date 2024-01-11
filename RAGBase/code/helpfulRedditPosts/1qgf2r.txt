@@ -1,0 +1,15 @@
+title:
+LPT: When cleaning your bathroom use 2/3 vinegar and 1/3 dishwashing liquid. It will do the job just as good as any expensive product, except the drains.
+
+content:
+.. furthermore, you won't get poisonous fumes in your lungs, and you'll save a lot of money.
+
+edit: spelling of "lungs". My English is rusty.
+
+url:https://reddit.com/r/LifeProTips/comments/1qgf2r/
+author:ulvefar
+subreddit:LifeProTips
+score:1124
+numComments:348
+isOver18:False
+hasPostBody:True

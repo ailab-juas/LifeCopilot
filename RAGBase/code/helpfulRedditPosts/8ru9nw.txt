@@ -1,0 +1,13 @@
+title:
+YSK you need to deregister a device like Roku or FireStick before giving it away to a thrift store.
+
+content:
+If they know how the person who buys it can log in and charge movies and apps to your account. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/8ru9nw/
+author:SSSS_car_go
+subreddit:YouShouldKnow
+score:5637
+numComments:129
+isOver18:False
+hasPostBody:True

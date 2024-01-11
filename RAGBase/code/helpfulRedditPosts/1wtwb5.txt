@@ -1,0 +1,13 @@
+title:
+YSK that it IS possible to mute most self-checkout machines at your local grocery store.
+
+content:
+Someone pointed out to me the mute button for the self-checkout machines at Kroger today. It's a volume logo underneath the "pay now" button at the bottom of the screen. I personally was OVERJOYED at this discovery because I generally HATED using the checkout machines but still found them to be somewhat convenient when I was only getting just a few items. But now I don't even have to listen to them!!! Hope this is useful for my fellow convenient store luddites!
+
+url:https://reddit.com/r/YouShouldKnow/comments/1wtwb5/
+author:Salsaboy100
+subreddit:YouShouldKnow
+score:1395
+numComments:239
+isOver18:False
+hasPostBody:True

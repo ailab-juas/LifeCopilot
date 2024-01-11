@@ -1,0 +1,13 @@
+title:
+LPT: When selling things online, give potential buyers a strict window of availability. Otherwise they will waste your whole day.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/zzleea/
+author:_SamuraiJack_
+subreddit:LifeProTips
+score:1356
+numComments:89
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: Search your crowded inbox for the word "Unsubscribe" to flag all your junk mail at once. You will be able to delete nearly every result.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/gfazp7/
+author:excellentbreakfasts
+subreddit:LifeProTips
+score:2132
+numComments:46
+isOver18:False
+hasPostBody:False

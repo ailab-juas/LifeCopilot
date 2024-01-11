@@ -1,0 +1,20 @@
+title:
+YSK that the fastest readers out there also subvocalize - relevant to those who want to learn "speed-reading"
+
+content:
+**Source: [*Speed reading classes claim to be able to turbocharge your words per minute. Is this really possible?*](http://skeptoid.com/episodes/4229)**
+
+"Ronald Carver, author of the 1990 book The Causes of High and Low Reading Achievement, is one researcher who has done extensive testing of readers and reading speed, and thoroughly examined the various speed reading techniques and the actual improvement likely to be gained. One notable test he did pitted four groups of the fastest readers he could find against each other. The groups consisted of champion speed readers, fast college readers, successful professionals whose jobs required a lot of reading, and students who had scored highest on speed reading tests. Carver found that of his superstars, none could read faster than 600 words per minute with more than 75% retention of information."
+
+"One of the basic goals is the elimination of subvocalization, claimed to be the thing that slows readers down the most. Subvocalization is the imagined pronunciation of every word we read. I do this a lot, and it limits my reading speed to virtually the same as my talking speed. Subvocalization is even accompanied by minute movements of the tongue and throat muscles. Nearly every speed reading class promises the elimination of subvocalization.
+
+
+Here's the problem with that. **You can't read without subvocalization.** Carver and Rayner have both found that even the fastest readers all subvocalize. Even skimmers subvocalize key words. This is detectable, even among speed readers who think they don't do it, by the placement of electromagnetic sensors on the throat which pick up the faint nerve impulses sent to the muscles. Our brains just don't seem to be able to completely divorce reading from speaking"
+
+url:https://reddit.com/r/YouShouldKnow/comments/2h60vs/
+author:embryo
+subreddit:YouShouldKnow
+score:1454
+numComments:208
+isOver18:False
+hasPostBody:True

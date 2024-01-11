@@ -1,0 +1,19 @@
+title:
+YSK - how to link to a specific timestamp in YouTube videos
+
+content:
+Why YSK - just makes it easier when you want to show someone a specific part of the video and cut to the chase. 
+
+Here's how: paste the url then add a question mark to tell the server you're gonna give it parameters, followed by t= meaning "t for time is equal to" then the time where you want the video to start, using the format XhYmZs, where X is the number of hours, Y minutes, and Z seconds... You can use any combo of those, and you can do all three, just two, or even just one. 
+
+Examples: if a clip starts at 1:06:00 into the video  paste the link and add ?t=1h6m0s
+
+If it was, say, a minute and ten seconds into a video, I could say ?t=1m10s or ?t=70s.
+
+url:https://reddit.com/r/YouShouldKnow/comments/vkj797/
+author:gynoceros
+subreddit:YouShouldKnow
+score:3147
+numComments:95
+isOver18:False
+hasPostBody:True

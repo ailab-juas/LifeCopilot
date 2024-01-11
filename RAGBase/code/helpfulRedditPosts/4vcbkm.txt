@@ -1,0 +1,13 @@
+title:
+LPT: Explanations aren't apologies. When you apologize, do so explicitly.
+
+content:
+Some people just explain why they acted the way they did instead of apologizing for it. To the receiver, that doesn't feel like an apology but as if they're trying to justify their behavior. If you're apologizing for something, remember to actually say sorry.
+
+url:https://reddit.com/r/LifeProTips/comments/4vcbkm/
+author:founddumbded
+subreddit:LifeProTips
+score:4347
+numComments:518
+isOver18:False
+hasPostBody:True

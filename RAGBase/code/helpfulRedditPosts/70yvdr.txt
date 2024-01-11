@@ -1,0 +1,13 @@
+title:
+YSK: Paying for Spotify with CapitalOne card gets you a 50% credit back
+
+content:
+I just paid $2.50 for Spotify/HULU Student combo
+
+url:https://reddit.com/r/YouShouldKnow/comments/70yvdr/
+author:OfcrChapin
+subreddit:YouShouldKnow
+score:3981
+numComments:204
+isOver18:False
+hasPostBody:True

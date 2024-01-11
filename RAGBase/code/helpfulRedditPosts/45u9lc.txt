@@ -1,0 +1,13 @@
+title:
+LPT: If you drop something small, don't try and catch it. Stare at it and watch where it falls.
+
+content:
+You are much more likely to bat the object into oblivion than successfully catch it.
+
+url:https://reddit.com/r/LifeProTips/comments/45u9lc/
+author:PrecRa
+subreddit:LifeProTips
+score:2182
+numComments:291
+isOver18:True
+hasPostBody:True

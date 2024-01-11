@@ -1,0 +1,29 @@
+title:
+LPT: When someone is trying to convince you of their opinion, ask them their level of confidence. If they respond along the lines of ‘100%’, then take everything they say with a grain of salt.
+
+content:
+More often than not, if someone is 100% confident about their position then they:
+
+A) are extremely susceptible to confirmation bias
+
+B) are spending their time in an echo chamber
+
+C) are not open to contradictory information
+
+D) have an ulterior motivate and are not being truthful
+
+E) are (to be blunt) unintelligent, or simply uneducated in the topic and just beginning to learn the basics
+
+Stocks, business, science, medicine, and politics are all great examples where these conversations happen often. 
+
+There are obviously exceptions to this rule, but this has helped me make many fantastic business and life decisions. If it helps at least one person make one positive decision then it has been worth my time to write this. 
+
+Stay safe in this crazy world, and stay educated.
+
+url:https://reddit.com/r/LifeProTips/comments/s73f8q/
+author:JimHalpertsUncle
+subreddit:LifeProTips
+score:5596
+numComments:526
+isOver18:False
+hasPostBody:True

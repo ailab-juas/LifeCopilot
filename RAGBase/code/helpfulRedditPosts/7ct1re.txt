@@ -1,0 +1,38 @@
+title:
+YSK that Kidde is recalling nearly 38 million fire extinguishers made from 1973 through 2017
+
+content:
+**If you have a fire extinguisher with a plastic handle, definitely check if it's part of the recall**
+
+More info [here](https://inmarmarketaction.com/kidde/). Some other brands (presumably manufactured by Kidde) include: 
+
+* Ademco
+* ADT
+* Bicentennial
+* Costco
+* Fire Away 
+* Fuller
+* Gillette 
+* Home
+* Honeywell
+* J.L.
+* Kadet
+* Mariner
+* Master Protection
+* Montgomery Ward
+* Quell
+* Sams
+* Sanford
+* Sears
+* Traveler 
+* Volunteer
+
+[Source](https://s3.amazonaws.com/inmar-adx-files/N130284/US_Plastic+Handle+Product+ID+Guide.pdf) 
+
+url:https://reddit.com/r/YouShouldKnow/comments/7ct1re/
+author:Tananar
+subreddit:YouShouldKnow
+score:7806
+numComments:244
+isOver18:False
+hasPostBody:True

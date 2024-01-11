@@ -1,0 +1,37 @@
+title:
+YSK mixing vinegar and baking soda makes them useless for cleaning
+
+content:
+(Updated at bottom based on comments)
+
+ Why YSK: Vinegar (usually, distilled vinegar) and baking soda are often hailed for their handy cleaning properties.  Used separately, this is 100% true! All kinds of people on the internet, though, tell you to mix them together and make some kind of super-duper-cleaner…but they’re 100% wrong.  If you mix them, you make them both nearly useless.  Here’s why…
+
+Vinegar is an acid diluted in water. Acids are great at eating lots of things away.  Because the acid in vinegar (acetic acid) isn’t too strong, and it’s heavily diluted in the water, vinegar is usually not too harsh for most surfaces or materials.  So, using vinegar is a great way to kill germs, eat some staining off of metal (like kitchen stuff), and so on.  Vinegar also does a great job of fighting mildew smells in the laundry. 
+
+Baking soda is a gritty powder.   Mix it with a little water and you get a paste.   Put that paste onto a hard surface (like something metal or wood), rub that paste around, and that gritty stuff literally grinds off the gunk (and maybe a leeeeeeeettle bit of the material itself), leaving a clean looking and shiny surface.  Baking soda is also great at absorbing odors when dry.  So, you can leave an open box in a stinky place, and it will tend to soak up the smell.  But…baking soda is a base.  That’s the opposite of an acid. 
+
+So…when you mix them, you are mixing an acid and a base. It looks super cool as it bubbles a lot and really really *looks* like some magical chemistry stuff is happening and *must* be doing a great job cleaning….right?
+
+Wrong.  What’s happening is that the acetic acid and baking soda are interacting with each other.
+
+***When they combine, you’re left with water, carbon dioxide (which just floats away into the air), and a little bit of sodium acetate which is minimally useful for cleaning.***
+
+Now, you’ll also probably be left with some acetic acid or baking soda as well since whichever one you have more of will have some left that didn’t get used up in the reaction, but you’re certainly worse off then when you started!
+
+Why do people insist that this trick is great?  Most likely because it looks cool.  Believe me, when you see that bubbling and fizzing, it will take everything in you to convince yourself that you’re not watching some truly amazing cleaning hack…but trust me, you’re not!  The other reason probably is, since you’ll probably have some vinegar or baking soda left in the mix when the reaction is done, the stuff you made will still do *something*.  So, when people are testing this method, they’re usually still able to clean a bit and it looks cool.  For the not careful observer, that’s enough for a ringing endorsement!
+
+TL;DR mixing vinegar and baking soda is very fun to watch and nearly harmless fun, but it makes a product that is basically useless for cleaning. Vinegar and baking soda used separately are each great for certain cleaning jobs.
+
+Update: two main things keep coming up: 
+- the bubbling: a lot of people are suggesting that the bubbling action might actually help the cleaning process.  Especially in certain circumstances where gunk is thoroughly stuck on (like a clogged drain), this could make sense.  The mechanical action of the bubbles of CO2 forming and releasing might be a mechanism that helps the cleaning.  I don’t think the reaction would be “burning/eating” anything like when Drano (lye) hits a clog, but it might be jostling everything around enough to loosen it. 
+- specifically to clogged draining or just cleaning out drains/pipes: a lot of people swear by this to get rid of smells and/or get rid of clogs/gunk.  As mentioned above, the bubbling could aid in this process. Also, the reaction creates some heat, so maybe that helps as well.   Lastly, it could actually just be the build up of a gas.  If a pipe is clogged and then you build up gas inside of the clog, it could literally push the clog through or break it up just due to the air pressure it builds up.  I can’t really understand why mixing baking soda and vinegar would get rid of smells per se, except that, if it gets rid of the smelly gunk, it gets rid of the smell.  Keep in mind , also, that if you add a bunch of vinegar and little baking soda, after the baking soda neutralizes some of the vinegar, you’ll have a bunch left over, and that vinegar can continue to work on the clog.  
+
+I think the thing to keep in mind from my post is that vinegar is often used because of its chemical properties (an acid that eats stuff away, kills germs, fights alkaline gunk like hard water marks).  Baking soda is often used because of its grittiness to scour things.  Mixing them might create a reaction that is beneficial while it is happening, but it does not make some new chemical that is helpful.  Also, you’re not going to get the acid benefits of the vinegar or the grittiness of the baking soda any more.  You get warm (maybe hot?) bubbliness—which could be helpful.
+
+url:https://reddit.com/r/YouShouldKnow/comments/wy6afj/
+author:XaminedLife
+subreddit:YouShouldKnow
+score:4511
+numComments:186
+isOver18:False
+hasPostBody:True

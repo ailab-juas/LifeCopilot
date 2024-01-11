@@ -1,0 +1,13 @@
+title:
+YSK: There is a website that will play you only Spotify songs that no one has ever played before.
+
+content:
+Not saying you’ll find gold, but it’s pretty interesting. forgotify.com 
+
+url:https://reddit.com/r/YouShouldKnow/comments/7kxeoo/
+author:thebestatheist
+subreddit:YouShouldKnow
+score:23267
+numComments:624
+isOver18:False
+hasPostBody:True

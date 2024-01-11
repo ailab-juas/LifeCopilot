@@ -1,0 +1,15 @@
+title:
+YSK you can be removed from spam call lists by staying on the line until prompted
+
+content:
+If you're like me, you've noticed an uptick in spam calls lately. I decided to listen to one about a free Bahamas cruise, for fun, and I noticed that it gave me the option to say "No" to be removed from the call list immediately and never to be called again. Obviously there are multiple spam agencies, but if you've been getting the same sort of spam messages over and over again, try staying on the line to see if there's a way to opt-out.
+
+EDIT: Seems like a lot of people are saying this only confirms to the spam agency that I'm a live, working phone number that answers their calls, making my number more valuable to sell. Now that I think about it, that probably makes sense - tread with caution.
+
+url:https://reddit.com/r/YouShouldKnow/comments/501on3/
+author:scottg96
+subreddit:YouShouldKnow
+score:1054
+numComments:162
+isOver18:False
+hasPostBody:True

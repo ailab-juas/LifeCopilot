@@ -1,0 +1,13 @@
+title:
+LPT : Get in the habit of using a credit card instead of a debit card when shopping online or making a large purchase. Banks work harder to resolve issues when it's their money than when it's yours.
+
+content:
+I recently had an issue with a recurring subscription I'd unknowingly signed up for with my debit card. It took weeks to resolve and I only received a partial refund. I had a situation with a travel reservation, and my credit card was refunded immediately.
+
+url:https://reddit.com/r/LifeProTips/comments/tqmvaz/
+author:HankPymp
+subreddit:LifeProTips
+score:1665
+numComments:177
+isOver18:False
+hasPostBody:True

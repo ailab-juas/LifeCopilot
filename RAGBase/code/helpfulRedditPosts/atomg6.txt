@@ -1,0 +1,13 @@
+title:
+LPT: Want cleaner dishes? Clean the filter in your dishwasher machine. Yes! Dishwashers have filters underneath the blade that should be removed and cleaned monthly for better washing results and it’s not hard to do. Research the brand and model of machine you have for specific information.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/atomg6/
+author:MkMikki
+subreddit:LifeProTips
+score:38852
+numComments:1540
+isOver18:False
+hasPostBody:False

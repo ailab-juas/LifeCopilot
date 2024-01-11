@@ -1,0 +1,13 @@
+title:
+LPT: Go locate your water main and learn how to shut off the water to your house now. It may not be in an intuitive place, and it may require a special tool. Trying to figure it out during a water emergency is not fun.
+
+content:
+A pipe on the exterior of my house broke last night. It took me about 15 minutes to find my water main valve (it was buried in my front yard) and shut it off (fortunately a neighbor had a water meter key I could borrow). Luckily, water mostly sprayed away from the house, so there was no damage. Had the broken pipe been on the interior, it could've been much, much worse. Go find your main and figure out how to shut it off.
+
+url:https://reddit.com/r/LifeProTips/comments/6rs5of/
+author:Giblet_McGravy
+subreddit:LifeProTips
+score:1339
+numComments:84
+isOver18:False
+hasPostBody:True

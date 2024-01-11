@@ -1,0 +1,13 @@
+title:
+LPT: Do not ever attempt to bullshit when speaking to subject matter on which you are not an expert. Saying, "I don't know," or, "Let me circle back to that," or, "I'll let (name) speak to this as he's more familiar," will not be seen as weakness. Deferring to experts is a strength.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ta0nab/
+author:FastWalkingShortGuy
+subreddit:LifeProTips
+score:12722
+numComments:396
+isOver18:False
+hasPostBody:False

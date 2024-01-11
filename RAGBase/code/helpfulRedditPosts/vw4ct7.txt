@@ -1,0 +1,25 @@
+title:
+YSK Alkaline water doesn’t really do anything
+
+content:
+Why YSK: Alkaline water is usually more expensive than regular bottled water and has no proven benefits to your health. Some proponents of alkaline water and the companies that sell it claim that the pH of alkaline water neutralizes acids in your blood and can cure a slew of diseases, but this is not the case. Blood naturally maintains a neutral pH on its own, and there is no evidence that alkaline water has any special properties that make it “better” than other types of bottled water.  
+
+Additionally, alkaline water is not inherently risk-free. Individuals with kidney or gastrointestinal conditions can be harmed by alkaline water, and extreme alkaline water intake for any individual can cause a rare, but very serious, condition called alkalosis. 
+
+Some of the best ways to stay hydrated and healthy are eating a balanced diet and drinking a few liters of fluids a day. 
+
+https://www.theguardian.com/global/2018/oct/29/alkaline-water-cure-bs-science-beyonce-tom-brady
+
+https://health.clevelandclinic.org/alkaline-water-dont-believe-the-marketing-hype/
+
+https://www.insider.com/guides/health/diet-nutrition/alkaline-water-benefits
+
+Edit: I did want to mention, like many people have below, that alkaline water does provide anecdotal symptomatic relief to people with GERD and related conditions.
+
+url:https://reddit.com/r/YouShouldKnow/comments/vw4ct7/
+author:deanonychus
+subreddit:YouShouldKnow
+score:12856
+numComments:775
+isOver18:False
+hasPostBody:True

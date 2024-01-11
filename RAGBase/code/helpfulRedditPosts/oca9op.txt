@@ -1,0 +1,13 @@
+title:
+LPT: For real everyone, use your libraries! They're a bigger resource than you probably think!
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/oca9op/
+author:[deleted]
+subreddit:LifeProTips
+score:27007
+numComments:846
+isOver18:False
+hasPostBody:True

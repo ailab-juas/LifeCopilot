@@ -1,0 +1,13 @@
+title:
+LPT: Use the changing of the seasons as a reminder for the things you usually need to do once every few months (say, change toothbrush, deep clean fridge/oven, backup hard drive, declutter, etc).
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/n1qvm6/
+author:SleepEastern
+subreddit:LifeProTips
+score:1651
+numComments:108
+isOver18:False
+hasPostBody:False

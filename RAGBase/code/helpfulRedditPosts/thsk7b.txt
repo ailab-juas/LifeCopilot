@@ -1,0 +1,13 @@
+title:
+YSK: With rising inflation and wage stagnation, people are living paycheck to paycheck and don’t feel like they’ll ever retire. Be weary of scams that will take advantage of that desperation. To spot them, they will sound too good to be true.
+
+content:
+Why YSK: Scams have been going on for millennia.  People adopt classical scams to the modern day and will play them to you, not only in person, but nowadays frequently online.  You can learn about existing scams and historical scams, but the easiest heuristic to use is to ask yourself “Is this situation too good to be true?”  The times you will just spontaneously make X thousands of dollars in an extremely short amount of time is few and fair between, e.g inheritance, IPO, stock/options movement, winning the lottery, running your own scam, etc.  If someone solicits to you, suggests to you, or otherwise leads you to a scenario that’s too good to be true out of the blue, no matter how good it feels, be extremely skeptical.
+
+url:https://reddit.com/r/YouShouldKnow/comments/thsk7b/
+author:Yeet_Me_N_The_Trash
+subreddit:YouShouldKnow
+score:7884
+numComments:156
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: If you don't use your printer often, the top sheet of paper gets dusty. Remove the top sheet before printing. Even though most small printers flip the sheet, the dust is still going into the machine, can clog the print heads, affecting print quality and ink cartridge life span.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/k786zd/
+author:WrongEinstein
+subreddit:LifeProTips
+score:2769
+numComments:102
+isOver18:False
+hasPostBody:False

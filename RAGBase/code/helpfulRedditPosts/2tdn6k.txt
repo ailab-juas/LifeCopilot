@@ -1,0 +1,15 @@
+title:
+LPT: Suspect your SO (or anyone else) is accessing your Gmail account without your permission?
+
+content:
+At the very bottom of gmail, at the bottom right, you can click "Details" right under the Last Account Activity. This will show you the different IP addresses and locations that have logged into your gmail account recently. You can also set up alerts for unusual activity from this screen.
+
+Edit: Yeah, change your password, don't give it out in the first place, don't be in a shitty relationship, yada yada. All valid points but I'm happy to see that a handful of people reported back that they had found suspicious activity on their accounts and were looking into it. My work here is done :D
+
+url:https://reddit.com/r/LifeProTips/comments/2tdn6k/
+author:LRROFOMICRON
+subreddit:LifeProTips
+score:1304
+numComments:242
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,23 @@
+title:
+YSK that the Google Assistant has an option called "Google Lens" which can recognise almost any flower, plant, insect, animal etc that you point it at
+
+content:
+Open the Google Assistant and tap the camera icon to the left of the four coloured dots at the bottom. This will open Google Lens which is an AI able to recognise almost anything you point the camera at. You can even load pictures you've already taken by tapping the picture icon in the top right corner. 
+
+https://imgur.com/a/I67BFs0
+
+I have found it extremely useful in learning about plants and insects that I come across.
+
+It also recognises logos, landmarks, text, and can translate text into other languages.
+
+Also, the Google assistant is available on iPhone, for those who are unaware :)
+
+Edit - For those struggling with it on iOS, https://www.lifewire.com/how-to-use-google-lens-on-iphone-4586594
+
+url:https://reddit.com/r/YouShouldKnow/comments/gtbszl/
+author:a1thirteen
+subreddit:YouShouldKnow
+score:17612
+numComments:379
+isOver18:False
+hasPostBody:True

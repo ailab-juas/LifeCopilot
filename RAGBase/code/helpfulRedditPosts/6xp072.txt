@@ -1,0 +1,13 @@
+title:
+LPT: Go to a pet store and get a tag with your phone number for your key-ring. Whoever finds your keys can just call you.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/6xp072/
+author:jordanlund
+subreddit:LifeProTips
+score:1848
+numComments:160
+isOver18:False
+hasPostBody:False

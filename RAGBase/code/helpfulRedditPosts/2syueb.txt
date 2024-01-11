@@ -1,0 +1,15 @@
+title:
+YSK Dr. Martin Luther King, Jr. followed the successful campaign for civil rights with a campaign for economic justice, the Poor People's Campaign, which carried on after his assassination.
+
+content:
+&gt; Affluent Americans are locked in the suburbs of physical comfort and mental insecurity. Poor Americans are locked inside ghettos of material privation and spiritual debilitation. And all of us can almost feel the presence of a kind of social insanity which could lead to national ruin. The true responsibility for the existence of these deplorable conditions lies ultimately with the larger society and much of the immediate responsibility for removing the injustices can be laid directly at the door of the federal government.
+
+- [Press conference announcing the Poor People's Campaign](http://mlk-kpp01.stanford.edu/kingweb/publications/papers/unpub/671204-003_Announcing_Poor_Peoples_campaign.htm)
+
+url:https://reddit.com/r/YouShouldKnow/comments/2syueb/
+author:ristoril
+subreddit:YouShouldKnow
+score:1668
+numComments:73
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+LPT: Always leave the address line BLANK while composing an email.
+
+content:
+I can't tell you how much grief this has saved me.  Do you ever fire off an email, perhaps to a GF/BF or even a co-worker or boss, and then just wish you hadn't said that?  But in your first rush of love with your own words of poorly-considered emotion, you just craved the satisfaction of pounding that "Send" button?  And now, moments later, you realize you messed up but it's too late?
+
+I don't care *who* I'm planning to email.  Even if it's just routine, I put the address in *after* I'm completely through editing.  That way, when/if I really do want to go ahead and send, I'll have to do at least two steps.  Which gives me extra moments to calm down and think.
+
+url:https://reddit.com/r/LifeProTips/comments/2dz987/
+author:InbredNoBanjo
+subreddit:LifeProTips
+score:2988
+numComments:470
+isOver18:False
+hasPostBody:True

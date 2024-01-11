@@ -1,0 +1,13 @@
+title:
+[LPT] We’ve had 3 break-ins in a month even though we had real security cameras set up. After putting fake cameras with bright red lights on the front of our house, we haven’t had a single break-in in 2 years. You should focus more on deterring instead of catching.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/t67sjw/
+author:DudeGuyManDog
+subreddit:LifeProTips
+score:24642
+numComments:597
+isOver18:False
+hasPostBody:False

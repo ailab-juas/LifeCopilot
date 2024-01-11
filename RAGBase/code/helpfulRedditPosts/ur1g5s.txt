@@ -1,0 +1,15 @@
+title:
+LPT: delete your watch history on YouTube. It will reset video recommendations and you'll be freed from whatever rabbit hole you got yourself stuck in
+
+content:
+edit: doing this does NOT turn your recommended into a SSSniperWolf/Mr. Beast hellscape like the trending tab. Your subscriptions still guide the algorithm. (Speaking of, it's a good idea to go through your subscriptions and unsub from channels you are no longer interested in).
+
+edit 2: on mobile or desktop, click on your profile pic in the upper right corner, then click "your data in YouTube" in the dropdown menu. Scroll down to "YouTube controls" --&gt; "YouTube Watch History" and click "Manage your YouTube Watch History." Click the "delete" button --&gt; "delete all time." Then optionally, go back to the YouTube home page, then the subscriptions tab, click "all" (on mobile) to view all subscriptions, then "manage," (on mobile or desktop) and scroll through to unsubscribe from unwanted channels.
+
+url:https://reddit.com/r/LifeProTips/comments/ur1g5s/
+author:ResetEarthPlz
+subreddit:LifeProTips
+score:13838
+numComments:480
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,21 @@
+title:
+YSK that there are sites that share farmed login details from thousands internet user every day and how you can protect your accounts
+
+content:
+So I saw this post on Reddit a while ago about [Have I Been Pwned](https://haveibeenpwned.com/). It's a website where you can enter your email and it'll scan all known dumps of farmed login details currently available on sites like [Pastebin](http://www.pastebin.com)
+
+You can sign up to the site and they'll send you an email as soon as it finds your email adress on a new dump. That's how I found out that my details were shared by someone today. When I checked the details it turns out the password they have is an old one, so that's a relief. But there are over 10000 other emails on this dump alone. Many people have absolutely no idea that their details have been compromised. 
+
+Here is a link to the dump my details are on. Check it for yours, sign up to Have I Been Pwned and don't let thieves steal your account.
+
+[Dump]() edit: Just realised me putting the link here is as bad as what this prick did. Just put your email in Have I Been Pwned and it'll tell you.
+
+P.S. I know it's funny that I keep saying "dump"
+
+url:https://reddit.com/r/YouShouldKnow/comments/5s6j10/
+author:GobiasACupOfCoffee
+subreddit:YouShouldKnow
+score:2748
+numComments:136
+isOver18:False
+hasPostBody:True

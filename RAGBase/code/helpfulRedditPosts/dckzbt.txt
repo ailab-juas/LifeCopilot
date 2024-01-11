@@ -1,0 +1,15 @@
+title:
+YSK Shady sellers on Amazon can make an item appear to have thousands of good reviews by switching a new item into another item's listing and it isn't extremely obvious at a quick glance.
+
+content:
+It is possible for Amazon sellers to take a product with good reviews and switch in another product that may not be very good. An easy way to spot this is by looking at the questions people have asked and the older reviews. The questions and reviews will be about a different item. For example, a screen protector with questions about expiration dates, refrigeration, and milligrams of certain chemical compounds. 
+
+Search: "[2 Pack] Yoyamo [Tempered Glass] BC820 Screen Protector for Samsung Galaxy Note 9 [Case Friendly], Black" As an example of this.
+
+url:https://reddit.com/r/YouShouldKnow/comments/dckzbt/
+author:saysuptoyourmom
+subreddit:YouShouldKnow
+score:9603
+numComments:243
+isOver18:False
+hasPostBody:True

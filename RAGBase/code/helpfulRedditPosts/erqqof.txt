@@ -1,0 +1,13 @@
+title:
+YSK that iPhone's have a "scan document" feature in the notes app that converts pictures to PDF/Word files. The Google Doc's app also has this feature.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/YouShouldKnow/comments/erqqof/
+author:[deleted]
+subreddit:YouShouldKnow
+score:10280
+numComments:205
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,17 @@
+title:
+YSK that if you're boiling something, turning up the heat at boil will do nothing but evaporate water faster. The water itself will NEVER be hotter than 100°C
+
+content:
+I thought this was a given until I saw other people cooking
+
+Edit: YES I KNOW IT ALSO DEPENDS ON PRESSURE. But your average guy isn't cooking on top of the Himalaya so I didn't bother pointing it out. Also I'm talking about boiling in a pan not in a pressure cooker. 
+
+And about salt : https://www.reddit.com/r/YouShouldKnow/comments/5n5hpg/ysk_that_if_youre_boiling_something_turning_up/dc8rtot
+
+url:https://reddit.com/r/YouShouldKnow/comments/5n5hpg/
+author:OlivierDeCarglass
+subreddit:YouShouldKnow
+score:6498
+numComments:625
+isOver18:False
+hasPostBody:True

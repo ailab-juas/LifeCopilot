@@ -1,0 +1,13 @@
+title:
+LPT: Use the Google Dictionary extension in Chrome to increase your lifelong learning of new vocabulary. Just double click a word to define a word!
+
+content:
+https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja?hl=en
+
+url:https://reddit.com/r/LifeProTips/comments/16xmc2/
+author:Myll_
+subreddit:LifeProTips
+score:1860
+numComments:254
+isOver18:False
+hasPostBody:True

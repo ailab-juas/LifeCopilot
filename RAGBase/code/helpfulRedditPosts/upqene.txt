@@ -1,0 +1,13 @@
+title:
+LPT: When you bring a question to your boss, take the time to think up some potential solutions to offer as well.
+
+content:
+If you find a career that you want to advance in, the best way to do so is by practicing problem solving.  You don't have to come up with a perfect solution, but learning how to get better at it is one of the most valuable skills you can develop.
+
+url:https://reddit.com/r/LifeProTips/comments/upqene/
+author:tjh213
+subreddit:LifeProTips
+score:1225
+numComments:105
+isOver18:False
+hasPostBody:True

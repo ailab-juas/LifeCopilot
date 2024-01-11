@@ -1,0 +1,21 @@
+title:
+LPT: If you’re working in a technical role (IT, Engineering, etc), write everything you do down as if it was a user manual. Ignore those who say it will be used to replace you. It is far more likely to be used to show management “you can give me that promotion, as the next guy is all set”.
+
+content:
+It’s also going to help build skills in communicating things clearly, precisely and in a way anybody can understand. You’ll also be amazed how many times writing something out instructionally can lead you to think “wait, why do we do it like that?!” - identifying opportunities for improvement.
+
+Edit - wow, lots of comments - both positive and negative. For some extra help / elucidation:
+
+-	I found this very helpful when I was starting my career. The biggest part not being the sharing of knowledge, but the act of setting it out “on paper” to better see where things need to change, where I didn’t know all I could know, and where others may struggle in the future.
+-	I am indeed now a director. Our company is quite small, but we have had engineers come and go and move on to amazing things, both internally and externally. It’s those who communicated and shared knowledge who moved the furthest; I can honestly say my proudest achievement is knowing some of my employees are now in amazing roles in other firms. As a manager, it’s a sign that you gave them the right challenge, the opportunity to grow, and the confidence to see they can do more. I’m never sad to see someone go elsewhere if it’s because they’ve found a better opportunity - it means you were a crucial part of them making a success for themselves.
+-	Most importantly, where I’m from, there are employment laws in place to ensure if someone is fired because they’ve been forced to “work themselves out of a job” then they can sue for constructive dismissal. I know some managers look for ways around this, but generally here it’s not a common motif. As such, I do agree that if you’re in a country like India, China, USA, where some of these protections and freedoms aren’t so readily available, it is better to tread with caution in terms of sharing information. In others, like Germany, UK, most of Scandinavia, the culture is very different, and going above and beyond to communicate and help others can be well received.
+
+But yes, as with anything - this has been an experience I’ve personally found valuable and looking from the other side can see why, but always think about how it applies to your situation. I guess as a second tip - if you’re working for a company where you feel the management are always trying to find ways to screw you over, maybe it’s time to find a new company to work for...
+
+url:https://reddit.com/r/LifeProTips/comments/drmk5z/
+author:squonch
+subreddit:LifeProTips
+score:51063
+numComments:1839
+isOver18:False
+hasPostBody:True

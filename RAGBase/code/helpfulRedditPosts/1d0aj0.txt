@@ -1,0 +1,13 @@
+title:
+LPT: Steam chopped veggies by putting them in a metal colander and placing that directly on top of the pot you're boiling rice or pasta in.
+
+content:
+When you're done you can either stir the veggies into the rice or dump the pasta into the colander since you were going to strain it anyway. Either way, everything gets mixed up nicely. Add some sauce!
+
+url:https://reddit.com/r/LifeProTips/comments/1d0aj0/
+author:Nachie
+subreddit:LifeProTips
+score:1262
+numComments:167
+isOver18:False
+hasPostBody:True

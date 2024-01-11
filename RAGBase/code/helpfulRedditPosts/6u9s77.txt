@@ -1,0 +1,13 @@
+title:
+LPT: if you want to expand your vocabulary, whenever you look up a word write the word and it's meaning in a notebook. Consult the notebook regularly.
+
+content:
+We can look up and discard words so quickly these days that quite often you will forget a word you look up.
+
+url:https://reddit.com/r/LifeProTips/comments/6u9s77/
+author:petermal67
+subreddit:LifeProTips
+score:2078
+numComments:152
+isOver18:False
+hasPostBody:True

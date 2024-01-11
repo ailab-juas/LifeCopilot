@@ -1,0 +1,31 @@
+title:
+YSK that in the USA an employer can often legally spy on you while you work from home, using your computer camera.
+
+content:
+I found this out the other day when my girlfriend's HR person accidentally let it slip to her, leading me to dig around and find out the laws on it. The time clock software they use takes screenshots of the computer and photos of her. They didn't ever tell her what it was doing. 
+
+Turns out that if you are using *any* work machinery they can access everything. The camera, microphone, what is on the screen, etc., without having to tell you.
+
+And of you agree to install any software on your own computer, they might legally be allowed to use your camera at any time without having to let you know. It can easily be buried in employee agreements/fine print.
+
+**Why YSK:** They can be spying on you, and see everything, even if they have never explicitly said they are.
+
+Edit: for the large number of requests for source.
+https://melmagazine.com/en-us/story/is-it-legal-for-my-boss-to-spy-on-me-through-my-laptop-camera#:~:text=%E2%80%9CYour%20employer%20can%20monitor%20just,devices%20and%20over%20its%20network.&amp;text=Your%20employer%20can%20also%20review,%2C%20voicemail%20and%20text%20messages.%E2%80%9D
+
+https://www.forbes.com/sites/tomspiggle/2020/05/21/can-employers-monitor-employees-who-work-from-home-due-to-the-coronavirus/
+
+Feel free to check for laws in your individual state or country.
+
+I was just floored by the fact that they kept it a secret. I couldn't imagine that they wouldn't need to get your okay. The fact that they don't need permission was... Crazy to me.
+
+Edit 2: There are additional laws regarding recording (specifically audio), which have a lot more restrictions. But bottom line, cover your computer camera when not in use and don't use your work computer for anything non-work related. 
+Oh, and if you have the choice, work for a company where the IT people have your back, and the company has some morals on the subject.
+
+url:https://reddit.com/r/YouShouldKnow/comments/iyisei/
+author:vitaestbona1
+subreddit:YouShouldKnow
+score:25870
+numComments:1235
+isOver18:False
+hasPostBody:True

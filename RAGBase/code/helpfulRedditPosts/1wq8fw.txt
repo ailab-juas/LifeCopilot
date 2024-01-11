@@ -1,0 +1,30 @@
+title:
+LPT: Before going to a porn site, google "safebrowsing:(website)" to see a 90-day history of malware attempts on its visitors.
+
+content:
+The first result will be a google diagnostic page. 
+
+Not every website is supported.
+
+Check the date of the last analysis.
+
+You don't need to enter every video's url, just the site's homepage.
+
+You can do subsequent searches by changing the diagnostic page's url.
+
+Historically clean websites will be dirty some weeks and dirty ones will sometimes be clean after a period of attacks.
+
+From what I know, these malware downloads are not sponsored by the websites but by hackers.
+
+
+Happy fapping.
+
+Edit: [4th page of /all ](https://31.media.tumblr.com/776c6a1f35ade0db579da68e724cb5e7/tumblr_mydoeirgdn1qimturo1_500.gif)
+
+url:https://reddit.com/r/LifeProTips/comments/1wq8fw/
+author:Treregard
+subreddit:LifeProTips
+score:2919
+numComments:342
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: If you have any dealing with international teams, vendors, clients, anyone, always spell out the name of the month in dates. 03 Nov 2022 or 11 Mar 22 leaves no room for confusion. 11/03/2022 or 03/11/22 are impossible to interpret without context.
+
+content:
+... which could cost you a lot of money in a contract misunderstanding.
+
+url:https://reddit.com/r/LifeProTips/comments/yu3vxx/
+author:BjornToulouse_
+subreddit:LifeProTips
+score:2174
+numComments:210
+isOver18:False
+hasPostBody:True

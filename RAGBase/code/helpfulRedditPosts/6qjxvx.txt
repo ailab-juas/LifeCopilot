@@ -1,0 +1,13 @@
+title:
+YSK Consumers have the right to free copies of their credit reports from the three major credit reporting agencies every 12 months.
+
+content:
+Consumers have the right to free copies of their credit reports from the three major credit reporting agencies every 12 months. Reports may be requested by phone or mail and at http://www.annualcreditreport.com.
+
+url:https://reddit.com/r/YouShouldKnow/comments/6qjxvx/
+author:meiggs
+subreddit:YouShouldKnow
+score:2845
+numComments:110
+isOver18:False
+hasPostBody:True

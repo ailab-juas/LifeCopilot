@@ -1,0 +1,13 @@
+title:
+LPT: When someone at work asks you, "what's up?" don't ever reply, "nothing"...
+
+content:
+My boss passed this one on to me-- he'd always be asking me in a friendly (not inquisitive) manner, "what's up?" and I'd give him the common "not much, you?", or "oh nothing, you?"... recently he told me that even though he knows I'm keeping busy and that I'm a productive worker, someone without that knowledge who might ask me the same question, might take my "not much" answer as one that indicates I'm just wasting time and/or not being productive.  Instead, you should always have a couple quick talking points about what you're working on, even if its just a high-level, run-of-the-mill type response.  This will let people know that you mean business and are focused on work first and foremost.
+
+url:https://reddit.com/r/LifeProTips/comments/1zainv/
+author:NewEnglandPatriot
+subreddit:LifeProTips
+score:1468
+numComments:822
+isOver18:False
+hasPostBody:True

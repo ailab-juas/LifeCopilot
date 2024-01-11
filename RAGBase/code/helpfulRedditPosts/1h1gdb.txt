@@ -1,0 +1,13 @@
+title:
+When applying for a job, be careful about padding your salary history.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1h1gdb/
+author:mrgadlfly2u
+subreddit:LifeProTips
+score:1021
+numComments:372
+isOver18:False
+hasPostBody:False

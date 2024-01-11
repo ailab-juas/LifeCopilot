@@ -1,0 +1,19 @@
+title:
+LPT: If you want to play games on your phone without annoying ads, turn off mobile data.
+
+content:
+I noticed this when I was abroad.
+
+Edit: it seems there are better ways to achieve this LPT, like removing internet acces for the app itself. Moreover, this doesn't work for all apps. 
+
+However, as many phones have a quick and easy way to turn off connections (E.g. Airplane mode) it is a fast and simple way to do it. 
+
+Edit 2: I realize that the ads are there for a reason, and I respect developers for creating games. I am mostly referring to intrusive ads like unskippable videos. 
+
+url:https://reddit.com/r/LifeProTips/comments/1dgzt5/
+author:Vivovix
+subreddit:LifeProTips
+score:2032
+numComments:179
+isOver18:False
+hasPostBody:True

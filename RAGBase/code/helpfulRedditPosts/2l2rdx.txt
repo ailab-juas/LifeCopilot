@@ -1,0 +1,17 @@
+title:
+YSK that most cheeses contain almost no lactose and have no effect on lactose-intolerant individuals.
+
+content:
+The fermentation process consumes most of the lactose, so the longer the cheese has been fermented, the less lactose remains. Hard cheeses like parmesan, gruyere, and sharp cheddar contain only trace amounts. However, fresh cheeses that are not fermented, such as mascarpone, cottage cheese, and ricotta, still contain lactose.
+
+[Lifehacker Article](http://lifehacker.com/the-best-cheeses-to-eat-if-youre-lactose-intolerant-1563386663)
+
+[Ask the Cheese Snob Article](http://askthecheesesnob.blogspot.com/2010/11/does-lactose-intolerance-no-cheese.html)
+
+url:https://reddit.com/r/YouShouldKnow/comments/2l2rdx/
+author:stevenxdavis
+subreddit:YouShouldKnow
+score:2500
+numComments:295
+isOver18:False
+hasPostBody:True

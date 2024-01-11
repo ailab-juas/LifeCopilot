@@ -1,0 +1,15 @@
+title:
+[LPT]: Have an essay due today and struggling to write? Use Gmail's speech-to-text function to quickly and efficiently knock it out.
+
+content:
+If you've got a paper due today and are struggling with putting words to paper, get all of your relevant information out in front of you and bust out the Google Speech-to-text function (Gmail yourself). It's surprisingly easy to throw together a 5 page essay when you can approach it like a conversation. Send the email to yourself, copy/paste it into Word, proof-read and add proper formatting. Viola.
+
+** As someone else pointed out, Google Drive has dedicated speech recording. I just use my Android phone. This has also been handy when taking observation notes in the lab - you don't have to peel your face off of the microscope and lose your point of reference.
+
+url:https://reddit.com/r/LifeProTips/comments/4g91cp/
+author:-triphop
+subreddit:LifeProTips
+score:1369
+numComments:118
+isOver18:False
+hasPostBody:True

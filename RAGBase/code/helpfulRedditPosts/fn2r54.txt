@@ -1,0 +1,13 @@
+title:
+LPT: If you're playing a video game with someone who is entirely new to it, don't just instruct them on how to play most efficiently, it turns their joy of discovery and fun into a job. If anything you should let them take the lead and answer questions when they have them.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/fn2r54/
+author:Yancellor
+subreddit:LifeProTips
+score:35654
+numComments:806
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: When lost in a new city, ask for directions from someone walking a dog.
+
+content:
+Especially when exploring a tourist city, it can be hard to know who to ask. Someone walking a dog is most likely a local and will have good walking directions. Also asking about their cute dog is a great ice breaker for anyone nervous about asking a stranger for directions. 
+
+url:https://reddit.com/r/LifeProTips/comments/6mvrsf/
+author:gtr672
+subreddit:LifeProTips
+score:16071
+numComments:814
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+YSK that if you ever lose your ticket to a concert, play or other event, the box office will reprint it for you.
+
+content:
+Box offices are really good about reprinting lost tickets. They will cancel the barcode on the list ticket and get you a new one. You do need to know the seat location and have ID or proof of purchase. And if you bought your tickets from a broker, call the broker. They should be able to connect with the box office to get it reprinted.
+
+Edit: I should say this isn’t 100% guaranteed. You will definitely want to call the box office to confirm. If bought from a reseller, contact them directly. Edit made based on your guys’ feedback.
+
+url:https://reddit.com/r/YouShouldKnow/comments/fbp2fm/
+author:its_me_cindy
+subreddit:YouShouldKnow
+score:3552
+numComments:67
+isOver18:False
+hasPostBody:True

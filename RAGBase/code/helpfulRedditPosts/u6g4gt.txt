@@ -1,0 +1,13 @@
+title:
+YSK: Most chain auto shops have deals on life time services.
+
+content:
+Why YSK: an average alignment on a vehicle is upwards of 80 bucks. A tire rotation and balance is around 50 bucks. An oil change is around 30. Some shops will offer lifetime (as long as you own the vehicle) services on alignment, tire rotation and balance for a nominal fee. A one time payment of 300 dollars (or less) could mean that you can get these services for free after. So the next time you go to get your oil changed you can get the tire rotation, balance and alignment for less than 50 bucks. As a added bonus places will offer free vehicle inspections so you get added peace of mind that the vehicle you drive is safe and ready for the road.
+
+url:https://reddit.com/r/YouShouldKnow/comments/u6g4gt/
+author:Gynharasaki
+subreddit:YouShouldKnow
+score:3944
+numComments:268
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Trying to type faster? Use Ctrl+Backspace to delete an entire word. This is much faster then pressing the backspace 5 times.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/lovd5l/
+author:takuonline
+subreddit:LifeProTips
+score:10153
+numComments:304
+isOver18:False
+hasPostBody:False

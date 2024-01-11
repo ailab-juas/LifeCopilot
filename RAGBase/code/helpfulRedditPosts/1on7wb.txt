@@ -1,0 +1,13 @@
+title:
+LPT: Wake up on time by creating a QR code (bar-code) and placing it in your bathroom. Using an alarm app called 'Sleep as Android', you can set an alarm that can only be de-activated once the QR code has been scanned.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1on7wb/
+author:Lee2307
+subreddit:LifeProTips
+score:2097
+numComments:434
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,16 @@
+title:
+LPT: If your wipers are on and it's raining, your lights should be on too.
+
+content:
+Rain = reduced visibility.
+Lights = increased visibility.
+
+Better to have them on and not need them than the reverse.
+
+url:https://reddit.com/r/LifeProTips/comments/sx8ehx/
+author:k90de
+subreddit:LifeProTips
+score:7481
+numComments:432
+isOver18:False
+hasPostBody:True

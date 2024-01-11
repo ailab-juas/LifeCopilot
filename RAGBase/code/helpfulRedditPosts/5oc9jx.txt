@@ -1,0 +1,14 @@
+title:
+YSK that there is a .gov website that allows you to type in any doctor's name and see the type and monetary value of any kickbacks or perks that the doctor received from pharmaceutical companies/ drug reps, and the name of the company that gave the perks.
+
+content:
+The website is [https://openpaymentsdata.cms.gov](https://openpaymentsdata.cms.gov/).
+ This becomes relevant in examining your doctor's motives for prescribing certain drugs. For example, if your doctor is pushing OxyContin instead of a lighter or different drug, and you see that he received $5,000 from Purdue Pharma (maker of OxyContin), you might get kind of suspicious and ask your doctor about it directly. If they received $50,000, you might be wise to just switch doctors. Of course, this pertains to any medication, not just narcotics. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/5oc9jx/
+author:ThePatientsFiance
+subreddit:YouShouldKnow
+score:15235
+numComments:636
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+LPT: You can tap and hold app notifications in android to find the option to disable them
+
+content:
+Hit the (i) button that appears, and it takes you to this:
+
+http://i.imgur.com/xcKup3a.png
+
+url:https://reddit.com/r/LifeProTips/comments/45gds6/
+author:ellimist
+subreddit:LifeProTips
+score:3174
+numComments:201
+isOver18:False
+hasPostBody:True

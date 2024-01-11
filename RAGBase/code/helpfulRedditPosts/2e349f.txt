@@ -1,0 +1,13 @@
+title:
+LPT: while performing your job, pretend you are training a new employee.
+
+content:
+Use your inner dialogue to explain and describe what you are doing.  This will improve your attention to detail and help you stay focused. 
+
+url:https://reddit.com/r/LifeProTips/comments/2e349f/
+author:Archae0pteryx
+subreddit:LifeProTips
+score:2460
+numComments:372
+isOver18:False
+hasPostBody:True

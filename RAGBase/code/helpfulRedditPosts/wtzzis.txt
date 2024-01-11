@@ -1,0 +1,13 @@
+title:
+LPT: Instead of “What do you think?” ask “How can I improve it?” for more constructive feedback.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/wtzzis/
+author:Talvy
+subreddit:LifeProTips
+score:7367
+numComments:139
+isOver18:False
+hasPostBody:False

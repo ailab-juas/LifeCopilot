@@ -1,0 +1,15 @@
+title:
+YSK that if you live in an old house (1986 or older), drinking hot water directly from the tap can lead you to ingest dissolved lead from the pipes.
+
+content:
+Heat cold water to reduce the chance of ingesting lead! 
+
+Source: [https://www.epa.gov/ground-water-and-drinking-water/basic-information-about-lead-drinking-water](https://www.epa.gov/ground-water-and-drinking-water/basic-information-about-lead-drinking-water)
+
+url:https://reddit.com/r/YouShouldKnow/comments/f4d5bs/
+author:DbonePolitis
+subreddit:YouShouldKnow
+score:1144
+numComments:95
+isOver18:False
+hasPostBody:True

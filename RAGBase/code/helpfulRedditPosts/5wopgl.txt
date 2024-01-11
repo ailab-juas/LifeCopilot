@@ -1,0 +1,13 @@
+title:
+LPT: When speaking to an expert on something, if you're not sure what to ask them you can ask "what are the most common mistakes/problems?" You may learn something new.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5wopgl/
+author:xXdarkstar64Xx
+subreddit:LifeProTips
+score:25355
+numComments:701
+isOver18:False
+hasPostBody:False

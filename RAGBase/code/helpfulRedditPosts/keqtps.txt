@@ -1,0 +1,23 @@
+title:
+YSK: Most portable or "standalone" air conditioners do not actually cool and are a scam.
+
+content:
+Why YSK: Anything that claims to cool a room by just plugging into an outlet is lying to you. 
+
+There is no such thing as "generating coldness" - this violates the laws of thermodynamics. All air conditioners operate on the principle of transferring heat, either through pumping a quantity of refrigerant between an indoor and outdoor unit or through evacuating heat through a discharge duct from a heat exchanger.
+
+Most common household air conditioning units are comprised of a copper coil and a fan in the indoor machine, and a copper coil, fan and pump on the outdoor machine, with a pair of copper pipes running between them. The fans point at the coils, and the conductivity of the copper and refrigerant combined with the movement of air by the fan reduce the temperature in a space. This is why an outdoor AC unit blows hot air when you stand next to it.
+
+Portable AC units can only work if they have somewhere to send heat - some do this with a piece of insulated flexible duct going out of a window or into a roof space, others do it by drawing cool water from the mains, heating it with fans and either discharging somewhere or sending it somewhere else e.g. a boiler or greywater tank.
+
+The only (partial) exception is evaporative cooling, which operates by adding water vapour to the air to bring the temperature down. These do not function when humidity exceeds a certain point in a space you're trying to cool, and are of questionable effectiveness outside of fairly arid regions. You can pair them with a dehumidifier to work a little more effectively, but they still wont compare to a proper AC. Other, non-portable evaporative coolers operate by being (for example) roof-mounted, and cool the space by 'sweating' - however, again, once it's humid enough outside, it simply won't be effective. These are fairly common in places like rural australia and the middle east.
+
+Please don't buy a gimmicky "cooling dyson fan" - you'll be disappointed; it does nothing more than a normal pedestal fan.
+
+url:https://reddit.com/r/YouShouldKnow/comments/keqtps/
+author:ivanosauros
+subreddit:YouShouldKnow
+score:12738
+numComments:550
+isOver18:False
+hasPostBody:True

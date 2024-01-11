@@ -1,0 +1,19 @@
+title:
+YSK that Comcast is currently testing data caps in some of their markets and that you can do something about it.
+
+content:
+1) Comcast has had a cap clauses in the fine print of residential services since they were caught sand vining almost decade ago.
+
+2) It's not all areas, just test markets to gauge the backlash. You can see which specific areas are subject to cap penalties, [here.](http://customer.xfinity.com/help-and-support/internet/data-usage-trials-find-area)
+
+3) It is imperative that people located in these areas, [file complaints with the FCC](https://consumercomplaints.fcc.gov/hc/en-us/requests/new?ticket_form_id=38824) and contact the offices of [Liz Warren](http://www.warren.senate.gov/?p=email_senator), [Bernie Sanders](http://www.sanders.senate.gov/services/casework/), and [Al Franken](https://www.franken.senate.gov/?p=email_al), who are [working to open investigations into the cable-based ISPs](http://thehill.com/blogs/floor-action/senate/247497-sanders-warren-want-probe-on-ridiculous-cable-internet-prices) for using their monopolistic positions to extort unreasonable and unjustifiable fees from customers. 
+
+Many thanks to /u/gnice3d for being the source of this info - It's important that as many people as possible know about this issue and contact the correct lines to lodge formal complaints. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/3r5tvm/
+author:jsally17
+subreddit:YouShouldKnow
+score:3532
+numComments:224
+isOver18:False
+hasPostBody:True

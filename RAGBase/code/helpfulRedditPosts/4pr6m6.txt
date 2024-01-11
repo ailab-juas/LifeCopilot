@@ -1,0 +1,13 @@
+title:
+LPT: If you have a new job, and a particular employee pulls you aside to give you the inside scoop and gossip on other employees, it's probably the gossiper him/herself of whom you should be the most wary.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/4pr6m6/
+author:wearealljustants
+subreddit:LifeProTips
+score:4901
+numComments:1172
+isOver18:False
+hasPostBody:False

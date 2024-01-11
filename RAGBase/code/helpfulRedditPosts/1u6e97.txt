@@ -1,0 +1,27 @@
+title:
+LPT - New Year's resolution to learn programming? Harvard is offering an "Intro To Computer Science" course that provides weekly lectures and assignments which can be submitted and graded electronically. It assumes no prior experience, is 100% free, and starts TODAY!
+
+content:
+Here is the link:
+
+https://www.edx.org/course/harvardx/harvardx-cs50x-introduction-computer-1022
+
+It's a very esteemed course, they have offered it before and it is renowned as one of the absolute best places you can start your CS journey. 
+
+If you have been wanting to get your feet wet in programming for a while, this is seriously the time and place to start. 
+
+Edit: Also check out /r/cs50, this is the official subreddit for this course (created and run by some of the people who produce the course itself)
+
+Edit: For those worried about whether you actually need to start today, or how rigid the schedule is, this is from the info page: 
+
+&gt;You are welcome to take CS50x at your own pace, per the Schedule, so long as you finish before 31 December 2014. So no worries if this is your first time here!
+
+But just because you _can_ put it off, doesn't mean you should. Register _now_ then you can glance back and think about the assignments throughout the week. 
+
+url:https://reddit.com/r/LifeProTips/comments/1u6e97/
+author:_BreakingGood_
+subreddit:LifeProTips
+score:3721
+numComments:594
+isOver18:False
+hasPostBody:True

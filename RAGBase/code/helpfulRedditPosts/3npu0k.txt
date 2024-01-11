@@ -1,0 +1,17 @@
+title:
+YSK that in many states you won't get arrested on drug charges if you call 911 for medical help.
+
+content:
+[Medical Amnesty policies](https://en.wikipedia.org/wiki/Medical_amnesty_policy) are designed to encourage people to call for help when they or others are suffering from overdoses of, or allergic reactions to, controlled substances. In many places this includes underage drinkers. While these are not federal laws, twenty-one US states plus D.C. have some form of medical amnesty implemented, as do many universities. You should know your state's laws before experimenting with dangerous substances!
+
+What these policies mean is that if somebody is having a bad reaction to a drug, or if a teenager is blackout drunk, you shouldn't let the fear of legal repercussion keep you from calling for help. And, when you do, *be honest with the EMTs*. As mentioned in a previous post, emergency services can't provide effective treatment if they don't know what caused the problem.
+
+Stay safe!
+
+url:https://reddit.com/r/YouShouldKnow/comments/3npu0k/
+author:Lirkmor
+subreddit:YouShouldKnow
+score:1820
+numComments:133
+isOver18:False
+hasPostBody:True

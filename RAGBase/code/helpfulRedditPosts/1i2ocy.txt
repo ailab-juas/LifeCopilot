@@ -1,0 +1,23 @@
+title:
+YSK that 10% bleach is an excellent disinfectant, and can save you money.
+
+content:
+I do cleaning validation studies for microbial clearance on various hard surfaces (porous and non-porous).  10% bleach (that is, 1 part bleach to 9 parts water) is highly effective at clearing not only vegetative bacteria, but mold spores and bacterial endospores.  You can save a lot of money if you make your own solution at home and use it to clean the bathroom, kitchen, etc. You can add a few drops of dishwashing liquid to give it some detergent power.
+
+Mechanical removal of microbial contamination is also very effective (e.g., with wipes).  While we have not specifically tested something like Clorox wipes, it stands to reason that they are more effective than just spraying with a commercial disinfectant and using a sponge.  Wipe in overlapping, unidirectional strokes.
+
+If you really want to make an effective disinfectant, [try this](http://emilyslittlehomestead.wordpress.com/2012/08/17/natural-cleaning-vinegar-and-hydrogen-peroxide/).  It's a combination of vinegar and hydrogen peroxide.  This is basically a homemade version of a commercial sterilant called Spor-Klenz (Steris).  It kills everything. (Ignore the vinegar/baking soda recipe at the bottom, it's not relevant to the vinegar/hydrogen peroxide discussion.)
+
+Remember that when disinfecting, you need a wet contact time for the disinfectant on the surface you are disinfecting.  Simply spraying and immediately wiping off doesn't do it.  10 minutes is a good guideline; respray as necessary to keep the surface wet for 10 minutes.
+
+For example, liberally spray your shower with 10% bleach + a detergent, wait 5 minutes, respray, wait another 5, and then wipe with freshly-laundered cloth rags or paper towels in overlapping, unidirectional strokes.  Use additional spray and an old toothbrush for problem spots, or just some elbow grease.
+
+To save money on paper towels, I recommend buying a big stack of super cheap, white dish towels or rags and using them to clean.  You can just throw them in with a bleach load when they need to be sanitized.  Sponges are little petri dishes with an unbelievably high bioburden.  They are the devil.  If you use sponges, regularly put them in a dish with water and microwave them until the water boils to sanitize them.
+
+url:https://reddit.com/r/YouShouldKnow/comments/1i2ocy/
+author:tin_str
+subreddit:YouShouldKnow
+score:1072
+numComments:197
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+LPT Booking an AirBNB in the US? Use a VPN to book from UK, EU or Aus
+
+content:
+In the UK, EU, and Aus it's illegal to tack on a load of bullshit fees and they have to show you the amount upfront with no surprises. Chances are you'll pay a hell of a lot less doing this.
+
+Bonus: this also used to work with booking hotels and flights on sites like [Booking.com](https://booking.com/) and Expedia. You'll probably pay half of what you normally do just booking normally.
+
+url:https://reddit.com/r/LifeProTips/comments/y76i8h/
+author:Hudds83
+subreddit:LifeProTips
+score:4520
+numComments:182
+isOver18:False
+hasPostBody:True

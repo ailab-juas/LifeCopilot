@@ -1,0 +1,13 @@
+title:
+LPT: For cheaper hotel rooms search use a hotel discount website to find a room then contact the hotel directly.
+
+content:
+Use sites like Trivago,lastminute and so on to find hotels at a deal price, then contact the hotel directly and offer them slightly less than the advertised price. The deal sites can take up to 30% of the booking fee so you and the hotel both save, you can sometimes just ask them to throw in a evening meal or breakfast for free.
+
+url:https://reddit.com/r/LifeProTips/comments/13t6gn/
+author:[deleted]
+subreddit:LifeProTips
+score:1088
+numComments:216
+isOver18:False
+hasPostBody:True

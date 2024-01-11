@@ -1,0 +1,23 @@
+title:
+YSK: Amazon shoppers can easily request plastic-free packaging on all of their order.
+
+content:
+You just have to do the following:
+
+1. Open your Amazon account
+
+2. Select ‘Help' from the main selection bar
+
+3. Select 'Contact Us' under ’Need more help?’
+
+4. Start a Chat
+
+5. Request all future orders as plastic-free with minimal packaging and when necessary use only degradable packaging materials like paper.
+
+url:https://reddit.com/r/YouShouldKnow/comments/eyw18z/
+author:Klimtonite
+subreddit:YouShouldKnow
+score:20346
+numComments:434
+isOver18:False
+hasPostBody:True

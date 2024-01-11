@@ -1,0 +1,13 @@
+title:
+LPT: Heat leftover pizza in a skillet for super crispy pizza
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/6p0q1j/
+author:corgflip
+subreddit:LifeProTips
+score:1453
+numComments:173
+isOver18:False
+hasPostBody:False

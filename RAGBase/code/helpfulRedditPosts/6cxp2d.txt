@@ -1,0 +1,13 @@
+title:
+LPT: If you are picking up a greeting card, and don't know what to write in it, find a card of the same category in the greeting card aisle, and copy part or all of what the card company wrote from that one. It will make you look poetic and thoughtful.
+
+content:
+This has saved me a lot of time when trying to think of something clever to write.
+
+url:https://reddit.com/r/LifeProTips/comments/6cxp2d/
+author:CrunchyTaco
+subreddit:LifeProTips
+score:1080
+numComments:68
+isOver18:False
+hasPostBody:True

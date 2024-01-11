@@ -1,0 +1,13 @@
+title:
+YSK that Walmarts with automotive centers, most tire shops and many mechanics will air up your tires for free.
+
+content:
+Why YSK? Because why pay when you can get it for free? Also, here's a website, [freeairpump.com](https://www.freeairpump.com), that gives you every place around you that also offers free air.
+
+url:https://reddit.com/r/YouShouldKnow/comments/yxz8du/
+author:EveryXtakeYouCanMake
+subreddit:YouShouldKnow
+score:3651
+numComments:269
+isOver18:False
+hasPostBody:True

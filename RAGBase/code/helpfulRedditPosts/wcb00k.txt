@@ -1,0 +1,13 @@
+title:
+LPT Bring your water bottle on your next hotel visit. Go to the gym/fitness center for refills.
+
+content:
+Forego the expensive prices for in room water and go to the fitness center or gym at your hotel for filtered water. My hotel is charging $4 for a bottle of water.
+
+url:https://reddit.com/r/LifeProTips/comments/wcb00k/
+author:BeastBellies
+subreddit:LifeProTips
+score:6681
+numComments:680
+isOver18:False
+hasPostBody:True

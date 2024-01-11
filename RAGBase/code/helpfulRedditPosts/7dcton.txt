@@ -1,0 +1,13 @@
+title:
+LPT: Start thawing a large turkey today for Thanksgiving (USA)
+
+content:
+Turkey thaws at a rate of 3-4 lbs a day. Thaw in the fridge to avoid bacteria from forming, bottom shelf, on a cookie sheet. A 21+ lb bird needs to start thawing now to be ready for Thanksgiving. Note: Drips from the turkey can contaminate food below.
+
+url:https://reddit.com/r/LifeProTips/comments/7dcton/
+author:leopor
+subreddit:LifeProTips
+score:1809
+numComments:184
+isOver18:False
+hasPostBody:True

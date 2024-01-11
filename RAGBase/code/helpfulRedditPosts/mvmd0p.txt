@@ -1,0 +1,37 @@
+title:
+LPT: If it's raining ash, keep track of the size of ash flakes. If they're small, it's more likely to be a nuisance than dangerous. If the flakes grow in size, EVACUATE IMMEDIATELY from wherever you currently are. It means the fire is getting closer and it might be doing so quickly.
+
+content:
+***Edited*** *to fix the fact that I get upwind and downwind confused. Thank you for pointing that out.*
+
+**EDIT TO ADD:** ***1. Yes, listen to the authorities***, ***track the news, and don't trust that you can track the weather conditions yourselves.*** *We had to track it ourselves. There was no information for my area to access because we are sufficiently rural and remote, so thankfully, our own knowledge of fire conditions was what got us out on time. I apologize if I've come across as touchy in responding to those posts, I did not realize how close this was to my surface.* ***2. Additionally, this LPT does not apply everywhere.*** *For example, as I have learned through the thoughtful and helpful responses to this post, in some areas, ash will be float from very far away (50miles/80km) and will not pose a danger to you. Also, if you live in Australia, I have learned that you probably do well to evacuate on a particularly warm and dry day even if there is no fire. Stay safe, everyone, keep your spaces defensible, and keep a go-bag ready.* ***3. I'm glad this has gained some popularity, and thank you for the rewards. I just want some good to come of my experience.***
+
+This is pretty lengthy but I want to give you enough background to show you that this is reasonably credible advice.
+
+I lived in North Central Oregon on a ranch for four years and in Eastern Oregon for one year, and fire season is really common east of the Cascades. Fires will happen, usually due to human stupidity but also fairly commonly due to lightning strikes. My husband was a river ranger over there and regularly had to direct firefighters, life flights, and aerial water dumps to burn sites, keep people safe from themselves, and maintain areas in such ways that the space is kept defensible.  Horrible and concerning but not unexpected at all. Also relevant detail, we live in an RV on our friends' property, so moving out is relatively easy.
+
+We have had ash rain down on us plenty without being more concerned than having a vague feeling that we'll make sure the bug-out-bags are packed, but we never had to evacuate. If it doesn't change, all you need to do is monitor weather conditions - **particularly wind direction** \- and go about your day as best you can. If the wind shifts, putting you downwind of the fire, leave. Obviously, don't inhale more smoke than is absolutely unavoidable.
+
+We moved to the Willamette Valley about three years ago and were pretty excited about being out of the wildfire zone. However, when the massive wildfires consumed the area on September 9th, 2020, following the lightning strikes and historic wind storm on September 8th, 2020, it was the first time that the ash changed in nature that we had experienced. It was gradual throughout the day, but we started with this snowflake sized ash, and some hours later it had grown. Since we're used to ash, we didn't even notice consciously - suddenly, something just felt *wrong* about the ash and our instincts told us to get out.
+
+Rough time line as it happened to us. It's been a while now. Thankfully. *The times that are noted are ones I know due to time stamps on videos and photos I took.*
+
+1. **Morning**. Small ash. We could see the sun, mostly.
+2. **Noon.** The ash probably increased a little in size, but we weren't paying attention yet. The world was grayed from smoke. The sun looked like it was behind clouds.
+3. **1:45pm.** The world was yellow from smoke distortion, the ash had ***grown*** significantly, we had been prepping to leave since a couple hours but there was a lot to do.
+4. **3:20pm.** The world was pitch black from smoke blocking out the sun. We were loading up valuables onto trailers, had a couple friends helping load quads and get things ready to haul out. ***At this point, the smoke is more than thick enough to make you stupid. There's not enough oxygen, it hurts quite a lot to breathe.***
+5. **4:30pm**. The sky turned red and we know the fire must've been within 1.5 miles. The ash was falling in hand-sized flakes and, occasionally, warm chunks. That means that chunks of burning tree are being carried by the upward force of heat from the fire and propelled far away. ***If you are present at this time, your choices are basically to get out or face near-certain death.*** I say near-certain because the property we live on was, as it turned out, spared by about 3000 ft.
+
+The sad thing is that the police didn't arrive to tell us to evacuate until 4:30pm, so we went from "you're fine" to "GET OUT NOW" in all of 30 minutes as far as they're concerned. We were lucky enough to be prepared so that we were able to grab our things and go, and we were extremely fortunate to have a storage trailer and a flatbed to hold, honestly, most of the belongings not already in our RV. If you look at the Riverside Fire map, there is a nook in the northwest part, and that's 3000ft away from where I live, right on the edge to the national forest.
+
+Finally, with a large fire like that, there is a risk of a pyroclastic cloud just like from a volcano - basically a cloud of fire that sits up in the sky, waiting to either dissipate or fall and disintegrate everything below it with extreme speed. If you're not allowed to go back for a while, that's likely to be a reason why. For us, we were allowed officially back two or three weeks after the incident.
+
+Anywho, I  hope you have found this informative and hope that you will never have to make use of this information.
+
+url:https://reddit.com/r/LifeProTips/comments/mvmd0p/
+author:Pangolindrome
+subreddit:LifeProTips
+score:6602
+numComments:173
+isOver18:False
+hasPostBody:True

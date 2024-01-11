@@ -1,0 +1,15 @@
+title:
+YSK all modern dictionaries define the word “literally” to mean both literally and figuratively(not literally). This opposite definition has been used since at least 1769 and is a very common complaint received by dictionary publishers.
+
+content:
+Why YSK: Many people scoff when they hear the word literally being used as an exaggeration (“she literally broke his heart”). However, this word has always had this dual meaning and it’s an accepted English usage to use it either way.
+
+Edit: a good [discussion from the dictionary people](https://www.merriam-webster.com/words-at-play/misuse-of-literally) on the topic.
+
+url:https://reddit.com/r/YouShouldKnow/comments/y9jeuv/
+author:grandlewis
+subreddit:YouShouldKnow
+score:10597
+numComments:572
+isOver18:False
+hasPostBody:True

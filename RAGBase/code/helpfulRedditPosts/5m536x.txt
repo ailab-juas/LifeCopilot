@@ -1,0 +1,13 @@
+title:
+LPT: If you're trying to break a habit, don't say "This is the last time I'm doing it" to yourself. Instead, say "This is the first time I'm not doing it."
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5m536x/
+author:KingSTEELO47
+subreddit:LifeProTips
+score:2672
+numComments:75
+isOver18:False
+hasPostBody:False

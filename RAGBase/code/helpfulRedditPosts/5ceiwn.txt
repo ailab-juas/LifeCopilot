@@ -1,0 +1,13 @@
+title:
+LPT: Yellow highlighters don't produce a shadow on a photocopy
+
+content:
+So if you need to highlight something at work and want to pass it on without your notes and highlights, use a yellow highlighter instread of a green/blue/orange one.
+
+url:https://reddit.com/r/LifeProTips/comments/5ceiwn/
+author:SilentCastHD
+subreddit:LifeProTips
+score:10882
+numComments:438
+isOver18:False
+hasPostBody:True

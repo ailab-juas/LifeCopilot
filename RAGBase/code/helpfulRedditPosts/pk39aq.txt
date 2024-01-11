@@ -1,0 +1,50 @@
+title:
+LPT: take your home internet router with you on the next vacation trip
+
+content:
+TL;DR When you get a hotel room, have a look behind a TV. The chance is quite high you gonna find an ethernet cable going from the wall to the TV or TV box. Connect the cable to your router to get unlimited internet speed with no authorization bullshit.
+
+&amp;#x200B;
+
+The story.
+
+I'm moving from CA to TX right now. I'm not in a hurry, I work remotely, so I change a hotel each 3-4 days. Just spend one day to have a 5-6 hr drive to the next location. And a few days to rest, work and look around. And as of now, this LPT worked 2 out of 3 times.
+
+&amp;#x200B;
+
+At the first location, they had the wifi password written on the welcome booklet. Myself, wife and daughter used that password to connect phones and one notebook. The internet was good enough to have a zoom call with no video and browsing.
+
+&amp;#x200B;
+
+At the next one, I found out there's no password anywhere. The lobby is like a 1-minute drive, 3 minutes walk. Shit, I'm lazy. Wait, what is the blue cable under the table? It connects the wall with the TV. Interesting. Btw, I have a box with wires and computer stuff somewhere in the trunk. I'm gonna get it.
+
+And I found my router, connected it to the cable from the wall and it worked, all our phones get connected immediately like we're home.
+
+&amp;#x200B;
+
+At the third hotel, I asked what is the wifi password right away. They said it's your last name and room number. So it was one of those WIFIs with an authorization page.
+
+Once we got in the room, I immediately peeked behind the TV, and there was a cable connecting the wall with some white cisco device. I connected the cable to my router, and it worked again.
+
+And what is, even more, funnier is my wife connected to the hotel wifi, there was an authorization page, and they say free wifi is good for browsing, but you can buy a faster connection to download files.
+
+And I speed-tested the connection from the wall, and I was like "Woah-Woah slow down dude", this shit is three times faster than what we had at home.
+
+&amp;#x200B;
+
+So this is it. And if you want to keep watching TV, you can connect back the TV/TV box to your router. Just take a short ethernet cable with you.
+
+Edit: Thank everyone for the comments. I'm gonna add a couple of useful notes here:
+
+1. Only connect the cable to the WAN port of your router. And if it doesn't work, please disconnect it.
+2. Ethernet adapter (dongle) is a smaller device and should work as well. Just try the tethering and its setup at home, before you go.
+
+&amp;#x200B;
+
+url:https://reddit.com/r/LifeProTips/comments/pk39aq/
+author:denego123
+subreddit:LifeProTips
+score:2821
+numComments:239
+isOver18:False
+hasPostBody:True

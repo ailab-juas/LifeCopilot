@@ -1,0 +1,17 @@
+title:
+YSK about textseet.com. It is a website that displays CHEGG and other hidden “pay to view” answers by simply copying and pasting page URL.
+
+content:
+textsheet.com takes the URL from chegg and other subscription websites and displays the answers. Simply copy the URL from chegg (or other website) and paste it into search bar of textsheet.com.
+
+EDIT: when using textsheet it may prompt you to fill out a survey before viewing the answers. When done the short survey it still may not show. To solve this, just reload the page and reenter the URL.
+
+EDIT 2: Thank you to the 40+ people that have let me know textsheets is down. Looks like it got DMCA’d by Chegg. A new alternative is [litanswers.org](https://litanswers.org) 
+
+url:https://reddit.com/r/YouShouldKnow/comments/algu65/
+author:KDotMusk
+subreddit:YouShouldKnow
+score:5618
+numComments:79
+isOver18:False
+hasPostBody:True

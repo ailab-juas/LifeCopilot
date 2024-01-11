@@ -1,0 +1,13 @@
+title:
+YSK that right clicking on a gif and selecting "Show Controls" will give you a control bar to pause/play/select time just like a video.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/YouShouldKnow/comments/4fzmhi/
+author:[deleted]
+subreddit:YouShouldKnow
+score:1156
+numComments:42
+isOver18:False
+hasPostBody:True

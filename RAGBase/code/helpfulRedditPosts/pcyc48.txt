@@ -1,0 +1,15 @@
+title:
+YSK: if you’re online shopping from a big store and your cart is HUGE. Buy one or two things first, then the rest later.
+
+content:
+Why YSK: A LOT of stores will put a coupon in your package (for upwards of 25% off your next purchase) when you buy one thing from their store. This ensures you shop there again. 
+
+If you were already planning on spending a lot of money there this initial coupon could really soften the blow on your wallet.
+
+url:https://reddit.com/r/YouShouldKnow/comments/pcyc48/
+author:Jdela512
+subreddit:YouShouldKnow
+score:4991
+numComments:114
+isOver18:False
+hasPostBody:True

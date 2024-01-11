@@ -1,0 +1,13 @@
+title:
+LPT: Stop overthinking your tasks. It leads to analysis paralysis and you end up just thinking about work instead of actually doing it. Have a VERY basic plan, and just start working. You'll figure things out along the way.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ny624y/
+author:dasischilling
+subreddit:LifeProTips
+score:49714
+numComments:1077
+isOver18:False
+hasPostBody:False

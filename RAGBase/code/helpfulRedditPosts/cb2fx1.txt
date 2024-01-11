@@ -1,0 +1,15 @@
+title:
+YSK that your electricity utility probably has "peak hours"
+
+content:
+I live in Minnesota, my electricity is provided by Xcel, who's "peak hours" are 9am-9pm. During this time, 1 kwh of power costs about $0.21, whereas off peak hours costs about $0.04.
+
+Since I found this out I only run my laundry machine, dryer, dishwasher, and air conditioning during off peak hours. Even though my energy consumption has stayed about the same, my bill has gone down by almost 30%.
+
+url:https://reddit.com/r/YouShouldKnow/comments/cb2fx1/
+author:KarmaDarmaSchawarma
+subreddit:YouShouldKnow
+score:4864
+numComments:251
+isOver18:False
+hasPostBody:True

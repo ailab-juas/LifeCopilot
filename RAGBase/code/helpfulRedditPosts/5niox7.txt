@@ -1,0 +1,13 @@
+title:
+LPT: Select "Custom Installation" when installing any new software to avoid automatically agreeing to things like browser add ons, new search engine choices and other "included" computer alterations.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5niox7/
+author:tswtom
+subreddit:LifeProTips
+score:2222
+numComments:81
+isOver18:False
+hasPostBody:False

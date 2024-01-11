@@ -1,0 +1,15 @@
+title:
+YSK that you can text 988 in situations where you can't call 911 for help. They have the authority to call police or EMTs for you
+
+content:
+Why YSK: there might be situations where you can't call 911 because someone will overhear you (domestic abuse, active burglary etc.) and your state may not have text to 911 available. 988 has the authority to call police or other emergency services if you're in danger. They may not be able to give you medical advice, but they can get help to you quickly. If you can talk, 911 is the best option. 988 is there as a good "plan b"
+
+edit: This is only USA based. 988 also has an online chat function on the computer. It's possible that you don't have a phone or service but have a computer available. You can ask for help there too
+
+url:https://reddit.com/r/YouShouldKnow/comments/zuttzj/
+author:Icy-Plane7324
+subreddit:YouShouldKnow
+score:1596
+numComments:67
+isOver18:False
+hasPostBody:True

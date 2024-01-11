@@ -1,0 +1,19 @@
+title:
+YSK: iOS 15 lets you copy and paste text from photos. It’s perfect for “scanning” recipes out of cookbooks, handwritten notes, etc.
+
+content:
+[Here’s how you do it](https://www.cnbc.com/amp/2021/09/29/ios-15-live-text-how-to-copy-and-paste-text-from-a-photo.html). It’s a pretty awesome feature that most people don’t know exists. Basically, a photo of anything that is written down, either printed or handwritten (within reason) can have the text extracted from the image. 
+
+Why YSK: this could save someone a lot of time and effort if they needed to create a searchable database for recipes, notes, etc.
+
+edit: yes, androids can also do the same thing.
+
+edit #2: iPhone XS/XR and newer are capable of doing it (but older models can use Google Lens in the Google app for a comparable effect).
+
+url:https://reddit.com/r/YouShouldKnow/comments/q8qmu2/
+author:diverareyouok
+subreddit:YouShouldKnow
+score:11072
+numComments:484
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+YSK: Sleep cycles occur in 90 minute intervals - get up when you're closer to awake
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/17bftq/
+author:ellimist
+subreddit:YouShouldKnow
+score:1217
+numComments:157
+isOver18:False
+hasPostBody:False

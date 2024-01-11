@@ -1,0 +1,15 @@
+title:
+YSK: You want to get your life, disability, and long-term care insurance BEFORE getting your genes tested
+
+content:
+YSK: Life, disability, and long-term care insurance providers can discriminate based on genetic testing results. Health insurance providers can't. (ETA: This applies to the US. Other countries are different. Thanks to the commenters who pointed that out.)
+
+Why YSK: Health insurers are forbidden to discriminate on the basis of genetics. Other insurers--like life, disability, and long-term care--aren't. So if you think you'll want genetic testing--and odds are you will someday--it's wise to get your life, disability, and long-term care policies set up first.
+
+url:https://reddit.com/r/YouShouldKnow/comments/rbhh2k/
+author:vonhoother
+subreddit:YouShouldKnow
+score:21809
+numComments:702
+isOver18:False
+hasPostBody:True

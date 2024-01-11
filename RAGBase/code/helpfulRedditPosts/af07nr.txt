@@ -1,0 +1,13 @@
+title:
+LPT: If someone you care about is in need, say "Tell me what you need." Not "Let me know if you need anything". Being direct makes it easier for them to ask, instead of just being a generic and pretty meaningless gesture.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/af07nr/
+author:Tamar-sj
+subreddit:LifeProTips
+score:26334
+numComments:258
+isOver18:False
+hasPostBody:False

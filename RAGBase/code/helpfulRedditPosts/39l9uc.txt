@@ -1,0 +1,17 @@
+title:
+YSK the FCC will now take your net neutrality complaints
+
+content:
+The core net neutrality rules prohibit blocking or throttling of lawful content, or "paid prioritization," in which online content providers pay for faster access to consumers.
+
+The Federal Communications Commission's net neutrality rules took effect today, and you can file complaints against your Internet service provider (or mobile data provider) on the FCC's website @ https://consumercomplaints.fcc.gov/hc/en-us/requests/new?ticket_form_id=38824
+
+Via http://arstechnica.com/tech-policy/2015/06/the-fcc-will-now-take-your-net-neutrality-complaints/
+
+url:https://reddit.com/r/YouShouldKnow/comments/39l9uc/
+author:speckz
+subreddit:YouShouldKnow
+score:2263
+numComments:73
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: If you call someone over to help you, but you already figured it out before they arrive, ask them for a second opinion. They are less likely to feel like you wasted their time.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/64v5sq/
+author:flapjack009
+subreddit:LifeProTips
+score:8600
+numComments:166
+isOver18:False
+hasPostBody:False

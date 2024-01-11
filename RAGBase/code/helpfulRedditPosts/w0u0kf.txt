@@ -1,0 +1,16 @@
+title:
+YSK about the Chrome/Firefox/Edge extension SponsorBlock. When active, sponsored content on Youtube will be skipped automatically.
+
+content:
+Why YSK: It works by users submitting time stamps to the extension that mark the beginning and end of sponsored content on Youtube videos. Those video sections are automatically skipped. Users can also submit the time stamp of the highlight point in videos so you can skip to the relevant parts.
+
+Link to the extension:
+Chrome: https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone
+
+url:https://reddit.com/r/YouShouldKnow/comments/w0u0kf/
+author:throwaway_user_1994
+subreddit:YouShouldKnow
+score:2414
+numComments:181
+isOver18:False
+hasPostBody:True

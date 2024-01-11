@@ -1,0 +1,13 @@
+title:
+LPT: When storing food that tends to be served from the bottom (pies, cakes, quiches, etc.) use a storage container upside down. In other words, put the food on the lid and then attach the container on the lid. It’ll be easier to serve the next time.
+
+content:
+I’m not sure if the description is clear so here’s a picture: https://imgur.com/gallery/7q4hofn
+
+url:https://reddit.com/r/LifeProTips/comments/g8rum7/
+author:MachWerx
+subreddit:LifeProTips
+score:1514
+numComments:32
+isOver18:False
+hasPostBody:True

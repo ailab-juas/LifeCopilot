@@ -1,0 +1,13 @@
+title:
+LPT: When cooking using recipes from your mobile phone or tablet quickly press the "Print Recipe" button. This opens the recipe as a PDF. Then you can work with no pop-ups and no page reloading in an easy to read format. Bon Appétit!
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/t9stov/
+author:[deleted]
+subreddit:LifeProTips
+score:3182
+numComments:51
+isOver18:False
+hasPostBody:True

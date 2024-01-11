@@ -1,0 +1,13 @@
+title:
+LPT: Picking up people at the airport? Have them meet you at Departures instead of Arrivals
+
+content:
+Traffic is much lighter and moves much more quickly in the Departures area compared to Arrivals. All it takes is a couple minutes to go back upstairs (usually) and you can pick them up within minutes while everyone in the Arrivals area slogs through the traffic.
+
+url:https://reddit.com/r/LifeProTips/comments/1jr4co/
+author:kranzmonkey
+subreddit:LifeProTips
+score:1506
+numComments:421
+isOver18:False
+hasPostBody:True

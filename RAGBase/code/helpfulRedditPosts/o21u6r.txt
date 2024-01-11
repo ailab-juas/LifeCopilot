@@ -1,0 +1,21 @@
+title:
+YSK: "Medium" and "Hard" toothbrushes are considered harmful by the ADA and almost no one should use them
+
+content:
+If you go to a pharmacy toothbrush aisle you'll probably be provided with dozens of different shapes and sizes of brush, each with its own purported benefits. One of the many variations between different brushes you will sometimes see is bristle stiffness, which is generally Soft, Medium, or Hard/Firm. 
+
+This choice is presented to consumers as a seemingly benign difference based on preference, like choosing between crisscross bristles or an angled tip, but it is very much not. There is a clear consensus to exclusively use [soft bristled brushes](https://www.ada.org/en/member-center/oral-health-topics/toothbrushes) for teeth, and no dentist will recommend that you use a medium or harder toothbrush since they can cause erosion and gum damage. 
+
+Harder bristled toothbrushes do have some very limited special-case uses, such as cleaning dentures, but manufacturers continue to resist making that distinction clear in packaging and marketing. This leads to confusing double talk where Colgate [confirms on their website](https://www.colgate.com/en-us/oral-health/selecting-dental-products/soft-vs-hard-toothbrush) that consumers should exclusively choose soft toothbrushes, but also markets medium firmness toothbrushes as [a standard product](https://www.colgate.com/en-gb/products/toothbrush/colgate-extra-clean-3-pack-toothbrush) even labeling them as "Extra Clean," implying that they work better.
+
+The industry is stuck in kind of a chicken-and-egg scenario that can cause you real harm. Some consumers want "firmer" toothbrushes based on lack of knowledge and no manufacturer wants to lose that market segment so they keep making them, but the ongoing availability of normal medium/firm brushes reinforces the misconception that they are standard choices that work better for some consumers. 
+
+Why YSK: Whatever other choices you are making with picking brushes you should *never* choose a firmer bristle than soft without specific advice from your dentist, or you could damage your teeth or gums. You should think of Medium and Firm/Hard toothbrushes as specialty tools with specialty purposes and not a matter of preference.
+
+url:https://reddit.com/r/YouShouldKnow/comments/o21u6r/
+author:ctsims
+subreddit:YouShouldKnow
+score:1401
+numComments:78
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+YSK that when buying oysters, you can request to see the "shellfish tag," a legally required documentation of the harvest date and origin of the oysters.
+
+content:
+Every retailer and restaurant is required to have a shellfish tag for each bag of oysters that they purchase for up to 90 days after that purchase.  One expert says, "if they don't have that tag, I wouldn't eat those oysters."  She recommends looking for the most recent date on the tag (whether it's the "final harvest date", or "wet storage date") — anything further out than 2 weeks won't taste as good and increases the risk of a bad oyster.  
+
+https://youtu.be/ZHTLLUKYLkc
+
+url:https://reddit.com/r/YouShouldKnow/comments/acouul/
+author:BrosettaStone7
+subreddit:YouShouldKnow
+score:4991
+numComments:206
+isOver18:False
+hasPostBody:True

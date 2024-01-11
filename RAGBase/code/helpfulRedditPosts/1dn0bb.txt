@@ -1,0 +1,13 @@
+title:
+LPT: When riding a bike, pretend that you are invisible.
+
+content:
+Never assume that people in cars can see you, never put yourself in front of a car until you make eye contact with the driver.
+
+url:https://reddit.com/r/LifeProTips/comments/1dn0bb/
+author:gewill
+subreddit:LifeProTips
+score:1386
+numComments:401
+isOver18:False
+hasPostBody:True

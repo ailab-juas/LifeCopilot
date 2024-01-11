@@ -1,0 +1,13 @@
+title:
+Turns out that toothpaste clears up hazy car headlights (xpost)
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/r3mma/
+author:icametodropbombs
+subreddit:LifeProTips
+score:2465
+numComments:378
+isOver18:False
+hasPostBody:False

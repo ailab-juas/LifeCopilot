@@ -1,0 +1,19 @@
+title:
+YSK that student loans that are forgiven/written off by the government are considered taxable income.
+
+content:
+http://www.finaid.org/loans/forgivenesstaxability.phtml
+
+I was looking into this myself - it might be of use to you or a loved one. There is obviously a substantial difference between simply writing off the loans and walking away versus being TAXED on, say, $50,000 as if it were gross income for the year.  There are certain exceptions listed in the above link, but this law applies to the vast majority of us looking into this as an option.
+
+Edit:  For direction on how to apply for forgiveness, check this site out:
+
+https://studentaid.ed.gov/repay-loans/forgiveness-cancellation
+
+url:https://reddit.com/r/YouShouldKnow/comments/2yd02o/
+author:postictal
+subreddit:YouShouldKnow
+score:1720
+numComments:157
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,32 @@
+title:
+YSK: There are likely permanent collection sites for expired medications in your area (USA)
+
+content:
+**Why YSK:**  
+
+&gt;Expired medical products can be less effective or risky due to a change in chemical composition or a decrease in strength. Certain expired medications are at risk of bacterial growth and sub-potent antibiotics can fail to treat infections, leading to more serious illnesses and antibiotic resistance. Once the expiration date has passed there is no guarantee that the medicine will be safe and effective. If your medicine has expired, do not use it.  
+&gt;  
+&gt;According to the DEA many people don’t know how to properly clean out  their medicine cabinets.  Failing to safely dispose of old medications, especially opioids, all too often leads to dangerous drugs ending up in the wrong hands. The CDC reports that 50,000 young children end up in emergency rooms each year because they got into medicines while an adult wasn’t looking.  
+&gt;  
+&gt;Finally, expired medicines are also not just a risk to the person they were prescribed for and can injure children and pets if taken by mistake. For all these reasons, proper disposal of unneeded medicines is essential*.*  [\~From the FDA website](https://www.fda.gov/drugs/special-features/dont-be-tempted-use-expired-medicines)
+
+You can find out if there is a permanent collection in your area with a simple Google search for  "drug disposal near me" or "medication disposal near me,"  calling the DEA Diversion Control Division Registration Call Center at 1-800-882-9539, or visiting [this](https://apps.deadiversion.usdoj.gov/pubdispsearch/spring/main;jsessionid=dxaAKj_GwWWSbuU-zoIP5obymhJCFuOiHLD_pd9v.web2?execution=e1s1) DEA search page.
+
+Another option, if there are no available permanent collection sites nearby, is to find out if there is going to be a [National Prescription Drug Take Back Day](https://www.deadiversion.usdoj.gov/drug_disposal/takeback/index.html) event near you. NPDTBD is October 29th this year.
+
+If neither of these is an option, then there are two ways to properly dispose of expired medication at home. First, if the medications are on the FDA [flush list](https://www.fda.gov/drugs/disposal-unused-medicines-what-you-should-know/drug-disposal-fdas-flush-list-certain-medicines#FlushList) then feel free to flush those right down the toilet. Second, if they are ***not*** on that list ***and*** there are no specific disposal instructions on the medication guide or package insert then [follow these steps](https://www.fda.gov/drugs/disposal-unused-medicines-what-you-should-know/drug-disposal-dispose-non-flush-list-medicine-trash): 
+
+1. Mix medicines (liquid or pills; do not crush tablets or capsules)  with an unappealing substance such as dirt, cat litter, or used coffee grounds;
+2. Place the mixture in a container such as a sealed plastic bag;
+3. Throw away the container in your trash at home; and
+4. Delete all personal information on the prescription label of empty medicine bottles or medicine packaging, then trash or recycle the empty bottle or packaging.
+
+This applies not only to prescription medications, but over the counter ones as well, such as Tylenol, Dayquil, and cough syrups.
+
+url:https://reddit.com/r/YouShouldKnow/comments/wlnb97/
+author:mattimeomeg
+subreddit:YouShouldKnow
+score:1274
+numComments:66
+isOver18:False
+hasPostBody:True

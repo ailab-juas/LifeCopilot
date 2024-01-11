@@ -1,0 +1,14 @@
+title:
+LPT - Don't order flowers online from a middleman (800-flowers, teleflora, FTD, proflowers, etc). Call a florist directly - you'll get a better looking arrangement that won't end up on /r/ExpectationVsReality/
+
+content:
+A little late for Mother's day, but still a good tip.
+
+
+url:https://reddit.com/r/LifeProTips/comments/4icacx/
+author:IHateHangovers
+subreddit:LifeProTips
+score:3386
+numComments:273
+isOver18:False
+hasPostBody:True

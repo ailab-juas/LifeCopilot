@@ -1,0 +1,17 @@
+title:
+YSK there's a free alternative to Wolfram Alpha called fxSolver for solving Math and Engineering problems
+
+content:
+It has a large library of equations to solve, plot and link together and each one can be customized and shared.
+
+It's not a behemoth knowledge engine like Wolfram, but it's very useful for getting quick results by finding the right formula and solving it for any variable.
+
+Anyway, [here's the link.](https://www.fxsolver.com)
+
+url:https://reddit.com/r/YouShouldKnow/comments/7hp3np/
+author:cortenno
+subreddit:YouShouldKnow
+score:21042
+numComments:394
+isOver18:False
+hasPostBody:True

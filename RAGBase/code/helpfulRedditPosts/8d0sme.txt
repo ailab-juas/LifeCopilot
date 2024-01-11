@@ -1,0 +1,29 @@
+title:
+YSK If you don't specify who to tow your car after an accident, law enforcement will call for whichever tow company responds first to get your car and they can charge daily storage fees if you don't act right away.
+
+content:
+Cross-posted today from tifu 
+
+You Should Know that towing fees can get out of hand after an accident if you're not prepared to tell the police where to send your car.
+
+I learned from the googling I did after a major accident flipped my car 3 times, leaving it upside down on the side of the highway, that the system for disposing of your wreckage can be quite cold despite the trauma you've personally experienced. Everybody I dealt with that wasn't a witness or a member of my family eventually hit me up with some request for money. "Who's your insurance? I can take your payment now. Your fee will be yada yada yada."
+
+I was rear ended, traveling the speed limit at 3am on an eight lane highway in little or no traffic. The person that hit my car, possibly going 90+ in a 65 area, sped off while 3 people pulled over to help me out of my car. My phone was left in the wreck, so I wasn't able to look up my information. They wouldn't let me go back to my car, so whatever insurance info I had on hand wasn't available. Nobody had the presence of mind to ask if I had AAA, which probably could have helped, so my car was towed by whatever company they contacted, if they did at all. So the 250 copay for the hospital in my insurance plan wasn't the least of my expenses that day as whomever answered the phone for the tow company fed my wife the totally untrue line that the police had to release my vehicle. $100 a day for storage with the towing fee came to about $700 or so, which they had the decency to knock off $50 in exchange for signing over the title of my wreckage to the tow company. I probably had about 30 minutes to look through my car, grabbing whatever personal items I could, before I had to leave for a follow up appointment with my doctor. Strange that the personal effects I distinctly remember seeing last on the ceiling of my car when I left it weren't there when I went to pick out my belongings at the tow company's yard, all the while an employee hovering around nearby asking me how much each item cost when I'd say "I can't find x or y...", while smugly smirking to himself as he watched me.
+
+Even if you have a brush with death, there will be people there that will try to take advantage of your situation and get whatever they can from you.
+
+I learned that tow companies will get involved without your say-so and charge exorbitant fees at a time when you are least able to make careful decisions and advocate for yourself.
+
+I regret not putting my AAA bumper stickers on my car.
+
+The only things what went right that day were the safety features of my car, the 3 people that didn't have to pull over and help me that day, and the ambulance crew. My hospital made me wait 3 hours before being seen for 5 minutes, the police cared more about asking my insurance carrier than who I wanted to tow my car, and the tow company hit me up with an absurd price to pay that wasn't covered in my insurance. It goes without saying the perpetrator failed me as a human being for not even stopping, I can't even claim uninsured motorist on my coverage unless the police don't find this person. I'm glad to be alive and with my family, but I feel like the system wants to make it even harder for me to survive. I currently do a physically demanding job, and I'm going to be gone for two weeks. I wouldn't be surprised if they figure out a way to get me cut loose.
+
+`TL;DR` In the event of an accident, if you don't specify whom or where you want your vehicle towed, someone may show up and charge you an arm and a leg to tow and stow your car. They may even overhear your collision report on a police scanner and just show up, **uninvited**.
+
+url:https://reddit.com/r/YouShouldKnow/comments/8d0sme/
+author:onthehornsofadilemma
+subreddit:YouShouldKnow
+score:2775
+numComments:121
+isOver18:False
+hasPostBody:True

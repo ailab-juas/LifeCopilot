@@ -1,0 +1,13 @@
+title:
+LPT: If youre trying to lose weight and you find yourself wanting to eat before bed, drink a cup of water first. If youre still too hungry, then try brushing your teeth.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1cd7wu/
+author:Epoo
+subreddit:LifeProTips
+score:1770
+numComments:275
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+YSK there is a website called haveibeenpwned.com that lets you see if your email has been involved in any data breaches across any website.
+
+content:
+If you are worried that your password might have been leaked in a mass data breach, you should check on this website. All you have to do is type in your email in the box and it will search all the websites with your email logged into it to see if your password has been breached. It also gives options to help recover and reset data and passwords.
+
+url:https://reddit.com/r/YouShouldKnow/comments/efve92/
+author:VannieThePlaneNerd
+subreddit:YouShouldKnow
+score:11434
+numComments:284
+isOver18:False
+hasPostBody:True

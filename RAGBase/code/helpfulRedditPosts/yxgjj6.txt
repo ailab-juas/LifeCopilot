@@ -1,0 +1,17 @@
+title:
+LPT: If you wanna know if somebody’s snooping around on your iPhone whilst you’re asleep, just check the charging schedule on your Settings app
+
+content:
+If you go to Settings ——&gt; Battery, you get a small graph covering the past 24 hours along with insights into what has been using your battery. If you know you were asleep, and it says that you were using Gmail for 30 minutes with the screen on, you know somebody’s been on your phone looking through your emails.
+
+Edit: “Also alternatively for Android systems, you can check the built in "Digital Wellbeing" app to see exactly what time apps were last accessed. It'll show you every app on your phone and exactly what times they were last used and for how long”
+
+Courtesy of /u/Lysdexiic
+
+url:https://reddit.com/r/LifeProTips/comments/yxgjj6/
+author:georgewastaken3
+subreddit:LifeProTips
+score:12119
+numComments:594
+isOver18:False
+hasPostBody:True

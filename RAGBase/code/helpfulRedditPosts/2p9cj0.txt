@@ -1,0 +1,13 @@
+title:
+LPT: If in an area with questionable reception using GPS, take a screen shot of its directions to avoid getting screwed/lost.
+
+content:
+The gallery, of course, doesn't need a mobile network, so you can have the turns available old-school-style.
+
+url:https://reddit.com/r/LifeProTips/comments/2p9cj0/
+author:myCommentsAreTheLaw
+subreddit:LifeProTips
+score:1909
+numComments:305
+isOver18:False
+hasPostBody:True

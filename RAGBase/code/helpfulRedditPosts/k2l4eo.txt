@@ -1,0 +1,13 @@
+title:
+LPT When you're in a rush just keep calm and take your time. Although it's counter-intuitive to go slower when you're in a hurry, in the end you will save time by being effective rather than speedy.
+
+content:
+I can't count the number of times that being in a frenzied rush has caused me to take longer to accomplish the task at hand due to hurried mistakes. Slowing down and thinking things through will always benefit you when time is of the essence.
+
+url:https://reddit.com/r/LifeProTips/comments/k2l4eo/
+author:PahdyGnome
+subreddit:LifeProTips
+score:30046
+numComments:607
+isOver18:False
+hasPostBody:True

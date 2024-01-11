@@ -1,0 +1,16 @@
+title:
+YSK about Ninite.com, a website to safely, quickly, and easily download programs without bloatware.
+
+content:
+https://ninite.com/
+
+Great website, pick from a selection of the most common programs and it will install all of them automagically. Even stripping out any adware that's normally bundled.
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/2vvzex/
+author:Corrosive23
+subreddit:YouShouldKnow
+score:2166
+numComments:195
+isOver18:False
+hasPostBody:True

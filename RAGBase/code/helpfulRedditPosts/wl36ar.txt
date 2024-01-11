@@ -1,0 +1,29 @@
+title:
+YSK: Of a massive fire extinguisher recall - 38 million made from 73’ to 17’. If yours has a plastic handle, there’s a good chance it’s effected and may not work!
+
+content:
+Why YSK:
+Over 38 Million fire extinguishers manufactured between 1973 and 2017 have been recalled because they may not discharge even if the gauge shows the extinguisher is properly pressurized. At least one related death has been reported.  Recalled models may also shoot the nozzle off hard enough to create a projectile hazard. 
+
+If your fire extinguisher has a plastic handle, there’s a good chance it’s been recalled and may not work when you need it!
+
+The recall includes Kidde brand extinguishers sold at: “Menards, Montgomery Ward, Sears, The Home Depot, Walmart and other department, home and hardware stores nationwide, and online at Amazon.com, ShopKidde.com and other online retailers for between $12 and $50. These fire extinguishers were also sold with commercial trucks, recreational vehicles, personal watercraft and boats.”
+
+If your model has been recalled, you should get a free replacement immediately:
+
+[U.S. Consumer Product Safety Commission - Extinguisher Recall](https://www.cpsc.gov/Recalls/2018/Kidde-Recalls-Fire-Extinguishers-with-Plastic-Handles-Due-to-Failure-to-Discharge-and-Nozzle-Detachment-One-Death-Reported)
+
+Kidde Fire Extinguisher Product Safety Recall Information:
+(855) 271-0773 
+
+Millions of Kidde smoke and CO alarms have also been recalled:
+
+[U.S. Consumer Product Safety Commission - Smoke &amp; CO Alarm Recall](https://www.cpsc.gov/Recalls/2017/Kidde-Recalls-Combination-Smoke-CO-Alarms)
+
+url:https://reddit.com/r/YouShouldKnow/comments/wl36ar/
+author:avanored
+subreddit:YouShouldKnow
+score:1407
+numComments:61
+isOver18:False
+hasPostBody:True

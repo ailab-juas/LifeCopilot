@@ -1,0 +1,45 @@
+title:
+LPT: Email etiquette, although you may feel it is an antiquated form of communication, is key to your career advancement.
+
+content:
+There are a multitude of forms of virtual communication in the business world today: Webex, Teams, Skype, Sametime, etc.
+
+However, the written word and its context in the history of the chain of communication are the foundation of success.  And in the business world, this written record is still primarily email.
+
+Upper-level management makes it a point to keep a record of transactions and conversations in this medium.  You will want to ensure that your contributions are professional, accurate, and consistent.
+
+There are specific formats and protocols to follow:
+
+- Always lead with your thesis: We will do this because X justifies Y.  Then justify it.
+
+Never put your justifications before your premise.
+
+- Formality and informality
+
+The very, very first line of your email will be a salutation.  Tailor it accordingly.
+
+If you are speaking to peers or subordinates, informality is fine.
+
+"Hi guys,"  "Just a heads up," etc.
+
+If you are speaking to superiors, formality is required.
+
+"Good morning/afternoon," Etc.
+
+- Who you CC, BCC, or omit from the recipient list is political.
+
+Be aware that information is the foundation of power in most work settings.  If you pointedly leave out someone from a critical communication, your motivations will be considered.
+
+- Never, ever use a wall of text with few or no paragraph breaks.  For that matter, never write a paragraph.
+
+Your points should be single lines only.
+
+The fewest words that contain the most information is the ideal.
+
+url:https://reddit.com/r/LifeProTips/comments/qnun2n/
+author:FastWalkingShortGuy
+subreddit:LifeProTips
+score:4572
+numComments:293
+isOver18:False
+hasPostBody:True

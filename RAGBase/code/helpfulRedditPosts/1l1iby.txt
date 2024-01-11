@@ -1,0 +1,17 @@
+title:
+LPT: If you're having trouble understanding someone, don't repeat "What?"
+
+content:
+If you've ever said something and had to repeat yourself multiple times, you've probably noticed it gets really frustrating when someone keeps asking "What? What? What?" It usually ends in overcompensating and shouting what you were trying to say.
+
+Instead, ask "Can you repeat that?" or "Pardon?" or simply say "I couldn't understand you."
+
+Alternatively, if someone is having trouble hearing you, repeat what you've said in different words. Odds are, they've understood some of it, and approaching it differently gives two paths to arrive at your meaning.
+
+url:https://reddit.com/r/LifeProTips/comments/1l1iby/
+author:rabbidpanda
+subreddit:LifeProTips
+score:1432
+numComments:322
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+YSK: If you're buying something on Amazon, use smile.amazon.com and 0.5% of the money you spend will be given to an organization of your choice. All prices are the same.
+
+content:
+Just a reminder. Wish I had posted before Christmas.
+
+url:https://reddit.com/r/YouShouldKnow/comments/7meiuj/
+author:Mindset_
+subreddit:YouShouldKnow
+score:8962
+numComments:175
+isOver18:False
+hasPostBody:True

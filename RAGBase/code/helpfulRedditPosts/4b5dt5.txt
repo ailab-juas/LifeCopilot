@@ -1,0 +1,21 @@
+title:
+YSK if you fatigue easily; if you are otherwise healthy, but aerobic exercise causes a pain in your chest; if you are sometimes light-headed and experience shortness of breath; please get checked out for a potential heart issue
+
+content:
+My wife is 31. She is in great shape physically, but has always been easily fatigued. She hates aerobic exercise because it makes her chest hurt. She thought this pain was normal. In school, she was told by teachers she just needs to push herself and exercise more. She had received previous doctor check-ups, which did not notice the problem. At times, she has always occasionally experienced light-headedness and shortness of breath.
+
+Recently, she underwent a check-up before an elective cosmetic surgery. The doctor we found is known for being thorough, and for not glossing over details. The first thing he noticed is that she has pectus excavatum &amp;ndash; an irregularly shaped chest where the ribs curve inward in the center. Among other things, this affects the position of the heart, and reduces the volume of the chest cavity.
+
+The doctor asked for an EKG, which noticed a mild irregularity. He then recommended 24-hour monitoring with an ambulatory electrocardiography device (a [Holter monitor](https://en.wikipedia.org/wiki/Holter_monitor)).
+
+The monitoring shows she has a form of arrhythmia. In hindsight, it appears that she has had it her entire life. She started to experience symptoms during puberty. The pectus excavatum condition becomes more pronounced when the body matures.
+
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/4b5dt5/
+author:SushiAndWoW
+subreddit:YouShouldKnow
+score:1090
+numComments:143
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: If you’re at a McDonalds that charges for their sauces, wait to ask for sauces until after you’ve paid and they are handing you you’re food. They will go and grab them without charging you again.
+
+content:
+Edit: It works best in a drive through when you’re at the second window.
+
+url:https://reddit.com/r/LifeProTips/comments/v2typb/
+author:trillionnnn
+subreddit:LifeProTips
+score:3698
+numComments:472
+isOver18:False
+hasPostBody:True

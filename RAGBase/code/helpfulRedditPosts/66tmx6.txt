@@ -1,0 +1,43 @@
+title:
+YSK: In the US, there are limits to liability if your debit or credit card is stolen
+
+content:
+Per the [FTC website](https://www.consumer.ftc.gov/articles/0213-lost-or-stolen-credit-atm-and-debit-cards): 
+
+#Physical debit card stolen
+
+If reported | your liability is
+---|---
+Before charges are made | $0
+Within two days of finding charges | $50
+Two days from finding through 59 days after statement being sent | $500
+60 days and beyond | Everything
+
+# Physical credit card stolen
+
+
+If reported | your liability is
+---|---
+Before card is used | $0
+After card it used | $50
+
+# Debit card number *only* stolen
+If reported | your liability is
+--|--
+Within 60 days of statement | $0
+After 60 days of statement | Everything
+
+# Credit card number *only* stolen
+
+If reported | your liability is
+--|--
+Ever(?) | $0
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/66tmx6/
+author:Tananar
+subreddit:YouShouldKnow
+score:1437
+numComments:69
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,27 @@
+title:
+YSK that if someone offers to pay you on a 1099 (i.e., as an independent contractor) "for tax purposes," they're talking about *their* tax purposes. In other words, they're shifting THEIR tax liability for your employment to YOU.
+
+content:
+This particular "trick" often lures in young and unsuspecting workers. Instead of hiring you as an employee, an employer will &lt;wink, wink&gt; say that you'll be hired as an independent contractor "for tax purposes." Maybe you assume it's legit and they're using a loophole, or...? But the job pays better than you'd hoped (or maybe it doesn't), so you take it.
+
+At first, things seem even better than you expected. They're not taking ANYTHING out of your check. Yay, right? Wrong. In fact, it's wrong in (at least) three parts:
+
+1 - Those taxes (FICA, etc.) that would usually be taken out of an employee's check are still owed. And you owe them, not your employer. You will be in for a big shock when you do your taxes.
+
+2 - Not only do you owe the usual taxes that you would normally pay as an employee, but you owe *additional* taxes as a "self-employed" worker. These are the taxes that an employer pays to the IRS on behalf of its employees. (These tax payments don't show up on an employee's paycheck at all.) This is the money that Mr. or Ms. Wink-Wink is saving themselves by paying you on a 1099. (I'm not a tax specialist so if a tax specialist wants to chime in with the gory details and scare us all back into our respective homes, please do. :) )
+
+3 - If you don't pay estimated taxes quarterly (you know, the taxes you didn't realize that you owed), you could be subject to a penalty, in addition to all of the extra taxes that you owe.
+
+Edited to add: 
+
+I wanted to clarify.  I'm definitely not saying "don't do gig work."  Working as your own boss (i.e., a bona fide independent contractor) can have tons of benefits, including setting your own hours, refusing clients, deductions, etc.  
+
+However, there are some shady employers out there who are more than willing to hire someone to do a 40-hour-per-week job, with set hours, supervisory-level oversight, doing the primary business of the company, with no expenses to write off, no opportunity for profit/loss, etc. -- in other words, this person would absolutely be classified as an employee by the IRS -- on a 1099 basis because "you'll be making $20 per hour" sounds a lot better than the truth, which is "you'll be making $20 per hour minus all of the extra self-employment taxes (that many young workers have never heard of) you'll be paying."
+
+url:https://reddit.com/r/YouShouldKnow/comments/ge82ix/
+author:ExNihiloAdInfinitum
+subreddit:YouShouldKnow
+score:39043
+numComments:1118
+isOver18:False
+hasPostBody:True

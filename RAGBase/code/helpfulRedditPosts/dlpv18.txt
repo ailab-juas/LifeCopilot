@@ -1,0 +1,13 @@
+title:
+LPT: If you have aging parents, go through their bills with them and make sure they're paying fair market price for things like cable and energy. My parents were paying over $750 a month for electricity and over $400 for cable.
+
+content:
+The plans they had signed up for years ago had expired and their bill just kept going up and up. I was furious by the time I caught it. I can now sign on their accounts and I gave reminders set for when their different contracts expire. I got both bills down to a little less that $200.
+
+url:https://reddit.com/r/LifeProTips/comments/dlpv18/
+author:Boardathome
+subreddit:LifeProTips
+score:42353
+numComments:1548
+isOver18:False
+hasPostBody:True

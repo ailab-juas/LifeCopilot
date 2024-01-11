@@ -1,0 +1,13 @@
+title:
+LPT: If you're taking food to a holiday party buy a serving platter from the dollar store. They look nice, but you don't have to worry about getting it back.
+
+content:
+Your host also doesn't have to worry about washing it.
+
+url:https://reddit.com/r/LifeProTips/comments/5lapxr/
+author:ColorMeSepia
+subreddit:LifeProTips
+score:2028
+numComments:58
+isOver18:False
+hasPostBody:True

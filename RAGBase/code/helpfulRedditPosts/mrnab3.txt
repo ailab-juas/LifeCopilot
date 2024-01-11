@@ -1,0 +1,15 @@
+title:
+YSK: When calling someone about a minor car accident, always start the conversation with "I am okay" or "I am going to the hospital to get checked out for xyz" to prevent unnecessary distress.
+
+content:
+YSK:Hearing the words "there was an accident" is one of the most terrifying, heart-wrenching experiences you can have. Do your loved ones a favor and when you call them, open the conversation with "I am not hurt and I've been in a car accident" or a description of the injuries and severity so they don't assume the worst. 
+
+Why YSK: save your friends and family a gut wrenching emotional experience.
+
+url:https://reddit.com/r/YouShouldKnow/comments/mrnab3/
+author:elpato11
+subreddit:YouShouldKnow
+score:17090
+numComments:429
+isOver18:False
+hasPostBody:True

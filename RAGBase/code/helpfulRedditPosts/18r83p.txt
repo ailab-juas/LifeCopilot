@@ -1,0 +1,13 @@
+title:
+YSK that teaching/tutoring is the shortcut to mastery: Students always ask ques­tions for clar­i­fi­ca­tion that will undoubtedly reveal gaps in your own knowl­edge, which you will then fill very quickly.
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/18r83p/
+author:Antranik
+subreddit:YouShouldKnow
+score:1765
+numComments:99
+isOver18:False
+hasPostBody:False

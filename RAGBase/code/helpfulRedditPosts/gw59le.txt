@@ -1,0 +1,13 @@
+title:
+LPT: Don’t take any information you’re seeing on instagram, snapchat, reddit, cnn, fox news, etc, at face value, especially right now, so much is going on, people get things wrong, or spread misinformation purposefully, a quick google search can do wonders verifying the information you’re seeing
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/gw59le/
+author:NiTro_Erebus
+subreddit:LifeProTips
+score:11952
+numComments:459
+isOver18:False
+hasPostBody:False

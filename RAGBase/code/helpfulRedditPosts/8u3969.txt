@@ -1,0 +1,13 @@
+title:
+LPT: When comparing ice cream for quality, but the ingredient list looks the similar, compare the weight of a serving on the nutrition label. Denser is better. The gums and fillers used in lower quality ice cream are lighter than cream and eggs.
+
+content:
+If one says a serving is 1/4 cup (65g) and the other says a serving is 1/4 cup (73g), get the 73g one. They may both have some fillers, but the denser one will have less.
+
+url:https://reddit.com/r/LifeProTips/comments/8u3969/
+author:SquirrellyNuckFutter
+subreddit:LifeProTips
+score:37158
+numComments:1408
+isOver18:False
+hasPostBody:True

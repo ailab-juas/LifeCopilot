@@ -1,0 +1,13 @@
+title:
+LPT: Avoid taking your dog(or cat) for a walk when the day is at its hottest. The pavement can easily burn their pads. If it's too hot for you to keep your hand held on it for a few seconds, it's too hot for them.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/vqq5bv/
+author:s0ftreset
+subreddit:LifeProTips
+score:1002
+numComments:66
+isOver18:False
+hasPostBody:False

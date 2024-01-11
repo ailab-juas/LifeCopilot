@@ -1,0 +1,13 @@
+title:
+LPT: If you move to a new city, start running. It's a great way to explore the city and find hidden gems. Also, you won't get bored quickly because everything is new to you.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/r9wvq7/
+author:BowVeganWowWow
+subreddit:LifeProTips
+score:1197
+numComments:74
+isOver18:False
+hasPostBody:False

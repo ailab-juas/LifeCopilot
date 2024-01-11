@@ -1,0 +1,13 @@
+title:
+LPT: When you introduce a new person to an established group, make sure to use everyone's names more often than you normally would in conversation - no one learns everyone's names the first time they hear them and this will help the new person a lot
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/pt5vha/
+author:SneakyShuttle
+subreddit:LifeProTips
+score:7527
+numComments:68
+isOver18:False
+hasPostBody:False

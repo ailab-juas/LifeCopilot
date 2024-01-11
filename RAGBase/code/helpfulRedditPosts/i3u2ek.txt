@@ -1,0 +1,13 @@
+title:
+LPT: If you see an explosion that has a mushroom cloud, you are in immediate danger and there is a shockwave on its way.
+
+content:
+Immediately get away from windows as fast as you can, the shockwave is likely to break the glass and throw it your way.  Turn away, cover your ears, and open your mouth to avoid the most damage to your eardrums.  In light of the explosion today, more people should know this.
+
+url:https://reddit.com/r/LifeProTips/comments/i3u2ek/
+author:m4dch3mist
+subreddit:LifeProTips
+score:1814
+numComments:183
+isOver18:False
+hasPostBody:True

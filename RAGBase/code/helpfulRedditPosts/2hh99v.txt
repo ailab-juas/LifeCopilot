@@ -1,0 +1,13 @@
+title:
+LPT: Cops are almost never required to tell the truth.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/2hh99v/
+author:Spud05
+subreddit:LifeProTips
+score:1735
+numComments:689
+isOver18:False
+hasPostBody:False

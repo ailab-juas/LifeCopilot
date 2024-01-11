@@ -1,0 +1,13 @@
+title:
+LPT: Gentlemen, it’s three days till Valentines Day. Trim your nails now!
+
+content:
+Your partner will appreciate it. Freshly cut nails are very sharp and will be smooth after a few days.
+
+url:https://reddit.com/r/LifeProTips/comments/f2mu05/
+author:CactusJack5150
+subreddit:LifeProTips
+score:33084
+numComments:1847
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+LPT: If you're having trouble with a company, a level-headed online review with a low rating could get their attention.
+
+content:
+This approach is probably only effective with a reputable company, but it is still helpful for others if you leave honest reviews online. 
+
+Recently I was having trouble with a property management company over a minor amount of money.  After a few months they had not corrected the issue or responded to my later inquiries.  The day I left a one star review on Google however, they sent me an apologetic email explaining the issue in depth. 
+
+url:https://reddit.com/r/LifeProTips/comments/4xa5u8/
+author:LargeMonty
+subreddit:LifeProTips
+score:4929
+numComments:542
+isOver18:False
+hasPostBody:True

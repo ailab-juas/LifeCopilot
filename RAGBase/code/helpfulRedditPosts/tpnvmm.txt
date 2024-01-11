@@ -1,0 +1,81 @@
+title:
+LPT: Just a mega-list of useful PC keyboard shortcuts to help you save time
+
+content:
+**(For Mac users, control = command, alt = option, and backspace = delete)**
+
+&amp;#x200B;
+
+\- **CTRL + BACKSPACE** allows you to delete multiple letters at once
+
+\- **CTRL + SHIFT + T** opens the last tab you closed
+
+\- **CTRL + W** allows you to close the current tab you're on instead of having to click that tiny X
+
+\- **CTRL + T** allows you to open a new tab instead of having to click that tiny +
+
+\- **CTRL + C** copies the highlighted text
+
+\- **CTRL + V** pastes the copied text
+
+\- **CTRL + X** cuts the highlighted text (copies it, then deletes it)
+
+\- **CTRL + A** highlights all text
+
+\- **CTRL + Z** undo
+
+\- **CTRL + Y** redo
+
+\- **CTRL + B** toggles bold text
+
+\- **CTRL + I** toggles italic text
+
+\- **CTRL + U** toggles underline text
+
+\- **CTRL + P** prints the page
+
+\- **CTRL + S** saves the page
+
+\- **CTRL + R** reloads the page
+
+\- **CTRL + HOME** scrolls to the top of the page
+
+\- **CTRL + END** scrolls to the bottom of the page
+
+\- **ALT + TAB** allows you to switch windows
+
+\- **CTRL + TAB** allows you to switch tabs
+
+\- **CTRL + NUMBER 1-9** takes you to the *n*^(th) tab (*ex: ctrl + 4 will take you to tab 4 in your window*)
+
+\- **CTRL + F** lets you search for and find words on the page
+
+\- **WINDOWS + D** minimizes all of your windows
+
+\- **WINDOWS + V** lets you see your clipboard history (you have to have it turned on first)
+
+\- **WINDOWS + D** toggles hiding and showing your windows
+
+\- **WINDOWS + L** locks your computer
+
+\- **WINDOWS + PERIOD (.)** or **SEMICOLON (;)** opens the emoji panel
+
+\- **SHIFT + WINDOWS + S** lets you take a screenshot really easily
+
+\- **CTRL + LEFT/RIGHT ARROW** takes you to the next word instead of going over every individual letter
+
+\- **CTRL + UP/DOWN ARROW** takes you to the next line instead of going over every individual letter
+
+\- **ALT + LEFT ARROW** goes back
+
+\- **ALT + RIGHT ARROW** goes forward
+
+\- **Holding down S while right clicking** on an image automatically reverse image searches it
+
+url:https://reddit.com/r/LifeProTips/comments/tpnvmm/
+author:MaxCharacterLimi
+subreddit:LifeProTips
+score:8497
+numComments:361
+isOver18:False
+hasPostBody:True

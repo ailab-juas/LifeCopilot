@@ -1,0 +1,13 @@
+title:
+LPT: If you're experiencing persistent anxious, obsessive, destructive, and/or generally disruptive thoughts, get off Reddit and seek professional help.
+
+content:
+I see a lot of posts here offering psychological advice.  As kind hearted as this may be, taking unverified reddit advice for mental health issues can be a waste of time, and potentially dangerous at worst.  Seek real help for real problems.
+
+url:https://reddit.com/r/LifeProTips/comments/js8et5/
+author:clownmilk
+subreddit:LifeProTips
+score:1823
+numComments:110
+isOver18:False
+hasPostBody:True

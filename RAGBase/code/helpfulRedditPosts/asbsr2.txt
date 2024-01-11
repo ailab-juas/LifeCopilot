@@ -1,0 +1,13 @@
+title:
+YSK: If you have ever made a purchase from Home Depot online, even if you checked out as a guest, they have your CC tied to your email address
+
+content:
+I have always checked out as a guest when making online purchases with them, don't even have an account on their site, and have never provided my email in store but I just received an email asking to review a product I purchased in a store.
+
+url:https://reddit.com/r/YouShouldKnow/comments/asbsr2/
+author:zipped6
+subreddit:YouShouldKnow
+score:3324
+numComments:81
+isOver18:False
+hasPostBody:True

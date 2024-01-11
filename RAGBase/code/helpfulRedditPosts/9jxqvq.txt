@@ -1,0 +1,13 @@
+title:
+LPT: If you don't want to do something, make a deal with yourself to do at least five minutes of it. After five minutes, you'll probably end up doing the whole thing.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/9jxqvq/
+author:daveolrb
+subreddit:LifeProTips
+score:2147
+numComments:101
+isOver18:False
+hasPostBody:False

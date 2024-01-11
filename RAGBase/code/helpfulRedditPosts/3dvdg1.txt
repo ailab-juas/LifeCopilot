@@ -1,0 +1,13 @@
+title:
+YSK that NASA has a list of accurate space technology terms that writers can use in Science Fiction stories.
+
+content:
+[Source](http://er.jsc.nasa.gov/seh/SFTerms.html)
+
+url:https://reddit.com/r/YouShouldKnow/comments/3dvdg1/
+author:mokasra
+subreddit:YouShouldKnow
+score:2320
+numComments:73
+isOver18:False
+hasPostBody:True

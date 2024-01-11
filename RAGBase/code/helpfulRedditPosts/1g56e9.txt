@@ -1,0 +1,13 @@
+title:
+LPT: If you make a sex tape on your phone, cover the lens for the first five seconds. That way if you show friends or family anything from your gallery it will just show as black.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1g56e9/
+author:cilwiy
+subreddit:LifeProTips
+score:2889
+numComments:714
+isOver18:True
+hasPostBody:False

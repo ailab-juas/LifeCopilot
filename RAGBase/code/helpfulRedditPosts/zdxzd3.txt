@@ -1,0 +1,47 @@
+title:
+ysk about the fda's predictions regarding worsening adderall shortages that will continue to disrupt medication management well into 2023
+
+content:
+when the thing that rhymes with nobid 19, the u.s. made some unsustainable changes to the public healthcare system and the expectations of its workforce. as a direct result, we're now:
+
+\- experiencing broken supply chains (ex. railroad union walkouts)- fulfilling now-irrelevant medical expectations (ex. over-writing controlled prescriptions)  
+\- unable to meet new engagement expectations (adhd interventions up 20% since 2019)  
+\- tapped out of local resources (80% of adhd-impacted individuals felt they lost rx access in fda poll)  
+\- [don't even get me started on this.](https://www.fiercehealthcare.com/health-tech/amid-cerebral-investigation-doj-regulators-will-ramp-scrutiny-telehealth-companies)
+
+if you are prescribed dextro/amphetamines/amphetamine salts, you are probably aware that there is a nation-wide drug shortage that is affecting individuals' access to adderall/its generics. pharmacies are having a very hard time locating, ordering and maintaining inventory of these drugs. "big" pharmacies like walgreens and cvs have identified this problem specifically, because they are locked into prescription cost arrangements with goodrx, etc. whereas "smaller" pharmacies are able to continue ordering these medications independently and manipulate prescription costs.
+
+pharmacists are also playing with their cards close to the vest by not suggesting alternatives to prescriptions that can't be filled as they were written. it's really important to know how to advocate for your mental health maintenance and a path of lesser harm. that being said, here are some hard and fast rules that i feel that *why ysk:* a fairer fight if **can't fill adderall ir as written, then...**
+
+**change the ifu on your rx**  
+10mg ir and 30mg ir are in the highest demand, so if you have an ifu that says "one 30mg tablet in morning as needed" and the pharmacy doesn't have 30mg, it won't be filled. but if you change the ifu to say "two 15mg tablets in the morning as needed," you might get that filled.
+
+**change the efficacy from ir to xr**  
+if you are going to have to start making changes in order to fill the need, mind the steps in choosing your equivalency. 30mg adderall xr and 30mg adderall ir are, theoretically, the same. the fda's newest drug report identifies adderall xr as being far less problematic to fill.
+
+**challenge your insurance coverage**  
+if your insurance is denying your prescription, ask your doctor or pharmacist to fill out a prior-authorization request. this form lets your insurance know that the specifics of your prescription are intentional and considered to be the most appropriate option for your treatment. appeal your eligibility for coverage for on-brand adderall or equivalence with vyvanse, etc.
+
+**communicate your needs**  
+especially when healthcare is concerned, here is no harm in asking. if you are in limbo waiting for authorization or for your doctor to be available to manage your meds after a weekend, ask your pharmacist for an emergency prescription. this is a 3 day supply and sometimes that is just enough time to line up your plan b for reliable access to adhd meds.
+
+**contact third parties**  
+research options for cost-reduction programs or contact drug manufacturers directly and ask for free samples. also contact your insurance directly and ask if they have a list of formulations that might take some of the guesswork out of re-working your prescription or work for 90-day fills.
+
+**community coordination**  
+explore what types of social services and programs are in your local area. look into being represented by a peer specialist, work with ombudsman or find advocacy roundtables through the public library/community center. a good place to look is your town's doh website, too,
+
+fda reports that march 2023 is when this supply chain will stabilize.
+
+[link 1: fda announcement](https://www.fda.gov/drugs/drug-safety-and-availability/fda-announces-shortage-adderall)  
+[link 2: add-itude ezine article](https://www.additudemag.com/adderall-shortage-2022-adhd-medications-stimulants/)  
+[link 3: adhd rx alternatives](https://www.nicerx.com/blog/alternatives-to-vyvanse/)  
+[link 4: washington post](https://www.washingtonpost.com/wellness/2022/10/21/adderall-shortage-adhd-alternatives/)
+
+url:https://reddit.com/r/YouShouldKnow/comments/zdxzd3/
+author:myaskredditalt21
+subreddit:YouShouldKnow
+score:4504
+numComments:448
+isOver18:False
+hasPostBody:True

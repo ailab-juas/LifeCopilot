@@ -1,0 +1,13 @@
+title:
+LPT: Don’t delete the contact of anyone you don’t want to talk to any more. You’re going to want to know it’s them that is calling.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/kkji9r/
+author:fusionblast
+subreddit:LifeProTips
+score:1194
+numComments:86
+isOver18:False
+hasPostBody:False

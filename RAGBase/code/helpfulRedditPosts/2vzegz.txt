@@ -1,0 +1,27 @@
+title:
+LPT: Mentally Trick yourself into Productivity
+
+content:
+There are going to be times in which you really have to get a paper, project, or assignment done and you're really not feeling up for it.  Maybe your brain has become distraction city, or everything on the internet is all of a sudden interesting.
+
+In these moments, to get that extra "push" of work done, everytime you feel the need or want to go do something, tell yourself, "I can't 'x' until I do 'one more page.'"
+
+**Example:** 
+**Problem:** I really have to pee.
+**Solution:** I cannot pee until I finish two more paragraphs.
+
+**Example:**
+**Problem:** I really want to get up and get a snack.
+**Solution:** I can't get up to get a snack until I finished this problem.
+
+The mental "trick" creates a reward out of nothing and helps curb procrastination.
+
+**edit:** Formatting.
+
+url:https://reddit.com/r/LifeProTips/comments/2vzegz/
+author:mprivitt
+subreddit:LifeProTips
+score:2933
+numComments:544
+isOver18:False
+hasPostBody:True

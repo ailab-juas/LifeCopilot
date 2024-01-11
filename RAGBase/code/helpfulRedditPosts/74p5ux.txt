@@ -1,0 +1,13 @@
+title:
+Lpt: To all young teenagers looking for their first job, do not have your parents speak or apply for you. There's a certain respect seeing a kid get a job for themselves.
+
+content:
+We want to know that YOU want the job, not just your parents.
+
+url:https://reddit.com/r/LifeProTips/comments/74p5ux/
+author:icecreamdude97
+subreddit:LifeProTips
+score:71207
+numComments:4092
+isOver18:False
+hasPostBody:True

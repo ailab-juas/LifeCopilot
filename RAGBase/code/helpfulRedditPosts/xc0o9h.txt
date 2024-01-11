@@ -1,0 +1,13 @@
+title:
+LPT: If you lose your android phone you can go to android.com/find and it will show the location of your phone and also can make it can make the phone make sound even if the phone is on silent.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/xc0o9h/
+author:mccreazy
+subreddit:LifeProTips
+score:1661
+numComments:126
+isOver18:False
+hasPostBody:False

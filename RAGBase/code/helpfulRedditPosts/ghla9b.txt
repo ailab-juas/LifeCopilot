@@ -1,0 +1,25 @@
+title:
+YSK it’s important to check if any of your email addresses and password combos have been leaked.
+
+content:
+Use [Have I Been Pwned](https://haveibeenpwned.com)
+
+I had my Zynga Games account user and password leaked. These details are sold in masses of personal data on the black market/dark web. Some hackers will try their luck using your details on various sites to gain access.
+
+My Netflix and Fitbit both used the same user and password as my Zynga account. Hackers gained entry.
+
+Once in, they may be able to lock you out by changing email addresses and passwords if the accounts aren’t very secure. Even more worrying if they’re able to access bank account details on these sites.
+
+Check you have [strong passwords](https://howsecureismypassword.net)
+
+Have a different password for every account.
+
+EDIT: for the skeptics among us; HaveIBeenPwned seems to be a trustworthy source owned by the Password1 team according to some users; The password checker is a tool not a search function. Have a play with it using random words/letters. It’s more to help you understand what makes a strong password.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ghla9b/
+author:shadow_donkey1
+subreddit:YouShouldKnow
+score:12320
+numComments:564
+isOver18:False
+hasPostBody:True

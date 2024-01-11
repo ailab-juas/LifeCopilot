@@ -1,0 +1,17 @@
+title:
+YSK antibiotics are not a cure-all and that the misuse of antibiotics promotes antibiotic resistance.
+
+content:
+Consequences of medication-resistant infections include longer recovery and steeper healthcare costs. In the long term, easily treatable diseases such as pneumonia or tuberculosis could become incurable. 
+
+Colds, the common flu, bronchitis and most coughs (caused by viruses) **cannot** be treated by antibiotic consumption.
+
+On the other hand, if you have a bacterial illness diagnosed by your doc such as strep throat or a UTI, it is important to finish your antibiotics as the full treatment is required to kill the disease-causing bacteria. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/8j8bhp/
+author:Hwabunny
+subreddit:YouShouldKnow
+score:8023
+numComments:319
+isOver18:False
+hasPostBody:True

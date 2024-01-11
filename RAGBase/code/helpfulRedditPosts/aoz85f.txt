@@ -1,0 +1,13 @@
+title:
+LPT: When buying a duvet for your bed, buy one size larger (or more) than your current bed size. The extra duvet will provide greater comfort especially when sharing.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/aoz85f/
+author:wondercakes
+subreddit:LifeProTips
+score:30593
+numComments:1020
+isOver18:False
+hasPostBody:False

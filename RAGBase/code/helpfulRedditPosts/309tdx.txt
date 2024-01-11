@@ -1,0 +1,32 @@
+title:
+LPT: Just caught 2 of my relatives paying $15 a month to AOL, yours could be to.
+
+content:
+The benefits of the $15 a month AOL package.
+
+The benefits are Free Dialup, Antivirus, and other small random things.
+
+My grandma pays our ISP good money, then turns around and pays AOL $15 a month for dialup.  Been doing that this since 1997, estimated $3,000 she has wasted on AOL.
+
+That's like two Chipotle burritos a month.  One if you get the double meat and guac.
+
+**
+
+edit:
+
+So we got it cancelled for her.  After my other relative saw this thread, they realized that if "The Front Page of the Internet" forgot AOL even exists, it must not be all so good.
+
+Of course she was using [THIS BROWSER](http://screenshots.en.sftcdn.net/en/scrn/305000/305481/aol-41.jpg) , essentially the worst bulkiest thing ever.  But hey, a British guy says "Hello" and "You have mail".  For $15 a month I told her I would call her and fake an accent occasionally.  Just kidding.
+
+So got her fresh Chrome install, and on first boot it had toolbars and home pages galore.  Spent about 20 minutes uninstalling Toolbars from the people like V-9, Ask, smiley central.
+
+
+Guess what?  Her email still works.
+
+url:https://reddit.com/r/LifeProTips/comments/309tdx/
+author:qwerty12qwerty
+subreddit:LifeProTips
+score:1355
+numComments:225
+isOver18:False
+hasPostBody:True

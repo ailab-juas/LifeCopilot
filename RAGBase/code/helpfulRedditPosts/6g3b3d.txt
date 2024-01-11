@@ -1,0 +1,13 @@
+title:
+LPT: For people pleasers it can be very hard to say "no" and it is easy to get taken advantage of. Practice by saying no to small things that don't matter much. It will make it easier to say when it really counts.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/6g3b3d/
+author:flanco165
+subreddit:LifeProTips
+score:13663
+numComments:734
+isOver18:False
+hasPostBody:False

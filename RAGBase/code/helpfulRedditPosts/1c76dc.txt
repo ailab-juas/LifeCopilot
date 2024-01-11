@@ -1,0 +1,13 @@
+title:
+YSK That Reddit only picks 50 subreddits at random to create your front page. Make sure to purge inactive/crap subreddits!
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/1c76dc/
+author:[deleted]
+subreddit:YouShouldKnow
+score:1769
+numComments:269
+isOver18:False
+hasPostBody:False

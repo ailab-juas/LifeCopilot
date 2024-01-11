@@ -1,0 +1,14 @@
+title:
+YSK Wikipedia's book creator can create a book containing wiki pages of your choice. You can export the book in different formats and/or order a printed copy.
+
+content:
+https://en.wikipedia.org/w/index.php?title=Special:Book&amp;bookcmd=book_creator  
+Edit: Noticed there's some comments saying this thing is kinda broken. Hey! Wikipeople! Could you try to tighten this shit up? It's a great feature that has been non-promoted and neglected. Printed books on demand could be huge for the Wikimedia Foundation.
+
+url:https://reddit.com/r/YouShouldKnow/comments/41vfrh/
+author:dtallee
+subreddit:YouShouldKnow
+score:1929
+numComments:71
+isOver18:False
+hasPostBody:True

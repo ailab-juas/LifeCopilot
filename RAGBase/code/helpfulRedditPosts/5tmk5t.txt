@@ -1,0 +1,15 @@
+title:
+LPT: If you use your laptop for work, create a separate user for presentations. This will prevent embarrassing pop-ups or web history.
+
+content:
+I've seen people open their browser and it shows their porn history in the first tab and another guy had his text messages display on his screen. A buddy was texting asking if he wanted "to get fucked up" after the meeting.
+
+This can be avoided by creating a user that you only use for presentations and only grant access to office related programs.
+
+url:https://reddit.com/r/LifeProTips/comments/5tmk5t/
+author:SchwarzerKaffee
+subreddit:LifeProTips
+score:35673
+numComments:1285
+isOver18:False
+hasPostBody:True

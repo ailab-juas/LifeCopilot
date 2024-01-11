@@ -1,0 +1,31 @@
+title:
+LPT: Tidy your place efficiently and quickly with the "Box and Bin" tidying method.
+
+content:
+Everyone hates tidying up. It's a dull task, and the quicker you can get it done the better. If you perform a time use analysis of tidying your place up, you'll find you waste insane amounts of time not tidying, but walking, carrying things that "don't belong" back to where they do. Then getting distracted and not doing what you're supposed to do. 
+
+To combat this inefficiency I've devised a tidying method I call "box and bin". It allows me to tidy a 2 storey 10 room house in under half an hour, ready for cleaning.
+
+**Put simply:**
+
+* Start at one "end" of the house.
+
+* Carry a box - any old box, like a plastic container you get in hardware stores - and a bin (which can just be a plastic bag) with you.
+
+* In your first room: Anything that is rubbish goes in the bin. Anything in that room that's out of place goes back in place. Anything that does not belong in that room goes in the Box.
+
+* Move to the next room: Anything in the box that belongs in that room goes in it's place. Anything that belongs in another room goes in the box.
+
+* At the end of this process you will have a box full of crap. Return through the house placing anything from later rooms into earlier rooms where they belong. Finally, decide if the stuff that's left goes into the bin, or if it deserves a place somewhere.
+
+Congratulations, you now have a tidy house in much less time.
+
+**TL;DR** Use a box whilst tidying to dump things that don't belong. Then redistribute them from the box as you move methodically from room to room. Any leftovers either need a place in the house, or to be thrown out.
+
+url:https://reddit.com/r/LifeProTips/comments/1rbmfd/
+author:AyCarrumba
+subreddit:LifeProTips
+score:3321
+numComments:314
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Take a picture of your ticket whenever you use coat check in case you lose the physical copy
+
+content:
+This way, you don't have to stress over losing your ticket! 
+
+url:https://reddit.com/r/LifeProTips/comments/2q9p0m/
+author:mskillaz
+subreddit:LifeProTips
+score:2680
+numComments:281
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,14 @@
+title:
+YSK how to get the price of your auto insurance down! One month before you go shopping for insurance, do this and the quotes you get will be MUCH lower.
+
+content:
+This works if you are currently carrying your State's minimum BI/PD (bodily injury/property damage) limits of liability. Insurance companies give cheaper rates to new business when the customer previously had higher than their state's minimum liability requirements. Underwriting models show that people with more than the minimum are less of a risk, ergo, they get cheaper insurance. All you have to do is call up your current insurance company a month before you're ready to switch, and tell them you want to raise your current limits to something like 100/300 for BI, and 50 for PD. After about a month, your current insurance company will have reported your new limits, so when you call a new company for a quote, they can now see this, and your quotes will be lower. You don't have to keep the new higher limits when you switch either, you can lower them back down and you'll still get the cheaper discounted rates! Hope this helps!
+Source: Insurance agent
+
+url:https://reddit.com/r/YouShouldKnow/comments/3rcz93/
+author:jonnyavocados
+subreddit:YouShouldKnow
+score:1389
+numComments:204
+isOver18:False
+hasPostBody:True

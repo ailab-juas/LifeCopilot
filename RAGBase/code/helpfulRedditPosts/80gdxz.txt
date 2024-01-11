@@ -1,0 +1,19 @@
+title:
+YSK Do not try to cheat anti-plagiarizing services with quotation marks.
+
+content:
+It absolutely will not work, the services people use these days are much more sophisticated than that. Please do not blindly trust LPTs people post on reddit.
+
+TurnItIn, for instance, will also look up parts of your text that you have quoted, and make sure that your quotations are done properly, reporting these numbers separately.
+
+If you somehow manage to scramble your text so it becomes unreadable for these tools (by messing with fonts, invisible symbols etc.) red flags will be raised both from a suspicious word count, as well as due to implausibly low literal match (usually scientific works should have a match around 10%).
+
+TLDR: just do your fucking homework and don't trust people on the internet.
+
+url:https://reddit.com/r/YouShouldKnow/comments/80gdxz/
+author:mentalfist
+subreddit:YouShouldKnow
+score:14084
+numComments:539
+isOver18:False
+hasPostBody:True

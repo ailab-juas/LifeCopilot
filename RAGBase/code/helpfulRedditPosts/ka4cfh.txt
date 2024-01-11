@@ -1,0 +1,13 @@
+title:
+YSK: If you attempt to cancel your Amazon Prime free trial, you'll be offerred an extra 30 days for free.
+
+content:
+Why YSK: This means you can save a months money if you're just starting out amazon prime and get all the benefits for free for an extra month.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ka4cfh/
+author:BritishFaller
+subreddit:YouShouldKnow
+score:18389
+numComments:265
+isOver18:False
+hasPostBody:True

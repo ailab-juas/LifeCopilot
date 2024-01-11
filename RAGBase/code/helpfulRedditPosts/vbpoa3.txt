@@ -1,0 +1,27 @@
+title:
+YSK: the ABCDEs of melanoma
+
+content:
+Why YSK: [catching skin cancer early can save your life.](https://www.skincancer.org/skin-cancer-information/melanoma/melanoma-warning-signs-and-images/) I had a skin cancer scare this week and I’m in my 20s. Here‘s how to spot the signs of melanoma:
+
+**A: Asymmetry** \- one half of a mole does not match the other
+
+**B: Border** \- the edges are irregular, ragged, notched, or blurred. Normal moles are round or oval
+
+**C: Color** \- the mole has a variety of colors. It may include different shades of brown or black, or even patches of pink, red, white, or blue
+
+**D: Diameter/Different** \- the spot is larger than 5 mm (the size of a pencil eraser) or is the ugly duckling compared to your other moles
+
+**E: Evolving** \- the mole is changing in size, shape, or color
+
+Check your skin and protect your skin even if you’re a POC and/or young! My dermatologist removed and biopsied my mole because it fit these ABCDEs, and it was an atypical mole (which is considered to be precancerous). I want to spread awareness because when caught early, melanoma is very treatable.
+
+Edit: there’s some really good info in the comments, thank you to everyone who added on to this!
+
+url:https://reddit.com/r/YouShouldKnow/comments/vbpoa3/
+author:rose0124
+subreddit:YouShouldKnow
+score:6002
+numComments:207
+isOver18:False
+hasPostBody:True

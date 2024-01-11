@@ -1,0 +1,15 @@
+title:
+LPT: you can use @gmail.com and @googlemail.com interchangeably. Perfect for signing up to a website twice without setting up two accounts.
+
+content:
+Both email addresses resolve to the same account.
+
+Edit: wooooo front page 
+
+url:https://reddit.com/r/LifeProTips/comments/3vi40t/
+author:motomantic
+subreddit:LifeProTips
+score:7619
+numComments:637
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Heat is the number one killer of all home electronics and dramatically shortens their lifespans. If you want your televisions, computers, routers, stereos, smart home gear, etc... to last years and years, make sure they're always at room temperature and have plenty of air flow around them.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/oit7rs/
+author:HomelandersHairgel
+subreddit:LifeProTips
+score:10795
+numComments:299
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,21 @@
+title:
+YSK: Netflix caps video quality at 720p for Chrome and Firefox users, even if you're paying for HD
+
+content:
+Netflix supports 1080p playback on Safari and Microsoft Edge, but discreetly caps every other browser at 720p. You can test this yourself with [Netflix's test pattern](https://www.netflix.com/title/80018499).
+
+There aren't any options to change this, even if you're paying for 1080p. Fortunately, there is a Chrome/Firefox extension which bypasses it. I won't link it, because I don't want people to think this is a spam post, but you can just google "Netflix 1080p extension" and find it pretty easily.
+
+EDIT: Oddly, one of the top google results is a Reddit post saying the extension is blocked now. But I just ran the test pattern with and without the extension, and it works fine.
+
+EDIT 2: After reading the comments, I realized I should have provided some actual evidence. Playing Netflix in Chrome [with modification](https://i.imgur.com/LuXO70i.png) (and ginormous subtitles). Playing Netflix in Chrome [without modification](https://i.imgur.com/p7H0Huh.png).
+
+EDIT 3: It is apparently because Edge supports Netflix DRM, and Firefox and Chrome don't. Some people in the comments also reported that the fix only worked with Netflix Originals. I got a few non-Netflix shows to work at 1080p, like Frozen Planet, but most were still throttled. So it doesn't seem like there is a good fix like I thought there was.
+
+url:https://reddit.com/r/YouShouldKnow/comments/bf8rkd/
+author:Darmok-on-the-Ocean
+subreddit:YouShouldKnow
+score:5307
+numComments:267
+isOver18:False
+hasPostBody:True

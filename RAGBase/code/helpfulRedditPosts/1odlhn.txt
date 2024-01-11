@@ -1,0 +1,13 @@
+title:
+LPT: If you need to scrape food off of a cutting board, use the back edge of the knife. It will help prevent the blade from dulling
+
+content:
+Scraping a sharp knife across the surface of a cutting board will dull a blade very quickly. You can use the back side of a knife to scrape food the food and help prevent the blade from dulling.
+
+url:https://reddit.com/r/LifeProTips/comments/1odlhn/
+author:njvd
+subreddit:LifeProTips
+score:1668
+numComments:226
+isOver18:False
+hasPostBody:True

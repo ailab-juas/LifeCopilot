@@ -1,0 +1,13 @@
+title:
+LPT: Lower you electric bill by doing high-electric activities (laundry for example) during your electric company non-peak hours when electric is less expensive.
+
+content:
+Electric companies charge more during busy hours of the day. Find out what your electric company's peak hours are (you can google it) and avoid doing things that use a lot of electricity during those hours, and alternatively, do the activities during non-peak hours. 
+
+url:https://reddit.com/r/LifeProTips/comments/5a6c76/
+author:buttastronaut
+subreddit:LifeProTips
+score:3824
+numComments:490
+isOver18:False
+hasPostBody:True

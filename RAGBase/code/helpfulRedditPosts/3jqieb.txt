@@ -1,0 +1,18 @@
+title:
+YSK the most common mistakes to avoid when writing a résumé.
+
+content:
+
+Hiring managers hate resumes that are too self-centered - however, that doesn't mean "be modest". In fact, it's just the opposite. You still want to make yourself look like to best candidate for the position, and in order to do that, it's better to focus on the needs of the business rather than yourself.
+
+When writing a resume, think of it less along the lines of, "this is what I'm looking for", and more "this is what I can do for you".
+
+You'll be surprised at how simple changes in sentence structure, and focusing on action verbs instead of pronouns like "me", "he", "we", can completely change the tone of the resume. You'll be surprised how well this works. ([source](http://WWW.vmsolu.com/resume-mistakes-that-hiring-managers-hate), plus some other tips I didn't include). 
+
+url:https://reddit.com/r/YouShouldKnow/comments/3jqieb/
+author:beebop
+subreddit:YouShouldKnow
+score:2326
+numComments:260
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: if you want to buy something, give yourself about a week before you buy it to decide if it’s really worth your time and money
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/fc3kk0/
+author:awesomepopcorndude27
+subreddit:LifeProTips
+score:3226
+numComments:205
+isOver18:False
+hasPostBody:False

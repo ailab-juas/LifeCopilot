@@ -1,0 +1,13 @@
+title:
+LPT: Answer "scam likely" calls and immediately mute yourself. The automated system will listen for a few seconds and once they don't hear you speak, it assumes the number is unused and you'll stop receiving calls. It takes about a week of answering to get them to stop entirely.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ts9t3u/
+author:abuko1234
+subreddit:LifeProTips
+score:2076
+numComments:225
+isOver18:False
+hasPostBody:False

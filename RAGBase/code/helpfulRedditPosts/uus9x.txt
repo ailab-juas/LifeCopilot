@@ -1,0 +1,13 @@
+title:
+How to survive a riptide. Yesterday a friend drowned because A) he didn't heed the warnings, and B) he didn't have the information that could have saved him.  Had he known how to escape, he probably would have survived. Don't let this happen to you or a loved one. 
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/uus9x/
+author:kalypsodore
+subreddit:YouShouldKnow
+score:1332
+numComments:140
+isOver18:False
+hasPostBody:False

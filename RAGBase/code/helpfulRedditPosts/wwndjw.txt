@@ -1,0 +1,13 @@
+title:
+YSK you can call the IRS and ask for help with taxes etc. They are actually super friendly and helpful.
+
+content:
+Why YSK: I have had many friends use financial services and financial advisors for simple tax questions. You can simply call the IRS and they are super helpful. They will even help you file taxes. [https://www.irs.gov/help/telephone-assistance](https://www.irs.gov/help/telephone-assistance)
+
+url:https://reddit.com/r/YouShouldKnow/comments/wwndjw/
+author:johnaldmilligan
+subreddit:YouShouldKnow
+score:2812
+numComments:190
+isOver18:False
+hasPostBody:True

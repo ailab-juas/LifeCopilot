@@ -1,0 +1,13 @@
+title:
+YSK there's a browser addon that replaces animated gifs hosted on imgur with gfycat-optimized HTML5 videos that load much much faster
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/21bfvo/
+author:ScruffyTJanitor
+subreddit:YouShouldKnow
+score:1308
+numComments:112
+isOver18:False
+hasPostBody:False

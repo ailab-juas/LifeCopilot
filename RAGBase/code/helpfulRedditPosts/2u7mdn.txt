@@ -1,0 +1,13 @@
+title:
+LPT: Do not watch the Superbowl.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/2u7mdn/
+author:jyouknit
+subreddit:LifeProTips
+score:1183
+numComments:615
+isOver18:False
+hasPostBody:False

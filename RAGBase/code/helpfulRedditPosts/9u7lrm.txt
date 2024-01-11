@@ -1,0 +1,25 @@
+title:
+YSK: If someone is threatening suicide the police can locate them by pinging their mobile phone.
+
+content:
+Tl;dr: If someone is threatening their life, call the police, if they have a mobile phone and the threat is immanent they can be tracked.
+
+This may be common knowledge, but I wasn’t sure last night and just in case anyone else isn’t sure I want let as many people know as possible.
+
+Last night a family member of mine told me she got sleeping pills and a bottle of cold medicine and checked herself into a “sleezy motel” and said she just wanted to be with our loved one who recently passed away. 
+
+She didn’t tell me where she was or even what town the motel was in, she only told me that she left work to go check into a motel. We live about an 18 hours drive from each other, so not knowing what to do I reached out to the police of the town in which she works. I told them about our phone conversation and the text message in which she said she was going to end her life and that was enough for them to get the approval they needed to start pinging her cell phone. Thankfully they successfully tracked her and she was found alive in a motel several towns away from where I thought she might be. Unfortunately, she had already made an attempt on her life but thanks to technology and fast police work she was able to be saved.  
+
+She was found within an hour of me calling the police. Considering I gave them nothing to go on but “so and so is going to end her life tonight somewhere in ‘state’”, I think that’s pretty incredible, and they saved my loved one’s life.
+
+Edit: Someone pointed out something I failed to mention something that I agree is very important. I had to provide the police with her cell phone number so they could ping it to find her.
+
+Edit 2: I am in the US
+
+url:https://reddit.com/r/YouShouldKnow/comments/9u7lrm/
+author:JDizzleNunyaBizzle
+subreddit:YouShouldKnow
+score:5826
+numComments:471
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,43 @@
+title:
+YSK that since October last year, the Windows 7 Disk Cleanup can clear up 2-12 GB of old updates.
+
+content:
+Windows service packs were the ones that normally cleared up old updates, but since Microsoft won't be releasing any service packs beyond SP1, they decided to backport this feature from Windows 8 instead.
+
+Quick how-to: [lifehacker.com](http://lifehacker.com/recover-tons-of-wasted-disk-space-with-the-new-windows-1442937625)
+
+More detailed how-to: [technet.com](http://blogs.technet.com/b/askpfeplat/archive/2013/10/07/breaking-news-reduce-the-size-of-the-winsxs-directory-and-free-up-disk-space-with-a-new-update-for-windows-7-sp1-clients.aspx) *[slightly broken page now]*
+
+The amount of space it can free up depends on how old your Windows installation is: the older, the 'better'.
+
+Remember that the space will be actually freed only after a reboot.
+
+**EDIT:** Executive summary:
+
+* Click the Start button and type "`cleanmgr`" in the search box
+
+* right-click "cleanmgr.exe" and select Run As Administrator (even if you're using an Admin account)
+
+* choose your system drive (C:, most probably)
+
+* make sure the *"Windows Update Cleanup"* checkbox is ticked (probably is)
+
+* click OK and wait for it to finish
+
+* reboot and watch Windows do the "Cleaning up" ellipsis dance.
+
+
+**PS** If you can't find *Windows Update Cleanup* in the list, you didn't Run As Administrator (you can click the Clean Up System Files button to switch to Administrator mode at this point). If it's still not there, try installing the update that brings it in from [Microsoft's page](http://support.microsoft.com/kb/2852386/en-us).
+
+
+
+
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/1y8e1m/
+author:GrouchyMcSurly
+subreddit:YouShouldKnow
+score:1461
+numComments:217
+isOver18:False
+hasPostBody:True

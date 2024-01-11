@@ -1,0 +1,13 @@
+title:
+LPT: Most household appliances are easy to repair yourself with the help of YT videos. You'll save hundreds of dollars and don't have to allow a stranger into your home.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ue09jj/
+author:Spkr_Freekr
+subreddit:LifeProTips
+score:1207
+numComments:131
+isOver18:False
+hasPostBody:False

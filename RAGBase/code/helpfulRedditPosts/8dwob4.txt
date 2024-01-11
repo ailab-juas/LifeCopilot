@@ -1,0 +1,13 @@
+title:
+YSK at Universities in the United States one "credit hour" = one hour of lecture AND two hours of independent work per week (or three hours of lab work)
+
+content:
+This makes a 15 credit hour semester a 45 hour time commitment per week. I was told "student" was a full time job by a professor in my first year, but I was never told that this was a standard definition that courses are designed around. Students who meet this standard every week tend to do very well. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/8dwob4/
+author:kmicicc
+subreddit:YouShouldKnow
+score:3808
+numComments:178
+isOver18:False
+hasPostBody:True

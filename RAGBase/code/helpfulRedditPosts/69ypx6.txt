@@ -1,0 +1,13 @@
+title:
+LPT: When cooking frozen toaster strudels set your toaster to the lowest heat setting and toast them twice. This ensures a warm center and doesn't burn the exterior.
+
+content:
+Edit: Yes the toaster only has timer settings. Sorry for the mix-up but hopefully people knew what I meant.
+
+url:https://reddit.com/r/LifeProTips/comments/69ypx6/
+author:spidermannerd
+subreddit:LifeProTips
+score:13444
+numComments:811
+isOver18:False
+hasPostBody:True

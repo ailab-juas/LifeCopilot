@@ -1,0 +1,15 @@
+title:
+YSK: A gun can still fire after you take out the magazine because, there can still be a shot in the chamber. This applies to real guns as well as airsoft/pellet guns.
+
+content:
+Why YSK: This can be life-or death. A friend nearly shot my eye out with an airsoft pistol at point blank because he thought it wouldn't fire after he took out the magazine. If he would have made that mistake with a real gun, I'd be dead.
+
+A gun is always loaded.
+
+url:https://reddit.com/r/YouShouldKnow/comments/mybga2/
+author:thomthehipposlayer
+subreddit:YouShouldKnow
+score:12827
+numComments:816
+isOver18:False
+hasPostBody:True

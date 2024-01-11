@@ -1,0 +1,13 @@
+title:
+YSK that whenever you have a job interview you should always thank the employer for the interview after it's over, regardless of how it went.
+
+content:
+Why YSK: I once had a job interview and I thought it didn't go well, but I emailed the employer after anyways just to thank them for the opportunity. When they got back to me they said that I got the job, partly because I was the only one to thank them for the interview. You should always do this even if you think it's pointless.
+
+url:https://reddit.com/r/YouShouldKnow/comments/jqq2d7/
+author:MrXx_xXXx_xX
+subreddit:YouShouldKnow
+score:38573
+numComments:1280
+isOver18:False
+hasPostBody:True

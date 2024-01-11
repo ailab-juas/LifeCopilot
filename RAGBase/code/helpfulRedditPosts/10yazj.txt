@@ -1,0 +1,13 @@
+title:
+LPT: Put a lamp on a digital timer to help you wake up
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/10yazj/
+author:styleevivant
+subreddit:LifeProTips
+score:1801
+numComments:235
+isOver18:False
+hasPostBody:False

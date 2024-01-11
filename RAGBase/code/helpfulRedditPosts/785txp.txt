@@ -1,0 +1,13 @@
+title:
+LPT: When a teacher asks you not to use Wikipedia as a source, go to the Wikipedia page you want, and scroll down to the sources they cite. Often times those will be better sources than Wikipedia itself.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/785txp/
+author:Grayskis
+subreddit:LifeProTips
+score:3604
+numComments:174
+isOver18:False
+hasPostBody:False

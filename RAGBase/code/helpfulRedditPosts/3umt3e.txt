@@ -1,0 +1,17 @@
+title:
+LPT: Google docs has a very accurate free OCR (image to text) function built in
+
+content:
+While looking for something to OCR documents (converting a scanned image into live text) with I came across this nifty feature of Google docs: You can OCR any image including multi-page scans if they're saved as PDF, and the accuracy is great.
+
+To use the OCR feature you upload the scanned image / PDF to Google Drive, then right click and select "Open With &gt; Google Docs". It'll then open it with each page as both the original scanned image and editable text.
+
+If you're doing large volumes dedicated software is probably better as you have to upload everything to Google Drive first, but for occasional OCRing it works great.
+
+url:https://reddit.com/r/LifeProTips/comments/3umt3e/
+author:TheDecagon
+subreddit:LifeProTips
+score:2590
+numComments:133
+isOver18:False
+hasPostBody:True

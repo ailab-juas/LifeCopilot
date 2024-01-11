@@ -1,0 +1,13 @@
+title:
+LPT: Repairing electronics can be easier than you think
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/2rux33/
+author:Rockran
+subreddit:LifeProTips
+score:1573
+numComments:521
+isOver18:False
+hasPostBody:False

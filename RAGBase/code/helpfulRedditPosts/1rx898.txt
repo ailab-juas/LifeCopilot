@@ -1,0 +1,13 @@
+title:
+YSK that there is an online autocad, where you register and can create drawings for free
+
+content:
+https://www.autocad360.com/‎ .You only need to register.
+
+url:https://reddit.com/r/YouShouldKnow/comments/1rx898/
+author:szabx
+subreddit:YouShouldKnow
+score:1361
+numComments:61
+isOver18:False
+hasPostBody:True

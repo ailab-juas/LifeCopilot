@@ -1,0 +1,23 @@
+title:
+YSK that the color of the warning lights on your car's dashboard indicate the urgency of the problem
+
+content:
+Some cars have weird, confusingly shaped lights on the dash, or maybe you just didn't read the manual. Either way, you don't necessarily need to know what every light means as long as you pay attention to the color.
+
+Green: Non issue, just a notification. Things like fog lights, or ready to move on hybrids.
+
+Amber: Non urgent issue. These are for issues that are OK to continue driving with, but should be fixed soon. Things like check engine, ABS failure, traction control failure, tire pressure, etc.
+
+Red: Urgent issue. These are for issues that pose an immediate serious danger to you or the car. If a red light comes on, stop immediately. Things like no oil pressure, overheating, or brake failure, or charging system failure.
+
+Charging system failure may sound like that should be an amber light, but there's a good reason it's red. It's rare for an alternator to just die all of a sudden, so that could also indicate a broken serpentine belt, which would also stop your water pump and power steering pump. It could also indicate an electrical fault that could, in serious cases, start a fire. Even if it's neither of those, when your battery dies, you are stranded. So that's why it's red.
+
+Why YSK:  If you don't know what all the lights in your car mean, just knowing what the color means can save you a lot of money and avoid dangerous situations.
+
+url:https://reddit.com/r/YouShouldKnow/comments/r58u24/
+author:redstern
+subreddit:YouShouldKnow
+score:4017
+numComments:155
+isOver18:False
+hasPostBody:True

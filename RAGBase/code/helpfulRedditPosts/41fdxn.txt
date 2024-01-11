@@ -1,0 +1,23 @@
+title:
+YSK: USPS Shipping Rates are increasing today.
+
+content:
+most, if not all USPS postal rates have gone up with almost no mention of it anywhere. Full details [HERE](http://blog.stamps.com/2015/10/22/usps-announces-postage-rate-increase-starts-january-17-2016/) or [HERE](https://www.pexpeppers.com/usps-rate-2016-increases/)
+
+We all get stuff shipped to us from time to time, so it sucks that the rates are going up.
+Summary:
+
+* The average shipping price rises 9.5% from $5.02 to $5.50.
+* Priority Mail rises an average of 9.8%.
+* Priority Mail Express rises an average of 15.6%.
+* The USPS discontinues Priority Mail Express Flat Rate boxes.
+* First-Class Package Service (a.k.a. First-Class Mail Parcel) rises an average of 12.8%. But there is good news after January 17:  The maximum weight for First-Class Package increases from 12.99 oz to 15.99 oz. Also, the rate for First-Class Packages under 8 oz. is a flat $2.60, which simplifies lightweight package pricing.
+* Standard Post is now called Retail Ground, with an average increase of 10%.
+
+url:https://reddit.com/r/YouShouldKnow/comments/41fdxn/
+author:Pepper-King
+subreddit:YouShouldKnow
+score:1804
+numComments:214
+isOver18:False
+hasPostBody:True

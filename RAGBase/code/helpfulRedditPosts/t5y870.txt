@@ -1,0 +1,13 @@
+title:
+YSK the date format YYYY-MM-DD is the international standard. It's a great format to use anywhere you put dates. It's especially useful when including dates in file names. This will allow all files to sort by date when sorting alphabetically.
+
+content:
+Why YSK:  YYYY-MM-DD is the [International (ISO) Standard](https://www.iso.org/iso-8601-date-and-time-format.html) format for dates.  This format makes the most sense for reasons of sorting and also eliminates any confusion due to different date formatting in different regions.  This is especially useful when you have files in a folder that have dates in the name.
+
+url:https://reddit.com/r/YouShouldKnow/comments/t5y870/
+author:grandlewis
+subreddit:YouShouldKnow
+score:3326
+numComments:181
+isOver18:False
+hasPostBody:True

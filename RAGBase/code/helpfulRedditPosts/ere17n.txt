@@ -1,0 +1,15 @@
+title:
+YSK that you can mute the ads played on most gas station pump screens
+
+content:
+Pressing the 2nd button from the top on the right side of the console will almost always mute the advertisements played while you wait for your tank to fill.
+
+This might help for the visually oriented: https://imgur.com/gallery/E6hFX8c
+
+url:https://reddit.com/r/YouShouldKnow/comments/ere17n/
+author:Weywer
+subreddit:YouShouldKnow
+score:9820
+numComments:768
+isOver18:False
+hasPostBody:True

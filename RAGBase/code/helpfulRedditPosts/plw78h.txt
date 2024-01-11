@@ -1,0 +1,13 @@
+title:
+LPT: During a job interview, do not assume that you are being told the truth about the company. If you are their choice candidate, it is not uncommon for the interviewer to make the company/position look way more incredible than it is. Do your research to make sure you know what you are getting into
+
+content:
+Edit: There are several websites that offer a glimpse into current and past employees experiences at the company. One of the big ones is glassdoor. Indeed and LinkedIn also can provide a little more insight into the company itself.
+
+url:https://reddit.com/r/LifeProTips/comments/plw78h/
+author:fullfrontalfluidity
+subreddit:LifeProTips
+score:2580
+numComments:95
+isOver18:False
+hasPostBody:True

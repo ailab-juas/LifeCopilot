@@ -1,0 +1,13 @@
+title:
+Read the pronunciation of word on wikipedia without learning the IPA (international phonetic alphabet) by putting the cursor over each letter individually
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/zlg12/
+author:Conc3pt
+subreddit:LifeProTips
+score:1760
+numComments:133
+isOver18:False
+hasPostBody:False

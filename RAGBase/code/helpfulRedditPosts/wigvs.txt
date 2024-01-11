@@ -1,0 +1,13 @@
+title:
+LPT: Skip most answering machine greetings by pressing '0.' It goes straight to recording. 
+
+content:
+This is a feature on most answering machines/ services. If you press the number 0 while the recorded greeting is playing, you get to save 30 seconds of your life and go straight to recording your message!
+
+url:https://reddit.com/r/LifeProTips/comments/wigvs/
+author:kameronk92
+subreddit:LifeProTips
+score:1068
+numComments:73
+isOver18:False
+hasPostBody:True

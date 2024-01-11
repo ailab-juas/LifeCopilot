@@ -1,0 +1,15 @@
+title:
+LPT: The contraction for a group of years, such as the 1950s, is '50s, not 50's
+
+content:
+I see this mistake made a lot on reddit. Contractions for numbers follow the same rules as contractions for words. As a apostrophe goes where the letters are dropped in a contracted word (e.g. you are into you're) the same applies to numbers (e.g. 1950s into '50s). 
+
+The same applies to the use of the apostrophe with both letters and numbers in terms of possession. By putting an apostrophe between the numbers and the "s" (e.g. 50's), you are making the "s" possessive. It would be the same as saying "there are five dog's over there." When you are referring to multiple years (e.g. 1950s referring to 1950, 1951, 1952, etc) it works the same as referring to multiple objects (e.g. dogs referring to dog, dog, dog, etc). So as long as you use the same rules for numbers as you use for letters, you wont make this simple mistake.
+
+url:https://reddit.com/r/LifeProTips/comments/2mac24/
+author:tyrified
+subreddit:LifeProTips
+score:2356
+numComments:680
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,38 @@
+title:
+YSK that Walmart sells regular and 70/30 insulin vials for $24.88 and $42.88 apiece over the counter. It's not the current best regimen available, but if you are uninsured or break your vial, it can prevent diabetic ketoacidosis in a pinch.
+
+content:
+YSK that Walmart sells vials of regular (human) insulin for $24.88 apiece over the counter (from the pharmacist) without a prescription OTC, and $42.88 for 70/30 pens, under its ReliOn brand.
+
+Most diabetics generally should not substitute it for rapid-acting insulin without a healthcare provider's and pharmacist's guidance. If you take these already, or if you consult a healthcare professional who can guide you through this process, it can be life-saving for uninsured people who cannot afford brand-name or analog insulin, or in an emergency where insulin vials are broken, lost, stolen, etc.
+
+Why YSK: While this isn't a solution to America's insulin pricing crisis, but it can save the life of a diabetic you know.
+
+Disclaimer: this does not constitute medical advice or an endorsement of any particular product. Consult a qualified health professional such as a physician, pharmacist, or advanced practice provider before changing any medications. This information—the fact that the Walmart corporation sells these products are these prices—is offered in good faith for those who take these medicines and struggle to find them at affordable prices. 
+
+Source: [https://diabetesstrong.com/walmart-insulin/](https://diabetesstrong.com/walmart-insulin/)
+
+Edit: I am seeing a lot of posts from people concerned about the dangers of using this insulin. Here are a few points:
+
+1. For those who are truly insulin dependent, this may be critical information. I've seen many people show up to my ED in DKA or HHS because they could not afford insulin. Many were already prescribed a regular + NPH regimen and did not know walmart sold it cheaper. 
+
+2. If you already take a regular, NPH, or 70/30 insulin regimen,  this is the same medication made by Novo Nordisk sold under a different brand name
+
+3. It is true that regular insulin (short acting) is not interchangeable with rapid acting (like lispro). You should only substitute under the direction of your healthcare provider. Call or secure chat message your doctor's office. Usually they will respond quickly with a message from the doctor or a practice nurse. If it's after their business hours and you need insulin, you NEED INSULIN. Ask the licensed pharmacist at the Walmart pharmacy for guidance on how to take it until your doctor can call you back. That's what they're there for. 
+
+4. Pasted below is an article from the Tulane school of medicine on the onset, peak, and duration times of various insulins. As you can see, regular insulin is slower to reach its peak and acts longer, so there's a higher risk of "stacking insulins," and having an unpredictable reaction. Talk to your provider or pharmacist and mind the timing of your insulin administration and meals. Taking insulin incorrectly or when not needed can be dangerous. 
+ https://tmedweb.tulane.edu/pharmwiki/doku.php/insulin_regimens
+
+5. Another point: I'm not trying to say that taking some subcutaneous insulin is a way to manage DKA. This knowledge is specifically for insulin-dependent people who require insulin coverage who have NO OTHER CHOICE and would eventually experience a medical emergency if they went without it. To all the people who are saying, "this isn't the best insulin," or "you need to know how to prevent diabetic emergencies," I agree completely. But I have a lot of patients wind up in the ICU on an insulin drip costing thousands because they went without their meal coverage or basal insulin because they couldn't afford it. Root cause analysis: insulin is expensive. This is a stopgap workaround for CERTAIN patients. 
+
+6. I have been informed insulin is not OTC in the state of Indiana. I stand corrected! 
+
+Thank you for the awards. Hopefully the information helps someone out there.
+
+url:https://reddit.com/r/YouShouldKnow/comments/lqaw5w/
+author:Substance___P
+subreddit:YouShouldKnow
+score:15588
+numComments:537
+isOver18:False
+hasPostBody:True

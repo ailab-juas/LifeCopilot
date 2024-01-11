@@ -1,0 +1,13 @@
+title:
+LPT: If you plan subscribing to a service. First investigate how to unsubscibe to that service. If it's not straight forward, or have reports of being troublesome - it indicates the company's main business model is to rip you off, instead of providing a quality service.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/hed9c9/
+author:lifeuthere
+subreddit:LifeProTips
+score:3815
+numComments:104
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+[LPT] When sending an email, write the body first, and enter the recipient last
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/22p2rv/
+author:cpt_merica
+subreddit:LifeProTips
+score:1132
+numComments:85
+isOver18:False
+hasPostBody:False

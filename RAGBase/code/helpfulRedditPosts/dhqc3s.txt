@@ -1,0 +1,13 @@
+title:
+[LPT] As the weather gets colder, make sure to check your tire pressure. In general, for every 10 degrees it drops, that's 1 less pound in your tire. It can make a big difference as we move from 80s to 30s.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/dhqc3s/
+author:eren_yeagermeister
+subreddit:LifeProTips
+score:25821
+numComments:872
+isOver18:False
+hasPostBody:False

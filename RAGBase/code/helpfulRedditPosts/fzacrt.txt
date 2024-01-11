@@ -1,0 +1,13 @@
+title:
+YSK that cooked chicken bones are dangerous for your pets. They tend to shatter and create shards that can tear up an animal’s insides.
+
+content:
+Raw chicken bones are fine but be careful of cooked bones
+
+url:https://reddit.com/r/YouShouldKnow/comments/fzacrt/
+author:physchy
+subreddit:YouShouldKnow
+score:34072
+numComments:1067
+isOver18:False
+hasPostBody:True

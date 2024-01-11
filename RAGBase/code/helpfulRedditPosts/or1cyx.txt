@@ -1,0 +1,13 @@
+title:
+LPT: If you are doing something and a young child asks to help, don't say "no" or "you're too little." Find a way to have them help, even if it's a distraction unrelated to your task, and thank them for helping. This develops positive self-esteem, mindfulness, collaboration, and gratitude.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/or1cyx/
+author:TerminusBest
+subreddit:LifeProTips
+score:61728
+numComments:689
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,17 @@
+title:
+YSK how to stay safe during severe weather of any kind
+
+content:
+The past two weeks the Midwest has been getting pummeled by severe thunderstorms and tornadoes. If you are visiting or are new to an area that is prone to severe weather of any kind, you should know how to stay safe during those conditions. Fortunately, the National Weather Service has a great site that will teach you what the inclement weather entails, and how to prepare for those situations.
+
+[https://www.weather.gov/safety/](https://www.weather.gov/safety/)
+
+Be safe out there!
+
+url:https://reddit.com/r/YouShouldKnow/comments/bv7aam/
+author:ucrbuffalo
+subreddit:YouShouldKnow
+score:1700
+numComments:98
+isOver18:False
+hasPostBody:True

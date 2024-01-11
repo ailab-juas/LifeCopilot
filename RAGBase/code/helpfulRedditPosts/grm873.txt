@@ -1,0 +1,17 @@
+title:
+LPT: To get an email reply from individuals notorious for not replying, frame your question so that their lack of reply is a response.
+
+content:
+This is something I learnt while in Grad School/academia but no doubt works in most professional settings. Note this is a very powerful technique, use it sparingly or you are likely to piss people off.
+
+As an example, instead of asking "Are you ok for me to submit this manuscript" you would ask "I am going to submit this manuscript by the end of next week, let me know beforehand if there are any issues/amendments".
+
+People dont reply, not because they haven't read your email, but because they read it and stuck it in their "reply later" pile. This bypasses that.
+
+url:https://reddit.com/r/LifeProTips/comments/grm873/
+author:dovahkin1989
+subreddit:LifeProTips
+score:63492
+numComments:1162
+isOver18:False
+hasPostBody:True

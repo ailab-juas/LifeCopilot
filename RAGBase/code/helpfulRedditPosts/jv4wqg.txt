@@ -1,0 +1,15 @@
+title:
+LPT: People in abusive relationships trying to get out. Using a multiplayer game that lets you chat with other players is a good way to hide your messages from your abusive SO.
+
+content:
+If you're in an abusive relationship and your SO checks your phone, download a multiplayer game like Among Us (it's on iOS and Android). You can create a private game and invite friends and family to discuss your plan without raising too much suspicion.
+
+It's not the greatest solution, but hopefully it could help people who have no other options.
+
+url:https://reddit.com/r/LifeProTips/comments/jv4wqg/
+author:dsm88
+subreddit:LifeProTips
+score:2018
+numComments:108
+isOver18:False
+hasPostBody:True

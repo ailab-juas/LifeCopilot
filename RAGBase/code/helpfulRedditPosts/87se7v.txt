@@ -1,0 +1,15 @@
+title:
+YSK "Flushable" wet wipes are not flushable.
+
+content:
+It's a misrepresentation that continues to be allowed in many nations worldwide. They can and will clog sewage systems. Here's a link with more info for those interested.
+
+https://www.chemistryworld.com/news/explainer-are-flushable-wet-wipes-really-flushable/1017594.article
+
+url:https://reddit.com/r/YouShouldKnow/comments/87se7v/
+author:JaySayMayday
+subreddit:YouShouldKnow
+score:11288
+numComments:991
+isOver18:False
+hasPostBody:True

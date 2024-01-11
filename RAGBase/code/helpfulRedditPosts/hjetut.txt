@@ -1,0 +1,23 @@
+title:
+YSK: Study finds that wearing sunglasses outdoors can improve your mood.
+
+content:
+In a study conducted in 2013 by [pubmed.gov](https://pubmed.gov) [here,](https://www.tandfonline.com/doi/full/10.1080/02699931.2013.801338) it was determined that when we squint our eyes to block out the sun, it convinces our brain that we are angry or in a negative mood, because when we squint, we slant our eyebrows inward, like when we get mad. Just this action of squinting is enough to convince our brains that we are upset.
+
+The people in the study who wore sunglasses on their walk reported feeling happier than those who did not wear sunglasses, because they did not need to squint!
+
+Why should you know this? This can stretch to any outdoor activities, the one that comes to my mind being attending an amusement park. It's hard to stay cheery when confronted with things like hot temperatures and long lines, add on to that this idea of squint-anger, and it's no wonder people are always exhausted or grumpy by the end of the day. Not only that, people are outdoors all the time, and if everyone wore sunglasses more often, perhaps everyone would be happier. What are your thoughts? Try it out and let us know what you think.
+
+Edit: this link seems to have the same study without the access fee: https://www.researchgate.net/publication/236854607_Sun-induced_frowning_fosters_aggressive_feelings  
+  
+Edit 2: as a summary of some of the comments so far: this study was shady to say the least (😎) the “facial feedback hypothesis” (this concept of facial expressions affecting our mood) has been tested since 2013 and has pretty much failed to hold up against more tests. Also wearing sunglasses in excess makes it harder for your brain to activate its defenses against sunburn, and it cuts your Vitamin D by 90% (citation needed). So wear in moderation everyone. With all this said, I still think sunglasses can have a positive effect, whatever that effect is. Good thing is this study is not that consequential, and I didn’t accidentally convince you that sunglasses cure cancer, for instance.  
+  
+Keep being cool, friends 😎
+
+url:https://reddit.com/r/YouShouldKnow/comments/hjetut/
+author:Dolphinflavored
+subreddit:YouShouldKnow
+score:20897
+numComments:563
+isOver18:False
+hasPostBody:True

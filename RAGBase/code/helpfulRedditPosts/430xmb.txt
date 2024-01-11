@@ -1,0 +1,20 @@
+title:
+YSK about the Kitty Convict project- dress your indoor cat in an orange collar, and if you spot one outside, it may be an escapee!
+
+content:
+Less than 5% of lost cats are returned home. The Kitty Convict project is an initiative to help return lost cats to their homes.  
+
+"If you have an indoor kitty, put an orange collar on them."
+
+1) Orange is bright and reflective
+2) It brands your cat as a convict
+
+http://www.explodingkittens.com/kittyconvict
+
+url:https://reddit.com/r/YouShouldKnow/comments/430xmb/
+author:doughjthree
+subreddit:YouShouldKnow
+score:2186
+numComments:222
+isOver18:False
+hasPostBody:True

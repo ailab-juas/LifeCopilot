@@ -1,0 +1,13 @@
+title:
+LPT: Recover part of or the full contents of a corrupt MS Word doc by opening it in Notepad
+
+content:
+A co-worker just taught me this one today and saved me 2 hours of work. Definitely a valid LPT as far as my day is concerned!
+
+url:https://reddit.com/r/LifeProTips/comments/199iqp/
+author:Byeka
+subreddit:LifeProTips
+score:1239
+numComments:74
+isOver18:False
+hasPostBody:True

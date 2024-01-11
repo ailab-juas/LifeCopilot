@@ -1,0 +1,15 @@
+title:
+LPT: If you start a 30day free trial for a service you dont intend to pay for later, dont wait. Cancel the trial as soon as you've set it up.
+
+content:
+If you leave it till later, trust me, you will forget it. 90% of services that offer free trials also allows you to cancel any time and still keep the service up until the end of the trial/month. This might just seem like common sense, but the amount of people I've heard complain about having to pay for something cause they forgot about the end of the free trial is honestly insane
+
+Edit: havent had the displeasure of experiencing it myself yet, but I've seen a lot of people saying that some services won't let you cancel any time and still keep the trial until the 30days is up. So I guess just remember to read the fine print to see whether its "cancel anytime" or not
+
+url:https://reddit.com/r/LifeProTips/comments/j36iyc/
+author:mattis-miniatures
+subreddit:LifeProTips
+score:8812
+numComments:225
+isOver18:False
+hasPostBody:True

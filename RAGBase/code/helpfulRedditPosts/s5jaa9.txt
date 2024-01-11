@@ -1,0 +1,29 @@
+title:
+YSK that adequate heating isn't just about comfort. Keeping your place too cold to save money on heating can cost you way more in the long run.
+
+content:
+Reposted to add the why YSK header.
+
+**NOTE:** This is mainly for first-time property owners &amp; first-time renters, property managers, and landlords who are likely getting inundated with heating complaints this time of year. 
+
+It may seem cost-effective to just put a sweater on (or to ignore your tenants until it gets warmer), but if you live in a climate with big temperature shifts, it's very likely that your property REQUIRES adequate heating as part of regular maintenance. And I don't mean by law. I mean by physics.
+
+**Why you should know/ Why YSK:** Dwellings need to be adequately heated to promote proper moisture evaporation. If it's too cold, water just hangs out and never dries out completely which can lead to rotted out floors, rusty pipes, and mould. It can also rot out insulation, which will in turn lead to even higher heating costs since it'll take more energy to heat the same space.
+
+For those of you like me who are renting and have no control over the heat: keep a log of the daily temperature to protect yourselves if your landlords try to blame you or charge you for repairs due to things like water damage. 
+
+And if you have particularly shitty landlords (again like me), try to store things in dry, safe places away from walls and closet corners. That's where condensation and mould tend to build up and it can ruin your stuff pretty fast--we're talking one or two weeks of bad heating. I lost all my childhood books and stuffed animals because our landlords nickel-and-dimed our heat and told us to "put on a sweater" even when we showed them our sweaty, mouldy walls and I don't wish that experience on anyone else.
+
+Edit: Forgot to included "first time renters" in my note.
+
+Edit 2: For the people talking about relative humidity—you're forgetting that daily living produces a ton of moisture. Taking a shower, cooking, even working out at home can all add moisture to the air. If you've ever taken a shower in a cold house and left your towel to dry, you know that it takes way longer than if it's in a warm place. The same is true of your walls. And when you're producing heat and moisture above and beyond what's happening naturally in your home, you're going to get that condensation on and in your walls as the water falls out of the air and settles on cold surfaces.
+
+Also. If you're trying to JUSTIFY keeping a place cold to me let me stop you: IDGAF if you think it's cheaper and worth it. This post isn't for you. And I hope your tenants sue the shit out of you.
+
+url:https://reddit.com/r/YouShouldKnow/comments/s5jaa9/
+author:Nillabeans
+subreddit:YouShouldKnow
+score:3158
+numComments:207
+isOver18:False
+hasPostBody:True

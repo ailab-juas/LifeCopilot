@@ -1,0 +1,13 @@
+title:
+Tired of soggy sandwiches at lunch? Give my method a try.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/xzx8b/
+author:kitten_suplex
+subreddit:LifeProTips
+score:1725
+numComments:249
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+YSK: The IRS will never call you. They will never email you or text you. The only instance they will call is if you owe large amounts of back taxes or if you're subject to a field audit. In these cases, they will send a letter to you letting you know about the call before it happens.
+
+content:
+Why YSK: Scammers are constantly trying to steal from people under the guise of the IRS. The IRS will almost always reach out to you by mail first. Do not trust anyone claiming to be from the IRS if you were unaware of the call - they will not surprise you! They will always tell you before they call!
+
+url:https://reddit.com/r/YouShouldKnow/comments/llhelq/
+author:MrXx_xXXx_xX
+subreddit:YouShouldKnow
+score:16272
+numComments:220
+isOver18:False
+hasPostBody:True

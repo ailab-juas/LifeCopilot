@@ -1,0 +1,13 @@
+title:
+LPT for AFTER you vote today
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/12qaeh/
+author:knivesngunz
+subreddit:LifeProTips
+score:1325
+numComments:276
+isOver18:False
+hasPostBody:False

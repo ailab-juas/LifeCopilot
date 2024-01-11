@@ -1,0 +1,25 @@
+title:
+YSK that most dog seatbelts are not independently tested and have no standard for performance
+
+content:
+I've had my dogs for years now, and never buckled them up in the car. I saw a post the other day about dog seatbelts and realized I should probably buckle in my pups because I wouldn't want them to be injured or run away in the event of a car crash. Plus, it's pretty unsafe to have 2 60 lb dogs loose in the back seat. They become deadly projectiles in a crash. 
+
+So I do what most people do and head to Amazon. I type in, "dog seatbelt" and click on Amazon's choice. It's $6. It has 4.5 stars and lots of reviews. "Great!" I thought. Really cheap and easy, and now I can have peace of mind that my dogs are safe. Right?! Right??? Well that feeling lasted for a couple seconds before I realized that hooking a single strap to the collar of my dog would be basically the same as strapping a noose around my dogs neck so that it dies quickly in the event of a crash. "Oh ok, well then I need one of those harness ones and not the collar one." Obviously this was turning into a marathon of looking at reviews and researching different options. Then I came across some crash test videos with dummy dogs and it became very clear that almost none of the options on the market are actually effective in a real crash. As an example, here is a cheap option that doesn't actually work in independent testing:
+
+[Solvit Pet Vehicle Safety Harness](https://www.amazon.com/Solvit-62295-Vehicle-Safety-Harness/dp/B000MD3NFO) Test: https://vimeo.com/102959301
+
+Center for Pet Safety did a bunch of tests and published the videos to their website in 2013:
+
+https://www.centerforpetsafety.org/test-results/harnesses/2013-harness-crash-test-videos/
+
+Only a few of the harnesses on the market actually worked to a reasonable level. It's important to do your research and buy stuff that is independently tested. Make sure you are comfortable with the results of any testing that has been done on the harness you decide to buy.
+
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/9bun57/
+author:r3dt4rget
+subreddit:YouShouldKnow
+score:3360
+numComments:120
+isOver18:False
+hasPostBody:True

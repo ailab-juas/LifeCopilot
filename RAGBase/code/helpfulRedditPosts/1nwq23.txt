@@ -1,0 +1,23 @@
+title:
+LPT: Take one minute to record your phone's serial number. This may be the one identifying factor if your phone is ever stolen and reset.
+
+content:
+To do this on an iPhone, go to Settings&gt;About. (edit: Settings -&gt; General -&gt; About)
+
+My city recently recovered thousands of stolen phones but is unable to return many of them because most people did not record their serial numbers. 
+
+edit: have received requests for more info. It was a raid on four mobile phone stores which were buying stolen electronics from local crime rings, apparently. [Here's the story.](http://www.nhregister.com/general-news/20131001/new-haven-raid-nets-thousands-of-electronic-devices)
+
+I got the LPT from [this article] (http://yaledailynews.com/blog/2013/10/07/police-recover-thousands-of-stolen-electronics/): "Unfortunately, the stolen items will likely not be returned to their owners. Though the police have completed the investigation, it is difficult for them to return the recovered products due to the sheer number of items and the difficulty of identifying and matching them with their rightful owner, said New Haven Police Department spokesman David Hartman. He explained that the process of identifying the stolen phones and other personal electronics and pairing them to specific theft cases is overwhelming and complex, and many people whose phones are stolen do not have a record of their device’s serial number. The department has a 2,250 square foot property room that is currently filled with stolen products.
+
+“There are thousands of cell phones to go through,” Hartman said. He called the process of matching the stolen phones with their owners, “virtually impossible.” He added that the police department has already received hundreds of calls from local residents trying to retrieve their electronics.
+
+Hartman said that everyone with electronic devices should record their descriptions and serial numbers so that if they are stolen the police can trace the item back to the owner."
+
+url:https://reddit.com/r/LifeProTips/comments/1nwq23/
+author:cyale4
+subreddit:LifeProTips
+score:1664
+numComments:162
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+YSK- As the Midwest gets it's first decent snow of the season, you should remember to clear off your headlights and taillights when you clear your windshield.
+
+content:
+In a perfect world, you should clear your car completely, but some people never do. Lights are just as important as windows, even in the daylight. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/af6r66/
+author:Heatherkakes
+subreddit:YouShouldKnow
+score:3925
+numComments:179
+isOver18:False
+hasPostBody:True

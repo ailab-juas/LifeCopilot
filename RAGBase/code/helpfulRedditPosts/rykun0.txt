@@ -1,0 +1,13 @@
+title:
+LPT: If a dog is asking you to follow it, you should go.
+
+content:
+A lot of dogs are instinctively trained to go seek out help when their owner is having a medical emergency or is in need of immediate assistance. So if a dog is acting like it wants you to go after it, it wouldn’t hurt to go see what it wants. You may end up saving a life.
+
+url:https://reddit.com/r/LifeProTips/comments/rykun0/
+author:DietDrBleach
+subreddit:LifeProTips
+score:10544
+numComments:527
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Press "K" to pause your YouTube video, instead of using the spacebar and having to click on the video first.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1h69bn/
+author:Rayquinox
+subreddit:LifeProTips
+score:2446
+numComments:294
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: If you're arguing with anyone and they threaten legal action, use it as an excuse to end the conversation by saying "well in that case I can't discuss anything with you without a lawyer present, have a good day"
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/wp5alj/
+author:WorkingContext
+subreddit:LifeProTips
+score:7409
+numComments:174
+isOver18:False
+hasPostBody:False

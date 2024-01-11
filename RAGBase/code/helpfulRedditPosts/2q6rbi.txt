@@ -1,0 +1,13 @@
+title:
+LPT: Never Tell Someone You are Arguing with to "Chill", "Calm Down", or "Relax"
+
+content:
+It typically just makes matters worse and has the opposite effect that it was intended to have. Instead, try to calmly go along with it and compromise until the person has calmed down; or if things are out of hand, then calmly walk away.
+
+url:https://reddit.com/r/LifeProTips/comments/2q6rbi/
+author:princeoflorence
+subreddit:LifeProTips
+score:1355
+numComments:333
+isOver18:False
+hasPostBody:True

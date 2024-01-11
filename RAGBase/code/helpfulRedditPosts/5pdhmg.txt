@@ -1,0 +1,17 @@
+title:
+LPT: Before submitting a cover letter, do a search for the word "can" and change it to "will". This simple change will help employers already start picturing you as an employee while they are reading it.
+
+content:
+When you use the word "will" instead of "can", it prompts your potential employer picture you as a member of the company instead of thinking about what you might be able to do 
+
+Edit: Yes, of course, context matters. Don't just blindly replace every word that has the letters "can" in it. Search for where you used the word "can" and see if "will" would make logical sense.
+
+Main point: Instead of saying "I can help company X...", replace it with "I will help company X..."
+
+url:https://reddit.com/r/LifeProTips/comments/5pdhmg/
+author:Wilburcat4
+subreddit:LifeProTips
+score:2900
+numComments:105
+isOver18:False
+hasPostBody:True

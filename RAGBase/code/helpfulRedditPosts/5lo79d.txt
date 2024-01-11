@@ -1,0 +1,13 @@
+title:
+LPT: Before buying a house check it out on a very rainy day to see how effectively water drains
+
+content:
+You might discover some issues with drainage especially in the yard. 
+
+url:https://reddit.com/r/LifeProTips/comments/5lo79d/
+author:Chinpokomonnnn
+subreddit:LifeProTips
+score:23200
+numComments:2101
+isOver18:False
+hasPostBody:True

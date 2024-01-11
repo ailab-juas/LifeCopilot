@@ -1,0 +1,13 @@
+title:
+LPT: When you encounter hate content in the internet, make it a point to not participate in it even if you have a valid counterpoint to offer. People spreading hate content are looking for attention, not a healthy conversation. All you’ll do by offering a view is fan the flames further.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/j78dww/
+author:GuyWithDFacts
+subreddit:LifeProTips
+score:40218
+numComments:198
+isOver18:False
+hasPostBody:False

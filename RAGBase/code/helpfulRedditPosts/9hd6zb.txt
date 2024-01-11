@@ -1,0 +1,13 @@
+title:
+YSK if you're purchasing a movie on your Apple TV and its missing a Rotten Tomatoes score, it likely has horrible reviews.
+
+content:
+Just think everyone is entitled to the same info and not just what Apple wants, so you're more inclinded to make a purchase.
+
+url:https://reddit.com/r/YouShouldKnow/comments/9hd6zb/
+author:AndyDufresne001
+subreddit:YouShouldKnow
+score:4211
+numComments:198
+isOver18:False
+hasPostBody:True

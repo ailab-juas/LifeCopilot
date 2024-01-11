@@ -1,0 +1,15 @@
+title:
+YSK how to download your Facebook data
+
+content:
+It's crazy to see how much I put out there 4 years ago. Link:
+
+[https://www.facebook.com/help/131112897028467](https://www.facebook.com/help/131112897028467)
+
+url:https://reddit.com/r/YouShouldKnow/comments/1m4kj9/
+author:mondogreen
+subreddit:YouShouldKnow
+score:1026
+numComments:128
+isOver18:False
+hasPostBody:True

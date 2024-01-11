@@ -1,0 +1,21 @@
+title:
+YSK that your odds to win Powerball are ridiculously low and there are no systems to help improve that.
+
+content:
+Why YSK: The numbers 1,2,3,4,5,6 have the same odds as "random" numbers like 7,18,19,36,54,60. Believe it or not, it's true.
+
+I've seen people online  with these number systems where they track the frequency that numbers are drawn. Numbers can't be "due." There's something called the gambler's fallacy. If you are flipping a fair coin and it comes up heads five times in a row, tails isn't "due." The odds are still 50/50. The past has no bearing on the outcome of a future event as long as the coin is fair. The same is true for lottery. If 36 hasn't been drawn in 50 drawings, it isn't due. Nor is it "cold."
+
+The odds of winning Powerball are approximately 1 in 292.2 million. Even if you were a multi-billionaire and tried playing every single combination, it would take you over 300 days to print all of the tickets @ 10 plays per second.
+
+There's nothing wrong with playing. I'm going to play. But don't spend more than you can afford to lose because you WILL lose it. For me, I may spend like $10 or $20. The time daydreaming and the thought that there is an absolutely tiny chance of me winning makes it worth it. The only real way to improve your chances is to spend more money.  But don't go out there and spend $1,000 thinking that you're going to win. Yes, you're 100x more likely to win than me, but with 1 out of 2.9 million odds instead of 292 million, that's not saying much.
+
+Edit:  Mathematical error that luckily nobody noticed.
+
+url:https://reddit.com/r/YouShouldKnow/comments/yovwxn/
+author:theWet_Bandits
+subreddit:YouShouldKnow
+score:4542
+numComments:586
+isOver18:False
+hasPostBody:True

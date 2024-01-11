@@ -1,0 +1,13 @@
+title:
+LPT: if you have a big bag of chips, pour some into a bowl rather than eating from the bag. This will stop you from eating the whole bag without thinking about it.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/qkxlnc/
+author:NCBuckets
+subreddit:LifeProTips
+score:2236
+numComments:153
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+YSK ceiling fans have a switch that reverses their direction in order to properly circulate warm air in winter months and keep rooms warm. Keep it on low, though, because on higher speeds it creates a wind chill effect.
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/13u0rc/
+author:Mainframe9
+subreddit:YouShouldKnow
+score:1055
+numComments:120
+isOver18:False
+hasPostBody:False

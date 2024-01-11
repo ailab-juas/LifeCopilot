@@ -1,0 +1,13 @@
+title:
+LPT: Sunk costs is a concept in finance that applies to real life relationships too. You don't need to stay in a bad investment just because you invested in it. Just because you gave a person 5 years in your past, you don't need to give them 5 years of your future. You can walk away anytime.
+
+content:
+Limit your losses. The past is irrelevant to the future.
+
+url:https://reddit.com/r/LifeProTips/comments/ipaw5a/
+author:GuyWithDFacts
+subreddit:LifeProTips
+score:44549
+numComments:621
+isOver18:False
+hasPostBody:True

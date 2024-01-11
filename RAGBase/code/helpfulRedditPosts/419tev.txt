@@ -1,0 +1,29 @@
+title:
+LPT: Making juicy burgers
+
+content:
+Recent terrible LPT claims that dry spices dry out a burger - but this is absolute nonsense; hydrophillic ingredients help the meat retain its moisture, by absorbing it into a place where it's fixed, instead of letting it spill out onto your cooking surface.
+
+Some better tips for getting juicy burgers:
+
+* Start with 85% lean meat. Too lean (90%), and you're likely to get dry, grainy meat. Too fatty (70%), and you get grease fires and a burger loaded with 30-weight (I sometimes prefer this, though).
+* Don't overcook your burger; you want it straight-up medium or less. Medium-well and well-done burgers will be too dry, even with nothing else done.  General rule: more done = more dry.
+* Pull the patties out of the fridge and salt them about 20 minutes before cooking. This will partially denature the surface proteins, making them retain their moisture better.
+* Do not squish the burger once it is partially cooked. You will squish out the juice.
+* If you must make your burgers well done, pick an "under" side, and poke divots in the burger just before cooking, almost but not quite through. During the latter half, after the flip, the juices will collect in the divots, rather than spilling out onto your grill.
+* If you're using lean meat (90% or turkey), you can compensate by the following:
+    * Make a slurry of 1/4 of the meat the same volume (not mass) of button mushrooms, and 1 packet of unflavored gelatin per cup/cup in a food processor
+    * Hand-mix the slurry in with the rest of the meat and additions (spices, diced onions, etc). 
+    * Grill each side briefly on rocket hot, then cook normally.  
+
+        The mushrooms will help to retain moisture, and the gelatin, as it seeps out the surface of your burger, will caramelize into a meaty shell that helps to hold moisture in the burger.
+
+* For turkey, choose dark meat.  Your taste buds will thank you.
+
+url:https://reddit.com/r/LifeProTips/comments/419tev/
+author:Fordiman
+subreddit:LifeProTips
+score:3908
+numComments:676
+isOver18:False
+hasPostBody:True

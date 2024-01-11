@@ -1,0 +1,13 @@
+title:
+YSK Netflix has a page where you can request TV shows and movies to be added
+
+content:
+[NetFlix Request Page](https://help.netflix.com/en/titlerequest)
+
+url:https://reddit.com/r/YouShouldKnow/comments/8wvbq8/
+author:Reddit__PI
+subreddit:YouShouldKnow
+score:5938
+numComments:338
+isOver18:False
+hasPostBody:True

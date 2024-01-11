@@ -1,0 +1,21 @@
+title:
+[LPT] Sick of websites that AUTOPLAY content?
+
+content:
+**Chrome** - Open Chrome &gt; Settings &gt; Advanced &gt; Privacy|Content Settings &gt; Plug-Ins | Click To Play. **OR** In your address bar, copy/pasta - chrome://chrome/settings/content . Scroll down until you reach the Plug-ins listing there. Here you need to switch from Run automatically to Click to play.
+________________
+**Firefox** - Open FireFox. Type about:config into the address bar and hit Enter. If you receive a warning about modifying settings, click the I'll be careful, I promise button to proceed. In the search bar that appears at the top of the page, enter plugins.click_to_play. The configuration setting should appear on a single line. Right-click the configuration setting and select Toggle. The value column should change from false to true. Restart Firefox. 
+________________
+**Opera** - Users interested in this feature can enable it by clicking “Ctrl+F12″, and then the “Advanced” tab, then “Content,” and then enabling the “Enable plug-ins on demand” option. Didn't work on your version? [Try here.](http://dottech.org/99969/how-to-enable-click-to-play-firefox-chrome-opera-internet-explorer-tip-guide/#opera)
+________________
+**Safari** - users can get a click-to-play like experience using either the ClicktoFlash extension – which, as its name suggests blocks Flash content – or the more comprehensive ClickToPlugin extension. [Link To Plugins](http://hoyois.github.io/safariextensions/clicktoplugin/)
+________________
+**Internet Explorer** - This *sort of* works...[At least in IE9](http://www.pcmech.com/article/how-to-sort-of-get-click-to-play-capability-in-internet-explorer-9/). You shouldn't really be using IE unless you HAVE to. I'll reccomend [Firefox](http://www.mozilla.org/en-US/firefox/desktop/). Open IE, Click the Gear icon / Manage Add-Ons, Click Toolbars and Extensions, From the drop-down menu under Show, select Run without permission. After you do this there will be a momentary pause; this is normal, it IS IE. Single-right-click Shockwave Flash Object, and then select More information from the context menu. From the window that appears, click the Remove all sites button. When you do this, the little asterisk in the large white field will disappear. If you click Allow on all sites, it changes it back to the way it was. For now, leave the big white field blank. For any web site you go to (if not every web site you go to given how much Flash is used on the internet), you’re going to see this notice at the bottom of the browser: [Link](http://i.imgur.com/6xnWNBZ.png). You only have two options. Allow or Allow for all web sites if you click the little down arrow next to the button. If you choose Allow, Flash will always be allowed just for the site you’re on. If you choose Allow for all web sites, IE will revert to treating Flash exactly as it did before and allow Flash everywhere on any web site. The ‘sort of’ part I mention above is that there is no option for Allow once. If there were, then this would be a perfect solution. But unfortunately all you have available is basically all-or-nothing mode.
+
+url:https://reddit.com/r/LifeProTips/comments/292xyb/
+author:KSOFM
+subreddit:LifeProTips
+score:3064
+numComments:308
+isOver18:False
+hasPostBody:True

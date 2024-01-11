@@ -1,0 +1,13 @@
+title:
+YSK if you are a relatively slow walker or have a wide gait, you should not walk in the center of a hallway or sidewalk.
+
+content:
+It should be obvious but apparently it needs to be spelled out for some people. I always try to be aware of my surroundings, and it isn't that hard to stay to one side if you know you walk slow.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ic1327/
+author:broca9
+subreddit:YouShouldKnow
+score:11605
+numComments:400
+isOver18:False
+hasPostBody:True

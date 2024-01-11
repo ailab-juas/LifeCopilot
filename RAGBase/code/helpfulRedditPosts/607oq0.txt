@@ -1,0 +1,13 @@
+title:
+LPT: The purpose of exercise is so that you don't have a pains in your body when you're 80, not so that you do when you're 30.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/607oq0/
+author:perceptionboss
+subreddit:LifeProTips
+score:2849
+numComments:240
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,24 @@
+title:
+YSK about these twelve websites that will improve your life
+
+content:
+1. [socratic.org](http://socratic.org) - Learn chemistry, physics, and biology.
+2. [griddzly.com](http://gridzzly.com/) - Make your own printable grid paper. 
+3. [keybr.com](http://keybr.com) - Learn how to touch type.
+4. [excelexposure.com](http://excelexposure.com) - Learn Microsoft Excel.
+5. [artofmanliness.com](http://artofmanliness.com) - Learn manly skills and manly etiquette.  
+6. [dailyzenlist.com](http://dailyzenlist.com) - Daily self-improvement lists including a ton of websites.
+7. [duolingo.com](http://duolingo.com) - The best way to learn a foreign language.
+8. [archive.today](http://archive.today) - Take a snapshot of a webpage so it will always be online.
+9. [takelessons.com](http://takelessons.com) - Find someone to teach you whatever you want to learn.
+10. [habitrpg.com](http://habitrpg.com) - A free habit building app that treats your life like a game.
+11. [stilltasty.com](http://stilltasty.com) - Find out how long your food stays safe and ripe. 
+12. [patrickjmt.com](http://patrickjmt.com) - Just math tutorials.
+
+url:https://reddit.com/r/YouShouldKnow/comments/2ayqhl/
+author:_Groot
+subreddit:YouShouldKnow
+score:3984
+numComments:342
+isOver18:False
+hasPostBody:True

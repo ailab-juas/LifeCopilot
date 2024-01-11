@@ -1,0 +1,13 @@
+title:
+YSK how to test if your eggs are fresh just with some water.
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/uv7b9/
+author:Frencil
+subreddit:YouShouldKnow
+score:1077
+numComments:66
+isOver18:False
+hasPostBody:False

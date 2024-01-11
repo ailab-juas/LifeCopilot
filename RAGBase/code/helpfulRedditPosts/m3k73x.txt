@@ -1,0 +1,13 @@
+title:
+YSK that the phrase, "We are closing our collection!" is a deceptive marketing tactic.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/YouShouldKnow/comments/m3k73x/
+author:[deleted]
+subreddit:YouShouldKnow
+score:11824
+numComments:299
+isOver18:False
+hasPostBody:True

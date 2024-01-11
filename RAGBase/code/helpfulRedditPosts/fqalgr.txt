@@ -1,0 +1,14 @@
+title:
+YSK: The Internet Archive released the National Emergency Library that gives be public free access to over 1.4 million digital books. Link below
+
+content:
+The National Emergency Library promotes learning and education in a time where libraries are closed. Amazon is also not prioritizing book orders at this time which means that fulfilling orders and shipping will take longer if they come at all. The library is great to learn something new or read a good book for free. 
+[National Emergency Library link](https://archive.org/details/nationalemergencylibrary)
+
+url:https://reddit.com/r/YouShouldKnow/comments/fqalgr/
+author:chef_stef
+subreddit:YouShouldKnow
+score:14873
+numComments:505
+isOver18:False
+hasPostBody:True

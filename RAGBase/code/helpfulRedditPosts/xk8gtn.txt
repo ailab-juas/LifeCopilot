@@ -1,0 +1,13 @@
+title:
+YSK that coolers are most effective when they are pre-cooled with ice overnight and have a 2:1 ice:contents ratio
+
+content:
+Why YSK: putting ice into a room temp cooler will cause you to waste some of that ice getting the temp down. Your things will stay cooler much longer if it's pre-chilled and has the optimal ice:contents ratio
+
+url:https://reddit.com/r/YouShouldKnow/comments/xk8gtn/
+author:Lagavulin16_neat
+subreddit:YouShouldKnow
+score:10475
+numComments:432
+isOver18:False
+hasPostBody:True

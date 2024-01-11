@@ -1,0 +1,23 @@
+title:
+YSK: You're not alone and this is not the end of life when you're being rejected from job applications
+
+content:
+**Why YSK**: A much better future is waiting for you and you're being rejected to make yourselves available for the upcoming best opportunity in your life. You apply at your dream company X and got rejected, but you never know that there's a much better company Y in terms of work culture, pay and life until it comes to you. Up-skill yourselves, keep trying and never lose hope.
+
+There are plenty of resources out there to help you out:
+
+1. Large list of [nationwide remote opportunities](https://www.csueastbay.edu/ocpd/) released by California State University, covering openings from beginner to experienced levels. Keep an eye on them on regular basis as they update the list very frequently.
+2. [Udemy](https://www.udemy.com/)\-&gt; For free tutorials stuff covering multiple domains.
+3. [Coursera](https://www.coursera.org/) \-&gt; For free courses to upskill yourselves.
+4. [BigInterview](https://biginterview.com/blog/) \-&gt; For crucial tips to excel yourselves in interviews. They will also provide candidate profile optimization tips, resume tips etc.
+5. [FreeCodeCamp](https://www.freecodecamp.org/)\-&gt; For anyone who want to excel into programming and web applications.
+
+At the end of the day, all you need is that "one" job offer that can change your life forever :)
+
+url:https://reddit.com/r/YouShouldKnow/comments/ipg7fi/
+author:Jonese90
+subreddit:YouShouldKnow
+score:26342
+numComments:714
+isOver18:False
+hasPostBody:True

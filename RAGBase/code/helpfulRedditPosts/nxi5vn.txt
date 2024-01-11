@@ -1,0 +1,13 @@
+title:
+LPT: Does your Windows 10 system suddenly have a weather tab in your taskbar that you don't want? Right click on your taskbar, go to "News and interests" and select "Turn off" to turn the feature off.
+
+content:
+So in the recent Windows update they added a thing where it shows your weather and every time you hover over it a pop up appears with news, I saw some people express frustration over this so decided to make this post so y'all can turn it off.
+
+url:https://reddit.com/r/LifeProTips/comments/nxi5vn/
+author:FighterDhruv8
+subreddit:LifeProTips
+score:3989
+numComments:301
+isOver18:False
+hasPostBody:True

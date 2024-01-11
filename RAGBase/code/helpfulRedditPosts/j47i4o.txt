@@ -1,0 +1,13 @@
+title:
+LPT: if you're ever not sure what to do, clean. When you figure it what you should be doing, you'll have a clear work space.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/j47i4o/
+author:harleyquinzilla
+subreddit:LifeProTips
+score:63761
+numComments:635
+isOver18:False
+hasPostBody:False

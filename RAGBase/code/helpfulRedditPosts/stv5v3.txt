@@ -1,0 +1,13 @@
+title:
+LPT: If your pet is acting weird and needs to visit the vet, take a video of their behavior. This way the vet can see exactly the problem rather than you describing it.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/stv5v3/
+author:eren_yeagermeister
+subreddit:LifeProTips
+score:1555
+numComments:41
+isOver18:False
+hasPostBody:False

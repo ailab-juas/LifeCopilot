@@ -1,0 +1,13 @@
+title:
+LPT: Just because other people may be worse off than you, it doesn’t mean that your problems are any less valid.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/h8pric/
+author:GildDigger
+subreddit:LifeProTips
+score:6729
+numComments:226
+isOver18:False
+hasPostBody:False

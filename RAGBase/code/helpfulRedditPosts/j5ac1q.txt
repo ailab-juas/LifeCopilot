@@ -1,0 +1,17 @@
+title:
+YSK that there's this amazing website called Documentary Mania which literally has hundreds if not thousands of free documentaries sorted by themes or topics. It is fast and with no annoying ads.
+
+content:
+Why YSK: I have always been a curious guy who loves watching a good documentary. The other day I had a really boring Physics lecture and I thought that maybe if I watched Cosmos: A space-time Odyssey, that would ignite a little spark to make my lectures more enjoyable. The thing is where I am from, I couldn't find it anywhere Netflix, Amazon Prime, etc. Miracously, I stumbled to this site, which looked very suspicious in the beginning (I am very skeptical of watching free stuff online). However, the online viewing quality is great, the download speed is decent and the few docs I watched even come with subtitles. Moreover, as the docs are sorted by themes, I found more than 10 I was interested in and added them to a potential playlist. I am very happy with this site, which I know, sounds too good to be true. So far, I haven't had a single problem. Enjoy! 
+
+[https://www.documentarymania.com/home.php](https://www.documentarymania.com/home.php)
+
+PS : I use brave browser which blocks adds. I don't really know if the normal website drops a bunch of adds everytime you click something . If so , that sucks , but I think its still a site worth sharing
+
+url:https://reddit.com/r/YouShouldKnow/comments/j5ac1q/
+author:facu_draper
+subreddit:YouShouldKnow
+score:68327
+numComments:602
+isOver18:False
+hasPostBody:True

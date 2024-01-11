@@ -1,0 +1,20 @@
+title:
+LPT: Make your own QR codes.
+
+content:
+So a lot of people I know have a smart phone with an QR scanner.
+About a week ago, a lot of new friends came for the first time to my house. Ofcourse one of the first things they asked was the WiFi code. Only one problem, I have this long code with random numbres and letters. I'm to lazy to write it down or to change it ( a part of me thinks it's safer to keep this random code). So when I have to look up the code i need to go to the basement and rip the modem of the wall to read the back of it. 
+Solution: I read online about putting wifi and password in an QR code. I googled for a good site to make it work. I came up with: http://www.qrcode-monkey.com/. works excelent and is free. 
+I printed, laminated and hung the code on the wall, friends only need to scan it and press "connect". 
+Problem solved.
+ps. English is not my first language so please don't hate.
+
+EDIT: Thanks for the gold!
+
+url:https://reddit.com/r/LifeProTips/comments/2v8g10/
+author:Zeno66
+subreddit:LifeProTips
+score:2765
+numComments:601
+isOver18:False
+hasPostBody:True

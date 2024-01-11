@@ -1,0 +1,13 @@
+title:
+When a price at Costco ends in $.97 it's their clearance price and that as low as it will go.
+
+content:
+this tip comes from this  [Clark Howard](http://www.amazon.com/Clark-Howards-Living-Large-Times/dp/1583334335/ref=sr_1_4?s=books&amp;ie=UTF8&amp;qid=1374695354&amp;sr=1-4&amp;keywords=live+large) book 
+
+url:https://reddit.com/r/LifeProTips/comments/1iz7fp/
+author:jsmayne
+subreddit:LifeProTips
+score:2337
+numComments:272
+isOver18:False
+hasPostBody:True

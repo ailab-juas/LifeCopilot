@@ -1,0 +1,15 @@
+title:
+LPT: Never put your pet's name on their tags.
+
+content:
+As a former Dog Trainer, I always imparted the knowledge to my students that putting your pet's name on their tags makes it much easier for them to be "stolen" if found; the finder will know their name and can use it as a form of bonding with your pet. 
+
+Instead, it should say "Microchipped" and include your contact details. This will hopefully cause the finder to contact a vet to have a chip scan, but more importantly will prevent them from having an automatic "in" with your precious fur friend.
+
+url:https://reddit.com/r/LifeProTips/comments/tbbxf0/
+author:Gloomheart
+subreddit:LifeProTips
+score:4425
+numComments:396
+isOver18:False
+hasPostBody:True

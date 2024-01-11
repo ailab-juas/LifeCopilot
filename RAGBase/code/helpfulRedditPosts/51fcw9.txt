@@ -1,0 +1,13 @@
+title:
+LPT: Use a cutting board that's narrower than the width of your kitchen trash can.
+
+content:
+It makes scraping vegetable stems, etc, into the trash so much quicker and easier, and nothing will get on the floor.
+
+url:https://reddit.com/r/LifeProTips/comments/51fcw9/
+author:coinboy66
+subreddit:LifeProTips
+score:3936
+numComments:881
+isOver18:False
+hasPostBody:True

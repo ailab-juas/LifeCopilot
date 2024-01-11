@@ -1,0 +1,13 @@
+title:
+YSK: About the protection provided you under Tort Law
+
+content:
+Why YSK: When you pay for something that involves risk, companies will typically give you a receipt/ticket telling you that you assume all the risk for the service being provided. For example, when you buy a ticket for a roller coaster ride, the back of the ticket will typically say something like ‘you assume any and all risk involved, you shall not hold the operator liable in case of accident, and you shall indemnify the owners of any and all responsibility whether or not caused by negligence’, etc. In some cases, they may make you sign a waiver saying you release them of all liability. However, in cases of negligence, you can still sue under Tort law regardless of whether you signed a waiver. Waivers do provide some degree of protection in specific cases but in general, the greater the negligence, the less protection a waiver provides and if it gross negligence, you will usually win when you sue.
+
+url:https://reddit.com/r/YouShouldKnow/comments/n70jb5/
+author:ARCT0MYS
+subreddit:YouShouldKnow
+score:10672
+numComments:339
+isOver18:False
+hasPostBody:True

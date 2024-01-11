@@ -1,0 +1,25 @@
+title:
+LPT: For privacy, you can have your property's image blurred in both Google's Street View and Apple Map's Look Around. It takes only a few minutes, instructions included.
+
+content:
+Apple's  Look Around and Google's Streetview are great, but you might not want  your property visible on it for whatever reason. You can request  blurring on both systems and it takes only a few minutes.
+
+**Apple Maps'** process is very easy. An email to [MapsImageCollection@apple.com](mailto:MapsImageCollection@apple.com) with a request was all it took for me. How [our property looks in Apple's Look Around and Google Streetview now (Apple's is very Minecrafty!](https://imgur.com/a/xAW6DBz))
+
+**Google Maps** is a bit more involved.
+
+1. Find your address in Google Maps
+2. Click "Report a problem"
+3. Select the appropriate choices in the "Request Blurring" options.
+
+Apple took a couple of days, Google a bit longer.
+
+Edit: for those who seem so against this, please post your home's full address in the comments. (Joking, duh.)
+
+url:https://reddit.com/r/LifeProTips/comments/np6a32/
+author:grublets
+subreddit:LifeProTips
+score:24735
+numComments:1021
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: When a retail cashier asks for your name the answer is “no thank you”
+
+content:
+I’ve been that employee and what they are really asking is “can I sign you up for our mailing list, or customer rewards account?” But if they phrased it like that they would get way more “no” responses so they just assume the answer is yes and begin asking for your first name. It’s amazing how easy it is to get people to divulge all their personal info once they’ve already given their name. When I’m asked this question I simply reply “no, thank you” and it works like a charm.
+
+url:https://reddit.com/r/LifeProTips/comments/peswqo/
+author:Milk-Man-Mike-
+subreddit:LifeProTips
+score:7786
+numComments:971
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT - One of the most important questions you can ask in a debate/argument is, “What proof or evidence would it take to change your mind/opinion?” If they can’t give you an answer or if they refuse to accept the evidence that they asked for, then quit wasting your time arguing with that person.
+
+content:
+Inspired by Neil deGrasse Tyson
+
+url:https://reddit.com/r/LifeProTips/comments/p500la/
+author:RellimCire
+subreddit:LifeProTips
+score:66681
+numComments:1402
+isOver18:False
+hasPostBody:True

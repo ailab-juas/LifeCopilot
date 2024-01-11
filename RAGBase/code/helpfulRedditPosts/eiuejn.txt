@@ -1,0 +1,46 @@
+title:
+YSK that enabling "2-Factor Authentication" is literally your best defense against hackers and bots
+
+content:
+**tl;dr**
+
+If you are not using 2FA for critical accounts, then it will only be a matter of time until your account is compromised. In a [somewhat recent study by Google](https://security.googleblog.com/2019/05/new-research-how-effective-is-basic.html), they found that accounts using some kind of Authenticator app (like Duo, Google Authenticator, etc...) "helped prevent 100% of automated bots, 99% of bulk phishing attacks and 90% of targeted attacks."
+
+**How are your accounts stolen?**
+
+Within days of Disney+ launching, "thousands of the streaming service accounts were already up for sale on various hacking forums" \[[source](https://www.wired.com/story/disney-plus-hacks-credential-stuffing/)\]. This wasn't because the platform was hacked, the accounts were compromised because people reused their username/password from other accounts that have had a data breach across multiple accounts. This is called **credential stuffing**, which is the process where " You just take a set of user names and passwords that have leaked in previous breaches, throw them at a given service, and see which ones stick." In fact, there have been so many data breaches that there is now a resource floating around the darknet called "Collection 1" which contains 773 million leaked user account records \[[source](https://www.troyhunt.com/the-773-million-record-collection-1-data-reach/)\]. There is a good chance that one or more of your accounts are on that list, and it is only a matter of time before someone tries logging into one of your accounts. (A side YSK: you can check to see if your account is in one of these breaches by visiting the website [havibeenpwned](https://haveibeenpwned.com/).)
+
+But credential stuffing isn't the only way that you might have a breached account--if you handle any kind of sensitive information personally or for work, then you are likely going to be the target of **phishing** or **spear phishing** attacks (if you have not already been). According to recent 2019 stats, "76% of businesses reported being a victim of a phishing attack in the last year," and "30% of phishing messages get opened by targeted users" which means that if your account was not caught up in a large data breach, there is a real possibility that your account may be stolen directly by an adversary \[[source](https://retruster.com/blog/2019-phishing-and-email-fraud-statistics.html)\]
+
+**What is 2FA?**
+
+Two-factor authentication (2FA) is a really simple concept: you have to provide two different 'tokens' from different bands to prove that you are who you say you are. This means you can't just supply two passwords (those are both 'something you know'), instead, you should supply something you 'know' (a password) and something you 'have' (your phone.) A really common form of 2FA is where you put in a password and then you follow that up by entering in a 4-5 digit pin code that is sent to you via SMS. However, a stronger form of this would be to use an Authenticator app (like Duo, Google Authenticator, etc...) as SMS has proven to be insecure.
+
+**How effective is 2FA?**
+
+As indicated in the tl;dr section, Google paired with "researchers from New York University and the University of California, San Diego to find out just how effective basic account hygiene is at preventing hijacking." \[[source](https://security.googleblog.com/2019/05/new-research-how-effective-is-basic.html)\] In this study, they determined how digital hygiene behaviors could impact the success rates of automated bots, bulk phishing attacks, and targeted attacks. What they found wasn't surprising: the more security the account had, the harder it was to get into the account. According to the study they found that "an SMS code sent to a recovery phone number helped block 100% of automated bots, 96% of bulk phishing attacks, and 76% of targeted attacks. On-device prompts, a more secure replacement for SMS, helped prevent 100% of automated bots, 99% of bulk phishing attacks and 90% of targeted attacks."
+
+This effectively means that the attacker would need to have access to both your username/password, as well as your phone. In theory, this is perfect security. However, in reality, adversaries are adapting to try and phish both the password and SMS code. Still, experts claim that this is likely one of the best things you can add to protect your account. Even if you don't' do it everywhere, turn it on for the following:
+
+* your bank
+* you main email
+* your work account
+* your social media
+
+**I should say as a disclaimer though:** if a skilled attacker really wants to get into your account then they are likely going to be successful. But, 2FA will slow them down considerably.  
+
+
+**Edit:** a few commenters reminded me that [https://twofactorauth.org/](https://twofactorauth.org/) exists. This is a great website that includes a "List of websites and whether or not they support 2FA"  
+
+
+**Edit 2:** Thanks for the gold! I am so happy that folks find this useful and helpful!
+
+**Edit 3:** And thanks for the New Year's resolution gold! I didn't think about it, but upping your personal account security would make a great new year's resolution!
+
+url:https://reddit.com/r/YouShouldKnow/comments/eiuejn/
+author:sc0ut_0
+subreddit:YouShouldKnow
+score:17367
+numComments:548
+isOver18:False
+hasPostBody:True

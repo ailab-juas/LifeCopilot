@@ -1,0 +1,22 @@
+title:
+YSK that Wikipedia has useful summaries of world news and current affairs for every single day in recent history, with links to further reading.
+
+content:
+This dynamic page compiles events from the past week:
+
+https://en.wikipedia.org/wiki/Portal:Current_events
+
+And you can go "back in time" with */wiki/Month_Year*.
+For example:
+
+https://en.wikipedia.org/wiki/June_2012
+
+I've found this invaluable for catching up on events that pass me by, and to find relevant further reading and explanation of current issues/topics. It's also far more impartial than conventional news sources, covering the far-flung events that are considered irrelevant or un-newsworthy that might otherwise be passed by.
+
+url:https://reddit.com/r/YouShouldKnow/comments/2gduxo/
+author:mon7gomery
+subreddit:YouShouldKnow
+score:2427
+numComments:53
+isOver18:False
+hasPostBody:True

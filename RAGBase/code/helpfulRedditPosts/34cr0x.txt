@@ -1,0 +1,13 @@
+title:
+LPT: Use a seam ripper to fix up and improve the quality of your vacuum. Works well on long hair that gets caught and picked up from your carpet.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/34cr0x/
+author:favoritehello
+subreddit:LifeProTips
+score:2022
+numComments:120
+isOver18:False
+hasPostBody:False

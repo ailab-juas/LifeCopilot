@@ -1,0 +1,13 @@
+title:
+LPT: When moving house, make up the beds first when you arrive in your new place. That way, when you're completely exhausted at the end of the day, you can go straight to bed.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/bjrldc/
+author:ndab71
+subreddit:LifeProTips
+score:2098
+numComments:72
+isOver18:False
+hasPostBody:False

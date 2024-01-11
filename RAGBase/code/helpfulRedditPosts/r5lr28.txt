@@ -1,0 +1,13 @@
+title:
+LPT: If you enjoy a certain song from an artist, instead of digging through the artists songs. Instead try to find out who the producer is, and check their work out. The producer usually has a lot of say in how the song turns out.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/r5lr28/
+author:7Genius
+subreddit:LifeProTips
+score:3310
+numComments:169
+isOver18:False
+hasPostBody:False

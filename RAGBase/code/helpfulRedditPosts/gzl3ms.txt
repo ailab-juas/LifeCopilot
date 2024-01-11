@@ -1,0 +1,13 @@
+title:
+YSK that if you have gone to school the last couple months and had to study from home you can put it in your CV. Since it shows that you can work independantly and manage your own time efficiently.
+
+content:
+My principal told me this during her graduation speech and I thought it was valuable.
+
+url:https://reddit.com/r/YouShouldKnow/comments/gzl3ms/
+author:Captaincarme
+subreddit:YouShouldKnow
+score:1176
+numComments:50
+isOver18:False
+hasPostBody:True

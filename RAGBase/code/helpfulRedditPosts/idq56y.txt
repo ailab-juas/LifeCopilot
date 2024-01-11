@@ -1,0 +1,13 @@
+title:
+LPT: if you are in a car accident provide your statement to your car insurance and your car insurance only. When the other insurance company contacts you for a statement, tell them they can get your statement from your insurance and provide contact info.
+
+content:
+I’ve been through this and the other insurance company is trying to get you to accept as much fault as possible. They are recording the conversation and if it ever gets litigated, it will be submitted as evidence to argue your partial liability. This action literally saved me thousands of dollars.
+
+url:https://reddit.com/r/LifeProTips/comments/idq56y/
+author:Matsumura_Fishworks
+subreddit:LifeProTips
+score:7804
+numComments:358
+isOver18:False
+hasPostBody:True

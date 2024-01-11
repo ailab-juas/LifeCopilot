@@ -1,0 +1,29 @@
+title:
+LPT: Ever wonder why you're smart but you can't motivate yourself, push yourself, or you fall short of your goals?
+
+content:
+You've just finished a difficult problem set. It was tough, some of the other students in your class couldn't do it. You got every single one right. Your professor comes up to you, "Hey, you're very **intelligent**. Good job with the work." How does this *condition* you?
+
+The professor hands out a more difficult problem set, this time you don't get every single one right. But hey, it was more difficult so no biggy.
+
+This pattern continues and so does the conditioning. You were told that you were intelligent (enough) to correctly complete the first problem set. This gave you a static interpretation of your intelligence: "I am smarter than this problem set, however the next one I got a few wrong on so my intelligence dwindles there and eventually, with more problem sets, falls off entirely." This is how your subconscious mind sees yourself. Limited. You don't put in any more effort because you have capped out, reached the max, you are done. You give up.
+
+Now let's rethink this. Imagine the same scenario, but instead of the professor (or your parents or peers) saying to you that you are *intelligent* they instead say you are *hard working*. You have not changed, you are the same as the first scenario, but immediately your conditioning is different. Now the thing that allowed you to complete that first problem set perfectly wasn't a **static intelligence level**, but instead it was your **effort and your drive**. On the next problem set you don't look at it as beyond your intelligence, you see it as requiring a little more effort, a few more steps. You don't give up.
+
+So, when you were growing up, were you told you were intelligent or a hard worker? How do you think that reflects on you now?
+
+That is why you should always motivate children by dynamic instead of static variables if you want to see continuous improvement.
+
+Check [this](http://www.youtube.com/watch?v=TTXrV0_3UjY) video to see Carol Dweck's brief experimental synopsis or [this](http://nymag.com/news/features/27840/) New York Magazine article dealing with intelligent children not wanting to try subjects which they don't think they'd be exceptionally good at.
+Edit: Added link to NYmag and here's a tldr
+-----
+
+**TL;DR:** People who are called intelligent will be conditioned to think their ability is static, people who are called hard workers will be conditioned to think their ability is dynamic (and thus improvable).
+
+url:https://reddit.com/r/LifeProTips/comments/1z842w/
+author:shewolfer
+subreddit:LifeProTips
+score:1099
+numComments:121
+isOver18:False
+hasPostBody:True

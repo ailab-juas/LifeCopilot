@@ -1,0 +1,13 @@
+title:
+LPT: If you want to find a good surgeon, ask a physical therapist. Assuming the surgery requires rehab, they see how good or bad the results are.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5xbva9/
+author:jlhfanatic
+subreddit:LifeProTips
+score:5152
+numComments:185
+isOver18:False
+hasPostBody:False

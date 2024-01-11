@@ -1,0 +1,13 @@
+title:
+LPTR: Is there a way to turn my phone number into a number with a toll so I can charge people at my discretion for calling me? Specifically for these dozen spam calls a day
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/qbnhff/
+author:Piratey_Pirate
+subreddit:LifeProTips
+score:1980
+numComments:205
+isOver18:False
+hasPostBody:False

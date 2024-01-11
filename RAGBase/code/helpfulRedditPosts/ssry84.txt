@@ -1,0 +1,15 @@
+title:
+LPT: If you're trying to see if a purchase is really worth it, divide the price by your hourly wage. This way, you'll know exactly how many hours of your time and work youre investing into the purchase.
+
+content:
+I do this whenever I'm about to buy something dumb like video game cosmetics or some tool I'll never use. I find it useful to come at it this way.
+
+Edit: Also factor in how many hours of enjoyment youre getting per hour spent making the money
+
+url:https://reddit.com/r/LifeProTips/comments/ssry84/
+author:The_alchemist667
+subreddit:LifeProTips
+score:1920
+numComments:169
+isOver18:False
+hasPostBody:True

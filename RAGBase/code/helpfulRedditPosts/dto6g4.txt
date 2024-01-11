@@ -1,0 +1,13 @@
+title:
+LPT: when dealing with lawyers, tell them everything. Lawyers can only assist you with the information you give them, and trying to hide something from them can make your situation far worse. This is especially true with situations where you need to declare past convictions, or drugs.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/dto6g4/
+author:Terri23
+subreddit:LifeProTips
+score:18069
+numComments:545
+isOver18:False
+hasPostBody:False

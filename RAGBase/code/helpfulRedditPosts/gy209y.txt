@@ -1,0 +1,13 @@
+title:
+LPT: if you notice that someone's done a good job of something, tell them about it
+
+content:
+you brighten their day and making them feel good will make you happy too :)
+
+url:https://reddit.com/r/LifeProTips/comments/gy209y/
+author:iamfearformylife
+subreddit:LifeProTips
+score:5484
+numComments:86
+isOver18:False
+hasPostBody:True

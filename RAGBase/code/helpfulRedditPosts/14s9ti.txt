@@ -1,0 +1,13 @@
+title:
+LPT: If you ever have two or more identical keys, use different color Sharpie's along the grooves to identify. Won't smudge or fade.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/14s9ti/
+author:themadnooch
+subreddit:LifeProTips
+score:2772
+numComments:338
+isOver18:False
+hasPostBody:False

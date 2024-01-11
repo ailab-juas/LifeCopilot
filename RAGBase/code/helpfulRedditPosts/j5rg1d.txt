@@ -1,0 +1,15 @@
+title:
+LPT: Be wary of any product which advertises the cost in a "$ per day" format. This is deliberately done to fool people into thinking they can afford it.
+
+content:
+If you took time to open this, I would also like to remind everyone of basic fiscal responsibility: don't go into debt whenever it is possible to avoid it, and cut out as many monthly payments as you can. 
+
+Being able to buy everything you want has nothing to do with how much money you have, and everything to do with managing how much stuff you want.
+
+url:https://reddit.com/r/LifeProTips/comments/j5rg1d/
+author:Ender505
+subreddit:LifeProTips
+score:34791
+numComments:1142
+isOver18:False
+hasPostBody:True

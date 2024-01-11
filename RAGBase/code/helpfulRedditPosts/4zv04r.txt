@@ -1,0 +1,21 @@
+title:
+YSK The Key Differences between Epinephrine Injectors, how they work, and whether a dose was given successfully.
+
+content:
+TL:DR [Chart On Differences](http://imgur.com/a/vk0uP)
+
+[Article about differences](http://www.pharmacytimes.com/p2p/p2pepinephrine-0910)
+
+As a pharmacist, I have personally seen more interest in the Adrenaclick version of epinephrine. However, as parents, teachers, and the general public **it is important we know the differences in mechanism and whether or not the dose was given appropriately**, if we are to come across a patient in need with different versions of this life saving medication in the real world.
+
+The major argument against the "generic" version, is that the public is "trained" how to use the epi-pen and not the other versions. Now we should have no excuse.
+
+EDIT: as /u/crackhojr points out... As of May 2016, the label HAS changed to 3 seconds instead of 10 for the epipen ONLY; however, it should be known that this is due to young children who flail about during injection, who end up being cut by the needle, NOT due to the amount of medication that is injected. There is currently only one study [that discusses the 3 vs 10 second methods](http://www.ncbi.nlm.nih.gov/pubmed/21875542), and you should discuss with you Physician or Pharmacist what is most appropriate for you and your loved ones.
+
+url:https://reddit.com/r/YouShouldKnow/comments/4zv04r/
+author:D-o-Double-B-s
+subreddit:YouShouldKnow
+score:1007
+numComments:35
+isOver18:False
+hasPostBody:True

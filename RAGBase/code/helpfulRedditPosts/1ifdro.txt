@@ -1,0 +1,17 @@
+title:
+YSK about StillTasty: Your Ultimate Shelf Life Guide
+
+content:
+http://www.stilltasty.com/
+
+This website (and mobile app) has saved me lots of money. They tell you what you can freeze (like an open bottle of wine for 6 months) or refrigerate, and for how long.
+
+It's also great if you make anything yourself (things that wouldn't have preservatives in them), so you will know how long it will usually keep, or what is the best method for keeping it.
+
+url:https://reddit.com/r/YouShouldKnow/comments/1ifdro/
+author:Crossbones18
+subreddit:YouShouldKnow
+score:1014
+numComments:49
+isOver18:False
+hasPostBody:True

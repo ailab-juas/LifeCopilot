@@ -1,0 +1,14 @@
+title:
+LPT: If you're an impulse spender or find it too easy to drop money on something, translate the price of an item into the hours that you have worked to make that amount of money. It really puts in perspective the cash value of an item against the value of your time.
+
+content:
+
+
+
+url:https://reddit.com/r/LifeProTips/comments/asmp1j/
+author:kgweiro
+subreddit:LifeProTips
+score:25091
+numComments:907
+isOver18:False
+hasPostBody:True

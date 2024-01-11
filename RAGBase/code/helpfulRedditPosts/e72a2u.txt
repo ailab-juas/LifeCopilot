@@ -1,0 +1,27 @@
+title:
+LPT: Ever need another email address but don't want to register an whole new account? If you add a "+1", "+2", etc. before the @ in your email address, websites will register it as a new email, but still send mail to your normal address. Makes organizing accounts or endless free trials much easier!
+
+content:
+Example: Primary email: Bob@gmail*.*com
+
+Modified emails (all go to the primary):
+
+Bob+1@gmail*.*com
+
+Bob+2@gmail*.*com
+
+Bob+3@gmail*.*com
+
+This can be used to endlessly register for free trials like Netflix.
+
+No need to even sign into the new address because all the confirmation emails go straight to your normal account that you are already logged into.
+
+Edit: Apparently you can add anything you want after the plus sign, so you can do Bob+netflix or bob+netflix1, or whatever! Thanks for the additional tip u/PM_ME_A_PLANE_TICKET
+
+url:https://reddit.com/r/LifeProTips/comments/e72a2u/
+author:WilsonTheVolleyBawl
+subreddit:LifeProTips
+score:67909
+numComments:985
+isOver18:False
+hasPostBody:True

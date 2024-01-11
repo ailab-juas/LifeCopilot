@@ -1,0 +1,13 @@
+title:
+LPT: Using widescreen? Try arranging your browser tabs vertically, so you can have 30-40+ open at a time, and still read all their names easily!
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1h99lk/
+author:RonJeremyEinstein
+subreddit:LifeProTips
+score:1896
+numComments:550
+isOver18:False
+hasPostBody:False

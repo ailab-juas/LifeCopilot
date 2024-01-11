@@ -1,0 +1,13 @@
+title:
+YSK that if you click the “i” icon during an unskippable YouTube ad, you can click “stop showing me this ad”and hit “cancel”, so you can skip the ad
+
+content:
+Many of you, like me, hate those annoying ads on YouTube that you can’t skip. Follow this quick tip and it can save you some time and annoyance!
+
+url:https://reddit.com/r/YouShouldKnow/comments/djokfe/
+author:imastud47
+subreddit:YouShouldKnow
+score:23844
+numComments:612
+isOver18:False
+hasPostBody:True

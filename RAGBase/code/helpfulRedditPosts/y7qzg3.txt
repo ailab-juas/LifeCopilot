@@ -1,0 +1,13 @@
+title:
+LPT: Tell your family that two missed calls consecutively means it's an emergency.
+
+content:
+I can't always pick up to chat with my family, but I can drop whatever I'm doing if it's urgent. Similarly, if I call a family member twice immediately, I need them to pick up. Tell your family that two calls in a row means it's urgent, and don't double call if it's not urgent.
+
+url:https://reddit.com/r/LifeProTips/comments/y7qzg3/
+author:thousand7734
+subreddit:LifeProTips
+score:2788
+numComments:341
+isOver18:False
+hasPostBody:True

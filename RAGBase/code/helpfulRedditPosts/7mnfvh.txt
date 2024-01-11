@@ -1,0 +1,13 @@
+title:
+YSK: There is an organization called Camp Kesem that operates free summer camps for children who have been impacted by a parent/guardian's cancer
+
+content:
+Unfortunately, cancer is prolific in our society and all too often the children of adults who have passed away from, or are currently afflicted with cancer are left to cope with the devastation wrought by cancer all by themselves. If you or someone you know, with kids, has cancer or has passed away from cancer you should let them/their loved ones know about Camp Kesem. It's 100% free and an amazing support system that can make all the difference in these young kids lives(they take kids from ages 6-18).
+
+url:https://reddit.com/r/YouShouldKnow/comments/7mnfvh/
+author:localPlumbusImporter
+subreddit:YouShouldKnow
+score:4386
+numComments:110
+isOver18:False
+hasPostBody:True

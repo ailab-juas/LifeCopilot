@@ -1,0 +1,13 @@
+title:
+LPT: when hiring new employees look for someone who is teachable and has a positive attitude. Most jobs can be learned and a person with no exp is going to perform their job exactly how they were told to. Not how they used to at other companies.
+
+content:
+I've worked with so many people who want to argue about how something should be done.  "At my last company we did it like this".  You'll spend more time debating how something should be done than you would just training someone else.
+
+url:https://reddit.com/r/LifeProTips/comments/phqf9t/
+author:gratefulfred63
+subreddit:LifeProTips
+score:2827
+numComments:88
+isOver18:False
+hasPostBody:True

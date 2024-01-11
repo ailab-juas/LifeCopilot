@@ -1,0 +1,15 @@
+title:
+LPT: If you're a manager, be a mentsch. Don't contact people when they're not working unless absolutely necessary
+
+content:
+I recognize that there are times where there's some information needed NOW but most of the time a request for info isn't needed immediately, I just want to ask now so I don't forget later. But that's not a good reason to disturb someone who's off work. Instead, I compose an email and send it with delayed delivery such that it's scheduled to arrive when the person is back at work.  
+
+Voila, you haven't forgotten to get the info you needed AND you've respected work/home boundaries
+
+url:https://reddit.com/r/LifeProTips/comments/wdib7u/
+author:ShaneFerguson
+subreddit:LifeProTips
+score:2794
+numComments:220
+isOver18:False
+hasPostBody:True

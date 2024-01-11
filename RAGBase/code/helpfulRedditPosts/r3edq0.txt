@@ -1,0 +1,13 @@
+title:
+LPT: When articles are blurred out because you “need a subscription” you can highlight the text and paste somewhere else and it will not be blurred.
+
+content:
+You can also do this when the text is fully blocked if you can just start the highlight before it gets blocked.  (There’s usually a second or two before the box pops up)
+
+url:https://reddit.com/r/LifeProTips/comments/r3edq0/
+author:[deleted]
+subreddit:LifeProTips
+score:1596
+numComments:106
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+YSK that the official Wikipedia mobile app has a 'Nearby' feature which shows areas/landmarks that have their own Wikipedia page.
+
+content:
+Since I moved to Florida, I always used this app to find nearby touristy/historical locations whenever I'm away from home. You can also say you were at a place that has it's own Wikipedia page, and expand your knowledge of where you are!
+
+url:https://reddit.com/r/YouShouldKnow/comments/6hn65a/
+author:Tm23246
+subreddit:YouShouldKnow
+score:7808
+numComments:167
+isOver18:False
+hasPostBody:True

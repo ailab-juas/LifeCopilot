@@ -1,0 +1,13 @@
+title:
+LPT: To quickly cool down hot liquid like coffee or tea, simply pour it from one cup to an other a few times. This maximizes the amount liquid exposed to the air and will lower the temperature rapidly. This keeps you from waiting or having to dilute your beverage if you are in a hurry.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/3adrrh/
+author:JoRhyloo
+subreddit:LifeProTips
+score:4059
+numComments:585
+isOver18:False
+hasPostBody:False

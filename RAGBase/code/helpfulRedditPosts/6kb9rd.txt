@@ -1,0 +1,30 @@
+title:
+YSK: If you are steadily becoming paranoid, leave your house immediately and buy a CO detector.
+
+content:
+I've now heard/ read 2 different stories of people almost dying. One thought her house was haunted and asked online skeptics to prove her wrong and was saved by them. The other thought his landlord was coming in his apartment, writing post it notes, and deleting webcam files and asked reddit for legal advice.
+
+**Really just go buy one right now. If you already have one, check that it's functioning. By the time you get paranoid you could already have brain damage and won't be in a mental state to save yourself.**
+
+It's really scary. Basically gives you hypoxia without any feeling of loss of breath as you have normal CO2 levels. At that point you literally are unable to help yourself. [Go to the 5 minute mark here and see must how helpless you are on low oxygen. Really starts effecting him at 6 minutes.](https://youtu.be/kUfF2MTnqAw)
+
+Carbon monoxide poisoning symptoms:
+
+* Dull headache
+* Weakness
+* Dizziness
+* Nausea or vomiting
+* Shortness of breath
+* Confusion
+* Blurred vision
+* Loss of consciousness
+
+Edit: you are at lower risk if you have no gas in the home or areas for combustion like a fireplace. However, if you are attached to your neighbors, you don't know what they're doing and there are always [random flukes](https://www.ncbi.nlm.nih.gov/pubmed/10379009) that could cause a problem. Not to mention bad ideas like running a car inside the garage or a generator in the house/garage.
+
+url:https://reddit.com/r/YouShouldKnow/comments/6kb9rd/
+author:geak78
+subreddit:YouShouldKnow
+score:2111
+numComments:152
+isOver18:False
+hasPostBody:True

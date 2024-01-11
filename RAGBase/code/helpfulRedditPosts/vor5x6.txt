@@ -1,0 +1,17 @@
+title:
+YSK Many gas station pumps with screens showing advertisements can be muted
+
+content:
+
+
+Why YSK: Don't be trapped at the pump with ads blaring.
+
+Once you have started pumping simply try pressing any of the menu select buttons on either side of the screen to mute. Not all gas stations allow this, but I have found most in my region do. It's not always the same button, so try them all.
+
+url:https://reddit.com/r/YouShouldKnow/comments/vor5x6/
+author:Dunadain_
+subreddit:YouShouldKnow
+score:4490
+numComments:379
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: To make your graphic t-shirts last longer, turn them inside out before washing. It reduces friction between the graphic and the washer/other garments.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/pe80u6/
+author:DweadPiwateWoberts
+subreddit:LifeProTips
+score:1024
+numComments:27
+isOver18:False
+hasPostBody:False

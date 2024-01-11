@@ -1,0 +1,13 @@
+title:
+YSK: “let’s eat in, I’m trying to lose weight” is used many times when friends don’t wanna say they can’t afford to eat out.
+
+content:
+Why YSK: Don’t pressure people about going out and getting healthy food instead, take the hint and find something affordable.
+
+url:https://reddit.com/r/YouShouldKnow/comments/j70c3n/
+author:Chrono978
+subreddit:YouShouldKnow
+score:11282
+numComments:204
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: if you store boxes in a basement, put them on pallets. This will save your belongings if you get a few inches of water down there.
+
+content:
+Edit: never said wooden pallets
+
+url:https://reddit.com/r/LifeProTips/comments/dph580/
+author:quagss
+subreddit:LifeProTips
+score:19168
+numComments:392
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+YSK: Shopping at Costco
+
+content:
+When shopping at Costco if you see an asterisk in the corner of the price sign it means that product is being discontinued. If the price of an item ends in .97 it means it has been marked down in price. However, if this is done on an item without an asterisk it may mean that it is close to its expiration date
+
+url:https://reddit.com/r/YouShouldKnow/comments/15s1eb/
+author:thereareno_usernames
+subreddit:YouShouldKnow
+score:1137
+numComments:265
+isOver18:False
+hasPostBody:True

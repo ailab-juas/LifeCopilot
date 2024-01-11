@@ -1,0 +1,44 @@
+title:
+LPT: add your vehicle as a contact in your phone, to keep their details organized and accessible. Details like: license plate, VIN, address/phone/email of dealership, insurance number, financing information (including maturity date), tire sizes and PSI.
+
+content:
+Edit - I added this as a comment reply but will put it here as well:
+
+So I’m on iPhone, and my format is:
+
+First Name: Ford F-150
+
+Last Name: Lariat Supercrew (2022)
+
+Nickname: License Plate Number
+
+Phone: dealer phone number
+
+Email: dealer email
+
+Address: dealer address
+
+URL: vehicle manual
+
+Birthday: loan maturity date 
+
+I use the ‘Instant Message’ section for things like VIN, insurance number, etc. When editing that section you can customize the header, so it just reads:
+
+VIN: 123456
+
+Insurance: 78910
+
+Registration Permit: 111213
+
+Etc
+
+
+It looks really clean and simple in this format. Then I use notes at the bottom for other stuff like oil type, tire info, vehicle height.
+
+url:https://reddit.com/r/LifeProTips/comments/tm4hnx/
+author:SoupIsAHotSmoothie
+subreddit:LifeProTips
+score:5078
+numComments:193
+isOver18:False
+hasPostBody:True

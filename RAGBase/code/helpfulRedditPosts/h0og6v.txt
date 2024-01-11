@@ -1,0 +1,13 @@
+title:
+LPT: If someone doesn't appreciate something you do for them, it probably means that it isn't that important to them. Rather than stew about it or demand recognition, just add it to the list of things you don't need to do anymore.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/h0og6v/
+author:hashandamberleaf
+subreddit:LifeProTips
+score:23466
+numComments:462
+isOver18:False
+hasPostBody:False

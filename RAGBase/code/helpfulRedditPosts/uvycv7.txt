@@ -1,0 +1,21 @@
+title:
+YSK if you have a minimum wage job, the employer cannot deduct money from checks for uniforms, missing cash, stolen meals, wrong deliveries, damaged products, etc. You absolutely have to get paid a minimum wage.
+
+content:
+Why YSK: It's extremely common for employers to deduct losses from employee's checks if they believe the employee had some responsibility for that loss. In some states this is illegal as well, but overall the employer cannot do this if it means you will earn less than minimum wage.
+
+Some states enacted laws that force employers to pay out triple damages for violations of several wage laws. Most states will fine the company $1000.
+
+https://www.epi.org/publication/employers-steal-billions-from-workers-paychecks-each-year/
+
+Edit: File a complaint. It's free. You should at least need a paystub showing that they deducted money or didn't pay you minimum wage.
+
+https://www.dol.gov/agencies/whd/faq/workers
+
+url:https://reddit.com/r/YouShouldKnow/comments/uvycv7/
+author:adimwit
+subreddit:YouShouldKnow
+score:60745
+numComments:1063
+isOver18:False
+hasPostBody:True

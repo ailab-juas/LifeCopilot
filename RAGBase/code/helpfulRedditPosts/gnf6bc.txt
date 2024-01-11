@@ -1,0 +1,13 @@
+title:
+YSK: Nearly 1.7 million jack stands sold by Harbor Freight have been recalled due to risk of collapse. If you have any 6-ton or 3-ton models with the model numbers: 61196, 61197, or 56371 do not use them!
+
+content:
+My earlier post was taken down for being about social media. This time I didn't include the link. You can get a refund if you return the jack stands to Harbor Freight. Stay safe.
+
+url:https://reddit.com/r/YouShouldKnow/comments/gnf6bc/
+author:DarkRyuujin
+subreddit:YouShouldKnow
+score:21168
+numComments:656
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,19 @@
+title:
+YSK: The popular Bluetooth tracker company Tile was recently bought out by Life360, a company whose business model was primarily rooted in selling the location data of its 31 million customers including children
+
+content:
+[Source](https://www.theverge.com/2021/12/9/22820381/tile-life360-location-tracking-data-privacy)
+
+**Why YSK**: Many people bought Tiles over the years because they wanted a good quality convenient bluetooth tracking device for their keys or valuables. With the introduction of Apple's Airtags and Galaxy SmartTags, Tile has been under a lot of pressure with their extremely limited network. Now that their parent company has switched to one whose philosophy is radically different, those who bought Tiles in the past should reconsider if they want to continue using those products and potentially lose out on a large part of their privacy.
+
+Also something Tile customers may want to know is that Mark Zuckerberg's sister sits on Life360's [board of directors](https://investors.life360.com/investor-relations/?page=board-of-directors).
+
+It is worth noting that when asked about the parent company change, a Tile representative stated, "Tile does not sell/monetize personal data and we have Life360’s full support and commitment to continue that," but that remains to be seen.
+
+url:https://reddit.com/r/YouShouldKnow/comments/rofvya/
+author:TheRavenSayeth
+subreddit:YouShouldKnow
+score:8260
+numComments:169
+isOver18:False
+hasPostBody:True

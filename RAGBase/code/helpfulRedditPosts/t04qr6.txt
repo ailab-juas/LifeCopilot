@@ -1,0 +1,13 @@
+title:
+LPT: if you're dining at a restaurant and the host/server/bartender doesn't seem too smiley and happy, it's possible they are just having a bad day. Maybe their dog just died or something, or maybe they're depressed. Don't crucify them on Yelp.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/t04qr6/
+author:[deleted]
+subreddit:LifeProTips
+score:1220
+numComments:122
+isOver18:False
+hasPostBody:False

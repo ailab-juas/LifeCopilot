@@ -1,0 +1,17 @@
+title:
+LPT: If you want to save time and money, the most important things to look out for are the recurring ones
+
+content:
+People often do not intuitively realise how smaller amounts of expenses (this applies both to money and to time) add up dramatically over long periods.
+
+For example, if you can avoid spending $1 on something every day, it would amount to more than $20,000 of savings over an average adult lifetime. If you can save one minute on (not) doing something every day, it would amount to two weeks' worth of time over the lifetime.
+
+If you're evaluating and trying to optimise your budget and your time, consider the recurring events with the highest scrutiny before everything else.
+
+url:https://reddit.com/r/LifeProTips/comments/ufwxyd/
+author:tskir
+subreddit:LifeProTips
+score:1888
+numComments:117
+isOver18:False
+hasPostBody:True

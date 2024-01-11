@@ -1,0 +1,13 @@
+title:
+YSK: Medicaid requires a 30-day waiting period between time of consent and time of procedure for a tubal ligation
+
+content:
+Why YSK: given the current state of affairs in the USA, many women might be concerned about losing access to contraception in the near future. If they’re on Medicaid and are interested in sterilization, it would be prudent to start making appointments and signing documents as soon as possible to get the ball rolling on that process
+
+url:https://reddit.com/r/YouShouldKnow/comments/uigmhi/
+author:Ninjas-and-stuff
+subreddit:YouShouldKnow
+score:9212
+numComments:518
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,18 @@
+title:
+LPT: How to get free internet on US Airways flights
+
+content:
+I accidently discovered this little trick while flying yesterday and I'm almost hesitant to share it for fear that the airline will notice and fix it. But it's just too good not to share. 
+
+I don't know if this applies to every US Airways flight, but this is for those flights that do not have any televisions and the airline lets you order and watch movies on your own devices. But in order to play the movies on your phone or tablet, the site will ask if you have the Gogo Video Player App. Full disclaimer, I was using an iPhone, though I would imagine this works for all devices but I haven't tested it. Now, if you don't have the app, it will connect you to the App Store and let you download it. Hit download and this is the moment when it seems to give you access to the internet, not just the App store! It seems to give you about a ten minute window of connection. I had no problem browsing reddit, getting text messages, etc. It may just be ten minutes, but considering they want an obsene amount of money for just thirty minutes, it's not too shabby. And the beautiful part is you can keep repeating the process. Just delete the app, and start again. 
+
+Enjoy your free in flight internet!
+
+
+url:https://reddit.com/r/LifeProTips/comments/3gqvyy/
+author:dollinsdv
+subreddit:LifeProTips
+score:6060
+numComments:825
+isOver18:False
+hasPostBody:True

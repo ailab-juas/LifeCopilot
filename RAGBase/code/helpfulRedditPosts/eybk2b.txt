@@ -1,0 +1,29 @@
+title:
+YSK There is nothing "essential" about essential oils, it just means the "essence" of something, and that's not even a dictionary definition.
+
+content:
+[https://en.wikipedia.org/wiki/Essential\_oil](https://en.wikipedia.org/wiki/Essential_oil)
+
+It's a misleading term because there are "essential" vitamins and minerals and without them you'll ultimately die. Oxygen is "essential" to human survival. 
+
+But "essential" oils are just oils, they are not "essential" as is commonly used.  In fact, if you read [the dictionary definition](https://www.merriam-webster.com/dictionary/essential) of essential there is absolutely no reference to essence derived. 
+
+The National Institute of Health has studied "essential" oils, here's [a good meta analysis with links to the various studies](https://www.ncbi.nlm.nih.gov/books/NBK65874/).  For sure, these are not benign agents. 
+
+You have somethings that can be [hopefully viewed](https://www.ncbi.nlm.nih.gov/books/NBK65874/):
+
+&gt;On the basis of the available information, it can be concluded that EOs  have the potential to be developed as preventive or therapeutic agents  for various oral diseases, but further clinical trials are required to  establish their safety and efficacy. 
+
+And other things that show [some down sides](https://www.ncbi.nlm.nih.gov/pubmed/26353172):
+
+&gt;Exposure to estrogenic substances, such as lavender, should be explored  in children presenting with prepubertal gynecomastia/thelarche. 
+
+Either way, non of it is essential.
+
+url:https://reddit.com/r/YouShouldKnow/comments/eybk2b/
+author:BallsOutKrunked
+subreddit:YouShouldKnow
+score:1212
+numComments:59
+isOver18:False
+hasPostBody:True

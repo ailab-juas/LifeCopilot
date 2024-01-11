@@ -1,0 +1,13 @@
+title:
+YSK: Fruit and produce PLU codes
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/y7acb/
+author:[deleted]
+subreddit:YouShouldKnow
+score:1643
+numComments:283
+isOver18:False
+hasPostBody:False

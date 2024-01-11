@@ -1,0 +1,13 @@
+title:
+YSK when upgrading to Windows 10, the Solitaire, Minesweeper and Hearts games will be removed as part of installing the Windows 10 upgrade.
+
+content:
+[Brace](https://www.microsoft.com/en-US/windows/windows-10-specifications#featdep).
+
+url:https://reddit.com/r/YouShouldKnow/comments/4bt3kf/
+author:magicfab
+subreddit:YouShouldKnow
+score:2719
+numComments:276
+isOver18:False
+hasPostBody:True

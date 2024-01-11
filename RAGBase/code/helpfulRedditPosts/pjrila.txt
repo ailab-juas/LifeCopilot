@@ -1,0 +1,13 @@
+title:
+YSK that if your Apple device doesn’t bring you to your WiFi login website page (such as an airport or school), you can type captive.apple.com and it’ll bring it up.
+
+content:
+Why YSK: Sometimes your Apple device doesn’t bring up the WiFi login portal.
+
+url:https://reddit.com/r/YouShouldKnow/comments/pjrila/
+author:AlarmingAthlete4386
+subreddit:YouShouldKnow
+score:7768
+numComments:107
+isOver18:False
+hasPostBody:True

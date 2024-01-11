@@ -1,0 +1,13 @@
+title:
+LPT: If you're watching a video that's required for school/college and really aren't liking it, just increase the speed. It might take a little getting used to but once you get the hang of it, you can watch boring vidoes two times faster.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ds3oka/
+author:MrFahrenheit1o1
+subreddit:LifeProTips
+score:32208
+numComments:660
+isOver18:False
+hasPostBody:False

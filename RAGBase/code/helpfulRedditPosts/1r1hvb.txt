@@ -1,0 +1,13 @@
+title:
+LPT: Set your "home address" on your GPS to an address close to your home or a cross street
+
+content:
+This is so if your car is stolen with your GPS inside, the thief won't know exactly where you live. Same reason pink slips and your vehicle registration should be kept on your person. I've heard of some recent stories with a couple at a sporting event, and their car is stolen while they're at the game. The thieves steal the car, bet on no one being home, and they have a very good idea when the game will end, allowing them to rob your house as well. 
+
+url:https://reddit.com/r/LifeProTips/comments/1r1hvb/
+author:RationalSocialist
+subreddit:LifeProTips
+score:1604
+numComments:644
+isOver18:False
+hasPostBody:True

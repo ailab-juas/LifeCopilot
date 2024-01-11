@@ -1,0 +1,14 @@
+title:
+LPT: keep a sock filled with cat litter inside your car to avoid winter frost
+
+content:
+Growing with harsh winters, inside frost is what I consider the worst, doing this prevents the inside of your windows from fogging up and avoid that annoying inside frost. The litter will absorb the moisture created from the melting snow inside your car, avoiding the humidity from sticking to your windows and freeze overnight.
+Simply fill a cotton sock with litter, tape it shut and leave it in your car, place it on the dashboard for best results.
+
+url:https://reddit.com/r/LifeProTips/comments/rzsx3w/
+author:ElDougy
+subreddit:LifeProTips
+score:3091
+numComments:318
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,44 @@
+title:
+YSK - The Equifax breach impacts YOU whether your identity was stolen or not. It is safer to assume you ARE compromised and impacted by the breach.
+
+content:
+*This is mostly for the US, Canada, and UK*  
+  
+If you were like me, I put the Equifax breach on the backburner when it first came out, which was dangerous of me to be used to 'breach fatigue'. The free credit monitoring service offered by Equifax is by TrustedId, which is a subsidiary of Equifax acquired in 2012 and the 'free' service is only for good for one year. Some folks are unsure if it's a good idea to use their services now it's been a couple months since the breach. This could just be another way for them to earn revenue after the 'free' credit monitoring service is up, people may feel the need to pay for their services. The 'free' service offer expires Jan 31, 2018 so you do no harm by registering. I'm not signing up for it because I don't expect to apply for credit anytime soon but instead doing a credit freeze (more on that next paragraph). A credit monitoring service like TrustedID is only good in helping you recover from identity theft which basically means these services do not prevent thieves from using your identity to open new lines of credit, and from damaging your good name for years to come in the process. The most you can hope for is that credit monitoring services will alert you soon after a thief *DOES* steal your identity.  
+  
+If you are truly concerned, the BEST thing you can do is go for a security freeze on your credit (also known as credit freeze) - not a security lock (important!) since it's not the full credit freeze. The fee ranges from $0 to $15 per bureau, depending on what state you are in. It's recommended to put a freeze at all four credit bureaus: [Equifax](https://www.freeze.equifax.com/
+), [Experian](https://www.experian.com/freeze/center.html), [TransUnion](https://freeze.transunion.com/sf/securityFreeze/landingPage.jsp), and [Innovis](https://www.innovis.com/personal/securityFreeze). Be sure to keep track of the logon/password/security information you create when you go through the process; you need it if you want to unlock access if you apply for credit anywhere. If you want to be extra careful, check out the last two Q&amp;A's in security writer Brian Kreb's [post](https://krebsonsecurity.com/2017/09/the-equifax-breach-what-you-should-know/).  
+  
+Another thing you need to do is periodically order a free copy of your credit report. By law, each of the three major credit reporting bureaus must provide a free copy of your credit report each year — via a government-mandated site: [annualcreditreport.com](https://www.annualcreditreport.com/). The best way to take advantage of this right is to make a notation in your calendar to request a copy of your report every 120 days, to review the report and to report any inaccuracies or questionable entries when and if you spot them. Avoid other sites that offer “free” credit reports and then try to trick you into signing up for something else.  
+  
+-----------------------------------------
+  
+To get up to speed with all of this, I suggest reading these reliable sources I used to inform myself and the info above. The [NY Times article](https://www.nytimes.com/interactive/2017/your-money/equifax-data-breach-credit.html) is probably the most comprehensive (and was recently referenced to in an article as recent as Dec)
+  
+Some solid [advice from Forbes](https://www.forbes.com/sites/lawrencelight/2017/10/02/6-things-not-to-do-post-equifax/) on what NOT to do
+  
+Security writer Brian Krebs has an [excellent Q&amp;A guide](https://krebsonsecurity.com/2017/09/the-equifax-breach-what-you-should-know/)  
+  
+[Some FAQ about Credit Freezes from the FCC](https://www.consumer.ftc.gov/articles/0497-credit-freeze-faqs)
+
+[Costs of credit freezes](http://consumersunion.org/research/consumers-unions-guide-to-security-freeze-protection-2/)
+  
+Would suggest doing this as well -- [protecting your bank accounts](https://www.usatoday.com/story/tech/columnist/komando/2017/11/03/equifax-data-breach-how-to-protect-your-bankccount/803001001/)
+  
+-----------------------------------------
+  
+**Edit #1:** Whoah, this blew up, glad I could finally give back to you guys... and I just found this sub today, *sorry!* Thanks to folks from LPT for recommending to post here!  
+  
+**Edit #2:** Some of you have mentioned that there's a fifth major credit bureau, [ChexSystems](https://www.chexsystems.com/). Thousands of banks rely on ChexSystems to verify customers that are requesting new checking and savings accounts, and ChexSystems lets consumers place a security alert on their credit data to make it more difficult for ID thieves to fraudulently obtain checking and savings accounts.  
+  
+**Edit #3:** Did some more research and apparently there are [*nearly 40 credit reporting agencies*](https://wallethub.com/edu/credit-reporting-agencies/25518/) in the U.S. -- however, most financial services companies, employers, landlords, etc, don’t rely on these alternative credit reporting agencies nearly as much as the major credit bureaus.  
+  
+**Edit #4:** Getting late over here, I'd love to answer all of your questions but **fair disclaimer**, I am *by no means an expert* and am learning all of this on the fly. Will try and answer to the best of my ability in the am.
+
+url:https://reddit.com/r/YouShouldKnow/comments/7r5xpf/
+author:abrewo
+subreddit:YouShouldKnow
+score:10307
+numComments:387
+isOver18:False
+hasPostBody:True

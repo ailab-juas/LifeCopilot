@@ -1,0 +1,18 @@
+title:
+YSK That AT&amp;T is Changing/Upgrading Wireless Data Plans When Your Next Billing Cycle Begins
+
+content:
+I have logged on to my account to just check on my bill and I see that there are 4 alerts (one for each of my lines) about the changes coming to effect on July 03, 2018 (my billing cycle begins on that date). I try the 'Chat' option and get an agent and they explain that starting from next billing cycle, all the grandfathered mobile share data plans will be upgraded to get double the data for an additional cost of $5 ($3.75 as I have some discount from my employer). I have a weird plan of 6 GB (Started with 1 GB, then went to 3 gb and some how ended up with 6 GB) and from my next cycle, I will get 12 GB for an additional $5 before any discounts and taxes.
+
+The agents words as per the saved conversation "This is actually a promotion which will roll up for our customers who are still
+on the Grandfathered / Retired plan Mobile Share Advantage plans- which means it is no longer available from our system but our customers which has it can keep it. The promo is that it DOUBLES the GB you have. So let's say we're on the 6GB plan, it will then be for 12GB for with a price difference of $5. This update will automatically be completed on all of our customer's account under the old Mobile Share Advantage. The reason behind the update is because maintaining the retired plans takes up more operational expenses for them to still exist. Based on your usage and the cost compared to the other plans available, it would still be more cost effective to keep the plan with Twice-As-Much data."
+
+It may differ for some of you, so please contact AT&amp;T for any questions. My knowledge is limited to my plan and the very little info I was given.
+
+url:https://reddit.com/r/YouShouldKnow/comments/8qwclc/
+author:TA010122
+subreddit:YouShouldKnow
+score:3748
+numComments:324
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,29 @@
+title:
+YSK You can find and download anything (song, movies, ebook, ...) in record time just with google.
+
+content:
+Just type this :
+?intitle:index.of?**mp3** **sweet_home_alabama**
+Just replace the type of file you want to find, and of course the name of the file (with any punctuation replaced by_an_underscore).
+
+Some examples : 
+
+- **intitle:index.of?avi game_of_thrones_S01E01** 
+- **intitle:index.of?pdf Harry_Potter**
+- **intitle:index.of?mp3 How_we_kill_stars**
+
+
+
+EDIT : [source](http://lifehacker.com/339474/top-10-obscure-google-search-tricks) (number 3)
+
+EDIT² : ~~Actually I got an idea : Any programmer capable of building an extension (for chrome or firefox) based on that trick ? Like adding a option to the right-click menu when a text is selected ? Would be awesome~~
+
+FINAL EDIT : Big thanks to /u/RitchieThai for the chrome extension, you can find it [here](https://chrome.google.com/webstore/detail/find-file-of-selection/nbicdolenaldneehppakaedkhbboeben). There is a [bookmarket version](http://www.reddit.com/r/YouShouldKnow/comments/2586l9/ysk_you_can_find_and_download_anything_song/chetrhs) of this trick if you prefer.
+
+url:https://reddit.com/r/YouShouldKnow/comments/2586l9/
+author:HereIsAbigail
+subreddit:YouShouldKnow
+score:2049
+numComments:247
+isOver18:False
+hasPostBody:True

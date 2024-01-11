@@ -1,0 +1,15 @@
+title:
+LPT: If you reset your password on a website and they send you your actual password, stop using that website.
+
+content:
+This means they are storing your password in plain text and if they get broken into someone will be able to immediately see everyone’s passwords. Also, if you are using that password on any other site change them all now. 
+
+Edit: I’m still a security noob and assume it meant they were storing plain text passwords if they send you your password. Apparently they just don’t have them hashed properly, which is still a bad thing. Bottom line, use a password manager and generator to use different passwords for every website. Yes it’s a pain in the ass but how much of a pain would it be to recover a hacked bank account? 
+
+url:https://reddit.com/r/LifeProTips/comments/9220os/
+author:dcast777
+subreddit:LifeProTips
+score:4099
+numComments:374
+isOver18:False
+hasPostBody:True

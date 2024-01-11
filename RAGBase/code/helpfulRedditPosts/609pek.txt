@@ -1,0 +1,17 @@
+title:
+LPT: Ask successful people about their failures and mediocre people about their successes
+
+content:
+This advice isn't good if you're looking to get rich quick or jump ahead in line. Or if you want to get lucky in life or catch a good break. 
+
+It's tempting to try and ask successful people how they got there in an attempt to replicate their success. However, often the most successful people you know will have had some help in life or a lucky break somewhere but will find it hard to recognise or externalise the importance of that crucial moment. Instead, they will attribute their success to their own hard work or misattribute their success to a different moment that just happens to stick out in their mind due to their personal role in defining that moment. But their failures are something genuine to learn from. That time they missed the bus, went to the wrong meeting, or whatever and it was that cost them a major setback. Those are the best moments. Moments of strength and perseverance. Those are takeaways in how to overcome adversity.  How to avoid making that bad choice.
+
+Conversely, often those with mediocre paths will have opposite stories. They'll easily focus on the bad breaks or negative reactions. And often times some of that is truly due to some bad luck or bad timing. You can't learn how to avoid bad luck. But if you can get them talking about their proudest moments you can learn something about what's important to them. And you can see how the little things have mattered. It can give you some important perspectives about what to truly focus on to be a success. 
+
+url:https://reddit.com/r/LifeProTips/comments/609pek/
+author:MailOrderHusband
+subreddit:LifeProTips
+score:2773
+numComments:138
+isOver18:False
+hasPostBody:True

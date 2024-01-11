@@ -1,0 +1,19 @@
+title:
+YSK: Amazon deal price may not be a discount
+
+content:
+This time of year, many folks are looking for deals online, Amazon being a favorite of mine personally. Many items will show a discount next to the price (like -20% or -60%). You should know that discount may not be as awesome as it seems. Many times the item's price was increased days before then discounted back to the original price so that now it shows the -% discount. 
+
+I personally use a browser plug in called Keepa that shows a graph of the price of items in the Amazon item page so you can see for yourself if the discount is real or not. It works on eBay also. You can learn more at [keepa.com](https://keepa.com). 
+
+I am in no way associated with this app so this is not a self promotion. I just thought others may find it useful to see if a deal was a discount or not.
+
+Why YSK: advertised price and discount on Amazon may not be a deal after all.
+
+url:https://reddit.com/r/YouShouldKnow/comments/z6fpmw/
+author:7001man
+subreddit:YouShouldKnow
+score:9472
+numComments:353
+isOver18:False
+hasPostBody:True

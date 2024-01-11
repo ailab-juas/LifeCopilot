@@ -1,0 +1,13 @@
+title:
+LPT: Start a memory box now if you haven't already. Your future self and kids will thank you for it.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/4uiixo/
+author:ghostyj
+subreddit:LifeProTips
+score:3471
+numComments:430
+isOver18:False
+hasPostBody:False

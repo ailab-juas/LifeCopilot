@@ -1,0 +1,19 @@
+title:
+YSK borrowing books from UK and Irish libraries directly supports the author
+
+content:
+You don't have to buy a book to help!
+
+Assuming the author is registered for Public Lending Right (https://www.plr.uk.com), which many are, they will regularly receive a cheque that correlates to how many times their books were loaned out in libraries across the country.
+
+Many authors rely on their income from PLR to keep going, and the money they receive can be a huge boon. I know for a fact there are some great second and third books out there that wouldn't exist without it.
+
+The money comes from a government fund, so it's really important to visit libraries and make sure your local MP knows you want your local library to stay open!
+
+url:https://reddit.com/r/YouShouldKnow/comments/4rzser/
+author:Nigey_Nige
+subreddit:YouShouldKnow
+score:3590
+numComments:83
+isOver18:False
+hasPostBody:True

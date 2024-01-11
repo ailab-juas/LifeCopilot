@@ -1,0 +1,13 @@
+title:
+LPT: If you want an elderly person who'd have trouble with smart phones to take a photo of you, set the photo app timer to 10 seconds, press the button before giving them the phone and tell them to just point the phone so they can see you in the screen. You can even count down together.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/ep3fnv/
+author:[deleted]
+subreddit:LifeProTips
+score:1486
+numComments:23
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,17 @@
+title:
+YSK about Indiana University's CogSci Movie Index - a massive collection of thought-provoking films
+
+content:
+A great alternative to watching Inception for the 20th time :)
+
+Some sample categories: philosophy, AI, neuroscience, psychology, perception, evolution, virtual reality
+
+https://www.indiana.edu/~cogfilms/index.php
+
+url:https://reddit.com/r/YouShouldKnow/comments/6ptcwy/
+author:FKIT_BAYLIFE
+subreddit:YouShouldKnow
+score:1985
+numComments:74
+isOver18:False
+hasPostBody:True

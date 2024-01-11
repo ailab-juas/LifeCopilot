@@ -1,0 +1,17 @@
+title:
+YSK that you can tell Google how to handle your account if you stop logging in.
+
+content:
+You can go to [Google's Inactive Account Manager](https://www.google.com/settings/account/inactive) and tell Google who to allow access to your account if you don't log in for at least 3 months. (You can adjust the waiting period up to 18 months.)
+
+While its not a "fun" feature, its a good way to make sure your spouse or significant other can access your account if something ever happens to you. (Assuming you want them wandering through your emails.)
+
+While there is likely some stuff in my main email account that I would prefer people not to see, there is too much online accounts, purchase history information, and details on my kids assorted accounts that is important to just let the account be locked out forever.
+
+url:https://reddit.com/r/YouShouldKnow/comments/3r98dr/
+author:quockerwodger
+subreddit:YouShouldKnow
+score:1469
+numComments:72
+isOver18:False
+hasPostBody:True

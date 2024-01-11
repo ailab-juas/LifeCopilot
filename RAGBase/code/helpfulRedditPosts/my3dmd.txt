@@ -1,0 +1,23 @@
+title:
+YSK common types of small fires, how to put them out, and how to operate a fire extinguisher. On TV people run out of the house during a small fire but good practice can save your home. Always call 911 if you are in danger or the fire has already spread.
+
+content:
+Why YSK: How to recognize and put out small fires because many can be prevented from causing major damage or harm before they spread. Here are some of the most common and how to put them out: 
+
+Class A Fires: This type of fire ignites from common fuel sources, like wood, trash, fabric, paper and plastics.  Extinguish with Water or a Red Fire Extinguisher.   
+
+Class B Fires: Result from an explosion of flammable liquids or gases. Extinguish by Depleting Oxygen. Smother but never try to put water on these fires as it will make the fire grow.   
+
+Class C Fires: Result from electricity. Extinguish by removing the power source. Know where your houses main breakers are. Use a red extinguisher to suppress flames once the electricity is out.   
+
+Class K Fires: Result from grease, lard, olive oil, butter, animal fats and vegetable fats. Do NOT extinguish with water as it will spread extremely fast. Use only a Chemical Fire Extinguisher. If you do not have one do not try to put out this fire alone. These flames burn extremely hot and spread fast. Call the fire department immediately and leave the area.
+
+One more tip: Many people don’t know that fire extinguishers can’t just be left under a cabinet indefinitely without some maintenance. Look at the gauge and make sure it’s in the green square. It it’s moving out of the green or starting to rust or leak, call your local FD on a non-emergency line and ask if they service extinguishers. Some do. The one I did was happy to as the community safety is the FD’s priority. Other than that they can tell you where to go in your community.
+
+url:https://reddit.com/r/YouShouldKnow/comments/my3dmd/
+author:Squaragus_Asparagus
+subreddit:YouShouldKnow
+score:4816
+numComments:113
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: when eating a big greasy burger that's falling apart, turn it upside down. The top bun is thicker and usually supports the weight of the ingredients better.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1cjahu/
+author:kvnmahan
+subreddit:LifeProTips
+score:1820
+numComments:354
+isOver18:False
+hasPostBody:False

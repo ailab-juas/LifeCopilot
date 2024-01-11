@@ -1,0 +1,13 @@
+title:
+LPT: Learn to identify "Recreational Eating" in your life, and to moderate it the way you do other forms of recreation. It can help shape/re-shape the way you approach eating and ultimately your health in general.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/eqr256/
+author:muzau
+subreddit:LifeProTips
+score:1929
+numComments:120
+isOver18:False
+hasPostBody:False

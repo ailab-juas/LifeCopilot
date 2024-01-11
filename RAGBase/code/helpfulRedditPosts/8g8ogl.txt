@@ -1,0 +1,13 @@
+title:
+LPT; If you get someone to talk about themselves, they'll think you're incredibly interesting.
+
+content:
+People have a tendency to have a better impression of those that engaged them in a topic that really interests them.  If you can figure out a topic that they seem keen to talk about, roll with it, and they'll like you more in the future.
+
+url:https://reddit.com/r/LifeProTips/comments/8g8ogl/
+author:55North
+subreddit:LifeProTips
+score:3033
+numComments:142
+isOver18:False
+hasPostBody:True

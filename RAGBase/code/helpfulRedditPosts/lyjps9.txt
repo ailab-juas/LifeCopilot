@@ -1,0 +1,13 @@
+title:
+YSK: If you ever decide to play Monopoly, play The Lord Of The Rings version of the board game
+
+content:
+Why YSK: This version actually has an ending! The game includes an extra piece that you place on the board, the One Ring. On one of the die the 1 is replaced with the eye of Sauron. Every time a player rolls this particular die eye-side-up, the ring moves forward one space. If the ring makes its way around the board and lands on Mount Doom (Boardwalk) the game ends and whoever has the most money/property value is declared the winner.
+
+url:https://reddit.com/r/YouShouldKnow/comments/lyjps9/
+author:DBoaty
+subreddit:YouShouldKnow
+score:1072
+numComments:86
+isOver18:False
+hasPostBody:True

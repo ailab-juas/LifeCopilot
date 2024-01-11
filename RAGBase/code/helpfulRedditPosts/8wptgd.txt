@@ -1,0 +1,13 @@
+title:
+LPT: Don’t use the iOS screen capture drawing tool to censor private information because it can be uncovered simply by changing contrast in a photo editor
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/8wptgd/
+author:MrElectroman3
+subreddit:LifeProTips
+score:2927
+numComments:115
+isOver18:False
+hasPostBody:False

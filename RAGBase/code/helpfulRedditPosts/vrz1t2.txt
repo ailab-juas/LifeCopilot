@@ -1,0 +1,13 @@
+title:
+LPT: If you are submitting a message through a website, always copy the text first, so that if the submission doesn’t go through for whatever reason, you can just paste the text instead of having to retype it all.
+
+content:
+There were many times where I would type a message to a company of several paragraphs and then the page crashed for whatever reason without submitting the message, and I had to start all over.  Now, I copy any text before submitting, so that if I need to resubmit, all I need to do it paste.
+
+url:https://reddit.com/r/LifeProTips/comments/vrz1t2/
+author:Princ3ssgldy
+subreddit:LifeProTips
+score:3249
+numComments:59
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+YSK the ‘Case of the Mondays’ is real - You’re more likely to make mistakes on Monday
+
+content:
+[Study shows](http://blog.boomerangapp.com/2016/12/be-careful-sending-emails-on-mondays/) that people are more likely to make mistakes on Monday, and that emails sent on Monday, on average, are the most negative.
+
+url:https://reddit.com/r/YouShouldKnow/comments/5j9dzy/
+author:cokodude
+subreddit:YouShouldKnow
+score:1719
+numComments:86
+isOver18:False
+hasPostBody:True

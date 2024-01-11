@@ -1,0 +1,17 @@
+title:
+LPT: You can opt-out of Reddit using your data, and collecting info from 3rd parties, for targeted advertisements.
+
+content:
+I know it's a fairly common thing these days but if you're like me and signed up several years ago you probably never noticed the change in targeted advertisements and 3rd party data sharing settings. 
+
+They can be changed here: [https://www.reddit.com/personalization](https://www.reddit.com/personalization)
+
+Edit: Oh, er... that kinda blew up a bit. Thanks for the gold Dr Smartass. 
+
+url:https://reddit.com/r/LifeProTips/comments/8zfo45/
+author:jimmcfartypants
+subreddit:LifeProTips
+score:17306
+numComments:503
+isOver18:False
+hasPostBody:True

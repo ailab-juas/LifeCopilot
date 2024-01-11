@@ -1,0 +1,21 @@
+title:
+LPT: 15 years Repairing Electronics Here: With Liquid Damaged Electronics, DON'T Use Rice, Instead Use A Fan (explanation inside)
+
+content:
+I've spent nearly 20 years repairing liquid/water damaged electronics. More specifically, cell phones. In the old days, we'd open the phones up, clean the corrosion, resolder, etc. Recently, they've (the manufacturers) moved away from local repairs and moved more towards warranty replacements, swap outs (FRU = factory replacement units) &amp; insurance. Now if you want your electronics repaired locally, you have to visit 3rd party independent people since you can no longer have it done in a corporate-ran store.
+
+I know rice is the go-to recommendation for water damaged phones and other electronics, and it works, to an extent. It will **passively** absorb moisture. Unfortunately, you don't want to passively absorb the moisture, you want to *actively* **remove** the moisture as quickly as possible.  The longer the moisture is sitting on those circuit boards, the higher the risk of corrosion. And corrosion on electrical components can happen within just a few short hours. If the damage isn't severe, we'd take contact cleaner (essentially 92% or better rubbing alcohol, the higher the percentage, the quicker it will evaporate) and scrub the white or green powder (the corrosion that formed) with a toothbrush to remove it. If that corrosion crosses contacts, it can cause the electronics to act up, fail or short out. The liquid itself almost never is directly responsible for failed consumer electronics, it's the corrosion that takes place after the fact (or the liquid damaging the battery, a new battery fixes this issue obviously). 
+
+Every time I see someone recommend rice I kinda twinge a little inside because while it does dry a phone out slightly better than just sitting on a counter, it really doesn't do much to prevent the corrosion that's going to be taking place due to the length of time the liquid has had to fester inside the phone or whatever. 
+
+What you want to do is set the item in front of a fan with constant airflow. Take the device apart as much as you can without ruining it (remove the battery, etc) so that the insides can get as much airflow as possible. Even if it's not in direct contact with the air, the steady air blowing over the device will create a mini vacuum effect and pull air from inside. It's just a small amount but it's significantly better than just allowing the rice to passively absorb the evaporated moisture. True, rice can act as a desiccant, but a fan blowing over whatever is orders of magnitude faster. 
+
+I personally will take apart a piece of electronics completely, and put those items in front of a fan, and if you have the relevant knowledge, I highly recommend doing so as well. But if you don't, it's not that big of an issue. What you want to avoid at all costs, however, is **heat**. Do not put your phone inside an oven or hot blow dryer, heat can damage electronics just as bad as liquid, sometimes more so. Heat, extreme cold and liquid are bad for electronics &amp; cell phones. A fan (lots of airflow) is 99 out of 100 times better at removing moisture quickly than rice. I would say 100 out of 100 but I'm sure there's going to be some crazy situation or exception I haven't thought of that someone will come in and point out. I'd like to remind people that exceptions are just that, they don't invalidate the rule. 
+
+url:https://reddit.com/r/LifeProTips/comments/6fdljr/
+author:QnA
+subreddit:LifeProTips
+score:16495
+numComments:929
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+LPT: If your laundry doesn't smell fresh, you might need to wash your washer.
+
+content:
+Detergent doesn't clean the laundry. The items are cleaned by water and agitation. The detergent just breaks the surface tensions. Using more than about a 'pod' of detergent can cause some weird buildup of enzymes in your washer that actually makes your laundry stink. 
+
+To get things back to fresh, run your empty washer through a cycle with hot water and bleach. Then cut way back on the amount of detergent you are using or switch to pods.  If you want scented laundry, use fabric softener or scent beads.
+
+url:https://reddit.com/r/LifeProTips/comments/ziqgo6/
+author:callasgallery
+subreddit:LifeProTips
+score:13209
+numComments:725
+isOver18:False
+hasPostBody:True

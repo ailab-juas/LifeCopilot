@@ -1,0 +1,13 @@
+title:
+LPT: When you get unwanted calls, save them as a contact under the name "Spam1, Spam2, Spam 3 etc... That way you don't have to keep answering the phone every time. Works for me!
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/3imduh/
+author:flored61
+subreddit:LifeProTips
+score:1154
+numComments:288
+isOver18:False
+hasPostBody:False

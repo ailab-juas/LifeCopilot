@@ -1,0 +1,40 @@
+title:
+LPT: Potatoes are cheaper than Ramen, have more nutritional value, and will keep you full longer
+
+content:
+https://en.wikipedia.org/wiki/Potato#Nutrition
+
+Edit:
+
+1. Font page! Holy smokes! Thank you :)
+
+2. I'd like to take this moment of fame and leave this recipe book for eating cheap and healthy. Discovered it a while ago on NPR.
+
+http://www.leannebrown.com/
+
+
+3. I would like the comments put into categories and submitted to r/dataisbeautiful
+
+* Irish jokes
+
+* The Martian references
+
+* Latvia jokes
+
+* Lord of the Rings references
+
+* Stories/recipes
+
+* Pseudoscience claims about how potatoes are bad for you
+
+* Claims about how potatoes are too hard to cook
+
+
+
+url:https://reddit.com/r/LifeProTips/comments/3vkih2/
+author:RickHadANubianGoat
+subreddit:LifeProTips
+score:6352
+numComments:2720
+isOver18:False
+hasPostBody:True

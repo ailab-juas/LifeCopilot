@@ -1,0 +1,14 @@
+title:
+LPT: When a child hands you something to read, read it aloud. This will reinforce that you read it, and actually care.
+
+content:
+i’m talking things like cards, school projects they want to show you, or small hobbies they may have. if you read it out loud, you’re showing that you care enough to read it. 
+(if they’re younger, it’ll also show that reading aloud is not something to be shy about)
+
+url:https://reddit.com/r/LifeProTips/comments/z7z8yr/
+author:IzTheFizz
+subreddit:LifeProTips
+score:10667
+numComments:111
+isOver18:False
+hasPostBody:True

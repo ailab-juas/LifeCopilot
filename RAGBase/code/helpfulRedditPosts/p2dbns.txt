@@ -1,0 +1,13 @@
+title:
+YSK: You don't have to live with your apartment's shitty shower head. High-pressure shower heads are cheap and easy to install.
+
+content:
+Why YSK: 'Quality of life' and 'quality of shower' go hand-in-hand for many people, and low water pressure can make you feel like you're showering in warm sweat. A high-pressure shower head can cost around $15 USD and should be able to be screwed on/off. I've had the same head through three apartments now and just put the old one back on when I move out.
+
+url:https://reddit.com/r/YouShouldKnow/comments/p2dbns/
+author:stoncils_
+subreddit:YouShouldKnow
+score:24055
+numComments:974
+isOver18:False
+hasPostBody:True

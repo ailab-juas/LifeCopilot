@@ -1,0 +1,13 @@
+title:
+LPT: Instead of a pedal bike with stabilisers/training wheels, give young children a balance bike. It’s much harder to learn to balance than to learn to pedal. If they trained on a balance bike then moving to a pedal bike is often a quick/smooth transition.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/xc9icm/
+author:joeChump
+subreddit:LifeProTips
+score:2562
+numComments:237
+isOver18:False
+hasPostBody:False

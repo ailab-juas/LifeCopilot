@@ -1,0 +1,13 @@
+title:
+LPT: When you are cleaning your email inbox, search by terms like 'discount', 'last chance', '$', 'special offer', etc. It will save you a lot of time and often lead to other emails that you want to erase.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/sbkfpl/
+author:disguisedandroid
+subreddit:LifeProTips
+score:2913
+numComments:121
+isOver18:False
+hasPostBody:False

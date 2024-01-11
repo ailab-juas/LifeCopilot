@@ -1,0 +1,15 @@
+title:
+LPT: If a recipe calls for kosher salt, but you're using regular salt, use a little less.
+
+content:
+Kosher salt is more coarse than regular table salt, so if you fill a teaspoon with regular salt, you'll have more salt than if you fill it with kosher salt. So, in order to not over salt the recipe, you need to adjust the amount. 
+
+If a recipe calls for 1tsp of kosher salt, start with 1/2 tsp or 3/4 tsp of regular salt. You can always add more later, but you can't take it out if you put in too much.
+
+url:https://reddit.com/r/LifeProTips/comments/655gyz/
+author:AvocadosAndBanana
+subreddit:LifeProTips
+score:3224
+numComments:278
+isOver18:False
+hasPostBody:True

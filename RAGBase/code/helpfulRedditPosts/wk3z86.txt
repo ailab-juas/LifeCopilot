@@ -1,0 +1,13 @@
+title:
+LPT: Building a desktop? Do a Day-0 back up and save any license numbers on a USB device then tape the small USB Device inside the case on a panel for potential future use
+
+content:
+After getting the PC up and running, save the OS installer and/or back up to a small USB device.  You can also save any license numbers in a notepad document and save it on the USB Device as well.  Open the PC and tape the USB device on the interior of one of the panels.  You never know when you'll need to retrieve the back up, re-install the OS, or use the license number(s) again.  At least now you know exactly where it is and it will remain with the PC.
+
+url:https://reddit.com/r/LifeProTips/comments/wk3z86/
+author:theonlybuster
+subreddit:LifeProTips
+score:2239
+numComments:99
+isOver18:False
+hasPostBody:True

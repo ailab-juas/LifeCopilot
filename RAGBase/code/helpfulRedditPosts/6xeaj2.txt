@@ -1,0 +1,13 @@
+title:
+LPT When shopping for a new printer, don't look for the cheapest machine, looks for the cheapest cartridges, ebay has lots of cloned cartridges that makes running your printer super cheap.
+
+content:
+I've found I end up on craigslist buying a second hand printer that takes the cloned cartridges, costing me only a few bucks. My office printer gets rinsed pretty hard so I need it to be cost effective.
+
+url:https://reddit.com/r/LifeProTips/comments/6xeaj2/
+author:MrDeformat
+subreddit:LifeProTips
+score:1424
+numComments:143
+isOver18:False
+hasPostBody:True

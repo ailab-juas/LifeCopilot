@@ -1,0 +1,13 @@
+title:
+YSK In the US the signs on the backs of dump trucks that say "stay back x distance, not responsible for broken windshields" are absolutely false. They are still liable for everything that is on their truck.
+
+content:
+Just got my windshield replaced after a quick phone call to the company with a truck number/date/and time of incident, even though one of those signs was in clear view on the back of the truck. The sign is just a scare tactic and hold no legal meaning.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ctkp6d/
+author:ibmxgeo
+subreddit:YouShouldKnow
+score:13627
+numComments:277
+isOver18:False
+hasPostBody:True

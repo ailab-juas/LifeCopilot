@@ -1,0 +1,13 @@
+title:
+LPT:  Have food in your freezer that winds up staying their forever?  Use a dry erase marker to write on the freezer door what you have in there.  Just erase when you've eaten the item.  Also works for leftovers in the fridge.  Never throw out spoiled food again.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/16zwx9/
+author:pelican1
+subreddit:LifeProTips
+score:1438
+numComments:183
+isOver18:False
+hasPostBody:False

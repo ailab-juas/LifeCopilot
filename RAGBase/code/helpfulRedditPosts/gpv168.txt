@@ -1,0 +1,23 @@
+title:
+LPT: It's that time of year (for many of us) to switch your fan's direction.
+
+content:
+Ceiling fans have a switch near their fan base that will change the direction the fan spins between clockwise and counterclockwise. 
+
+COUNTER-CLOCKWISE DIRECTION: will blow the air straight down, creating a wind chill effect that makes you feel cooler. This is for summer. 
+
+CLOCKWISE DIRECTION: (on a low speed) will gently draw the room air towards the ceiling and force the warm air that has risen there down and out towards the walls. On a low speed, this doesn't give the wind chill effect and rotates the warm air down. This is for winter.
+
+EDIT: I'm getting a lot of comments on my directions being wrong. I did not realize that all fans didn't have their blades facing the same way. For my fans, what I originally stated was true but after some googling, it seems like the opposite is more common so I switched them up above
+
+What is more important is to check blade direction. In the summer, you want the raised part of the blade traveling forward. this will push air down, creating the wind chill effect.
+
+In winter, you want the lowered part of the blade traveling forward, drawing the air up.
+
+url:https://reddit.com/r/LifeProTips/comments/gpv168/
+author:Qwerk-
+subreddit:LifeProTips
+score:2460
+numComments:116
+isOver18:False
+hasPostBody:True

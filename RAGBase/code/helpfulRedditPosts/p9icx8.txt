@@ -1,0 +1,19 @@
+title:
+YSK: Truck companies are always responsible for falling objects.
+
+content:
+"Not responsible for falling objects" is not a legal disclaimer, it's a dishonest way of deterring injured parties from exercising their right to sue.
+
+You can't unilaterally release yourself from liability; a potential damaged party has to release you voluntarily as consideration for some reciprocal transaction. There are ways to create implicit consent, but no private party has the ability to give or withhold consent to a stranger's use of a public roadway.
+
+Why YSK: Too many people allow themselves to be misled and intimidated into waiving their legal rights. The ony person who can tell you what your rights are is your lawyer. Not the police, not some asshole with a sign, not opposing counsel, and definitely not me. So if you suffer damages and a conflict arises, call a lawyer.
+
+Also, get a dashcam.
+
+url:https://reddit.com/r/YouShouldKnow/comments/p9icx8/
+author:MohammadRezaPahlavi
+subreddit:YouShouldKnow
+score:19520
+numComments:365
+isOver18:False
+hasPostBody:True

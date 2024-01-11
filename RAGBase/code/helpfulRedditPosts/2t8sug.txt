@@ -1,0 +1,17 @@
+title:
+YSK that if you're going to school at least half time, your school will issue you a 1098-t form which would make you eligible for some pretty awesome tax credits.
+
+content:
+I know, the people that already take advantage of this are probably thinking "duh", but I was surprised to find out that almost none of my friends knew of this and have likely missed out on thousands of dollars in tax credits. If you're a full time student, every bit helps so you should take full advantage. The [American Opportunity Credit](https://turbotax.intuit.com/tax-tools/tax-tips/Tax-Deductions-and-Credits/What-are-Education-Tax-Credits-/INF14427.html) will pay up to 2500 dollars to those that qualify. 
+
+[Here](http://www.irs.gov/Individuals/AOTC) is the official information on the IRS website for those interested.
+
+Edit: should have specified in the title that this is a US thing. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/2t8sug/
+author:CrashRiot
+subreddit:YouShouldKnow
+score:2534
+numComments:259
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+Capture fruit flies in your kitchen by taping a cone inside a cup filled with a banana slice and vinegar
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ydwgd/
+author:Fjalladyrd
+subreddit:LifeProTips
+score:1340
+numComments:195
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+To the Redditor that Suggested Knocking Down Weeds with White Vinegar- You Nailed it
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/tpwpp/
+author:sardonicsalmon
+subreddit:LifeProTips
+score:1830
+numComments:324
+isOver18:False
+hasPostBody:False

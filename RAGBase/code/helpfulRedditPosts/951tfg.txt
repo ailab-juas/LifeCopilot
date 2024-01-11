@@ -1,0 +1,59 @@
+title:
+YSK: How to get declared independent for US Federal Student Aid and not report parents' incomes
+
+content:
+**Disclaimer: Consult with financial aid officers before submitting paperwork and consult an attorney's office before filing with a court.**  I am not an officer of either.
+
+For US Federal Student Aid, you must provide both of your parents' incomes unless you can get an override (extremely rare) or can be considered independent.  In order to get declared independent, you must be able to answer Yes to one of these questions:
+
+* **Will you be 24** or older by Dec. 31 of the school year for which you are applying for financial aid?
+
+* Will you be working toward a **master’s or doctorate degree** (such as M.A., M.B.A., M.D., J.D., Ph.D., Ed.D., etc.)?
+
+* Are you **married or separated** but not divorced?
+
+* **Do you have children** who receive more than half of their support from you?
+
+* **Do you have dependents** (other than children or a spouse) who live with you and receive more than half of their support from you?
+
+* At any time since you turned age 13, were both of your parents deceased, were you in foster care, or **were you a ward or dependent of the court**?
+
+* Are you an emancipated minor or are you in a legal guardianship as determined by a court?
+
+* Are you an unaccompanied youth who is **homeless or self-supporting and at risk of being homeless**?
+
+* Are you **currently serving on active duty in the U.S. armed forces** for purposes other than training?
+
+* Are you a **veteran of the U.S. armed forces**?
+
+If none of these questions apply, an override [due to special circumstances](https://fafsa.ed.gov/fotw1718/help/fahelp29a.htm) is either:
+
+* Similar to the "unaccompanied youth...homeless" situation
+
+* You must get documentation that (1) the parents refuse to provide information on the FAFSA and (2) that they do not and will not provide any financial support to the student. Include the date support ended. If the parents refuse to sign and date a statement to this effect, you must get documentation from a third party (the student himself is not sufficient), such as a teacher, counselor, cleric, or court.  Note: **Although students whose parents refuse support are not eligible for a dependency override**, the Higher Education Opportunity Act of 2008 (HEOA) granted that **such students may receive unsubsidized Stafford loans only.**
+
+If none of these apply but you are still under 18 (or between 18 &amp; 19 in Alabama) and are financially independent of your parents, then you *could* consider emancipation as a minor.
+
+Generally speaking, courts will consider granting emancipation if they believe that doing so will serve the young person's best interest -- a determination that is typically based on factors such as:
+
+* whether the minor can be financially self-sufficient (usually through employment, as opposed to government aid or welfare)
+
+* whether the minor is currently living apart from parents or guardians or has made alternative living arrangements
+
+* whether the minor is sufficiently mature to make decisions and to function as an adult, and
+
+* whether the minor is going to school or has received a high school diploma.
+
+[Certain states have differences](https://family.findlaw.com/emancipation-of-minors/selected-state-minor-emancipation-laws.html) in how they handle emancipation of minors.
+
+Additional sources: [Here](https://studentaid.ed.gov/sa/fafsa/filling-out/dependency), [here](https://fafsa.ed.gov/fotw1718/help/fahelp29a.htm), and [here](https://www.nolo.com/legal-encyclopedia/emancipation-of-minors-32237.html)
+
+EDIT: Clarification to dependency override
+
+url:https://reddit.com/r/YouShouldKnow/comments/951tfg/
+author:Renegade_Meister
+subreddit:YouShouldKnow
+score:2248
+numComments:89
+isOver18:False
+hasPostBody:True

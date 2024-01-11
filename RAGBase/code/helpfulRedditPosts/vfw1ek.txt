@@ -1,0 +1,16 @@
+title:
+LPT: when purchasing a newly renovated property, ask for copies of the building permits.
+
+content:
+A lot of house flippers don’t get building permits for their work. No big deal, one might think. But this could mean the work is not done to building code standards. For example, removing interior walls to open up the floor plan often requires engineered support beams, and the movement of plumbing and electrical. Doing such renovations to code means a higher degree of safety for you and your family. Less chance of electrical fire or wall failure.
+Renovations that were done under a building permit means that inspections were done, ensuring that building code is followed. It could mean lower property insurance rates as well. 
+If a flipper does not obtain building permits, one has to wonder why. Yes, they add extra work to get the permit and call in inspections, and there is a small fee, but permits are legally required so why skip it? What is the flipper trying to hide or avoid?
+Edit: of course the contractor is trying to avoid the extra expense and time. But the permits are required by law, so this is a risk to the contractor and their state issued license. So if they’re cutting corners on permitting, what other corners are they cutting? It doesn’t take much imagination to figure that out.
+
+url:https://reddit.com/r/LifeProTips/comments/vfw1ek/
+author:Thessa5
+subreddit:LifeProTips
+score:8484
+numComments:410
+isOver18:False
+hasPostBody:True

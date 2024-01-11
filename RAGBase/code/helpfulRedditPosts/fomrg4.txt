@@ -1,0 +1,17 @@
+title:
+YSK: Adult Swim has made Samurai Jack free to watch on their website
+
+content:
+[Here ya go](http://www.adultswim.com/videos/samurai-jack/i)
+
+(Use a VPN for the USA if it's not working)
+
+Thank you u/ty_chumba :)
+
+url:https://reddit.com/r/YouShouldKnow/comments/fomrg4/
+author:SmellyTomatoe
+subreddit:YouShouldKnow
+score:14179
+numComments:199
+isOver18:False
+hasPostBody:True

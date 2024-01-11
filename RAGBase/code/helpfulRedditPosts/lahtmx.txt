@@ -1,0 +1,17 @@
+title:
+LPT if you have to give your email to a company, use the company’s name as your listed first name. That way if they sell your information to third parties, the spam emails will be auto-filled with the original company’s name instead of your own so you know who sold your info.
+
+content:
+Obviously only do this with unimportant accounts and only if your name isn’t important for legal reasons, but I’ve done this for apps, conferences, demos, etc. Just recently I got spam email that said “Dear XYZ App Trial, don’t miss out in these deals!” - so I knew XYZ App sold the data.
+
+Edit: To those asking what you can do, if a company sells your data without your permission you can file a formal complaint with the FTC here: https://www.consumer.ftc.gov/blog/2015/08/want-privacy-tell-us-about-it
+
+2nd Edit: I've been made aware in the comments that others have had this idea and posted it to the sub before and that I'm an idiot. My apologies for not knowing that, I hope I didn't ruin anyone's evening too badly.
+
+url:https://reddit.com/r/LifeProTips/comments/lahtmx/
+author:Bbiron01
+subreddit:LifeProTips
+score:56787
+numComments:868
+isOver18:False
+hasPostBody:True

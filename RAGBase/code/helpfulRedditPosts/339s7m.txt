@@ -1,0 +1,27 @@
+title:
+YSK turning on airplane mode for iOS games that don't require wifi will remove all adds
+
+content:
+EDIT: wow... This blew up...
+
+This is now my most popular self post.
+
+
+
+It's been brought to my attention that this works for android devices as well.
+
+Just so that you know, this doesn't work on EVERY game, and doing this screws the developer over.
+
+The indie developers worked hard to develop their games, and it's a minimal reward. If you really like their game, you might want to continue to support their game.
+
+
+
+PS: autocorrected title sorry
+
+url:https://reddit.com/r/YouShouldKnow/comments/339s7m/
+author:RacistAsianDude
+subreddit:YouShouldKnow
+score:1510
+numComments:102
+isOver18:False
+hasPostBody:True

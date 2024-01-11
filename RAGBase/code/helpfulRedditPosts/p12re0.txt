@@ -1,0 +1,13 @@
+title:
+YSK: Colorado requires employers to post a salary or salary range for jobs. You can utilize this information even if you don't live there
+
+content:
+[deleted]
+
+url:https://reddit.com/r/YouShouldKnow/comments/p12re0/
+author:[deleted]
+subreddit:YouShouldKnow
+score:1933
+numComments:51
+isOver18:False
+hasPostBody:True

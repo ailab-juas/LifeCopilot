@@ -1,0 +1,13 @@
+title:
+LPT Before checking in for your flight, take pictures of your luggage from 4 different angles. In case your luggage is lost or damaged, this will help you to make your case to the airport authority.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/8ggppu/
+author:shinigami_inso
+subreddit:LifeProTips
+score:2565
+numComments:112
+isOver18:False
+hasPostBody:False

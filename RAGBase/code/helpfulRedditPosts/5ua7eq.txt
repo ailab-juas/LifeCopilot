@@ -1,0 +1,13 @@
+title:
+LPT: if you're feeling scared while watching a horror film, root for the bad guy. It won't seem as scary once you've switched perspectives.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5ua7eq/
+author:rf194
+subreddit:LifeProTips
+score:8441
+numComments:424
+isOver18:False
+hasPostBody:False

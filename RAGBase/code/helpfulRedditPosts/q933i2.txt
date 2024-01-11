@@ -1,0 +1,13 @@
+title:
+LPT: If you're waiting for a plane, try walking around the terminal if you can. You'll be sitting on a plane soon, and your body will thank you that it get some movement before being strapped to the gurney. (Especially if you travel often, 30 mins of walking before a flight goes a long way)
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/q933i2/
+author:dunctanker
+subreddit:LifeProTips
+score:1637
+numComments:41
+isOver18:False
+hasPostBody:False

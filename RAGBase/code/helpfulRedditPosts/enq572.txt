@@ -1,0 +1,15 @@
+title:
+YSK that Youtube has a repeat button
+
+content:
+For the people who hate having to manually restart a video every time it ends. Youtube has a hidden option where you can right-click on the video and select loop. But this only works on the desktop version of the website.
+
+Now go enjoy your newfound songs to the fullest!
+
+url:https://reddit.com/r/YouShouldKnow/comments/enq572/
+author:Elegant-Fuel
+subreddit:YouShouldKnow
+score:6550
+numComments:196
+isOver18:False
+hasPostBody:True

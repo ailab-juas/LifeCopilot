@@ -1,0 +1,58 @@
+title:
+LPT: You're searing (skillet/frying pan) wrong, and why you don't need non-stick
+
+content:
+I like to cook, but I've always struggled with this. That was until I found out it was because I was doing it all wrong. 
+
+TLDR; Use a real pan (Cast Iron is usually best), get it real hot first, add oil if needed, don't touch it. In other words: You can cook perfect, easy over, eggs in a cast iron without ever having anything stick. 
+
+**Why food sticks (and why you don't need non-stick)**
+Metal is porous (it has tiny holes/dimples in the surface). Food sticks when parts of your food get inside those pores, effectively welding it in place in the pan. Non-stick coatings are a cheap (usually terrible, can be bad for you in extreme scenarios, and easily damaged) way to fill these pores and make your skillet surface as smooth as possible.
+
+Now all metal is different, and cast iron has much larger pores than metals such as stainless steel. You'd think that would make it worse, but when you heat metal up it expands. As the pan heats up the pores open wider, allowing oil to fill them, stopping them from grabbing on to your food. So an up-to-temperature cast iron skillet is significantly less "sticky" than cold. Even so, cast iron still doesn't get "smooth enough" on its own. That's why it's so important for cast iron skillets to be seasoned. The "seasoning" is really just you filling in those pores to create the smooth surface we need. 
+
+**What's the point of oil?**
+Even with heat, and seasoning, your pan still won't be perfectly smooth. We use oil to act as a physical barrier between your food and the pan. This helps stop the food from getting a foothold on the pan. Any physical barrier will do this, but oil is the best when you consider all other factors as well. 
+
+**Heat comes first**
+This is the first, and biggest, mistake most people make. It's the mistake I made every single time I tried to sear something. If you put oil in a cold pan, then start heating it up, your oil will start smoking away before the pan reaches the searing temperature you need. If you put in oil first you will always have a sub-par sear. Simple as that.
+
+**Hot hot hot**
+The goal in searing is to give your food a crust. A beautiful, crispy, flavorful, outside. Brown food tastes good. To get the maillard reaction happening, and to not seriously overcook your food, you need that pan hot. In some cases as hot as it can literally get (such as searing a steak). In most cases I'm using a medium-high setting on my burner. 
+
+Note: Never heat cast iron (or any empty pan) over max temp. You will ruin pans and light things on fire. 
+
+**Don't touch it!!!!**
+This is another mistake I was making. I didn't want to burn it, I wanted to be "cooking" not standing around. So I was always touching, moving, checking, flipping my things the pan. 
+
+Stop doing  this
+
+If you're searing you want to put your thing in the pan, sometimes give it a little pressure to give firm consistent contact, then leave it. Don't touch it until the crust is fully formed. This will be 30 seconds to  2 minutes depending on what you're doing. You can usually watch the bottom edges of what you're cooking and get a good indication of how it's going. If you do this properly, your food will get a delicious crust. On top of it being delicious, the crust also stops the food from sticking to the pan. This is the absolute key to eggs (not talking omlets/scrambled. You don't want to sear those things). 
+
+
+**What type of oil**
+Finally, the type of oil to use. There's a lot of misinformation about this out there, in a lot of ways. If you want to talk health (chances are we all have it backwards for what is "good" versus "bad" oil) there's a really great podcast about it by Malcolm Gladwell: https://www.pushkin.fm/episode/mcdonalds-broke-my-heart/
+
+Firstly: butter is what flavor is made of. But butter's smoke point is to low to be used for searing. It will simply burn on you. This is why French cooking is renown for "monter au beurre". This means (not a direct translation) finished with butter. You don't sear with butter, you finish. 
+
+Secondly: You can't "raise the smoke point" of butter by using half butter and half oil. This isn't how physics works. This is an urban legend. 
+
+The vast majority of chefs in the vast majority of scenarios use rapeseed oil for searing. But anything with a high smoke point can and is used. For example when searing a steak you'd use a bit of rapeseed, until the sear is complete, then you'd take the pan off the heat, add your butter, and butter baste (basically constantly moving the butter in the still slightly too hot pan so it doesn't burn). 
+
+For something like a burger (assuming you're making a true burger made of only meat, 80/20 meat to fat mix... if you're adding anything else you're fucking up) you don't want any oil at all. The burger has enough fat on its own and after it gets the crust will slide around and flip like a champ. 
+
+
+**Final note**
+The enemy of a sear/crust is water. If whatever you're cooking has a layer of water on it you will never get a good sear. All the energy goes into boiling off the water and you end up with steamed food, not seared. You want whatever you're searing to be as dry as possible. This is why you never put salt on meat before it's in the pan (or IMMEDIATELY before), unless you're doing it the day (or at least hours) before. The best way to do a steak is to salt it, leave it your fridge overnight uncovered (on a rack) letting it dry out. Then for an even better result, reverse sear (oven cook until 15 degrees away from your temp and sear the fuck out of it). If you've ever tried to sear scallops and ended up with pale rubbery crap, it's likely because you salted them first. 
+
+So you don't need or want non-stick pans. Really, the closest you want to get to that will be enamel coated cast iron (le creuset is the most famous example). You want to be able to use metal utensils, you want a heavy thick, pan (for most things).
+
+EDIT: I changed some physics things, because I'm not as smart as other people. Thanks for the comments!
+
+url:https://reddit.com/r/LifeProTips/comments/r4zzkh/
+author:atarikid
+subreddit:LifeProTips
+score:5440
+numComments:645
+isOver18:False
+hasPostBody:True

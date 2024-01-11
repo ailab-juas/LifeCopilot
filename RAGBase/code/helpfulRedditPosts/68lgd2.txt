@@ -1,0 +1,13 @@
+title:
+LPT: Organize your debt by interest rate. Pay only the minimum to all accounts except for the one with the highest percentage, pay as much as you can to that one. This will help you reduce total debt and save money on interest payments simultaneously.
+
+content:
+In addition, as soon as one account is completely paid off, add the entire amount you were paying to the next account with the highest percentage. Look at it as extra money to pay bills, not extra money to spend.
+
+url:https://reddit.com/r/LifeProTips/comments/68lgd2/
+author:XGueroX
+subreddit:LifeProTips
+score:3590
+numComments:275
+isOver18:False
+hasPostBody:True

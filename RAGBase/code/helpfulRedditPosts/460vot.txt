@@ -1,0 +1,15 @@
+title:
+YSK you can text (844)743-9454 with a search term and it will respond with the term's Wikipedia entry.
+
+content:
+You could use this to look up a term using no wifi or data.
+
+edit: i found their website if you want to learn more: http://weepower.net/
+
+url:https://reddit.com/r/YouShouldKnow/comments/460vot/
+author:Pandassaurus
+subreddit:YouShouldKnow
+score:1609
+numComments:120
+isOver18:False
+hasPostBody:True

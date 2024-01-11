@@ -1,0 +1,13 @@
+title:
+LPT: Take a nice portrait picture once a year, if you die that year, you'll have an ok picture available for the service
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/6f5jrp/
+author:Latinboy714
+subreddit:LifeProTips
+score:1293
+numComments:147
+isOver18:False
+hasPostBody:False

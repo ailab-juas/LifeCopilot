@@ -1,0 +1,13 @@
+title:
+YSK that if you share a link from Dropbox, your full name will be shown when other people click it. You won't see this because you're logged into your account, but everyone else will.
+
+content:
+Dropbox (probably unintentionally), doesn't show you the version of the page with your own name on it, because it's part of the "&lt;name&gt; shared this file with you" text. This can lead people to posting images and revealing personal information. I'm sure Dropbox didn't build this with the idea that people might want to anonymously share links, and I don't care if people know who I am, but it seems like bad practice to plaster your name all over the link but hide it from you, the sharing user. So, don't share Dropbox links on Reddit.
+
+url:https://reddit.com/r/YouShouldKnow/comments/igt2id/
+author:SLJ7
+subreddit:YouShouldKnow
+score:17136
+numComments:184
+isOver18:False
+hasPostBody:True

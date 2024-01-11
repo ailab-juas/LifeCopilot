@@ -1,0 +1,13 @@
+title:
+LPT: If you have to use a payphone, USE CASH
+
+content:
+If you don't have your cell or your phone is dead and you see "4 minutes for 1 dollar" payphones, use cash / coins.  They don't advertise it anwhere, but if you use your credit card, they will charge you ridiculous rates (literally, I was once charged $20 / min).
+
+url:https://reddit.com/r/LifeProTips/comments/295ndl/
+author:[deleted]
+subreddit:LifeProTips
+score:2138
+numComments:780
+isOver18:False
+hasPostBody:True

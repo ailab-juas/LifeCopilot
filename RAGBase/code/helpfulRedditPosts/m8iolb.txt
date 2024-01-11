@@ -1,0 +1,13 @@
+title:
+LPT: All the criticism you will receive in your life will fall on a spectrum from "useless" to "extremely valuable." Before you act on criticism, consider where it falls on this spectrum first, and that will guide you to ignore bad criticism and act on the good criticism.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/m8iolb/
+author:SeizeOpportunity
+subreddit:LifeProTips
+score:1722
+numComments:25
+isOver18:False
+hasPostBody:False

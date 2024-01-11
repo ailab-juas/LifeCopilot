@@ -1,0 +1,13 @@
+title:
+LPT: if you are ever a manager, don’t message or contact your staff outside of working hours.
+
+content:
+This is something extremely annoying for anyone, it makes people feel like they are always working and doesn’t allow them to enjoy their free time. It also generates extra stress so people are potentially less productive during work hours.
+
+url:https://reddit.com/r/LifeProTips/comments/qiclsp/
+author:dan-fdz
+subreddit:LifeProTips
+score:21611
+numComments:1256
+isOver18:False
+hasPostBody:True

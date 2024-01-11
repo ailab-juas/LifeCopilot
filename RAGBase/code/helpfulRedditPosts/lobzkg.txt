@@ -1,0 +1,13 @@
+title:
+LPT: If (for whatever reason) someone at work raises their voice at you, always respond in a calm and collected manner despite it upsetting you. You will appear VERY professional and that other person will (inevitably) look really bad for their lack of emotional intelligence at work.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/lobzkg/
+author:brandonmcgritle
+subreddit:LifeProTips
+score:28421
+numComments:949
+isOver18:False
+hasPostBody:False

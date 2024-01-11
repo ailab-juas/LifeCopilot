@@ -1,0 +1,15 @@
+title:
+YSK if you’re an iPhone user and are sick of apps constantly asking you to “give feedback”, you can easily disable this
+
+content:
+Settings &gt; iTunes &amp; App Store &gt; turn off “In-App Ratings &amp; Reviews”
+
+Because constantly getting that “HOW ARE WE DOING?” Pop up linking to leave a review in almost every app gets annoying 
+
+url:https://reddit.com/r/YouShouldKnow/comments/asyk8u/
+author:Eloquent_Enigma
+subreddit:YouShouldKnow
+score:4545
+numComments:140
+isOver18:False
+hasPostBody:True

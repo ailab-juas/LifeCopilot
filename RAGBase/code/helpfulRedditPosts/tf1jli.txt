@@ -1,0 +1,13 @@
+title:
+LPT: Be careful about how much you share at work. Don't tell your coworkers anything you're not comfortable with the whole workplace knowing. Expect that anything you say is going to be repeated. Also if your coworkers talk trash about other coworkers, that includes you as well.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/tf1jli/
+author:devilenka
+subreddit:LifeProTips
+score:47026
+numComments:812
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: Make it a habit not to pick up calls from work after office hours. Even if you must do so, let the call ring out and call them back after several minutes. It makes it less likely for people to side load their work on you assuming that you are free.
+
+content:
+Of course, this applies only when you’re not on call.
+
+url:https://reddit.com/r/LifeProTips/comments/jc6hmd/
+author:GuyWithDFacts
+subreddit:LifeProTips
+score:36558
+numComments:968
+isOver18:False
+hasPostBody:True

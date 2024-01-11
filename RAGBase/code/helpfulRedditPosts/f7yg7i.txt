@@ -1,0 +1,15 @@
+title:
+LPT: If you want Google to return only very current results type "after:2019" in your search.
+
+content:
+You can filter any range of years using "before:&lt;year&gt;" and "after:&lt;year&gt;" in any search. Much quicker than clicking through the "tools" menu and selecting a time frame by hand.
+
+It's a godsend for finding only current software or programming information which tends to change drastically over even 5 years. Also helps if you want to find older information about a topic that has recently become popular, where a typical search will be overloaded with only the recent news and other items.
+
+url:https://reddit.com/r/LifeProTips/comments/f7yg7i/
+author:familytreebeard
+subreddit:LifeProTips
+score:18129
+numComments:323
+isOver18:False
+hasPostBody:True

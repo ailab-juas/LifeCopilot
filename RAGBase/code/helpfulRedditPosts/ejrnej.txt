@@ -1,0 +1,52 @@
+title:
+LPT. Never trust a call FROM your bank. Hang up and call them back at a number you know belongs to your bank.
+
+content:
+Let me start by saying I'm not an* idiot. I usually can spot a scam. Today, I didn't. 
+ 
+So I'm sure this has been said before in some shape, form, and/or fashion, but let me tell you how good these hackers are. Today I received a call from BBT. THE CALL CAME FROM BBT. From their* number I have personally called many times and have saved in my phone as BBT. It was their* fraud department and they wanted to let me know that there is suspicious activity on my account. A few minutes of verifying info and everything was cleared up. My account was locked and a new card was ordered. I was given a 1 time use login and password to re-setup my BBT online account and was told to allow 6-8 hours for everything to take effect.  Or so I thought. 
+ 
+Within a few hours, I was wiped clean. $1.26 left in my bank. So I call BBT back to find out what's going on. I find out that I did not speak to BBT earlier today. I had instead been call spoofed by hackers and that I actually gave them all the info they needed (or better phrased, the last little bit of info they were looking for) to wipe my ass clean of all my money. I talked to the service guy for about 30mins. We hopefully have it official straighten out now. With my account actually locked and a legit new card on the way. There is a chance I may have to get a whole new account period. 
+ 
+The one thing the service guy told me was that if I ever get a call from (my bank) to hang up and call back at a number I know is theirs. If it truly was them, they will know what the call was for. If they have no idea of any reason to call you, you were called by a hacker.
+ 
+Edit: This has gained a massive amount of traction. I would like to thank this [comment](https://www.reddit.com/r/YouShouldKnow/comments/ejq9oy/ysk_to_never_trust_a_call_from_your_bank_always/fczynoa?utm_medium=android_app&amp;utm_source=share) for the idea to post it here. It has been interesting reading all the stories. Some with similar outcomes, some with way better outcomes. Either way, it has been a nice topic of discussion. 
+ 
+If nothing else, I hope this post saves at least one other person from going through what I went through. 
+ 
+Edit2: It seems in my slightly frazzled, yet still very amused, state last night, that I missed a few proof reading spots. I appreciate the red pen marks fellow redditors. Keep up the good work.
+ .
+ 
+.
+ 
+.
+ 
+**************Update*************************
+ 
+. 
+ 
+.
+ 
+2 week edit. As it sits right now, the money has been refunded (minus an overdraft fee incurred during the event), new account has been made, new card has been received. 
+ 
+
+ 
+To clear up some misconceptions, here's is some added info. 
+ 
+1. BBT called me. It was not an unknown number. It was BBT's main contact number you can find on the back of your card. I usually do not answer the phone for anyone that isn't family. What led me to answer it that morning was that I had already received a fraud alert text from BBT about 5 mins before. Turns out, that was fake as well. BBT only uses one short code messaging system. 
+ 
+2. I didn't give them any personal info. My SSN was not shared. My account number, routing number, or debit card number was not given out by me. They already had (almost) all the info they needed. My address, my telephone number on file, the email used for my account, the debit card "that was hacked". They used the info they had to tie my card to Google Pay. They only thing they needed was the code that got sent to my phone. Actually 2 codes. One to reset my password for the app, and one to add the card to Google Pay. He played it off that the first code had expired and had to send another one. He said the code was to "lock" the online account so that the fraud could be looked into. 
+ 
+3. This LPT, like many others on here, is not accurate 100% of the time. They can and might call you. They should never make you verify your info. If you read the comments though, it is definitely a great practice if you get suspicious. Hang up and call from a different land line number or a cell phone. Read the comments for more info on the different land line stuff. 
+ 
+4. The amount of money that was taken is kinda irrelevant. $1000 to me, is different then $1000 to you. Or to the guy living paycheck to paycheck. The part that matters is that it was everything I had at the moment. The spending money for a weekend date. Junk food for the kids while we are out on our date. Running money for 2 weeks. You get the idea. All gone. (Luckily, we had gift cards from Xmas and still got our date night.)
+ 
+5. Lastly, thank you all for all the kind words and reassurances. It did all turn out fine in the end. Lesson was learned.
+
+url:https://reddit.com/r/LifeProTips/comments/ejrnej/
+author:zynemisis
+subreddit:LifeProTips
+score:55457
+numComments:1725
+isOver18:False
+hasPostBody:True

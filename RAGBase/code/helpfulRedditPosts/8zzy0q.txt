@@ -1,0 +1,13 @@
+title:
+LPT: If you take a good picture and post it online, crop it down a little so if anyone ever questions whether or not you took the picture, you're the only one with the full size original.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/8zzy0q/
+author:[deleted]
+subreddit:LifeProTips
+score:2102
+numComments:93
+isOver18:False
+hasPostBody:True

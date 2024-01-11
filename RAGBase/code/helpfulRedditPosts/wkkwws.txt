@@ -1,0 +1,21 @@
+title:
+LPT: If brought in for questioning/arrested by police, you should NEVER talk to them. Guilty or innocent.
+
+content:
+For USA:
+
+Picture the scene: You get home from work and settle down, immediately getting a call from your local sheriffs department. They ask if you know anything about a burglary that happened last week a mile from your apartment and if you wouldn’t mind coming in to answer some questions.
+
+If you value your freedom the answer should be NO - 100% of the time. You tell them you will not talk to them without a lawyer. The reason being is that talking to the police *can never help you*. This is not an opinion. This is an objective fact that talking with police can literally not help you if you are suspected to having committed a crime. There is no “clearing it up”, guilty or innocent.
+
+For example: say you weren’t even in town last week. You were hours away but you have no proof. The police have a witness that can point you to the scene of the crime. A mistaken, confused witness but a credible witness. If you make a statement to the police saying you were hours away and they have a witness placing you at the scene of the crime, **they could convict you on that alone.** When you talk to the police you are playing a game of poker with your cards revealed. Doesn’t matter if tired innocent or guilty. If a witness like that is all they have, they wouldn’t have a case against you. But if like an *idiot* you decided it’d be best to go “clear things up”, you may have just spelled your doom even by making truthful innocent statements. If they do end up getting a case against you and you go to court, don’t show your cards the first time you’re talked to by the police. You can tell the jury all about it.
+
+*Don’t talk to the police.*
+
+url:https://reddit.com/r/LifeProTips/comments/wkkwws/
+author:Smorgasborf
+subreddit:LifeProTips
+score:4843
+numComments:621
+isOver18:False
+hasPostBody:True

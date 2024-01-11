@@ -1,0 +1,17 @@
+title:
+YSK that many sugar free candies use sugar alcohols as a sweetener, which have laxative properties in moderate amounts
+
+content:
+Sugar alcohols are commonly used as sweeteners in sugar free candies and gum.
+Most of these have highly pronounced laxative properties in moderate amounts.
+Erythritol is the only sugar alcohol that does not have these affects on people however. 
+
+EDIT: They're also extremely deadly for dogs. (Thanks shmegeggie for the info!)
+
+url:https://reddit.com/r/YouShouldKnow/comments/30l98g/
+author:CincoDeMaia55
+subreddit:YouShouldKnow
+score:2038
+numComments:167
+isOver18:False
+hasPostBody:True

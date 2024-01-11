@@ -1,0 +1,19 @@
+title:
+YSK: Most household cleaning products are concentrated and do not require nearly as much product as people tend to use.
+
+content:
+Why YSK: Many people don't read instruction labels and will sometimes overuse a product because they believe more product means it'll clean better. 
+
+Most products are not designed this way however, especially when it comes to things like laundry detergents and dishwashing liquids. If the label says you only need a dime sized amount, to spray 1 foot away, to fill the cap up 1 cm, then that's how you should do it. (Of course adjust depending on the workload.)
+
+A whole capful of laundry detergent does not more efficiently clean your clothes and in fact produces an overabundance of suds that stalls the cleaning process. Overusing sprays or liquids can create a thick film of product on the intended surface which is counterintuitive to it's purpose. (Abusing chemicals is often a source of lung issues or skin irritation as well)
+
+Get to know your regularly used products so they can stretch as long as they claim and your wallet and home will thank you for it.
+
+url:https://reddit.com/r/YouShouldKnow/comments/z83pcv/
+author:BaileyHeart
+subreddit:YouShouldKnow
+score:1926
+numComments:50
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,31 @@
+title:
+LPT: For the simplest way to divide a number by 5 (without using a calculator), multiply the dividend by 2, then, move one decimal place to the left.
+
+content:
+I use this method all the time when converting from Celsius to Fahrenheit, even though, I'm used to Fahrenheit. 
+
+**Example**
+
+Let's say you want to divide 270 by 5. Multiply 270 by 2, which is (540). Now, move one decimal place to the left. It should be (54.0), which is (54). So, 270/5 is 54. 
+
+**Another Example**
+
+289 divided by 5. Multiply 289 by 2, which is (578). Move one decimal place to the left and it's (57.8).
+
+**Update**
+
+I need to address some things. 
+
+#1. I said this is a simpler way. I'm not a teacher  trying to teach adults. 
+
+#2. If you have an easier or similar method, use it. If you like solving equations the harder way, you can do that as well. I don't give a damn how you do it. 
+
+#3. About the temperature conversion from Celsius to Fahrenheit, I, clearly, said converting FROM CELSIUS to FAHRENHEIT, you divide by 5. [Read it for yourselves.] (https://www.mathsisfun.com/temperature-conversion.html)
+
+url:https://reddit.com/r/LifeProTips/comments/6xm29z/
+author:KaDeCh
+subreddit:LifeProTips
+score:1052
+numComments:81
+isOver18:False
+hasPostBody:True

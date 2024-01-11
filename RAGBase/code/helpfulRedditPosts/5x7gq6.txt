@@ -1,0 +1,13 @@
+title:
+LPT: Familytreenow.com lists all of your previous addresses, relatives, and anyone else you might know. You can opt out.
+
+content:
+Opt out at https://www.familytreenow.com/optout
+
+url:https://reddit.com/r/LifeProTips/comments/5x7gq6/
+author:FuZhongwen
+subreddit:LifeProTips
+score:1510
+numComments:192
+isOver18:False
+hasPostBody:True

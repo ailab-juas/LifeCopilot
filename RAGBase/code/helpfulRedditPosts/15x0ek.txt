@@ -1,0 +1,13 @@
+title:
+LPT: When writing an email, leave the "to" field blank until you're done writing. This way it can't be accidentally sent before it is complete.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/15x0ek/
+author:[deleted]
+subreddit:LifeProTips
+score:1548
+numComments:71
+isOver18:False
+hasPostBody:False

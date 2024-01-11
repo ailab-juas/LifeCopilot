@@ -1,0 +1,13 @@
+title:
+LPT: Use public records to negotiate your salary
+
+content:
+If you're considering a job at a government institution, you can usually look up the salaries of other employees as these are often public record. Use that data to negotiate your own salary. I recently took a job in the University of California system, and wish I had looked up the salaries of other people recently hired in my division - I think I'm getting a bit less than others with similar experience. You can usually Google around to find this info. For example, [here is a database for California employees](http://www.sacbee.com/site-services/databases/state-pay/article2642161.html), and [here's one for Texas](https://salaries.texastribune.org/). Never hurts to have the info when they ask you what you hope to make.
+
+url:https://reddit.com/r/LifeProTips/comments/4wbwiv/
+author:likeorlikelike
+subreddit:LifeProTips
+score:2912
+numComments:228
+isOver18:False
+hasPostBody:True

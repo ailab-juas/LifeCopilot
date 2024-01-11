@@ -1,0 +1,18 @@
+title:
+YSK : In America, there are small mile marker signs along the side of the freeways. Freeway Exit numbers indicate which mile marker you're at.
+
+content:
+That's why sometimes you'll end up with exit numbers that have alphabets at the end. Example : exit 234A, exit 234B, exit 234C are all exits within mile marker 234.
+
+
+https://en.m.wikipedia.org/wiki/Exit_numbers_in_the_United_States
+
+(Edited for spelling) 
+
+url:https://reddit.com/r/YouShouldKnow/comments/4h3mi9/
+author:shimdim
+subreddit:YouShouldKnow
+score:1015
+numComments:236
+isOver18:False
+hasPostBody:True

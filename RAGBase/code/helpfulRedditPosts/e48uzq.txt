@@ -1,0 +1,13 @@
+title:
+LPT: If you're a manager or supervisor remember every once in a while to ask your employees what the hardest part of their job is.
+
+content:
+Their answers might surprise you and can often times be easily remedied.
+
+url:https://reddit.com/r/LifeProTips/comments/e48uzq/
+author:themomthewaterboy
+subreddit:LifeProTips
+score:28053
+numComments:566
+isOver18:False
+hasPostBody:True

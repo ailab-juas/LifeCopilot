@@ -1,0 +1,13 @@
+title:
+LPT: A power point is not a presentation. It is a presentation tool. When presenting, avoid reading off of a powerpoint. Instead, use the powerpoint to aid your presentation. (Visuals, data, big ideas, etc)
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/u90p4l/
+author:himhefferies
+subreddit:LifeProTips
+score:3314
+numComments:178
+isOver18:False
+hasPostBody:False

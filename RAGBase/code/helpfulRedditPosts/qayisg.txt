@@ -1,0 +1,15 @@
+title:
+YSK: The Firefox Add-on Bypass Paywall Clean allows you to bypass paywalls on sites like The New York Times, etc
+
+content:
+Why YSK:
+
+To anyone who doesn't want to sign up for something like a NY Times subscription in order to read their articles, I just found a solution. Bypass Paywall Clean by magnolia1234 lets you read it. I've only used it for 1 day, but so far it's been awesome and super easy!
+
+url:https://reddit.com/r/YouShouldKnow/comments/qayisg/
+author:WolfBearPup
+subreddit:YouShouldKnow
+score:1690
+numComments:88
+isOver18:False
+hasPostBody:True

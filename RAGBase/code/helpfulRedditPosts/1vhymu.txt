@@ -1,0 +1,13 @@
+title:
+LPT: Use Google as a timer - eg. search "3 min 5 sec timer" and you will get a timer with an alarm from google
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1vhymu/
+author:kedock
+subreddit:LifeProTips
+score:2707
+numComments:266
+isOver18:False
+hasPostBody:False

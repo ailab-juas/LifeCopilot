@@ -1,0 +1,20 @@
+title:
+LPT: Gmail has an "Undo Send" feature you can turn on, to give you the chance take back an already sent email.
+
+content:
+[Picture to Describe:](http://i.imgur.com/DIuJJUN.jpg) 
+
+
+Instructions to Describe:
+
+* Go to the "Labs" section of Gmail settings, and scroll down until you see the "Undo Send" lab. 
+
+* Click enable, and now you have a window of time time "take back" the email.  
+
+url:https://reddit.com/r/LifeProTips/comments/24cs0n/
+author:Bolt_of_Zeus
+subreddit:LifeProTips
+score:3186
+numComments:358
+isOver18:False
+hasPostBody:True

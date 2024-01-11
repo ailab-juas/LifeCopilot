@@ -1,0 +1,13 @@
+title:
+LPT: If you're an English speaker and having trouble with a hard-to-understand overseas support tech, call back in and ask for a Spanish speaking support tech.
+
+content:
+A Spanish-speaking support tech is almost always going to be North America based and have much better English than the rep that you can't understand.  I've used this a few times for great effect. 
+
+url:https://reddit.com/r/LifeProTips/comments/4ey33v/
+author:Finagles_Law
+subreddit:LifeProTips
+score:3285
+numComments:445
+isOver18:False
+hasPostBody:True

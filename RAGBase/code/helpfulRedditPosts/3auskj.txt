@@ -1,0 +1,13 @@
+title:
+LPT: Most company websites and many government websites offer live chat, which is far better and more efficient than calling.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/3auskj/
+author:raideraider
+subreddit:LifeProTips
+score:2822
+numComments:394
+isOver18:False
+hasPostBody:False

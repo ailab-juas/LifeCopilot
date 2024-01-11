@@ -1,0 +1,17 @@
+title:
+YSK: Walmart .com, in an attempt to compete with Amazon, has allowed 3rd party scammers to sell using their site
+
+content:
+Why YSK: People often expect that if they're buying from Walmart's website, they're buying from a retailer.
+
+This is not necessarily true. 3rd party sellers are allowed to sell on their website, and some of them are scammers who sell faulty products, or simply take the consumer's money and give them nothing. Reviews are sometimes skewed using fake reviews and bot reviews. You'll know when you've got enough real reviews on a seller. The point you should take home here is that buying from walmart .com is not buying from a retailer at all. It's a marketplace full of individual sellers, and some of them don't have any qualms scamming you -which they will if you let them.
+
+Edit: Streamlined for efficiency
+
+url:https://reddit.com/r/YouShouldKnow/comments/qfzbhw/
+author:rite_of_truth
+subreddit:YouShouldKnow
+score:2442
+numComments:110
+isOver18:False
+hasPostBody:True

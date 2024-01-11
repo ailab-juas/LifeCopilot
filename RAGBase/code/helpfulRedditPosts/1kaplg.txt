@@ -1,0 +1,19 @@
+title:
+YSK about Lynda.com, an online training website that has thousands of in-depth courses and is FREE with most university emails
+
+content:
+It's seriously one of the best things I've stumbled across. I watched a 4 hour course on basic programming and went from zero knowledge of the subject to knowing all of the basics fluently. 
+
+Best of all, nearly every university (at least in the US) has a registered account with the website, which means you can log in with your .edu email and password and get access to everything for free. (Credit to u/bounce580: it's between $200-400 a year otherwise, depending on subscription).
+
+Check it out, Reddit! www.lynda.com 
+
+**Edit:** Some of you are reporting that logging in with your school email/password isn't working. If not, Google your school's name alongside "Lynda" and you should find your school's portal to get onto Lynda.
+
+url:https://reddit.com/r/YouShouldKnow/comments/1kaplg/
+author:Ollides
+subreddit:YouShouldKnow
+score:1439
+numComments:152
+isOver18:False
+hasPostBody:True

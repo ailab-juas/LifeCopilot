@@ -1,0 +1,13 @@
+title:
+LPT: Children can understand a lot more than you realize. Discuss large and significant topics with them in everyday, simple language. They'll have many questions so always try to answer them as good as you can. Let them learn new things and expand their vocabulary - it will make them feel special.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/oi5qhk/
+author:Ewaldd
+subreddit:LifeProTips
+score:65183
+numComments:1235
+isOver18:False
+hasPostBody:False

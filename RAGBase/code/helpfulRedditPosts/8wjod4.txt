@@ -1,0 +1,19 @@
+title:
+LPT: Most countries require your passport to be valid for 3-6 months AFTER your scheduled return date (US)
+
+content:
+Most countries require that your passports expiration date is atleast 3 months after your scheduled return date. Make sure you renew it before you travel even if you have a few months before it expires.
+
+Eg. If you are travelling to France and returning July 21st, your passport has to be valid until October 21st.
+
+EDIT: Alot of people have been caught by this it seems. I spent the last 4 hours at the passport office and got an expedited passport approved and printed. Will be flying out this evening. This is an option for people who live near a passport office and can get your flight pushed a day or two. It says appointment only but if you get there early you can try your luck with the walk in appointment. YMMV
+
+https://travel.state.gov/content/travel/en/passports/requirements/where-to-apply/passport-agencies.html
+
+url:https://reddit.com/r/LifeProTips/comments/8wjod4/
+author:AnAsian
+subreddit:LifeProTips
+score:24784
+numComments:764
+isOver18:False
+hasPostBody:True

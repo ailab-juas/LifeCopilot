@@ -1,0 +1,14 @@
+title:
+LPT: When you apply for a job, don't send you CV as. docx or similar. Export it to PDF.
+
+content:
+I am not saying, that your possible future employer will necessarily make any changes, but maybe he is just not using the same text processing program as you, which completely messes up your formatting as soon as he opens it.
+Anyway, it just doesn't look classy at all.
+
+url:https://reddit.com/r/LifeProTips/comments/fcexzk/
+author:mr_moosejr
+subreddit:LifeProTips
+score:1870
+numComments:204
+isOver18:False
+hasPostBody:True

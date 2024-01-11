@@ -1,0 +1,23 @@
+title:
+LPT: X percent of Y is equal to Y percent of X. So, if you want to find out what 7% of 50 is, you could instead find out what 50% of 7 is, which is 3.5. This means that 7% of 50 is also equal to 3.5.
+
+content:
+More examples: If you want to find out what 2% of 20 is, do 20% of 2 instead and you'll get 0.4. So, 2% of 20 also equals 0.4. 
+
+Or, 12% of 25 can be alternatively written out as 25% of 12 instead, which would be  3. 
+
+Explanation: Commutative Property. So, 0.07 times 50 will always equal 50 times 0.07.
+
+I hope you found this interesting and/or helpful! 
+
+**Edit #1:** Thank you for the gold! 
+
+**Edit #2:** You can also solve percentage problems by multiplying the two numbers (7 times 50, which equals 350), and then taking the product and dividing it by 100 (so the answer would be 3.5). Thank you to everyone who pointed out this alternative method. 
+
+url:https://reddit.com/r/LifeProTips/comments/7yvxw4/
+author:tristan10000
+subreddit:LifeProTips
+score:85370
+numComments:1967
+isOver18:False
+hasPostBody:True

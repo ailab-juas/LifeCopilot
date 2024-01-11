@@ -1,0 +1,13 @@
+title:
+LPT: When you get someone on the line of a 1-800 number, always begin with: "I'm calling because &lt;insert paraphrased reason for calling here&gt;. Is that something you can help me with?" Many people start explaining detailed stories to the wrong department, only to be redirected and start over.
+
+content:
+If you've been directed to the wrong department, they'll quickly be able to re-direct you and save everyone time. Additionally, if they need any more information from you (phone number, account number, etc.) before helping you, you've given them a moment to gather that information before proceeding.
+
+url:https://reddit.com/r/LifeProTips/comments/ehu2vv/
+author:zigzagcow
+subreddit:LifeProTips
+score:4994
+numComments:124
+isOver18:False
+hasPostBody:True

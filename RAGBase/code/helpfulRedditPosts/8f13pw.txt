@@ -1,0 +1,13 @@
+title:
+LPT: After you’ve finished writing a paper, put dictation on and have your computer read it out to you. By having it read to you, you’ll pick up spelling and grammatical mistakes you didn’t notice before.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/8f13pw/
+author:digoryj
+subreddit:LifeProTips
+score:11612
+numComments:247
+isOver18:False
+hasPostBody:False

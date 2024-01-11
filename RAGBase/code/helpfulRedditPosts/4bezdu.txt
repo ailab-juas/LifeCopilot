@@ -1,0 +1,15 @@
+title:
+YSK About HowLongToBeat.com - A site that gives you an estimate on how long it takes to complete any video game
+
+content:
+This YSK applies to gamers only
+
+[HowLongToBeat](http://howlongtobeat.com/) has come in handy for me quite a few times. I've found the listed times to be surprisingly accurate. It's helpful to know how long a game may take to complete, as you might not be willing to invest the specific amount of time needed. Or it could be used in the opposite situation where you can find out if you will get a good bang for your buck (hours played vs dollars payed) before purchasing a certain game.
+
+url:https://reddit.com/r/YouShouldKnow/comments/4bezdu/
+author:wankawitz
+subreddit:YouShouldKnow
+score:1704
+numComments:174
+isOver18:False
+hasPostBody:True

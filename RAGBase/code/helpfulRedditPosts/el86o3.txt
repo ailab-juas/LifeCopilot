@@ -1,0 +1,15 @@
+title:
+YSK that if you get a nosebleed, you should put your head forward and never back.
+
+content:
+Leaning forward pools blood in the nose, where it can clot. Leaning your head back lets the blood flow freely down your throat into your stomach. This not only doesn't stop the bleeding, but will irritate youer stomach, which unsurprisingly, doesn't like pools of blood in it. 
+
+One of so many sources: https://kidshealth.org/en/teens/nosebleeds.html
+
+url:https://reddit.com/r/YouShouldKnow/comments/el86o3/
+author:SamAreAye
+subreddit:YouShouldKnow
+score:11934
+numComments:544
+isOver18:False
+hasPostBody:True

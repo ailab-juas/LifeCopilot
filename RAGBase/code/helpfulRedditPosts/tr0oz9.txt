@@ -1,0 +1,17 @@
+title:
+YSK Don't rinse your mouth immediately after brushing. Not with water or mouthwash. It washes off the fluoride.
+
+content:
+Brush  your teeth as normal and then spit out as much of the foam as you can.  Don't rinse or drink anything for \~10 minutes. Also, don't use mouthwash  after brushing at all, it generally has lower concentrations of  fluoride than toothpaste so you're still diluting any fluoride left in  your mouth. You can use mouthwash at lunchtime if you can't brush.
+
+Source: [https://www.nhs.uk/live-well/healthy-body/how-to-keep-your-teeth-clean/](https://www.nhs.uk/live-well/healthy-body/how-to-keep-your-teeth-clean/)
+
+**Why YSK:**  Rinsing your mouth with water or mouthwash right after brushing dilutes  the concentrated fluoride remaining from your toothpaste. This needs  time to soak into your teeth.
+
+url:https://reddit.com/r/YouShouldKnow/comments/tr0oz9/
+author:SirYandi
+subreddit:YouShouldKnow
+score:6554
+numComments:656
+isOver18:False
+hasPostBody:True

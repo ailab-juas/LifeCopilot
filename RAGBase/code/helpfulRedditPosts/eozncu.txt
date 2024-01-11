@@ -1,0 +1,13 @@
+title:
+LPT: If you do something above and beyond for someone, don’t draw attention to it. They may never notice, but if they do it will mean exponentially more to them than if you mentioned it.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/eozncu/
+author:TheFlightlessPenguin
+subreddit:LifeProTips
+score:1960
+numComments:82
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,15 @@
+title:
+YSK: It is not safe to use document shredding services at places like Staples and FedEx office
+
+content:
+Many people bring their secure documents to office supply stores for shredding. Its affordable, usually under $1 a pound. The problem is that they don't do the shredding. They place the documents into a basic plastic garbage bin with a very cheap lock. A friend works at one of these stores and last week, they had a break-in and the only thing taken was that bin. Who knows what critical documents and data were in there.
+
+If you want to ensure your documents get shredded and you have too many for your home shredder, go to a place that will shred it for you on the spot. Banks and other organizations also often have free shredding events where they bring a big machine to location and shred on the spot.
+
+url:https://reddit.com/r/YouShouldKnow/comments/5zjsys/
+author:thenewyorkgod
+subreddit:YouShouldKnow
+score:2975
+numComments:270
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+LPT: For an Aspirin to save your life during a heart attack, it's important you chew it rather than swallow.
+
+content:
+Chewing delivers the effects fastest through blood vessels in your mouth, rather than the digestive process which is slow. But don't use an enteric-coated tab, which will work slowly even if chewed. 
+
+https://www.health.harvard.edu/heart-health/aspirin-for-heart-attack-chew-or-swallow#:~:text=Aspirin%20can%20help%20prevent%20heart,it%20as%20quickly%20as%20possible
+
+url:https://reddit.com/r/LifeProTips/comments/i2lr8l/
+author:KissAndControlx
+subreddit:LifeProTips
+score:38642
+numComments:1269
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,18 @@
+title:
+YSK the difference between the word "Islamic" and the word "Muslim"
+
+content:
+"Islamic" refers to anything that relates to or is affiliated with Islam.
+"Muslim" is used to describe a person who practices Islam.
+
+e.g. "They live under an Islamic government."
+
+"That's my neighbor Josh, he's Muslim." or "That's my neighbor Josh, he's a Muslim."
+
+url:https://reddit.com/r/YouShouldKnow/comments/1e07fa/
+author:AGoodRuleOfThumb
+subreddit:YouShouldKnow
+score:1038
+numComments:225
+isOver18:False
+hasPostBody:True

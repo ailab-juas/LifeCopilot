@@ -1,0 +1,13 @@
+title:
+LPT: When stressing over something, use the 10-10-10 rule. Will it matter in 10 days? 10 months? 10 years? After getting some perspective, you’ll notice how very few things end up worth stressing over.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/9w3x6c/
+author:lakatosbruno_bajnok
+subreddit:LifeProTips
+score:38893
+numComments:985
+isOver18:False
+hasPostBody:False

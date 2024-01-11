@@ -1,0 +1,13 @@
+title:
+LPT: Take a look at the grammar settings in MS Word
+
+content:
+The default options in the grammar settings catches most of the obvious errors, but if you go into the settings (Preferences &gt; Spelling &amp; Grammar &gt; Writing Style Settings) there are numerous options that can help you produce better papers.  Some of the options include: Sentence structure, contractions, jargon, unclear phrasing, wordiness, and words in split infinitives just to name a few.    
+
+url:https://reddit.com/r/LifeProTips/comments/2jqse4/
+author:InKognetoh
+subreddit:LifeProTips
+score:1979
+numComments:177
+isOver18:False
+hasPostBody:True

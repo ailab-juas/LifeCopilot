@@ -1,0 +1,13 @@
+title:
+LPT: My life advice? Don't save the good wine for a good day. Good wine is wasted on a good day. On a good day, all wine is good wine. Bad wine is good wine. Drink the good wine on a bad day. That's what it's for.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/qtttwx/
+author:Boobglow
+subreddit:LifeProTips
+score:85571
+numComments:1616
+isOver18:False
+hasPostBody:False

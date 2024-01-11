@@ -1,0 +1,13 @@
+title:
+LPT: When you're unsure about an event's formality, choose the outfit which is nicer. Almost always, it's better to be over-dressed than under-dressed.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ouo576/
+author:SojourningCPA
+subreddit:LifeProTips
+score:46335
+numComments:1652
+isOver18:False
+hasPostBody:False

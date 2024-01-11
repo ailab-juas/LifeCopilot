@@ -1,0 +1,17 @@
+title:
+YSK that Charles Darwin suffered from debilitating mental illness, sometimes causing him to spend up to a third of his waking hours in bed. Yet he still published one of the most important scientific works of all time.
+
+content:
+For much of Charles Darwin's adult life, his health was affected by a number of symptoms, including palpitations, vomiting and attacks of melancholy which confined him to his bed. Although a definitive diagnosis was not made in Darwin's lifetime, it is now widely accepted that there was a significant psychological component to his symptoms, with some sources citing anxiety, some depression. 
+
+Why YSK: As someone who has struggled with anxiety, I find Darwin's story to be a comfort. His condition greatly affected him, but it did not define him, it is not what he is known for. If you find yourself struggling with your mental health, particularly if you can't bring yourself to get out of bed, it may help you to know that you are not alone in history: some of the greatest men and women to have ever lived struggled in similar ways, it is very possible that Darwin felt just as you do, and look at what he achieved!
+
+https://en.m.wikipedia.org/wiki/Health_of_Charles_Darwin
+
+url:https://reddit.com/r/YouShouldKnow/comments/jph47q/
+author:chewingthefatchungus
+subreddit:YouShouldKnow
+score:13331
+numComments:214
+isOver18:False
+hasPostBody:True

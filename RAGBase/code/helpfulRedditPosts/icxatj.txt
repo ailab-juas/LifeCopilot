@@ -1,0 +1,15 @@
+title:
+YSK There is a website called haveibeenpwned.com that tells you if your email address has been involved in data breaches.
+
+content:
+https://haveibeenpwned.com/ allows you to check if your email address has been involved in a data breach. It can tell you if your password has been exposed as well as many other personal details such as your name, IP address, age, gender and even financial details. Scammers can then use this information to their advantage.
+
+This website was a huge eye-opener for me and it saved me from trouble following a recent data breach. Make sure your information is safe!
+
+url:https://reddit.com/r/YouShouldKnow/comments/icxatj/
+author:Poisonkitten
+subreddit:YouShouldKnow
+score:30740
+numComments:1135
+isOver18:False
+hasPostBody:True

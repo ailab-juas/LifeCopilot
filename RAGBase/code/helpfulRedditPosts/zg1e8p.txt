@@ -1,0 +1,15 @@
+title:
+YSK federal law requires employers to allow mothers who are nursing as many breaks as needed to express breast milk.
+
+content:
+Why YSK: many moms returning to work rely on other means to feed their babies, whether they go into daycare or are left in the care of a relative, friend, or babysitter. While I also have formula as a back-up when needed, breast milk is free and of course there's nothing like it. 
+
+However, this law apparently only applies to employees who are eligible for overtime pay.
+
+url:https://reddit.com/r/YouShouldKnow/comments/zg1e8p/
+author:Xandrya
+subreddit:YouShouldKnow
+score:1549
+numComments:46
+isOver18:False
+hasPostBody:True

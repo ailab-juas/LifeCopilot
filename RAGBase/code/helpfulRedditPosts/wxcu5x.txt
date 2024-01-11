@@ -1,0 +1,15 @@
+title:
+LPT: If you're employed in a large organization, the most important component of your annual review is how much your manager likes you
+
+content:
+I don't mean this in a cynical way. There's a lot of bureaucratic process around annual reviews in an attempt to make them seem "fair" and "objective". But they never have been and they never will be. If you do amazing work worthy of the highest rating, whether or not you get it depends on how much your manager is willing to talk you up to his superiors. And if you *don't* do amazing work, you can still get a great performance rating if your manager likes you. It's a lot easier to advocate for someone you like than for someone you're indifferent to.
+
+So for those of you who don't like to play politics: too bad. You can't opt out of politics. You can either play well or play badly. Put some thought into where you stand, what people (your manager, and his manager) think of you, and how you can get what *you* want, whether it's  a promotion, quality of life, or whatever.
+
+url:https://reddit.com/r/LifeProTips/comments/wxcu5x/
+author:make_reddit_great
+subreddit:LifeProTips
+score:17334
+numComments:609
+isOver18:False
+hasPostBody:True

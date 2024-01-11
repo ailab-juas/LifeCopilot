@@ -1,0 +1,13 @@
+title:
+YSK if you have chronic chapped/flaky lips and nothing seems to help, you may be reacting to whitening/foaming agents in your toothpaste like peroxide or sodium lauryl sulfate.
+
+content:
+I tried every lip balm I could get my hands on (including Vaseline, Aquaphor, Eucerin, Carmex, lanolin, you name it), but nothing helped my severely chapped lips. Finally I realized that my intense whitening toothpaste kind of felt tingly on my lips, and swapped to a non-whitening/sulfate free brand. It's been a month now and my flaky lips are totally healed.
+
+url:https://reddit.com/r/YouShouldKnow/comments/8k527v/
+author:dishie
+subreddit:YouShouldKnow
+score:1820
+numComments:120
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Buy things that you need regularly twice. When one is empty, you have a backup and can take your time buying the next one.
+
+content:
+Pretty simple concept but many people don't do this. Take detergent for example. You want to do laundry, open the cupboard and see that it's empty and you forgot to buy a new one. If you have a backup you will be glad you can do your laundry like you planned and you don't need to go buy new detergent immediately or do it the next day when you got time. While using the "backup", you have enough time to buy another one and place it in the cupboard. Once you got this cycle, you never have to worry about things going empty again. Do this for all things that go empty on a regular basis: soap, dish soap, cleaning supplies etc.
+
+url:https://reddit.com/r/LifeProTips/comments/bkov1z/
+author:DangerousDetlef
+subreddit:LifeProTips
+score:1109
+numComments:137
+isOver18:False
+hasPostBody:True

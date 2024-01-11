@@ -1,0 +1,17 @@
+title:
+YSK: Grapefruit consumption should be avoided whilst taking medications.
+
+content:
+Many common drugs interact with grapefruit (and other citrus fruits to a lesser degree) potentially increasing their effect to toxic levels or making them ineffective. The effects have been seen 3 days after consumption and from as little as 200ml of grapefruit juice. 
+
+https://en.wikipedia.org/wiki/Grapefruit%E2%80%93drug_interactions?wprov=sfla1
+
+[Edit] I should have said **some** medications in my title.  My bad.  Really though, read the information sheet.  It's there for a reason and it can be quite surprising what some drugs can interact with.
+
+url:https://reddit.com/r/YouShouldKnow/comments/78025l/
+author:Delts28
+subreddit:YouShouldKnow
+score:2105
+numComments:138
+isOver18:False
+hasPostBody:True

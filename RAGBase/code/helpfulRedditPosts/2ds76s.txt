@@ -1,0 +1,13 @@
+title:
+LPT: when serving ice cream cones (especially to kids) put a mini marshmallow in the bottom of each cone. It keeps melting ice cream from leaking out the bottom.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/2ds76s/
+author:[deleted]
+subreddit:LifeProTips
+score:2577
+numComments:233
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: Under EU law, if you purchase something that fails within 6 months, the seller has 1 chance to repair/replace. If the repair or replacement doesn't fix it, you can return the item regardless of any return policy.
+
+content:
+After 6 months, the onus shifts to the customer to prove the item was faulty when bought, but the same process applies.
+
+url:https://reddit.com/r/LifeProTips/comments/jddkqs/
+author:Thebigfrogman
+subreddit:LifeProTips
+score:17243
+numComments:411
+isOver18:False
+hasPostBody:True

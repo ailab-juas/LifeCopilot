@@ -1,0 +1,13 @@
+title:
+LPT: If you screwed something up and know you're going to get yelled at for it but don't want to deal with it.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/27g52k/
+author:theleftkneeofthebee
+subreddit:LifeProTips
+score:1869
+numComments:434
+isOver18:False
+hasPostBody:False

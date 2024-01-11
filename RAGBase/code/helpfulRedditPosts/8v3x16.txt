@@ -1,0 +1,21 @@
+title:
+YSK the difference between Subtitles and Closed Captions when watching movies and videos.
+
+content:
+Many people get frustrated when they expect one and get the other, and it is useful to know the difference between them.
+
+**Closed Captions (CC):** Closed Captions (as opposed to Open Captions which are embedded into the video and cannot be removed) can be turned on and off by the viewer. Captions are of particular use to individuals who are deaf or hard of hearing as they include audio descriptions, which include background noises, speaker differentiation, and other relevant information translated from sound to text. Captions can also be typed live, so if you're watching a live TV program then they are Captions, not Subtitles, and they are being written by live typists as the program is happening.
+
+**Subtitles:** Subtitles assume that the viewer can hear and are typically used when the viewer doesn’t speak the language in the video. For example, movies include subtitles in the language spoken in countries where the film is distributed. Subtitles only include dialogue, as they assume that the viewer can hear the other sounds and changes in voices. Subtitles are usually written ahead of time, as they often need to be translated into different languages.
+
+Hope this is useful!
+
+P.S. If you see captions or subtitles that say "\[speaks foreign language\]," then the video writer intentionally left out translations of the language because they felt that it wasn't necessary to include the translations, or they did not want you to understand the translations, and it is *not* poor design.
+
+url:https://reddit.com/r/YouShouldKnow/comments/8v3x16/
+author:ajs808
+subreddit:YouShouldKnow
+score:3868
+numComments:162
+isOver18:False
+hasPostBody:True

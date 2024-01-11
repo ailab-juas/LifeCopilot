@@ -1,0 +1,13 @@
+title:
+LPT: if you are creating a PowerPoint presentation - especially for a large conference - make sure to build it in 16:9 ratio for optimal viewer quality.
+
+content:
+As a professional in the event audio-visual/production industry, I cannot stress this enough. 90% of the time, the screen your presentation will project onto will be 16:9 format. The "standard" 4:3 screens are outdated and are on Death's door, if not already in Death's garbage can. TVs, mobile devices, theater screens - everything you view media content on is 16:9/widescreen. Avoid the black side bars you get with showing your laborious presentation that was built in 4:3. AV techs can stretch your content to fill the 16:9 screen, but if you have graphics or photos, your masterpiece will look like garbage. 
+
+url:https://reddit.com/r/LifeProTips/comments/6n8lvz/
+author:Brass_and_Frass
+subreddit:LifeProTips
+score:23378
+numComments:1078
+isOver18:False
+hasPostBody:True

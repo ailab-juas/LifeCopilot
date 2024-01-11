@@ -1,0 +1,25 @@
+title:
+YSK that a Roomba won't work on dark colored rugs or carpets. And that there is a simple fix.
+
+content:
+This is for anyone who's thinking of buying a robot vacuum. 
+
+Underneath the vacuum there are 5 sensors called "cliff sensors".  They prevent the Roomba from falling down the stairs, basically.  If you're like me and you live in a single story apartment, that's not a problem.  
+
+Thing is, on dark colored rugs the Roomba will think it's about to fall and it will shut down.  I found this out after buying a large black area rug.  
+
+Here's the fix:
+
+Turn the Roomba upside down and there will be 5 clear windows around the front on the bottom.  Those are the cliff sensors.  To disable them, place foil over each sensor, shiny side down (that's important), and duct tape it down.  
+
+There are YouTube videos that explain it, but I can provide pictures or more explanation if needed.
+
+Edit:  I should mention that, obviously, if you have stairs your Roomba will go tumbling down them after doing this.  They sell a thing called an "invisible wall" that will prevent that.  You just place it where the stairs are and the Roomba will think there's a wall there and won't [commit robot suicide](http://imgur.com/2AbH0Gm).
+
+url:https://reddit.com/r/YouShouldKnow/comments/2cu4qt/
+author:sterling_mallory
+subreddit:YouShouldKnow
+score:1307
+numComments:156
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+LPT: If you lose focus while listening to an audio book, try turning the reading speed up to %120.
+
+content:
+If that helps a little but not enough increase the speed in increments of 3-5%.
+
+Edit: I'm a fast reader and like to listen to audio books in bed.  If I'm tired listening to someone reading a book at  a pace half that of my reading speed, I lose interest quickly.
+
+url:https://reddit.com/r/LifeProTips/comments/53ydy8/
+author:encinitas2252
+subreddit:LifeProTips
+score:1614
+numComments:108
+isOver18:False
+hasPostBody:True

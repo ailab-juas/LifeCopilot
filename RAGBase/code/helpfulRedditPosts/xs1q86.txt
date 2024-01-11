@@ -1,0 +1,13 @@
+title:
+YSK when naming files/folders by date, naming them YYYY-MM-DD will automatically sort everything chronologically.
+
+content:
+Why YSK: If you have a lot of files or folders in one location that you have saved by the date putting them in this format is the best way. Just remember to always use four digits for the year, two for the month and two for the day, otherwise it will throw the system out of wack. (1, 11, ...2 / 01, 02...11)
+
+url:https://reddit.com/r/YouShouldKnow/comments/xs1q86/
+author:rexmons
+subreddit:YouShouldKnow
+score:18441
+numComments:569
+isOver18:False
+hasPostBody:True

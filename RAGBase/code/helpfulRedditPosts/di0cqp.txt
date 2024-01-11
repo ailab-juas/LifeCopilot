@@ -1,0 +1,15 @@
+title:
+YSK there is a website where you can look up any physician to see if and how much they are compensated by drug or implant companies
+
+content:
+Go to: https://openpaymentsdata.cms.gov/
+
+Type in their name and click search.
+
+url:https://reddit.com/r/YouShouldKnow/comments/di0cqp/
+author:DeejayeB
+subreddit:YouShouldKnow
+score:22336
+numComments:666
+isOver18:False
+hasPostBody:True

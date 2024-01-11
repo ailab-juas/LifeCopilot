@@ -1,0 +1,18 @@
+title:
+LPT: "If you opened a Paypal Account before turning 18 years old, close it now"
+
+content:
+[Found this article on the front page of HackerNews today](https://medium.com/@iDemonix/paypal-is-still-one-of-the-worst-online-examples-of-customer-service-42f3c13f6cd0)
+
+tl;dr: The author of the article created a PayPal account ten years ago, when he was 17, and Paypal terminated his account (which he uses for online payments and business) because he signed up several months too early, with no way of recovering what was lost.
+
+
+If you created your account before you turned 18, close the account and open a new one to make sure this doesn't happen to you as well.
+
+url:https://reddit.com/r/LifeProTips/comments/68azdw/
+author:TheApexTheater
+subreddit:LifeProTips
+score:13077
+numComments:1356
+isOver18:False
+hasPostBody:True

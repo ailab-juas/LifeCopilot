@@ -1,0 +1,26 @@
+title:
+YSK: What is the highest temperature a human being can survive
+
+content:
+With new highest temperature records for June this year and perhaps in the following years until we reach Venusian standards, I was curious what is the threshold above which I'm not obligated to step outside because of death. So here's what I found out from [Quora](https://www.quora.com/What-is-the-highest-temperature-a-human-being-can-survive)
+
+TL:DR numbers:
+
+* Dry air: 120+ °C (248+ °F) short term, 70+ °C (158+ °F) long term (with access to water at cooler temperatures).
+
+* Tropical air: 60+ °C (140 °F) short term, 47 °C (117 °F) long term.
+
+* Saturated air: 48 °C (118 °F) short term, 35 °C (95 °F) long term.
+
+* Water: 46° C (115 °F) short term, 41°C (106 °F) long term.
+
+You should also read the whole article because it's very informative and be careful for humidity when you leave home.
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/6kete0/
+author:OppositeFingat
+subreddit:YouShouldKnow
+score:4862
+numComments:470
+isOver18:False
+hasPostBody:True

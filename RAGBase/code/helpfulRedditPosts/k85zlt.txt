@@ -1,0 +1,17 @@
+title:
+YSK about darkpatterns.org that lists and educates you about tricks and scummy tactics used by even the most commonly used websites that make you do things you didn't mean to
+
+content:
+Why YSK: [Dark Patterns](https://darkpatterns.org/) are quite prevalent in even the most regularly used websites. How many times have you logged onto a website with an intent to do A but the site tries to lead you to B instead? How many times have you had those "I didn't opt for this" moments during online shopping? This website will help you understand such tricks and be more informed against them.
+
+Note: I'm in no way associated with the website. Just helping spread some good information.
+
+Edit: Wow this got to the Front page! Thanks everyone for helping spread this. Thanks for the generous awards too.
+
+url:https://reddit.com/r/YouShouldKnow/comments/k85zlt/
+author:cyberdr3amer
+subreddit:YouShouldKnow
+score:25916
+numComments:360
+isOver18:False
+hasPostBody:True

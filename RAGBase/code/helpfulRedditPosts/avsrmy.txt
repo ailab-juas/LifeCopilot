@@ -1,0 +1,13 @@
+title:
+YSK: Windows 10 clipboard can be toggled to save all text and images (up to 1MB) copied, with an option to pin items to persist after clearing the clipboard or restarting the computer.
+
+content:
+ A screenshot of settings and Windows key + V popup - https://i.imgur.com/enluawr.jpg
+
+url:https://reddit.com/r/YouShouldKnow/comments/avsrmy/
+author:dtallee
+subreddit:YouShouldKnow
+score:2156
+numComments:92
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: If you can't run for more than a mile when working out, try running in intervals of 1 minute running and one minute walking to get used to working out for a longer period of time
+
+content:
+I have an on-site gym at my apartment complex and every time I go to run, I can't get more than a mile in before I feel like I'm dying. Tried the interval running today and went the whole 30 minutes, no problem.
+
+url:https://reddit.com/r/LifeProTips/comments/ffdcnq/
+author:Panda_Satan
+subreddit:LifeProTips
+score:2417
+numComments:154
+isOver18:False
+hasPostBody:True

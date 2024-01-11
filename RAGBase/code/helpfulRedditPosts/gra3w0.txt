@@ -1,0 +1,23 @@
+title:
+YSK: If you get an email from a "hacker" which displays your ACTUAL password as proof that you've been hacked, just ignore it.
+
+content:
+There has been a sudden uptake of blackmail emails claiming to have hacked the recipient where they demand cash or they'll release compromising images/videos.
+
+In the emails, the hacker claims to have hacked your device and used his new found privileges to record you while pleasuring yourself. To prove that he is legitimate, he tells you your ACTUAL password.
+
+The hacker demands that you send cash to their bitcoin account or they'll send the compromising footage to your contacts list and your social media friends. They also threaten to publish all your private data (pics, documents, videos... etc) to the internet if you do not comply.
+
+**These are all empty threats.**
+
+What they do is find/buy stolen password lists from the dark-web and send these blackmail emails to the people on that list. The fact that they have a legit password is often enough to compel people into complacency.
+
+If your stay on top of your internet security, you'll find the password they send is an old one that you already changed - but if the password they tell you is the same as one that you are currently using, please change it now, it means that your password is out there and anyone with a bit of tech knowledge can find it.
+
+url:https://reddit.com/r/YouShouldKnow/comments/gra3w0/
+author:InstantlyJobless
+subreddit:YouShouldKnow
+score:50887
+numComments:1942
+isOver18:False
+hasPostBody:True

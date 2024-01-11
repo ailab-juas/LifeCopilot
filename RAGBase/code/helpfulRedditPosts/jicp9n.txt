@@ -1,0 +1,15 @@
+title:
+YSK that grapefruit and medicines can possibly be a fatal combination
+
+content:
+Why YSK: eating or drinking grapefruit juice while taking medication can be very dangerous. Orally ingested medicines have an absorption rate under 100% - sometimes only 25% of the active ingredient in the drug makes it into your blood stream. This is accounted for when prescribing the right dose. Furanocoumarins found in grapefruit and some other fruits can increase absorption and possibly lead to fatal overdoses. This doesn't happen for all medicines but better to be on the safe side and Always ask your doctor.
+
+[source here](https://en.m.wikipedia.org/wiki/Grapefruit%E2%80%93drug_interactions)
+
+url:https://reddit.com/r/YouShouldKnow/comments/jicp9n/
+author:OddParrot14
+subreddit:YouShouldKnow
+score:14352
+numComments:604
+isOver18:False
+hasPostBody:True

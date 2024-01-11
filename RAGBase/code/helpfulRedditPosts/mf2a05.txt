@@ -1,0 +1,21 @@
+title:
+LPT: Your calendar isn't just for dates, it's for storing information when you want to know it.
+
+content:
+For example:
+
+Got a Halloween costume idea in February? Make a yearly costume idea event for Oct 31, and add to it whenever you think of a costume.
+
+Add important tax information to a repeating Apr 15th event.
+
+Add Christmas gift ideas to December 25th.
+
+Bonus LPT: Set a reminder for when you're going to actually need this information. Like, remind yourself of the Xmas gift ideas on Black Friday.
+
+url:https://reddit.com/r/LifeProTips/comments/mf2a05/
+author:iWillNeverReplyToYou
+subreddit:LifeProTips
+score:4687
+numComments:113
+isOver18:False
+hasPostBody:True

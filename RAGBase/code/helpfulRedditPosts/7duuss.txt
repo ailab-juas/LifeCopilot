@@ -1,0 +1,19 @@
+title:
+YSK that if your phone's charging cord comes unplugged easily or has trouble making good contact, it might be because your charging port is full of gunk.
+
+content:
+I've gone through a few charging cables because they started to have trouble making good contact in my phone's charging port. I always assumed that the connector on the cable was wearing down cause I'd switch cables and it'd be fine for a short time.
+
+But I just recently got a brand new cable and it's already starting to have the same kind of trouble, so I started to worry if it's the charging port itself. I looked inside and lo and behold it's full of nasty crap.
+
+The quickest method I figured out how to clean it was to take a soft-bristled toothbrush and use one of the bunches of bristles on it to dig the gunk out of the port. After a few minutes of work, the same charging cable has a much more positive lockup and doesn't require any finagling to stay connected. 
+
+It sounds like a bad idea, but really the plastic of the bristles is softer/weaker than anything inside the port so it'd take real effort to damage anything, as long as the brush is clean and dry (I used one fresh out of the package).
+
+url:https://reddit.com/r/YouShouldKnow/comments/7duuss/
+author:DroidLogician
+subreddit:YouShouldKnow
+score:1631
+numComments:88
+isOver18:False
+hasPostBody:True

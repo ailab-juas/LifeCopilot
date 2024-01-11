@@ -1,0 +1,13 @@
+title:
+LPT: When you have no cell service (multiple bars of service but nothing works) at a crowded event, turn off LTE in cellular settings. Phone will revert to a slower, but less crowded, 3G signal.
+
+content:
+Carriers use multiple completely different frequencies for different generations of cellular technology.  Since the vast majority of people have phones that support LTE (the fastest available now) this network will get clogged first, but the legacy network on different spectrum is indifferent to congestion on the LTE network.
+
+url:https://reddit.com/r/LifeProTips/comments/6co3cq/
+author:planko13
+subreddit:LifeProTips
+score:32921
+numComments:966
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,17 @@
+title:
+YSK : You could drown in shallow water pools due to a phenomenon call Shallow Water Blackout.
+
+content:
+Basically your urge to breathe is based on how much CO2 is in your blood (more CO2 more urge to breathe). So if you hyperventilate and lower your CO2 levels and dive underwater, you will not have the urge to breathe but in fact you would be low on Oxygen and may pass out without any signs and drown.
+
+Read more about it here - https://www.shallowwaterblackoutprevention.org/how-it-happens
+
+Why YSK : It helps you not die in pools.
+
+url:https://reddit.com/r/YouShouldKnow/comments/npwgsu/
+author:SwiftRespite
+subreddit:YouShouldKnow
+score:11595
+numComments:314
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: If somebody is criticizing you, you can respond with the phrase “I’m still learning.” This could significantly cut down on their lecture because most people don’t want to perceive themselves as mean or overly critical.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/hafr9g/
+author:millennialdude
+subreddit:LifeProTips
+score:18824
+numComments:318
+isOver18:False
+hasPostBody:False

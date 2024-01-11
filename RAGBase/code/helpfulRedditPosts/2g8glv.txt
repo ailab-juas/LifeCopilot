@@ -1,0 +1,13 @@
+title:
+LPT: When taking a taxi, always get a receipt. If you later realize you left something in the cab, the receipt contains valuable information that may be able to help you recover it.
+
+content:
+In NYC at least (that's where my experience happened), the receipt I was given included the medallion number, a number that helped locate the driver, the date, the time I got in and the time I got out. All this information was invaluable to locating an item I had lost. Without the receipt, I would have never recovered it. Your only recourse becomes trying to deal with a very convoluted lost and found system. Learn from my absentmindedness!
+
+url:https://reddit.com/r/LifeProTips/comments/2g8glv/
+author:virtualbeggar
+subreddit:LifeProTips
+score:3175
+numComments:465
+isOver18:False
+hasPostBody:True

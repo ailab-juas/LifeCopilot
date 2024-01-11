@@ -1,0 +1,13 @@
+title:
+LPT: Adobe is offering many of their CS2 software for FREE for PC and Mac.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1647xh/
+author:NoShirtNoShoesNoDice
+subreddit:LifeProTips
+score:2499
+numComments:897
+isOver18:False
+hasPostBody:False

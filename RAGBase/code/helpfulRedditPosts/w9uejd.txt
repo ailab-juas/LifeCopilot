@@ -1,0 +1,15 @@
+title:
+LPT: When flying, put a Tile or other Bluetooth tracker in your bags. You’ll always know where they are.
+
+content:
+Just flew from Asia to the US and was able to see where my bags were at all times. I could even tell when they were on the plane, since my phone could connect to them (obviously depends on the plane).
+
+This trick really shines when you’re trying to find your bag in a sea of luggage on the floor.
+
+url:https://reddit.com/r/LifeProTips/comments/w9uejd/
+author:certifiedintelligent
+subreddit:LifeProTips
+score:8866
+numComments:422
+isOver18:False
+hasPostBody:True

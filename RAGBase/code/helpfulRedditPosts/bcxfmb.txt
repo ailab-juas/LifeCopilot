@@ -1,0 +1,13 @@
+title:
+YSK that if you have a water/ice dispensing refrigerator-freezer and the water is no longer coming out, chances are that the water line is frozen. Put you're freezer items in a cooler and leave the door open for a while and the line will defrost.
+
+content:
+Saved myself some money from having a tech come out.
+
+url:https://reddit.com/r/YouShouldKnow/comments/bcxfmb/
+author:yourrenotthebossofme
+subreddit:YouShouldKnow
+score:2884
+numComments:74
+isOver18:False
+hasPostBody:True

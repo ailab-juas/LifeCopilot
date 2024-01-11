@@ -1,0 +1,13 @@
+title:
+LPT: When telling a boss about a problem, propose at least one solution to resolve it. It will show that you are working to resolve it instead of just passing the buck.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/nxngrd/
+author:Kindlynet2
+subreddit:LifeProTips
+score:39738
+numComments:1153
+isOver18:False
+hasPostBody:False

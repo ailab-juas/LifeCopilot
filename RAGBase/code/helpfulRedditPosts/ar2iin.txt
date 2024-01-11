@@ -1,0 +1,13 @@
+title:
+YSK: Most scam calls scan audio for a dead line, so the best way to end scam calls is actually to pick up and not say anything. If it's quiet, the system will mark you dead and delete you. If it hears a dial tone or goes to voicemail, it will call again later.
+
+content:
+So the inspiration for this was learning that sometimes folks hire people to check lines, if they're alive. I also figured there may be such lines one by machine. I found this out by sheer curiosity. I wondered how can it tell when a line is dead. They clearly want to know to make it more efficient. But I figured scanning would make it think the line is alive if it hears a ring tone. So I tried an experiment. Anytime I saw "scam likely" on my phone, I'd instantly pick it up as soon as possible, hoping to get it before a ringtone. Then I just let it sit. Eventually the line hanged up on its own. Over time, I've noticed an insane reduction in scam calls. It's allowed for a probably a 70% reduction. It's amazing. Annoying, mind you. You have to be quick, and hopefully in a quiet place. But that's easy for a basement lord like myself. :{
+
+url:https://reddit.com/r/YouShouldKnow/comments/ar2iin/
+author:HarboringOnALament
+subreddit:YouShouldKnow
+score:4631
+numComments:206
+isOver18:False
+hasPostBody:True

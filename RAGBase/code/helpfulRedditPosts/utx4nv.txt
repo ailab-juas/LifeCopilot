@@ -1,0 +1,15 @@
+title:
+YSK that the best way to get a raise is to switch jobs.
+
+content:
+**Why YSK.** If you want to earn more money, relying on your current employer to give you a raise is not the most effective way. According to [data](https://www.atlantafed.org/chcs/wage-growth-tracker) from the Federal Reserve Bank of Atlanta, wage increases for people who stay at their job have trailed wage increases for people who switched jobs for more than a decade.
+
+In other words, relying on company loyalty (i.e., your company rewarding your work with more money) is the least effective way of earning a higher income. If you need a raise, get your resume ready and start looking for jobs.
+
+url:https://reddit.com/r/YouShouldKnow/comments/utx4nv/
+author:ButtholeBanquets
+subreddit:YouShouldKnow
+score:16850
+numComments:676
+isOver18:False
+hasPostBody:True

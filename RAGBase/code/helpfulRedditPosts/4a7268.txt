@@ -1,0 +1,13 @@
+title:
+YSK that, if one of your calves is swollen or hot and feels "tight" and you don't know why, you need to go to a hospital.
+
+content:
+Those are symptoms of a deep vein thrombosis blood clot. I've had to take my dad in a few times for them, yet I don't hear them get as much attention as chest pain for heart attacks, even though if the blood clot breaks of and makes it to your heart, that's probably what you'll have. One made it to my dad's lungs and caused a pulmonary embolism. Consider the warning signs more severe if you've recently been sitting down without moving for a long time (like in an airplane) or if you've recently had surgery.
+
+url:https://reddit.com/r/YouShouldKnow/comments/4a7268/
+author:CraptainHammer
+subreddit:YouShouldKnow
+score:3745
+numComments:376
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Expensive rice is cheap. If having the kind of rice you like helps you resist splurging on prepared food, you're saving money.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/y3cpwo/
+author:MrSluagh
+subreddit:LifeProTips
+score:1282
+numComments:90
+isOver18:False
+hasPostBody:False

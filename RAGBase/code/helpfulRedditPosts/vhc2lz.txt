@@ -1,0 +1,17 @@
+title:
+YSK: mangos are in the poison Ivy family
+
+content:
+Why YSK: many people are allergic to urushiol oil found in poison ivy, poison oak, poison sumac, and mangos. The oil can cause painful, itchy, and weeping rashes and wounds. While many people know to steer clear of the poisonous plants, they might not know that they should handle mangos with caution. 
+
+If you're picking mangos, wear gloves and long sleeves. If you get any oil on yourself, scrub with soap as soon as you can. If you rinse your mangos thoroughly before eating, you should be in the clear. 
+
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6861053/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6861053/)
+
+url:https://reddit.com/r/YouShouldKnow/comments/vhc2lz/
+author:icyeupho
+subreddit:YouShouldKnow
+score:10234
+numComments:522
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: if you are ever reading something completely boring and find it hard to stay interested try narrating it in a “nature documentary” style with lots of inflection to keep yourself entertained.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/d1zhw0/
+author:Comewhatevermaycry4
+subreddit:LifeProTips
+score:1060
+numComments:37
+isOver18:False
+hasPostBody:False

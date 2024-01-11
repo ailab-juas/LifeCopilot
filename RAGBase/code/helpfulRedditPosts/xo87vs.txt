@@ -1,0 +1,18 @@
+title:
+YSK that photos on your smartphone are almost certainly recording date, time and GPS location in something called EXIF data.
+
+content:
+Why YSK: this can be helpful if you need to know when or where a picture was taken, and you can even group photos by location. It also removes
+the need to prove when or where a photo was taken, as someone might try to do with a newspaper or landmark included. It's already there! 
+However, it can also be dangerous if you are not wanting to share that information, such as inadvertently revealing the location of your home
+by simply posting a photo. An
+absolute must YSK for anyone fleeing a situation of violence. Always assume that sharing a photo is also sharing your time and location! The data
+can be removed before sharing but very few people know how to or even think to do this.
+
+url:https://reddit.com/r/YouShouldKnow/comments/xo87vs/
+author:infinityfinder21
+subreddit:YouShouldKnow
+score:3453
+numComments:137
+isOver18:False
+hasPostBody:True

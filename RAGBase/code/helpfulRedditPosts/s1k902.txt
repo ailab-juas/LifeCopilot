@@ -1,0 +1,13 @@
+title:
+LPT: If you ever need to talk to a human FedEx representative, say EXCEPTION at the main menu
+
+content:
+If you like me have been in the situation in which FedEx lost your package and refuses to let you talk to a human being you know how frustrating that is. Fortunately if you say EXCEPTION in their main menu they immediately connect you to a representative.
+
+url:https://reddit.com/r/LifeProTips/comments/s1k902/
+author:deimos_z
+subreddit:LifeProTips
+score:1520
+numComments:82
+isOver18:False
+hasPostBody:True

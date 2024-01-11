@@ -1,0 +1,21 @@
+title:
+YSK that 23andMe is offering their Personal Genome Service for free to individuals with IBD (Ulcerative Colitis, Crohn's, etc) in an effort to further knowledge of the diseases.
+
+content:
+https://www.23andme.com/ibd/
+
+The link above has much more information, but the gist of it is that 23andMe is seeking to help researchers understand the possible connections IBD has to our genetics. If a connection is found, it can be used to identify those who may be susceptible, but also how we can more effectively treat individual patients that might respond better to certain types of treatment.
+
+The process of sending in a sample is simple enough. There's no need to for blood being drawn or lab visits. They mail you a kit that has a swab that you use on the inside of the cheek, which you then mail back to them.
+
+The more participants, the better, so please share this with anyone you know who suffers from IBD.
+
+EDIT: Others have pointed out the possible privacy issues that could arise from taking part in the study. Be sure to read 23andMe's privacy policies and make sure you feel comfortable with it before participating. https://www.23andme.com/privacy/
+
+url:https://reddit.com/r/YouShouldKnow/comments/47cn0x/
+author:TheBladeEmbraced
+subreddit:YouShouldKnow
+score:1973
+numComments:208
+isOver18:False
+hasPostBody:True

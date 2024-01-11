@@ -1,0 +1,13 @@
+title:
+LPT: When starting a new hobby, activity, or job even, search "things I wish I knew before I started [x]." This can get you a ton helpful tips to boost you when starting off.
+
+content:
+I did this for when I started guitar and helped a lot.
+
+url:https://reddit.com/r/LifeProTips/comments/5neetc/
+author:Zomeese
+subreddit:LifeProTips
+score:18544
+numComments:504
+isOver18:False
+hasPostBody:True

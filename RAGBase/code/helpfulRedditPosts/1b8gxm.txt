@@ -1,0 +1,13 @@
+title:
+YSK which fire extinguisher to use depending on what type of fire it is
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/1b8gxm/
+author:jackcajack
+subreddit:YouShouldKnow
+score:1977
+numComments:248
+isOver18:False
+hasPostBody:False

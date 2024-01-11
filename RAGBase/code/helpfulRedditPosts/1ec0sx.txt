@@ -1,0 +1,23 @@
+title:
+LPT: If you're setting a goal for yourself, don't tell anyone about it.
+
+content:
+I saw this the other day in a [TED talk](http://www.ted.com/talks/derek_sivers_keep_your_goals_to_yourself.html) by Derek Sivers and realized I've been going about doing shit all wrong. 
+
+Basically, you shouldn't tell people your goals because 
+
+* subconsciously: proclaiming a goal makes your brain think you've already completed it, giving you a sense of satisfaction without actually doing any of the work
+* consciously: you think you've already made a step towards your goal, allows you to procrastinate more
+* makes you more likely to give up sooner than if you kept your goals to yourself, because you think you have less work left than you actually do ([1982 - Peter Gollwitzer study](http://www.thedailybeast.com/newsweek/2009/05/12/talking-the-talk.html))
+
+We think our friends will hold us accountable, but they have their own shit to worry about.
+
+I've noticed that in the past when I told people that I *won't* be doing something that I want to do (because I'm lazy), I felt dissatisfied and end up doing it. 
+
+url:https://reddit.com/r/LifeProTips/comments/1ec0sx/
+author:StrongCoffeh
+subreddit:LifeProTips
+score:2338
+numComments:347
+isOver18:False
+hasPostBody:True

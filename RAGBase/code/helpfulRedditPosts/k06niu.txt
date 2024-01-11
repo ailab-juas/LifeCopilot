@@ -1,0 +1,13 @@
+title:
+LPT: If you are still contemplating what you want to do with your life, in terms of a career or livelihood, don't discount the trades. College is expensive, and most trades offer apprenticeship programs that have an earn-while-you-learn format.
+
+content:
+Growing up, I felt I had to go to college, because there would be no other way of creating a life for myself. After dropping out of college for the second time, I decided to apply for the apprenticeship program through the IBEW (electrical union). I'm already making great money and all of my schooling is paid for besides the books! I've learned so much more than I did in those two years of college, and I won't have to worry about student loan debt anymore. Once I finish the program, I will be making well upwards of 100k a year, and traveling the country to do something I really enjoy. College is definitely a valid path, but it might not be the best option for a lot of people out there. For those folks - go online and find the apprenticeship program that interests you the most (plumbers, pipefitters, electrical, ironworkers). You will not regret it!
+
+url:https://reddit.com/r/LifeProTips/comments/k06niu/
+author:snrsnr1
+subreddit:LifeProTips
+score:1018
+numComments:110
+isOver18:False
+hasPostBody:True

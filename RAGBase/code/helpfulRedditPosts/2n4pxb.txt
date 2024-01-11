@@ -1,0 +1,13 @@
+title:
+LPT: DO NOT grab hot pans/pots with wet oven mit
+
+content:
+The heat transfer from the pan happens A LOT faster through wet cloth than dry cloth. I know 'cause I just burned myself.
+
+url:https://reddit.com/r/LifeProTips/comments/2n4pxb/
+author:Photo_Man
+subreddit:LifeProTips
+score:2116
+numComments:343
+isOver18:False
+hasPostBody:True

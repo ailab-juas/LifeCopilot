@@ -1,0 +1,13 @@
+title:
+Shake your clothes out before putting them in the dryer.
+
+content:
+Doing this will prevent them from staying in a wet ball, and they'll dry much quicker! Saves you a ton of time, and money on your utilities :)
+
+url:https://reddit.com/r/LifeProTips/comments/13vmqm/
+author:emilylime
+subreddit:LifeProTips
+score:2400
+numComments:396
+isOver18:False
+hasPostBody:True

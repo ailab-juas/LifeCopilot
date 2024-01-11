@@ -1,0 +1,13 @@
+title:
+LPT: When applying for a new position save the job description. If you end up getting the position, you can seamlessly add it to your resume just by changing the verbiage slightly.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ttdmdr/
+author:UNeed2CalmDownn
+subreddit:LifeProTips
+score:1072
+numComments:34
+isOver18:False
+hasPostBody:False

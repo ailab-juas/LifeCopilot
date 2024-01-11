@@ -1,0 +1,15 @@
+title:
+YSK that learning a new sport or physical activity midlife can strengthen your brains functioning
+
+content:
+[Source: NYTimes](http://well.blogs.nytimes.com/2016/03/02/learning-a-new-sport-may-be-good-for-the-brain/?partner=rss&amp;emc=rss&amp;_r=0)
+
+&gt;Learning in midlife to juggle, swim, ride a bicycle or, in my case, snowboard could change and strengthen the brain in ways that practicing other familiar pursuits such as crossword puzzles or marathon training will not, according to an accumulating body of research about the unique impacts of motor learning on the brain.
+
+url:https://reddit.com/r/YouShouldKnow/comments/48mgki/
+author:londonbridgez
+subreddit:YouShouldKnow
+score:1957
+numComments:83
+isOver18:False
+hasPostBody:True

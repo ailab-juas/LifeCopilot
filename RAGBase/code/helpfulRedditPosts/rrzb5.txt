@@ -1,0 +1,13 @@
+title:
+Innovative way to  reseal a packet of food once it has been opened.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/rrzb5/
+author:andrewinmelbourne
+subreddit:LifeProTips
+score:1053
+numComments:127
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: When someone pays you a compliment, you are under no obligation to compliment them back. Just says "thanks."
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/pjcqy8/
+author:iWillNeverReplyToYou
+subreddit:LifeProTips
+score:2946
+numComments:123
+isOver18:False
+hasPostBody:False

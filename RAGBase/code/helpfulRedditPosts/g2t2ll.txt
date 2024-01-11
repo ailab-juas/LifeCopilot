@@ -1,0 +1,15 @@
+title:
+YSK: Scammers are trying harder than ever to get into your secured accounts.
+
+content:
+I don't usually have trouble with scammer / BS emails, but today I had 2 separate emails from "legitimate" looking senders telling me I needed to log in to update security on both my Apple and PayPal accounts.
+I didn't click the link on either, and neither should you, so I don't know what happens after.
+I will try to post pics so you can see what a phony email address looks like no matter how good the actual email looks.
+
+url:https://reddit.com/r/YouShouldKnow/comments/g2t2ll/
+author:no_work_throwaway
+subreddit:YouShouldKnow
+score:7202
+numComments:282
+isOver18:False
+hasPostBody:True

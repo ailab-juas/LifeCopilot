@@ -1,0 +1,13 @@
+title:
+LPT If you're thinking about taking out a car loan and have the luxury of not having to do it immediately, start setting aside the expected payment amount each month so you'll have a good down payment. If you can't afford to do that, you can't afford the car.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/i2bor3/
+author:ManosVanBoom
+subreddit:LifeProTips
+score:1786
+numComments:198
+isOver18:False
+hasPostBody:False

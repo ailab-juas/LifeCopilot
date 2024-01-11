@@ -1,0 +1,13 @@
+title:
+YSK the difference between "Who" and "Whom" and when to use each correctly
+
+content:
+A simple way to remember the difference and whether to use "Who" or "Whom" is: If the answer is "*He*" then the question is "*Who*"; if the answer is "*Him*" then the question is "*Whom*".
+
+url:https://reddit.com/r/YouShouldKnow/comments/2js0sb/
+author:Averagenotmean
+subreddit:YouShouldKnow
+score:1074
+numComments:296
+isOver18:False
+hasPostBody:True

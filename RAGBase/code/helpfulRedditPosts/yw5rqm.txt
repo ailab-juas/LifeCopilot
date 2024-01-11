@@ -1,0 +1,13 @@
+title:
+LPT: I work in night shift so by the time I’m off from work there’s no public transport available. So I registered as a designated driver on an app &amp; only pick orders going somewhere near my home. I no longer need to pay for the transportation for going home, instead I get paid for it.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/yw5rqm/
+author:iFoegot
+subreddit:LifeProTips
+score:13396
+numComments:310
+isOver18:False
+hasPostBody:False

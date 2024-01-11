@@ -1,0 +1,20 @@
+title:
+YSK that you can add _nomap to your wifi network's name to stop Google from including you in their location database.
+
+content:
+To stop microsoft from sharing your wifi with your windows contacts you can add _optout .
+
+You can also combine them like this : wifiname_optout_nomap
+
+Edit : source https://social.technet.microsoft.com/wiki/contents/articles/32109.disabling-wifi-sense-by-gui-and-gpo-script.aspx
+
+https://support.google.com/maps/answer/1725632?hl=en
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/8ubbef/
+author:YusufK_b3ra
+subreddit:YouShouldKnow
+score:5784
+numComments:209
+isOver18:False
+hasPostBody:True

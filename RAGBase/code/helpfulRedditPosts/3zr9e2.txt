@@ -1,0 +1,14 @@
+title:
+YSK about JustDelete.me a website which lists where to delete your accounts (open source list too!)
+
+content:
+Instead of spending hours in shitty support websites just search on http://justdelete.me/  
+Edit: Wauw this surely blew up. Glad I could help!
+
+url:https://reddit.com/r/YouShouldKnow/comments/3zr9e2/
+author:TheOnlyRealTGS
+subreddit:YouShouldKnow
+score:3782
+numComments:115
+isOver18:False
+hasPostBody:True

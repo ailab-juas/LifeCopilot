@@ -1,0 +1,71 @@
+title:
+YSK: Rabbits live 10-15 years, and require quite a bit of time, effort, and most importantly, space. If one is abandoned, most die within 24 hours. Please do your research before getting one as a pet.
+
+content:
+Why YSK:  Lots of people get rabbits on/around Easter and think they're low maintenance, easy pets that they can just cram in a tiny cage and forget about.  When they realize rabbits aren't as cuddly as cats and their medical care is far more expensive than they thought it'd be (rabbits need to go to exotic vets), they abandon them.  Pet rabbit breeds left to fend for themselves outside normally *die* within 24 hours.
+
+Please, please do your research if you or anyone you know is thinking about getting a bunny.  They are wonderful, caring creatures with huge personalities and make great companions.  Problem is, most people don't know the proper way to take care of a bun.  Which isn't necessarily anyone's fault, but at the end of the day, if a rabbit dies due to neglect, it doesn't matter if it was on purpose or not.  
+
+#Food
+
+One example that springs to mind is there are rabbit "feed" mixes being sold in major pet stores that have _sunflower seeds_ in them.  The fat content of seeds, and the husks can cause GI issues, which will more than likely kill a rabbit being taken care of by an inexperienced caretaker.  Rabbits have _very_ fragile stomachs and require a specific diet.  I know it's popular to see rabbits portrayed in media as eating lots of carrots, but a diet heavy in carrots can actually also kill your little friend.
+
+[Here's some resources from the House Rabbit Society on how to feed a pet bunny](https://rabbit.org/feeding-the-proper-diet/).  TL;DR would be, they need access to _unlimited_ hay* (timothy hay is the standard diet), get 1/4 cup per 5lb body weight per day of pellets ([oxbow](https://www.oxbowanimalhealth.com/our-products/fortified-food/essentials-adult-rabbit-food/) is a great company to buy from.), few cups of fresh greens ([here's a list of greens they can eat](https://rabbit.org/suggested-vegetables-and-fruits-for-a-rabbit-diet), remember what I said about sensitive stomachs?  They're incapable of passing gas, so this needs to be kept in mind when feeding greens), and _very little_ "treat" food.  Rabbits have a sweet tooth, so they'll give you the puppy dog eyes when you only give them a small slice of banana, but it's for their own good.
+
+Note: Hay should be easily available/eaten.  There are loads of "cute" hay feeders like [this](https://images-na.ssl-images-amazon.com/images/I/71JlYtKK2kL._AC_SX466_.jpg), but not only do those not hold sufficient hay to keep a rabbit healthy, it makes eating very difficult.  If a rabbit doesn't have hay to eat constantly, this **will** cause GI issues that can lead to death.
+
+**IF YOUR BUN HAS NOT EATEN OR DRANK IN 24 HOURS OR HAS A SIGNIFICANTLY DECREASED APPETITE GET THEM TO THE VET/PET ER IMMEDIATELY**
+
+-----
+
+#Water
+
+On the heels of food, water is obviously also important.  Rabbits require [~50-150 mL/kg of fresh, cold water per day](http://wabbitwiki.com/wiki/Diet#Water).  They tend to be a little picky, so providing them with fresh water twice per day increases water intake, which is *very* important for GI health (noticing a trend here?).  Sipper bottles are _okay_, but heavy bottomed ceramic bowls are preferable, as rabbits will more often than not drink more from them.  A 2kg rabbit can drink more water per day than a 10kg dog!!
+
+-----
+
+#Habitat
+
+The next big thing I think is important to stress is how much space they need.  Rabbits required, at a _minimum_ four times their body size in a cage, and that's if they have several hours of unrestricted time outside.  If they're primarily being confined, their spaces should be much, much bigger.  Ideally in exercise pen [designed for medium to large dogs](https://www.amazon.com/MidWest-Foldable-Metal-Exercise-Playpen/dp/B000H8YTJI).  It should also be noted that if they're in a cage, the cage should **NEVER** have a metal grate floor, or ideally a metal floor at all.  The wire mesh flooring damages the sensitive paws of rabbits, which can lead to sores/cuts and eventually lead to infection requiring amputation.
+
+Rabbits should also have access to lots of toys and things to do, as they are naturally playful, energetic animals.  They love to knock down toilet paper rolls, throw around [baby stacking cups](https://images-na.ssl-images-amazon.com/images/I/61A1epSF64L._AC_SL1000_.jpg), or [baby keys](https://images-na.ssl-images-amazon.com/images/I/41gZu7fJlAL._AC_SY1000_.jpg).  They also love to chew!  Chewing is important, as their teeth never stop growing, and they need to keep them filed.  The best thing to get them to chew is soft, untreated wood that _WILL NOT SPLINTER_.  [Small pet select](https://shop.smallpetselect.com/collections/natural-toys-and-chews-for-rabbits) has a wide selection of chew toys that are safe for Rabbits.  It's a bit of a guessing game on what they'll like, so you might find yourself buying several toys they never touch.  It is, however, very important for them to feel stimulated, otherwise they'll find other outlets for their chewing.  This includes your carpet, your base boards and your power cables.  The last one is particularly a problem, as chewing live power cables will likely burn your poor little pet's mouth (btw this is a good time to mention that you should [bunny proof your home](https://myhouserabbit.com/rabbit-care/bunny-proofing-your-house/)).
+
+Rabbits also love to play/hide/jump, so things like cardboard boxes or boxes made of untreated wood can be made into a little bunny fortress that will provide them with endless fun :).  Bonus points if it's modular.  They go absolutely bananas if you move things around slightly.
+
+Rabbits also absolutely _DO NOT_ tolerate high temperatures.  Anything over 75 is dangerous, especially if they're outdoor rabbits, and speaking of outdoor rabbits, it's just all around not recommended.  Rabbits should ideally be kept inside to avoid predators and poisonous plants.  Over the years, these little guys have lost their ability to tell apart safe/poisonous plants and will happily munch on something that can cause harm. There are also a laundry list of parasites/diseases that are endemic to the US that can kill a pet rabbit.  This isn't actually specific to them, either.  Most wild hares/rabbits don't live longer than a year.
+
+-----
+
+#General wellbeing
+
+Rabbits are social creatures, and as such, they do _much_ better when paired with another, bonded rabbit.  I would not recommend getting one rabbit unless you can dedicate large amounts of time to interacting and being with it, and even then, most rabbits prefer the company of another rabbit than that of a human.  Being alone/lonely can result in a whole host of negative health effects.  If you already have just one, or you're thinking about getting another, you should also know that it's not as easy as just dumping them into a room together.  Bonding can be a [relatively long process](https://rabbit.org/articles/wp-content/uploads/2016/06/Bonding-Bunnies-PPforrabbit.org_.pdf) and doesn't always end up working out.  Some buns just aren't meant for each other.
+
+I guess to wrap things up before I ramble on for too long, please, please make sure you know what you're getting in to before you get a bun, and if you know someone who already has one that isn't following some of this advice, please direct them to some of the resources I've linked and that I'll link below.  The rabbit community is very passionate and we're all more than willing to help in any way.  We're not here to judge anyone.  We just want what's best for all pet rabbits in the world.
+
+p.s.  Please don't *buy* your rabbit from a breeder.  More often than not, they're kept in squalid conditions and horrendously abused.  There are plenty of [buns available for adoption](https://www.petfinder.com/search/rabbits-for-adoption/), so just like with dogs and cats, adopt don't shop.
+
+#further reading
+
+https://myhouserabbit.com/ - tons of great information
+
+https://wabbitwiki.com/wiki/Main_Page - community run page with lots of information on how to take care of your pet bun.
+
+https://rabbit.org/ - The house rabbit society is AMAZING!!! I can't mention the V word, otherwise the post gets auto removed, but they're run by people who aren't paid and only help because they want rabbits to be happy and healthy :)
+
+https://www.reddit.com/r/Rabbits/ - reddit community of people who are more than willing to help you with _anything_ you could possibly ask.
+
+https://rabbit.org/vet-listings/ - a list of rabbit savvy vets.  If your vet isn't specifically trained in rabbits, they can very easily miss common health concerns that can lead to death.
+
+There's loads more I didn't cover here, but hopefully this is enough to help anyone get started.
+
+Edit: I forgot about this, and I'm not sure how but **NEVER EVER BATHE YOUR BUNNY**, their fur makes it very difficult for them to get completely dry and they'll become hypothermic. The only time it's ever appropriate to bathe them is if they have severe diarrhea and have made a mess.  In that case you MUST be very sure they're completely dry.
+
+Thank you, u/anaesthaesia
+
+url:https://reddit.com/r/YouShouldKnow/comments/mjycid/
+author:IRefuseToGiveAName
+subreddit:YouShouldKnow
+score:27898
+numComments:662
+isOver18:False
+hasPostBody:True

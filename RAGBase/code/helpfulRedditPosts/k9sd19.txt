@@ -1,0 +1,13 @@
+title:
+LPT: Most American recipes call for WAYYYY more sugar than you actually need. You can usually halve or third the sugar and the recipe will still be delicious.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/k9sd19/
+author:bkornblith
+subreddit:LifeProTips
+score:3027
+numComments:488
+isOver18:False
+hasPostBody:False

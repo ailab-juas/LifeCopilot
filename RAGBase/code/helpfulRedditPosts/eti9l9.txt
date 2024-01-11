@@ -1,0 +1,15 @@
+title:
+YSK that the library of Alexandria's internet archive stores a complete snapshot of every webpage on every website and has done so since 1996. It retakes the snapshot every 2 months resulting in 10 billion webpages.
+
+content:
+[Internet Archives Bibliotheca Alexandria ](https://archive.org/about/bibalex_p_r.php)
+
+[bibalex.org](http://www.bibalex.org/en/project/details?documentid=283)
+
+url:https://reddit.com/r/YouShouldKnow/comments/eti9l9/
+author:H8RNsTRIPLE
+subreddit:YouShouldKnow
+score:4957
+numComments:88
+isOver18:False
+hasPostBody:True

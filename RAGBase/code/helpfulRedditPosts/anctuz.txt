@@ -1,0 +1,13 @@
+title:
+LPT: If you and your partner are indecisive with everyday choices( eg dinner), try the 5,2,1 method. One of you pick 5, the other narrows it down to 2 and then the other picks 1.
+
+content:
+This works really well with movies, food, tv shows, clothes etc. My partner and I have always struggled to decide, this has saved us so much time!
+
+url:https://reddit.com/r/LifeProTips/comments/anctuz/
+author:thisudernameistaken
+subreddit:LifeProTips
+score:2054
+numComments:84
+isOver18:False
+hasPostBody:True

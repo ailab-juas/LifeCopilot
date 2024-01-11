@@ -1,0 +1,21 @@
+title:
+LPT: Waking up early isn’t necessary for career success, and can be counterproductive for some. What’s better is to find a schedule that fits your own chronotype, to maximize health and productivity.
+
+content:
+I was at a workplace retirement party, where the retiring person described one of his secrets to climbing the ladder his early morning routine, in which he would wake up, work out, shower eat breakfast, come into work, and still be at his desk being productive by 7am, long before anyone else was. It’s a fairly common “just so” story among certain white collar workers, especially the older workers, that people who wake up early are more successful.
+
+It’s also bullshit. [There was a study of undergraduate students](https://www.nature.com/articles/s41598-017-03171-4) showing the sleep regularity and consistency was a better predictor of performance than specific sleep onset times or wake times, or even duration of sleep. [Plenty of high performing adults and high achievers wake up later](https://www.fastcompany.com/90292573/you-dont-have-to-get-up-at-4-am-to-be-successful-5-ceos-who-wake-up-after-10-am).
+
+As a personal observation, I’ve seen that several big law firms in New York have a strong organizational culture against setting meetings before 10am, probably not even before 11am, and don’t really care if people stumble into the office after 10 or 11 as long as they’re getting their work done.
+
+So go ahead and lean into your ideal schedule to the extent you can. Wake up at 8, 9, or even 10. That means students should choose classes they know fit their schedule better, rather than trying to force themselves to be early risers. That means choose employers and career paths that value productivity rather than early morning visibility. 
+
+And if you’re a supervisor or policymaker, set policies that recognize that your teams can be more productive if scheduling fits their strengths rather than trying to force them to be something they’re not.
+
+url:https://reddit.com/r/LifeProTips/comments/tw8pro/
+author:Globorobohobo
+subreddit:LifeProTips
+score:3419
+numComments:117
+isOver18:False
+hasPostBody:True

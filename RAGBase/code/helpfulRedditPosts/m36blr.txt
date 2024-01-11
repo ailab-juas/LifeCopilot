@@ -1,0 +1,15 @@
+title:
+LPT: When you get a new car battery, take a photo of the invoice and put the paper copy with your vehicle's manual in the car and set a calendar reminder to get your battery tested 1 month before the end of the warranty. Batteries can fail a test up to 6 months before they fail to start your car.
+
+content:
+Source - 8 years working for a Car Battery company. Car batteries are a plastic box with acid and metal inside - no matter what you do it is going to die. Getting a test just before the warranty runs out gives you the best chance of getting a whole new battery and lets you control the timing of replacing the battery. Better to take a Saturday afternoon of your choice rather than lose a Monday morning by surprise and be late for school/work etc. 
+
+This advice will work better or worse depending on the terms of the warranty and the local consumer laws of your country/state/region. Keeping the receipt in the car is practical as if your battery fails out in the world you have on the spot proof of your purchase date.
+
+url:https://reddit.com/r/LifeProTips/comments/m36blr/
+author:SpenceAlmighty
+subreddit:LifeProTips
+score:8812
+numComments:232
+isOver18:False
+hasPostBody:True

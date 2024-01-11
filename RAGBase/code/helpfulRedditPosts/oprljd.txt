@@ -1,0 +1,13 @@
+title:
+LPT: Counter intrusive negative thoughts with positive ones. (E.g., if you think “What if I’m no good at this new job and get fired”, counter it immediately with “What if I am good at this new job and stay a long time”.) Very useful for negative thoughts about appearance/ personality too.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/oprljd/
+author:[deleted]
+subreddit:LifeProTips
+score:2986
+numComments:111
+isOver18:False
+hasPostBody:False

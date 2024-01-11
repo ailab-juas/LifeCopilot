@@ -1,0 +1,15 @@
+title:
+LPT: How to make make folders go unnoticed by others on Windows
+
+content:
+Rename the folder to something like dxsetup and change its icon to any default system icon 
+[Example](http://imgur.com/loNpH13)
+It may come useful when you don't want to or can't turne off show hidden folder option.
+
+url:https://reddit.com/r/LifeProTips/comments/3w79op/
+author:alifornia
+subreddit:LifeProTips
+score:1372
+numComments:455
+isOver18:False
+hasPostBody:True

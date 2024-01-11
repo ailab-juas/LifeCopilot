@@ -1,0 +1,15 @@
+title:
+YSK turn off your windshield wipers when in a drive-thru
+
+content:
+While most people don’t think about it, leaving your windshield wipers going while pulled up to a drive-thru window is actually very frustrating for the employees working. Rain and snow are thrown from the windshield of your car into the store and onto the store employees, and it can become a big problem if multiple customers do it in a row.
+
+Why YSK: Oftentimes, fast-food employees are working long shifts, and standing there serving customer after customer while freezing is incredibly miserable for the employee. It can also make the floors of the store wet, creating unsafe working conditions for the employees. Instead, just turn the wipers back on after you are a few feet ahead of the window :)
+
+url:https://reddit.com/r/YouShouldKnow/comments/k4tv99/
+author:ResidentNecromancer
+subreddit:YouShouldKnow
+score:13755
+numComments:359
+isOver18:False
+hasPostBody:True

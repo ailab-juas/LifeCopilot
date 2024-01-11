@@ -1,0 +1,13 @@
+title:
+YSK you can add site:edu to the end of your google search terms to get results only from educational institutions.
+
+content:
+It's a whole different world when you seek the science behind what you want to know. The internet is full of misinformation and site:edu is a great filter.
+
+url:https://reddit.com/r/YouShouldKnow/comments/4pr0rz/
+author:annieoats
+subreddit:YouShouldKnow
+score:1626
+numComments:45
+isOver18:False
+hasPostBody:True

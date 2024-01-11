@@ -1,0 +1,19 @@
+title:
+LPT before spreading potential gossip, see if it passes the "3 sieves test"
+
+content:
+The first "sieve" is truth: do you know it is true.
+
+The second is kindness: is this a nice thing to say about someone/thing.
+
+The third is utility: is this information beneficial or useful to the person being told to or about.
+
+If it doesn't pass through these then it is best not to say it, and move on with your day.
+
+url:https://reddit.com/r/LifeProTips/comments/z2nvc9/
+author:rickdagless666
+subreddit:LifeProTips
+score:1710
+numComments:139
+isOver18:False
+hasPostBody:True

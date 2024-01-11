@@ -1,0 +1,13 @@
+title:
+LPT: For those who prefer only taking one trip when bringing in groceries, use your laundry basket!
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/11f8fa/
+author:mighty-kites
+subreddit:LifeProTips
+score:1219
+numComments:318
+isOver18:False
+hasPostBody:False

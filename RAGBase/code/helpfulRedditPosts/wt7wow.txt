@@ -1,0 +1,15 @@
+title:
+YSK: There are many restaurants on UberEats that don't exist.
+
+content:
+Why YSK: Many restaurants sell their food on UberEats under a fake restaurant name. I've seen Chuck E Cheese do it to sell pizza. Hooters did it to sell wings. A gas station down the road from me did it to sell their trash food. I can't imagine this is legal and/or allowed on Uber, I imagine they just haven't caught on yet. Just another reason to avoid those apps.
+
+Edit: This has a name, and it's "Ghost kitchens." Cool. Many commenters think this makes this practice totally fine, and not deceptive at all. And to them, I say: Hey can I sell you my iPhone for 120% the going price? Don't worry if you get some shitty knockoff that won't turn on. It's a Ghost phone bro people have been doing this forever.
+
+url:https://reddit.com/r/YouShouldKnow/comments/wt7wow/
+author:notRedditingInClass
+subreddit:YouShouldKnow
+score:19177
+numComments:1705
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: If you're about to make a joke/pun based on someone's first name, and they're older than 5, don't. They've heard it before.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/2wkwml/
+author:testiclesalsa
+subreddit:LifeProTips
+score:1068
+numComments:451
+isOver18:False
+hasPostBody:False

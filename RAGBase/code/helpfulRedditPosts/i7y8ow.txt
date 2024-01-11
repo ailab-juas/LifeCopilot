@@ -1,0 +1,23 @@
+title:
+YSK that the term “non-GMO” is essentially an advertising ploy. GMOs have no established health risks in humans.
+
+content:
+I expect comments might say this is common knowledge. I will point out that a lot of people don't know about GMOs or science in general, including some of my own friends and family. This post is meant to address those people.
+
+The only legitimate controversies over GMOs involve ethical or environmental concerns. One example is Belgian Blue, a breed of cattle that contains extra muscles. Critics say it is unethical to create that kind of cow. Note that the issue here is NOT human health. The cows themselves are perfectly safe to eat.
+
+I will repeat what I said in the title: GMOs have no established health risks in humans. In some cases, they are actually beneficial to humans. Consider golden rice, a modified version of rice that contains added precursors for vitamin A. This was meant to combat vitamin A deficiency in Asia, which can lead to blindness. The public’s perception of GMOs prevented golden rice from succeeding, as was addressed in a letter from over 100 Nobel prize laureates (discussed [here](https://www.washingtonpost.com/news/speaking-of-science/wp/2016/06/29/more-than-100-nobel-laureates-take-on-greenpeace-over-gmo-stance/)).
+
+GMOs do not cause cancer. They are created by inserting a non-naturally occurring gene or mutation into an organism which is then consumed by humans. While it is established that genetic modification can cause cancer, that would occur in the original organism, *not the consumer*. Genetic modifications are not passed between organisms. If you find yourself questioning that statement, consider the fact that genetic diseases are not transmissible.
+
+There is an article from a Harvard blog that reinforces a lot of what I have said. [Check it out](http://sitn.hms.harvard.edu/flash/2015/will-gmos-hurt-my-body/) if you’re interested, and I encourage you to do your own research as well.
+
+Edit: I'm seeing a lot of people address the bad business models (mainly Monsanto and overuse of pesticides). These are all valid complaints. I merely wanted to address the public illusion about the GMOs themselves.
+
+url:https://reddit.com/r/YouShouldKnow/comments/i7y8ow/
+author:dogeman87
+subreddit:YouShouldKnow
+score:39703
+numComments:3064
+isOver18:False
+hasPostBody:True

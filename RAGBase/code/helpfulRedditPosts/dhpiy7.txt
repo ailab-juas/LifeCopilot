@@ -1,0 +1,16 @@
+title:
+YSK that milk is actually dangerous for cats
+
+content:
+Cats actually don't have the enzymes to digest milk and they basically lactose intolerant.
+I knew this fact for long time but I've recently seen a photo in raww of a kitten that has drink milk and I thought that was dangerous for it's health.
+
+P.S.: I'm Italian and I've probably done some errors, so please excuse me.
+
+url:https://reddit.com/r/YouShouldKnow/comments/dhpiy7/
+author:damianolupo
+subreddit:YouShouldKnow
+score:8480
+numComments:449
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+LPT: If you're about to buy some big item on Amazon, check out the manufacturer's website first. Sometimes you can get additional discount and sometimes they don't charge you sales tax.
+
+content:
+Manufacturers pay a premium to list on Amazon.  They can often give you a steeper discount when you buy directly from them.  I just bought 3 air purifiers from the manufacturer's site.  They gave me 10% off and did not charge me sales tax.  Saved me over $100 than if I purchased it from Amazon.
+
+Obviously this doesn't work every time, but it's worth a shot to check out the manufacturer's website anyway to verify the product's specs.
+
+url:https://reddit.com/r/LifeProTips/comments/vvz4ct/
+author:luder888
+subreddit:LifeProTips
+score:1793
+numComments:83
+isOver18:False
+hasPostBody:True

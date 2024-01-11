@@ -1,0 +1,13 @@
+title:
+LPT: Recovered my stolen car by checking the city's transportation website for parking violations and tracked the address.
+
+content:
+My car was stolen a few days ago and since I live in a city with constant street sweeping (and two hour parking limits everywhere), I knew there was a chance it had been ticketed. Sure enough, a day after it was stolen, a ticket popped up. I got the exact location and within hours I was at the address and my car was there. I called the police, they searched my car, and then released it to me. 
+
+url:https://reddit.com/r/LifeProTips/comments/22vunp/
+author:NineNumbers
+subreddit:LifeProTips
+score:3324
+numComments:599
+isOver18:False
+hasPostBody:True

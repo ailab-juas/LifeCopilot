@@ -1,0 +1,15 @@
+title:
+YSK if you can't afford Microsoft Word, Excel, or PowerPoint, there are fully functional web based versions that you can use online free of charge
+
+content:
+There are also lots of free/blank templates, such as resumes, cover letters, flyers, charts, and reports. 
+
+https://products.office.com/en/office-online/
+
+url:https://reddit.com/r/YouShouldKnow/comments/ansyj9/
+author:KorvisKhan
+subreddit:YouShouldKnow
+score:4445
+numComments:204
+isOver18:False
+hasPostBody:True

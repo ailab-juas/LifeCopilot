@@ -1,0 +1,20 @@
+title:
+YSK that legally your employer cannot ask you to refrain from discussing your wage with your coworkers. Also they cannot fire, threaten to fire, or punish you in any way for doing so.
+
+content:
+I just had to explain it to a coworker today.  There are laws in place under the National Labor Relations Act to protect employees from this kind of thing.
+
+This doesn't apply to all employers though: https://www.nlrb.gov/rights-we-protect/jurisdictional-standards
+
+Edit:  Or all employees: https://www.nlrb.gov/resources/faq/nlrb#t38n3182
+
+
+Source: https://www.nlrb.gov/resources/national-labor-relations-act
+
+url:https://reddit.com/r/YouShouldKnow/comments/6ey8sv/
+author:Monster-_-
+subreddit:YouShouldKnow
+score:8917
+numComments:703
+isOver18:False
+hasPostBody:True

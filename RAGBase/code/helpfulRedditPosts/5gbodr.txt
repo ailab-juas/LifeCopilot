@@ -1,0 +1,15 @@
+title:
+YSK: It's not you. Claw machines are rigged. Here's why it's so hard to grab that stuffed animal.
+
+content:
+https://youtu.be/KnMKCHqXLow
+
+The claw is programmed to grab tightly only part of the time. Some people think the claw machine is so hard to win because the stuffed animals are packed so tightly together. But the bigger reason is more insidious than that: the claw machine is programmed to have a strong grip only part of the time.
+
+url:https://reddit.com/r/YouShouldKnow/comments/5gbodr/
+author:Hellish-
+subreddit:YouShouldKnow
+score:4716
+numComments:330
+isOver18:False
+hasPostBody:True

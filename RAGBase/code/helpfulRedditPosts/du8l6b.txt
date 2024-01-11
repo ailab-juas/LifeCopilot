@@ -1,0 +1,27 @@
+title:
+LPT: If you want to make sure someone has learned the correct process, make them deliberately do everything as wrong as possible
+
+content:
+Speaking as a teacher (and anyone in an educational or supervisory role will likely relate), one of the most frustrating things is when you explain a task to someone and check that they understand, only for them to completely botch it. In fairness, we often do make assumptions that because *we* can do it well, others will have the intuition to also have the same skill and knowledge. It's difficult for a learner to recognise and validate their own process as being correct. However, people are very good at recognising when something is wrong.
+
+The way this concept was introduced to me was to play two games of tic-tac-toe. The first game: play as normal and see who wins. You normally see some cockiness as people try to outplay each other and reach the inevitable draw. There's no real thought process of how to win, just making sure the other person doesn't.
+
+Second game: the goal was to *intentionally lose*. Suddenly, the room fell quiet. Each player had to think about doing the *wrong* move in order to lose. There was much more reflection and processing than playing to win.
+
+This was then explained in the context of doing PowerPoint presentations. We have an idea of what a good presentation should look like (clear bullet points, minimal text, minimal distractions, etc.), but we never seem to get students to understand what we expect. Turn the expectations around: as a pre-task, get them to make the *worst possible presentation*, and you suddenly get a bunch of people engaged in outdoing each other in throwing in walls of text, spinny animations and multiple soundtracks. When the students made their proper presentations, they avoided all the things that they had deliberately done wrong.
+
+Whether you're teaching someone else, or teaching yourself, it may be helpful to do it wrong.
+
+**Obligatory clarification edits:**
+
+1. This is intended to be a one-off exercise to **check** understanding. Don't deliberately teach people the wrong method to do this.
+2. The key is that the learner is **intentionally** making the wrong move, not accidentally or unknowingly. They must be aware that it is wrong.
+3. Don't do this in a real, practical situation. This is a learning and training tip.
+
+url:https://reddit.com/r/LifeProTips/comments/du8l6b/
+author:nusensei
+subreddit:LifeProTips
+score:28187
+numComments:463
+isOver18:False
+hasPostBody:True

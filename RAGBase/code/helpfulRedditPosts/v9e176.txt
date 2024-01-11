@@ -1,0 +1,29 @@
+title:
+LPT: By reading 20 pages a day, you can read eighteen 400 page books in a year.
+
+content:
+Many people overestimate the amount of effort needed to read a lot of books, but even for slow and unmotivated readers, 20 pages is a relatively small investment. The hardest part is being consistent. 
+
+&amp;#x200B;
+
+Some math:
+
+20 pages per day x 365 days per year = 7300 pages per year.
+
+7300/1225 = nearly six War And Peace length books.
+
+7300/552 = thirteen The Book Thief length books.
+
+7300/279 = twenty-six Pride And Prejudice length books.
+
+&amp;#x200B;
+
+Happy reading!
+
+url:https://reddit.com/r/LifeProTips/comments/v9e176/
+author:YourFavoriteUnknown
+subreddit:LifeProTips
+score:2338
+numComments:147
+isOver18:False
+hasPostBody:True

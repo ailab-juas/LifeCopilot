@@ -1,0 +1,15 @@
+title:
+YSK if your sink's flow rate is getting worse over time, you need to clean the faucet strainer
+
+content:
+I just doubled the flow rate of my kitchen sink by cleaning off the little mesh screens inside the faucet. Mine has three screens with different mesh sizes. I reassembled it with the largest holes on the water side and the smallest holes on the sink side. I highly recommend taking pictures as you take it apart as mine wasn't very obvious to me the first time.  
+
+[Pictures of disassembly](http://imgur.com/a/vsmyy)
+
+url:https://reddit.com/r/YouShouldKnow/comments/2ppc2o/
+author:[deleted]
+subreddit:YouShouldKnow
+score:1007
+numComments:123
+isOver18:False
+hasPostBody:True

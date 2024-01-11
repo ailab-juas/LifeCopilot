@@ -1,0 +1,15 @@
+title:
+LPT: When job hunting, don't save your resume with the name 'resume' like everyone else.
+
+content:
+I'm a recruiting manager for an IT company. I have the great pleasure of reading hundreds of resumes a day. It behooves your recruiter and yourself to put your name in the title of your resume for easy file recognition. And yes, I'll follow up with you even if you don't get the job. Recruiters who don't do that are jerks. 
+
+Edit: Since so many people are mentioning the call back issue. If I get a college grad applying for a Sr. Network Engineer position, I'm not going to give that applicant a courtesy call. I'm busy too and get a lot of resumes to look through. He'll receive a standard system generated email as I disqualify his resume or close the position. If I've already spoken with you and set you up for an interview, at that time we're more like... bros. I'm working for you. We have mutual interests in you getting a job. That deserves the courtesy of a phone call. 
+
+url:https://reddit.com/r/LifeProTips/comments/2etr6a/
+author:myopinionstinks
+subreddit:LifeProTips
+score:2909
+numComments:939
+isOver18:False
+hasPostBody:True

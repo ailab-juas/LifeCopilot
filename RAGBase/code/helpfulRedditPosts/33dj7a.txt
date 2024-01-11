@@ -1,0 +1,13 @@
+title:
+LPT: When making your class schedule. The classes you hate most try to put in the middle of your day that way you're less likely to skip it
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/33dj7a/
+author:technak
+subreddit:LifeProTips
+score:3263
+numComments:864
+isOver18:False
+hasPostBody:False

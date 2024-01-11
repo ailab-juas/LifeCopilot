@@ -1,0 +1,13 @@
+title:
+LPT: If you connect to an app on Facebook and they requires you to post something on your feed to get some freebies (extra credits, more features, etc.), set the privacy setting to “Only me”. This way, your friends won’t see those posts.
+
+content:
+Not very ethical for the app developer tho.
+
+url:https://reddit.com/r/LifeProTips/comments/8w64ln/
+author:JustPattrick
+subreddit:LifeProTips
+score:1884
+numComments:57
+isOver18:False
+hasPostBody:True

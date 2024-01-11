@@ -1,0 +1,13 @@
+title:
+YSK that you only have 30 days after accepting Whatsapp's updated TOS to opt out of Facebook data sharing
+
+content:
+If you are concerned about Whatsapp sharing your data with Facebook, you need to opt out within 30 days of accepting Whatsapp's latest Terms of Service. You can [follow the instructions here to opt out](https://www.whatsapp.com/faq/general/26000016).
+
+url:https://reddit.com/r/YouShouldKnow/comments/541cx1/
+author:Clavis_Apocalypticae
+subreddit:YouShouldKnow
+score:3854
+numComments:159
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,17 @@
+title:
+YSK there's a free alternative to Wolfram Alpha called Symbolab that shows all the steps
+
+content:
+It even formats your equation or expression as you enter it, making it easier to ensure you're entering it correctly.
+
+It's not quite as robust as Wolfram, but it's very useful for showing the steps for integrals, derivatives, and limits.
+
+Anyway, [here's the link](https://www.symbolab.com/).
+
+url:https://reddit.com/r/YouShouldKnow/comments/59otdi/
+author:Hakaan256
+subreddit:YouShouldKnow
+score:5172
+numComments:175
+isOver18:False
+hasPostBody:True

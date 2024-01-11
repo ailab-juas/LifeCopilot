@@ -1,0 +1,17 @@
+title:
+LPT: If you're trying to find an example on how to use a word in a sentence, google it first, and then click "news".
+
+content:
+You should find a few articles with said word in the title. Keep in mind that this won't always work.
+
+Edit: What have you done to my inbox. I guess I made it to FP?
+
+Edit 2: [Okay, you guys win.](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSXQdO0tPwDlsVALkA5YAL4N9xlofOelZQKD7UfTW21FfqnXVO_YF0Ot2lHuQ)
+
+url:https://reddit.com/r/LifeProTips/comments/54f5x1/
+author:PlasmaScythe
+subreddit:LifeProTips
+score:4534
+numComments:303
+isOver18:False
+hasPostBody:True

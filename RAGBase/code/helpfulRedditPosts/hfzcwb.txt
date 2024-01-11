@@ -1,0 +1,13 @@
+title:
+LPT: Whether you think you are photogenic or not, take regular photos of yourself and keep them unedited.
+
+content:
+Looking back in life, you will regret not seeing you, or your true self (if you photoshop every pic), no matter what you currently think you look like.
+
+url:https://reddit.com/r/LifeProTips/comments/hfzcwb/
+author:QuBoudica
+subreddit:LifeProTips
+score:1475
+numComments:84
+isOver18:False
+hasPostBody:True

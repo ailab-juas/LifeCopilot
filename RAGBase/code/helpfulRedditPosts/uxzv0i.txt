@@ -1,0 +1,13 @@
+title:
+LPT: if you get coffee in paper/foam cup to drink while you’re driving at night, align the opening in the lid opposite the seam. That way you can pick it up and feel the seam under your fingers to know where the lid opening is without having to look.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/uxzv0i/
+author:CapNBall1851
+subreddit:LifeProTips
+score:1332
+numComments:70
+isOver18:False
+hasPostBody:False

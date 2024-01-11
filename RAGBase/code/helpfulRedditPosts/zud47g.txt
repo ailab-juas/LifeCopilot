@@ -1,0 +1,21 @@
+title:
+YSK: If your trip is canceled, Airbnb will not help with zero refund policies, including service and cleaning fees
+
+content:
+ So, we woke up today to hear our flights (DTW) were canceled. No outbound flights at all for many days.
+
+Contacted the Airbnb hosts immediately, since it's kind of an Act-of-God thing, being the whole US is frozen (except Florida, where they are). Their response? Zero refund, because "we have a strict policy." Taxes? Fees? Cleaning? No leeway on any of it. It's a good thing it was only three nights, because they would have taken a whole week if they could get away with it. Management company.
+
+This may be the end of my vacation-rental-site Odyssey, after many positive experiences. I understand when hotels will dock a night if you really can't make it. But many nights, when they can rebook? Including fees they actually don't incur?
+
+Why YSK: you may assume that the kind of sensible policies that have governed the hotel industry since forever would hold for rental companies, but it is apparently not so, even if the cause of disruption was provably beyond your control.
+
+\[Any advice about recourse would be much appreciated as well.\]
+
+url:https://reddit.com/r/YouShouldKnow/comments/zud47g/
+author:GrazziDad
+subreddit:YouShouldKnow
+score:1405
+numComments:203
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,19 @@
+title:
+LPT: Frozen vegetables are cheaper, healthier, and fresher than canned vegetables.
+
+content:
+Cheaper: even though canned vegetables *seem* cheap because they’re a dollar per can or less, frozen bags of veggies typically offer a greater quantity for an equivalent price. Pro tip: buy in bulk! Frozen veggies last a long time. Separate into meal-size portions before freezing to avoid the “single huge lump of frozen peas” problem.
+
+Healthier: if you look at the ingredients on canned vegetables they will usually contain preservatives and added salt, whereas the ingredients on frozen bags of vegetables almost always are just the vegetables themselves. There is also a small long-term health concern with acidic canned foods (like tomatoes) sitting in your pantry for too long, meaning like 18+ months. (Not a food expert, maybe someone can explain.)
+
+Fresher: because veggies are frozen at peak freshness they remain that way until they’re cooked and eaten, and don’t need preservatives to stay that way. This means their color is usually more vibrant and their flavor more intense and natural, and it also means you will receive more nutrients from them.
+
+As for cooking veggies, the water you cook them in is what saps them of their nutrients. This is why, in general, the less water you cook them in the more nutritious they will be. So, microwaving or steaming is better than boiling. (And go easy on the oil and dressings. You'll still get the nutrients, sure, but you'll also get a ton of extra sodium, calories and fat depending on what you're using.)
+
+url:https://reddit.com/r/LifeProTips/comments/qmy6uc/
+author:EmptyCan27
+subreddit:LifeProTips
+score:4086
+numComments:223
+isOver18:False
+hasPostBody:True

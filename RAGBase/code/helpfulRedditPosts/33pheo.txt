@@ -1,0 +1,13 @@
+title:
+LPT: don't answer the "do you know why I pulled you over?" Question. If you answer it wrong, you have added another reason for a ticket.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/33pheo/
+author:Counterattack199
+subreddit:LifeProTips
+score:1348
+numComments:983
+isOver18:False
+hasPostBody:False

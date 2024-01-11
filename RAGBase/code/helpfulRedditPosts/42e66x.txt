@@ -1,0 +1,19 @@
+title:
+YSK how to remove any sign-up/sign-in overlay that prevents you from viewing a page (Chrome extension)
+
+content:
+Delivered through this extension is the simplest and most convenient way to remove overlays.
+
+You don't have to spend time looking through the webpage's elements, nor do you have to add filters to anything, it's simply a case of right clicking and deleting any intrusive overlays.
+
+Hope you find it as useful as I have -
+
+[f*ck overlays](https://chrome.google.com/webstore/detail/fck-overlays/ppedokobpbdajgiejhnjfbdjlgobcpkp)
+
+url:https://reddit.com/r/YouShouldKnow/comments/42e66x/
+author:playthatfunkymusic
+subreddit:YouShouldKnow
+score:1053
+numComments:79
+isOver18:False
+hasPostBody:True

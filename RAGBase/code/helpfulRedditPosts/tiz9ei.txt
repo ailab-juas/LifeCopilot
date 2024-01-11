@@ -1,0 +1,13 @@
+title:
+LPT: Always check the license plate on vehicles you rent before leaving the lot.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/tiz9ei/
+author:[deleted]
+subreddit:LifeProTips
+score:1642
+numComments:190
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Trying to break your smartphone addiction? Turn your phone to “grayscale” mode. The lack of color will make your phone screen less appealing and notification symbols less urgent.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/dx2njj/
+author:goodluck_canuck
+subreddit:LifeProTips
+score:27154
+numComments:726
+isOver18:False
+hasPostBody:False

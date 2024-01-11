@@ -1,0 +1,25 @@
+title:
+LPT: Accidentally think that you permanently deleted a word document? Microsoft (probably) has got your back.
+
+content:
+I've been working on a paper for a few hours now and did the cardinal sin of not saving as I worked. I went to minimize the word document I was working on, and search for something online when I made series of huge mistakes. 
+
+Instead of hitting the minimize button, my track pad slid a bit and I accidentally pressed the x button, and at that exact same moment my hand accidentally hit the part of the screen where the don't save button would appear (touchscreen). 
+
+So I had clicked don't save on a file that I had previously never saved and had been working on for a few hours, and I thought it was over. There was no autosaved file, nor was there anything in my recycle bin; the file was just gone. 
+
+I researched for close to an hour on how to find the file to no luck, when I though why not just search for the autosave file type in all of windows. This file couldn't be found in the recent unsaved documents tab of word either, so I though this was a longshot. 
+
+I typed in .asd into the search bar when on "my/this pc" in file explorer, and I found the file! Turns out windows still created the automatic autosave, but just made it extremely hard to find since I had deleted the file. I then used word to just open the .asd file, and I had my document. I still lost a good deal of work because it was an old auto save, but I also kept a good deal of work too. 
+
+
+
+tl;dr: search .asd into file explorer to find your document's autosave even if you chose not to save the document, also save your work. 
+
+url:https://reddit.com/r/LifeProTips/comments/4dww6m/
+author:randomdebater
+subreddit:LifeProTips
+score:4699
+numComments:555
+isOver18:False
+hasPostBody:True

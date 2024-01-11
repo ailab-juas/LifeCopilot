@@ -1,0 +1,13 @@
+title:
+When cooking with oil, throw 1 kernel of popcorn in your skillet and when the kernel pops you know your oil is hot enough to cook with.  
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/q0ek7/
+author:thinkadinky
+subreddit:LifeProTips
+score:1101
+numComments:213
+isOver18:False
+hasPostBody:False

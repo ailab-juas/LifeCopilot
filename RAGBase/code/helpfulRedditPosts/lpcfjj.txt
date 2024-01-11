@@ -1,0 +1,13 @@
+title:
+LPT: If you're at a hotel and have to call 911, call from the hotel phone. The front desk is immediately alerted of your emergency call and will also check in on you to make sure things are ok. Source: I used to work in hotels.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/lpcfjj/
+author:omnipotent818
+subreddit:LifeProTips
+score:41989
+numComments:530
+isOver18:False
+hasPostBody:False

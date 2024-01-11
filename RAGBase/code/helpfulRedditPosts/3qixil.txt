@@ -1,0 +1,34 @@
+title:
+LPT: If a webpage is unavailable (content removed or site down), prepending "cache:" to the URL automatically redirects you to a cached version of the page
+
+content:
+(From Google cache, if available.) It works on Firefox too.
+
+
+You can also bookmark these macros:
+
+For Google cache
+
+    javascript:window.location.href='https://webcache.googleusercontent.com/search?q=cache:'+encodeURIComponent(window.location.href.replace(/^https?:\/\//i, ''));
+
+For the Internet Wayback Machine
+
+    javascript:window.location.href='https://web.archive.org/web/'+window.location.href.replace(/^https?:\/\//i, '');
+
+e.g.
+
+http://webcache.googleusercontent.com/search?q=cache:www.reddit.com%2Fr%2FLifeProTips%2Fcomments%2F3qixil%2Flpt_if_a_webpage_is_unavailable_content_removed%2F
+
+https://web.archive.org/web/www.reddit.com/r/LifeProTips/comments/3qixil/lpt_if_a_webpage_is_unavailable_content_removed/
+
+Here's another macro that will publically archive the current page you're on (for history!):
+
+    javascript:window.location.href='https://web.archive.org/save/'+window.location.href;
+
+url:https://reddit.com/r/LifeProTips/comments/3qixil/
+author:FollyAdvice
+subreddit:LifeProTips
+score:2619
+numComments:80
+isOver18:False
+hasPostBody:True

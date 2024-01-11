@@ -1,0 +1,13 @@
+title:
+YSK: Most of the time when you have charging or headphone jack problems on your device it is because of dust!
+
+content:
+Why YSK: A lot of times people who fix your phone will replace the part itself because they see an opportunity, not only that but you can fix the problem yourself by just getting the dust off with a toothpick carefully
+
+url:https://reddit.com/r/YouShouldKnow/comments/rz6sze/
+author:ThatFannyGod
+subreddit:YouShouldKnow
+score:2813
+numComments:122
+isOver18:False
+hasPostBody:True

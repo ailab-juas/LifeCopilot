@@ -1,0 +1,13 @@
+title:
+YSK that Groupon can take up to 50% of a transaction made with their coupon. Instead of letting them take money from small businesses, call the business and tell them you have a Groupon. They’ll most likely give you the Groupon price and get to keep the full transaction amount.
+
+content:
+I do this with my oil change place and have recently done this to a skydiving company as well. Both were happy to give me the deal without the Groupon and told me themselves they prefer it like that as they get to keep the full amount of money.
+
+url:https://reddit.com/r/YouShouldKnow/comments/hoe2mb/
+author:PierceLeVeil
+subreddit:YouShouldKnow
+score:1435
+numComments:34
+isOver18:False
+hasPostBody:True

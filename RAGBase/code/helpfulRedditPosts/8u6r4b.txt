@@ -1,0 +1,13 @@
+title:
+LPT: When you're thinking of putting something off for later, try imagining yourself from several days in the future who'll be incredibly annoyed about having to do it anyway, and how nice they'd feel if it was already done beforehand and they could do whatever they wanted then instead
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/8u6r4b/
+author:RevolsinX
+subreddit:LifeProTips
+score:1033
+numComments:48
+isOver18:False
+hasPostBody:False

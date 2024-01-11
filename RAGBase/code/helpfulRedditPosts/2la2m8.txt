@@ -1,0 +1,15 @@
+title:
+LPT: Instead of wiggling the mouse cursor when giving a powerpoint presentation, hold control and left-click while you move the mouse to get a red laser pointer dot.
+
+content:
+At least on my version of powerpoint. Has to be in presentation mode; not in creation mode.
+
+E: cool, thanks for all the comments. This would have been helpful earlier, but I didn't realize it would get this much attention. I thought this was a good LPT because I've heard a lot of people get criticized for using a real laser pointer that they can't keep still because they are shaky (nervous, whatever), then it becomes more distracting. Then people say the same thing for using the mouse, which they often wiggle around vigorously (probably to make it visible again) and it creates a similar distracting effect. To minimize this, I've used the laser pointer trick to slowly circle something I want to highlight. Yes, I realize when the situation allows, PPT is sometimes not the best modality to convey information. And yes, I also agree that if you're doing a big presentation, prepared fade-in boxes, underlines, etc. can be used to better effect (sometimes I get lost though, if I speak ahead of these). Present on, presenters.
+
+url:https://reddit.com/r/LifeProTips/comments/2la2m8/
+author:gggb777
+subreddit:LifeProTips
+score:3911
+numComments:250
+isOver18:False
+hasPostBody:True

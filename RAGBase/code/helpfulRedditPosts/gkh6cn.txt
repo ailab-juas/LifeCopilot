@@ -1,0 +1,13 @@
+title:
+LPT: Change the font when proofreading
+
+content:
+If you keep reading and rereading in the same font, your brain eventually goes "ah this is old, we've seen it already" and glosses over mistakes. This is because our brains are wired to pick up the most on new information - in our ancestors' time, anything new could be a threat. When you change the font, your brain sees everything as new information and this allows you to catch more mistakes. It's been very helpful for me on college essays and the like.
+
+url:https://reddit.com/r/LifeProTips/comments/gkh6cn/
+author:EmCWolf13
+subreddit:LifeProTips
+score:6486
+numComments:186
+isOver18:False
+hasPostBody:True

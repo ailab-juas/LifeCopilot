@@ -1,0 +1,13 @@
+title:
+LPT: Cook/heat up your tortillas in the skillet before making a taco, burrito, etc.
+
+content:
+I’ve seen many videos of people making tacos, burritos, etc with raw tortillas. Heating up the tortilla in the skillet makes the taste and texture way better. As a Mexican, I feel that my duty is to make sure no raw tortillas are eaten.
+
+url:https://reddit.com/r/LifeProTips/comments/xpv64i/
+author:nenechocorrol
+subreddit:LifeProTips
+score:1096
+numComments:174
+isOver18:False
+hasPostBody:True

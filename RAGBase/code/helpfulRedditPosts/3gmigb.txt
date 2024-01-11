@@ -1,0 +1,15 @@
+title:
+LPT: When going to a big event with a large group of people, if possible, try to book two rows of seats rather than just one really long row.
+
+content:
+It's awesome being able to sit together with all of your friends for X event, but you can really only interact with people in your immediate vicinity. The people on the ends can't really talk to each other without shouting over 5 people.
+
+Splitting up your group into 2 rows would make for a better experience. Not always possible if you are late to get tickets though. Then you get what you can.  
+
+url:https://reddit.com/r/LifeProTips/comments/3gmigb/
+author:mistersir2
+subreddit:LifeProTips
+score:6122
+numComments:702
+isOver18:False
+hasPostBody:True

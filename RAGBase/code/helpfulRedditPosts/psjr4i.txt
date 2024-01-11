@@ -1,0 +1,13 @@
+title:
+LPT: something is better than nothing. I’ve only just started actually using this and I feel so much better. If it pops in my head I’ll just to like 5 push ups. Or a couple jumping jacks. Doesn’t have to be an hour workout. But something is better than nothing and I feel so much better these days.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/psjr4i/
+author:AsthmaticCoughing
+subreddit:LifeProTips
+score:5132
+numComments:141
+isOver18:False
+hasPostBody:False

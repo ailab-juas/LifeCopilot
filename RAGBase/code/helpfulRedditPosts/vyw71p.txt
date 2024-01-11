@@ -1,0 +1,13 @@
+title:
+LPT: If you need to cancel a hotel reservation, but are unable to because of a 24 hour policy, call the company and move your reservation to a later date. Call back within a few days and cancel for no charge.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/vyw71p/
+author:BDunnn
+subreddit:LifeProTips
+score:51468
+numComments:893
+isOver18:False
+hasPostBody:False

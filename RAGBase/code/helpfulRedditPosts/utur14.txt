@@ -1,0 +1,13 @@
+title:
+LPT: If you are looking for someone to handle your money, always ask if they are a "fiduciary." A fiduciary is someome required legally and ethically to put their clients interests first over their own. Anyone else is probably just a salesman pretending to be a financial expert.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/utur14/
+author:PUZZLESANDCUMPIRES
+subreddit:LifeProTips
+score:38222
+numComments:761
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: If the IRS calls you, it is a scam. The IRS will always start contact you through the US Postal Service.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/cqa6am/
+author:CommanderNightHawk
+subreddit:LifeProTips
+score:57560
+numComments:1206
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,19 @@
+title:
+YSK about YOPmail, a free disposable email generator
+
+content:
+I've been using YOPmail for a few years now. Whenever I feel like I may be signing up my personal email for something sketchy, or if a site holds back information without an email, I always give them a yopmail address. You can type in literally anything before "@yopmail.com" and there will be an inbox made for it. It's a great, free service that everyone should know about.    
+
+
+&amp;nbsp;
+
+
+From the [site](http://www.yopmail.com): "YOPmail’s free, quick and feature rich service guards you against spam, phishing and other online abuses. Protect your actual email, instead use YOPmail’s disposable one to sign-up wherever you want. YOPmail creates temporary inboxes of your choice instantaneously. Use ‘any-name-of-your-choice’@yopmail.com to sign up anywhere. Email sent to the ‘address’@yopmail.com is instantaneously created at YOPmail server. No registration required for checking your temporary inbox at YOPmail."
+
+url:https://reddit.com/r/YouShouldKnow/comments/cx2qn1/
+author:czaja25
+subreddit:YouShouldKnow
+score:5014
+numComments:135
+isOver18:False
+hasPostBody:True

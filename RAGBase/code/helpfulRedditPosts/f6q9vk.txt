@@ -1,0 +1,19 @@
+title:
+YSK if you own a Samsung galaxy and recieved a find my phone notification 2 hours ago, no one is tracking you, Samsung fucked up and sent it to all galaxy phones.
+
+content:
+Panic over
+
+Edit: Wow this blew up! Thank you so much for the awards. I'm glad I could help.
+
+Samsung have since apologised and explained that the message was sent unintentionally during internal testing. You can read all about it here. 
+
+https://www.bbc.co.uk/news/technology-51572775
+
+url:https://reddit.com/r/YouShouldKnow/comments/f6q9vk/
+author:Terror-Error
+subreddit:YouShouldKnow
+score:50078
+numComments:1567
+isOver18:False
+hasPostBody:True

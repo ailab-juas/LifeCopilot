@@ -1,0 +1,13 @@
+title:
+LPT: Make a video of your sick pet during one of his/hers episodes and show it to your vet.
+
+content:
+I have a pug, he had a problem with breathing but sometimes his chest was bulging like a frogs neck. That was very strange to me but my vet told me that this is normal for pugs because they are brachycephalic dogs meaning, they have short muzzles. He was fine, his heart was great, blod work was normal, every test come back as healthy. His bulge on neck/chest was periodical so the vet didn't see anything abnormal like I describe. I went home and my pet was very sleepy and in a "bad mood". In one of his breathing episodes at home I made a video of my pug. When vet. saw this he was very confused because he didn't see that very often. He went on x-ray and we find out that he has pneumothorax (the presence of air or gas in the cavity between the lungs and the chest wall, causing collapse of the lung) So basically my pug had a leakage of air from lungs and he was compensating by heavy breathing and he broke his chest muscles because of that so bulge was in fact his lungs. We took the extra air from chest wall and he lives but muscle is damaged permanently. Making a video was a lifesaver.
+
+url:https://reddit.com/r/LifeProTips/comments/43vvkt/
+author:alderbaran
+subreddit:LifeProTips
+score:4776
+numComments:288
+isOver18:False
+hasPostBody:True

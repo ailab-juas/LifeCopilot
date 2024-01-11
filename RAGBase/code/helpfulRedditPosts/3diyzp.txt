@@ -1,0 +1,17 @@
+title:
+LPT: Create a filter to delay all outgoing email for one minute.
+
+content:
+Google how to do it for your mail client.
+
+https://www.google.com/search?q=delay+outgoing+mail
+
+This has saved me TONS of times. Usually it's just to fix a typo, but at least a few times I've stopped an email that could have been far worse.
+
+url:https://reddit.com/r/LifeProTips/comments/3diyzp/
+author:MathewC
+subreddit:LifeProTips
+score:1107
+numComments:99
+isOver18:False
+hasPostBody:True

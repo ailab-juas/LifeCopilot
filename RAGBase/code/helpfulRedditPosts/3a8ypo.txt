@@ -1,0 +1,13 @@
+title:
+LPT: When proofreading your own work, if you have to read a sentence twice, you probably need to reword that sentence.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/3a8ypo/
+author:intayou
+subreddit:LifeProTips
+score:2740
+numComments:150
+isOver18:False
+hasPostBody:False

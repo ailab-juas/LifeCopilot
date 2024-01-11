@@ -1,0 +1,13 @@
+title:
+LPT: When thinking about purchases, consider Cost Per Use not just the price tag.
+
+content:
+Many times items with lower price tag turn out to be much more expensive if you only use it a couple times versus everyday.
+
+url:https://reddit.com/r/LifeProTips/comments/g4rh8d/
+author:Blue_Dot_Citizen
+subreddit:LifeProTips
+score:3068
+numComments:264
+isOver18:False
+hasPostBody:True

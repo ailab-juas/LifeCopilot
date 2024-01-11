@@ -1,0 +1,13 @@
+title:
+LPT: Always take a picture of a receipt of anything expensive.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5ja5su/
+author:ThePanchamBros
+subreddit:LifeProTips
+score:1321
+numComments:116
+isOver18:False
+hasPostBody:False

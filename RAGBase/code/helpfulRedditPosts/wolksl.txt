@@ -1,0 +1,13 @@
+title:
+YSK how to potentially deter/avoid a break in by replacing the original/standard little screws that your door(s) lock plates are installed with
+
+content:
+Why YSK: Most contractors install the plates with the [supplied screws](https://i.imgur.com/tnMB3w9.jpg) which are only a half inch long and can easily come out with one kick. Instead, use 4 inch screws in their place that go through the door frame and into the framing of the house. Making a burglar make a bunch of noise and be foiled in their initial plan can not only give you and your loved ones more time to arm yourselves or get away, but burglars will most likely move on to an easier target.
+
+url:https://reddit.com/r/YouShouldKnow/comments/wolksl/
+author:vinoKwine
+subreddit:YouShouldKnow
+score:13583
+numComments:578
+isOver18:False
+hasPostBody:True

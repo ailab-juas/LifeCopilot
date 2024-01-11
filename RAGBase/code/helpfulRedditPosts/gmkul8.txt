@@ -1,0 +1,15 @@
+title:
+LPT: Use smile.amazon.com instead of the regular site. It's the same exact thing, except they donate 0.5% of every eligible purchase price to a charity of your choosing.
+
+content:
+You just choose a charity and they donate with every eligible purchase you make. Been using it for a long time now and have donated quite a bit just by shopping like I normally would.
+
+I'm not affiliated with Amazon in any way, just letting people know of an easy way to help their favorite charity.
+
+url:https://reddit.com/r/LifeProTips/comments/gmkul8/
+author:Ballistic_Turtle
+subreddit:LifeProTips
+score:3502
+numComments:222
+isOver18:False
+hasPostBody:True

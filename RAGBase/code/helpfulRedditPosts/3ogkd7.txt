@@ -1,0 +1,23 @@
+title:
+LPT: Remove the word 'just' if it doesn't add better clarity or affect the meaning of the statement
+
+content:
+Recently, I noticed after reading this [article](http://www.telegraph.co.uk/women/womens-business/11721427/Women-do-need-to-man-up-and-stop-using-the-word-just.html) that I was using the word 'just' when it didn't affect then meaning of the statement. 
+
+I know there is some [backlash](http://www.bustle.com/articles/94852-former-google-executive-ellen-petry-leanse-says-women-should-stop-saying-just-and-shes-kind-of) to the above thinking.  My concern is not the politically correctness here. I noticed I wasn't using it as a clarifier and so I've tried to remove 'just' where necessary. 
+
+Example:
+
+Affects the meaning: "I just got home."
+
+Doesn't affect the meaning: "I just wanted to touch base with you."
+
+**EDIT: Thanks everyone for the great comments and suggestions. I love your jokes. What a great response!**
+
+url:https://reddit.com/r/LifeProTips/comments/3ogkd7/
+author:ettuniversum
+subreddit:LifeProTips
+score:3252
+numComments:588
+isOver18:False
+hasPostBody:True

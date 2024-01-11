@@ -1,0 +1,13 @@
+title:
+YSK that flagging online ads will increase the price of future ads for that advertiser
+
+content:
+[deleted]
+
+url:https://reddit.com/r/YouShouldKnow/comments/az3gfz/
+author:[deleted]
+subreddit:YouShouldKnow
+score:1331
+numComments:41
+isOver18:False
+hasPostBody:True

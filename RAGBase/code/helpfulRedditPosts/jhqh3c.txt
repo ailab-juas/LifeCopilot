@@ -1,0 +1,13 @@
+title:
+LPT: Rather than trying to impress other people, seek to impress yourself. This way you won't care as much about what others think and you will live more aligned with your own values/intentions.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/jhqh3c/
+author:dungandcougar
+subreddit:LifeProTips
+score:20444
+numComments:207
+isOver18:False
+hasPostBody:False

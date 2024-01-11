@@ -1,0 +1,15 @@
+title:
+YSK Reddit’s dark theme can go darker
+
+content:
+I just went into settings and found out you can change the dark theme to a darker black called, “midnight”. 
+
+Why YSK: The contrast is amazing
+
+url:https://reddit.com/r/YouShouldKnow/comments/pdfszo/
+author:Space-90
+subreddit:YouShouldKnow
+score:8021
+numComments:319
+isOver18:False
+hasPostBody:True

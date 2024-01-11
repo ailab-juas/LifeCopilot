@@ -1,0 +1,44 @@
+title:
+LPT: Your lectures recorded? Download VLC media player and watch it at 1.4x speed to save TONS of time.
+
+content:
+Watching lectures to study is a great way to freshen yourself up for an exam or even to cram. However, it can take hours and hours. You can cut a huge chunk of the time by watching it in an increased speed.
+ 
+At first it will sound funny / ~~high pitched~~ but after 1-2 minutes you will stop noticing and you will get used to the sound. Also you can process information a lot faster when comprehending than trying to articulate lecture material so it shouldn't be too fast. 1.3~1.4X works best for me.
+
+Edit: 
+
+* VLC is a media player that I use and am comfortable with, to all the naysayers I'm sorry I suggested a product that I use but it works. 
+
+* I use voice recorder application on my smart phone for classes which don't have the luxury of recording class. 
+
+* strikethrough on "high-pitched"
+
+* Buhnyfoofoo's professor did research on this... [here!](http://www.eric.ed.gov/ERICWebPortal/search/detailmini.jsp?_nfpb=true&amp;_&amp;ERICExtSearch_SearchValue_0=EJ947481&amp;ERICExtSearch_SearchType_0=no&amp;accno=EJ947481)
+
+    * A summary of the research paper by /u/Exaskryz : I just looked at it, and here's a summary from the conclusion (not the abstract):
+
+        * Multimedia principle - giving multiple representations that build off of each other is better than just one representation.  
+        * Redundancy inhibts learning. That is, just reading aloud text and displaying it (powerpoints, handouts, etc.) inhibits learning.  
+        * You can replay *video* lecture material at up to 1.33x speed and get the same learning benefit. Video may be just a powerpoint with changing pictures that supports the audio.  
+        * Audio only lectures at 1.33x speed hinder high level learning (their example of high level is problem solving). If the audio lecture is part of a multimedia environment, it's OK though.  
+        * A multimedia environment is defined: "verbal (text or narration) and non-verbal (images or icons)" 
+
+            
+* People curious of what I study, I'm a Neuroscience Major at the University of MIchigan. I would ask kindly to not "bash" other people's fields of study just because you feel that yours is more difficult. Information is information and this tip can be applied very broadly.
+
+
+* Amazing tip from /u/RandomIndianGuy about watching videos that are already on youtube or online.
+        
+        vlc lets you play video's from youtube on it, without downloading. open vlc, click ctrl+N and copy paste URL
+
+* Another online video tip by /u/ladyzebra [HTML5] (http://www.reddit.com/r/LifeProTips/comments/1bbr2h/lpt_watch_youtube_lectures_in_half_the_time) 
+    (Thanks /u/soloride for the suggestion)
+
+url:https://reddit.com/r/LifeProTips/comments/1cbj9a/
+author:paperclipps
+subreddit:LifeProTips
+score:2219
+numComments:306
+isOver18:False
+hasPostBody:True

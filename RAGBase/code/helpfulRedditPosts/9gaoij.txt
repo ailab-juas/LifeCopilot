@@ -1,0 +1,13 @@
+title:
+LPT: Don't ever pour bacon grease down the drain. Instead, take a small piece of foil, use a glass to turn the foil into a bowl shape and pour the grease in. Once it cools down and hardens, throw it away!
+
+content:
+Don't touch the foil when you first pour it unless you want to burn your hand.
+
+url:https://reddit.com/r/LifeProTips/comments/9gaoij/
+author:azndy
+subreddit:LifeProTips
+score:4094
+numComments:468
+isOver18:False
+hasPostBody:True

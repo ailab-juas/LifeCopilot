@@ -1,0 +1,13 @@
+title:
+LPT: When greeting someone who just went through a difficult time say "It's good to see you" rather than "how are you doing", or "how's it going". This will avoid an awkward conversation they might not be ready to have, while feeling more sincere.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/jgugf6/
+author:EpicMangina
+subreddit:LifeProTips
+score:29014
+numComments:237
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: If you are packing a lot of clothes into a suitcase, roll your clothes instead of folding them. Not only will this give you more space, it will also create less wrinkles.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/thysx6/
+author:the_orca_jungle
+subreddit:LifeProTips
+score:5585
+numComments:186
+isOver18:False
+hasPostBody:False

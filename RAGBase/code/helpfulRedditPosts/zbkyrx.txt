@@ -1,0 +1,13 @@
+title:
+LPT: For homeowners doing their own electrical work: When replacing sockets and switches (ESPECIALLY a lot of them), use a #1 square driver bit instead of a flat-head or Phillips; it's MUCH easier, and will allow you to achieve a tighter connection with less effort.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/zbkyrx/
+author:[deleted]
+subreddit:LifeProTips
+score:1043
+numComments:113
+isOver18:False
+hasPostBody:True

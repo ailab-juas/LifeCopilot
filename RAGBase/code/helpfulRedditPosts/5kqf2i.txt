@@ -1,0 +1,17 @@
+title:
+YSK that you could use your android phone as a microphone input
+
+content:
+I figured this out yesterday. You can download the Microphone app, turn it on, (push the mic button so its red) and use an aux cord to plug into your pc! Works great if you're desperate.
+
+This is the app I used.
+
+https://play.google.com/store/apps/details?id=net.bitplane.android.microphone
+
+url:https://reddit.com/r/YouShouldKnow/comments/5kqf2i/
+author:gulalusc
+subreddit:YouShouldKnow
+score:1666
+numComments:94
+isOver18:False
+hasPostBody:True

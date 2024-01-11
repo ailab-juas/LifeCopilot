@@ -1,0 +1,13 @@
+title:
+YSK if you bought MoviePass through Costco you can still get your money back.
+
+content:
+Amidst the recent news of failing to honor showtimes for recently released movies (MI, Christopher Robin) and if you decided to cancel your membership, you can still get a refund if you bought the 1 year subscription through Costco.
+
+url:https://reddit.com/r/YouShouldKnow/comments/94adfh/
+author:stepoffbigfoot
+subreddit:YouShouldKnow
+score:1794
+numComments:127
+isOver18:False
+hasPostBody:True

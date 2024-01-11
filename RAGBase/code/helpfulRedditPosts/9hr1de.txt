@@ -1,0 +1,13 @@
+title:
+LPT: Friendly reminder - the IRS will only ever initiate contact with you via snail mail. Any phone call, like I just got, is a scam.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/9hr1de/
+author:Wheredidtheboxgo
+subreddit:LifeProTips
+score:4538
+numComments:196
+isOver18:False
+hasPostBody:False

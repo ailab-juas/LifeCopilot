@@ -1,0 +1,13 @@
+title:
+LPT: If you get the afternoon sleepies, don't reach for caffeine, reach for water instead.
+
+content:
+I found this out by accident years ago at a job I was doing, and still practice it today.  I guzzled some cold water trying to wake myself up and it worked.  Dehydration will cause fatigue.
+
+url:https://reddit.com/r/LifeProTips/comments/jtq1ii/
+author:pastfuturewriter
+subreddit:LifeProTips
+score:19424
+numComments:646
+isOver18:False
+hasPostBody:True

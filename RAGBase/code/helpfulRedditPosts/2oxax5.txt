@@ -1,0 +1,13 @@
+title:
+LPT: If you are shopping at a store that gives markdowns or discounts to members use the local area code and 867-5309.
+
+content:
+If you are not a member and want the discount the chances are good that somebody else thought they were clever and used this number.  SPOILER ALERT:  It likely isn't Jenny.
+
+url:https://reddit.com/r/LifeProTips/comments/2oxax5/
+author:low_lvl_peon
+subreddit:LifeProTips
+score:1103
+numComments:189
+isOver18:False
+hasPostBody:True

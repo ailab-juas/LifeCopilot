@@ -1,0 +1,24 @@
+title:
+YSK about the Pearl Index and how to compare the effectiveness of contraceptives
+
+content:
+Basically, when you read about a certain method of birth control having an “x%” level of effectiveness, that percentage is based on the Pearl Index, which measures the number of unwanted pregnancies that would occur in 100 people with uteruses if they used that method for a year.
+
+For example, if a birth control pill (not plan b) has an effectiveness of 93% it DOES NOT mean that every time you have Penis-in-Vagina sex there’s a 7% chance of getting pregnant. 
+It means that if 100 sexually active people took it for a year, at the end of the year, 7 of them (on average) will get pregnant.
+
+Also, YSK that those 7 would also include all the people who used it wrong. 
+
+Why YSK: a lot of people on and off the internet seem confused as how studies measure the effectiveness of birth control methods
+
+https://www.drugs.com/medical-answers/birth-control-failure-rates-pearl-index-explained-3554953/
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3795840/
+
+url:https://reddit.com/r/YouShouldKnow/comments/v1rcpt/
+author:OrangeLeonard
+subreddit:YouShouldKnow
+score:6304
+numComments:279
+isOver18:False
+hasPostBody:True

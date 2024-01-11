@@ -1,0 +1,17 @@
+title:
+YSK: If you're trying to downgrade your cable/internet package but don't see any deals online for bundles that are cheaper than what you're already paying for, your cable provider is likely hiding your downgrade options and you'll need to call them if you want the full list of downgrade options.
+
+content:
+Why YSK: Many people will probably look at their "downgrade" options on their cable providers website and think that there's just no point in downgrading because of the lack of deals cheaper than what they're already getting. In reality, it's just another shady tactic by cable providers to keep you on the hook for their insane cable costs.
+
+I myself had been thinking of cutting the cord and switching to internet only, but noticed that my only internet option that was showing online was a $300/month 3000 Mbps option with literally nothing slower or cheaper even offered. I contacted Comcast and they informed me that I was likely seeing only that option because of my "current plan" and that I'd need to call a certain number to downgrade. Of course that number had a highly trained sales rep who fed me a bunch of crappy bundle offers that didn't fill my needs at all until I just told her to downgrade to Gigabit internet only.
+
+Don't fall for their crap. Take the extra steps and save the money.
+
+url:https://reddit.com/r/YouShouldKnow/comments/r0wkok/
+author:Revenge_of_the_Khaki
+subreddit:YouShouldKnow
+score:1346
+numComments:56
+isOver18:False
+hasPostBody:True

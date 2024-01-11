@@ -1,0 +1,19 @@
+title:
+LPT if you genuinely feel the need to give context to an apology, do so before the actual apology, not after.
+
+content:
+There is a big difference between 
+
+* "I'm sorry for yelling, I know I shouldn't have but I was very frustrated," which deflects accountability. 
+
+and 
+
+*"I was very frustrated, but I know I shouldn't have yelled and I'm sorry," which acknowledges the misstep.
+
+url:https://reddit.com/r/LifeProTips/comments/fb6og0/
+author:MiriahThePariah
+subreddit:LifeProTips
+score:20295
+numComments:326
+isOver18:False
+hasPostBody:True

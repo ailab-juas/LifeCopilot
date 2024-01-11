@@ -1,0 +1,40 @@
+title:
+YSK: At the end of December, the 2020 Social Security tax deferral will end.
+
+content:
+Why YSK: For Americans; By presidential decree some employers were allowed to defer the Social Security (Old Age, Survivors, and Disability Insurance) or “OASDI” tax withholdings of their employees over the last 3 months. 
+
+What YSK: Beginning January 2021, the normal 6.2% Social Security tax withholdings will again be deducted and you will also see an additional deduction for the deferred 2020 Social Security tax collection taken from your pay.
+
+That’s an additional 6.2% for a total of 12.4% withholding
+
+Collection Process:
+Per IRS guidance, the Social Security taxes deferred in 2020 will be collected evenly from your pay between January 1 and April 30, 2021.
+
+Tax Filing and W-2 Reporting:
+Your 2020 W-2 will be issued in January.  You will receive a W-2c (Corrected Wages and Tax Statement) that includes the collection of deferred Social Security taxes in 2021; however, this does not change the deadlines established by the IRS for filing 2020 income tax returns.  If you have questions on tax filing, the IRS provided instructions for employees receiving a W-2c due to the Social Security tax deferral.  See IRS W-2 reporting link near the bottom of this message.
+
+Background Information:
+Social Security tax withholdings were deferred effective mid-month September through December 2020, for those members with a monthly rate of basic pay of less than $8,666.66.  This action was in response to the Presidential Memorandum issued on August 8, 2020, the Internal Revenue Service Notice 2020-65 issued August 28, 2020, and at the direction of the Office of Management and Budget and the Office of Personnel Management.
+
+IRS information:
+- Tax Deferral Implementation:  https://www.irs.gov/newsroom/guidance-issued-to-implement-presidential-memorandum-deferring-certain-employee-social-security-tax-withholding
+- W-2 Reporting: https://www.irs.gov/forms-pubs/form-w-2-reporting-of-employee-social-security-tax-deferred-under-notice-2020-65
+
+Edit: Some said I should include this;
+
+“You should check with your employer on this. If they are not a government agency they may have opted out of the deferral. I know my employer did. The short term gain vs the long term payback was just kicking the can down the road. Either way the tax bill is due so you might as well pay it upfront.”
+
+Edit: Not by CARES act but by presidential decree (memorandum)
+
+Edit: added “For Americans;” because apparently Non Americans feel the need to comment that they don’t need to know this, knowing they don’t need to know this.
+
+Edit:  Wow thanks everyone for the awards, the upvotes, and the conversation!  Just finished upvoting everyone’s comments.  Stay Safe Reddit and keep an eye on your paychecks!!!
+
+url:https://reddit.com/r/YouShouldKnow/comments/khx387/
+author:bndboo
+subreddit:YouShouldKnow
+score:9974
+numComments:507
+isOver18:False
+hasPostBody:True

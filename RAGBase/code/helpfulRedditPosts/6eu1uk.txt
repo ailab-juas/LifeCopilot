@@ -1,0 +1,13 @@
+title:
+LPT: Use easy hold chopsticks to eat greasy snacks like chips, while at the computer.
+
+content:
+It will save you from having to constantly wipe your fingers if you don't like a greasy keyboard and mouse. 
+
+url:https://reddit.com/r/LifeProTips/comments/6eu1uk/
+author:M0RALVigilance
+subreddit:LifeProTips
+score:1355
+numComments:212
+isOver18:False
+hasPostBody:True

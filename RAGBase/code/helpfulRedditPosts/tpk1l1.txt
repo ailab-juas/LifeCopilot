@@ -1,0 +1,31 @@
+title:
+YSK if your car ever gets stuck on train tracks, you shouldn't call 911, you should call the number on the blue sign instead
+
+content:
+Why ysk: calling 911 won't stop any train that may be heading toward that crossing. There is a blue sign posted at every crossing with a phone number and a code. If you are stuck, get everyone out of the vehicle, call this number and the DOT will notify any oncoming trains of the situation.
+
+Only call 911 if there is an immediate emergency, but do not forget to call that DOT number.
+
+The train will not stop in time if they happen to see you on the tracks from afar.
+
+And for the love of God, do not stay in your car if you see a train coming, trying to save it at the last second, just GET OUT and RUN diagonally from the crossing.
+
+Edit: I'm gonna add some stuff people have commented. 
+
+Yes 911 can contact the RR company themselves, but they might not have your exact crossing's code, calling the number eliminates the middle man and saves time. 
+
+Also, run diagonally in the direction the train is coming from, this gives you the best chance of not getting hit by debris. 
+
+And this is for the USA, I hear the UK has a similar system in place.
+
+If you don't see the sign anywhere, just call 911. And if you do find the number and call it, call 911 right after, they can send officers to help direct traffic.
+
+I think that's about all, safe travels everyone!
+
+url:https://reddit.com/r/YouShouldKnow/comments/tpk1l1/
+author:MelReynolds
+subreddit:YouShouldKnow
+score:10381
+numComments:251
+isOver18:False
+hasPostBody:True

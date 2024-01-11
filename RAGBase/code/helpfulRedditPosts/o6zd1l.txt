@@ -1,0 +1,13 @@
+title:
+LPT: much like a gun is always loaded, a microphone during a work Zoom is always unmuted
+
+content:
+Inspired by this thread https://www.reddit.com/r/AskUK/comments/o6w2d7/my_microphone_was_accidentally_on_and_i_called_my/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf
+
+url:https://reddit.com/r/LifeProTips/comments/o6zd1l/
+author:Caraphox
+subreddit:LifeProTips
+score:50805
+numComments:1259
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: When buying a blanket, always buy at least one size larger than your bed. It’s at least a hundred times more comfy.
+
+content:
+For example, if you have a queen bed, get a king blanket.
+
+url:https://reddit.com/r/LifeProTips/comments/qu8ab2/
+author:AlyssaEBode
+subreddit:LifeProTips
+score:5858
+numComments:204
+isOver18:False
+hasPostBody:True

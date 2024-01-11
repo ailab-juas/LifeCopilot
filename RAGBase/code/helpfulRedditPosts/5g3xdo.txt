@@ -1,0 +1,16 @@
+title:
+LPT: If you find someone's keys and they have keytags, drop them in a mailbox.
+
+content:
+
+If you find someone's keys and they have keytags, drop them in a mailbox.
+Most keytags, like shopper's club rewards cards, have a postage gauranteed return mailing address on the back. The keys will be sent to the shopping center, and the barcode on the back will determine who the owner is so the keys can be returned.
+
+
+url:https://reddit.com/r/LifeProTips/comments/5g3xdo/
+author:KarmaCommando_
+subreddit:LifeProTips
+score:7098
+numComments:600
+isOver18:False
+hasPostBody:True

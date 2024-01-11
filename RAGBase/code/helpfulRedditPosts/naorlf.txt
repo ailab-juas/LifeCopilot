@@ -1,0 +1,23 @@
+title:
+YSK that "Restarting" your PC is not the same as shutting it down and turning it on again
+
+content:
+Why YSK: Windows 10 has the feature "Fast Startup" enabled by default, which essentially puts the PC into a hibernation state instead of completely turning it off. When you Shut Down your PC, this feature enables it to start up faster later.
+
+When you restart your PC, it completely turns off and on again. This may help to solve errors regarding devices or certain programs. This is why you are usually required to restart your PC while updating it. 
+
+To completely shut down your PC, you can either disable Fast Startup here -
+
+Control Panel &gt; Power Options &gt; Choose what the power buttons do &gt; Change settings that are currently unavailable &gt; Uncheck "Turn on fast startup" 
+
+ Or you can turn the PC off completely by holding the Shift key as you click "Shut Down"
+
+Edit : As many have pointed out, yes this is inspired by the new Techquickie video, which I did link in the comments while posting (as I was not sure if I could insert links in posts on this subreddit). I hope it helps out those of us who didn't watch it
+
+url:https://reddit.com/r/YouShouldKnow/comments/naorlf/
+author:GodOfThunder1729
+subreddit:YouShouldKnow
+score:11342
+numComments:345
+isOver18:False
+hasPostBody:True

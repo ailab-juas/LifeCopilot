@@ -1,0 +1,13 @@
+title:
+YSK that you shouldn't keep your finger on your smartphone's screen after you've scrolled the page because it will keep draining the battery as long as your finger rests on the screen (it forces GPU to keep re-rendering the view 60 times every second)
+
+content:
+You can see this for yourself if you turn on the "show GPU view updates" option in developer options (Android phones only)
+
+url:https://reddit.com/r/YouShouldKnow/comments/9ravkr/
+author:x84733
+subreddit:YouShouldKnow
+score:4158
+numComments:176
+isOver18:False
+hasPostBody:True

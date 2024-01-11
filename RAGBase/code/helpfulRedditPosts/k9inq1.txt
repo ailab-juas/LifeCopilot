@@ -1,0 +1,13 @@
+title:
+LPT: If you're running late enough that you have to let someone know, be realistic with your revised ETA.
+
+content:
+Consider even adding a 20% cushion. You're already eating the crow, don't make it worse by making yourself late twice.
+
+url:https://reddit.com/r/LifeProTips/comments/k9inq1/
+author:bulleitprooftiger
+subreddit:LifeProTips
+score:3219
+numComments:120
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,14 @@
+title:
+YSK HaveIBeenPwned is a website that can tell you if your sensitive information (email, password, address) can be found in data leaks.
+
+content:
+Why YSK: Having your information being included in a data leak can be a huge security concern. If you reuse the same email / password combinations across multiple websites, a data leak from just one of those websites can jeopardize all your other accounts. You can use HaveIBeenPwned to see if your email, password, address, license plate, etc are found online due to any recent data leaks. 
+I don't have any affiliation with this website. I just heard about it this year and think it's a great tool people should use.
+
+url:https://reddit.com/r/YouShouldKnow/comments/qq4jxv/
+author:OctagonCosplay
+subreddit:YouShouldKnow
+score:1693
+numComments:76
+isOver18:False
+hasPostBody:True

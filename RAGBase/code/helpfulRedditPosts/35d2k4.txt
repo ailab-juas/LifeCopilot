@@ -1,0 +1,13 @@
+title:
+YSK if you're trying to quit smoking you should register for texts from http://smokefree.gov/smokefreetxt You'll receive motivational texts a few times a day as well as support when you text "crave". Worth a shot if you're serious about quitting. It's helping me.
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/35d2k4/
+author:whatdoiwantsky
+subreddit:YouShouldKnow
+score:2778
+numComments:210
+isOver18:False
+hasPostBody:False

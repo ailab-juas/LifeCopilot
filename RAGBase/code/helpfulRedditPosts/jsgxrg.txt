@@ -1,0 +1,15 @@
+title:
+LPT: Most people will bend over backwards to help you learn about a topic they feel passionate about.
+
+content:
+I've found this most useful when starting a new hobby. I usually just find someone that already knows what they're doing and get a brain dump from them.
+
+Its kind of amazing what people will offer to do for you when you genuinely want to learn about something they find interesting.
+
+url:https://reddit.com/r/LifeProTips/comments/jsgxrg/
+author:frustratinbubble
+subreddit:LifeProTips
+score:55152
+numComments:1514
+isOver18:False
+hasPostBody:True

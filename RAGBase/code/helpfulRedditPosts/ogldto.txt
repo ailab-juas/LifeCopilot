@@ -1,0 +1,19 @@
+title:
+YSK If you think you felt an earthquake you can see a nearly live shake map on the USGS website
+
+content:
+Why YSK: Every time there is an earthquake people post updates to their social media channels that are largely experiential and subjective. They are sharing their thoughts and feelings about the earthquake, but the posts aren't being complied and analyzed in a meaningful way (as far as I know). 
+
+You can help scientists learn more about earthquakes if, instead of first posting to your socials first, you post to the USGS "did you feel it" page, [which is located here](https://earthquake.usgs.gov/data/dyfi/). There's a ticker with last 24 hours of earthquakes in the U.S.
+
+You are guided through questions that allow, in aggregate, the scientists at the USGS to get a pretty accurate idea of the location and intensity of the earthquake.
+
+Post your [USGS update](https://earthquake.usgs.gov/earthquakes/eventpage/nc73585236/executive) to social media afterward and encourage others nearby to do the same.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ogldto/
+author:rhinokitty
+subreddit:YouShouldKnow
+score:4335
+numComments:83
+isOver18:False
+hasPostBody:True

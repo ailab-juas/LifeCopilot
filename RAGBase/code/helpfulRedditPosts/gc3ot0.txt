@@ -1,0 +1,13 @@
+title:
+LPT: If your indoor cat is lost outdoors, put their liter box outside. They can smell it up to a mile away and find their way home.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/gc3ot0/
+author:[deleted]
+subreddit:LifeProTips
+score:10824
+numComments:556
+isOver18:False
+hasPostBody:False

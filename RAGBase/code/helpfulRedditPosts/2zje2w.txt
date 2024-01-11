@@ -1,0 +1,13 @@
+title:
+LPT: If your electronics get wet, they will not be damaged if you wait until they are totally dry to power them on again. Electronics only get "fried" if they get powered on while wet.
+
+content:
+It is natural instinct to panic and try to turn on your phone after it gets wet to see if it still works.  This is when the damage happens.  If it is already turned on, power it down quickly.  This will save you from preventable water damage.
+
+url:https://reddit.com/r/LifeProTips/comments/2zje2w/
+author:rainbowcountry
+subreddit:LifeProTips
+score:3397
+numComments:492
+isOver18:False
+hasPostBody:True

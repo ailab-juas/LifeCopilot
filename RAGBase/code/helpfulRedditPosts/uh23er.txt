@@ -1,0 +1,13 @@
+title:
+LPT: Always put your finger on top of a bottle or jar you're going to shake, even if you "know" it's closed. Make it a habit and you'll save yourself a mess one day!
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/uh23er/
+author:PiJiNWiNg
+subreddit:LifeProTips
+score:5611
+numComments:129
+isOver18:False
+hasPostBody:False

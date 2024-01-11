@@ -1,0 +1,13 @@
+title:
+LPT: Air dry your laundry indoors during the winter to humidify a space, save money, and extend the life of your clothes
+
+content:
+This was a mild life-changer for me. My apartment gets crazy dry in the winter, so I started wetting a towel and hanging it out at night in my bedroom to alleviate morning cotton-mouth. It worked great, so I thought to try it with my just-washed laundry. Not only does it dry quite fast, it makes the apartment noticeably more pleasant (and less prone to static shock on every damn surface). As a bonus, I've also noticed reduced pilling on clothes and saved a nice little chunk of change in quarters. If you get really serious about it, or you have a lot of laundry, I recommend checking out a steel curtain wire mount [like this one](http://www.ikea.com/us/en/catalog/products/60075295/) - I can hang like three loads at once on it and the whole place smells like fresh laundry for a couple days.
+
+url:https://reddit.com/r/LifeProTips/comments/2rreqi/
+author:QuantumBogoSort
+subreddit:LifeProTips
+score:3390
+numComments:785
+isOver18:False
+hasPostBody:True

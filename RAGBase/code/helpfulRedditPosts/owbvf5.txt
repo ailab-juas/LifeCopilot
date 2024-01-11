@@ -1,0 +1,13 @@
+title:
+LPT: If you have heartburn, lay down on your left side.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/owbvf5/
+author:[deleted]
+subreddit:LifeProTips
+score:5870
+numComments:388
+isOver18:False
+hasPostBody:True

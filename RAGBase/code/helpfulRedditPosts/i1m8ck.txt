@@ -1,0 +1,15 @@
+title:
+LPT: You can often get a discount just by asking for one. You can also save by abandoning your cart.
+
+content:
+I was placing an order with a major tech company and decided to jump into the live chat to see if any promo codes were available. Several minutes later, the representative that was assisting me was able to take $300 off my total - no strings attached.
+
+You can also save money by abandoning your cart. Enter your information on the checkout page... then close it. You'll probably receive an email a few hours later that invites you to return to complete the purchase and offers a significant discount. This can also help you cut back on impulse buying because you might forget about the product, or realize that you don't really need it, while you're waiting for the email.
+
+url:https://reddit.com/r/LifeProTips/comments/i1m8ck/
+author:KovyM
+subreddit:LifeProTips
+score:2808
+numComments:173
+isOver18:False
+hasPostBody:True

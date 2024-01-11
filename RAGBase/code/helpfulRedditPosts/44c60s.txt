@@ -1,0 +1,13 @@
+title:
+LPT: If you aren't good enough at anything to stand out, be reliable. Your faithfulness may be more useful to someone than being a flaky genius.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/44c60s/
+author:baardvark
+subreddit:LifeProTips
+score:5630
+numComments:1329
+isOver18:False
+hasPostBody:False

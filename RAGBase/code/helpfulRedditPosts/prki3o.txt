@@ -1,0 +1,22 @@
+title:
+YSK: the Heimlich Maneuver for your animals *before* you need it
+
+content:
+Why YSK: when your animal is choking, it is extremely distressing and upsetting. You don’t want to have to be googling how to help them while it’s happening. Familiarize yourself so you’re prepared in case you are ever in a situation where your dog or cat is choking. 
+
+There are a few ways to perform this:
+- grab the animal’s back legs and pull them up so the animal’s head is facing the ground, like a wheelbarrow
+- sweep your finger inside the animal’s mouth to dislodge the object (be careful not to push it farther down!)
+- compress the abdomen by pushing up with your fist
+- deliver a sharp blow with your hand between the animal’s shoulder blades 
+
+
+[This diagram](https://www.animalhealthfoundation.org/blog/2019/01/heimlich-maneuver-for-dogs/) explains it much better visually.
+
+url:https://reddit.com/r/YouShouldKnow/comments/prki3o/
+author:candrade2261
+subreddit:YouShouldKnow
+score:7039
+numComments:161
+isOver18:False
+hasPostBody:True

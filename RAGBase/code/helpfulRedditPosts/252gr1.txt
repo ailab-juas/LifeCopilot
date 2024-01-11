@@ -1,0 +1,13 @@
+title:
+YSK it's the same price at McDonalds to get three 4-piece McNuggets as it is to get a 10-piece
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/252gr1/
+author:JamminJim
+subreddit:YouShouldKnow
+score:1300
+numComments:256
+isOver18:False
+hasPostBody:False

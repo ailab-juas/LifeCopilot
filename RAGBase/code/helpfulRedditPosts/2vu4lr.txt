@@ -1,0 +1,13 @@
+title:
+LPT: Don't refrigerate your tomatoes; they will lose a large portion of their natural flavour and become very bland
+
+content:
+http://www.tomatodirt.com/what-is-the-scientific-reason-tomatoes-should-not-be-refrigerated.html
+
+url:https://reddit.com/r/LifeProTips/comments/2vu4lr/
+author:ascetis
+subreddit:LifeProTips
+score:1299
+numComments:113
+isOver18:False
+hasPostBody:True

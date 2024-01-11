@@ -1,0 +1,15 @@
+title:
+YSK: There is a website that tells you more about a charity before you donate
+
+content:
+http://www.charitynavigator.org/index.cfm?bay=topten
+
+Above I've linked the top ten lists' list which I found most helpful. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/1gzj4d/
+author:zippyajohn
+subreddit:YouShouldKnow
+score:1283
+numComments:71
+isOver18:False
+hasPostBody:True

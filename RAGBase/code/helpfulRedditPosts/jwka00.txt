@@ -1,0 +1,29 @@
+title:
+LPT: Your memory is WAY better than you think. Problem is, most schools don’t teach you how to properly use it. You would be amazed at how much you can improve your memory by doing a little research into different learning and memorizing methods (e.g Method of Loci). Take time to learn how to learn.
+
+content:
+It’s finals season. There’s no better time than now to learn how to improve your memory. Here are some resources that I found helpful:
+
+**Method of Loci:** (AKA: Memory Palace/Mind Palace technique) - *Memorizing information by taking advantage of your spatial memory. Most powerful method of memorization, but not always practical.*
+
+[\[Ted Talk\]](https://youtu.be/U6PoUg7jXsA), Book: *Moon Walking with Einstein* \- by Joshua Foer
+
+**Leitner System:** \- *A method for learning flash cards by using spaced repetition. Arguably the most effective way to study with flash cards.*
+
+[\[Wiki\]](https://en.wikipedia.org/wiki/Leitner_system), [\[YouTube video about the Leitner System\]](https://www.youtube.com/watch?v=eVajQPuRmk8), [\[YouTube video about spaced repetition\]](https://www.youtube.com/watch?v=-uMMRjrzPmE)
+
+**Mnemonics:** \- *Using associations to learn/memorize information*
+
+[\[YouTube video 1\]](https://www.youtube.com/watch?v=PoSqNd1TE4A), [\[YouTube video 2\]](https://www.youtube.com/watch?v=axcPEKXhWJY)
+
+**Other helpful YouTube videos:**
+
+[\[Crash Course Study Skills: A YouTube Playlist\]](https://www.youtube.com/watch?v=IhuwS5ZLwKY&amp;list=PL8dPuuaLjXtNcAJRf3bE1IJU6nMfHj86W), [\[How To Learn Faster\]](https://www.youtube.com/watch?v=B9SptdjpJBQ), [\[The ONLY 3 Study Hacks Everyone Should Know - Science Proven Techniques\]](https://www.youtube.com/watch?v=Y_B6VADhY84)
+
+url:https://reddit.com/r/LifeProTips/comments/jwka00/
+author:MrAlek360
+subreddit:LifeProTips
+score:15299
+numComments:359
+isOver18:False
+hasPostBody:True

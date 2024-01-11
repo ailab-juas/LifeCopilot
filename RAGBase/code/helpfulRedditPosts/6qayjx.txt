@@ -1,0 +1,13 @@
+title:
+YSK: When a doctor's office tell you they take your insurance that does not necessarily mean they are in your network
+
+content:
+Sometimes when they say "yes we take Cigna" they may mean that they will physically **take** your card and bill your insurance. Many people have learned the hard way that they are not in network and end up with a huge bill. Never trust a doctors office for information about your insurance. After all, they have thousands of patients across dozens of insurance companies. How can they know it all? Always call your insurance company directly to confirm if that doctor, at that *specific* location, is in network. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/6qayjx/
+author:thenewyorkgod
+subreddit:YouShouldKnow
+score:5808
+numComments:591
+isOver18:False
+hasPostBody:True

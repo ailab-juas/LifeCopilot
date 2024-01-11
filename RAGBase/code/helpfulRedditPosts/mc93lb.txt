@@ -1,0 +1,13 @@
+title:
+LPT - When a baby is unhappy we understand they’re probably missing something basic: food, water, sleep, warmth, etc. This is true of you, too. If you find yourself unexpectedly in a bad mood, chances are it’s a simple fix.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/mc93lb/
+author:RobertoBologna
+subreddit:LifeProTips
+score:59926
+numComments:1370
+isOver18:False
+hasPostBody:False

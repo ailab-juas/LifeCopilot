@@ -1,0 +1,13 @@
+title:
+YSK to pull over if you have a BLINKING check engine light
+
+content:
+You should usually try to stay on top of your check engine light and get it diagnosed as soon as possible, but I get that money can get tight and that some people need to pay bills before they can take care of their vehicle. However if you’re driving and your check engine light begins BLINKING, pull over and get it towed to your usual shop. A blinking check engine light indicates that your engine is misfiring, and this equates to expensive repairs. If you can pull over and turn your engine off in time, you can prevent more damage to your car.
+
+url:https://reddit.com/r/YouShouldKnow/comments/evgrt1/
+author:Kodiak126
+subreddit:YouShouldKnow
+score:11629
+numComments:666
+isOver18:False
+hasPostBody:True

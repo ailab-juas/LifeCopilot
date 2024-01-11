@@ -1,0 +1,13 @@
+title:
+LPT: Avoid the 9% commision charged by the 'Coin Exchange' machines by making use of the coin bin at self-service checkouts...
+
+content:
+described and illustrated at http://joereddington.com/2278/2014/02/17/getting-rid-of-spare-change/
+
+url:https://reddit.com/r/LifeProTips/comments/1y57dn/
+author:joereddington
+subreddit:LifeProTips
+score:1587
+numComments:453
+isOver18:False
+hasPostBody:True

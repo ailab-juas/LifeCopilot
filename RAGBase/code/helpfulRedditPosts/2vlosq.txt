@@ -1,0 +1,21 @@
+title:
+YSK you can legally unlock your cellphone in the U.S. starting today
+
+content:
+Starting today, due to the [Cellular Telephone Industries Association's new rules on cellular phone unlocking](http://www.ctia.org/policy-initiatives/voluntary-guidelines/consumer-code-for-wireless-service), you will be able to legally unlock your phone.
+
+Here are the steps/requirements for unlocking with each carrier:
+
+* [AT&amp;T](https://www.att.com/deviceunlock/#/)
+* [Verizon](http://www.verizonwireless.com/aboutus/commitment/safety-security/device-unlocking-policy.html?null) 
+* [T-Mobile](https://support.t-mobile.com/docs/DOC-1588) 
+* [Sprint](http://www.sprint.com/legal/unlocking_policy.html) 
+* [U.S. Cellular](http://www.uscellular.com/site/legal/mobile-wireless-device-unlocking.html)
+
+url:https://reddit.com/r/YouShouldKnow/comments/2vlosq/
+author:yashar1
+subreddit:YouShouldKnow
+score:3321
+numComments:225
+isOver18:False
+hasPostBody:True

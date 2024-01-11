@@ -1,0 +1,15 @@
+title:
+YSK that NPR is doing a series of "Summer School" episodes that teach the basics of economics. Each is half an hour long and very well done.
+
+content:
+Why YSK: Economics is such an important field to have a basic knowledge in. It not only informs how you consider public policy, but it can inform how you make decisions in your own life. 
+
+The episodes are available here: https://www.npr.org/2020/07/07/888690075/summer-school-1-choices-dating
+
+url:https://reddit.com/r/YouShouldKnow/comments/ijfw9f/
+author:trytoholdon
+subreddit:YouShouldKnow
+score:1519
+numComments:46
+isOver18:False
+hasPostBody:True

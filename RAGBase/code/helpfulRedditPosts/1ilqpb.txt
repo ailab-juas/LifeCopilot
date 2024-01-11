@@ -1,0 +1,13 @@
+title:
+LPT: Are your zip-lock bags too small for your needs? Get two, turn one inside out, and lock them together.
+
+content:
+It can be a little struggle at first to get them to line up. It has a decent seal if done right and can get you through a pinch if you need it.
+
+url:https://reddit.com/r/LifeProTips/comments/1ilqpb/
+author:rock_hard_member
+subreddit:LifeProTips
+score:1893
+numComments:255
+isOver18:False
+hasPostBody:True

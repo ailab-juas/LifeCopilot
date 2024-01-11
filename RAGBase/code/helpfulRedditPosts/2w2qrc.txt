@@ -1,0 +1,19 @@
+title:
+LPT: If you like the idea of a product but not the product itself, type in Google "[product] vs" and check the search suggestions for alternatives
+
+content:
+For example, as you type "Facebook vs" you'll get autocomplete suggestions like "Facebook vs Google+" or Facebook vs Twitter." This allows you to find new alternatives to try out. Some things I've found using this method: Todoist ("Wunderlist vs"), KAT ("The Pirate Bay vs"), and Reddit ("4chan vs"). It works for other things too, not just software ("Leatherman vs"), ("ballpoint vs"), etc. 
+
+Just watch out because sometimes lawsuits will appear (i.e. if you're searching for an alternative to the color brown you're going to find that the Board of Education is not a color).
+
+Of course there are other ways too, but this is always quick, and simple. 
+
+Edit:I'm talking about the automatic suggestions that appear as you type, not the results themselves.
+
+url:https://reddit.com/r/LifeProTips/comments/2w2qrc/
+author:IanSan5653
+subreddit:LifeProTips
+score:3736
+numComments:404
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,14 @@
+title:
+LPT: If you require customer service, try to contact them early in their shift. The ungodly amount of stupidity they are subjected to during the day may impact their helpfulness.
+
+content:
+I am a Student working in the data care department of an IT firm specializing in online authentication. I solve cases the algorithm couldn't for one reason or another. 
+8 hours of people not knowing what an ID is, or lacking the mental capacity to speak the two words on their screen, tend to take a toll on my sanity and my patience.
+
+url:https://reddit.com/r/LifeProTips/comments/imcxlr/
+author:iNuminex
+subreddit:LifeProTips
+score:4000
+numComments:114
+isOver18:False
+hasPostBody:True

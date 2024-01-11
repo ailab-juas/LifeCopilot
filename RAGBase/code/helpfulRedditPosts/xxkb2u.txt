@@ -1,0 +1,13 @@
+title:
+YSK that as a pedestrian, you should be able to see the driver's face before crossing at a crosswalk.
+
+content:
+Why YSK : If you are crossing a crosswalk especially at an intersection with stop signs, if you can't see the driver, the driver may not see you.  Some vehicles have a blindspot between the windshield and the side doors.
+
+url:https://reddit.com/r/YouShouldKnow/comments/xxkb2u/
+author:MrJQuinn
+subreddit:YouShouldKnow
+score:14925
+numComments:840
+isOver18:False
+hasPostBody:True

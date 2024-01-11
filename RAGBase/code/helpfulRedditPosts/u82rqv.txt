@@ -1,0 +1,18 @@
+title:
+LPT I live my life by a simple rule: If the amount of time it is going to bother you is longer than the amount of time it takes to do it, just do it.
+
+content:
+For example; 
+Taxes
+Going to bother you for months but takes a few hrs. 
+Bedtime but feel like you need a shower
+Ill be up for hours bothered or showered and asleep in 30mins. 
+It applies to almost any task in life. I've been happier ever since developing this rule.
+
+url:https://reddit.com/r/LifeProTips/comments/u82rqv/
+author:sqwasit
+subreddit:LifeProTips
+score:3738
+numComments:95
+isOver18:False
+hasPostBody:True

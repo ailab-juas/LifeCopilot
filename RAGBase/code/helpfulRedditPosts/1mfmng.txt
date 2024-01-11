@@ -1,0 +1,14 @@
+title:
+LPT: If a website is blocked on your work/school internet, you can use google translate as a proxy.
+
+content:
+Eg: Make it translate from any language to English, doesn't matter what it's translating from, it should work, then type the URL in and click translate. You'll be able to access most sites as they usually work.
+Note: This doesn't work for sites that use https instead of http, such as tumblr.
+
+url:https://reddit.com/r/LifeProTips/comments/1mfmng/
+author:sidewayssammich
+subreddit:LifeProTips
+score:2153
+numComments:459
+isOver18:False
+hasPostBody:True

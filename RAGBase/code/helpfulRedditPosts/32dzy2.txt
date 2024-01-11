@@ -1,0 +1,43 @@
+title:
+LPT: [A timely repost] If you owe a balance due to IRS, you can probably have a payment plan.
+
+content:
+IRS employee here:
+
+**TL;DR: For most Taxpayers, an Installment Agreement is an option to pay your federal tax liabilities.**
+
+You received a notice asking for payment to the Internal Revenue Service. You agree the notice is correct, and you didn't already pay in full. If you can, pay the amount due by the notice due date and you are done.
+
+If you can full-pay in the short term, the Service can generally offer you an extension of time to pay of up to 120 days. With this arrangement, there is no fee to set this plan up and no fixed monthly payment. We calculate the total balance due out to 120 days, and during that time you could make one payment or 100 payments, as long as it was paid in full by the agreement date.
+
+The next option is a formal Installment Agreement (IA). With this plan, we establish a minimum monthly payment and a regular monthly due date. [Form 9465](http://www.irs.gov/pub/irs-pdf/f9465.pdf) *Installment Agreement Request* can be e-filed with a return, or mailed in at any time.
+
+Depending on how much you owe, the monthly payment could be as low as $25.00. Take the amount due on your notice and divide the figure by 72: that is your minimum payment. If you can pay more than the minimum in any month, do it.
+
+There is a one-time fee to establish an IA of $120, and you may qualify for a reduced fee of $43.00. Missed payments, late payments, and payments of less than your minimum can result in a defaulted IA. There is a $50 fee to reinstate an agreement after it defaults. Another reason for default is a new balance due, either on a new return, or a new assessment by Exam or Underreporter. 
+
+You may request a Direct Debit IA also. The fee for this payment plan is $52.00 (or the $43.00), and the payments are debited from a checking account. Another option is a Payroll Deduction IA, where your employer makes your monthly payments on your behalf, deducted from your net wages. The fee is the $120 or $43.
+
+The IRS website will allow you to set up these plans. The upper right section of the notice should have a Caller ID number. You use this number to establish a PIN, and then you use the PIN to access the [Online Payment Agreement](http://www.irs.gov/Individuals/Online-Payment-Agreement-Application) system.
+
+If you prefer to speak with a person, call the toll-free number on your notice, and we are available M - F 7am - 7pm. Have your notice or your return handy. We will ask you some verification questions and discuss your payment ability. We will ask if you know why you owe (you did not withhold enough from wages, or you didn't make any or enough estimated tax payments as a self-employed person), and if you have fixed the problem. We will verify that you're current with the last six tax returns. If you are not current with these six returns, most payment plan options are off the table.
+
+After either type of agreement is set up, you will receive a letter that confirms the terms within 2 - 3 weeks. If you request a regular or payroll IA, you will receive monthly reminder notices with an updated balance, a record of your last payment, and a voucher to send along with a check or money order. DDIAs do not have reminder notices.
+
+Electronic payment options are available on irs.gov. If you prefer electronic payments, we recommend [EFTPS](http://www.irs.gov/uac/EFTPS-The-Electronic-Federal-Tax-Payment-System). [Credit or debit card service providers](http://www.irs.gov/uac/Pay-Taxes-by-Credit-or-Debit-Card) generally charge a "convenience fee" for each payment transaction. [Direct Pay](http://www.irs.gov/Payments/Direct-Pay) is an option through the IRS website. Payments through Direct Pay are debits from a checking or savings account, and there is no fee.
+
+The current interest rate is 3% per year, compounded daily, and the rate can be adjusted up or down quarterly. The Failure to Pay (FTP) penalty rate is 1/2% per month computed on the unpaid tax liability. If you establish a formal IA, the FTP rate is generally reduced to 1/4% per month. The FTP is calculated on the unpaid tax, and the interest is calculated on the unpaid tax and penalties.
+
+Payments you make are applied to the tax first, not like a mortgage or car payment. Your payment reduces the tax every month, which reduces the accrued penalties and interest for that month. If you have an overpayment (refund) on a future return, it would be applied to the balance due first, and the Service would send a notice explaining the offset. If your refund is more than what you owe at the time, you're done. If you owe more than one year, payments are applied to the oldest assessment (which is usually the oldest year) until that balance is paid in full. They are then applied to the next-oldest assessment, and so on.
+
+It is possible the Service could apply your State Refund to your IRS debt, but it does not happen every time.
+
+Thank you for reading.
+
+url:https://reddit.com/r/LifeProTips/comments/32dzy2/
+author:[deleted]
+subreddit:LifeProTips
+score:1700
+numComments:206
+isOver18:False
+hasPostBody:True

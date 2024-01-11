@@ -1,0 +1,18 @@
+title:
+YSK about thepricegeek.com which will show you current market values for almost everything.
+
+content:
+http://www.thepricegeek.com (for the lazy)
+
+I am a frequent ebay'er so this site is amazingly handy for buying and selling!
+
+Edit* Alright guys, not EVERYTHING. This should probably say many electronic goods. 
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/2jxxxx/
+author:[deleted]
+subreddit:YouShouldKnow
+score:3149
+numComments:157
+isOver18:False
+hasPostBody:True

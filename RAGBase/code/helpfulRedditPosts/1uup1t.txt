@@ -1,0 +1,13 @@
+title:
+YSK there is a website (canistream.it) that lets you search for any movie title that is streaming LEGALLY on any streaming service .
+
+content:
+EDIT: Sorry, when I first posted this, the site saw so much traffic that it shut down, but it should be fine.
+
+url:https://reddit.com/r/YouShouldKnow/comments/1uup1t/
+author:gifpol
+subreddit:YouShouldKnow
+score:2544
+numComments:159
+isOver18:False
+hasPostBody:True

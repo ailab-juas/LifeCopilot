@@ -1,0 +1,13 @@
+title:
+LPT: When trying to convert your PDF file to an editable word document, you can upload it to Google Drive first then open it using Google Docs. It converts the file with great accuracy and is 100% free.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/hey5vl/
+author:navssvan
+subreddit:LifeProTips
+score:55292
+numComments:642
+isOver18:False
+hasPostBody:False

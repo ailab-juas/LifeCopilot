@@ -1,0 +1,13 @@
+title:
+LPT: If you're dreading an upcoming event, don't think about the event itself, but what's going to come after.
+
+content:
+Like, if there's an upcoming exam that's causing you a lot of stress, don't think about it in terms of, "In two weeks there's an exam, and if I fail it my life is over." Think about it in terms of, "After two weeks, the source of my immense stress will be gone." This can apply to a lot of other things and can alleviate a lot of stress in the long run. 
+
+url:https://reddit.com/r/LifeProTips/comments/5excmc/
+author:sparkleyurtle
+subreddit:LifeProTips
+score:1207
+numComments:47
+isOver18:False
+hasPostBody:True

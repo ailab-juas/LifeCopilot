@@ -1,0 +1,28 @@
+title:
+YSK Declining spam calls is as bad as answering them
+
+content:
+Why YSK: Most of the spam call centers are using some form of auto-dialing system that just iterates through random phone numbers. The primary goal is that someone answers and engages with whatever scam they're running i.e IRS, car warranty, Amazon purchase or whatever. 
+
+However, the system also tracks anytime someone declines the call because that means it is a legitimate person's cell phone number as opposed to an out-of-service number or an office line. By declining, your number ends up in a database for future calls that can be more targeted or persistent. 
+
+The robo-caller groups frequently use this as a secondary revenue stream by selling the list of confirmed numbers to more sophisticated scammers. This also applies to "replying STOP" to scam text messages. 
+
+By ignoring it altogether, you don't provide the system any information and they're less likely to try your number again in the future.
+
+TL;DR Just let calls from unknown numbers ring instead of declining and just delete spam text messages. Don't let them know you're real.
+
+
+Edit: Didn't think this would garner so much attention, but glad people are finding it useful or interesting!
+
+You should absolutely still block the number and/or "mark as spam" after the fact, but it's important to know that these groups have the capability of spoofing what phone number they're calling from. If you've ever seen a call from a number that is eerily similar to your own, you've seen this in practice. Their algorithms have shown that for some reason people are more likely to answer if the number seems familiar or looks local.
+
+As for the many comments about voicemail, it does let them know it is a valid number but they aren't listening to the message. Declining confirms for them that it is a mobile phone number which is a higher value target than a business or land line. This for several reasons but the big ones are that a mobile phone has more presence and thus more opportunity and many software platforms allow you to use your phone number for your login credentials making it usable in standard brute force hacking attempts.
+
+url:https://reddit.com/r/YouShouldKnow/comments/xey2v7/
+author:LeadingTrevize
+subreddit:YouShouldKnow
+score:12827
+numComments:979
+isOver18:False
+hasPostBody:True

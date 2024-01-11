@@ -1,0 +1,18 @@
+title:
+YSK - You can disable those "[site] would like to send you notifications]" popups
+
+content:
+Those goddamn popups of sites constantly asking for the permission to spam you are one of the most annoying things ever invented, so here's how to disable these requests altogether.
+
+
+[On Chrome](https://gizmodo.com/how-to-block-super-annoying-website-notification-reques-1797499616)
+
+[Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox)
+
+url:https://reddit.com/r/YouShouldKnow/comments/e29k46/
+author:[deleted]
+subreddit:YouShouldKnow
+score:2883
+numComments:57
+isOver18:False
+hasPostBody:True

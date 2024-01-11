@@ -1,0 +1,18 @@
+title:
+YSK Access to your passwords is protected under the 5th amendment of the US Constitution, access to your fingerprint is not.
+
+content:
+There's been a lot of talk about security recently surrounding Apple's decision not to unlock iPhones for the FBI. You should know that under the 5th amendment which states “no person shall be compelled in any criminal case to be a witness against himself,” you cannot be required to give up any passwords if doing so would incriminate you. The supreme court has ruled that this applies in both criminal and civil cases. However, this protection only applies to things you know, like passwords, not things you have, like keys, fingerprints, etc. Therefore law enforcement and courts are well within their rights to order you to give up your fingerprint to unlock your devices without a passcode if you have enabled the feature.   
+&amp;nbsp;    
+Edit: A little more information on the matter. There is legal precedent for the password thing. Courts can hold you in contempt for withholding passwords if they already know of the existence of or have witnessed themselves evidence of incriminating files on your device. If they merely suspect it then you cannot be compelled to give up the password. Read about it here
+http://arstechnica.com/tech-policy/2012/02/appeals-court-fifth-amendment-protections-can-apply-to-encrypted-hard-drives/   
+&amp;nbsp;  
+Edit 2: Wow this blew up. A lot of you have questions. I'm probably not the best person to answer them because I'm not a lawyer, just a computer scientist who is interested in legal battles related to technology. If you'd like to know more highly recommend looking at the [EFF's website](https://www.eff.org). They have a lot of articles and resources discussing current issues in technology. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/47iyec/
+author:LinkDude80
+subreddit:YouShouldKnow
+score:3624
+numComments:296
+isOver18:False
+hasPostBody:True

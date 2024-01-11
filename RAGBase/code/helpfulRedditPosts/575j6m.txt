@@ -1,0 +1,22 @@
+title:
+YSK that your state may be holding money for your benefit &amp; it's free for you to search for yourself and claim the funds (US Residents)
+
+content:
+Friendly PSA for my fellow Americans! Each state's escheat laws provide framework for its comptroller's office to hold any unclaimed money that is owed to you for your benefit. It's free to search their databases to see if you're owed money and free to claim the funds (if any) by simply filling out a form. The database doesn't reveal how much money is owed (you'll need to fill out the claim form to find out) but worth a shot! You go get your 80 cents! 
+
+Search for yourself (or anyone else - but you have to be that person to actually claim the funds):
+
+[New York] (https://ouf.osc.state.ny.us/ouf/)
+[Connecticut] (http://www.ctbiglist.com/)
+[New Jersey] (http://www.unclaimedproperty.nj.gov/)
+[California] (https://ucpi.sco.ca.gov/UCP/Default.aspx)
+
+All other states: just google '[state] escheat unclaimed' and you should easily find the state's database.
+
+url:https://reddit.com/r/YouShouldKnow/comments/575j6m/
+author:SurfPartyUSA
+subreddit:YouShouldKnow
+score:2125
+numComments:237
+isOver18:False
+hasPostBody:True

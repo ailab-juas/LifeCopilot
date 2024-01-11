@@ -1,0 +1,17 @@
+title:
+LPT: Scrape away your card security code to disable your card from being used if stolen.
+
+content:
+
+
+Use a key to scratch the three security numbers (CVC) off of your credit card, so that no one but you can use it to make purchases online.
+
+WARNING: Of course you have to remember these three digits to be able to buy things online yourself. But I suppose just writing them down on a piece of paper and keeping it in a drawer (if you have a shitty numeral memory) would still be safer than having them on your credit card.
+
+url:https://reddit.com/r/LifeProTips/comments/1ko75s/
+author:BroccoliBenediction
+subreddit:LifeProTips
+score:1419
+numComments:588
+isOver18:False
+hasPostBody:True

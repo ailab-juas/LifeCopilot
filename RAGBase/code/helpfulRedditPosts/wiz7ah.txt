@@ -1,0 +1,13 @@
+title:
+LPT: If you lock your keys in your vehicle don’t call a locksmith, call the non-emergency police line.
+
+content:
+I learned this the hard way. A lot of times, the police department still has them carry around unlock kits. Most times, they will unlock your car for free. If you’re strapped for cash and can’t afford a locksmith, this can help a lot.
+
+url:https://reddit.com/r/LifeProTips/comments/wiz7ah/
+author:sothereisthisgirl
+subreddit:LifeProTips
+score:6516
+numComments:828
+isOver18:False
+hasPostBody:True

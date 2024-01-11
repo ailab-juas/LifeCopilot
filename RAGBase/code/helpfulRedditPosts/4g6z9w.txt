@@ -1,0 +1,15 @@
+title:
+[LPT] If you need to set something you can't reach on fire, use a lit dried spaghetti noodle.
+
+content:
+*dry
+
+Handy for fireplaces and jar candles.
+
+url:https://reddit.com/r/LifeProTips/comments/4g6z9w/
+author:MyLittleLamprey
+subreddit:LifeProTips
+score:3001
+numComments:307
+isOver18:False
+hasPostBody:True

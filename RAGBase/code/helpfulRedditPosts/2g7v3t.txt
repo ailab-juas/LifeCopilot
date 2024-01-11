@@ -1,0 +1,13 @@
+title:
+LPT: Only use blue ink for legal documents, so you can distinguish the original from the copy easily.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/2g7v3t/
+author:R2DJones
+subreddit:LifeProTips
+score:2604
+numComments:460
+isOver18:False
+hasPostBody:False

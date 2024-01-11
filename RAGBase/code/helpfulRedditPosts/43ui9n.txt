@@ -1,0 +1,13 @@
+title:
+LPT: After introducing two friends to each other, repeat each of their names in the conversation
+
+content:
+Everyone forgets other peoples' names. By repeating the new peoples names while you are talking, the other person is more likely to remember it from the conversation than from the initial introduction.
+
+url:https://reddit.com/r/LifeProTips/comments/43ui9n/
+author:theyouarehere
+subreddit:LifeProTips
+score:2957
+numComments:147
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,17 @@
+title:
+LPT:Just a reminder during tax season that making more money does not "bump you up" a tax bracket.
+
+content:
+The US income tax system is progressive; meaning that the first $X gross you make gets taxed at the first X%.  If you made more than that, it gets taxed at the next rate until the next dollar cap, and then the next and so forth. 
+
+Don't deny yourself the opportunity to increase your income because you are afraid that ALL of it will be taxed at a higher rate - It wont. 
+
+Do be aware that you may lose certain welfare opportunities if you make more money though. One foot out of poverty can, in some cases, end up costing you more.
+
+url:https://reddit.com/r/LifeProTips/comments/evqu6j/
+author:Phooferbar
+subreddit:LifeProTips
+score:3530
+numComments:300
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+Don't burn yourself in those hard to reach candles, light a stick of spaghetti and light the wick with that.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1088tw/
+author:hopperr
+subreddit:LifeProTips
+score:1933
+numComments:168
+isOver18:False
+hasPostBody:False

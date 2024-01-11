@@ -1,0 +1,21 @@
+title:
+YSK your local library has a lot more than just books
+
+content:
+Mine also lets you borrow:
+- DVDs
+- computer games 
+- board games
+- fishing poles
+- telescopes
+- binoculars 
+
+Yours probably has a lot more than you think it does!
+
+url:https://reddit.com/r/YouShouldKnow/comments/fa2bm1/
+author:02K30C1
+subreddit:YouShouldKnow
+score:8341
+numComments:373
+isOver18:False
+hasPostBody:True

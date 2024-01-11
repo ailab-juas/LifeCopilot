@@ -1,0 +1,19 @@
+title:
+YSK: Amazon DOES know when you return a different item.
+
+content:
+Why YSK: People think that a company the size of Amazon does not know what’s going on on individual orders because they’re big.
+
+In reality, Amazon waits for the amounts to get bigger so they can turn the cases to the FBI and now it’s considered Wire-fraud. 
+
+A man form the US made more than 200 returns for a total of 290K, now may be facing 20 years. While this is an extreme amount you should be smarter and just play straight.
+
+Edit: [FBI’s page source](https://www.justice.gov/usao-wdnc/pr/charlotte-man-pleads-guilty-wire-fraud-return-scheme-targeting-amazon)
+
+url:https://reddit.com/r/YouShouldKnow/comments/q5iue2/
+author:itsMineDK
+subreddit:YouShouldKnow
+score:2471
+numComments:213
+isOver18:False
+hasPostBody:True

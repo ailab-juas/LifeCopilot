@@ -1,0 +1,13 @@
+title:
+YSK that Amazon just raised the price of Prime monthly from $10.99 to $12.99
+
+content:
+This change becomes effective on your next payment after Feb 19th
+
+url:https://reddit.com/r/YouShouldKnow/comments/7rjjec/
+author:Ch8s3
+subreddit:YouShouldKnow
+score:4063
+numComments:294
+isOver18:False
+hasPostBody:True

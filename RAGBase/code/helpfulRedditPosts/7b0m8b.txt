@@ -1,0 +1,19 @@
+title:
+LPT: If you want to donate to an unknown charity but have concerns of their validity, their IRS tax return must be made pubic and updated annually. If they don't have one or refuse to show their tax returns, then they ARE A SCAM.
+
+content:
+Example:  
+
+[Red Cross 2016 tax return](https://p.widencdn.net/wmrybb/FY-2016-Form-990)
+
+[National Breast Cancer Foundation](http://s3.amazonaws.com/nbcf-production-assets/attachments/000/001/705/original/1f1e7ffe89f98c889e8f0d119d471c82)
+
+I couldn't find one for Pink Ribbon Inc......
+
+url:https://reddit.com/r/LifeProTips/comments/7b0m8b/
+author:Taurius
+subreddit:LifeProTips
+score:5255
+numComments:133
+isOver18:False
+hasPostBody:True

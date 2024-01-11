@@ -1,0 +1,19 @@
+title:
+YSK: If you make less than $72,000 a year adjusted gross income (AGI) you can file taxes completely free with the IRS Free File program
+
+content:
+Why YSK: (US Only) The program is a partnership between the IRS and popular tax filing software's like TurboTax, TaxSlayer, TaxAct, etc... that allows you to file your entire return for free if you make less than the $72,000 AGI cutoff.
+
+Here's the link to [IRS Free File](https://www.irs.gov/filing/free-file-do-your-federal-taxes-for-free)
+
+Even if you do make more than $72,000/year the electronic forms to file are free to use and file online. Granted I would only do that if you have a pretty straightforward tax return or you really know what you're doing when it comes to taxes.
+
+If you're unsure of what steps to take, here is a [guide](https://youtu.be/3KTyTxndOyg) walking you through the free file program.
+
+url:https://reddit.com/r/YouShouldKnow/comments/mafb13/
+author:APennyPinchersGuide
+subreddit:YouShouldKnow
+score:15374
+numComments:453
+isOver18:False
+hasPostBody:True

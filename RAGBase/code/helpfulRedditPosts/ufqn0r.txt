@@ -1,0 +1,13 @@
+title:
+LPT: if you have trouble finding 30% of 50, flip it and find 50% of 30. It gives the same result and works for any pair of numbers.
+
+content:
+A trick I use often to calculate tip but applicable anywhere in life!
+
+url:https://reddit.com/r/LifeProTips/comments/ufqn0r/
+author:knguyen2525
+subreddit:LifeProTips
+score:13305
+numComments:497
+isOver18:False
+hasPostBody:True

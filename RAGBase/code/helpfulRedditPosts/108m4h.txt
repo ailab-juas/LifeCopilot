@@ -1,0 +1,13 @@
+title:
+What we've learned from Wikileaks
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/108m4h/
+author:obitechnobi
+subreddit:YouShouldKnow
+score:2424
+numComments:275
+isOver18:False
+hasPostBody:False

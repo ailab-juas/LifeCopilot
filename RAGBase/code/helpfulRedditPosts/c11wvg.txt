@@ -1,0 +1,13 @@
+title:
+LPT: Thinking of buying a new laptop? Try a clean and factory reset of your current one first. It'll feel like a new machine.
+
+content:
+Remember to back up important data first. Just like you'd have to with a new one.
+
+url:https://reddit.com/r/LifeProTips/comments/c11wvg/
+author:tomscruiseship
+subreddit:LifeProTips
+score:2399
+numComments:238
+isOver18:False
+hasPostBody:True

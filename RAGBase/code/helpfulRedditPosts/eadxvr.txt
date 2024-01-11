@@ -1,0 +1,13 @@
+title:
+LPT: When writing reports, essays or any other important documents, reread it the next day with fresh eyes. Don't just save it and think that it's good to go, even if you've proofread it. Trust me, it's got errors.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/eadxvr/
+author:struggle_cuddle_club
+subreddit:LifeProTips
+score:4408
+numComments:107
+isOver18:False
+hasPostBody:False

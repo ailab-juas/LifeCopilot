@@ -1,0 +1,13 @@
+title:
+LPT: Need an idea for a romantic date? Google the calendar date and your city/town name to learn about any events in your area
+
+content:
+I often find myself resorting to dinner dates for lack of a clever idea. Then I realized I could just google the calendar date and the name of my town to learn what is going on in my area. That led me to finding interesting, memorable, and cheap date ideas! 
+
+url:https://reddit.com/r/LifeProTips/comments/223yy2/
+author:OneEyedCheshire
+subreddit:LifeProTips
+score:1870
+numComments:249
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,17 @@
+title:
+LPT: You should learn how to type fast and learn shortcuts of the different software you are using. It's like the difference between walking and flying.
+
+content:
+Edit: Here are some sites:
+
+YouTube: https://support.google.com/youtube/answer/7631406?hl=en
+Windows: https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec
+Mac: https://support.apple.com/en-us/HT201236
+
+url:https://reddit.com/r/LifeProTips/comments/k6j4v2/
+author:kysic
+subreddit:LifeProTips
+score:1094
+numComments:128
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: When given the choice to choose between ''Accept all cookies''' and ''Read more'' choose read more. You usually just have to scroll a bit to be able to choose to ''reject all'' but most people don't do it.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/wod5sb/
+author:TheYummyDogo
+subreddit:LifeProTips
+score:1516
+numComments:50
+isOver18:False
+hasPostBody:False

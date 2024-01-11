@@ -1,0 +1,13 @@
+title:
+LPT: Replace the phrase "go to the gym" with "get stronger" or "lose weight" e.g. "Should I get stronger today?"
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/32mmpb/
+author:2paymentsof19_95
+subreddit:LifeProTips
+score:3125
+numComments:440
+isOver18:False
+hasPostBody:False

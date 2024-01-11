@@ -1,0 +1,20 @@
+title:
+YSK: There's a website to search for movies/shows in all streaming platform's.
+
+content:
+Next time a friend tells you to watch something... go to 
+
+https://www.justwatch.com/us 
+
+Rather then asking if it's on Netflix, Hulu, or some other streaming platform.
+
+It tries to find where you can legally watch it for free or rent for cheap.  
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/az9nmb/
+author:ske1555
+subreddit:YouShouldKnow
+score:5168
+numComments:172
+isOver18:False
+hasPostBody:True

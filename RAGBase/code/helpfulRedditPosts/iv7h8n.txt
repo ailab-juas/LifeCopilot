@@ -1,0 +1,13 @@
+title:
+YSK: always google a company name + scam before buying anything from them
+
+content:
+Why YSK: especially with small companies you see advertisements for on social media, you should always make sure a company you order from is not a scam, and it’s super easy to check.
+
+url:https://reddit.com/r/YouShouldKnow/comments/iv7h8n/
+author:Margaret533
+subreddit:YouShouldKnow
+score:25731
+numComments:568
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Rub a pencil's lead across a zipper to lubricate it and extend the life of the zipper.
+
+content:
+Graphite, which is what the "lead" in a pencil is made of, is an excellent dry lubricant and works great on mechanical bindings like zippers!
+
+url:https://reddit.com/r/LifeProTips/comments/yyjfek/
+author:xingrubicon
+subreddit:LifeProTips
+score:13076
+numComments:541
+isOver18:False
+hasPostBody:True

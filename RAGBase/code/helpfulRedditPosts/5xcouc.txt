@@ -1,0 +1,16 @@
+title:
+YSK: Essential oils are called that because they are the "essence" of a plant, NOT because they are "essential" to human health
+
+content:
+From [wikipedia](https://en.wikipedia.org/wiki/Essential_oil):
+ &gt; An oil is "essential" in the sense that it contains the "essence of" the plant's fragrance—the characteristic fragrance of the plant from which it is derived. The term essential used here does not mean indispensable as with the terms essential amino acid or essential fatty acid which are so called since they are nutritionally required by a given living organism.
+
+There are a lot of alternative medicine practitioners who deliberately take advantage of the misleading name "essential oils". While some essential oils do indeed have health benefits, most of them don't do anything at all and some of them [can actually be harmful](https://en.wikipedia.org/wiki/Essential_oil#Dangers).
+
+url:https://reddit.com/r/YouShouldKnow/comments/5xcouc/
+author:blindcolumn
+subreddit:YouShouldKnow
+score:14183
+numComments:594
+isOver18:False
+hasPostBody:True

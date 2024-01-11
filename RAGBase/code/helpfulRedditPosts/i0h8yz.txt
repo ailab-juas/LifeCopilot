@@ -1,0 +1,18 @@
+title:
+LPT: When someone asks you to back up your claim with a source, do it.
+
+content:
+Far too many people here get offended when someone even mentions the word "source". You all should know that the internet can easily spread misinformation. For example, I can post something and say "Reddit is censoring this" even when Reddit isn't censoring it.
+
+Everyone has the right to be skeptical, and if you're getting offended when asked for a source, then either you're lying 
+/Spreading misinformation or you aren't as well informed on the subject as you think you are.
+
+Not to mention, getting offended when asked for a source is a childish, immature thing to do.
+
+url:https://reddit.com/r/LifeProTips/comments/i0h8yz/
+author:BanCircumventionAcc
+subreddit:LifeProTips
+score:8929
+numComments:665
+isOver18:False
+hasPostBody:True

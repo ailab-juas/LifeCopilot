@@ -1,0 +1,13 @@
+title:
+YSK a buzzing/humming sound coming from your wall is a sign of an electrical problem
+
+content:
+[Why YSK](https://miltonelectric.com/blog/what-does-a-buzzing-electrical-outlet-mean/): This sound can occur if there’s faulty wiring or loose connections in your outlets and should be discovered and fixed immediately because both possibilities are huge fire hazards. In some cases, this sound can occur in non-dangerous situations. Such as, the safe but annoying noise occasionally made by certain [lightbulbs](https://blog.recessedlighting.com/led-buzzing/), or wasps in your walls, but it's always best to find the source of the sound as quickly as possible.
+
+url:https://reddit.com/r/YouShouldKnow/comments/zkk6ri/
+author:awakentheworld
+subreddit:YouShouldKnow
+score:2055
+numComments:98
+isOver18:False
+hasPostBody:True

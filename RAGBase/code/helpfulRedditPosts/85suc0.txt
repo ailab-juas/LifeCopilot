@@ -1,0 +1,13 @@
+title:
+LPT: When doing research for a paper, annotate each article. Then write a summary of the article. Once you’re finished with the summaries for each article, write a brief analysis of all the articles. When you start your paper you will have your own analysis, summaries and paraphrased information.
+
+content:
+Often times it can be very difficult to start a research paper, but that's because we aren't properly analyzing the research. We skim it and patch-write it into our papers which is a form of plagiarism (which means failing a class or expulsion in some cases). Follow these steps to help synthesize all of your information and create a paper where you feel like you have a good sense for what you're talking about. 
+
+url:https://reddit.com/r/LifeProTips/comments/85suc0/
+author:murdo1tj
+subreddit:LifeProTips
+score:2171
+numComments:76
+isOver18:False
+hasPostBody:True

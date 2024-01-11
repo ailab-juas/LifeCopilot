@@ -1,0 +1,13 @@
+title:
+LPT: If you want to post a photo that you're proud of, crop the photo a little bit. That way, if somebody else posts the photo as their own, you can prove that you are the actual photographer.
+
+content:
+Heard this advice somewhere online a while ago and as somebody who does a lot of photography it's one of the best pieces of advice I've heard.
+
+url:https://reddit.com/r/LifeProTips/comments/98g5i7/
+author:Blake_Majer
+subreddit:LifeProTips
+score:29802
+numComments:564
+isOver18:False
+hasPostBody:True

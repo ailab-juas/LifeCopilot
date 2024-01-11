@@ -1,0 +1,13 @@
+title:
+LPT: If you send someone you work with a message asking if you can speak to them, always let them know the reason, particularly if you are their manager
+
+content:
+I say this on behalf of the entire working world.
+
+url:https://reddit.com/r/LifeProTips/comments/xipzoc/
+author:dndunlessurgent
+subreddit:LifeProTips
+score:31715
+numComments:1066
+isOver18:False
+hasPostBody:True

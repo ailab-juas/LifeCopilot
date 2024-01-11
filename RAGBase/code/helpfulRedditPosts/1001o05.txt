@@ -1,0 +1,22 @@
+title:
+YSK that Kidney Disease is the number one killer of older cats and the symptoms to look out for
+
+content:
+Why YSK: Kidney Disease/Kidney Failure is the main cause of death for cats over 14 years. However, it can affect cats at any age. 
+There are several signs of potential sickness in cats
+* Changes in eating or drinking behavior
+* Relieving themselves outside of the litter box
+* Lethargy 
+* General unease
+
+There are four general levels of Kidney failure, treatment varies by the level of kidney function loss.
+I lost a one year old kitten this week because i was not aware of the various signs to look out for.
+[For more information, this blog post has a lot of good information that has helped me.](https://www.bestfriendsvet.com/library/cats/kidney-disease-in-cats/)
+
+url:https://reddit.com/r/YouShouldKnow/comments/1001o05/
+author:ravheim
+subreddit:YouShouldKnow
+score:4403
+numComments:190
+isOver18:False
+hasPostBody:True

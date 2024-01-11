@@ -1,0 +1,13 @@
+title:
+YSK that you can listen to live radio broadcasts from around the world through Radio Garden (also great for learning new languages)
+
+content:
+[Radio Garden](http://radio.garden/) has an interactive map of the world with radio stations that are broadcasting from different countries. You can focus on any of them to listen to live broadcasts. Really cool for discovering new music that you might not have heard otherwise, and useful for language learning.
+
+url:https://reddit.com/r/YouShouldKnow/comments/7z59io/
+author:CoolioDood
+subreddit:YouShouldKnow
+score:2987
+numComments:82
+isOver18:False
+hasPostBody:True

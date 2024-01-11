@@ -1,0 +1,13 @@
+title:
+LPT: Be careful not to let your guard down in conversations with figures of authority when the conversation is informal, friendly, and non-accusatory.
+
+content:
+Thank you for the gold and silver.
+
+url:https://reddit.com/r/LifeProTips/comments/a7ngwf/
+author:argtri
+subreddit:LifeProTips
+score:53564
+numComments:3036
+isOver18:False
+hasPostBody:True

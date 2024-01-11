@@ -1,0 +1,15 @@
+title:
+LPT: Make a habit of muting your microphone on conference calls when you’re not speaking. There is lots of background noise that comes through.
+
+content:
+So many of my coworkers have clacking keyboards, vibrating phones, kids, dogs, etc etc and if you aren’t contributing please mute your microphone.
+
+Edit: bonus pro tip a lot of people are mentioning is use Push to Talk. You can google how to use it for each platform use. If I get a chance to look I’ll post up for MS Teams.
+
+url:https://reddit.com/r/LifeProTips/comments/fpdr3i/
+author:GingerB237
+subreddit:LifeProTips
+score:6794
+numComments:287
+isOver18:False
+hasPostBody:True

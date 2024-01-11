@@ -1,0 +1,37 @@
+title:
+LPT: Typing the words "word.new" or "docs.new" into the browser address bar will instantly create new documents when you've logged into your Microsoft or Google account respectively, works for spreadsheets and presentations too
+
+content:
+Make use of these handy words (just type into the address bar) to create new documents when you've logged into these services:
+
+**Microsoft**
+
+[word.new](https://word.new/)
+
+[excel.new](https://excel.new/)
+
+[powerpoint.new](https://powerpoint.new/)
+
+**Google**
+
+[docs.new](https://docs.new/)
+
+[sheets.new](https://sheets.new/)
+
+[slides.new](https://slides.new/)
+
+[forms.new](https://forms.new/)
+
+Edit: 
+
+u/barneymatthews:
+
+There are loads more! https://whats.new/shortcuts/
+
+url:https://reddit.com/r/LifeProTips/comments/ywkwr9/
+author:hampiness
+subreddit:LifeProTips
+score:1426
+numComments:25
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,19 @@
+title:
+YSK that you can simulate colourblindness using simple apps. If you're a designer, it can help you tweak your graphics, charts, graphs and interfaces to be more user friendly!
+
+content:
+I'm not colourblind, but I have worked with people that are. It's a condition that affects about 1/12 guys and 1/20 people overall. 
+
+When creating graphs, charts or even applications, it's easy to pick colours that are pleasing without thinking more about it. With some simple changes to brightness, saturation, line styles, marker shapes, shading or hatching you can still use nice colour schemes and give alternate visual queues to colourblind readers/users.
+
+I run my charts and graphs through http://colororacle.org (though I'm sure there are other apps available). Color Oracle applies a screen filter to simulate what colours are difficult to distinguish.
+
+Edit: To give an example of a common UI that I've seen affect colourblind people. The friend I worked with never realised that the blinkenlights on our router were green and orange (representing 100Mbps and 1Gbps), to him they looked bright green and brighter green. It wasn't until we got a new hub that had the words "Orange = 100Mbps; Green=1Gps" written on it that he realised.
+
+url:https://reddit.com/r/YouShouldKnow/comments/5hgmvt/
+author:OutbreakMonkey
+subreddit:YouShouldKnow
+score:1643
+numComments:61
+isOver18:False
+hasPostBody:True

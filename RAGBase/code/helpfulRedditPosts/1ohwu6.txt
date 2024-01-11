@@ -1,0 +1,22 @@
+title:
+LPT: How to generate a secure password that you can remember.
+
+content:
+Security professionals have told us for years: don't use common words for your password. Don't use your birthday. Mix case your passwords and throw in symbols. The reason for this is because as hard as you think the name of the beach your grandma took you to is for an Eastern European hacker to guess, in reality it's guessed quite easily. Automated programs are capable of statistically analyzing passwords and guessing many of them in less than a second. The problem is the inconvenience of remembering a nonsensical string of letters and numbers. 
+
+The solution for this is quite simple. Think of a phrase that's easy to remember. Now, only type out the first letter of each word, preserving all proper capitalization and punctuation. Now substitute certain symbols for words as appropriate. And becomes &amp; and so on. So for example:
+
+One day, my grandma took me to the beach and I had fun.
+
+Becomes
+1d,mgtm2tb&amp;Ihf.
+
+A seemingly random password, but one you could easily remember just from a simple phrase and some basic substitution rules. 
+
+url:https://reddit.com/r/LifeProTips/comments/1ohwu6/
+author:Enchanted_Bunny
+subreddit:LifeProTips
+score:2084
+numComments:673
+isOver18:False
+hasPostBody:True

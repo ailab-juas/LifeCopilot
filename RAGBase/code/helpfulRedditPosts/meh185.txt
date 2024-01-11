@@ -1,0 +1,13 @@
+title:
+LPT: Take a little inspiration from Bob Ross. Don't call things you need to get done in your day to day 'chores' as that word has negative connotations. Refer to them instead as happy little jobs. It can make a real difference in your perceptions, and ultimately in your mood.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/meh185/
+author:FerretFarm
+subreddit:LifeProTips
+score:6420
+numComments:134
+isOver18:False
+hasPostBody:False

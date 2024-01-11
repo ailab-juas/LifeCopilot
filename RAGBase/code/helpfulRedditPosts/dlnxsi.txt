@@ -1,0 +1,13 @@
+title:
+LPT: When you're hitting yourself over something you did in the past, consider this: what are the odds that anyone remembers in that exact moment? They might recall you occasionally, but most people are too engrossed in their own lives to care. Keep living your life and make the future even better.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/dlnxsi/
+author:AeonExalted
+subreddit:LifeProTips
+score:36451
+numComments:622
+isOver18:False
+hasPostBody:False

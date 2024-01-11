@@ -1,0 +1,35 @@
+title:
+YSK GMail email addresses ignore dots and everything after a plus symbol. Also, googlemail = gmail.
+
+content:
+All the following address are same:
+
+john.doe@gmail.com
+
+jo.hn.do.e@gmail.com
+
+john.doe@googlemail.com
+
+jo.hn.do.e@googlemail.com
+
+john.doe+spammysite@gmail.com
+
+jo.hn.doe+spammysite@googlemail.com
+
+
+This is great because you can use this to help identify spam. For eg; 
+Use john.doe+xvideos@gmail.com to register on xvideos. Now if you receive spam addressed to this address, you instantly know it was xvideos.
+
+
+So you have infinite email addresses from just one gmail address. You can use this to create multiple accounts on same site using different aliases.
+
+See:
+http://support.google.com/mail/bin/answer.py?hl=en&amp;ctx=mail&amp;answer=10313
+
+url:https://reddit.com/r/YouShouldKnow/comments/134af9/
+author:crazyfreak316
+subreddit:YouShouldKnow
+score:1495
+numComments:187
+isOver18:False
+hasPostBody:True

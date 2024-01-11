@@ -1,0 +1,17 @@
+title:
+YSK there is a LYRICS button near the bottom right corner of Spotify that will display lyrics to a song you're listening to if they are available.
+
+content:
+I find this handy since I can skip a few steps like going to google and doing all that typing and clicking. I've found that many songs have them and they also scroll along with the song.
+
+Further, if you want to be a good samaritan and find a song that doesn't have lyrics you can upload them yourself!
+
+Edit: this is on desktop. Not mobile
+
+url:https://reddit.com/r/YouShouldKnow/comments/4hpfok/
+author:moralanarchy
+subreddit:YouShouldKnow
+score:2179
+numComments:110
+isOver18:False
+hasPostBody:True

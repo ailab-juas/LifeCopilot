@@ -1,0 +1,13 @@
+title:
+Have an Excel file too big to email? Save it as an .xlsb it shrinks the size by 50-75%
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1dxmur/
+author:notreallyacanadian
+subreddit:LifeProTips
+score:1833
+numComments:388
+isOver18:False
+hasPostBody:False

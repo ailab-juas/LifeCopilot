@@ -1,0 +1,13 @@
+title:
+YSK that Comcast is actually enforcing its data caps -- it just happened to me and I feel like I got scissor kicked in the back of the head.
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/299tlr/
+author:myequipo
+subreddit:YouShouldKnow
+score:1096
+numComments:185
+isOver18:False
+hasPostBody:False

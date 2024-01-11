@@ -1,0 +1,15 @@
+title:
+YSK: There is a breathing technique that some literature suggests activates your parasympathetic nervous system, which is tied to your instinct to sleep after eating. It can be used to reduce anxiety, trigger relaxation, and fall asleep at will. It's called 4-7-8.
+
+content:
+Why YSK: While being able to sleep at will might come easy to some people, to others (such as myself) it's very difficult. It's my hope that people who suffer from chronic insomnia or issues falling asleep might be able to use this technique to sleep more consistently. I also think it may prove a useful tool for people who suffer constantly from issues like anxiety, stress, and panic.
+
+To perform the technique, first expel all air from your lungs, then do a deep inhale that lasts 4 seconds. With your lungs full of air, hold your breath for 7 seconds. Finally, exhale through your mouth (through your lips, making a whooshing sound) for 8 seconds. The ratio between the time of each step is more important than counting seconds accurately, so if you have trouble holding your breath, timing like 2, 3.5, and 4 might work too, although 4-7-8 is the most common recommendation and seems to elicit the most success. If you repeat the steps 2 or 3 times, your body should enter "rest and digest" mode, which may help you fall asleep quickly if you're already in good sleeping conditions (comfortable, laying down, dark and quiet) or promote relaxation if you're stressed or anxious.
+
+url:https://reddit.com/r/YouShouldKnow/comments/pwypd6/
+author:lemonlyss
+subreddit:YouShouldKnow
+score:7098
+numComments:269
+isOver18:False
+hasPostBody:True

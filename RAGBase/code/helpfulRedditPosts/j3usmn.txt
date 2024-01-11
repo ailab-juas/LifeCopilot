@@ -1,0 +1,15 @@
+title:
+YSK: That TurboTax Free Edition is meant to trap you into paying money, and there is ACTUALLY a free version created by the IRS but was hidden by Intuit called taxfreedom.com (File your taxes easy, my guys. :) )
+
+content:
+Why YSK:
+
+ TurboTax, is MEANT to take your money do NOT USE IT. THERE IS A BETTER ALTERNATIVE. (More info here.  [https://www.youtube.com/watch?v=7xQQkzWhMOc](https://www.youtube.com/watch?v=7xQQkzWhMOc) from the patriot act.) The IRS thought of making it free for poor people to file taxes, intuit didn't want to go out of business, and so basically powered it, took it and coded the website so that if anyone on google searched it up, they wouldn't find it. (I believe there are still pending law suits.) But it is completely free. The URL is: [Taxfreedom.com](https://Taxfreedom.com) or [https://freefile.intuit.com/](https://freefile.intuit.com/).
+
+url:https://reddit.com/r/YouShouldKnow/comments/j3usmn/
+author:benpinpop
+subreddit:YouShouldKnow
+score:24760
+numComments:394
+isOver18:False
+hasPostBody:True

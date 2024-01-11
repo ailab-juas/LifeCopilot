@@ -1,0 +1,13 @@
+title:
+LPT: Most people at the gym are to busy with themselves to pay attention to you or anyone else, so don't sweat it
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5lf8jh/
+author:313miker
+subreddit:LifeProTips
+score:27034
+numComments:1642
+isOver18:False
+hasPostBody:False

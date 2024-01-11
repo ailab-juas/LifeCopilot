@@ -1,0 +1,13 @@
+title:
+LPT: At the end of a job interview, always ask the interviewer when they expect to make a hiring decision and if they plan to contact the people who didn’t get the job.
+
+content:
+Many interviewers are good at giving the impression you had a great interview. And then you hang on waiting for that call that never comes. If you know the timeline and know to expect a call if you didn’t get the job at least you know you can move on and look elsewhere.
+
+url:https://reddit.com/r/LifeProTips/comments/oywisy/
+author:cherrybounce
+subreddit:LifeProTips
+score:1324
+numComments:81
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,19 @@
+title:
+YSK: [US] On Aug 18, many pet shelters across the nation will have an adoption drive to find forever homes for pets during which the participating shelters will discount or waive off the adoption fees. Since 2015, Clear the Shelters has helped 153,651 pets find forever homes.
+
+content:
+Source and link to find nearest participating pet shelter: [https://www.cleartheshelters.com/](https://www.cleartheshelters.com/)
+
+Last year, [more than 80,000 pets were adopted from over 900 shelters](https://www.cleartheshelters.com/news/national-international/Clear-the-Shelters-Todays-the-Day-to-Find-a-New-Pet-441077173.html) across the country.
+
+EDIT: The news article I got the information from lists the below link where you can search for pets that are put for adoption, along with pictures and small bios.
+
+[https://www.petfinder.com/search/pets-for-adoption/?sort%5B0%5D=recently\_added](https://www.petfinder.com/search/pets-for-adoption/?sort%5B0%5D=recently_added)
+
+url:https://reddit.com/r/YouShouldKnow/comments/94l5s3/
+author:johnthedevil
+subreddit:YouShouldKnow
+score:8002
+numComments:155
+isOver18:False
+hasPostBody:True

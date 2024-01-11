@@ -1,0 +1,13 @@
+title:
+LPT: Before traveling to a new place, download the offline maps for that area a day or two before you leave.
+
+content:
+This way, if you are stuck somewhere without cell reception, you can always navigate without any trouble. Most useful when you are camping, going on a road trip to a National Park, etc.
+
+url:https://reddit.com/r/LifeProTips/comments/71lu2p/
+author:has_no_name
+subreddit:LifeProTips
+score:1234
+numComments:43
+isOver18:False
+hasPostBody:True

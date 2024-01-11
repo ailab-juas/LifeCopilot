@@ -1,0 +1,13 @@
+title:
+LPT: Always enter the email recipient after you have finalized the email body.
+
+content:
+Prevents accidentally sending the email.
+
+url:https://reddit.com/r/LifeProTips/comments/40w4mu/
+author:agiantwhale
+subreddit:LifeProTips
+score:5086
+numComments:621
+isOver18:False
+hasPostBody:True

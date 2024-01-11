@@ -1,0 +1,13 @@
+title:
+LPT: If you reach out to someone for help on a technical issue and they spend their valuable time helping you but are unable to resolve it, always try and let them know how it got resolved so they can help the next person with the same issue.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/cjh0ku/
+author:flying_cofin
+subreddit:LifeProTips
+score:31581
+numComments:413
+isOver18:False
+hasPostBody:False

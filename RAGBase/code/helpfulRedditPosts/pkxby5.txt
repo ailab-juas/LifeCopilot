@@ -1,0 +1,13 @@
+title:
+LPT: Powerpoint slides are supposed to be simple and brief. Nobody is going to read your wall of fancy text when you give your presentation.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/pkxby5/
+author:Shamon_Yu
+subreddit:LifeProTips
+score:31169
+numComments:973
+isOver18:False
+hasPostBody:False

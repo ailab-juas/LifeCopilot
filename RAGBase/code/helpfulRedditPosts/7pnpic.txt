@@ -1,0 +1,13 @@
+title:
+LPT: Set the link for a random Wikipedia article as your browsers home page, every time you open the browser you'll learn something new.
+
+content:
+The link https://en.wikipedia.org/wiki/Special:Random
+
+url:https://reddit.com/r/LifeProTips/comments/7pnpic/
+author:See_Bee9
+subreddit:LifeProTips
+score:24230
+numComments:767
+isOver18:False
+hasPostBody:True

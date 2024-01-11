@@ -1,0 +1,13 @@
+title:
+LPT: if you need to write down passwords on paper or plain text on your computer, add a couple extra characters to the password. Like always add a dummy character to the 3rd and 7th position. Only you know it's not part of the password.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/pkv3zi/
+author:Couldbeaccurate
+subreddit:LifeProTips
+score:3407
+numComments:207
+isOver18:False
+hasPostBody:False

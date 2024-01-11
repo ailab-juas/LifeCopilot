@@ -1,0 +1,15 @@
+title:
+YSK there's a website with over 20,000 digital magazines... all for free
+
+content:
+[Here's the link](http://www.magastack.com/).
+
+I've seen a lot of free TV and movie websites posted here, so I thought you guys might like some magazines too. Let me know what you think.
+
+url:https://reddit.com/r/YouShouldKnow/comments/31emwv/
+author:hlodom
+subreddit:YouShouldKnow
+score:2155
+numComments:82
+isOver18:False
+hasPostBody:True

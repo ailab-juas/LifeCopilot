@@ -1,0 +1,17 @@
+title:
+LPT: If you smell a fish odor in an unusual place in your home, check your outlets or plugged-in electronics, it could be indicative of an overheating circuit.
+
+content:
+When a circuit overheats the plastics/chemicals in outlets and wire insulation can emit a fishy odor.  An overheated circuit or melted wire insulation can create an electrical fire. 
+
+This knowledge just saved my apartment. My fiance complained of a bad smell in his office, we checked the trashcan, looked in the closet but we haven't made fish in weeks so we were confused. Then, I remembered what my Grandpa, a career electrician, used to tell me, strange fishy odor = potential electrical fire. So we unplugged everything in that room and the odor stopped. 
+
+The electrician we hired found the issue in the outlet and saw two wires with melted insulation that were touching, basically fire kindling.
+
+url:https://reddit.com/r/LifeProTips/comments/ihra7s/
+author:violetisnotblue
+subreddit:LifeProTips
+score:40085
+numComments:560
+isOver18:False
+hasPostBody:True

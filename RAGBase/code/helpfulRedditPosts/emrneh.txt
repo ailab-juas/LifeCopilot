@@ -1,0 +1,13 @@
+title:
+LPT: When you have to make a step-by-step instruction for a coworker, Windows ships with an app called Step Recorder. Step Recorder automatically screenshots where you click and makes it easy to add comments.
+
+content:
+Edit: Actually called Steps Recorder thanks u/akareil
+
+url:https://reddit.com/r/LifeProTips/comments/emrneh/
+author:Careless_Hippo
+subreddit:LifeProTips
+score:3766
+numComments:94
+isOver18:False
+hasPostBody:True

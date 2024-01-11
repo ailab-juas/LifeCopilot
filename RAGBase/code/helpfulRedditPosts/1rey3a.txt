@@ -1,0 +1,17 @@
+title:
+LPT: When posting anonymously on the internet, compose your comments as if they could be traced back to you at a later date.
+
+content:
+Assume that anything that goes into the internet will be there permanently.  Although there are laws today that protect anonymity, there is no guarantee that at some time in the future there won't be laws passed to the contrary, and because many of these sites have your personal information, they may be required by law to display that information.
+
+It's probably a stretch, but imagine what the 2032 presidential election would be like if someone found out that a presidential candidate was also a frequent 4chan troll back in the 2000s:
+
+OPPOSITION CANDIDATE: "Do you really want someone running for office that used to look for suicidal people on 4chan and convince them to follow through with it?"
+
+url:https://reddit.com/r/LifeProTips/comments/1rey3a/
+author:Milkslinger
+subreddit:LifeProTips
+score:1606
+numComments:418
+isOver18:False
+hasPostBody:True

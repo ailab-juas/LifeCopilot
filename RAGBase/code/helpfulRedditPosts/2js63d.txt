@@ -1,0 +1,15 @@
+title:
+LPT: Have elderly family members? Ask if they use AOL, they may still be paying monthly for something they never use.
+
+content:
+AOL doesn't charge a subscription for the e-mail service, only "internet protection insurance" and their desktop application from what I've seen. They can still access their e-mail through their web browser for free. They charge over $10 a month for their "services" like dial-up, which nobody uses in this day and age. If your family members only use AOL for their e-mail address, they can cancel their subscription and still use it just fine
+
+Last month I found out my pops was paying for AOL every month. (Around $11.99 + $4.99), for something he hasn't used in over a decade. He had spent a total nearing $2,500 since he uses AOL mail, but not the desktop application.  He was paying for something he never used for the past 12 years.
+
+url:https://reddit.com/r/LifeProTips/comments/2js63d/
+author:Auxilae
+subreddit:LifeProTips
+score:3111
+numComments:445
+isOver18:False
+hasPostBody:True

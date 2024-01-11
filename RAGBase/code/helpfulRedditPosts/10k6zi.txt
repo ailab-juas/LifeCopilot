@@ -1,0 +1,13 @@
+title:
+LPT Pocket magnet (x-post from DIY)
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/10k6zi/
+author:tag_all_the_things
+subreddit:LifeProTips
+score:1588
+numComments:169
+isOver18:False
+hasPostBody:False

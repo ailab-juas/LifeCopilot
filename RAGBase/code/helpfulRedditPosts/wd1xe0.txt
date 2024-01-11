@@ -1,0 +1,35 @@
+title:
+YSK: Two very common products that can and will seriously injure you.
+
+content:
+Sadly, some online stores have poor moderation. There are a lot of products on there that can, and will, hurt you. Here is a list of some of them.
+
+Why YSK:  These products claim to be safe, and are sold thousands of times a day, but can be dangerous.
+
+1. All laser pointers or devices with lasers not made by reputable companies.
+
+And I do mean, literally all of them. The most powerful safe laser is 5 milliwatts, and even that can cause eye damage if stared into. Lasers will claim they are 5 mW, but they can actually be between 30 and 250 mW. Green lasers will also emit infrared, which can destroy your eyesight while being invisible. Any laser above 5 mW will cause permanent eye damage before you can blink. It's not just laser pointers, laser thermometers, laser house decorations, anything with lasers can have this problem. There is a house a block from me that has black marks on the paint, in the same places where a cheap laser decoration was on Christmas. Stand in front of one of the beams, and those black marks will be on your eyes. Forever.
+
+See [https://www.youtube.com/watch?v=-2crWR1lg6s](https://www.youtube.com/watch?v=-2crWR1lg6s) and [https://www.laserpointersafety.com/](https://www.laserpointersafety.com/)
+
+2.  All costume jewelry marked with an age restriction (12+, 14+, etc), and almost everything else, no matter how you got it. 
+
+Children's jewelry is (very poorly) regulated. Adult jewelry is not. By putting an age restriction on it, they can sell whatever horribly contaminated crap they want without it being illegal. Items without age restrictions are not always safe, but any time you see one, it is *always* contaminated. 
+
+Cadmium contents can be up to 80%, that is, 4/5 of the jewelry is cadmium. Paparazzi jewelry is notorious for this, but any company that buys jewelry from the same suppliers will also be contaminated. If your child eats 80% cadmium, they are likely going to die. 
+
+Lead can also be present, in the same high concentrations, although this is less likely. Again, if your child eats 80% lead, they are dead.
+
+Antimony and nickel could be present too.
+
+See [https://dtsc.ca.gov/toxics-in-products/cij-frequently-asked-questions/](https://dtsc.ca.gov/toxics-in-products/cij-frequently-asked-questions/)
+
+For other products: see [https://globalrecalls.oecd.org/](https://globalrecalls.oecd.org/). If something is banned in 1 country due to safety, it's not magically safe in other countries, despite what companies want you to think.
+
+url:https://reddit.com/r/YouShouldKnow/comments/wd1xe0/
+author:IAbstainFromSociety
+subreddit:YouShouldKnow
+score:7429
+numComments:335
+isOver18:False
+hasPostBody:True

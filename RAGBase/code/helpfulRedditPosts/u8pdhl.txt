@@ -1,0 +1,15 @@
+title:
+YSK: The right time to buy a generator is when you don't need a generator
+
+content:
+Why YSK: While it may seem obvious to most I have seen it time and time again where people swarm to buy generators when the power is already out and everyone is doing the exact same thing and end up paying way more than usual or can't even find one outright.
+
+Do yourself a favor and buy one when the demand is low and nobody needs one en mass.
+
+url:https://reddit.com/r/YouShouldKnow/comments/u8pdhl/
+author:xarzilla
+subreddit:YouShouldKnow
+score:2263
+numComments:87
+isOver18:False
+hasPostBody:True

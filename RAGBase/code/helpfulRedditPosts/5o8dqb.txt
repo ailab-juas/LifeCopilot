@@ -1,0 +1,15 @@
+title:
+YSK if you live in certain states and bought milk products anytime since 2003 you are eligible for a class action lawsuit that was recently settled for millions
+
+content:
+www.boughtmilk.com
+
+eligible states: Arizona, California, the District of Columbia, Kansas, Massachusetts, Michigan, Missouri, Nebraska, Nevada, New Hampshire, Oregon, South Dakota, Tennessee, Vermont, West Virginia, or Wisconsin.
+
+url:https://reddit.com/r/YouShouldKnow/comments/5o8dqb/
+author:AmericanIMG
+subreddit:YouShouldKnow
+score:2052
+numComments:240
+isOver18:False
+hasPostBody:True

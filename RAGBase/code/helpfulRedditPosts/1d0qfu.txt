@@ -1,0 +1,13 @@
+title:
+Gaming LPT: When your PS3 controller isn't charged, don't sit on the floor because the USB cable is too short. Plug the controller into a laptop/netbook that's closer to comfortable seating so you can charge the controller without being tethered to the PS3.
+
+content:
+Or, you can keep making your friends sit on the floor, since nobody will ever question that the controller must have to be plugged into the PS3 to charge.
+
+url:https://reddit.com/r/LifeProTips/comments/1d0qfu/
+author:ishatbrx
+subreddit:LifeProTips
+score:1965
+numComments:297
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+YSK how to choose tires for your car
+
+content:
+There are many different types of tires out there, and multiple tread patterns. Each one serves a different purpose and some might not be right for your car. This graph is handy: https://visual.ly/community/Infographics/how/guide-choosing-right-tires-your-truck-or-suv  
+
+url:https://reddit.com/r/YouShouldKnow/comments/7aeice/
+author:mwar93
+subreddit:YouShouldKnow
+score:1961
+numComments:111
+isOver18:False
+hasPostBody:True

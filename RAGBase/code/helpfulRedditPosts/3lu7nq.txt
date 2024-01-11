@@ -1,0 +1,13 @@
+title:
+LPT: When you attend a wedding, add a reoccurring event to your calendar for the couple's anniversary.
+
+content:
+That is if you're going to send them your congratulations every year.
+
+url:https://reddit.com/r/LifeProTips/comments/3lu7nq/
+author:fairfarefair
+subreddit:LifeProTips
+score:2067
+numComments:243
+isOver18:False
+hasPostBody:True

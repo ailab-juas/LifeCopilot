@@ -1,0 +1,13 @@
+title:
+LPT: if you're using Windows you can activate your clipboard history by pressing Windows Key + V. Now instead of CTRL+V to paste, you can use Windows Key + V and select the previously copied item you wish to paste.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/rg6hgw/
+author:vlad_1kr
+subreddit:LifeProTips
+score:1558
+numComments:69
+isOver18:False
+hasPostBody:False

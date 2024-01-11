@@ -1,0 +1,21 @@
+title:
+LPT: Learn common word choice mistakes and avoid them as much as possible. In any written communication, even if informal, these mistakes damage your credibility.
+
+content:
+These are all examples of things that make it past spell check, yet are wrong. Here are a few I've seen just today:
+
+- Loose is the opposite of tight, lose is the opposite of win
+- Lightning is electricity from the sky, lightening is to make something weigh less
+- Diffuse is to spread something around, defuse is to deescalate a situation or disarm a bomb
+- Your interest isn't peaked, it's piqued (unless you're interested in mountain ranges)
+- You take a cue while acting, you queue to wait for something
+
+What common word choice mistakes cause you to view the writer as less credible?
+
+url:https://reddit.com/r/LifeProTips/comments/sjcbv6/
+author:PointlessDiscourse
+subreddit:LifeProTips
+score:2805
+numComments:892
+isOver18:False
+hasPostBody:True

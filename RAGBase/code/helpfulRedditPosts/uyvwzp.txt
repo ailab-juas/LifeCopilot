@@ -1,0 +1,40 @@
+title:
+YSK: In English, when referring to yourself and, lets say, a friend, you should say "my friend and I" for subjective case and "my friend and me" for objective.
+
+content:
+Why YSK: It's a super common grammar mistake and I see people making it a lot! I remember my elementary school teacher telling us that we should always say "my friend and *I*" as opposed to "my friend and *me*," but there are instances were the latter is actually correct.
+
+The best way to know when to say it is by thinking about whether you would say "I" or "me" when referring only to yourself in a similar sentence. Here's an example of this occurring when you and your friend are the subjects of the sentence:
+
+**Example (my friend and I):**
+
+"My friend and me went to the beach."*My friend* went to the beach. *Me* went to the beach.
+
+Of course this isn't correct. You would say:
+
+"My friend and I went to the beach."*My friend* went to the beach. *I* went to the beach.
+
+So let's use this same principle with a different sentence, where you and your friend are the *objects*.
+
+**Example (my friend and me)**:
+
+"My teacher gave a test to my friend and I."My teacher gave a test to *my friend*. My teacher gave a test to *I.*
+
+That doesn't make sense, now does it? So instead, you would say:
+
+"My teacher gave a test to my friend and me."My teacher gave a test to *my friend*. My teacher gave a test to *me.*
+
+&amp;#x200B;
+
+Edit: oh ok this blew up that's nice! This was just a reaction to a title I saw on a different Reddit post so that's cool. Thanks to the commentors who also showed the example. I struggled with phrasing the title and hoped the example in text would clear it up but reading comments is always fun.  
+
+
+Edit 2: PLATINUM!? It's grammar!! thank you very much kind stranger, me and my friends will definitely be celebrating this.
+
+url:https://reddit.com/r/YouShouldKnow/comments/uyvwzp/
+author:soberbitch823
+subreddit:YouShouldKnow
+score:8777
+numComments:530
+isOver18:False
+hasPostBody:True

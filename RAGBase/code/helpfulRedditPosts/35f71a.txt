@@ -1,0 +1,15 @@
+title:
+YSK AGoodMovieToWatch.com recommends little known, highly quality movies that get good reviews but didn't make a lot of money at the box office
+
+content:
+http://agoodmovietowatch.com/ 
+
+Something for when you spend hours choosing what to watch on Netflix. It has options for looking for movies with a specific mood, genre, tag, or anything from Netflix, and gives you a movie choice and a description of why that movie is good. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/35f71a/
+author:Moozilbee
+subreddit:YouShouldKnow
+score:2158
+numComments:151
+isOver18:False
+hasPostBody:True

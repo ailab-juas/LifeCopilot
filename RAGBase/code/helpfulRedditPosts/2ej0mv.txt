@@ -1,0 +1,18 @@
+title:
+LPT: Avoid adding references or "references upon request" to your résumé
+
+content:
+Ten or so years ago, it was perfectly fine to state that you had references available upon request or include references in your résumé. While most aspects of a résumé are ageless, there are nuances that are not and require tweaking every few years. One of these things is the reference section. It is recommended that a résumé be one page (or two) if possible, and the addition of references uses much of that valuable space. If an employer needs references, they assume you already have them and will specifically request them and expect to receive a separate reference sheet.
+
+If you visit web addresses such as, but not limited to, Career Builder or Business Insider, they will list references as one of the top ten things to leave out of a résumé.
+
+Because this practice is "old-school," leaving it out will also prevent your résumé from being aged or showing your age.
+
+
+url:https://reddit.com/r/LifeProTips/comments/2ej0mv/
+author:chilichickify
+subreddit:LifeProTips
+score:2956
+numComments:766
+isOver18:False
+hasPostBody:True

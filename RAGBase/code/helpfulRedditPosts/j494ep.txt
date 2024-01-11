@@ -1,0 +1,35 @@
+title:
+YSK that a vehicle's 'Day Time Running Lights' and 'Automatic Headlights' are not the same thing.
+
+content:
+I made a post recently about turning on your headlights at night. I noticed in the comments a lot of people were confused about manual vs automatic headlights vs day time running lights.
+
+Why YSK: Because if you don't have any lights on your are almost invisible at night and a hazard on the roads.  If you are not using the correct lights to see at night you are also a hazard on the roads.  Your vehicle needs to be able to be seen by other drivers night and day and you as a driver need to be able to see out of the vehicle and correctly using your headlights is the best way to achieve this.
+
+Day Time Running Lights are the type of headlights that are always on when the vehicle is on. They make it easier for your vehicle to be seen during the day. They help the cars not fade into the road or horizon. These are not intended for the driver to use for night time vision.
+
+Automatic Headlights are the type of head lights that detect darkness and weather conditions. These are meant to reduced the amount of responsibilities for the driver and are intended to be used for increased visibility for the driver.
+
+It is important to know which of these your vehicle is equipped with, or if you have completely manual headlights that are completely off until the driver switches them on.
+
+For an example of how hard it is to see a vehicle driving in the dark with it's lights off please reference [this post](https://www.reddit.com/r/Dashcam/comments/j3ihaq/its_going_to_start_getting_dark_earlier_soon_i/) and to confirm your type of head lights please reference your vehicles owner's manual which is usually available online.
+
+Thank you for reading and safe travels!
+
+**Edit** for clarity and increased understand of the importance, I am copy pasting one of my comments below:
+
+DRL turn on when the car turns on, but do not increase in brightness when in the dark. DRL are a very low intensity light that does not project very far in front of the car. This is important because the less distance your lights project in front of the car the slower you would need to travel in the dark to not 'over drive your lights'. What it means to over drive your lights is to be going fast enough that your vehicles stopping distance is beyond what you can see with your lights in their current illumination.
+
+Automatic lights are lights intended to be used for improved vision at night and in dark/bad weather and turn on in dark conditions, not when the vehicle is turned on. A vehicle with DRL can still have Auto lights, but it is important to know there is a difference if you do not have Auto lights.
+
+**Edit 2** your headlights should be turned on at least half an hour before sunset (although preferably all day). Even if you can see just fine, other cars can definitely not see you just fine.
+
+**Edit 3** Many people are pointing out that I forgot that if you don't turn on your head lights, YOU HAVE NO GODDAMN TAILLIGHTS
+
+url:https://reddit.com/r/YouShouldKnow/comments/j494ep/
+author:BDR2017
+subreddit:YouShouldKnow
+score:3280
+numComments:132
+isOver18:False
+hasPostBody:True

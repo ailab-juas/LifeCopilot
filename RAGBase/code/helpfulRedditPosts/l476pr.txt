@@ -1,0 +1,15 @@
+title:
+YSK bumping into a new tax bracket will never mean you take home less money in total
+
+content:
+Why YSK:  I see people getting this wrong a lot, saying things like "If I accept this extra job, I'll bump into a new tax bracket and actually make less money".  When you bump into a new tax bracket, you are taxed at that rate \*ONLY\* for income within that bracket.
+
+For example, if you make $15k/year, you are taxed 10% on the first $9875, and 12% on the remaining $5125, for an \*average\* tax rate of 10.68%. You are \*not\* taxed 12% on the whole. Bumping into a new tax bracket will \*never\* mean you make less money than if you'd stayed in a previous tax bracket.
+
+url:https://reddit.com/r/YouShouldKnow/comments/l476pr/
+author:Red_Icnivad
+subreddit:YouShouldKnow
+score:1156
+numComments:81
+isOver18:False
+hasPostBody:True

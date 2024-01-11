@@ -1,0 +1,13 @@
+title:
+If your friend's phone alarm is going off and you're too lazy to get up, call their phone and it'll turn off.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1apmig/
+author:rubes114
+subreddit:LifeProTips
+score:1556
+numComments:146
+isOver18:False
+hasPostBody:False

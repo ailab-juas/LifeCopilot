@@ -1,0 +1,13 @@
+title:
+LPT: Just because you can afford to buy something doesn't mean you can afford to maintain it.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/u3iza2/
+author:Spikedjuicebox
+subreddit:LifeProTips
+score:14195
+numComments:1295
+isOver18:False
+hasPostBody:False

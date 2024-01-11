@@ -1,0 +1,13 @@
+title:
+LPT: When working out rather than counting to the desired rep. Start at the desired rep and count down.
+
+content:
+Who doesn't love a countdown?! It's really helped me get those last few reps. 
+
+url:https://reddit.com/r/LifeProTips/comments/3ehi9p/
+author:SuperDuperJosh
+subreddit:LifeProTips
+score:3843
+numComments:593
+isOver18:False
+hasPostBody:True

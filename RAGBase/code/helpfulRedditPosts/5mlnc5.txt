@@ -1,0 +1,13 @@
+title:
+YSK that K-Lite Codec Pack now bundles adware!
+
+content:
+[Proof will be here,](https://supload.com/By75HsAHl) but thankfully Unchecky will stop it, and Ninite will install it without it even trying to install adware. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/5mlnc5/
+author:bailey0799
+subreddit:YouShouldKnow
+score:1181
+numComments:162
+isOver18:False
+hasPostBody:True

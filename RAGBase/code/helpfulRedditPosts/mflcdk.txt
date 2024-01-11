@@ -1,0 +1,13 @@
+title:
+LPT: If you constantly find yourself deactivating your social media accounts in times of trouble and then reactivating them once again when things are good; it’s probably best to abstain from them once and for all.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/mflcdk/
+author:kylake
+subreddit:LifeProTips
+score:1209
+numComments:59
+isOver18:False
+hasPostBody:False

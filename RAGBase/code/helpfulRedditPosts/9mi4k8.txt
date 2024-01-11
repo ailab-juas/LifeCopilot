@@ -1,0 +1,17 @@
+title:
+LPT: Before scheduling a meeting, write 1-2 sentences explaining what you want the meeting to accomplish. If you're unable to write a clear statement of purpose, cancel the meeting until you can.
+
+content:
+Obligatory "unless it's urgent and you have to meet regardless".
+
+Statements of purpose should be clear, easy to understand objectives. For example, "My goal for this meeting is to communicate upcoming overtime requirements to my team" is clear, easy to understand, and attainable. "I'd like to talk about recent performance," on the other hand, is just begging for a meandering morass of awkwardness. Force yourself to say your goals out loud--you might be surprised by how often you're tempted to schedule meetings before you understand why they're necessary.
+
+Clear meeting objectives give you and the attendees a sense of purpose, direction, and accomplishment. If you meet your objective, everybody feels like they've won. If you don't, people are far more likely to be open to scheduling follow up meetings to tie up loose ends. 
+
+url:https://reddit.com/r/LifeProTips/comments/9mi4k8/
+author:QuotidianQuell
+subreddit:LifeProTips
+score:1450
+numComments:40
+isOver18:False
+hasPostBody:True

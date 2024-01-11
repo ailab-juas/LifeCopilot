@@ -1,0 +1,27 @@
+title:
+LPT: Make sure your Ceiling Fan is running counter-clockwise in the hot summer months. Clockwise in the winter.
+
+content:
+When running the forward (counter-clockwise) direction, your ceiling fan will give you the wind-cooling effect. In the winter, run your ceiling fan slowly in the reverse (clockwise) direction, to pull cool air up and force the warm air back down.
+
+These directions are determined while *looking up at your fan*. 
+
+To change your ceiling fan's direction, stand on a chair (be careful) and look around the base of your fan for a switch.
+
+____________________________
+
+Edit: Ok, there are a lot of wise-guys commenting on this, so I wanted to add a few comments. 
+
+1) If your fan does not have this switch or capability, this tip does not apply to you. I thought that would be common sense, but reddit never ceases to amaze me.
+
+2) *Most* ceiling fans are manufactured with the blades having the same tilt direction. In case you are worried that your fan may be opposite than the industry standard, simply make sure your fan is rotating in the direction to push the air down. So if your fan is tilted like this: \   
+
+...then it should move in this direction in the summer:    &lt;----  \
+
+url:https://reddit.com/r/LifeProTips/comments/37vjau/
+author:celomics
+subreddit:LifeProTips
+score:4110
+numComments:591
+isOver18:False
+hasPostBody:True

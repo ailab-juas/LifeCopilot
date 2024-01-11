@@ -1,0 +1,13 @@
+title:
+YSK some websites track your browsing history and will increase the cost of items or flights after repeat viewings. If you want to prevent this, browse incognito, delete your cookies or maybe use a VPN
+
+content:
+Why YSK: It's the holidays and a lot of us are spending money on gifts and flights too. This could potentially save you money.
+
+url:https://reddit.com/r/YouShouldKnow/comments/zas7bh/
+author:EJRose83
+subreddit:YouShouldKnow
+score:18977
+numComments:534
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Look for a restaurant with a short menu, because if a restaurant has a HUGE menu. Its all frozen.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/brf1jm/
+author:[deleted]
+subreddit:LifeProTips
+score:1851
+numComments:247
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,17 @@
+title:
+LPT: When you use a new appliance for the first time, put all the spare parts and the manual in a zip lock bag and label the bag immediately
+
+content:
+This applies to anything that comes with spare parts, anything at all.
+
+It's a neat way of keeping things organised so that you don't end up with piles of screws and odds and ends and you don't know what any of them are for. It also makes maintenance and repair much easier. And, my favourite, it also means you know what you can get rid of if you no longer have the item the parts relate to.
+
+Be as specific when you label as you want to be. "Clock" doesn't help me since I have about six in my home. "Green kitchen wall clock 2019" is much more helpful.
+
+url:https://reddit.com/r/LifeProTips/comments/wf3hbh/
+author:dndunlessurgent
+subreddit:LifeProTips
+score:1949
+numComments:49
+isOver18:False
+hasPostBody:True

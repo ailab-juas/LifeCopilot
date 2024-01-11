@@ -1,0 +1,13 @@
+title:
+When selling a phone, manually wipe the SD card
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1pt29q/
+author:13Coffees
+subreddit:LifeProTips
+score:1118
+numComments:193
+isOver18:False
+hasPostBody:False

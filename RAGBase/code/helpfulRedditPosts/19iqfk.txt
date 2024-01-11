@@ -1,0 +1,17 @@
+title:
+LPT: Use the Khan Academy "Knowledge Map" to improve your math skills in the most structured way possible!
+
+content:
+I've used it and it is amazing!
+
+https://www.khanacademy.org/exercisedashboard
+
+Edit: Feel like I need to stress this: You have to zoom in on the map to see all the connections and individual exercises!
+
+url:https://reddit.com/r/LifeProTips/comments/19iqfk/
+author:ywecur
+subreddit:LifeProTips
+score:2268
+numComments:207
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,17 @@
+title:
+LPT: When writing an essay, put your weakest arguments in the middle and your strongest arguments in the start and end.
+
+content:
+This method allows you to start and end your essays/papers with most strength.
+
+**Note:** This is by far not the best method to write an essay. Use this only if you are really stuck or have no other options. Ideally, you should have ALL strong well supported arguments. They should be supported by well written introductory and conclusion paragraphs.
+ 
+**Update 1:** I was referencing the [Serial Position Effect](http://en.wikipedia.org/wiki/Serial_position_effect) when I first posted this. Thanks to /u/mightyfaggot for the term/link.
+
+url:https://reddit.com/r/LifeProTips/comments/32c9z5/
+author:lankanmon
+subreddit:LifeProTips
+score:1792
+numComments:94
+isOver18:False
+hasPostBody:True

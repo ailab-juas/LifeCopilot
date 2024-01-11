@@ -1,0 +1,13 @@
+title:
+Stop posting the 'Do not shorten 2020' tips, we've had it 75 time's in the past three days. The first time was enough.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ejuuan/
+author:Minifig81
+subreddit:LifeProTips
+score:3053
+numComments:2
+isOver18:False
+hasPostBody:False

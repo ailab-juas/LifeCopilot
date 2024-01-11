@@ -1,0 +1,13 @@
+title:
+LPT: If you don’t already, make it a habit to keep your wallet in your front pockets. Not only will this make it harder for people to steal, but it will help you avoid chronic back pain that’s frequently caused by sitting with your wallet in your back pocket.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ij4j5p/
+author:DrMrJordan
+subreddit:LifeProTips
+score:21466
+numComments:1179
+isOver18:False
+hasPostBody:False

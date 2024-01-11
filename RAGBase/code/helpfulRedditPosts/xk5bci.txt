@@ -1,0 +1,13 @@
+title:
+LPT: Immediately after being awoken by your alarm, turn on some lights in your room - it helps reinforce that it’s NOT time to go back to sleep, because your brain interprets dark spaces as a window to release sleep chemicals.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/xk5bci/
+author:Shadurasthememeguy
+subreddit:LifeProTips
+score:2280
+numComments:141
+isOver18:False
+hasPostBody:False

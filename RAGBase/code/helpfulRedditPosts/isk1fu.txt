@@ -1,0 +1,13 @@
+title:
+LPT: If you regularly shop on Amazon, make sure to use the link smile.amazon.com as then a portion of your purchases will go to a charity of your choice
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/isk1fu/
+author:sbose123
+subreddit:LifeProTips
+score:47541
+numComments:1378
+isOver18:False
+hasPostBody:False

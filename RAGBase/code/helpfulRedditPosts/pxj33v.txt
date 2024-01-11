@@ -1,0 +1,21 @@
+title:
+LPT: Buying a brand new car from a dealership? Best time to buy is near the end of the month, as they're more likely to accept a bold negotiation on the sticker price just so you buy the car and they can make target volume for the month to avoid losing their sales ranking
+
+content:
+EDIT: **Some redditors seem to be taking this as a guaranteed life-hack that applies without exception for every single country, it's not. If your country has no stock, it's of course going to be pretty useless.** I work at a dealership, we do this often. This is just some advice that may differ slightly depending on your country's market at the moment, **if your new car market is doing well, give it a go** the worst that might happen is the sales rep will say sorry best I can do is X", so there's really nothing wrong with giving it a go. Or you can get upset and comment anyway, up to you.
+
+Independent dealerships that represent a particular brand (Mercedes, Hyundai, Mitsubishi, Honda etc) and aren't owned by the brand themselves (for example Tesla), tend to compete against other dealership franchises in overall performance rankings to present themselves as better to the brand's headquarters. High performing dealerships get preferential treatment such as first choice with special models and are more likely to be have special requests accepted by the parent brand, so meeting monthly volume targets are a common metric to try and excel at.
+
+Depending on your country and brand's rules, a 'new car sale' counts when a vehicle is ordered by the  dealership and then *registered*. If a car on the lot already has registration plates, it's already been counted as sold and is called 'pre-registered'. Dealerships do this to make their monthly volumes by essentially registering the car with the transport department for themselves, with the expectation they can move it next month or swap/sell it to other dealerships if stock is low and they have an in-demand vehicle. The latter also benefits them as in addition to initially counting as a new sale, that takes away a brand new sale + registration from the other dealership when that dealership requests the car since the competing dealer likely can't find it unregistered anywhere else to sell to their customer.
+
+So this pro tip mostly applies if you're placing a new vehicle order, or looking at a vehicle on the lot without plates. Because they're not registered yet by the dealership, they're perfect for trying to negotiate a little harder on as if it's been a slow month for them, they'll likely take 5-10k (NZD) off the car and throw in a service plan just to make their target and avoid dropping down the rankings.
+
+Bonus, though this goes without saying, high-spec variants of the same model can have up to 3x the margin in them compared to entry level models.
+
+url:https://reddit.com/r/LifeProTips/comments/pxj33v/
+author:theadventuresofkarl
+subreddit:LifeProTips
+score:20386
+numComments:919
+isOver18:False
+hasPostBody:True

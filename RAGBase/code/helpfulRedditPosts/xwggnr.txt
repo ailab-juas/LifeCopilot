@@ -1,0 +1,15 @@
+title:
+YSK the significance of recycling codes on plastics: #1 and #2 can be recycled at almost every recycling center, but #3, #6 and #7 usually cannot be recycled. Some recycling centers can process plastics labeled #4 and #5, so call your local center to see if they accept those containers.
+
+content:
+Why YSK: Many people believe that if a plastic item has the "recycling symbol" on it then it can be recycled, which isn't true. Only 5-6% of the plastic waste generated in the US each year is recycled. 85% ends up in landfills and 10% gets incinerated. You can minimize the number of items that end up in landfills by choosing products that are easy to recycle. 
+
+[https://www.huffpost.com/entry/how-to-recycle-basics\_n\_578d7e8ce4b0c53d5cfab03d](https://www.huffpost.com/entry/how-to-recycle-basics_n_578d7e8ce4b0c53d5cfab03d)
+
+url:https://reddit.com/r/YouShouldKnow/comments/xwggnr/
+author:Lagavulin16_neat
+subreddit:YouShouldKnow
+score:5003
+numComments:183
+isOver18:False
+hasPostBody:True

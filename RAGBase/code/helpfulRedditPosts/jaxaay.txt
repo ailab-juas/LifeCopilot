@@ -1,0 +1,19 @@
+title:
+YSK that an emergency room is not an "immediately" room.
+
+content:
+Why YSK: Emergency room visits usually take several hours, with the average being around 3.7 hours in 2006 (source below). We have to draw labs and run imaging studies, all of which take time to result and interpret. If you come in, expect to be there for a few hours - not including the time you spend in the waiting room. If you have a chronic issue or do not want to wait in the ER and believe you can wait to be seen, consider making an appointment with your PCP, who can help you schedule outpatient labs and scans. 
+
+The emergency room is not an "immediately" room - unless you come in with no pulse, it will take us some time to find what's wrong. We are happy to treat anyone who comes in at any time for any complaint, please just be patient with us while we try to help you!
+
+As always, if you believe you're having a medical emergency, put down Reddit and call 911. 
+
+(Citation in poor mobile formatting): https://medicalconnectivity.com/2006/06/01/average-length-of-stay-in-eds-nationwide-too-long/#:~:text=A%20recent%20study%20by%20Press,emergency%20departments%20is%203.7%20hours.
+
+url:https://reddit.com/r/YouShouldKnow/comments/jaxaay/
+author:evilfailure
+subreddit:YouShouldKnow
+score:24309
+numComments:1423
+isOver18:False
+hasPostBody:True

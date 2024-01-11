@@ -1,0 +1,13 @@
+title:
+YSK that using a microwave power setting is the easiest way to reheat food
+
+content:
+Why YSK: most reheating goes like this: microwave food for a minute, stir, repeat, stir, repeat. If you use a half power setting and microwave for the same amount of time or even a minute longer, your food will heat evenly throughout with no hot or cold spots and no need to stir in the middle of the process.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ora2oc/
+author:Sudo_Nymn
+subreddit:YouShouldKnow
+score:3191
+numComments:225
+isOver18:False
+hasPostBody:True

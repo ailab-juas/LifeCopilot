@@ -1,0 +1,25 @@
+title:
+YSK that if you are homeless or in need of an address to use for free, General Delivery from the United States Post Office is what you need.
+
+content:
+Why YSK: Besides P.O. boxes - which cost money - general delivery is a way to receive mail - for free - at any post office across the United states.
+
+All you have to do is address the envelope as follows:
+
+Your Name  
+General Delivery  
+City, State, Zip Code. 
+
+Each zip code only has one hub post office. So if you need something to come to your post office, all you need is the correct zip.
+
+Also, please know that you must have a valid ID to retrieve anything sent to general delivery. But I've used general delivery as my address for many things, including food stamps. It does work and it works well.
+
+I can't link to the general delivery FAQ (because the post will be removed), but if you just Google "what is general delivery" you will get all the information you could possibly ever need.
+
+url:https://reddit.com/r/YouShouldKnow/comments/yy169h/
+author:EveryXtakeYouCanMake
+subreddit:YouShouldKnow
+score:16831
+numComments:314
+isOver18:False
+hasPostBody:True

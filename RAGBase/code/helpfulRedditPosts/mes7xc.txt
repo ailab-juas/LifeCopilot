@@ -1,0 +1,17 @@
+title:
+LPT: If you are writing to someone in an attempt to support, encourage, or express sympathy, check to see how many of your sentences begin with “I...”
+
+content:
+Someone told me this years ago, and I’ve never forgotten it. Now, any time I’m sending a letter, an email, or even a long text addressed to someone with the intent to build them up or help them, I double check to make sure the majority of the sentences begin with “You may feel,” or “You are one of the (strongest, most compassionate, etc)”, or even “If you need me.” 
+
+I try to refrain from “I know from experience,” (unless that experience is EXACTLY the same, and even then, that puts the focus on you), or “I am sending thoughts...”. 
+
+It’s not a **never** rule. “I love you”, “I will always be here” are both obvious exceptions. And never underestimate the importance of “I’m proud of you.”
+
+url:https://reddit.com/r/LifeProTips/comments/mes7xc/
+author:fig31
+subreddit:LifeProTips
+score:2021
+numComments:41
+isOver18:False
+hasPostBody:True

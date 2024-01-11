@@ -1,0 +1,13 @@
+title:
+LPT: Try some food or drink you did not used to like, every once in a while. Your taste changes over time and you will be surprised to rediscover some nice things.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/dq11r5/
+author:Don_Migel
+subreddit:LifeProTips
+score:3003
+numComments:308
+isOver18:False
+hasPostBody:False

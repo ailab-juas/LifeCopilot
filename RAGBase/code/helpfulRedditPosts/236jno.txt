@@ -1,0 +1,15 @@
+title:
+LPT: Stinky pits in the middle of the day? Rather than splashing them with water, use hand sanitizer
+
+content:
+What you smell is the product of bacteria. Hand sanitizer’s purpose is to kill bacteria. The smell goes away instantly. Works with rubbing alcohol as well, but hand sanitizer is usually more accessible.
+
+Ideally, you'd also have a spare deodorant with you. Put that on *after* you use the hand sanitizer. Otherwise you're just masking the smell, not getting rid of it.
+
+url:https://reddit.com/r/LifeProTips/comments/236jno/
+author:wtfjen
+subreddit:LifeProTips
+score:1560
+numComments:545
+isOver18:False
+hasPostBody:True

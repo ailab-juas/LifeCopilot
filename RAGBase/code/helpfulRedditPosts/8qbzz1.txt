@@ -1,0 +1,33 @@
+title:
+YSK that Google has a support line and how to reach them.
+
+content:
+It's not really obvious how to get customer support from Google if you're not a G Suite customer, and they have a reputation for nonexistent support, which is unfortunate because their support is fantastic. If you've ever had an issue that the Google support forums just wasn't solving and wished that you could just talk to a person, but didn't know how...well, now you do!
+
+Here's how to talk to Google Support.
+
+By Phone:
+
+* United States: \+1 855\-836\-3987
+* United Kingdom: \+44 (0)20\-7031\-3000
+* India: \+91\-80\-67218000
+* Mexico: \+52 55\-5342\-8400
+* Canada: \+1 514\-670\-8700
+* Germany: \+49 30 303986300
+* Russia: \+7\-495\-644\-1400
+
+By Chat:
+
+The following is potentially unethical, employ only in dire cases, and be polite!
+
+The link to chat is not available for all issues on their [support portal](https://support.google.com/), however they generally will help even if you have a different issue than the one you went through the tree for, at least in my experience, as long as you're polite about it. Don't use this as a first line of contact though, really, call the support number. 
+
+The most reliable way I've found is to click into Google Play Help, click on Get Help in the right hand corner, click through the tree of issues and hit Request Chat. It says it'll take 2\-4 minutes usually, but I often get connected much faster. Again, if it's not a Play store issue, I wouldn't advocate for this being your first point of contact, but the more you know!
+
+url:https://reddit.com/r/YouShouldKnow/comments/8qbzz1/
+author:alexagraphical
+subreddit:YouShouldKnow
+score:3426
+numComments:66
+isOver18:False
+hasPostBody:True

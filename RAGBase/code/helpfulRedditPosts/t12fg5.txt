@@ -1,0 +1,13 @@
+title:
+LPT: If you stain your carpet/clothes, visit the University of Illinois Stain Solution website for how to remove specific stains
+
+content:
+You can visit https://web.extension.illinois.edu/stain/ for exact details on specific stain removal
+
+url:https://reddit.com/r/LifeProTips/comments/t12fg5/
+author:nicksampat407
+subreddit:LifeProTips
+score:5800
+numComments:97
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+LPT: You know how you shouldn't talk to cops? Apply the same logic to dealing with HR.
+
+content:
+HR is not there for anything but to protect the *company*. You can apply this to harassment complaints, union busting, payroll discussions and many other situations. The bottom line is more important than you. If it's cheaper to just get rid of you rather than address the root issue - there's only one way that goes.
+
+They are not your resource, you are theirs.
+
+url:https://reddit.com/r/LifeProTips/comments/h8dcpi/
+author:degathor
+subreddit:LifeProTips
+score:2987
+numComments:202
+isOver18:False
+hasPostBody:True

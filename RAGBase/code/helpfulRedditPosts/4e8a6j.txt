@@ -1,0 +1,57 @@
+title:
+YSK how to help EMS respond to an emergency for your elderly loved one
+
+content:
+Hello, EMT here, and there are some things You Should Know if you are currently caring for an elderly relative. I've compiled a list of things you can prepare for if there's an emergency.
+
+
+**-ACCESS:** If your loved one is non-ambulatory (needs a chair or can't move on their own), be prepared to provide easy access to them. If you can possibly build a ramp for a gurney, do so. If you can widen your driveway, or fix potholes, do so. At the very least, de-clutter things like plants, furniture, etc.
+
+Make it easy for a group of fire/EMS to easily move them from their bed to the ambulance. If you're in a very cramped space, it may be time to consider a move, perhaps to a better space, or even a care home. Have a sturdy blanket under them at all times that will make it easy for responders to lift them onto their gurney.
+
+If they're extra heavy or suffer from a lot of pain, you can get a flexible stretcher with handles for ~$30 online, and keep it under them.
+
+
+**-INFORMATION:** Print plenty of pamphlets with information about your loved one. Their name, age, date of birth, address, phone number, their doctor, etc. EMS will want to know their allergies, medications, and pertinent medical history. Put these categories in bold underline, and list them, very clearly. If you have to call 911, have a script ready to read the dispatcher.
+
+eg: "My name is (blank), and I'm at (address), I have a (blank) year old male/female who is currently having (difficulty breathing, stroke like symptoms, is unresponsive, had a ground level fall, etc)"
+When an ambulance is dispatched, the above information is all they will get/need.
+
+
+**-BARRIERS TO CARE:** It is very common for family to want to jump in and help the responders, but you are better off with providing the pamphlet, giving a short/concise description of what happened leading up to you calling 911, and then stepping aside and letting them work. You've already provided them easy access to the patient and back to the ambulance, so don't become another obstacle.
+
+Resist the temptation to overdress your loved ones in dresses or bulky clothing, as EMS will need access to their body to take blood pressure on their upper arm, apply electrodes on their chest, or put a pulse ox on their finger.
+
+DO NOT PAINT THEIR NAILS. It makes it very difficult to get a reading with the pulse ox. In fact, keep their nails clean. Keep them well groomed in general. If EMS has to shave their chest to apply pads, or their beard to get a good fit with a bag valve mask, that is valuable time lost.
+
+
+**Other notes:** Other than the above, other things you can do to help aid prior to the arrival of EMS is purchasing and familiarizing yourself with equipment to take vitals signs. An electronic blood pressure reader ~$30, a pulse ox ~$20, etc.
+Write down the blood pressure, pulse rate, and oxygen saturation with a date and time. Perhaps write it on your pamphlet that you give to the paramedic on scene.
+
+Take a CPR class. In the event of a pulseless patient, immediate high-quality compressions are going to be their only chance of survival. After 4 minutes with no pulse, they are as good as dead.
+
+Last thing, if your loved one DOES have a DNR (do not resuscitate) order, have the paperwork available, right then and there. For your loved one who wishes to go peacefully, if we don't see their DNR paperwork in front of us, by law, we are going to go to work on them, doing CPR and busting their sternum and ribs, thus denying them of their peaceful passing.
+
+Hope this helps. Feel free to post questions below and I will answer when I can. Thanks!
+
+
+**EDIT:** As others have stated, YES, absolutely have your address clearly visible and have someone wave down the ambulance if possible.  I also work for a rural company, and map books and GPS only go so far.
+
+I stand by my point of not overdressing, but let me clarify.  I'm not saying to not keep them warm, I'm saying don't dress them in clothing that is difficult to remove. 
+
+Also, long pajamas can make it difficult to place electrodes.  Sure, you can place them on their legs, but you'll get more artifact. 
+
+Sure, you can cut their clothes, but I rarely do that for minor chest pain. In the end, it still impedes care. Seconds lost is brain lost. A t-shirt, some sweat pants, socks, and then plenty of blankets, IMO, is the way to go.
+
+As far as nail polish, it's far easier to place a pulse ox than to break out the pedi pulse ox and stick it to their ear.  And to be honest, the ones we have on our rigs don't stick very well, we usually have to tape them.  Not a huge deal, but again, seconds lost.
+
+As far as a beard, you're right, they're probably getting tubed.  But what if the ALS units are all out, and you end up on a BLS unit having to place an OPA, bag, load and go, hoping to catch an ALS intercept enroute?  In my company, such a scenario isn't unheard of.
+Just shave the beard. Or at least keep it well trimmed. Better safe than sorry, right?
+
+url:https://reddit.com/r/YouShouldKnow/comments/4e8a6j/
+author:dumbich
+subreddit:YouShouldKnow
+score:1019
+numComments:83
+isOver18:False
+hasPostBody:True

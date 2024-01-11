@@ -1,0 +1,13 @@
+title:
+YSK that most of the frontpage of reddit is submitted by repost bots and 'power users'.
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/1lgfpw/
+author:[deleted]
+subreddit:YouShouldKnow
+score:2294
+numComments:816
+isOver18:False
+hasPostBody:False

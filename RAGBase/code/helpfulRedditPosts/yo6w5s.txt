@@ -1,0 +1,15 @@
+title:
+YSK whether or not your home plumbing is made of the unreliable Polybutylene plastic.
+
+content:
+Why YSK:
+
+Polybutylene is an extremely unreliable plumbing material that was made illegal in the US in 1995 for new home construction. It can fail at essentially any time, regularly within the 10-15 year mark. If your house still has it, it’s already well past the shelf life. It can spring a quiet leak that isn’t noticeable at the faucet and literally destroy your houses structure. You can identify it by a distinct mud-grey color. The newer standard PEX plumbing will be either White, Blue, or Red, regularly coded to signify hot/cold lines.
+
+url:https://reddit.com/r/YouShouldKnow/comments/yo6w5s/
+author:Jermermer
+subreddit:YouShouldKnow
+score:3045
+numComments:128
+isOver18:False
+hasPostBody:True

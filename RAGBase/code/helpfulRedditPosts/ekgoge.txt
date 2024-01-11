@@ -1,0 +1,13 @@
+title:
+YSK most pinhole style hidden spy cams do not use infrared LEDs (no night vision due to size constraint) so the trick of using your cellphone cam to find them in a dark room will not work
+
+content:
+I see a lot of hidden camera detector apps on google play to find cams via infrared. Only works if the cam uses infrared LEDs to see in the dark. Most pre packaged hidden cams (like the ones hidden in clocks, fake smoke detectors, etc) do not use infrared.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ekgoge/
+author:mlpr34clopper
+subreddit:YouShouldKnow
+score:1571
+numComments:52
+isOver18:False
+hasPostBody:True

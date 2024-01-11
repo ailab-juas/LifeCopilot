@@ -1,0 +1,20 @@
+title:
+LPT: you can download a sample ballot ahead of the Nov. 6th election to avoid confusion at the polls at be an informed voter
+
+content:
+The advantage of downloading a sample ballot ahead of time is that you can avoid a lot of confusion when confronted with ballot initiatives, judges, or whateve else you may not have been expecting to see and haven't researched how to vote. [Ballotpedia can help you out here](https://ballotpedia.org/Sample_Ballot_Lookup). 
+
+Or, you can google 'sample ballot 2018 *[your location]*' if Ballotpedia is missing yours for some reason. 
+
+To figure out where to vote, go to https://www.vote.org/polling-place-locator/
+
+EDIT: Per request, I'd like to point that you can also avoid potential scheduling conflicts/ long lines by [voting early in many states](http://www.ncsl.org/research/elections-and-campaigns/early-voting-in-state-elections.aspx#Early%20Voting%20Law%20Table). 
+
+
+url:https://reddit.com/r/LifeProTips/comments/9ocebh/
+author:ILikeNeurons
+subreddit:LifeProTips
+score:18506
+numComments:592
+isOver18:False
+hasPostBody:True

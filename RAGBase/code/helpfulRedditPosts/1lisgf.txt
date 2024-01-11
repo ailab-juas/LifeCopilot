@@ -1,0 +1,13 @@
+title:
+YSK that reddit is run by a handful of repost spammers and 'power users'
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/1lisgf/
+author:neverendingspam5
+subreddit:YouShouldKnow
+score:1515
+numComments:299
+isOver18:False
+hasPostBody:False

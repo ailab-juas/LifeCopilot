@@ -1,0 +1,27 @@
+title:
+YSK driving out of your way for cheaper gas isn't (usually) worth it
+
+content:
+Why YSK: Often, especially with the skyrocketing gas prices, it's tempting to make a detour to go to a cheap station, however this usually ends up costing you more both in spent money and by consuming your free time.
+
+[I made a tool to calculate this to see for yourself.](https://matthewminer.name/projects/calculators/when-to-get-gas-out-of-way/)
+
+[For example](https://matthewminer.name/projects/calculators/when-to-get-gas-out-of-way/?distance=8&amp;volume=14&amp;detour-price=4.44&amp;nearest-price=4.59&amp;efficiency=22&amp;speed=19.2&amp;time-rate=15), assume you're at a station that's $4.599/gal. You know there's gas for 15¢ cheaper 4 miles away. If you're filling up a 14-gallon tank, that'd save you over $2.
+
+However, that adds 8 miles of driving out of your way. At 22 mpg, you're going to burn $1.60 more gas just going there and back. Now you're down to 50¢ savings.
+
+Add on the fact that you'll probably add about a dollar of wear to your vehicle and you're losing 50¢ now.
+
+Then it's also taking maybe 25 minutes of your time to drive there and back. Even at $15/hour, that's $6. Maybe you wouldn't be working if you went to the closest station, but your free time is just as valuable.
+
+So in the end, your money-saving endeavor ends up with a minor monetary loss *and* a major time-value loss.
+
+That's not to say it can't be worth it. A slight detour to save 50¢ while filling up gas cans is a good deal. Filling up at Costco while you're already there has no downside (except their stupid nozzles). But most of the time, hunting [GasBuddy](https://www.gasbuddy.com/home) or Google Maps for a good gas deal will unintuitively end up costing you more than it will save.
+
+url:https://reddit.com/r/YouShouldKnow/comments/tb0hr9/
+author:mminer23
+subreddit:YouShouldKnow
+score:11763
+numComments:480
+isOver18:False
+hasPostBody:True

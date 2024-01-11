@@ -1,0 +1,25 @@
+title:
+[LPT] When responding to advice, say "You're right" instead of "I know"
+
+content:
+This is for people (like myself) who tend to sound like a know-it-all because when people give you advice, you almost always respond with "I know." I learned that replacing "I know" with "You're right" is a great way to show that you're actually listening to someone, that you care about what they say, and gives them credit for trying to help you (while not negating the fact that yes, maybe you DO KNOW the thing that they are telling you). It also helps you sound less like a jerk and more like someone who appreciates advice. I've learned that changing just this simple phrase is super helpful in smoothing over social interactions. 
+
+Example:
+
+Person A: "Maybe you should try exercising in the morning instead of the afternoon if the gym is too crowded in the afternoon." 
+
+Person B: "I know, I know, it's something I've been considering."
+
+VS.
+
+Person A: "Maybe you should try exercising in the morning instead of the afternoon if the gym is too crowded in the afternoon."
+
+Person B: "You're right, it's something I've been considering."
+
+url:https://reddit.com/r/LifeProTips/comments/1cjmpy/
+author:rebeldottie
+subreddit:LifeProTips
+score:3026
+numComments:417
+isOver18:False
+hasPostBody:True

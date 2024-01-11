@@ -1,0 +1,13 @@
+title:
+YSK about Coursera, a company that partners with the top universities in the world to offer courses online for anyone to take, for free
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/wrsrz/
+author:ofthe5thkind
+subreddit:YouShouldKnow
+score:1134
+numComments:73
+isOver18:False
+hasPostBody:False

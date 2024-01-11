@@ -1,0 +1,19 @@
+title:
+LPT: If you get an email saying someone has digital evidence of you watching pornography or having sex, and will distribute it to all your contacts unless you pay them bitcoin, put that email right in your junk mail. It’s a scam.
+
+content:
+I just got this email today and even knowing it seemed phishy, I couldn’t help but panic. The subject line included my username and a password that I have (stupidly) been using on various unimportant websites since I was a teenager. The email was looong and written using those weird characters spam emails often use, but it was fairly well written grammatically. 
+
+Essentially, I was told that this person (or human equivalent of decades old pond scum) had managed to gain access to my phone, had recorded me, and unless I paid it $1900 was going to send that recording to all of my contacts on messenger, Facebook, and email. It said I had a certain amount of time to pay up, and that even if I went to the police there was no way the email could be traced. It even went so far as to say there was a specific pixel in the email showing that I had read it. 
+
+Thankfully my boyfriend was with me and quick to notice it had to be a scam since I don’t even have Facebook. He was immediately able to find an [article](https://www.google.com/amp/s/blog.malwarebytes.com/cybercrime/2019/02/sextortion-bitcoin-scam-makes-unwelcome-return/amp/) online to confirm that this “sextortion” scam has been going on for the past couple years. The wording of my own little special delivery of an email was almost verbatim the wording of the email in the article. 
+
+As someone who has always considered myself fairly savvy to recognizing a scam, I have to say this one really got to me. Even knowing it’s a scam, I still can’t help but feel violated. No one wants to be confronted with the potential that there is some utter creep out there with compromising footage of their private lives, especially in a time when there’s no telling what hackers on the dark web are capable of. I just wanted to share in case any one else here happens to get a similar email. Don’t let them get under your skin, and definitely don’t send them any money. Unfortunately there are a lot of slime balls out there trying to scare money out of us. But the more we stick together and keep each other informed, hopefully we can minimize the number of people they take advantage of.
+
+url:https://reddit.com/r/LifeProTips/comments/fzkztj/
+author:strangers_with_mandy
+subreddit:LifeProTips
+score:34087
+numComments:1997
+isOver18:False
+hasPostBody:True

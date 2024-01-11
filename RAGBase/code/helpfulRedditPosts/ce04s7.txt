@@ -1,0 +1,15 @@
+title:
+YSK if you’re using Safari and on a website that requires you to sign in/up to carry on reading, you can invoke Reader Mode
+
+content:
+It’ll usually work on sites like Express, Bloomberg and The Independent.  Not sure about The Guardian or Telegraph, but most sites can work with this mode.
+
+ETA: You can do this by clicking the reader button in the address/search bar
+
+url:https://reddit.com/r/YouShouldKnow/comments/ce04s7/
+author:ahumanmadethis
+subreddit:YouShouldKnow
+score:4517
+numComments:96
+isOver18:False
+hasPostBody:True

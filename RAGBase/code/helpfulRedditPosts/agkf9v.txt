@@ -1,0 +1,13 @@
+title:
+LPT: As soon as you wake up, do a simple or small chore like making your bed or doing your dishes. Completing a simple task right when you wake up puts you in a more productive mood.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/agkf9v/
+author:_Zelko_
+subreddit:LifeProTips
+score:40304
+numComments:1072
+isOver18:False
+hasPostBody:False

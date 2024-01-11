@@ -1,0 +1,27 @@
+title:
+YSK that if you’ve attached your bank account to Venmo/Robinhood/Betterment, a company called Plaid is recording all your bank account activity.
+
+content:
+**Why YSK**
+When you attach your account to these services using Plaid, they **store your bank account password and log into your account** periodically to download your entire activity. They know how much you make, how much you spend, etc.
+
+
+**Why now?**
+On August 9th, Plaid settled $58M lawsuit over data sharing: https://finledger.com/2021/08/09/plaid-settled-58-million-lawsuit-over-alleged-consumer-data-sharing/
+
+The lawsuit makes it clear that Plaid does not explain what kind of data it collects and how frequently it collects it.
+
+They’ve also been sued by banks:
+https://www.ctvnews.ca/business/td-bank-files-lawsuit-against-plaid-accusing-it-of-trying-to-dupe-consumers-1.5145326
+
+
+**How do I stop them?**:
+-	Simple: Change your bank account password.
+
+url:https://reddit.com/r/YouShouldKnow/comments/p5osuy/
+author:HarmoniousDroid
+subreddit:YouShouldKnow
+score:5343
+numComments:181
+isOver18:False
+hasPostBody:True

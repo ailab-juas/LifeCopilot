@@ -1,0 +1,23 @@
+title:
+YSK that your weight can fluctuate as much as 5-6 pounds (2.25-2.75 kg) throughout the day. If you're trying to gain or lose weight, it's better to track overall trends instead of day-by-day results.
+
+content:
+Why YSK:
+
+There are several factors that can influence your bodyweight including water retention, recent bowel movements (or lack thereof), menstruation cycle, medications you're taking, and more. 
+
+If you're going to track your bodyweight, it's important to weigh yourself at a consistent time of day such as in the morning before eating, and to do it on a regular basis, such as every Sunday. If you decide to weigh yourself everyday, your weight can fluctuate and therefore it's more important to track trends instead of focusing on each day's specific number. Personally, whenever I'm trying to lose weight, I use the app Libra: you can add your weight everyday and the app automatically calculates trends in your weight loss or gain based on consistent changes.
+
+Just because the scale hasn't tipped in your favor for one day isn't a reason to become discouraged! However, if you're noticing that trends aren't going well over the course of several days or weeks, you will likely have to make some changes in your diet and/or exercise regimen.
+
+[Source](https://www.healthline.com/health/weight-fluctuation#when-to-weigh)
+
+Edit: It seems like there's a lot of people who argue whether to weigh yourself daily, weekly, or even less frequently. While weighing yourself daily will give you the most accurate data to determine the trend of your weight change, ultimately it's your decision to do what feels right and comfortable for you.
+
+url:https://reddit.com/r/YouShouldKnow/comments/sflcxe/
+author:wheresthecorn
+subreddit:YouShouldKnow
+score:14726
+numComments:391
+isOver18:False
+hasPostBody:True

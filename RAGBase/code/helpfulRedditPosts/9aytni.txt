@@ -1,0 +1,13 @@
+title:
+YSK that when you send Live Photos over iMessage, they also have the audio track enabled.
+
+content:
+Most people don’t realize that, but Apple’s Live Photos also record audio. It doesn’t play automatically when you browse through your photos, but long pressing the live photo will play the audio track and whoever receives your message will also be able to play it. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/9aytni/
+author:shapte
+subreddit:YouShouldKnow
+score:3173
+numComments:166
+isOver18:False
+hasPostBody:True

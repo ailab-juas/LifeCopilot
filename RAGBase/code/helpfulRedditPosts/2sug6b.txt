@@ -1,0 +1,15 @@
+title:
+LPT: When zooming in and out of a webpage, you are able to return to original size with control and 0
+
+content:
+Blew my mind when I did it accidentally...
+
+(Edit: Thanks for the gold!!!!! MY FIRST TIME EVER!!)
+
+url:https://reddit.com/r/LifeProTips/comments/2sug6b/
+author:Matteb24
+subreddit:LifeProTips
+score:2723
+numComments:250
+isOver18:False
+hasPostBody:True

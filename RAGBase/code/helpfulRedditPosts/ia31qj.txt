@@ -1,0 +1,13 @@
+title:
+LPT When someone shares something about themselves, don't interrupt with a relatable story about yourself. Just listen.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ia31qj/
+author:jutepod
+subreddit:LifeProTips
+score:69374
+numComments:1168
+isOver18:False
+hasPostBody:False

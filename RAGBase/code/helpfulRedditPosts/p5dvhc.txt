@@ -1,0 +1,13 @@
+title:
+LPT: If you need to get somebody a birthday present, tell them they have three guesses for what you’re going to get them. Don’t tell them if it’s right or wrong. Boom. You now know three things that they want.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/p5dvhc/
+author:LawrenceTheRenegade
+subreddit:LifeProTips
+score:3796
+numComments:136
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,20 @@
+title:
+YSK that UC Berkeley is removing free lecture videos from Youtube and iTunesU on 15 March 2017.
+
+content:
+Official statement from the school: http://news.berkeley.edu/2017/03/01/course-capture/
+
+It's very likely this will happen to other schools, even non-public ones. [This Hacker News thread](https://news.ycombinator.com/item?id=13768856) mentions Stanford was forced to remove some of their videos.
+
+Past discussions on r/DataHoarder/: [original](https://np.reddit.com/r/DataHoarder/comments/5376y5/berkeley_is_taking_down_their_free_course_videos/) and [an archive effort](https://np.reddit.com/r/DataHoarder/comments/5804np/youtube_archiver_and_uc_berkeley/).
+
+edit: Current /r/DataHoarder discussion: https://np.reddit.com/r/DataHoarder/comments/5x3o51/ucberkeley_to_remove_10k_hours_of_lectures_posted/
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/5x3mf0/
+author:idontlistenwell
+subreddit:YouShouldKnow
+score:1608
+numComments:160
+isOver18:False
+hasPostBody:True

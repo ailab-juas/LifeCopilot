@@ -1,0 +1,17 @@
+title:
+YSK about simple.wikipedia.org if you're having trouble understanding a wikipedia article
+
+content:
+Wikipedia exists in multiple languages. I think most people here are probably used to en.wikipedia.org, the English Wikipedia, but there is also simple.wikipedia.org. This is also in English, but uses greatly simplified language. 
+
+I find this extremely useful sometimes when I'm faced with a Wikipedia page full of equations and complex references which are way over my head (for example, many Wikipedia pages on physics related subjects are like this). Often just swapping out the 'en.' in the URL for 'simple.' will take you to a much easier-to-understand version of the same page.
+
+Do note however, that simple wikipedia doesn't have nearly as many articles as the full English wikipedia, so there may not be an article for the subject there. That said though, I'm surprised at how often there is.
+
+url:https://reddit.com/r/YouShouldKnow/comments/c6dupa/
+author:noodhoog
+subreddit:YouShouldKnow
+score:4204
+numComments:39
+isOver18:False
+hasPostBody:True

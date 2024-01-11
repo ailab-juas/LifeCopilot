@@ -1,0 +1,13 @@
+title:
+LPT: If you are thinking about getting a gym card, test your motivation first. Set up a schedule to make (example) 20 push-ups, three times a week. If you can’t follow that schedule, chances are you’re not going to use your gym card.
+
+content:
+EDIT: This is clearly a life tip aimed toward people with a history of poor self control and those in bad physical shape. 
+
+url:https://reddit.com/r/LifeProTips/comments/98tphn/
+author:Helverin
+subreddit:LifeProTips
+score:3551
+numComments:193
+isOver18:False
+hasPostBody:True

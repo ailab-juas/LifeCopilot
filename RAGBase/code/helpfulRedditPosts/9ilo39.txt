@@ -1,0 +1,13 @@
+title:
+LPT: When speaking with someone who’s trying to learn your language, don’t correct them by telling them they’re wrong. Instead repeat the incorrect phrase back to them corrected so that it sounds like you’re just confirming what they’ve said. This helps avoid being embarrassed to speak.
+
+content:
+Source: American student studying abroad in Croatia. As the languages are very different, mistakes are quite common. Sometimes correcting their speech has led to them feeling discouraged to speak so they’re not embarrassed. I’ve found this tactic helps with most interactions.
+
+url:https://reddit.com/r/LifeProTips/comments/9ilo39/
+author:Brendan1129
+subreddit:LifeProTips
+score:1010
+numComments:60
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT:If you need to practice reading in a foreign language, try Wikipedia articles switched to the language.
+
+content:
+I think this is underrated not only because it’s an easy way to get used to the language, but also the fact you can tailor it to whatever you’re interested in. You’re more likely to remember vocabulary and grammar if you’re still interested in the topic you’re reading about.
+
+url:https://reddit.com/r/LifeProTips/comments/xhusl3/
+author:SoftAlmond
+subreddit:LifeProTips
+score:1671
+numComments:39
+isOver18:False
+hasPostBody:True

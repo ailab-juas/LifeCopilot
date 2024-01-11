@@ -1,0 +1,19 @@
+title:
+YSK if you are color blind, there is an app called Color Grabber that will tell you the color of anything
+
+content:
+Why YSK: Color Grabber is an Android app that will use your phone's camera to tell you the color of for example, a shirt you are looking to buy. This is useful for example often shirts will not have the color on the tab but some artsy name like "Spring Mist" when it's light green. The app will use the phone's camera and you tap on the item you want to know the color of.
+
+Edit: Looks like it's "Color Grab" not "Grabber"
+
+Edit edit: some folks are saying it's not accurate due to lighting, etc., so don't use it for anything important like traffic lights.
+
+Edit^3 : Some people are suggesting Color Blind Pal for iOS.
+
+url:https://reddit.com/r/YouShouldKnow/comments/kcy5fe/
+author:stanfan114
+subreddit:YouShouldKnow
+score:13387
+numComments:185
+isOver18:False
+hasPostBody:True

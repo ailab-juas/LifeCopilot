@@ -1,0 +1,13 @@
+title:
+YSK If your Nike sneakers are damaged you can get a new pair for free, without a receipt, within 2 years of purchase. Nike will either give you a brand-new pair or a gift card for the same value
+
+content:
+Why YSK: Nike's return policy allows customers to return sneakers or apparel within 2 years of the manufacture date if they develop flaws in their workmanship or materials. Here is a link to the source, with the fine print from Nike: https://www.nike.com/help/a/shoe-warranty
+
+url:https://reddit.com/r/YouShouldKnow/comments/z9898b/
+author:TonyLiberty
+subreddit:YouShouldKnow
+score:10980
+numComments:351
+isOver18:False
+hasPostBody:True

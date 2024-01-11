@@ -1,0 +1,21 @@
+title:
+LPT: When providing your email to other sites, extend your email username by adding '+someword'. This way you will know where spammers get your email from and filter them out.
+
+content:
+While registering on websites, instead of providing your email address normally, like *username@example.com*, add a plus '+' symbol followed by something which would describe the site/service or anything you want. For example: *username+pizza@example.com*
+
+~~The~~ Some email providers ignore anything written after the plus sign, so you will still get emails in your inbox.This way in future if you get a spam email or something you never expected, you can always look at the "to" field and see whats written after the plus symbol and it will explain who is selling your email. 
+
+This is also useful to filter out emails. Gmail, for example will allow you to filter out emails sent to a particular address. This is useful when spam emails won't stop and when there is no unsubscribe button.
+
+Edit: It seems it doesn't work with Yahoo Mail. Also some of the sites with form validation might not allow the "+" symbol. For most of the sites, it should work fine.
+
+Edit2: if you are using Gmail and find out that you are getting spam mails at the *username+pizza@gmail.com* address then you can setup a custom filter to divert all the emails having "to" field as *username+pizza@gmail.com* to trash
+
+url:https://reddit.com/r/LifeProTips/comments/45k8f7/
+author:dodunichaar
+subreddit:LifeProTips
+score:3761
+numComments:498
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+YSK of a YouTube Channel called Vet Ranch who use the profits from the channel to help animals in need.
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/3isj9t/
+author:Fausty0
+subreddit:YouShouldKnow
+score:1249
+numComments:23
+isOver18:False
+hasPostBody:False

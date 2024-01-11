@@ -1,0 +1,16 @@
+title:
+YSK the U.S. is starting a 9-8-8 system for mental health emergencies beginning July 16
+
+content:
+Why YSK: While the current crisis hotline (1-800-273-TALK) will stay in use, it may not be very easy to remember. The new system is also specifically for mental health crises rather than all kinds of emergencies and is designed to get you in touch with mental health professionals instead of law enforcement.
+
+Edit: Obligatory "This thing blew up more than I expected." There are some legit questions and criticisms in the comments. Time will tell how successful the program is, but I hope it's a step in the right direction. Here is some more info:
+https://suicidepreventionlifeline.org/current-events/the-lifeline-and-988/
+
+url:https://reddit.com/r/YouShouldKnow/comments/v4fsib/
+author:IDKHow2UseThisApp
+subreddit:YouShouldKnow
+score:13426
+numComments:368
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+YSK instead of creating and linking a terribly inefficient gif of a video clip, you can link directly to a specific time in Youtube videos by putting "&amp;t=0m00s" with the time at the end of the URL.
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/31b4py/
+author:Cyno01
+subreddit:YouShouldKnow
+score:1274
+numComments:142
+isOver18:False
+hasPostBody:False

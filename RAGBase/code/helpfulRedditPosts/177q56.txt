@@ -1,0 +1,13 @@
+title:
+LPT: When you finally find that thing you've been looking for, put it back in the first place you looked for it.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/177q56/
+author:SpotsnStripes
+subreddit:LifeProTips
+score:1459
+numComments:102
+isOver18:False
+hasPostBody:False

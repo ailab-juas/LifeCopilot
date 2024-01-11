@@ -1,0 +1,13 @@
+title:
+YSK: Changing your stance on ideologies or major issues doesn't automatically make you a hypocrite - it means you've educated yourself further and changed your opinion based off this new information.
+
+content:
+Why YSK: Many people are quick to call others hypocritical, or even feel like a hypocrite when their stance on an issue changes. However, this new opinion often follows some sort of event which causes the person to see things from a different perspective. This in turn makes them re-think their stance in a way which could cause them to hold a totally different opinion of what they previously held. So don't condemn someone as being a hypocrite for doing a 180 on their beliefs - they just better informed themselves.
+
+url:https://reddit.com/r/YouShouldKnow/comments/j691s6/
+author:still_annie
+subreddit:YouShouldKnow
+score:31784
+numComments:364
+isOver18:False
+hasPostBody:True

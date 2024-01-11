@@ -1,0 +1,13 @@
+title:
+LPT:  When looking for a safe place to move, call a nearby pizza delivery to see if they have any restrictions
+
+content:
+This has helped me twice when looking to move to an unfamiliar area.  One place refused to deliver at all and another area was refused for deliveries after 7PM.  If the delivery driver won't come for fear of being robbed, then neither will I.
+
+url:https://reddit.com/r/LifeProTips/comments/uk5jr/
+author:notanon
+subreddit:LifeProTips
+score:1605
+numComments:233
+isOver18:False
+hasPostBody:True

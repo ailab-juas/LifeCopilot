@@ -1,0 +1,19 @@
+title:
+LPT: DIY live mousetrap
+
+content:
+Can't really take credit for this; it's all over the internet but I was surprised how easy and effective it was.
+
+A few nights ago I started hearing something running around above the kitchen ceiling. I decided I needed to start catching things but A: didn't want to kill them and B: wanted something that could catch both mice and chipmunks (I'd seen each in my garage over the past couple weeks.) I couldn't find anything in the hardware store that fit the bill, but I found an idea online, and built it in about 3 minutes with junk already in my garage:
+
+[The Trap](http://i.imgur.com/hTm3IWK)
+
+It's just a five-gallon bucket with a ramp and seesaw. For a ramp, I used a piece of old floor molding. The fulcrum is a paint stirrer stick, and the seesaw is a piece of corrugated cardboard. One end of the seesaw rests on the bucket lip so it doesn't flip until the unsuspecting prey has crossed the point of no return. I baited the thing with black sunflower birdseed. The next morning [this little guy was chilling in the bucket.](http://i.imgur.com/iVf7QS5) I dropped him off in the woods on the way to work. Over the next two days I caught another mouse and a chipmunk. No more wall noises!
+
+url:https://reddit.com/r/LifeProTips/comments/1rs3ko/
+author:mk48
+subreddit:LifeProTips
+score:1483
+numComments:313
+isOver18:False
+hasPostBody:True

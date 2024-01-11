@@ -1,0 +1,19 @@
+title:
+YSK that most types of plastics aren't able to be recycled properly
+
+content:
+Why YSK: Because it's easy to believe that a lot of plastics are the same, [when in fact there are many different types that are wildly different.](https://plasticoceans.org/7-types-of-plastic/)
+
+For a variety of reasons the logo for the distinction of the 7 plastic types was made to look like the recycling logo, but many of them end up not being recycled due to [their nature](https://www.plasticsforchange.org/blog/which-plastic-can-be-recycled) or other reasons [such as dyes](https://wrap.org.uk/resources/report/recyclability-black-plastic-packaging). It's usally types 1 through 3 out of the 7 types that are commonly recyclable, where the 7th type is different miscellaneous plastics lumped into one category.
+
+There are also even more problems such as [the quality of the plastic degrading due to thermal breakdown during the recycling process](https://ourworldindata.org/faq-on-plastics#are-all-types-of-plastic-equally-easy-to-recycle).
+
+Thus we can see that most types of plastic actually aren't able to be recycled properly, wether due to not wanting to deal with the struggle of it, or other reasons.
+
+url:https://reddit.com/r/YouShouldKnow/comments/w6phcn/
+author:Daynt
+subreddit:YouShouldKnow
+score:4758
+numComments:190
+isOver18:False
+hasPostBody:True

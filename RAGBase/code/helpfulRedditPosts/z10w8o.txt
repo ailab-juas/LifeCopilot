@@ -1,0 +1,13 @@
+title:
+LPT: if you're going to be lazy about cyber security and use the same password everywhere, at least use a different one for your email. If they get access to your email they have access to everything else but not necessarily the other way around.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/z10w8o/
+author:Buy_More_Bitcoin
+subreddit:LifeProTips
+score:14433
+numComments:397
+isOver18:False
+hasPostBody:False

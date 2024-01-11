@@ -1,0 +1,21 @@
+title:
+LPT: When making a sale involving cash, it's not rude to count out the money when it's handed to you
+
+content:
+I recently sold a car and the transaction was done in cash for $1000. I started counting it out when it was handed to me and the guy goes, "It's all there." I had to explain that the counting process protects **both** of us: myself from being shorted, but it also protects him from handing me $1000 and me trying to come back a day or two later and claim that it wasn't the full amount and he still owes me money. Or if he had miscounted and handed me too much, counting it out would catch that too. It's in both parties' interest.
+
+In the ideal scenario, the first party should count out the cash and hand it over, then the second party recounts and confirms.
+
+Count the money out, count it as many times as it takes to make sure you're both in agreement, then (if appropriate) provide a receipt stating the amount that was handed over and what they received in return. Do this anytime you're dealing in cash, be it with strangers, friends, or even family. It's a business transaction, not a trust exercise (mileage may vary for shady/illegal dealings).
+
+This is probably obvious to a lot of people, but it was something I hadn't considered until an accountant friend explained it to me years ago.
+
+And like with any LPT there are going to be edge cases and exceptions (maybe don't count out the cash Grandma gave you for Christmas right in front of her), but I think this is sound advice for the majority of transactions.
+
+url:https://reddit.com/r/LifeProTips/comments/km39cq/
+author:chrisquatch
+subreddit:LifeProTips
+score:12355
+numComments:491
+isOver18:False
+hasPostBody:True

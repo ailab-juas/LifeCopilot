@@ -1,0 +1,13 @@
+title:
+LPT: if your banking app allows notifications of payments coming out enable it. Fantastic way of catching transaction you don't know are happening. You would be surprised what subscription service you forgot you signed up for.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/uqf7qh/
+author:silaswashere2
+subreddit:LifeProTips
+score:1309
+numComments:45
+isOver18:False
+hasPostBody:False

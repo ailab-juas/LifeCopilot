@@ -1,0 +1,13 @@
+title:
+YSK Most people (95% in the US) don’t eat the recommended amount of fiber in a day despite the great benefits of fiber.
+
+content:
+Fiber is an essential part of ones diet and is linked to better cardiovascular health, disease prevention, improved gut health, and can aid in weight loss. Fiber is often overlooked in diets but great ways to get more is to eat beans, vegetables, and whole grains. [Source](https://www.genopalate.com/blogs/genopalate-digest/fiber-the-nutrient-95-percent-of-americans-don-t-eat-enough-of) for those interested :)
+
+url:https://reddit.com/r/YouShouldKnow/comments/exs685/
+author:CptMango02
+subreddit:YouShouldKnow
+score:12388
+numComments:846
+isOver18:False
+hasPostBody:True

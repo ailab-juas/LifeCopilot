@@ -1,0 +1,13 @@
+title:
+LPT: Got a Steam gift card for Christmas? Hold on to it after you put the code in. If your account gets hacked, you can use the old code to recover your account.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/zv0wjv/
+author:Worst_Support
+subreddit:LifeProTips
+score:2587
+numComments:107
+isOver18:False
+hasPostBody:False

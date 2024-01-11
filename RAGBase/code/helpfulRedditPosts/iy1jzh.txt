@@ -1,0 +1,32 @@
+title:
+YSK that iPhones have a “medical ID” feature, which can be used to identify the phones owner
+
+content:
+Why YSK: I lost my phone recently and somebody returned it- when I asked how they knew it was me, they said they used the medical ID on the lock screen. 
+
+When the phone is locked, press the home button to get to the passcode page, press Emergency to pull up the phone, and then MedicalID in the corner. It’s a useful feature for paramedics too
+
+edit: thank you for all the helpful tips! android phones have this feature too. There’s some very informative information from their website. This is copied from a comment. 
+
+The official answer from Android (Google). https://support.google.com/android/answer/9319337?hl=en. 
+
+Important: Some of these steps work only on Android 10 and up. Learn how to check your Android version.  
+...
+Open your phone's Settings app.
+1.	⁠Tap About phone And then Emergency information.  
+2.	⁠Enter the info that you want to share.  
+3.	⁠For medical info, tap Edit information. If you don't see "Edit information," tap Info.  
+•	⁠For emergency contacts, tap Add contact. If you don't see "Add contact," tap Contacts.
+•	⁠To clear your info, tap More MoreAnd then Clear all.  
+
+As for setting it up on an IPhone- either go to the health app or search Health in settings. In settings click MedicalID and then Edit. If you’re in the app, click your name in the top right corner and then click MedicalID. 
+
+I’m glad this helped so many people!!
+
+url:https://reddit.com/r/YouShouldKnow/comments/iy1jzh/
+author:NotUrAverageLid
+subreddit:YouShouldKnow
+score:10474
+numComments:310
+isOver18:False
+hasPostBody:True

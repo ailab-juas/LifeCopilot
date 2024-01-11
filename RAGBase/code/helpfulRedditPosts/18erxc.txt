@@ -1,0 +1,62 @@
+title:
+LPT How to effectively use Incognito Mode for sites other than porn.
+
+content:
+Let's all be honest here, incognito mode is known to be 'porn' mode. But there are other very useful purposes for it. A few I know off hand is if you are on a friends computer or on a Mac at the apple store, open up incognito to do your facebooking or tweeting. Also you can check your email among other sites that require a login. This way, when you close the browser, it's as if you were never there. 
+
+Popular belief (or fact) is that airlines charge you more if they see you browsing flights before you actually book one. Open up incognito mode if you want to browse flights and you'll be smooth sailing, ...errr or flying.
+
+Please feel free to name other sites or reasons, besides porn, incognito can be utilized to its full potential!
+
+---------------------------------------
+Edit2: Incognito is a feature for the Google Chrome Browser. Almost every (if not every) browser has this feature but it is called other names. Firefox has inPrivate Browsing, IE has Private Browsing, etc. 
+
+---------------------------------------
+Edit1.3: List of Uses for Incognito mode:
+
+* First and foremost, porn
+
+* Log into a second website (second login for reddit, gmail, gf's facebook, etc.)
+
+* ~~Check amazon prices (apparently they raise the price? Needs verification)~~
+
+* View facebook and other social media on public computers (Read the blurb at the bottom)
+
+* View email on public computer (Samsies as above)
+
+* Quick logout when you exit the browser.  Useful for banks, emails, facebook, etc.
+
+* Check airline prices (without computer saving your cookies thus jacking up airline costs (yes this is true, there is multiple articles around reddit that talks on this subject including LPTs and AMAs to name a few))
+
+* Disabling Extensions on the fly for sites that don't cooperate (News for example)
+
+* News sites like after you hit the article limit on NY times, the paywall on the Daily Telegraph, Hacker News has a anti-procrastination time delay
+
+* If you want an unbiased google search result (google tailors based on previous searches)
+
+* Online shopping for SO or friend that uses the computer so they can't see what you got them
+
+* Double printing coupons.  (Some sites monitor if you have been there)
+
+* Use it on a friends laptop to keep the out of your history
+
+* See how your facebook looks to the public
+
+* View LinkedIn profiles without people knowing you visited them
+
+* Private browsing in general
+
+
+------------------------------------------
+Edit3: Gee Wilikers there are a lot of comments. I'll update the above lists after work. (Central Standard Time)
+
+------------------------------------------
+Edit4:  And lastly yes, watch out for keyloggers, malware and traffic monitors.  For top notch security, type your password in sections by using your mouse move to locations within the password... or use the on screen keyboard (start-&gt;run-&gt;osk).  These are extra precautions on truly 'public' computers to beat 'primitive' keyloggers.  (see u/WK_of_Angmar and u/SanityInAnarchy 's reply for more details.  I have not verified this)  Also note that your ISP still knows the sites you access and the IT guy, in some cases, will too.  Don't think incognito is fool proof at work.
+
+url:https://reddit.com/r/LifeProTips/comments/18erxc/
+author:iEffinLoveSemicolons
+subreddit:LifeProTips
+score:1363
+numComments:246
+isOver18:False
+hasPostBody:True

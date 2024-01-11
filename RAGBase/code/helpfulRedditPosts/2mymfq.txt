@@ -1,0 +1,34 @@
+title:
+LPT: Use 'yourUsername+anyalias@gmail.com' for quick e-mail aliases with gmail. Then create a filter in your inbox to move messages sent to this address to a new folder or label. Example below.
+
+content:
+I use gmail for Enterprise, and I have the option to create quick e-mail aliases in my admin account. I love this feature, and was curious about it's availability in standard, tradition gmail accounts. Turns out, you don't actually have to create or setup anything for an alias. Just enter an email address in this format:
+
+&gt; gmailusername+Notes@gmail.com
+
+Any e-mail sent to *gmailusername+Notes@gmail.com* is actually being sent to **gmailusername@gmail.com**.
+
+This becomes super-useful when you then create a simple filter in your gMail inbox to move any message sent to *gmailusername+Notes@gmail.com* to a specific folder, likely called Notes. Or just apply a specific label to these messages, whatever you prefer. 
+
+----------------
+
+[Here is the official Google article](https://support.google.com/mail/answer/12096?hl=en)
+
+----------------
+
+Hope some of you find this useful &amp; effective.
+
+----------------
+
+**Update:** *[Alot of you are pointing out that many modern form validation methods will strip out the + or remove it all together from the e-mail address when you submit the form](http://www.reddit.com/r/LifeProTips/comments/2mymfq/lpt_use_yourusernameanyaliasgmailcom_for_quick/cm8tcps). [It's also been mentioned by many that gmail also allows you to use period instead of plus sign, ultimately resulting in the same effect- but still allowing modern form validation to accept it as valid.](http://www.reddit.com/r/LifeProTips/comments/2mymfq/lpt_use_yourusernameanyaliasgmailcom_for_quick/cm8socx)*
+
+&gt; gmailusername.Notes@gmail.com
+
+
+url:https://reddit.com/r/LifeProTips/comments/2mymfq/
+author:_aP
+subreddit:LifeProTips
+score:2920
+numComments:252
+isOver18:False
+hasPostBody:True

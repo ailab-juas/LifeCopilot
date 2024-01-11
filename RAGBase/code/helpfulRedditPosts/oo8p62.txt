@@ -1,0 +1,13 @@
+title:
+LPT: If you are considering buying a used car and are unsure of what common issues the model has, join a FB group that is dedicated to the vehicle, you will see posts about common issues and that can save you from having buyers remorse.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/oo8p62/
+author:Rouge_scholar
+subreddit:LifeProTips
+score:2487
+numComments:86
+isOver18:False
+hasPostBody:False

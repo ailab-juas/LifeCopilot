@@ -1,0 +1,17 @@
+title:
+YSK if you give two weeks notice at work, they often have to pay you even if they ask you to leave before those two weeks are up.
+
+content:
+Why YSK: if you get sent away on the same day as giving notice, your boss might be hoping you don’t realize you are owed this pay. 
+
+If an employer includes a requirement for notice in their contract or employee handbook then the law in most states (US) require they pay out for those two weeks even if they tell you not to come in to work. 
+
+An angry manager, or a job that considers a resigning employee a security risk, does not have to allow the employee to work for two weeks, but must pay them.
+
+url:https://reddit.com/r/YouShouldKnow/comments/nj76du/
+author:thesetcrew
+subreddit:YouShouldKnow
+score:2341
+numComments:147
+isOver18:False
+hasPostBody:True

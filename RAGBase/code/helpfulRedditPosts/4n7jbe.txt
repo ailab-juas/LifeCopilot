@@ -1,0 +1,13 @@
+title:
+LPT When trying to find a tiny object on the floor turn off the lights and lay flashlight on the ground. The object will create a shadow it will be easier to find.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/4n7jbe/
+author:RockLeePower
+subreddit:LifeProTips
+score:5556
+numComments:439
+isOver18:False
+hasPostBody:False

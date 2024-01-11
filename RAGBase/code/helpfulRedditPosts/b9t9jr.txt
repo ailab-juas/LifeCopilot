@@ -1,0 +1,18 @@
+title:
+YSK how to use the abbreviations e.g. or i.e. - e.g. refers to an example so think egg-xample if that helps. For i.e. think ‘in essence’ - it’s another way of saying ‘in other words...’
+
+content:
+Resubmitting with text here even though I have nothing further to say. 
+
+Edit per request: 
+these are both Latin phrases:
+e.g. stands for exempli gratia 
+i.e. stands for id est
+
+url:https://reddit.com/r/YouShouldKnow/comments/b9t9jr/
+author:Astraterris
+subreddit:YouShouldKnow
+score:3752
+numComments:99
+isOver18:False
+hasPostBody:True

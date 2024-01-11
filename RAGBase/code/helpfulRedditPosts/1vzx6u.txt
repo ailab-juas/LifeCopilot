@@ -1,0 +1,20 @@
+title:
+YSK there is an app that lets you easily track your representative in Congress, their votes, and recent bills.
+
+content:
+Here is a link: http://congress.sunlightfoundation.com/
+
+The Sunlight Foundation is a non-profit, non-partisan organization aimed at increasing accountability and transparency for US Congress. It lets you find your representative, tells you how to contact them, how they voted on legislation, and upcoming bills. It is a great way to know when you need to call up your representative's office and speak your mind. 
+
+EDIT: State level iPhone app link: https://itunes.apple.com/app/open-states/id500672932?mt=8
+
+EDIT 2: Here is a link to the foundations "tools" page: https://sunlightfoundation.com/tools/
+It has stuff for computer use, Android phones, and iPhones.
+
+url:https://reddit.com/r/YouShouldKnow/comments/1vzx6u/
+author:eatenface
+subreddit:YouShouldKnow
+score:1865
+numComments:170
+isOver18:False
+hasPostBody:True

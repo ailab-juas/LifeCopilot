@@ -1,0 +1,13 @@
+title:
+YSK If you have Two-Factor-Authentication on an apple product, disable it before replacing the device or bring another one to the store
+
+content:
+When the sales person tries to help you set up the device, it’ll ask you to log in and if you have TFA it will need you to use the code sent to another device.  You can’t get the code if you don’t have another one with you. It can cause some frustration if you don’t know how to set the phone up yourself. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/73iw7w/
+author:alphachurch
+subreddit:YouShouldKnow
+score:2815
+numComments:169
+isOver18:False
+hasPostBody:True

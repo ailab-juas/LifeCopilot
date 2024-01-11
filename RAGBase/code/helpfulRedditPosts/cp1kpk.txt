@@ -1,0 +1,13 @@
+title:
+LPT: If you are travelling with someone else and you're both wearing backpacks, swap them around. When you need stuff from your bag you'll have both hands free and you'll know where your own stuff is.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/cp1kpk/
+author:IsayLOLoutloud
+subreddit:LifeProTips
+score:5247
+numComments:118
+isOver18:False
+hasPostBody:False

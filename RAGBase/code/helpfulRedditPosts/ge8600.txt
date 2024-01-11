@@ -1,0 +1,21 @@
+title:
+LPT: Adjust your payment expectations up if someone offers to pay you on a 1099 (as an independent contractor) "for tax purposes." They're talking about *their* tax purposes. They're shifting THEIR tax liability for your employment to YOU, so you should be paid more than a comparable employee.
+
+content:
+This particular "trick" often lures in young and unsuspecting workers. Instead of hiring you as an employee, an employer will &lt;wink, wink&gt; say that you'll be hired as an independent contractor "for tax purposes." Maybe you assume it's legit and they're using a loophole, or...? But the job pays better than you'd hoped (or maybe it doesn't), so you take it.
+
+At first, things seem even better than you expected. They're not taking ANYTHING out of your check. Yay, right? Wrong. In fact, it's wrong in (at least) three parts: 
+
+1 - Those taxes (FICA, etc.) that would usually be taken out of an employee's check are still owed. And you owe them, not your employer. You will be in for a big shock when you do your taxes.
+
+2 - Not only do you owe the usual taxes that you would normally pay as an employee, but you owe *additional* taxes as a "self-employed" worker. These are the taxes that an employer pays to the IRS on behalf of its employees. (These tax payments don't show up on an employee's paycheck at all.) This is the money that Mr. or Ms. Wink-Wink is saving themselves by paying you on a 1099. (I'm not a tax specialist so if a tax specialist wants to chime in with the gory details and scare us all back into our respective homes, please do. :) ) [https://www.irs.gov/businesses/small-businesses-self-employed/self-employment-tax-social-security-and-medicare-taxes](https://www.irs.gov/businesses/small-businesses-self-employed/self-employment-tax-social-security-and-medicare-taxes) 
+
+3 - If you don't pay estimated taxes quarterly (you know, the taxes you didn't realize that you owed), you could be subject to a penalty, in addition to all of the extra taxes that you owe.
+
+url:https://reddit.com/r/LifeProTips/comments/ge8600/
+author:ExNihiloAdInfinitum
+subreddit:LifeProTips
+score:1857
+numComments:83
+isOver18:False
+hasPostBody:True

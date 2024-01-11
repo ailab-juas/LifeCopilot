@@ -1,0 +1,13 @@
+title:
+LPT: One 18 inch pizza contains more pizza surface than two 12 inch pizzas. Calculate the area of a circle and with an 18 inch you get 256 square inches of pizza versus 226 on the 2 mediums. If you want the most bang for your buck, consider the larger sizes and feed more people for less money.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/il7r01/
+author:Po1sonator
+subreddit:LifeProTips
+score:44627
+numComments:1579
+isOver18:False
+hasPostBody:False

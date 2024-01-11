@@ -1,0 +1,17 @@
+title:
+LPT: hunger doesn't always present as a feeling in your stomach---it can also feel like muscle fatigue, sadness, anger, exhaustion, confusion, nausea, shakiness, or illness.
+
+content:
+Recognizing the many other physical and mental sensations associated with hunger can help you avoid blaming them on something else. It can also help you remember to eat, so those sensations go away.
+
+Edit: to clarify, this LPT is not: *anytime* you feel these sensations, you should eat. When you feel something is off (physically or mentally), and there's no apparent cause, reflect on whether you've eaten in the last few hours. If you haven't, you should, before you assume those sensations are caused by something else.
+
+Edit2: Same goes with thirst. Drink water. You may start to feel better.
+
+url:https://reddit.com/r/LifeProTips/comments/ienwsb/
+author:cetacean-station
+subreddit:LifeProTips
+score:3911
+numComments:178
+isOver18:False
+hasPostBody:True

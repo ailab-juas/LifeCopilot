@@ -1,0 +1,15 @@
+title:
+YSK that if you shop Amazon through this URL that a portion of your purchase will be sent to the charity of your choice.
+
+content:
+I don't know *why* Amazon doesn't have a link or any mention of this on their frontpage.  It's almost like they don't want you to find it or something.
+
+Here's the URL:  [http://smile.amazon.com/](http://smile.amazon.com/)
+
+url:https://reddit.com/r/YouShouldKnow/comments/1shrgw/
+author:Veteran4Peace
+subreddit:YouShouldKnow
+score:1323
+numComments:83
+isOver18:False
+hasPostBody:True

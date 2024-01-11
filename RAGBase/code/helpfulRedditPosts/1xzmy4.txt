@@ -1,0 +1,22 @@
+title:
+LPT - Have your computer load faster by adjusting what's in the startup file.
+
+content:
+Realized a lot of junk was loading when I start my computer.  Mainly, I got over using f.lux and didn't want it to run at startup.
+
+
+Got inspiration from [this site](http://www.sevenforums.com/tutorials/1401-startup-programs-change.html), though I have no vested interest in it.
+
+
+Got to your Start buttone -&gt; type 'system configuratio -&gt; click what pops up under 'Programs' -&gt; then there's a 'startup' tab you can open and see what runs when you start Windows.
+
+
+I have no idea what to do for OS X :-/
+
+url:https://reddit.com/r/LifeProTips/comments/1xzmy4/
+author:otterom
+subreddit:LifeProTips
+score:1133
+numComments:207
+isOver18:False
+hasPostBody:True

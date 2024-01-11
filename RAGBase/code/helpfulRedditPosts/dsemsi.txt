@@ -1,0 +1,15 @@
+title:
+LPT: Those viral posts asking things like “Your stripper name is your first pet and your mother’s maiden name” are amazingly effective ways to reveal answers to common security questions you may be using elsewhere.
+
+content:
+The next time you see a mass post or “share this on” message asking for information like this, remember you’re sharing important personal information which may be dangerous to share openly with others. There’s a good reason why so many of them rely on your funny answer being made up of your mother’s maiden name, first pet, favourite teacher or street you grew up on...
+
+Always be careful where you’re sharing information, consider whether it’s really necessary to share it, or consider using incorrect answers - either to the post, or to the security questions themselves (as long as you can remember what you set them to).
+
+url:https://reddit.com/r/LifeProTips/comments/dsemsi/
+author:squonch
+subreddit:LifeProTips
+score:66059
+numComments:1372
+isOver18:False
+hasPostBody:True

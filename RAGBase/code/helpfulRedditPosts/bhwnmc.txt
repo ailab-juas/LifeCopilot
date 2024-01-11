@@ -1,0 +1,30 @@
+title:
+YSK about the "Terms of Service; Didn't Read" project. They rate terms of service, and provide bullet-point summaries for consumers
+
+content:
+Most people (myself included) don't read terms of service. ToS;DR's goal is to boil them down to a handful of important bullet points, so you can check them out before you make an account, and know what you're agreeing to. They also have Chrome and Firefox extensions, so you can see ToS summaries in real time.
+
+It's pretty useful, and most sites have decent summaries. Just to give an example, I'm copy/pasting their Reddit summary. I couldn't duplicate their [color formatting](https://i.imgur.com/XxVfnGT.png), so I just split the bullets into positive and negative categories.
+
+**Negative:**
+
+* You agree to defend, indemnify, and hold the service harmless in case of a claim related to your use of the service [Discussion](https://edit.tosdr.org/points/1055)
+* The service can delete your account without prior notice and without a reason. [Discussion](https://edit.tosdr.org/points/1337)
+* This service ignores the Do Not Track (DNT) header and tracks users anyway even if they set this header. [Discussion](https://edit.tosdr.org/points/5615)
+* The service may use tracking pixels, web beacons, browser fingerprinting, and/or device fingerprinting on users. [Discussion](https://edit.tosdr.org/points/4915)
+* This service gathers information about you through third parties [Discussion](https://edit.tosdr.org/points/973)
+* The service uses your personal data for advertising [Discussion](https://edit.tosdr.org/points/1121)
+* Third parties may be involved in operating the service [Discussion](https://edit.tosdr.org/points/735)
+
+**Positive:**
+
+* The service promises to inform and/or notify users regarding government inquiries that may involve users' personal data [Discussion](https://edit.tosdr.org/points/5613)
+* The service is transparent regarding government requests or inquiries that may involve user data. [Discussion](https://edit.tosdr.org/points/5614)
+
+url:https://reddit.com/r/YouShouldKnow/comments/bhwnmc/
+author:Darmok-on-the-Ocean
+subreddit:YouShouldKnow
+score:8119
+numComments:96
+isOver18:False
+hasPostBody:True

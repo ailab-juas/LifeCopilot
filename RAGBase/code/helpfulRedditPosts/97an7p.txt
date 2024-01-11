@@ -1,0 +1,14 @@
+title:
+YSK: Roku hardware is collecting and sharing information about your home networks and other devices, not just your viewing habits.
+
+content:
+I paid for the Roku hardware to avoid being tracked by the Smart TV manufacturers.  They are now collecting and sharing a whole lot of data that has nothing to do with viewing habits or your usage of the device.  This was news to me.
+Link: https://docs.roku.com/doc/userprivacypolicy/en-us
+
+url:https://reddit.com/r/YouShouldKnow/comments/97an7p/
+author:HoodieEnthusiast
+subreddit:YouShouldKnow
+score:8307
+numComments:648
+isOver18:False
+hasPostBody:True

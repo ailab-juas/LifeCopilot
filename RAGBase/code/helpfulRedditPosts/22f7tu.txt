@@ -1,0 +1,17 @@
+title:
+LPT: when moving, take down your meter readings for gas, electrity and water for your old and new home and hang on to them.
+
+content:
+Hi! I work for a local water delivery company in Europe. I get calls from people every day who have trouble because they forgot to hang on to these numbers. They wrote them down on forms and mailed the forms to us, to new tenants or to owners, but forgot to keep a copy. When things go wrong (lost mail, forgetful owner, evil new tenant, ...), they don't have any proof of their readings. This CAN cost you money.
+
+Another tip: write down the meter readings monthly and check. If you have a leakage or a sudden spike in use, you can anticipate the higher bill and/or repair the problem before the costs become really high. i've seen water bills as high as 3000€ because of a leakage underground. 
+
+If you have questions on water delivery, I can probably answer! 
+
+url:https://reddit.com/r/LifeProTips/comments/22f7tu/
+author:lacquerqueen
+subreddit:LifeProTips
+score:1995
+numComments:158
+isOver18:False
+hasPostBody:True

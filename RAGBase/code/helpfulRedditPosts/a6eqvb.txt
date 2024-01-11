@@ -1,0 +1,13 @@
+title:
+LPT: If you are trying teach yourself a new language, one good tool is to watch dubbed movies that you are very familar with.
+
+content:
+When you get a little better another good way to pick up vocabulary is to get a magazine or newspaper and highlight all the words you don't know to add them to your study list. At first most of the page will be highlighted. It's satisfying to see the progress after awhile when you just have a few words highlighted.
+
+url:https://reddit.com/r/LifeProTips/comments/a6eqvb/
+author:perkisar
+subreddit:LifeProTips
+score:1575
+numComments:100
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: If you are going to work early the next day to catch up on some projects, you don’t have to tell your colleagues. Some people interpret it as you just being available earlier in the day to help.
+
+content:
+Can’t say how many times I let people know I’ll be online early tomorrow and end up getting a call or email to urgently assist with something unrelated to why I came in early. It defeats the purpose of coming in early, and you can end up working more hours than intended trying to catch up again!
+
+url:https://reddit.com/r/LifeProTips/comments/vk3451/
+author:Hideo_BlowMema
+subreddit:LifeProTips
+score:1073
+numComments:52
+isOver18:False
+hasPostBody:True

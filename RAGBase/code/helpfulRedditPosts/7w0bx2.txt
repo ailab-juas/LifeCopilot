@@ -1,0 +1,15 @@
+title:
+YSK that the Federal government is about to launch their new FOIA.gov website
+
+content:
+The Freedom of Information Act (FOIA) grants anyone the right to request access to any federal record.
+ 
+The current beta version is available [here](https://beta.foia.gov/).
+
+url:https://reddit.com/r/YouShouldKnow/comments/7w0bx2/
+author:TheTurtlemilk
+subreddit:YouShouldKnow
+score:5705
+numComments:188
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,61 @@
+title:
+LPTs: Chrome extensions I wish I knew of back when I started college.
+
+content:
+As I am about to enter my grad school I have been looking for ways to enhance my productivity to make my experience go by easier. As a result, I recently started exploring Chrome extensions, and man I wish I had done this earlier. Some will no longer be of use to me but I hope it can help others. 
+
+[**Cite This For Me: Web Citer**](https://chrome.google.com/webstore/detail/cite-this-for-me-web-cite/nnnmhgkokpalnmbeighfomegjfkklkle?hl=en)
+This one hurts me a bit as my days with MLA, APA, Harvard, and Chicago are coming to an end. The extension adds a button to the top of your browser that you simply click, and it will automatically site whatever website or article you are on. From my experimentation with it, it seems to work just as well as EasyBib or any of those other sites and it is much faster to go through.
+
+[**Google Dictionary**](https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja?hl=en)
+If you get this extension, you will have no excuse to not know a word that is on a article or text book (online). It's very simple, double-click or highlight over a word you don't know and it will define it for you. I imagine any science or legal majors will love this one in particular. 
+
+[**Grammarly for Chrome**](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen?hl=en)
+I often use bad grammar and I know it. This extension gives me shit for it all the time, but it helps. It highlights grammatical or spelling errors for you anywhere and allows you to quickly correct it. 
+
+[**Readability**](https://chrome.google.com/webstore/detail/readability/oknpjjbmpnndlpmnhmekjpocelpnlfdi?hl=en)
+This extension simply aims to trim the fat off of articles to provide you with the main point. I would not trust it for anything in depth, but if you are running low on time and need to skim an article I'd give this a shot. 
+
+[**SpeakIt!**](https://chrome.google.com/webstore/detail/speakit/pgeolalilifpodheeocdmbhehgnkkbak?hl=en-US)
+
+I know I can't be the only lazy shit who sometimes does not want to actually use my eyes to read text books or articles. This app lets you highlight over text, you click a button, and a pleasant voice reads it to you as you browse reddit. Or I guess you could take notes as you listen too...
+
+It works in several different languages and accents (if you somehow understand German-English accents over the default one). You can also control the speed that it talks to you in words per minute. I could see myself playing it out loud randomly just to try and feed the information into my brain, but I would still recommend reading like a normal person every once in a while too. 
+
+[**Block &amp; Focus**](https://chrome.google.com/webstore/detail/block-focus/dcpbedhdekgkhigjgmlcbmcjoeaebbfm?hl=en)
+
+Type in the websites that distract you *cough* and let this thing keep you away. Manage your workflow and control when you take breaks and when you work. There are others like this one and they are all probably worth a shot. 
+
+[**MolView**](https://chrome.google.com/webstore/detail/molview/nogcacamdkipgkfpfiakaoamdnihinnm?hl=en)
+
+I haven't tested this one out but it looks amazing for those who are in O-Chem or higher. It allows you to draw up molecules and look at them 3 dimensionally. I was one of those losers that bought an actual molecule set for $40 to understand what I'm looking at, so this might save you money if you have trouble visualizing molecules.
+
+**Bonus Tips That I Learned**
+
+
+***Make a folder on your bookmark tab, and slide all of your nonproductive websites in there.*** Leave a bookmark for any of your online school based websites. It will be hard but it has helped me stay away from time wasting sites. 
+
+***Use [sleepyti.me](http://sleepyti.me/) for your late night studies or binges.*** It's a simple interface that aims to synch you up with your rem cycles for the best sleep possible. I cannot say it works every time, but this site has saved me some cranky days as I stayed up too late studying. 
+
+***Use [RainyMood](https://rainymood.com/) to destress yourself.*** I'm sure many of you know about it but I love this one.
+
+I'm sure I have missed a lot of good extensions and tips. Feel free to tell me any I should try out! 
+
+**Use [f.lux](https://justgetflux.com/) to dim your PC screen to prevent eye strain and help you fall asleep** -Credit to KreekyBonez for that one!
+
+Good luck in your studies my friends!
+_________________________________________________________________________
+EDIT: Cleaned up the post and added the links to the extensions. Also added Flu.x per KreekyBonez as it is one I think people should be aware of. 
+_________________________________________________________________________
+EDIT: Thanks for the love guys, this blew up way more than I expected! Glad to help. Wanted to mention a few things after reading through many of your comments.
+
+I hope that most of you know to still be careful with your grammar and citations. It isn't really that different from the autocorrect for word and easy bib. **Always double check your writing if it is an important paper, especially with citations**. But if you're like me you can use it for the basics and check over the formatting after the fact. Just wanted to throw that out there as many Redditors have been commenting on those two extensions. Otherwise thanks for all the suggestions and upvotes of course!
+
+
+url:https://reddit.com/r/LifeProTips/comments/51av2h/
+author:onqqq2
+subreddit:LifeProTips
+score:7030
+numComments:1254
+isOver18:False
+hasPostBody:True

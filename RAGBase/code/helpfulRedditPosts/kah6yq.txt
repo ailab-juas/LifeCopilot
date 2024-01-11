@@ -1,0 +1,13 @@
+title:
+LPT: Rats tend to abandon sinking ships. If you notice coworkers whom you're usually on friendly terms with suddenly going out of their way to avoid you, start looking for a new job now.
+
+content:
+It counts double when it's a manager suddenly acting distant.
+
+url:https://reddit.com/r/LifeProTips/comments/kah6yq/
+author:Fred_the_skeleton
+subreddit:LifeProTips
+score:9479
+numComments:493
+isOver18:False
+hasPostBody:True

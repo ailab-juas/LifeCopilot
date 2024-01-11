@@ -1,0 +1,35 @@
+title:
+YSK the difference between i.e. and e.g., when to use both and what both actually mean.
+
+content:
+TLDR: i.e. means "that is to say" and is used for clarifying a statement. e.g. means "for example" and is used to specify examples from a list, but not the complete list.
+
+This really grinds my gears. Many people see i.e. and e.g. as being equal and equivalent, and use them interchangeably, but they really aren't the same at all. It's really quite frustrating, especially in legal documents or written orders where it can be exploited to benefit one party.
+
+i.e. is shorthand for the Latin phrase "*id est"* which means "that is". It is used to provide further clarification on an earlier statement. For example:
+
+"The best way to go viral is to post something contentious, i.e. something that might get people arguing."
+
+e.g., on the other hand, is shorthand for the Latin phrase "*exempli gratia"* which means "for example". It is used before an item or list of items that stand as an example of what you're writing about. For example:
+
+"The best way to go viral is to post something contentious, e.g. macaroni and cheese is an abomination."
+
+Please note that the contentious opinion is not necessarily my own.
+
+The way I remember is that i.e. = *in essence,* and e.g. = *example given.*
+
+So, if your boss writes something like "I want you to move the stuff out of the storeroom i.e. brooms, buckets and cleaning products" you would only be correct if you moved the items listed. If they wrote "I want you to move the stuff out of the storeroom e.g. brooms, buckets and cleaning products" Then you would be correct if you moved all the stuff, regardless of whether they listed it or not.
+
+Hope this helps someone!
+
+Edit: "will" to "might" as contentious doesn't mean that the arguing is guaranteed!
+
+Edit 2: A comma is not needed after i.e./e.g. in British English. In American English, it's down to personal preference with a comma after being used a little more than half the time. A comma is *always* needed before though, unless proceeded by a bracket (e.g. like this),  regardless of which English you're writing in!
+
+url:https://reddit.com/r/YouShouldKnow/comments/hdp6y9/
+author:Big_JR80
+subreddit:YouShouldKnow
+score:1768
+numComments:81
+isOver18:False
+hasPostBody:True

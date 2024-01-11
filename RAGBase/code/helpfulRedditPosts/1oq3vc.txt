@@ -1,0 +1,19 @@
+title:
+LPT: Turn an eBay search or username into an RSS feed to be notified when an item you want is put up for sale.
+
+content:
+Older link modification methods are failing, but this new one works:
+
+[[Link]](http://mynig.ga/turn-ebay-search-rss-feed-new-method-2013/)
+
+
+
+
+
+url:https://reddit.com/r/LifeProTips/comments/1oq3vc/
+author:thiev
+subreddit:LifeProTips
+score:1241
+numComments:42
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,17 @@
+title:
+LPT: Your ceiling fan has a switch to change the direction from clockwise to counterclockwise (anticlockwise). The rotation should be clockwise in the winter and counterclockwise in the summer.
+
+content:
+Ceiling fan direction in the winter should be clockwise, and the fan should run at the lowest speed. This pulls cool air up toward the ceiling, which in turn displaces the warm air that rises and collects near the ceiling. The low speed prevents any drafty "wind chill" and keeps the airflow steady and consistent. 
+
+A clockwise ceiling fan direction for high ceilings is especially important in winter. It moves the warmer air trapped at the very top of the room down. The air flows toward the floor and along the walls. This makes the room feel warmer, allowing you to lower the thermostat. 
+
+A ceiling fan should rotate counterclockwise in the summer, so the blades push cooler air down in a column.  This is the best ceiling fan direction for air conditioning since it makes the air feel cooler than it is. It allows you to turn your thermostat up a few degrees.
+
+url:https://reddit.com/r/LifeProTips/comments/zku45y/
+author:PortlyCloudy
+subreddit:LifeProTips
+score:1150
+numComments:134
+isOver18:False
+hasPostBody:True

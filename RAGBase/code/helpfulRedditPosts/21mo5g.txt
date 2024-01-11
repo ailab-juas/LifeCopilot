@@ -1,0 +1,29 @@
+title:
+LPT: Another grammar tip: Who=He, Whom=Him
+
+content:
+I posted this a while ago, and when I saw the other grammar post (I vs. me), I decided to post this.
+
+I'm not 100% sure this works every time, but I know it works at least most of the time.
+
+Here's what I remember: **Who = He, Whom = Him**
+
+**Who** took the trash out? **He** took the trash out. 
+
+To **Whom** is this letter addressed? The letter is addressed to **him**.
+
+This is a good rule of thumb. If any grammar experts want to make a point, reply or send me a message and I'll edit this post.
+
+EDIT: I see that some people are getting a little confused.
+
+You don't say "To whom is the letter addressed? To him is the letter addressed."
+
+This tip only deals with deciding who vs. whom; you must still change word order.
+
+url:https://reddit.com/r/LifeProTips/comments/21mo5g/
+author:jayfeather314
+subreddit:LifeProTips
+score:2655
+numComments:495
+isOver18:False
+hasPostBody:True

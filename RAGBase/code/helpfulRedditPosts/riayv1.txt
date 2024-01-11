@@ -1,0 +1,13 @@
+title:
+LPT: If your coffee is too bitter, you can add a few specks of salt to make it smooth.
+
+content:
+I learned this years ago because I was terrible at measuring grounds to water and someone gave me this tip. Works for tea too, to lessen that "drying" aftertaste!
+
+url:https://reddit.com/r/LifeProTips/comments/riayv1/
+author:AresEspada
+subreddit:LifeProTips
+score:1820
+numComments:207
+isOver18:False
+hasPostBody:True

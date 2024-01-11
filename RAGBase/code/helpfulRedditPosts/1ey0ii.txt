@@ -1,0 +1,13 @@
+title:
+LPT: If you're filling out the FAFSA for financial aid for college, make sure to do it on FAFSA.ed.gov, which is free, and NOT on FAFSA.com, which charges $80 for the same service.
+
+content:
+Discovered this little bit of trickery today. FAFSA.com is an independent site that masquerades as the US Department of Education's FAFSA site (the layout and formatting are very similar) and makes no mention of the government's free alternative. Technically, they offer "free consultation by a FAFSA expert" for your $80 payment, so it's not *entirely* a huge rip-off. Just mostly.
+
+url:https://reddit.com/r/LifeProTips/comments/1ey0ii/
+author:cheezybreezy
+subreddit:LifeProTips
+score:3006
+numComments:199
+isOver18:False
+hasPostBody:True

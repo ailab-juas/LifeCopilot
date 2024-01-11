@@ -1,0 +1,19 @@
+title:
+LPT: When you submit a resume to a potential employer, submit it as a PDF, not a Word doc
+
+content:
+I actually judge the potential of the candidate by how they format their resume (typos? grammar? formatting? style?). If you format it as a PDF, I see your resume how you want me to see it. If you have it as a Word document, margins, fonts, etc may be lost or adjusted when I open it.
+
+Ensure you show me your best self by converting it to a PDF.
+
+And please... proof read it. Give it to a friend or family member to proof read it thoroughly. I will likely not recommend you for interviewing if you have poor grammar or obvious typos. I assume you are providing me a sample of your work when I look at your resume. It shows either that you don't care or aren't detail oriented when you have typos and I assume I can expect the same if I hire you.
+
+Edit: There is a lot of conversation about Applicant Tracking Systems (ATS) and how they can vomit on PDFs. So, please be aware of this when submitting to systems that may utilize this.
+
+url:https://reddit.com/r/LifeProTips/comments/kdskmd/
+author:AGrainOfSalt435
+subreddit:LifeProTips
+score:51825
+numComments:3120
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: When apartment/house hunting, check your cell phone’s signal strength.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/svtobl/
+author:VeryLastBison
+subreddit:LifeProTips
+score:1205
+numComments:72
+isOver18:False
+hasPostBody:False

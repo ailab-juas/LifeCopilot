@@ -1,0 +1,19 @@
+title:
+YSK if you eat in at a restaurant or order take out and there’s any tint of blue in your food, you should throw it out.
+
+content:
+YSK that if you eat in or order takeaway anywhere and there’s any signs of blue on your food, throw it away and report it.
+
+It sounds obvious enough to throw food out, especially meats, that are mouldy. But this isn’t actually about mould - food agencies in health inspections will pour a blue dye over any meats or other foods thrown away due to quality failure to stop the business taking it right back out of the bin for use after the inspector leaves. This happens a lot especially when bulk loads are binned. The dye is washed off and the out of code meats/foods are still used. 
+
+So, any tint of blue in your food, report it to the FSA (or US equivalent). You can also see online how recently an establishment had an inspection!
+
+Why YSK: The food being of “poor quality” means out of date or stored incorrectly. Businesses, especially smaller ones, can’t always handle the cost of large food loss and so will reuse the spoiled food thrown away by the health inspector, washing away the blue dye as much as possible. This is mostly a risk for meats which can be hidden in a sauce.
+
+url:https://reddit.com/r/YouShouldKnow/comments/imck0z/
+author:emi_rivale30
+subreddit:YouShouldKnow
+score:3997
+numComments:158
+isOver18:False
+hasPostBody:True

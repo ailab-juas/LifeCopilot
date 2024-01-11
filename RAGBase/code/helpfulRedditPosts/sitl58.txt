@@ -1,0 +1,15 @@
+title:
+YSK The US Postal Service offers a service called Informed Delivery that will send you a daily email with a digital preview of all your letter-sized mail. Users receive emails containing grayscale images of the exterior, address side of postal mail that is arriving soon.
+
+content:
+Why YSK:  This is especially useful if you are expecting an important piece of mail.  Or if you have a mailbox and want to decide whether to go to the mailbox in the cold.  Informed Delivery allows everyone to view what is coming to your mailbox whenever, wherever your are.  You can also manage packages scheduled to arrive soon.
+
+Edit: Here is the link to sign up: [https://informeddelivery.usps.com/box/pages/intro/start.action](https://informeddelivery.usps.com/box/pages/intro/start.action)
+
+url:https://reddit.com/r/YouShouldKnow/comments/sitl58/
+author:grandlewis
+subreddit:YouShouldKnow
+score:2857
+numComments:215
+isOver18:False
+hasPostBody:True

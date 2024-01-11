@@ -1,0 +1,13 @@
+title:
+LPT: Detailed "When to buy What"
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/10gncw/
+author:BobTheBobber
+subreddit:LifeProTips
+score:1688
+numComments:165
+isOver18:False
+hasPostBody:False

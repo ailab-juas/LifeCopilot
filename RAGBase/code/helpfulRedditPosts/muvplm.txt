@@ -1,0 +1,13 @@
+title:
+LPT: If you can't download a document, such as from the IRS website, use 'Print to PDF' to save it. Some sites give errors when trying to download, but will allow you to print. Print to PDF works to download and save these documents.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/muvplm/
+author:WrongEinstein
+subreddit:LifeProTips
+score:2532
+numComments:47
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: When you have to scroll horizontally you don't need to use the mouse and move the scrollbar, you can press SHIFT and move the scroll wheel.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/qkegw6/
+author:Alessandro47792
+subreddit:LifeProTips
+score:1296
+numComments:43
+isOver18:False
+hasPostBody:False

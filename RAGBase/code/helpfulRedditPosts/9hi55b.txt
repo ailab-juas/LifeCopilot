@@ -1,0 +1,13 @@
+title:
+LPT: When backing up with a trailer, put your hand at the bottom of the wheel. Whichever way you move your hand, the back end of the trailer goes.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/9hi55b/
+author:IASpartan
+subreddit:LifeProTips
+score:1277
+numComments:80
+isOver18:False
+hasPostBody:False

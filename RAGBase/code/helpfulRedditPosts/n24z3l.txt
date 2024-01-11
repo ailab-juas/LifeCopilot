@@ -1,0 +1,17 @@
+title:
+YSK: Never kiss a baby or child's ear. It can cause damage and hearing loss.
+
+content:
+Why YSK:  "An innocent kiss right on the ear opening creates a strong suction that tugs on the delicate eardrum, resulting in a recently recognized condition known as "cochlear ear-kiss injury." Babies and small children are particularly vulnerable to hearing damage via a kiss, simply because their ear canals are smaller." 
+
+***To clarify, even a firmly planted kiss without physically "sucking" can cause this.  It's similar to how plungers work.
+
+Source:. https://hearinglosshelp.com/blog/kiss-of-deaf-or-reiters-ear-kiss-syndrome-reks/
+
+url:https://reddit.com/r/YouShouldKnow/comments/n24z3l/
+author:Snuggly-Muffin
+subreddit:YouShouldKnow
+score:14741
+numComments:507
+isOver18:False
+hasPostBody:True

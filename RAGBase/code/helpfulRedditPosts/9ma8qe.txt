@@ -1,0 +1,13 @@
+title:
+LPT: After a breakup/divorce, if you ever used your ex-partner's phone, tablet or other device, change your passwords. ALL of them. Your ex's device may still have your stored passwords.
+
+content:
+Case in point: My ex moved out in April, and in the years leading up to the breakup, he used my laptop for everything from his work login (ie,. schedules, payroll, check stubs, social security number), to his bank information. I had to go through my saved passwords and delete them (including social media and bank login), because neither of us thought to do it when we broke up. 
+
+url:https://reddit.com/r/LifeProTips/comments/9ma8qe/
+author:AvieLikesThis
+subreddit:LifeProTips
+score:24422
+numComments:615
+isOver18:False
+hasPostBody:True

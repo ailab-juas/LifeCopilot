@@ -1,0 +1,13 @@
+title:
+LPT: Windows key + V brings up a Clipboard panel which shows the history of items you’ve copied to the clipboard.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/eqf8z6/
+author:tomyan112
+subreddit:LifeProTips
+score:22105
+numComments:444
+isOver18:False
+hasPostBody:False

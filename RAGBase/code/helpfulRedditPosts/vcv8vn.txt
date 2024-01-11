@@ -1,0 +1,13 @@
+title:
+LPT: When traveling, bring a big trash bag in your luggage. Use it for your dirty clothes.
+
+content:
+When you get home, it makes it really easy to separate your dirty clothes from clothes that are still clean. Plus, you can easily reuse the trash bag for actual trash at home.
+
+url:https://reddit.com/r/LifeProTips/comments/vcv8vn/
+author:Snoo-35252
+subreddit:LifeProTips
+score:5950
+numComments:358
+isOver18:False
+hasPostBody:True

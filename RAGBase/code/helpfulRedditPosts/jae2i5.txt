@@ -1,0 +1,15 @@
+title:
+YSK that a megaBIT is different from a megaBYTE (1 megabyte = 8 megabits), it's a majorly confusing part of paying for internet speeds
+
+content:
+Why YSK: So many people complain about paying for say, gigabit internet but only showing download speeds of 100 megabytes/second. Or paying for 150 mpbs and only getting 15 MB/s. You need to know that most data files are measured in BYTES, while download speeds are measured in BITS. Which means, don't pay for gigaBIT internet expecting to download a 5 gigaBYTE file in only 5 seconds, it will take at LEAST 8 times as long. So if your internet speeds looks way slower than you think you're paying, first check if you're measuring it in bits or bytes.
+
+Edit: megabit = Mb, megabyte=MB
+
+url:https://reddit.com/r/YouShouldKnow/comments/jae2i5/
+author:ComprehensiveAmoeba7
+subreddit:YouShouldKnow
+score:32292
+numComments:1124
+isOver18:False
+hasPostBody:True

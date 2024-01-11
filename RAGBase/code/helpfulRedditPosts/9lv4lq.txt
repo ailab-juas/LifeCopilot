@@ -1,0 +1,13 @@
+title:
+YSK that there's a website that can determine the middle point between place A and B so you can meet up with your friends about in the middle.
+
+content:
+It is called [http://www.whatshalfway.com/](http://www.whatshalfway.com/)
+
+url:https://reddit.com/r/YouShouldKnow/comments/9lv4lq/
+author:solituderequiem
+subreddit:YouShouldKnow
+score:9615
+numComments:158
+isOver18:False
+hasPostBody:True

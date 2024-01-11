@@ -1,0 +1,13 @@
+title:
+LPT: Want to support your local restaurants? Call in your order instead of using delivery apps! They’ll make up to 30% more from your order.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/jf3mms/
+author:lukly
+subreddit:LifeProTips
+score:4598
+numComments:241
+isOver18:False
+hasPostBody:False

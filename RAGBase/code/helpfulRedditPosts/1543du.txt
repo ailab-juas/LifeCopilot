@@ -1,0 +1,13 @@
+title:
+YSK: There is petition against censorship with a goal of 1m signatures. They are currently over 900,000! Show your support of free internets =)
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/1543du/
+author:DuckedUpOnQuack
+subreddit:YouShouldKnow
+score:1053
+numComments:34
+isOver18:False
+hasPostBody:False

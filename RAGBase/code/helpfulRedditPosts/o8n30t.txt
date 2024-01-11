@@ -1,0 +1,15 @@
+title:
+YSK that in “essential oils,” the word “essential” is not synonymous with “important” or “necessary”
+
+content:
+In the case of essential oils, the word essential just means that the oil contains the essence (i.e., smell) of whatever substance from which it was derived. 
+
+Why YSK: if you think these oils are “essential” to your health you might be more inclined to waste your money thinking you’ll receive a medical health benefit. Not to say there aren’t benefits, but when one hears “essential!” they might think they’re necessary or important.
+
+url:https://reddit.com/r/YouShouldKnow/comments/o8n30t/
+author:Satanic_Nightjar
+subreddit:YouShouldKnow
+score:27978
+numComments:791
+isOver18:False
+hasPostBody:True

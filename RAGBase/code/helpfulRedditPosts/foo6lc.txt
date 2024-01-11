@@ -1,0 +1,15 @@
+title:
+LPT: Feelings are meant to be felt. You aren't meant to control them, and likewise, they aren't supposed to control you.
+
+content:
+And another one for you - feelings aren't facts.
+
+For instance, just because you feel like nothing good is happening in your life right now, that doesn't mean it's true.
+
+url:https://reddit.com/r/LifeProTips/comments/foo6lc/
+author:sloth788
+subreddit:LifeProTips
+score:8417
+numComments:316
+isOver18:False
+hasPostBody:True

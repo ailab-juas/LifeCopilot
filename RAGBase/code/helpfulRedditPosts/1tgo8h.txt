@@ -1,0 +1,21 @@
+title:
+LPT: Don't exit school for the workforce until you've take a personal finance class
+
+content:
+I can't tell you how many people I know (my family members included) who have screwed up their lives by not knowing the basics of personal finance.  The concepts taught in a personal finance class can save you a ton of hardship in the long run and set you up to enjoy retirement one day instead of stressing about it.
+
+Most folks think they know how to handle money, and to *some* extent, that's always true.  But money is a touchy subject for public conversation, so it's pretty rare for folks to have stumbled across all the important personal finance concepts by the time they're out on their own with a good income.  There are just *too* many things you need to understand in the money world nowadays -- revolving/installment credit, interest, insurance, retirement vs. non-retirement investment vehicles, stocks/bonds/ETFs/mutual funds, estate planning and associated laws, the list goes on.  
+
+I wish our school systems would make this a requirement, but we haven't gotten there yet.  So...please.  If you're graduating in May, take a personal finance class this spring.  Take it for audit or for credit only if you must.  I have a degree in engineering and I stumbled into a class in my senior year because I needed an extra elective.  It was the most useful class I've ever taken, *much* more useful than my engineering classes.  I hope those of you that choose to take this advice will agree.  If you're out of school and want to pursue this, there are other options -- perhaps subscribe to a personal finance magazine or maybe check the free online course offerings out there (there are lots of good free classes nowadays on coursera.org or edx.org or others).
+
+edit: d'oh, just realized I left the "n" off taken when I was rewording the title.  Sigh.
+
+edit 2: on the recommendation of some I checked out the **Khan Academy** and their curriculum looks very solid.  So I am recommending their class in [Finance and Capital Markets](https://www.khanacademy.org/economics-finance-domain/core-finance).  It's missing some insurance topics I'd recommend, and doesn't go into estate planning, but overall is a win, especially for the low, low price of free.
+
+url:https://reddit.com/r/LifeProTips/comments/1tgo8h/
+author:vectaur
+subreddit:LifeProTips
+score:1923
+numComments:287
+isOver18:False
+hasPostBody:True

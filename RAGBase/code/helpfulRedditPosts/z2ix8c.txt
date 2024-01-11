@@ -1,0 +1,13 @@
+title:
+LPT: This thanksgiving, remember that if someone isn’t drinking, it’s none of your business why
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/z2ix8c/
+author:yukimontreal
+subreddit:LifeProTips
+score:5115
+numComments:566
+isOver18:False
+hasPostBody:False

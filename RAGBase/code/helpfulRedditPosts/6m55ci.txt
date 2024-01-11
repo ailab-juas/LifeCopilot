@@ -1,0 +1,13 @@
+title:
+YSK: If you buy new items regularly on Amazon, look into the used section! Some items have damaged boxes while the actual item is still in new condition, so they are cheaper just because of the damaged boxes, and you'd be able to save a good amount of money compared to the brand new counterpart!
+
+content:
+Like I said in the title, look into the used section of an item on Amazon! Make sure to read the description and see if the only issue is just the damaged box.
+
+url:https://reddit.com/r/YouShouldKnow/comments/6m55ci/
+author:iAmTheRedditCEO
+subreddit:YouShouldKnow
+score:1485
+numComments:45
+isOver18:False
+hasPostBody:True

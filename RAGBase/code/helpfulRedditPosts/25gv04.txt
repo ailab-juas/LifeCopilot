@@ -1,0 +1,14 @@
+title:
+LPT: When submitting a resume by e-mail, send your file in PDF, to ensure your formatting doesn't change
+
+content:
+I recently emailed my resume in for a job. After opening up the file on a different computer, I noticed the format had changed and some of the words were on different lines, making it look messy, thus lowering my chance of getting the job.
+TL;DR With a PDF file, no matter what platform you open it with, the content will look the exact same.
+
+url:https://reddit.com/r/LifeProTips/comments/25gv04/
+author:DeezMaster
+subreddit:LifeProTips
+score:2855
+numComments:913
+isOver18:False
+hasPostBody:True

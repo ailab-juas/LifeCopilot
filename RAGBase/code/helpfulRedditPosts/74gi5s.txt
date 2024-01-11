@@ -1,0 +1,15 @@
+title:
+YSK: Netflix is raising prices again
+
+content:
+The basic plan for $7.99 will remain the same; However the standard plan with HD for $9.99 will increase by a dollar and the premium plan with Ultra HD for $11.99 will increase by two. The sad part is that even long time subscribers will have to pay the new premium with no grace period like before. I believe the new rates begin October 19th.
+
+https://www.google.com/amp/s/www.yahoo.com/amphtml/finance/news/netflix-raising-us-prices-10-pct-most-popular-133645756--finance.html
+
+url:https://reddit.com/r/YouShouldKnow/comments/74gi5s/
+author:DCAllen8
+subreddit:YouShouldKnow
+score:4230
+numComments:548
+isOver18:False
+hasPostBody:True

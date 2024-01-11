@@ -1,0 +1,13 @@
+title:
+LPT Even if you know what you've said is correct, you don't always have to "be right"
+
+content:
+I'm in my forties and this has taken me way too long to learn. Most of the time it's better to just drop the issue rather than getting engaged in a stupid argument.
+
+url:https://reddit.com/r/LifeProTips/comments/wct8qu/
+author:killsforsporks
+subreddit:LifeProTips
+score:1807
+numComments:181
+isOver18:False
+hasPostBody:True

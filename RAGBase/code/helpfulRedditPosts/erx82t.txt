@@ -1,0 +1,13 @@
+title:
+YSK That your water heater tank needs to be flushed at least once a year to prevent sediment deposit which can cause your water heater to become inefficient, costing you more money on your gas or electric bill and robbing you of hot water. Flushing also prolongs the life of your water heater.
+
+content:
+So if you have one, be sure to add it to your maintenance schedule!
+
+url:https://reddit.com/r/YouShouldKnow/comments/erx82t/
+author:KittyWarne
+subreddit:YouShouldKnow
+score:10240
+numComments:341
+isOver18:False
+hasPostBody:True

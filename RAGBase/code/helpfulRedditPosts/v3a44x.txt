@@ -1,0 +1,13 @@
+title:
+LPT: If you’re writing an essay and found one really great source but struggling to find others, check the cited sources from the one great source you have to see if any of them are useful for you before you try searching again on your own
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/v3a44x/
+author:Temporary-Warthog250
+subreddit:LifeProTips
+score:25677
+numComments:381
+isOver18:False
+hasPostBody:False

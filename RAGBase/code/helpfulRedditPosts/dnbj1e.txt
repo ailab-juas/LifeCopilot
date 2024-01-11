@@ -1,0 +1,13 @@
+title:
+LPT: If you step on your cat, put on / take off your shoes and they will approach you again. They think your feet /shoes are the things that stepped on them, not you.
+
+content:
+This works on my cat, at least.
+
+url:https://reddit.com/r/LifeProTips/comments/dnbj1e/
+author:Scrotum_McScrumples
+subreddit:LifeProTips
+score:1424
+numComments:91
+isOver18:False
+hasPostBody:True

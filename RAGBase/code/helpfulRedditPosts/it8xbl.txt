@@ -1,0 +1,13 @@
+title:
+LPT: When you receive a compliment or do something good at work, save the emails (or notes) in a KUDOS folder. It is hard to remember what happened all year, but this is a good reference when you have to prove your worth during review time, or when you want a raise/promotion.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/it8xbl/
+author:tidblgr10
+subreddit:LifeProTips
+score:4206
+numComments:107
+isOver18:False
+hasPostBody:False

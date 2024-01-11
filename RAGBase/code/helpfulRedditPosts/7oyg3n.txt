@@ -1,0 +1,20 @@
+title:
+YSK - If you or a loved one has an ICD (Internal Cardiac Defibrillator) you should consider disabling it before end of life care.
+
+content:
+My grandfather came home on hospice care and it was a situation where we knew there was no recovery. He had a pacemaker and a defibrillator installed several years ago, and no one at the hospital, hospice, nor his heart doctor suggested to us that it should be turned off.
+
+It added hours of discomfort to his process of dying and witnessing that happen has impacted me more than his actual death. In the state of mind that we were in at the time, having it turned off was not something that we'd thought about until it was actively working with no real use.  He'd had an advance directive, with a DNR request.  He wanted to be home and pass peacefully.  
+
+Not turning it off was a very painful thing and something I'd like to help prevent others from having to go through.
+
+[Here is an article with more information on the topic.](http://www.drjohnm.org/2014/01/icd-and-pacemaker-deactivation-it-is-neither-physician-assisted-suicide-nor-euthanasia/)
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/7oyg3n/
+author:nrdk0r
+subreddit:YouShouldKnow
+score:11578
+numComments:228
+isOver18:False
+hasPostBody:True

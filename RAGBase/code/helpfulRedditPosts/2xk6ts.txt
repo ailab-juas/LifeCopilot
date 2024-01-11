@@ -1,0 +1,13 @@
+title:
+LPT: On cold winter days, Fill your coffee mug with hot water in the sink and let it sit 30 seconds. Then pour out and fill with coffee. It will be much warmer.
+
+content:
+This will keep your coffee much warmer. The cold ceramic mugs will suck out all of the heat from your cup of joe. 
+
+url:https://reddit.com/r/LifeProTips/comments/2xk6ts/
+author:longboardluv
+subreddit:LifeProTips
+score:1811
+numComments:437
+isOver18:False
+hasPostBody:True

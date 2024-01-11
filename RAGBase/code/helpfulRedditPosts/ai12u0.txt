@@ -1,0 +1,13 @@
+title:
+LPT: One of the first things you should do when moving into a new home is to change the locks. You never know who might have a key to the house in their possession.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ai12u0/
+author:Lionel_Vs_The_World
+subreddit:LifeProTips
+score:38562
+numComments:1171
+isOver18:False
+hasPostBody:False

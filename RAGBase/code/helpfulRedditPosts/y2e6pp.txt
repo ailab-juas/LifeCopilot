@@ -1,0 +1,13 @@
+title:
+LPT: If you are going to your professor/advisor/boss about a problem you are having in their class/with your thesis/at work, always start by stating what you have already tried to do to address the problem on your own.
+
+content:
+And, if you want the best results, do your best to project an attitude of taking responsibility for the problems rather than blaming the prof/boss.
+
+url:https://reddit.com/r/LifeProTips/comments/y2e6pp/
+author:zazzlekdazzle
+subreddit:LifeProTips
+score:1035
+numComments:34
+isOver18:False
+hasPostBody:True

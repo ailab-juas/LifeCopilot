@@ -1,0 +1,13 @@
+title:
+YSK: In an unused (e.g. guest) bathroom, keep the shower, sink, and toilet drain U-pipes full of water to prevent sewer gas from entering your home.
+
+content:
+Why YSK: This is especially important if your house is on a septic system. In my case, the smell in the unused guest bathroom became awful after the water in the shower drain evaporated.
+
+url:https://reddit.com/r/YouShouldKnow/comments/seujzk/
+author:schadwick
+subreddit:YouShouldKnow
+score:11799
+numComments:412
+isOver18:False
+hasPostBody:True

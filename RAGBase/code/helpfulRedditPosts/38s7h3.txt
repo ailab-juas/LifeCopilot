@@ -1,0 +1,13 @@
+title:
+YSK about this website that has all your favorite emoticons ( ͡° ͜ʖ ͡°)
+
+content:
+[it's awesome.](http://emot.es) ᕕ( ᐛ )ᕗ
+
+url:https://reddit.com/r/YouShouldKnow/comments/38s7h3/
+author:techerror404
+subreddit:YouShouldKnow
+score:1704
+numComments:131
+isOver18:False
+hasPostBody:True

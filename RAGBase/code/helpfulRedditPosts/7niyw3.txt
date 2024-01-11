@@ -1,0 +1,17 @@
+title:
+YSK: In case you ever lose your Android phone, there is an applet which turns its ringer up to 100% if you text it
+
+content:
+I've seen products such as the Trackr pixel out there which make your phone ring if you've lost it, even if it was on silent. I thought I'd share a free alternative to this.
+All you need is a free account with [If This, Then That](https://ifttt.com). Once you have an account, you can set up [this applet](https://ifttt.com/applets/178144p-text-your-lost-android-phone-to-turn-the-ringer-volume-up-100).
+Essentially, when your phone receives a text with a specified keyword/phrase, its ringtone will be turned up to max volume.
+
+Edit: If you have an Alexa or Google Home, there are also more direct ways to find your phone via the same site [here](https://ifttt.com/applets/341784p-tell-alexa-to-find-your-phone) and [here](https://ifttt.com/applets/479253p-tell-google-assistant-to-call-your-phone), respectively.
+
+url:https://reddit.com/r/YouShouldKnow/comments/7niyw3/
+author:chromatyyk
+subreddit:YouShouldKnow
+score:5894
+numComments:218
+isOver18:False
+hasPostBody:True

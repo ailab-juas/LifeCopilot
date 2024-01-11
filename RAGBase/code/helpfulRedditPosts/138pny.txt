@@ -1,0 +1,15 @@
+title:
+LPT: Gmail has a feature for quickly unsending accidental or unfinished emails
+
+content:
+If you use Gmail, go to your settings and enable Google Labs. The 
+**Undo Send** feature allows you to stop messages from being sent for a few seconds after hitting the send button. 
+
+
+url:https://reddit.com/r/LifeProTips/comments/138pny/
+author:Sir_Walter_Dibs
+subreddit:LifeProTips
+score:2047
+numComments:206
+isOver18:False
+hasPostBody:True

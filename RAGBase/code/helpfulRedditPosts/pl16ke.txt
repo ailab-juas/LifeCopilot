@@ -1,0 +1,17 @@
+title:
+YSK DMAChoice.org is a tool you can use to opt out of direct mail (junk mail) in the US.
+
+content:
+Why YSK: In the US, an estimated 64.1 billion pieces of junk mail are sent each year.  It's all very wasteful.  If you like getting marketing mail, great, but if you don't please opt out.
+
+&amp;#x200B;
+
+[www.dmachoice.org](https://www.dmachoice.org/index.php#)
+
+url:https://reddit.com/r/YouShouldKnow/comments/pl16ke/
+author:grandlewis
+subreddit:YouShouldKnow
+score:5396
+numComments:177
+isOver18:False
+hasPostBody:True

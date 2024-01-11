@@ -1,0 +1,13 @@
+title:
+LPT: If you are signing a new rental agreement or lease, copy plain text from the old one and the new one into different Word documents. Then use the Review-&gt;Compare feature to see every detail of what your landlord changed.
+
+content:
+I just did this with a new lease they emailed out, and found all the little charges they increased or doubled, such as the "after hours non-emergency calls fee" and the "no admittance maintenance fee." They also added a term stating if I fail to notify them of emergency situations that cause damage, they will charge me to repair the damages.
+
+url:https://reddit.com/r/LifeProTips/comments/uijzyt/
+author:9oreos
+subreddit:LifeProTips
+score:52043
+numComments:803
+isOver18:False
+hasPostBody:True

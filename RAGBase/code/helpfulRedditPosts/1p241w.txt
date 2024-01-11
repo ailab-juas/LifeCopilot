@@ -1,0 +1,13 @@
+title:
+YSK that here are no rules about what can and cannot be called Greek yogurt, some companies add thickeners like corn starch instead of straining the yogurt.
+
+content:
+[Here is the article](http://health.yahoo.net/articles/nutrition/photos/6-myths-about-greek-yogurt#0)
+
+url:https://reddit.com/r/YouShouldKnow/comments/1p241w/
+author:FutonSpecialOps
+subreddit:YouShouldKnow
+score:1736
+numComments:303
+isOver18:False
+hasPostBody:True

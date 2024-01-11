@@ -1,0 +1,79 @@
+title:
+YSK that excess sugar consumption significantly raises your chance of getting cancer and works on the same mechanisms in your brain as drugs like tobacco.
+
+content:
+Edit: If you are going to say I am misinformed and need to keep studying please provide reasons to why you disagree so I can respond instead of just saying Im wrong and that I think I know everything. Thank you.
+
+**Why YSK:** 5-10% of cancers result directly from inheriting genes associated with cancer. The majority of cancers are due to accumulation of damage to genetic material over time. Currently the average American consumes over 70 grams of sugar a day. The recommended amount is 25 grams a day. We eat over 3x the amount we should every single day. One coke can has way over the amount that we should actually consume. To put it simply the western diet is loaded with WAY too much sugar. The prevalence of adult obesity in the US 2017-2018 is 42.4% and youth 18.5%. 120 million Americans are at risk for metabolic disorders. THAT IS EXTREMELY CONCERNING. That means a fair amount reading this post are probably at risk for developing a metabolic disorder. Avoiding excess sugar significant reduces the chance of getting cancer in the future, however it may be difficult because it is extremely addicting. If you can stop though, it may save your life in the future.
+
+**Who am I?** Currently a PA student and a biochemistry nerd.
+
+**Mechanism**: When you drink a can of coke you are consuming a LOT of sugar. Sugar passes through your gut where it is absorbed into your blood stream. The monosaccharides (sugar) activate beta cells in the pancreas which causes the release of the hormone known as insulin. Your body mainly controls blood glucose levels through two hormones: glucagon and insulin. Think of these two hormones as metabolic switches. Glucagon RAISES blood glucose levels while Insulin LOWERS blood glucose levels. Biological organisms thrive through a fundamental physiology concept known as homeostasis. These hormones help us do that. When we drank our can of soda that sugar significantly spiked our insulin. What about fat? well it does as well. However, fat has a much lower [glycemic index](https://en.wikipedia.org/wiki/Glycemic_index) which allows for a slower absorption and less insulin spiking that you see with sugar. Plus fat has a much higher [satiety](https://en.wikipedia.org/wiki/Sensory-specific_satiety)  than carbs do.
+
+**So why does this lead to cancer?** Well when your have a bunch of insulin it signals to your cells to uptake that glucose and start burning it for energy, this is how our heart pumps, how we move our muscles, etc. We derive energy from glucose through a chemical reaction known as [oxidation](https://en.wikipedia.org/wiki/Redox). Oxidation breaks down molecules which releases energy in which our cells can convert into [ATP](https://en.wikipedia.org/wiki/Electron_transport_chain). ATP is the main energy molecule in the body.
+
+**Still how does this lead to cancer?** Well the problem is, when you just had a BUNCH of glucose enter your cell all at once your body will respond to insulin and still break it down. The only problem is now you have WAY to much than you really need for homeostasis. When you break down glucose through oxidative reactions it leads to things known as [Reactive oxygen species](https://en.wikipedia.org/wiki/Reactive_oxygen_species). Your body really does not like these because these ROS can wreck havek on your cell by going through redox reactions on your molecular machinery. Typically you have antioxidants that can bind to these ROS and neutralize them so they don't attack something like your DNA. However, too much ROS can overwhelm these defense mechanism and cause damage which is known as [oxidative stress](https://en.wikipedia.org/wiki/Oxidative_stress). These ROS can cause redox reactions with the DNA which can cause the cells to replicate uncontrollably or interfere with defense mechanism. Insulin also binds to cell surface receptors activates the PL3K/Akt pathway leading to downstream activation of the mTOR complex. This complex is a central regulator of cell growth. So if you have insulin resistance like in the case of diabetes you will have problems. High circulating levels of insulin also upregulate the hepatic synthesis of insulin derived growth factor-1 (IGF-1) which is a major endocrine and paracrine regulator of tissue growth and metabolism as it both suppresses apoptosis and initiates cell cycle progression from G1 to S phase. This can lead to uncontrolled growth. Vascular Endothelial Growth Factor (VGEF) is what allows blood supply to grow in tumor cells. It typically is out of control in cancer which is what allows the tumor to grow. VEGF production is induced by insulin and IGF-1.
+
+**So what about fruits and veggies, aren’t they carbs? Are they bad?** Yep they are and no they are not. Fruits and veggies are loaded with antioxidants to combat oxidative stress while junk food is not. Fruits and veggies are also LOADED with fiber. This fiber helps bring down the glycemic index to allow for a slower absorption of glucose and not as much insulin production all at once. This is why you feel super full when you eat one apple but could easily pound down way more calories worth of chips.
+
+**Alright I better quit then?** Probably, but it won't be easy, at all. Sugar addiction is real and works on the same pathways in your brain as other drugs. [The mesolimbic pathway](https://en.wikipedia.org/wiki/Mesolimbic_pathway#:~:text=The%20mesolimbic%20pathway%2C%20sometimes%20referred,accumbens%20and%20the%20olfactory%20tubercle) is activated by taste buds when it encounters sugar and high calorie dense food. This dopamineric pathway from the VTA to ventral straitum is how we build habits and reward learning. This pathway is implicated in pretty much all sources of addiction. Repeated high sugar exposure increases the levels of [ΔFosB](https://en.wikipedia.org/wiki/FOSB#:~:text=Protein%20fosB%2C%20also%20known%20as,FOSB%2C%20FOSL1%2C%20and%20FOSL2) which acts as a molecular switch in the nucleus acumbens (part of the ventral striatum) for habit formation and learning. Your brain down to the molecular level is literally wired towards sugar, it will not be easy to quit. However, it is possible, and I believe in you :)
+
+Edit: First off I was pretty sure this post would get push back due to nutrition being what I call the politics of medicine. The body is extremely complicated and to try to break it down into a few pathways can make it seem like I’m pushing garbage. Nutrition science is also notoriously skewed so it all can seem so confusing (it’s getting better but still). I want to make sure to give some sources. Remember, that you should not take what I or anyone else says with 100% certainty. If you still don’t agree go ahead and post and we can have a friendly debate. So here’s some studies to back up what I’m saying:
+
+First claim: Excess glucose in cells leads to an increase in ROS which can damage cells through oxidative stress
+
+Source: https://www.sciencedirect.com/science/article/pii/S2213231715300112
+
+Second claim: insulin also binds to the PL3K/Akt pathway which leads to cancer
+
+Source: https://www.nature.com/articles/s41392-019-0050-0
+
+Third claim: Insulin-like growth factor is up regulated and is responsible for cell growth and apoptosis
+
+Source: https://en.m.wikipedia.org/wiki/Insulin-like_growth_factor_1
+
+Fourth claim: IGF-1 stimulates VEGF causing angiogenesis
+
+Source: https://onlinelibrary.wiley.com/doi/full/10.1111/brv.12306
+
+Finally for people who want broad links. I will provide some sources.
+
+https://www.rogelcancercenter.org/living-with-cancer/mind-body-side-effects/nutrition/sugar-and-cancer-does-sugar-increase-cancer-risk
+
+https://www.oncologynutrition.org/erfc/healthy-nutrition-now/sugar-and-cancer
+
+https://medicalxpress.com/news/2019-03-evidence-strong-sugar-cancer.html
+
+https://www.medicalnewstoday.com/articles/320156
+
+https://osher.ucsf.edu/patient-care/integrative-medicine-resources/cancer-and-nutrition/faq/sugar-and-cancer
+
+https://www.sciencedaily.com/releases/2019/08/190825075932.htm
+
+https://www.healthline.com/nutrition/too-much-sugar#TOC_TITLE_HDR_6
+
+https://www.annualreviews.org/doi/full/10.1146/annurev-cancerbio-030518-055855
+
+https://newsroom.clevelandclinic.org/2019/09/13/do-sugary-drinks-increase-cancer-risk/
+
+https://www.theguardian.com/society/2019/jul/10/sugar-in-fruit-juice-may-raise-risk-of-cancer-study-finds
+
+https://qz.com/1104333/cancer-cells-sugar-consumption-leads-to-more-aggressive-tumors-says-a-new-study/
+
+https://www.amerimedcpr.com/11-reasons-why-too-much-sugar-is-bad-for-you/
+
+https://acsjournals.onlinelibrary.wiley.com/doi/full/10.3322/caac.21591
+
+https://www.bbc.com/news/health-48939671
+
+https://www.nhs.uk/news/cancer/sugary-drinks-linked-cancer/
+
+https://www.iowaclinic.com/pediatrics/the-not-so-sweet-ways-added-sugar-can-harm-your-body/
+
+url:https://reddit.com/r/YouShouldKnow/comments/jovvbs/
+author:HotFlamingo7676
+subreddit:YouShouldKnow
+score:5570
+numComments:243
+isOver18:False
+hasPostBody:True

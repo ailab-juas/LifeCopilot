@@ -1,0 +1,25 @@
+title:
+YSK the difference between a heart attack and a cardiac arrest.
+
+content:
+I often hear these terms misused. It is very important for you to use the correct terminology when contacting emergency services so they can be adequately prepared.
+
+When a person is having a heart attack, there is a blood clot in the heart that is obstructing blood flow causing the heart muscle to die. They are probably having chest pain that may or may not travel down the left arm. Other possible symptoms: trouble breathing, sweating and nausea. Women often don't have the classic symptoms that men do and may only have back, jaw or neck pain.
+
+**What to do:** Call for an ambulance immediately. The person needs aspirin and to be brought to a hospital where they can have the clot removed as soon as possible. 
+
+http://www.heart.org/HEARTORG/Conditions/HeartAttack/WarningSignsofaHeartAttack/Warning-Signs-of-a-Heart-Attack_UCM_002039_Article.jsp#mainContent
+
+Cardiac arrest means that the person's heart has stopped and they are not breathing. This could be a result of an untreated heart attack or many other conditions.
+
+**What to do:** Start doing CPR immediately. This doesn't require you to do mouth to mouth. Have someone else call for an ambulance and get an AED if available. The AED will have pictures and voice prompts to help you use it. Continue to do CPR until emergency responders arrive and take over.
+
+http://www.heartrescueproject.com
+
+url:https://reddit.com/r/YouShouldKnow/comments/2qpw2g/
+author:cyrilspaceman
+subreddit:YouShouldKnow
+score:1410
+numComments:194
+isOver18:False
+hasPostBody:True

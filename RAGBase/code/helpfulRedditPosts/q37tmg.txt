@@ -1,0 +1,19 @@
+title:
+YSK: Google has a setting allowing you to turn off ads relating to Alcohol or Gambling
+
+content:
+Why YSK: I've found that ads on Youtube relating to gambling can be relentless. I don't gamble and never have but they're so frequent it manages to annoy me so I can't imagine what its like for people with addiction in this area. Google's AD settings now allow you to block ads that are alcohol or gambling related which will hopefully be of huge benefit to people that might be impacted by these.
+
+**This can be done by:** 
+
+1. Navigating to [https://adssettings.google.com/](https://adssettings.google.com/)
+2. Scrolling to the bottom of the page under the header 'Ad Catagories on Youtube'
+3. Click 'See Fewer' Next to Alcohol/Gambling
+
+url:https://reddit.com/r/YouShouldKnow/comments/q37tmg/
+author:PMmesomehappiness
+subreddit:YouShouldKnow
+score:11697
+numComments:302
+isOver18:False
+hasPostBody:True

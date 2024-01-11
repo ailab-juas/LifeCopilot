@@ -1,0 +1,13 @@
+title:
+LPT: If you have a basement, get a water sensor and get rid of all your cardboard boxes.
+
+content:
+Your basement will get water in it. You will want to know about it as soon as possible. And the worst thing to deal with after your basement floods is having to sort through soggy boxes trying to figure out what can be salvaged and what needs to get tossed. Or even worse, trying to salvage a whole bunch of boxes while simultaneously trying to stop the water coming in. A water sensor (or 2) and plastic bins can prevent a malfunctioning sump pump (a pretty big issue) from turning into a major catastrophe.
+
+url:https://reddit.com/r/LifeProTips/comments/gm2tqe/
+author:superdago
+subreddit:LifeProTips
+score:1425
+numComments:127
+isOver18:False
+hasPostBody:True

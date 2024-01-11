@@ -1,0 +1,15 @@
+title:
+YSK: If you donate blood, you might be made aware of how your blood is used within a couple of days.
+
+content:
+Why YSK: It might seem like your blood is going to some kind of bank that won't get used for a long time and you'll never know what happens to it. One of the most rewarding aspects of giving blood is sometimes knowing the age and condition of the patient they use your blood on, often within days, depending on your blood type, at least in Canada. I've had phone calls from Canada Blood Services less than 48 hours after I gave blood telling me that my blood was used on a 38 year old cancer patient, a child in critical care, an elderly person, etc. It's incredibly rewarding, brings tears to my eyes, to think that my blood is getting used so quickly after donating for real people in real need.
+
+More about how blood gets used can be found here: https://www.redcrossblood.org/donate-blood/blood-donation-process/what-happens-to-donated-blood.html
+
+url:https://reddit.com/r/YouShouldKnow/comments/xrtl2k/
+author:jenn_you_wine
+subreddit:YouShouldKnow
+score:1805
+numComments:171
+isOver18:False
+hasPostBody:True

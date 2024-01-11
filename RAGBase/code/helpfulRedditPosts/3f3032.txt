@@ -1,0 +1,16 @@
+title:
+YSK that sunscreen has an expiration date.
+
+content:
+Don't learn this the hard way like I did. According to the Mayo clinic most sunscreens last up to 3 years. In my case, I was using a 1 year old can of SPF 50. 
+
+[You can learn more here.](http://www.mayoclinic.org/healthy-lifestyle/adult-health/expert-answers/sunscreen-expire/faq-20057957)
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/3f3032/
+author:cappy2008
+subreddit:YouShouldKnow
+score:1015
+numComments:88
+isOver18:False
+hasPostBody:True

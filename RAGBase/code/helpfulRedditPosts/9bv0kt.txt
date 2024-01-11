@@ -1,0 +1,13 @@
+title:
+LPT: Avoid using analogies in heated arguments. They are only effective when the other person is willing to learn. Otherwise, your opponent will just nitpick your example and you won't get through to them.
+
+content:
+Edit: Obviously it's best to avoid heated discussions and attempt a civil conversation, but this is not always possible. I tend to see people try to convince others of something by using an analogy and I've learned from experience that this rarely works.
+
+url:https://reddit.com/r/LifeProTips/comments/9bv0kt/
+author:crimsoncomplainer
+subreddit:LifeProTips
+score:26810
+numComments:673
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: If you are composing an important message, do not enter the recipient until you have finished composing it so that you do not accidentally send an incomplete message.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/9w8upz/
+author:Triblado
+subreddit:LifeProTips
+score:37484
+numComments:459
+isOver18:False
+hasPostBody:False

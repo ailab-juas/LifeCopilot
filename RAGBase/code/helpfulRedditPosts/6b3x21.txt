@@ -1,0 +1,22 @@
+title:
+YSK about the Wannacrypt ransomware attack targeting Windows systems and how to protect yours
+
+content:
+It's estimated to have infected 230k computers in 99 countries in just 2 days. 
+
+https://en.wikipedia.org/wiki/WannaCry_ransomware_attack
+
+Patches available here: http://www.catalog.update.microsoft.com/Search.aspx?q=KB4012598
+
+Also:  
+
+['Accidental hero' halts ransomware attack and warns: this is not over
+Expert who stopped spread of attack by activating software’s ‘kill switch’ says criminals will ‘change the code and start again’](https://www.theguardian.com/technology/2017/may/13/accidental-hero-finds-kill-switch-to-stop-spread-of-ransomware-cyber-attack)
+
+url:https://reddit.com/r/YouShouldKnow/comments/6b3x21/
+author:ani625
+subreddit:YouShouldKnow
+score:2557
+numComments:379
+isOver18:False
+hasPostBody:True

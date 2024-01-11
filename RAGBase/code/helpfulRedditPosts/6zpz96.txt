@@ -1,0 +1,13 @@
+title:
+LPT: When looking for a job online, don't be afraid to apply for a job that you aren't quite sure you qualify for.
+
+content:
+Most job postings are put together by somebody different from the one doing the hiring, and they often copy and paste requirements from a generic job post of the same title and are not tailored to the company you apply for. Don't be afraid to apply for a job that requires '5 years of sales experience' when you only have 3, or specifically asks for a certain degree, for example. Don't assume you don't qualify, let your prospective employer decide that.
+
+url:https://reddit.com/r/LifeProTips/comments/6zpz96/
+author:DirtPiranha
+subreddit:LifeProTips
+score:1248
+numComments:75
+isOver18:False
+hasPostBody:True

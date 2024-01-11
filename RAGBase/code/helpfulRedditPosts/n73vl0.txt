@@ -1,0 +1,13 @@
+title:
+LPT: As soon as you check into a hotel, test out the shower before doing anything else. If there's a problem, it's better to change rooms immediately rather than finding out at an inconvenient time when you're tired, naked, and already unpacked.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/n73vl0/
+author:beingserial
+subreddit:LifeProTips
+score:43522
+numComments:1165
+isOver18:False
+hasPostBody:False

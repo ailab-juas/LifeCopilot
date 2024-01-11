@@ -1,0 +1,13 @@
+title:
+LPT: When you're in the market for a new home, if at all possible, visit the property during heavy rain.
+
+content:
+ Does the back yard become a lake? Is there a tendency for water to come into the garage or back patio? These kinds of things are not always evident during dry weather and certainly aren't going to be revealed on any paper work. An on-site visit is the only way to understand how the property handles water.
+
+url:https://reddit.com/r/LifeProTips/comments/vjs76a/
+author:jdu98a
+subreddit:LifeProTips
+score:3778
+numComments:213
+isOver18:False
+hasPostBody:True

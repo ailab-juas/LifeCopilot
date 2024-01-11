@@ -1,0 +1,13 @@
+title:
+LPT: When signing up for a new service (i.e. Spotify, SiriusXM, etc.), always try to find someone who already has the service and sign up thru their referral program. Most often, both of you will receive either free service or monetary rewards.
+
+content:
+The same typically applies to apartments, new jobs, and more
+
+url:https://reddit.com/r/LifeProTips/comments/5owofq/
+author:--justin--
+subreddit:LifeProTips
+score:1601
+numComments:50
+isOver18:False
+hasPostBody:True

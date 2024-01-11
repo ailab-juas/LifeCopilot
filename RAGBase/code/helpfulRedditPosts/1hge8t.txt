@@ -1,0 +1,22 @@
+title:
+YSK: If you cancel your phone plan with AT&amp;T they won't give you any *credit* owed for your last month unless you call and specifically ASK for it.
+
+content:
+This just happened minutes ago- 
+
+I was a loyal iPhone customer of 4 years (Thats almost $5,000 revenue), without ever missing a beat on payment. AT&amp;T's plans ceased to be competitive, so I ported my line to T-mobile (who is CRUSHING my old bill, by the way... down from $120 to about ~$70). Being the savvy consumer I am, I knew that every month is paid *IN ADVANCE*. 
+
+Since I cancelled my plan only a few days into the month, I called to confirm that I would receive a pro-rated credit for the unused time- which they confirmed. Well, I went online to check my final bill- guess what? No credit- a balance of 0$.
+
+I got back on the phone, and the customer service rep was surprised that I was previously told I would receive a credit automatically. She had to go in and MANUALLY process my $93 check, which I should receive in 11 days.
+
+
+/rant
+
+url:https://reddit.com/r/YouShouldKnow/comments/1hge8t/
+author:mechatron88
+subreddit:YouShouldKnow
+score:1443
+numComments:164
+isOver18:False
+hasPostBody:True

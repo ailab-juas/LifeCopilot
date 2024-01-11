@@ -1,0 +1,13 @@
+title:
+LPT: If you don't have a candle, a crayon can burn for about half an hour in an emergency.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/60ak98/
+author:Adnan_Targaryen
+subreddit:LifeProTips
+score:1587
+numComments:145
+isOver18:False
+hasPostBody:False

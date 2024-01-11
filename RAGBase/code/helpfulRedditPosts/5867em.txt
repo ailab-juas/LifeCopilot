@@ -1,0 +1,15 @@
+title:
+YSK about Ballotpedia, a neutral online encyclopedia about everything on your U.S. ballots in the upcoming elections, from school board elections to detailed neutral policy statements in federal elections.
+
+content:
+[Ballotpedia](https://ballotpedia.org/) is written by a fully professional and [neutral](https://ballotpedia.org/Why_Neutrality%3F) staff, covering local, state and federal elections. The information they provide is far more comprehensive than you'd ever find in a voter information pamphlet, and contains the latest polling information, policy positions, endorsements, statements from interested groups that may or may not have taken a side, and campaign finances and contributions. Plus the site maintains updated information about politics in general, such as state environmental policies, details about current elected officials, and current issues facing each component of government.
+
+Perhaps most useful, as [recently highlighted](https://www.reddit.com/r/YouShouldKnow/comments/4v4r9y/ysk_about_ballotpedia_a_website_that_lets_those/) by /u/herowcatsmanzzz, is the ability to preview what your ballot should look like, come November 8.
+
+url:https://reddit.com/r/YouShouldKnow/comments/5867em/
+author:agtk
+subreddit:YouShouldKnow
+score:2588
+numComments:64
+isOver18:False
+hasPostBody:True

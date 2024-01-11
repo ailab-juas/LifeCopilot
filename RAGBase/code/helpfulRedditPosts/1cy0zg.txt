@@ -1,0 +1,27 @@
+title:
+YSK That if an employer asks for your Facebook password, giving it to them is a violation of the Facebook Terms of Service and can get your account banned
+
+content:
+For those of you who are freaking out about a boss asking you for your Facebook password. I present to you Section 4, Sub Section 8 of the Facebook terms of service. 
+
+
+You will not share your password (or in the case of developers, your secret key), let anyone else access your account, or do anything else that might jeopardize the security of your account.
+
+I will now show you Section 15 called Termination 
+
+If you violate the letter or spirit of this Statement, or otherwise create risk or possible legal exposure for us, we can stop providing all or part of Facebook to you. We will notify you by email or at the next time you attempt to access your account. You may also delete your account or disable your application at any time. In all such cases, this Statement shall terminate, but the following provisions will still apply: 2.2, 2.4, 3-5, 8.2, 9.1-9.3, 9.9, 9.10, 9.13, 9.15, 9.18, 10.3, 11.2, 11.5, 11.6, 11.9, 11.12, 11.13, and 15-19.
+
+Therefore if a boss asks for your Facebook password, simply show him/her that is a violation of Facebook's Terms of Service and you can lose your account.
+
+Edit: forgot to add link to Facebook's TOS so ya'll know I'm not bullshitting you. https://www.facebook.com/legal/terms
+
+Edit #2: Since I have seen a ton of "Who does this?" posts this started to gain steam is an amendment to CISPA banning companies from doing so was blocked.
+http://www.huffingtonpost.com/2013/04/21/cispa-amendment-facebook-passwords-blocked_n_3128507.html
+
+url:https://reddit.com/r/YouShouldKnow/comments/1cy0zg/
+author:TheBobHatter
+subreddit:YouShouldKnow
+score:2032
+numComments:308
+isOver18:False
+hasPostBody:True

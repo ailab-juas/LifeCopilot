@@ -1,0 +1,13 @@
+title:
+LPT: Put your phone into "Do Not Disturb" mode when showing someone something on your phone. It will keep any private information from popping up and can save embarrassment
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/8piz9s/
+author:DannyShittu
+subreddit:LifeProTips
+score:24942
+numComments:521
+isOver18:False
+hasPostBody:False

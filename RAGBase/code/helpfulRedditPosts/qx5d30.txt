@@ -1,0 +1,13 @@
+title:
+LPT- Friendly reminder for the Thanksgiving bakers, a wet potholder is not a potholder, it’s a burn waiting to happen.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/qx5d30/
+author:31engine
+subreddit:LifeProTips
+score:2645
+numComments:53
+isOver18:False
+hasPostBody:False

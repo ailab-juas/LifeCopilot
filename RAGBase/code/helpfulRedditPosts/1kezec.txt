@@ -1,0 +1,13 @@
+title:
+LPT: If you are in an area where you think you should have cellphone service but don't, put your phone in airplane mode and then switch back. This will cause your phone to reregister and find all of the towers in your vicinity.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1kezec/
+author:WumpusAmungus
+subreddit:LifeProTips
+score:2546
+numComments:427
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,15 @@
+title:
+LPT: Use your phone’s autocorrect settings to create macros for commonly-used, annoying-to-enter stuff like email addressees, weird names, and common phrases
+
+content:
+For example, “j@“ autocorrects to my full email address, and “1n” autocorrects to my street address. Saves loads of time and frustration. 
+
+On iPhone: Settings &gt; General &gt; Keyboard &gt; Text Replacement &gt; + &gt; enter the full phrase (full email address) and shortcut (like “j@“)
+
+url:https://reddit.com/r/LifeProTips/comments/ggigmv/
+author:Jessica43452
+subreddit:LifeProTips
+score:3051
+numComments:143
+isOver18:False
+hasPostBody:True

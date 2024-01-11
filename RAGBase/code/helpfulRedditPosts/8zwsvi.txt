@@ -1,0 +1,13 @@
+title:
+YSK that the app "IRL-let's hang" is a scam
+
+content:
+It's purpose is to mine contact info to be sold. When downloaded, it will ask for permission to access your phone's contact info. Do not allow this as it will then not only sell your own info, but all of your contacts'.
+
+url:https://reddit.com/r/YouShouldKnow/comments/8zwsvi/
+author:theThink42
+subreddit:YouShouldKnow
+score:1090
+numComments:77
+isOver18:False
+hasPostBody:True

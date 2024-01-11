@@ -1,0 +1,13 @@
+title:
+LPT: Those of you living in the south experiencing freezing temps should consider leaving a small trickle of water running in your sinks. This will help prevent freezing of your water lines.
+
+content:
+Edit: This is for Southern United States.  Though this would be helpful anywhere experiencing below freezing temps.
+
+url:https://reddit.com/r/LifeProTips/comments/zu1eb1/
+author:px4855
+subreddit:LifeProTips
+score:1111
+numComments:188
+isOver18:False
+hasPostBody:True

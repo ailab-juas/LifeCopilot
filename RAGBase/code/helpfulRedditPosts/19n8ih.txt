@@ -1,0 +1,15 @@
+title:
+LPT: If you keep your phone locked with a password, use an image with an alternate phone number as your lock screen.
+
+content:
+This weekend, for the third time, I found a locked smart phone. As the screen is locked and I have no chance of guessing the password, I can't figure out who the phone belongs to so I can return it.
+
+Edit: I know you're all *so* concerned, but the owner FINALLY called the phone and set up a time to come pick it up from me.
+
+url:https://reddit.com/r/LifeProTips/comments/19n8ih/
+author:panda_nectar
+subreddit:LifeProTips
+score:1722
+numComments:437
+isOver18:False
+hasPostBody:True

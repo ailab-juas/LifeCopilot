@@ -1,0 +1,13 @@
+title:
+LPT: Hurricane tip for all those who may be in Ida’s path. Put drinks/waters in your washer and fill with ice. Stays cold for days and water just drains out.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/pdxv2e/
+author:iputitthere
+subreddit:LifeProTips
+score:29754
+numComments:1094
+isOver18:False
+hasPostBody:False

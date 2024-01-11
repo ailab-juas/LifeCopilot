@@ -1,0 +1,13 @@
+title:
+LPT: If a guest at your house wants to help, let them help. It makes them feel more comfortable and at home.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/y5ck0x/
+author:wZahin
+subreddit:LifeProTips
+score:1665
+numComments:88
+isOver18:False
+hasPostBody:False

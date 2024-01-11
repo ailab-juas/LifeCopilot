@@ -1,0 +1,17 @@
+title:
+LPT: If an alkaline battery leaks and ruins the device it was in, don't contact who made the device. Contact who made the batteries.
+
+content:
+Just about every well-known battery manufacturer has a “device-damage-by-battery-leakage” policy under which you may be eligible to have your device repaired or replaced if it has been damaged by leakage of alkaline batteries which came from that manufacturer.
+
+A kind of expensive flashlight of mine stopped working, and I couldn't get the batteries out because of the leak. I contacted the manufacturer to see if my warranty covered it. It doesn't, but they told me about this.
+
+Long story short: I'm waiting for my repaired flashlight to arrive in the mail.
+
+url:https://reddit.com/r/LifeProTips/comments/4e06su/
+author:MiceTonerAccount
+subreddit:LifeProTips
+score:2772
+numComments:188
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: When washing windows, clean one side with horizontal strokes and the other with vertical strokes. If there are streaks, you'll know which side requires additional cleaning
+
+content:
+When washing windows, clean one side with horizontal strokes and the other with vertical strokes. If there are streaks, you'll know which side requires additional cleaning. 
+
+url:https://reddit.com/r/LifeProTips/comments/1mqezv/
+author:B7dust11
+subreddit:LifeProTips
+score:1407
+numComments:111
+isOver18:False
+hasPostBody:True

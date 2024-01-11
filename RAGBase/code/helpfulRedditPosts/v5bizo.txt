@@ -1,0 +1,14 @@
+title:
+YSK Americans can take a quiz at Benefits.gov to check eligibility for public benefits
+
+content:
+Why YSK: The quiz will let you know what benefits you are entitled to. e.g. Medicaid, financial assistance, loans, disaster relief, and more.
+[https://www.benefits.gov/](https://www.benefits.gov/)
+
+url:https://reddit.com/r/YouShouldKnow/comments/v5bizo/
+author:SomeDudeOnRedit
+subreddit:YouShouldKnow
+score:1658
+numComments:46
+isOver18:False
+hasPostBody:True

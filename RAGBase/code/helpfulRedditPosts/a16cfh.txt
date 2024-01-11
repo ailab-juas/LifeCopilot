@@ -1,0 +1,13 @@
+title:
+LPT: If you're double checking a number or a sequence, read it backwards to avoid making the same mistake twice.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/a16cfh/
+author:ale152
+subreddit:LifeProTips
+score:13988
+numComments:262
+isOver18:False
+hasPostBody:False

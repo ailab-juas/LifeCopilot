@@ -1,0 +1,19 @@
+title:
+YSK how to Christmas shop on Amazon without your SO seeing what you buy! (Share Prime benefits with a second account with amazon household!)
+
+content:
+My wife and I share an amazon account, and it's pretty obvious when we buy gifts for each other because we receive emails and updates of purchases. 
+
+After some digging I found out you can share your prime membership with another member in your house if you use [Amazon Household](https://www.amazon.com/myh/households). Especially now that it's Christmas season, hiding presents can be an issue. 
+
+This will allow you to share your account with a second amazon account. While I just signed up with my wife, you could create a second account if you have "other" purchases that you might not want to share! 
+
+EDIT: /u/FucktheAdmins pointed out that it does not work with a student subscription
+
+url:https://reddit.com/r/YouShouldKnow/comments/5gjhde/
+author:palonious
+subreddit:YouShouldKnow
+score:1171
+numComments:52
+isOver18:False
+hasPostBody:True

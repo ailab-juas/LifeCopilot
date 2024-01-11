@@ -1,0 +1,15 @@
+title:
+YSK you can find info about the ingredients in products by using the INCIDecoder site
+
+content:
+**Why YSK:** It's helpful to know what ingredients in a product actually are &amp; what they are used for.
+
+You can do this by using [INCIDecoder](https://incidecoder.com/) &amp; similar sites. I mainly use this site when I buy cosmetics or any kind of beauty products. I like being able to copy/paste the list of ingredients into the site to learn about them especially if I am trying to decide between a variety of products. (And, no I'm not getting paid to promote the site.)
+
+url:https://reddit.com/r/YouShouldKnow/comments/zh5goy/
+author:Freebeing001
+subreddit:YouShouldKnow
+score:1935
+numComments:26
+isOver18:False
+hasPostBody:True

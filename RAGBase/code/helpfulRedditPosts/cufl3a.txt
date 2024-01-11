@@ -1,0 +1,13 @@
+title:
+LPT : Eat something before buying groceries. It takes 20 min for satiety to come or a whole lot of junk food to realise you've made a mistake
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/cufl3a/
+author:NecFenLegacy
+subreddit:LifeProTips
+score:3173
+numComments:112
+isOver18:False
+hasPostBody:False

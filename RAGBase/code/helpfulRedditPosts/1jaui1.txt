@@ -1,0 +1,17 @@
+title:
+LPT: Print out a QR code to connect to your wifi and put it up on your wall for guests
+
+content:
+Android devices can get wifi connection details from a QR code. There are several sites that will allow you generate such a QR code, just tell it your SSID (i.e. the name of your network) and password.
+
+Then you can scale the picture up, print it out, and put it up on your wall. Guests with android devices can use Barcode Scanner to quickly connect to your wifi without having to type in the password.
+
+You can also print the SSID and password underneath the QR code for people who want to connect with other devices that don't support connecting via QR code.
+
+url:https://reddit.com/r/LifeProTips/comments/1jaui1/
+author:Asmor
+subreddit:LifeProTips
+score:2158
+numComments:772
+isOver18:False
+hasPostBody:True

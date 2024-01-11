@@ -1,0 +1,13 @@
+title:
+LPT: If you’re feeling stressed or overwhelmed because you have so much to do, make a list and physically cross them off or remove them from your phone as you go. It will let you know you’re making progress and give you a confidence boost that the others are also achievable.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/a2mwwl/
+author:DarthReece
+subreddit:LifeProTips
+score:17973
+numComments:404
+isOver18:False
+hasPostBody:False

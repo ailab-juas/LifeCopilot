@@ -1,0 +1,19 @@
+title:
+When using Excel, put totals at the top of each column rather than at the end of your data.
+
+content:
+I put a title for each column in row one, skip a row, total the column, skip a row, then begin data. Doing this gives users a view of title, total, then detailed data, in that order. It allows your eyes to take the shortest route to see information in the order needed. If one sees the title and total, and is ok with it, then there's no need to sort through all the crap below. Even if it all fits on a single page, I really like this way much better. 
+
+Edit: 
+Here are a couple of examples of how I use it: 
+http://i.imgur.com/oqeV4QN.png?1
+http://i.imgur.com/kKaX0z1.png?1 
+I meant this more as a tip for laying out the info in a way that is quickly read and easily interpreted / understood by users. I realize it's not optimal for other purposes. 
+
+url:https://reddit.com/r/LifeProTips/comments/1mi75f/
+author:_Z_A_C_
+subreddit:LifeProTips
+score:1168
+numComments:139
+isOver18:False
+hasPostBody:True

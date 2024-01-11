@@ -1,0 +1,15 @@
+title:
+YSK that there is no such thing as "could of". The proper term is "could have"
+
+content:
+This really gets my goat. It's simple English and yet people (Americans?) get it wrong all the time. I suspect it comes from a misapprehension when people say "Could've". Those who hear it assume it's "could of" and not a contraction of "could have". 
+
+edit: typo
+
+url:https://reddit.com/r/YouShouldKnow/comments/5t7pzx/
+author:raistanient
+subreddit:YouShouldKnow
+score:1326
+numComments:190
+isOver18:False
+hasPostBody:True

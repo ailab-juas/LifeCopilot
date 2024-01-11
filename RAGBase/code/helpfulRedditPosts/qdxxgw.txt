@@ -1,0 +1,13 @@
+title:
+LPT: “No one else has time to look out for you. They’re busy looking out for themselves. So save money, eat healthy, and get enough sleep. No one else is going to make sure you’re doing those things.” —u/gowahoo
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/qdxxgw/
+author:LokiBonk
+subreddit:LifeProTips
+score:3466
+numComments:93
+isOver18:False
+hasPostBody:False

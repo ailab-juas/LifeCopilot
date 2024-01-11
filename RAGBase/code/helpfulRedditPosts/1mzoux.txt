@@ -1,0 +1,13 @@
+title:
+LPT: When dividing up ground beef in Ziploc bags, flatten it out before freezing it. It'll thaw faster when you need it.
+
+content:
+I buy ground beef/turkey in bulk and I divide it up into ziploc bags.  I always flatten out the ground beef into a sheet within the ziploc bag so that it thaws faster when I need to cook it.
+
+url:https://reddit.com/r/LifeProTips/comments/1mzoux/
+author:Staplebattery
+subreddit:LifeProTips
+score:2821
+numComments:214
+isOver18:False
+hasPostBody:True

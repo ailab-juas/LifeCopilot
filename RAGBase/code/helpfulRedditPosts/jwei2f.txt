@@ -1,0 +1,13 @@
+title:
+LPT: When you get a compliment for doing a good job at work or cooking delicious food or anything you did well, just say THANK YOU. Do not tone it down by saying something like "it was so easy" or "it was actually the spices I used" or "anyone could have done that". Just smile and say thank you.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/jwei2f/
+author:hash1e
+subreddit:LifeProTips
+score:47294
+numComments:1197
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: When you're at an ATM, hold 3 fingers out while entering your PIN (instead of just your pointer finger). Makes it much harder for someone to look over your shoulder and guess it.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/aicali/
+author:alanstanwyk
+subreddit:LifeProTips
+score:2949
+numComments:170
+isOver18:False
+hasPostBody:False

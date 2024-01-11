@@ -1,0 +1,13 @@
+title:
+LPT: If you have a dog that hates being picked up, work with them everyday to make them comfortable. You never know when you will have to carry them to safety.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5yumyw/
+author:apcreddit
+subreddit:LifeProTips
+score:6340
+numComments:235
+isOver18:False
+hasPostBody:False

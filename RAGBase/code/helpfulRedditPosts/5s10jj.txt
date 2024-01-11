@@ -1,0 +1,13 @@
+title:
+LPT: Learned that new language, but want to practice having conversations? Try watching Sesame Street in that language!
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5s10jj/
+author:acrowsmurder
+subreddit:LifeProTips
+score:1149
+numComments:57
+isOver18:False
+hasPostBody:False

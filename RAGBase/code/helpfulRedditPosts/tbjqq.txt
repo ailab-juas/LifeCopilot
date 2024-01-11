@@ -1,0 +1,13 @@
+title:
+LPT: Memorize these and steer clear
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/tbjqq/
+author:dkeo
+subreddit:LifeProTips
+score:1187
+numComments:170
+isOver18:False
+hasPostBody:False

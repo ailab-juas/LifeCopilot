@@ -1,0 +1,21 @@
+title:
+LPT: If a customer service rep goes above and beyond to help with your issue, go above and beyond to make sure they're acknowledged for it
+
+content:
+Customer service is an undervalued and under appreciated field, but it's only growing as more retailers move from brick-and-mortar storefronts to e-commerce. 
+
+There is an infinite number of possible ways that orders can go wrong, and unfortunately, customer service reps are typically lowest on the corporate totem pole but also have the most face-time with customers.
+
+And don't get me wrong, there are some truly horrible companies out there (*cough* Comcast) who trains their CS reps to push back against customers and view customers as the enemy, but other companies (like USAA) are notorious for their obsessive focus on good customer service. 
+
+If you have an issue with an order, a delivery, a credit card charge, a question, return request, or whatever it is and you're able to get in touch with a CS rep who will spend the time to walk you through the process and ensure that you're satisfied in the end, be sure to ask them how you can return the favor by either contacting their manager or request a survey to provide good feedback. 
+
+As someone who (for a short time) worked in a call center, and can honestly say that it was one of the most challenging jobs I've ever had, you'd be surprised at how rare it is to get positive feedback from customers. Not only will the CS rep appreciate, but you'll feel good about helping someone out in return.
+
+url:https://reddit.com/r/LifeProTips/comments/nupbr4/
+author:chiboulevards
+subreddit:LifeProTips
+score:21321
+numComments:298
+isOver18:False
+hasPostBody:True

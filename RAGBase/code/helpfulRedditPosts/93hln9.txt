@@ -1,0 +1,13 @@
+title:
+LPT: In the work area, although constructive criticism is needed for new employees, don’t forget to provide ample positive feedback so they know what they’re doing right. It’ll encourage better work ethic, productivity, and boost moral.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/93hln9/
+author:KnightBefore
+subreddit:LifeProTips
+score:4145
+numComments:95
+isOver18:False
+hasPostBody:False

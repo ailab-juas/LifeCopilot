@@ -1,0 +1,13 @@
+title:
+LPT When splitting something (let's say cake) between 2 kids, have one cutting the pieces and the other one choosing first.
+
+content:
+ This will make them understanding the idea of fairness. If they don't divide the "cake" equally, the other one can choose the bigger piece.
+
+url:https://reddit.com/r/LifeProTips/comments/el9w91/
+author:PaocomTulicreme
+subreddit:LifeProTips
+score:1558
+numComments:172
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+LPT: you can add a gift card to your Apple wallet, transfer 100% of the funds to your Apple Cash then transfer 100% of that to your personal bank account. No more leaving money on the table. Thank me later.
+
+content:
+Edit: store cards probably won’t work and certain credit card companies may not allow adding the gift card to your Apple wallet. Just log in the gift cards (not store brand) website and see if it’s allowed. 
+
+Also for those who often receive incentives from work and have access to Amazon. Amazon is such a great way to incentivize. You can buy so many things including store gift cards!
+
+url:https://reddit.com/r/LifeProTips/comments/qqlbsd/
+author:TurquoizeWarrior
+subreddit:LifeProTips
+score:4430
+numComments:220
+isOver18:False
+hasPostBody:True

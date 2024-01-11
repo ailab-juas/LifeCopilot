@@ -1,0 +1,15 @@
+title:
+YSK about Ticketmaster’s “dynamic pricing”
+
+content:
+WHY YSK
+
+Ticketmaster has been doing this for a few years now, but with musicians finally getting back to work, and many struggling to do so, it’s super scummy that Ticketmaster can exponentially increase cost of tickets based upon demand. Neither the bands nor the venues see any of that money. If there’s another way to get the tickets, give it a shot. After all, we love the bands and venues, not Ticketmaster
+
+url:https://reddit.com/r/YouShouldKnow/comments/o9mp3a/
+author:Stillybwobbit
+subreddit:YouShouldKnow
+score:13440
+numComments:631
+isOver18:False
+hasPostBody:True

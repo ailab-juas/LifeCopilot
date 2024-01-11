@@ -1,0 +1,19 @@
+title:
+YSK Google offers 3D rotatable models of many proteins and chemical compounds as part of their default search
+
+content:
+Examples: 
+
+- [Glutamate / Glutamic acid](https://www.google.com/search?q=glutamate+&amp;ie=utf-8&amp;oe=utf-8&amp;aq=t&amp;rls=org.mozilla:en-US:official&amp;client=firefox-a)
+- [Glucose](https://www.google.com/search?q=glucose&amp;ie=utf-8&amp;oe=utf-8&amp;aq=t&amp;rls=org.mozilla:en-US:official&amp;client=firefox-a)
+- [Fructose](https://www.google.com/search?q=glucose&amp;ie=utf-8&amp;oe=utf-8&amp;aq=t&amp;rls=org.mozilla:en-US:official&amp;client=firefox-a#q=fructose+&amp;rls=org.mozilla:en-US%3Aofficial&amp;safe=off)
+
+Edit: To clarify, not automatic. [Make sure you click on the "3D" icon](http://i.imgur.com/AKEpMPn.png?1). Proteins are NOT displayed. Appears to be amino acids/simple organic compounds only.
+
+url:https://reddit.com/r/YouShouldKnow/comments/1o84zn/
+author:roland19d
+subreddit:YouShouldKnow
+score:1091
+numComments:61
+isOver18:False
+hasPostBody:True

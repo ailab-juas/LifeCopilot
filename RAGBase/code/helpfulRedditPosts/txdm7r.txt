@@ -1,0 +1,30 @@
+title:
+YSK: Raw or undercooked beans contain a toxic compound that can lead to gastrointestinal symptoms. Many slow-cookers do not reach high enough temperatures to deactivate the toxin.
+
+content:
+Why YSK: Because no one wants to deal with nausea, vomiting, diarrhea, and abdominal pain just because you didn’t cook your beans right. 
+
+You should be soaking and subsequently boiling beans for at least 10 minutes to effectively destroy the toxin (Phytohemagglutinin). Red kidney beans contain particularly high levels of this toxin. White kidney beans have about 1/3 as much, and broad beans have about 1/10th as much. Furthermore, undercooked beans actually contain *more* bioavailable toxin than just raw beans. 5 raw red kidney beans or 1 undercooked bean is enough to cause symptoms of poisoning.
+
+Slow cookers don’t typically reach temperatures above 80°C / 180°F, which is necessary to deactivate the toxin. Therefore, slow-cookers (no matter how long you cook for) are not sufficient methods of cooking raw beans.
+
+Never allow children to play with raw beans or use them as art supplies. 
+
+None of this applies to canned beans since those are cooked already. 
+
+Sources: 
+https://www.fda.gov/media/83271/download
+
+https://en.wikipedia.org/wiki/Kidney_bean
+
+https://en.wikipedia.org/wiki/Phaseolus_vulgaris#Toxicity
+
+For ease of access, [here](https://imgur.com/a/hWLKfLz/) are screenshots of the FDA write-up on this topic which is linked
+
+url:https://reddit.com/r/YouShouldKnow/comments/txdm7r/
+author:1saltymf
+subreddit:YouShouldKnow
+score:6092
+numComments:288
+isOver18:False
+hasPostBody:True

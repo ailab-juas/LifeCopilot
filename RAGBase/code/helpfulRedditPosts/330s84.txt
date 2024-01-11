@@ -1,0 +1,29 @@
+title:
+YSK that VLC has an extension that can automatically find the right subtitle for you
+
+content:
+Do this by installing the extension here:
+
+https://github.com/exebetche/vlsub/
+
+How to use it:
+
+&gt;- Start Vlc
+- Start your video
+- Click on the menu View &gt; VLSub or VLC &gt; Extension &gt; VLSub on Mac OS X
+- Click on "Search by hash" or "Search by name"
+- Select a subtitles file on the list
+- Click on "Download selection"
+That's it, the subtitles should appear on your video.
+
+&gt;If you're not happy with your subtitles (wrong sync etc), you can select an other one and click "Download" again, that will erase the previous one and load it automatically.
+
+Edit: If you have VLC 2.2 installed, it should already be there. Just go to to View &gt; VLSub
+
+url:https://reddit.com/r/YouShouldKnow/comments/330s84/
+author:a5ph
+subreddit:YouShouldKnow
+score:1666
+numComments:53
+isOver18:False
+hasPostBody:True

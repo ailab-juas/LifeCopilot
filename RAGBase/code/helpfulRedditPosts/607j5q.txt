@@ -1,0 +1,13 @@
+title:
+LPT: If you lost a ring or metalic item in the grass and can't find it during the day. Go back at night with a bright light, the shine will make it easy to see.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/607j5q/
+author:Lakepounch
+subreddit:LifeProTips
+score:5934
+numComments:193
+isOver18:False
+hasPostBody:False

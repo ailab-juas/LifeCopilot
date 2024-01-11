@@ -1,0 +1,13 @@
+title:
+LPT: If a news headline initiated a big emotional response from you, fact check it.
+
+content:
+If an article makes you angry or upset it was probably written that way so you’d click on it.   Learn to find unbiased reliable news sources, not one but multiple.    Get different perspectives and then form your opinion.
+
+url:https://reddit.com/r/LifeProTips/comments/yrvati/
+author:waltur_d
+subreddit:LifeProTips
+score:1585
+numComments:37
+isOver18:False
+hasPostBody:True

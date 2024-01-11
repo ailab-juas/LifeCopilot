@@ -1,0 +1,13 @@
+title:
+LPT: If you're having trouble deciding on a good gift for someone; tell them you already got them something amazing and have them guess what it is!
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5crg4c/
+author:pplum_
+subreddit:LifeProTips
+score:2875
+numComments:178
+isOver18:False
+hasPostBody:False

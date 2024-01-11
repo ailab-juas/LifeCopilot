@@ -1,0 +1,13 @@
+title:
+Mind significantly blown.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/rhtn2/
+author:vinnievon
+subreddit:LifeProTips
+score:2381
+numComments:351
+isOver18:False
+hasPostBody:False

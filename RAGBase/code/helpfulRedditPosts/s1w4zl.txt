@@ -1,0 +1,21 @@
+title:
+YSK Food poisoning is often not caused by the last thing you ate.
+
+content:
+**Why YSK:*** People almost always blame stomach issues on the last meal they ate before they fell ill but that is rarely the cause. Most foodborne illness takes at least 6 hours to kick in and in most cases it takes a day or more. These same stomach bugs can also be come from sources other than food, such as contaminated water or improper hand washing after bathroom visits. 
+
+Misatributing the source of an illness frequently causes people to disparage restaurants that have done nothing wrong. It also prevents people from discovering the real source of their issues, leading people to continue behavior that puts their health in jeopardy. 
+
+Timeframes for the most common foodborne illnesses can be found in the link below. 
+
+Source: https://www.fda.gov/food/consumers/what-you-need-know-about-foodborne-illnesses
+
+Scroll right on the chart if you are on mobile.
+
+url:https://reddit.com/r/YouShouldKnow/comments/s1w4zl/
+author:therealdxm
+subreddit:YouShouldKnow
+score:4386
+numComments:224
+isOver18:False
+hasPostBody:True

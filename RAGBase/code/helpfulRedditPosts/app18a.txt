@@ -1,0 +1,21 @@
+title:
+YSK: If you work at Amazon you have a free account to Lynda.com. It is a website that contains a ridiculous amount of courses and training videos on just about any business related subject you can imagine.
+
+content:
+For example, I'm currently working through the courses to master Excel and Data Analysis. If you are interested I would speak with a member of HR for exact details, though they may have to reach out for the info if they don't know about it personally. My building's HR team was unaware of it when I asked them about it. Normally, I think a Lynda account costs around $30 a month.
+
+The training is accessed through our employee resource portal, the Hub (under KNET specifically, located under Resources). Search for Lynda on KNET and launch the training for it. This will take you to the Lynda website so you can set up your account. To access KNET outside of the Amazon network you need to attempt to access it at home first where it will prompt you saying you are outside the network (don't remember the exact message it gives), then return to work and use the temp password provided by email. You should be able to set a new password and access it outside of network. Might take a few tries to get it to work properly but its worth it in the end.
+
+Using Lynda can be an incredible way to advance your career or develop skills to follow whatever passion you may have so you can work towards getting a job in your chosen field. I highly advise checking it out even if you aren't sure what your passion may be. It might spark something that you were unaware you had an interest in!
+
+Edit: had a question about other resources we might have access to so adding here for visibility. Amazonians can access extrasforamazon.com which is pretty much Groupon. It has some really great deals on a variety of things including home mortgage and insurance options. 
+
+We also get a discount at the 6pm store that resells things like shoes and jewelry. The physical store is located inShepherdsville, KY. When I went all you had to do is show your badge and you get crazy discounts. Like between 50-90% on some brand name items. I’m not sure if there is an online resource to access that however.
+
+url:https://reddit.com/r/YouShouldKnow/comments/app18a/
+author:PhotoconductiveOil
+subreddit:YouShouldKnow
+score:1916
+numComments:70
+isOver18:False
+hasPostBody:True

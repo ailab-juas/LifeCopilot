@@ -1,0 +1,13 @@
+title:
+LPT: You will never eat a chicken wing the same way again
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/p34qz/
+author:nrichar2
+subreddit:LifeProTips
+score:1823
+numComments:299
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,25 @@
+title:
+YSK about US EPA Superfund sites, these are large toxic contamination sites mostly caused by private companies in every state that the EPA is in charge of cleaning up, and you may live near.
+
+content:
+Not to get too political, but "since 2001, most of the funding for cleanups of hazardous waste sites has come from taxpayers."
+
+You can find out more about the program here.
+https://en.wikipedia.org/wiki/Superfund
+
+You can also find sites near where you live here and read about them.
+https://en.wikipedia.org/wiki/List_of_Superfund_sites
+
+
+The US EPA hosts detailed descriptions of the causes and efforts of each site here.
+https://www.epa.gov/superfund/proposed-national-priorities-list-npl-sites-state#GA
+
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/5rxlxz/
+author:ggrieves
+subreddit:YouShouldKnow
+score:1886
+numComments:105
+isOver18:False
+hasPostBody:True

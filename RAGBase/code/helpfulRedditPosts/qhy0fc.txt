@@ -1,0 +1,13 @@
+title:
+LPT: get yourself a GOOD chef knife.
+
+content:
+Even if you don’t like cooking or consider yourself a good cook, it makes food prep so much quicker, easier and more enjoyable.
+
+url:https://reddit.com/r/LifeProTips/comments/qhy0fc/
+author:DillPickleEverything
+subreddit:LifeProTips
+score:2439
+numComments:311
+isOver18:False
+hasPostBody:True

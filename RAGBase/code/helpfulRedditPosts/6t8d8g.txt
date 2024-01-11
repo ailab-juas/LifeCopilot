@@ -1,0 +1,13 @@
+title:
+LPT: Check for skimmers at gas pumps and other card readers with your phone. Turn on Bluetooth and search for devices, skimmers often show up as a long string of numbers trying to connect.
+
+content:
+Crooks usually retrieve the stolen card info with Bluetooth because it can be done discreetly without exposing themselves by opening up the machine to retrieve the device.
+
+url:https://reddit.com/r/LifeProTips/comments/6t8d8g/
+author:MothRatten
+subreddit:LifeProTips
+score:33294
+numComments:1863
+isOver18:False
+hasPostBody:True

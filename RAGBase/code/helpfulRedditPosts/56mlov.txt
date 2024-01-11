@@ -1,0 +1,25 @@
+title:
+YSK: IMDB has an advanced search to find movies that fit your criteria!
+
+content:
+This is a great way to find specific types of movies you want to watch, whether it be a movie that was released in a specific time span, a genre or just movies with great reviews.
+
+**http://www.imdb.com/search/title**
+
+Some of the options available are:
+
+* Title type - Feature film, TV series and more
+* Release date
+* User rating and number of votes
+* Genres
+* Exclude titles you have already voted on
+
+**I use this all the time and it has been very helpful!**
+
+url:https://reddit.com/r/YouShouldKnow/comments/56mlov/
+author:SOMMARTIDER
+subreddit:YouShouldKnow
+score:1030
+numComments:27
+isOver18:False
+hasPostBody:True

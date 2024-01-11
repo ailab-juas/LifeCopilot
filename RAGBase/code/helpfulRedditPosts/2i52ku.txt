@@ -1,0 +1,40 @@
+title:
+LPT: Remove private data from your photos before uploading them
+
+content:
+Your photo contains EXIF data, which contains phone brand &amp; model, camera serial number for some models, GPS coordinates if enabled, whether flash was used or not, focal length, etc.
+  
+Some websites like Facebook, Twitter, and Imgur remove EXIF before making your photos public, but for other websites (such as Flickr, Picassa, Google+), you need to remove your EXIF by yourself before uploading. This way, the info won't be publicized along with the image.
+  
+One way (On Windows) [source](http://www.makeuseof.com/tag/3-ways-to-remove-exif-metadata-from-photos-and-why-you-might-want-to/):
+  
+* right click the image  
+* Select Properties  
+* Select Details  
+* Select "Remove Properties and Personal Information"  
+* Take your pick!  
+  
+The other way is to use some software or online:
+
+* [Google Search](https://www.google.com/search?q=exif+remover&amp;oq=exif+remover&amp;aqs=chrome..69i57j69i61j0l4.1392j0j7&amp;sourceid=chrome&amp;es_sm=93&amp;ie=UTF-8)
+  
+Android (1 English and 2 Japanese versions):
+
+* [EZ UnEXIF Free](https://play.google.com/store/apps/details?id=com.cakecodes.ezunexif.free)
+* [Exif Eraser](https://play.google.com/store/apps/details?id=jp.wing.exiferaser)
+* [Instant EXIF Remover](https://play.google.com/store/apps/details?id=jp.espresso3389.exifedit)
+  
+iOS:
+
+* [Exif Wizard](https://itunes.apple.com/us/app/exif-wizard/id387652357?mt=8)
+* [TrashExif](https://itunes.apple.com/us/app/trashexif-metadata-photo-remover/id585543219?mt=8)
+  
+Interesting fact by /u/dc456 - [link](http://www.reddit.com/r/LifeProTips/comments/2i52ku/lpt_remove_private_data_from_your_photos_before/ckz70c9)
+
+url:https://reddit.com/r/LifeProTips/comments/2i52ku/
+author:newbsHOT
+subreddit:LifeProTips
+score:2305
+numComments:210
+isOver18:False
+hasPostBody:True

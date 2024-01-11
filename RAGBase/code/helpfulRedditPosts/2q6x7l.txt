@@ -1,0 +1,17 @@
+title:
+YSK that before giving to a specific charity, you should check CharityNavigator to see how your gift is likely to be spent.
+
+content:
+[Charity Navigator](http://www.charitynavigator.org)
+
+[Great NonProfits](http://greatnonprofits.org/), thanks to /u/dazzlekal22
+
+edit: include links
+
+url:https://reddit.com/r/YouShouldKnow/comments/2q6x7l/
+author:[deleted]
+subreddit:YouShouldKnow
+score:2086
+numComments:68
+isOver18:False
+hasPostBody:True

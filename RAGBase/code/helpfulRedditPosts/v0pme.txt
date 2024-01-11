@@ -1,0 +1,13 @@
+title:
+LPT: Whenever you need to study for an important test, google "site:edu [subject] exam"
+
+content:
+My econ teacher just taught me this trick. If you go to google and type in "site:edu production possibilities curve exam" for example, you get many different college exams featuring problems pertaining to that subject.
+
+url:https://reddit.com/r/LifeProTips/comments/v0pme/
+author:Trappets
+subreddit:LifeProTips
+score:1167
+numComments:111
+isOver18:False
+hasPostBody:True

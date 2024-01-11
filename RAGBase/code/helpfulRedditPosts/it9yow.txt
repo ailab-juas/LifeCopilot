@@ -1,0 +1,13 @@
+title:
+LPT: You CAN decline acceptance of cookies pop-up. You will still be able to navigate through the website.
+
+content:
+Edit: I appreciate all the rewards guys and thanks! But I think it would be better if you spend the money (if involved) on a charity than on some reddit post. Even if it’s gonna be a small amount. But holy shit so many rewards, thanks!
+
+url:https://reddit.com/r/LifeProTips/comments/it9yow/
+author:Niha_d
+subreddit:LifeProTips
+score:30495
+numComments:741
+isOver18:False
+hasPostBody:True

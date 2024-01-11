@@ -1,0 +1,15 @@
+title:
+YSK: In rolling traffic, staying further back from the car in front may potentially reduce both traffic and vehicle wear.
+
+content:
+Why YSK: If you drive close to the car in front, when they inevitably tap their brakes you will need to brake as well. This creates a wave of cars tapping their brakes which creates more traffic. If you give ample room in front of you, when the person in front taps their brakes you only need to let off the gas and slow down. This stops the backwards wave-like flow of traffic. 
+
+Additionally, not needing to tap your breaks reduces brake wear. And potentially saves gas as you won't reduce your speed as much.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ikrvdt/
+author:Marksman18
+subreddit:YouShouldKnow
+score:20230
+numComments:764
+isOver18:False
+hasPostBody:True

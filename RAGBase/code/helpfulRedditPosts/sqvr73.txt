@@ -1,0 +1,13 @@
+title:
+LPT: if you have problems being productive on your days off, take a morning drive
+
+content:
+I was telling my friend a while back that I had trouble finding the energy to do anything on my days off work. He recommended to simply drive in the morning to get a cup of coffee or breakfast. Surprisingly this helped more than I thought it would and has consistently kept me productive on my days off.
+
+url:https://reddit.com/r/LifeProTips/comments/sqvr73/
+author:kingofmocha
+subreddit:LifeProTips
+score:11403
+numComments:757
+isOver18:False
+hasPostBody:True

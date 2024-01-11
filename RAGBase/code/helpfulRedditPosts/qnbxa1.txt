@@ -1,0 +1,15 @@
+title:
+LPT: If you're asked to take a survey after a service rep/tech helps you out, take it and give them the best score possible.
+
+content:
+A lot of bs companies tie performance to those surveys and a lot of times anything other than a perfect score can mean a potential write up for that tech. It normally only takes a minute or two, but it could mean the difference in a raise or a reprimand for the person on the other line.
+
+Source: was tech with job like that
+
+url:https://reddit.com/r/LifeProTips/comments/qnbxa1/
+author:stoncils_
+subreddit:LifeProTips
+score:4682
+numComments:281
+isOver18:False
+hasPostBody:True

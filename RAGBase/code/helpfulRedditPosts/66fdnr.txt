@@ -1,0 +1,17 @@
+title:
+YSK: How to Use Plex Media Server Without Internet Access
+
+content:
+After having used Plex server @ home on different TV's with no issues a recent update( months ago?) broke the DLNA function on one of my TV's , forcing me to have to login to Plex online before i could get my content.
+
+But today i stumbled on [this](https://www.howtogeek.com/303282/how-to-use-plex-media-server-without-internet-access/) article from howtogeek and i am on happy camper. 
+
+No more having to go thru 3 different menus to watch my content!.
+
+url:https://reddit.com/r/YouShouldKnow/comments/66fdnr/
+author:KaizerShoze
+subreddit:YouShouldKnow
+score:1227
+numComments:99
+isOver18:False
+hasPostBody:True

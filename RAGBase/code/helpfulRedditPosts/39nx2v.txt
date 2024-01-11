@@ -1,0 +1,13 @@
+title:
+LPT: When looking for a book online, type the name of the book then file:pdf to only get PDF files
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/39nx2v/
+author:11100101110010110110
+subreddit:LifeProTips
+score:1177
+numComments:110
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,23 @@
+title:
+YSK you can stop telemarketers in Australia by putting your number up on a government website. If they call you when your number is up they are breaking the law and may face penalties.
+
+content:
+website
+https://www.donotcall.gov.au/about/about-the-do-not-call-register/
+
+Even if you aren’t on the register they’re breaking the law if they call
+* before 9 am or after 8 pm on weekdays
+* before 9 am or after 5 pm on Saturdays
+* anytime on a Sunday or a national public holiday
+
+If you are still contacted after 30 days you can report it [here](https://www.donotcall.gov.au/consumers/lodge-a-complaint/)
+
+Edit: this only applies to a company trying to sell you something, surveys and such are ok while on the register. Scams are unavoidable obviously and are reported elsewhere.
+
+url:https://reddit.com/r/YouShouldKnow/comments/bny51c/
+author:PoliceOfficerDave
+subreddit:YouShouldKnow
+score:3247
+numComments:131
+isOver18:False
+hasPostBody:True

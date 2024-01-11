@@ -1,0 +1,13 @@
+title:
+YSK magnets won't corrupt your flash drives.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/YouShouldKnow/comments/ml60ji/
+author:[deleted]
+subreddit:YouShouldKnow
+score:4722
+numComments:210
+isOver18:False
+hasPostBody:True

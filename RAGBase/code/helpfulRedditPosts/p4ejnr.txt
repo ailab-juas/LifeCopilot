@@ -1,0 +1,13 @@
+title:
+LPT: Modern cars are designed to last 200,000 miles with proper maintenance. If you're a car owner, the most pro-environment you can do is hang on to your car for its entire life. If you're feeling the urge to get a new one, get it professionally detailed and cleaned, like getting new wheels!
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/p4ejnr/
+author:HomelandersHairgel
+subreddit:LifeProTips
+score:15899
+numComments:1001
+isOver18:False
+hasPostBody:False

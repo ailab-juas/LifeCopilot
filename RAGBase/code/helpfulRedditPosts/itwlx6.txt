@@ -1,0 +1,15 @@
+title:
+YSK that as a patient you may have access to your medical provider's visit notes. Many organizations have implemented "Open Notes" using their electronic health record and many more will follow suit this Fall with changes in insurance requirements.
+
+content:
+Why YSK: According to the OpenNotes organization and initiative having access to your notes improves patient compliance and increases provider accountability. As you can imagine it's a controversial topic among healthcare organizations and medical groups. To find out which organizations in your area have implemented Open Notes here's a link: [Open Notes Map](https://www.opennotes.org/join/map/)
+
+Edit: Impacts U.S. Healthcare Organizations only
+
+url:https://reddit.com/r/YouShouldKnow/comments/itwlx6/
+author:yourrenotthebossofme
+subreddit:YouShouldKnow
+score:12467
+numComments:387
+isOver18:False
+hasPostBody:True

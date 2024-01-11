@@ -1,0 +1,13 @@
+title:
+LPT: If you are considering buying an audiobook through Audible, first check if the Kindle edition is free on Amazon.
+
+content:
+If it is free, buy it. After you check out, look for an option to pair it with the audiobook. This is usually for a fee of around $3. I just saved $20 doing this.
+
+url:https://reddit.com/r/LifeProTips/comments/1pc5uk/
+author:pwndapanda
+subreddit:LifeProTips
+score:1456
+numComments:116
+isOver18:False
+hasPostBody:True

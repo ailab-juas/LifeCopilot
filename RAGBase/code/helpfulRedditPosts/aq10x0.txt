@@ -1,0 +1,13 @@
+title:
+LPT: If you like a lot of Parmesan cheese on your pasta, put it on the pasta and mix it around before you cover it in the sauce. Every noodle will be coated in cheese and covered in sauce. It will change your life.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/aq10x0/
+author:PolyunsaturatedBit
+subreddit:LifeProTips
+score:37490
+numComments:1269
+isOver18:False
+hasPostBody:False

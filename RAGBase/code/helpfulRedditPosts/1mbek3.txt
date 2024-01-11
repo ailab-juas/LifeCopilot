@@ -1,0 +1,13 @@
+title:
+LPT: Before giving advice, ask yourself, "Was my advice asked for?"
+
+content:
+Sometimes, people just want to vent. They're not looking for an immediate solution to their problem.
+
+url:https://reddit.com/r/LifeProTips/comments/1mbek3/
+author:ShiShoSha
+subreddit:LifeProTips
+score:1916
+numComments:412
+isOver18:False
+hasPostBody:True

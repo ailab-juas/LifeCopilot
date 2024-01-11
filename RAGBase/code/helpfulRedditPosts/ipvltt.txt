@@ -1,0 +1,13 @@
+title:
+LPT: Most wheat bread at the store isn’t whole grain - it’s just white bread with some marketing tricks on it. Look for the protected phrase “100% whole wheat” (in the USA) or check the nutrition facts. 16g of whole grain flour is considered “whole wheat.”
+
+content:
+https://youtu.be/AWYtpgRFrWs
+
+url:https://reddit.com/r/LifeProTips/comments/ipvltt/
+author:garrettgibbons
+subreddit:LifeProTips
+score:33449
+numComments:1455
+isOver18:False
+hasPostBody:True

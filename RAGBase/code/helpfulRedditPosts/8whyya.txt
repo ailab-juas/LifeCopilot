@@ -1,0 +1,13 @@
+title:
+LPT: If you're txting someone an address send it separately so it can be easily copy and pasted
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/8whyya/
+author:Noremac135
+subreddit:LifeProTips
+score:1579
+numComments:48
+isOver18:False
+hasPostBody:False

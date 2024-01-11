@@ -1,0 +1,17 @@
+title:
+YSK to train your pets for fires, too
+
+content:
+Why YSK?  In the USA, ~40,000 pets die in house fires each year.  ([American Veterinary Medical Association](https://www.avma.org/javma-news/2018-02-15/when-fire-strikes-home) - I had trouble finding numbers for other countries). 
+
+Many families do fire drills at some point.  But pets don't understand what's going on in an emergency, and if they haven't been desensitized to alarms or trained to come on command, they are likely to hide or run away in a panic when they hear the siren.  That makes rescuing them much harder.  
+
+If you have cats, they're very hard to find when they're hiding. A fire is not a good time for them to hide.  You can train them by sitting with lots of treats and pulsing your fire alarm with the test button. Start with a short pulse, give treats, gradually extend. There are guides online:  [this one is for dogs](https://www.clickertraining.com/node/1619).  [This one is for cats](https://www.catster.com/lifestyle/cat-health-protection-tips-disaster-preparedness-evacuation-kit-plan-cats) - some big takeaways for me were that most cats hide if you get out a carrier, but how else are you going to get them away from the fire safely?  Also they may not hear you over the siren.  These are things I hadn't thought about before they were pointed out to me.
+
+url:https://reddit.com/r/YouShouldKnow/comments/x8c1sx/
+author:lyssargh
+subreddit:YouShouldKnow
+score:4438
+numComments:197
+isOver18:False
+hasPostBody:True

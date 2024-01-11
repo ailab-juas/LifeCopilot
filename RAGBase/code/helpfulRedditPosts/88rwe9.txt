@@ -1,0 +1,15 @@
+title:
+YSK If you live in the United States and book a flight, you have 24 hours to refund it no questions asked.
+
+content:
+It’s the law, even for foreign airlines just tell them you live in the US and they will cancel it as long as you booked it within 24 hours even if their company policy doesn’t allow for refunds like most airlines.
+
+Edit: a word
+
+url:https://reddit.com/r/YouShouldKnow/comments/88rwe9/
+author:penguin_brigade
+subreddit:YouShouldKnow
+score:2840
+numComments:64
+isOver18:False
+hasPostBody:True

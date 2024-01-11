@@ -1,0 +1,13 @@
+title:
+LPT: When you get out of bed at night, close one eye when you turn on lights. When you go back to bed, you’ll be able to see with that eye when you turn the lights off.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/jp6b11/
+author:Kemilio
+subreddit:LifeProTips
+score:4548
+numComments:230
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,31 @@
+title:
+YSK: Unpaid internships where the employer derives any immediate benefit are Federally illegal. They are required to pay you if you do any real work.
+
+content:
+&gt;Here are the six criteria from the Department of Labor, all of which an unpaid internship must pass in order to be legal.
+
+&gt;1. The internship, even though it includes actual operation of the facilities of the employer, is similar to training which would be given in an educational environment.
+
+&gt;2. The internship experience is for the benefit of the intern.
+
+&gt;3. The intern does not displace regular employees, but works under close supervision of existing staff.
+
+&gt;4. The employer that provides the training derives no immediate advantage from the activities of the intern; and on occasion its operations may actually be impeded.
+
+&gt;5. The intern is not necessarily entitled to a job at the conclusion of the internship.
+
+&gt;6. The employer and the intern understand that the intern is not entitled to wages for the time spent in the internship.
+
+http://www.businessinsider.com/is-my-unpaid-internship-illegal-2013-6
+
+There have been many high profile lawsuits where unpaid interns have received compensation for their illegal employment. [Viacom settled for $7.2 million, and NBCUniversal for $6.4 million](http://www.latimes.com/entertainment/envelope/cotown/la-et-ct-viacom-settles-intern-lawsuit-20150312-story.html)
+
+If you feel like any of this applies to you, then I suggest you contact your State Bar and ask for a lawyer that specializes in employment law.
+
+url:https://reddit.com/r/YouShouldKnow/comments/6410ds/
+author:totalarkwar
+subreddit:YouShouldKnow
+score:12998
+numComments:527
+isOver18:False
+hasPostBody:True

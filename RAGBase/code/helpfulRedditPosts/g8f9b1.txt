@@ -1,0 +1,13 @@
+title:
+YSK that Google Earth has a built in flight simulator.
+
+content:
+In Google Earth, if you go to tools, and then click Enter Flight Simulator, you can fly anywhere on Earth. It even lets you fly underwater, on the moon, or on Mars
+
+url:https://reddit.com/r/YouShouldKnow/comments/g8f9b1/
+author:Danile2401
+subreddit:YouShouldKnow
+score:12833
+numComments:286
+isOver18:False
+hasPostBody:True

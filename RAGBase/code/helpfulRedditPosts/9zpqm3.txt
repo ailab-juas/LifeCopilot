@@ -1,0 +1,14 @@
+title:
+LPT: For a simple, inexpensive pleasure, sign up to be notified when the ISS appears over your town.
+
+content:
+https://spotthestation.nasa.gov/signup.cfm
+Turning off the porch lights help set the mood and if you have kids, remind them that the ISS is roughly the size of a football field and moving at around 17,500 mph or 28163.52 kph which is almost 8x the speed of a bullet. It is currently the most expensive thing ever built by science-minded, cooperating humans/nations.
+
+url:https://reddit.com/r/LifeProTips/comments/9zpqm3/
+author:imflukeskywalker
+subreddit:LifeProTips
+score:5771
+numComments:278
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: The moment someone you know mentions their birthday immediately add it to your google calendar as a recurring event.
+
+content:
+Make sure you time it to 10 minutes before 12am (or whatever time you wish people) so that you have 10 minutes to compose a nice wish for them or a small surprise. I can assure you they will really appreciate this and feel like you care :)
+
+url:https://reddit.com/r/LifeProTips/comments/iauumh/
+author:[deleted]
+subreddit:LifeProTips
+score:15585
+numComments:345
+isOver18:False
+hasPostBody:True

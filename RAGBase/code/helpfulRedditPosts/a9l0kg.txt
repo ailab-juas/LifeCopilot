@@ -1,0 +1,13 @@
+title:
+LPT: S is the "skip intro" hotkey on Netflix. A christmas gift from our home to yours.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/a9l0kg/
+author:c_a_s_i_o
+subreddit:LifeProTips
+score:66851
+numComments:1088
+isOver18:False
+hasPostBody:False

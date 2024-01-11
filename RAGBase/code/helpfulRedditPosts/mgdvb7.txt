@@ -1,0 +1,13 @@
+title:
+LPT: Want to start exercising, but don’t have any equipment? Do push ups. Start with 5 pushups in the morning when you wake up and 5 in the evening. Once you can do 5, increase in increments of 5 until you’re satisfied. Your arms will be sore when you start, but don’t give up!
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/mgdvb7/
+author:Drew_Ferran
+subreddit:LifeProTips
+score:33906
+numComments:1088
+isOver18:False
+hasPostBody:False

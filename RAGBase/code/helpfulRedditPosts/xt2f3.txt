@@ -1,0 +1,13 @@
+title:
+How to make a $2 alarm that protects your stuff
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/xt2f3/
+author:mike8902
+subreddit:LifeProTips
+score:1210
+numComments:115
+isOver18:False
+hasPostBody:False

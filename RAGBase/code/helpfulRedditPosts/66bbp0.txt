@@ -1,0 +1,13 @@
+title:
+LPT: When visiting elderly relatives ask them if they've met any new and/or exciting people recently, it could prevent them from being scammed
+
+content:
+Everyone knows scammers online prey on unsuspecting people targeting lonely and gullible people. Commonly elderly people get targeted most. Asking them about new people can reveal if they meet new people overseas who the family may not know. It may not stop an initial scam but it can prevent future ones.
+
+url:https://reddit.com/r/LifeProTips/comments/66bbp0/
+author:blong217
+subreddit:LifeProTips
+score:33044
+numComments:906
+isOver18:False
+hasPostBody:True

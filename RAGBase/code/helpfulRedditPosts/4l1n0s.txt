@@ -1,0 +1,29 @@
+title:
+LPT: Graduating seniors, backup your student email account data.
+
+content:
+It's not just emails, it's also usually all of your essays, notes, projects and a massive amount of photos/etc. that will likely be deleted soon and some schools terminate immediately after graduation.  
+
+If you're in high school, that stuff will be realllllly helpful in college.  If you're in college it will be really helpful getting a leg up on jobs, etc, just ALWAYS back up your stuff asap!  You never know what will be important in the future.
+
+EDIT:  For college, a lot of people have previous internship information, doctoral research, email addresses from the people they've network with only on their email accounts, I'm NOT saying an essay will get you a job, jesus.  Why is there backlash to saying have a backup?
+
+EDIT 2:  Holy bahjeez this thread blew up!  It's really sad to read the stories of lost data. (u/E4R)  There's a lot of suggestions, so I made a list of some of the highest voted: 
+
+- Some schools will delete your accounts, some won't but the general consensus is that still using your school email after graduation looks pretty tacky.  Also, check with your IT departments what your school's policies are.  Thanks to u/taschnewitz for some great suggestions there!  You can buy domains to look more professional if you're into that, pretty sure you can buy domains from Google Apps for Work with Drive space or just pay for an email client like pawnmail. 
+- If you have a Google account, you can use google takeout to export your stuff to a zip (but it also looks like it won't export your shared files and will take awhile depending on the size of your stuff) or pay for gradgopher to move your mail and drive to another google account quickly.  thanks u/ichifeet
+- For mail, it looks like you can do POP forwarding if you haven't already set up automatic forwarding and may be in your best interest to set up forwarding now if you're just starting out.  thanks u/Son_Of_A_Plumber
+- If you are signing up to websites/apps, make sure you're signing in with a personal account.  Managing those accounts with a student email that's deleted will be a pain.  Thanks u/Toysoldier34
+- Student discounts with your email are dope if you still have it.
+- looks like there are a lot of suggestions, but no consensus, decide what's best for you, but make sure you have your stuff safe (and it's probably safer in a personal cloud than locally on you hard drive.)
+- and thanks u/Gangrel13 for backing me up!
+
+
+
+url:https://reddit.com/r/LifeProTips/comments/4l1n0s/
+author:beebwo
+subreddit:LifeProTips
+score:4706
+numComments:460
+isOver18:False
+hasPostBody:True

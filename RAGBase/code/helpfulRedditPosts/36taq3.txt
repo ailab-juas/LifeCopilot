@@ -1,0 +1,27 @@
+title:
+LPT: a Word file, is a zip in disguise.
+
+content:
+Just rename your file from .docx to .zip and unzip. You will get a folder of all stuff inside the doc, like all the images and some crazy xml content.
+
+As a web developer, my clients often send stuff for me to place on their website, mostly in a doc with dozens of pages with images. I got tired of saving every single image from the doc. Too many clickz. Much carpel tunnel.
+
+This saves me a lot of time so I just had to share this awesome trick.
+
+(Don't know what specific versions support this trick, I tested with word for mac 2011. I think it also works with Powerpoint files.)
+
+Edit: Wow, this blew up! Let me express my feelings in a Haiku:  
+I got reddit gold.  
+Thank you all for the upvotes!  
+I can die in peace.  
+
+Edit2: Reformatted the haiku to support line breaks as suggested by /r/ConsummateK (mini-LPT: add 2 spaces behind your returns)
+
+
+url:https://reddit.com/r/LifeProTips/comments/36taq3/
+author:zipzoobitybop
+subreddit:LifeProTips
+score:5998
+numComments:1016
+isOver18:False
+hasPostBody:True

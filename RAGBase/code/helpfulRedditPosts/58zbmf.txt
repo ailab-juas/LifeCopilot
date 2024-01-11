@@ -1,0 +1,15 @@
+title:
+LPT: You can change the video bitrate of Netflix streaming if you just have video on as noise in the background while you work, drastically cutting the amount of data you use.
+
+content:
+With Netflix streaming up, press CTRL+ALT+Shift+S to bring up [this menu.](http://i.imgur.com/9gpmMtd.png)  From here, you can select a lower video (and/or audio) bitrate for playback and click "Override", drastically reducing the amount of data you use if you're barely paying attention to the video at all.
+
+With data caps now becoming the norm, I thought this may be useful to some people.
+
+url:https://reddit.com/r/LifeProTips/comments/58zbmf/
+author:FrankReynolds
+subreddit:LifeProTips
+score:1278
+numComments:85
+isOver18:False
+hasPostBody:True

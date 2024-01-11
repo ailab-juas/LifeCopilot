@@ -1,0 +1,15 @@
+title:
+YSK - There is an app called "Overdrive" that allows you to check out ebooks and audiobooks for free from certain local libraries.
+
+content:
+Get your reading fix! Library card required, of course. If yours isn't listed, ask! Librarians are often super interested in staying technologically up-to-date.  
+  
+App is confirmed for Android and iOS, and Windows.
+
+url:https://reddit.com/r/YouShouldKnow/comments/4oz9zs/
+author:lenbedesma
+subreddit:YouShouldKnow
+score:2811
+numComments:183
+isOver18:False
+hasPostBody:True

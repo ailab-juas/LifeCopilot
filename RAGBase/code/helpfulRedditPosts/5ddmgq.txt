@@ -1,0 +1,17 @@
+title:
+YSK You can learn basic programming online, with an interactive tutorial
+
+content:
+Here's a pretty soft way to get introduced to basic programming, with Ruby.
+
+Good for those curious about ruby, or just programming in general.
+
+http://tryruby.org/levels/1/challenges/0
+
+url:https://reddit.com/r/YouShouldKnow/comments/5ddmgq/
+author:xheist
+subreddit:YouShouldKnow
+score:3913
+numComments:172
+isOver18:False
+hasPostBody:True

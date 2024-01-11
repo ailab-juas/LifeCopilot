@@ -1,0 +1,13 @@
+title:
+LPT: Do NOT look at your phone first thing when you wake up. You are immediately starting the pattern getting instant gratification, which can take over a day with Youtube, Twitter, Reddit, etc. Instead start with something more productive like 10 pushups, cleaning your room, meditation, etc.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/gj0c0l/
+author:[deleted]
+subreddit:LifeProTips
+score:7575
+numComments:320
+isOver18:False
+hasPostBody:False

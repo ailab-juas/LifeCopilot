@@ -1,0 +1,13 @@
+title:
+LPT: Don’t just follow a recipe. Look up a few recipes for the same dish. What’s in common is needed for the food science. What isn’t in common is optional/customizable.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/rx3if4/
+author:[deleted]
+subreddit:LifeProTips
+score:1776
+numComments:92
+isOver18:False
+hasPostBody:True

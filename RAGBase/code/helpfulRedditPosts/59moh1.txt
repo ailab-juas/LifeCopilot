@@ -1,0 +1,25 @@
+title:
+LPT: Use Google Hangouts or Skype as a cheap baby monitoring method
+
+content:
+In many cases folks have multiple devices these days, and several Gmail accounts.  My wife and I bought a baby monitor that we mounted in the nursery, however, we find that there are many times when we're not in the nursery and the baby is passed out, where we want to go into another room without waking the baby to move her, and setting up a quick Hangouts session to keep an eye on her has been a life saver.
+
+Stupid obvious solution, but it didn't click for us for the first few days and I wanted to share.  Forgive any bad grammar as it's 3am, and I'm running on fumes.  
+
+Edit: 
+After reading some of the comments, I wanted to clarify a few things about my post:
+1.) I don't think that you should buy two smart devices to replace a baby monitor, doesn't make fiscal sense.  This was moreso for folks who have a few devices around the house (laptop(s), phone(s), tablet(s), etc.)
+2.) I don't think one should rely on Skype/Hangouts necessarily for long periods of time monitoring their baby.
+3.) I don't think you should do this (or maybe go on the internet more generally) if you're not familiar with securing your network.  I took that as a given.
+
+The reason I thought this may be useful, is that we have no bathroom on our first floor, and that's where the living room is.  When we're down there, which is most of the daytime hours, and the baby goes to sleep, and we need to run to the bathroom, or want to do laundry or something like that, it prevents us from running the steps a bunch of times to check on the baby.  
+
+A good free little piece of mind for those who have the tools for the job (solid wifi, smart devices, etc.).
+
+url:https://reddit.com/r/LifeProTips/comments/59moh1/
+author:GizMo_SANHEDRON
+subreddit:LifeProTips
+score:1910
+numComments:170
+isOver18:False
+hasPostBody:True

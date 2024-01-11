@@ -1,0 +1,13 @@
+title:
+LPT: Got a hangover? Drink Pedialyte.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/38j7ur/
+author:Babyfart_McGeezacks
+subreddit:LifeProTips
+score:1154
+numComments:562
+isOver18:False
+hasPostBody:False

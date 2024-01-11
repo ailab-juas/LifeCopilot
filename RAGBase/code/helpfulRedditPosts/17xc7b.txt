@@ -1,0 +1,13 @@
+title:
+LPT: You thought a tarp was just used for covering up the rubbish on the way to the dump
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/17xc7b/
+author:Frankeh1
+subreddit:LifeProTips
+score:1420
+numComments:209
+isOver18:False
+hasPostBody:False

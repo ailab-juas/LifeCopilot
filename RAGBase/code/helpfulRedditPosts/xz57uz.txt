@@ -1,0 +1,15 @@
+title:
+YSK dishwasher pods contain PVA, a type of plastic that can contaminate groundwater
+
+content:
+https://www.forbes.com/sites/jeffkart/2021/08/08/study-says-up-to-75-of-plastics-from-detergent-pods-enter-the-environment-industry-says-they-safely-biodegrade/
+
+Why YSK: the home goods industry markets these as biodegradable. However, that's only at certain temperatures/conditions, which wastewater treatment plants typically don't meet. The result is more plastics in our groundwater (and potentially a plastic film on your dishes).
+
+url:https://reddit.com/r/YouShouldKnow/comments/xz57uz/
+author:PanickedPoodle
+subreddit:YouShouldKnow
+score:10776
+numComments:760
+isOver18:False
+hasPostBody:True

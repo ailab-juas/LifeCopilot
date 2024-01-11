@@ -1,0 +1,15 @@
+title:
+Hold Ctrl then press the number that corresponds with the tab you want to switch to.
+
+content:
+e.g. Ctrl +3 will go to the 3rd tab open, in Chrome at least
+
+edit: front page yay!
+
+url:https://reddit.com/r/YouShouldKnow/comments/155una/
+author:thatguyinfront
+subreddit:YouShouldKnow
+score:1705
+numComments:144
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Write the breaker number on the inside of outlet/light switch covers.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/30j9l7/
+author:Captain_Nightlight
+subreddit:LifeProTips
+score:1095
+numComments:114
+isOver18:False
+hasPostBody:False

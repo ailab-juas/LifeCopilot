@@ -1,0 +1,13 @@
+title:
+LPT: When you check a company’s Glassdoor, pay attention to the date of the reviews. If you notice a lot of good reviews in a short time frame, that means HR sent out a bulletin to internal employees to write artificially inflated reviews for the company
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/rxvtwm/
+author:BillyMinerPie99
+subreddit:LifeProTips
+score:6554
+numComments:151
+isOver18:False
+hasPostBody:False

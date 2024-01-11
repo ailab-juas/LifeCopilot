@@ -1,0 +1,13 @@
+title:
+[YSK] How to peel a potato(as found on r/funny)
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/rw9qv/
+author:Svamp
+subreddit:YouShouldKnow
+score:1034
+numComments:137
+isOver18:False
+hasPostBody:False

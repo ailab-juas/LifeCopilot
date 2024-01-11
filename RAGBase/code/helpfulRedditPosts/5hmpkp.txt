@@ -1,0 +1,24 @@
+title:
+LPT: Write down all your thoughts. Your mind is for creating ideas, not storing them.
+
+content:
+Whatever idea or task you have, write it down somewhere. Once you have written everything down, your mind becomes decluttered and free from distractions. Since you know that your thoughts are safely stored somewhere, it removes the incessant feeling of “I need to remember… something” in your brain. This makes you completely focus on the task at hand.
+
+Edit: Holy shit, blew up  
+Edit 2: If you want a more detailed strategy than just simply "writing it down", be sure to read this this book by David Allen: https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280  
+Edit 3: Some people do not seem to understand this post. I mean write down all your **good** ideas and tasks, not things like "I really hate getting stuff stuck in my teeth" or "I should always put hot sauce on my pizza". Sigh.  
+Edit 4: Google Keep is a fantastic app for this.  
+Edit 5: [This workflow diagram has made my life so much easier](https://blog.altova.com/wp-content/uploads/GTD.png)  
+Edit 6: To quote one of the comments which explains my post pretty well:  *"I get very scatter brained and frustrated the more tasks I keep saying I need to get to. Usually a million little small odd jobs that don't require any real effort to complete but also easy to put off by not being urgent either.
+Eventually my mind feels stressed and cluttered and it takes a toll on my ability to think and be productive. Like my mind is expending effort to remember so many little tasks.
+When I write EVERYTHING down, and I mean everything, my mind feels a million times lighter because I can forget it all and let go - the thoughts are on paper, not in my head, so I don't have to remember them. When I feel productive I just grab the list and knock some tasks off. When new things come up I add to the list.
+It's one of the VERY few things that GENUINELY helps my mind feel better and less stressed.
+Seriously give it a try if you feel a heavy mind. Hopefully you'll get as much benefit as I do from it."*
+
+url:https://reddit.com/r/LifeProTips/comments/5hmpkp/
+author:MaverickSwagger
+subreddit:LifeProTips
+score:9996
+numComments:414
+isOver18:False
+hasPostBody:True

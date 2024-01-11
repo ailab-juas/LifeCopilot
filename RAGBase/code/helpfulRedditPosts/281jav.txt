@@ -1,0 +1,22 @@
+title:
+LPT: Press Shift+F2 and type "screenshot" to capture a webpage in Firefox without your tabs and bars
+
+content:
+I've seen a number of Reddit posts today where people have taken a screenshot of something on a webpage, but have included their tabs and other bars - sometimes even other windows - in the shot. This leads to a complete derailment of the thread when the top comment ends up being "Why is '[insert curiosity here]' in your search bar" or "Why are you looking at '[insert strange webpage here]'", referring to another of the user's tabs.
+
+There are other commands available in the Shift+F2 command line:
+
+* **screenshot** - takes a screenshot of the current viewport
+* **screenshot --fullpage** - takes a screenshot of the entire webpage top to bottom
+* **screenshot --clipboard** - takes a screenshot, but copies to your cliboard rather than saving as a file
+* **eyedropper** - turns your cursor into a tool for selecting the colour of individual pixels on the page, useful for web developers
+* **restart** - restarts firefox
+* **help** - shows all the commands available
+
+url:https://reddit.com/r/LifeProTips/comments/281jav/
+author:ant59
+subreddit:LifeProTips
+score:1414
+numComments:199
+isOver18:False
+hasPostBody:True

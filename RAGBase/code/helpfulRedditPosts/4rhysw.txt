@@ -1,0 +1,13 @@
+title:
+LPT: Use cable ties to lock your checked luggage. If someone opens it they can't reattach it and you know it had been opened.
+
+content:
+Use a TSA lock on top of that.
+
+url:https://reddit.com/r/LifeProTips/comments/4rhysw/
+author:iamniceifyouare
+subreddit:LifeProTips
+score:2640
+numComments:1724
+isOver18:False
+hasPostBody:True

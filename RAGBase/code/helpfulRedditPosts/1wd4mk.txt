@@ -1,0 +1,13 @@
+title:
+YSK that if you make less than $50,000 a year, you can get your taxes done for free at a Volunteer Income Tax Assistance (VITA) site instead of paying a fee at a place like H&amp;R Block.
+
+content:
+You can call 211 or 311 to find out where the sites are in your city. Every year many people are lured into paying to get their taxes done because they are unaware that the IRS sponsors these free assistance services in most cities.
+
+url:https://reddit.com/r/YouShouldKnow/comments/1wd4mk/
+author:gam32bit
+subreddit:YouShouldKnow
+score:2264
+numComments:234
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+YSK: A company offering a "lifetime" membership or warranty is more likely for the lifetime of the company, not you. Keep that in mind before you buy
+
+content:
+Why YSK: I had a "lifetime" membership to a company that offered an "unlimited" amount of classes I could take free of charge. It just went bankrupt, and while it was bought by another company, my membership was converted to one for the parent company that expires after two years. Keep that in mind when shopping, and if you can, try to estimate how long you think the company will be in business for.
+
+url:https://reddit.com/r/YouShouldKnow/comments/zf8xut/
+author:hahncholo
+subreddit:YouShouldKnow
+score:2423
+numComments:107
+isOver18:False
+hasPostBody:True

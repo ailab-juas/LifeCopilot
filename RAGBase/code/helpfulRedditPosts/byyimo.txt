@@ -1,0 +1,17 @@
+title:
+YSK that your auto insurance most likely won’t cover you for delivering food
+
+content:
+Food delivery(and delivery of goods/people in general) is typically considered business use and therefore excluded under most personal auto policies and **they will not pay out if you have an accident while using for delivery**. This would require a commercial auto policy.    
+     
+Edit: Yes, you can [just lie](https://en.m.wikipedia.org/wiki/Insurance_fraud). Just keep in mind insurance companies have entire departments trying to figure out whether you are and the penalty for fraud between $300 and $10,000 is a Class 3 felony, punishable by a minimum of two years in prison and up to five years, along with a fine of up to $25,000. You can also murder, steal, or do any number of illegal things as long as you don’t get caught.     
+     
+Edit 2: Sorry if this isn’t this isn’t applicable in your state. This is 100% the case in mine.
+
+url:https://reddit.com/r/YouShouldKnow/comments/byyimo/
+author:BreakStep_x
+subreddit:YouShouldKnow
+score:5730
+numComments:477
+isOver18:False
+hasPostBody:True

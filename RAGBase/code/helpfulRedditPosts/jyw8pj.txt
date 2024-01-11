@@ -1,0 +1,13 @@
+title:
+LPT: If you get a good haircut, after thanking the person who did it, take a series of selfies. That way, the next time you go in you can just show them how you want it to look instead of fumbling around trying to give instructions.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/jyw8pj/
+author:m77w
+subreddit:LifeProTips
+score:3126
+numComments:106
+isOver18:False
+hasPostBody:False

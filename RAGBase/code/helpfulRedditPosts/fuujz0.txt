@@ -1,0 +1,21 @@
+title:
+YSK: If you’re using Libby to borrow ebooks and audiobooks from your library, you should also “return early” when you’re done, so someone else can gain access sooner.
+
+content:
+On Libby, go to
+
+&gt; Shelf
+
+&gt; Manage Loan
+
+&gt; Return Early
+
+&gt; Return
+
+url:https://reddit.com/r/YouShouldKnow/comments/fuujz0/
+author:SmileFirstThenSpeak
+subreddit:YouShouldKnow
+score:23563
+numComments:625
+isOver18:False
+hasPostBody:True

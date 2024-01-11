@@ -1,0 +1,21 @@
+title:
+YSK that income tax brackets are applied on the margin. Earning enough to reach a higher tax bracket doesn't mean you're losing money compared to being at the top of the previous lower tax bracket.
+
+content:
+It stumps me that I keep meeting people who earn 6 and 7 figures who don't understand this. I see people earning millions who are genuinely convinced that *all* of their income is being taxed at the rate of the highest bracket, and that it's unfair that Joe Shmoe earning $25k is being taxed less.
+
+Follow this link:
+
+https://en.wikipedia.org/wiki/Income_tax_in_the_United_States#Marginal_tax_rates_for_2015
+
+Your first $9k is always taxed at 10%, even if you earn enough to put you in the highest tax bracket. You do not lose money by crossing a tax bracket threshold.
+
+The Wikipedia link is for the US, but income tax is applied this way in nearly every country I know.
+
+url:https://reddit.com/r/YouShouldKnow/comments/3n38f2/
+author:SushiAndWoW
+subreddit:YouShouldKnow
+score:1823
+numComments:179
+isOver18:False
+hasPostBody:True

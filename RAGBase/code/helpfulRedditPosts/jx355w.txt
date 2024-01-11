@@ -1,0 +1,17 @@
+title:
+LPT: When using superglue, use a very small amount on one surface and a very small amount of water on the other. It will bond immediately.
+
+content:
+Superglue cures by reacting with water. This is why it sticks your fingers instantly to whatever you are gluing but not the two plastic parts you are trying to glue...it reacts with the moisture in your skin. 
+
+To effectively use superglue, use just enough to create a thin film on one surface being glued. Most people use way too much and it results in a slow set time and poor bond. Dampen the other surface with water. 
+
+When the two surfaces come in contact with each other, the water will react with the superglue and bond instantly. You should then leave the newly glued object supported and still for another 10 minutes to allow the bonding to finish before applying any pressure to it.
+
+url:https://reddit.com/r/LifeProTips/comments/jx355w/
+author:Greatgobbldygook
+subreddit:LifeProTips
+score:18180
+numComments:482
+isOver18:False
+hasPostBody:True

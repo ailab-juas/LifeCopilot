@@ -1,0 +1,32 @@
+title:
+YSK the 3-2-1 rule of backing up your stuff
+
+content:
+There have been a few posts around Reddit today (and everyday) about people losing their most precious photos/work projects/homework assignments, etc. because their phone was dropped in the toilet, or their [computer was thrown across the room](https://np.reddit.com/r/pcmasterrace/comments/400roj/friends_dad_threw_his_pc_on_the_floor/), or their [laptop was stolen](https://np.reddit.com/r/todayilearned/comments/3zxt33/til_in_2011_skrillex_lost_an_entire_unreleased/). These incidents, while tragic, do not have to mean the end of all your data if you follow the simple 3-2-1 rule:
+
+* 3 copies of your important files
+* 2 different formats (or places)
+* 1 of those being offsite
+
+One copy of your data is never enough. A theft, a hardware failure, or any other tragedy could be the end of all your data. Once it's gone, it's gone.
+
+Onsite backups, like what you get with Time Machine or other services like that are great, and can protect you from a hardware failure. They're especially nice to have because it can take a long time to restore data over the Internet, especially if there's lots of it. But in case of a house fire or thorough burglary, you're going to be out of luck yet again. 
+
+That third (offsite) copy is where you get the final bit of protection. You want that backup to be far from you, so just in case your home gets [hit by a fighter jet](https://a248.e.akamai.net/f/1202/1579/4m/i.dailymail.co.uk/i/pix/2012/04/06/article-2126223-127F0A1C000005DC-304_964x709.jpg) (or just a regular fire). There are lots of services that you can use to pay a minimal monthly fee to backup your data. Here's a short list:
+
+* [Crashplan](https://www.code42.com/crashplan/)
+* [Backblaze](https://www.backblaze.com/)
+* [Mozy](https://mozy.com/)
+* [Carbonite](http://www.carbonite.com/)
+
+I personally use Crashplan, and pay about $4/month for the peace of mind that, should anything happen to my home, and my laptop, and my desktop, I won't lose everything. I started paying when I was working on my dissertation, because there was no way I was going to be the guy who got 150 pages into it and lost it all to some freak accident.
+
+EDIT: Clarify $4/month for Crashplan.
+
+url:https://reddit.com/r/YouShouldKnow/comments/403cku/
+author:phalangion
+subreddit:YouShouldKnow
+score:1584
+numComments:219
+isOver18:False
+hasPostBody:True

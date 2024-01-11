@@ -1,0 +1,13 @@
+title:
+LPT restore original performance of iOS devices with depleted batteries by changing your region to France in settings.
+
+content:
+Thanks to litigation Apple had to enable full performance on iOS devices in France despite battery decay. Change your device’s region settings to France and you can get it anywhere. Only downside is your battery does indeed drain a lot faster as the whole point of it was to lessen the impact of battery decay.
+
+url:https://reddit.com/r/LifeProTips/comments/pmnbwp/
+author:your-nibba
+subreddit:LifeProTips
+score:5500
+numComments:285
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,35 @@
+title:
+LPT: be very cautious when working with recruiters, they are not your friend and many will not hesitate to exploit you.
+
+content:
+This post in particular is referencing job recruiters at staffing firms, who are recruiting for companies other than their own.
+
+A few years ago I worked as a technical recruiter. We would receive job requisitions which detailed the position, these requisitions came from large tech companies. Then as a recruiter it was my job to go on job boards such as Indeed, Monster, etc and look through resumes and find someone who would be a good fit for the position. 
+
+We would call and email any and all potential candidates to get them to apply for the position through the staffing firm.
+
+That sounds good right? Well this is where all good thoughts are thrown out the window.
+
+If one of the recruits gets the job, then their salary comes through the staffing firm, not the company they are working at. 
+
+This might differ between staffing firms but they have what are known as pay rates and base rates. The pay rate is what is listed on the job requisition form. This is what the company would roughly pay the recruit if they worked for the company directly (maybe a little lower). The base rate is the salary the recruiter tells you. 
+
+The base rate is always lower than then pay rate due to other fees and costs. That is standard. However recruiters are encouraged by their companies to get people into jobs are the lowest possible rate. Furthermore the actual pay rate is never disclosed to the recruit. This is because the staffing firm and the recruiter earn the difference between the pay rate and base rate. 
+
+The final straw for me was when one of my co-workers successfully recruited a veteran to a high paying position with a pay rate of $65 an hour. The recruiter convinced the recruit to take the job at $25 an hour. So for every hour the veteran worked the staffing agency would earn roughly $30. 
+
+Instead of reprimanding the recruiter for taking such blatant advantage of someone, the recruiter was paraded around the office in celebration. 
+
+I'm sure that their are staffing firms that encourage more ethical practices but their are also ones like what I described above. 
+
+In conclusion, if you are ever contacted by a recruiter be very cautious and don't get drawn into their sweet talk. They will talk you up and make you think that they are your friend, but they just want you for money. So if you do take a job from a recruiter push for a higher salary and then do it a few more times.
+
+Tl;dnr: when working with recruiters be very careful as they will manipulate you and take advantage of you.
+
+url:https://reddit.com/r/LifeProTips/comments/9j65uo/
+author:tallkidinashortworld
+subreddit:LifeProTips
+score:2687
+numComments:253
+isOver18:False
+hasPostBody:True

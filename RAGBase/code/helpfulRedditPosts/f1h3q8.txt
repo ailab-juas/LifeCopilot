@@ -1,0 +1,19 @@
+title:
+LPT: When copying text from the web, for top security always paste it first into Notepad.
+
+content:
+If there is anything hidden in what you've copied, Notepad ignores it and strips it down to naked and safe text.  Then you can copy and paste confidently from the Notepad text form of what you copied off the web.
+
+LPT 2
+
+When copying text for the web, for top security always paste it first into Notepad.
+
+If there is anything hidden in what you've copied, Notepad ignores it and strips it down to naked and safe text.  Then you can copy and paste confidently from the Notepad text form of what you copied for the web.
+
+url:https://reddit.com/r/LifeProTips/comments/f1h3q8/
+author:Nee_Nihilo
+subreddit:LifeProTips
+score:3007
+numComments:200
+isOver18:False
+hasPostBody:True

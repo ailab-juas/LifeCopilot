@@ -1,0 +1,13 @@
+title:
+YSK: Driving on a road covered in wet leaves is similar to driving on ice due to lack of traction. Be safe out there
+
+content:
+I've had many a time spinning tires while driving up my leaf-covered, hilly driveway. Don't think that just because its not frozen, your tires will have grip.
+
+url:https://reddit.com/r/YouShouldKnow/comments/9we4oy/
+author:Smash_4dams
+subreddit:YouShouldKnow
+score:9217
+numComments:160
+isOver18:False
+hasPostBody:True

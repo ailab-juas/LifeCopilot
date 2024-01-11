@@ -1,0 +1,13 @@
+title:
+LPT: Put a sticker with a fake PIN number on your debit card. Make the numbers hard to read. If you lose it and someone tries to use it (3+ times) the terminal will lock your account and eat the card.
+
+content:
+For instance, if you make a 1 look like either a 1 or 7  and/or a 4 look like either a 4 or 9, the person trying to use it will keep trying to use it til it locks as they will not be sure if they are entering the PIN correctly.
+
+url:https://reddit.com/r/LifeProTips/comments/1l243u/
+author:fluffitude
+subreddit:LifeProTips
+score:2453
+numComments:621
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Confidently understanding and properly making known you don't know the answer to a question is leagues better than trying to meander your way into a fake answer or straight up lying.
+
+content:
+Edit: I also believe saying, "I'm not sure, but let me find the answer for you" is definitely a great way to explain that you don't know the answer in a professional/work environment.
+
+url:https://reddit.com/r/LifeProTips/comments/8ksr3a/
+author:luckypokes
+subreddit:LifeProTips
+score:29616
+numComments:699
+isOver18:False
+hasPostBody:True

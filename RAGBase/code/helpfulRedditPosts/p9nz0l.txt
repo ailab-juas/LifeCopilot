@@ -1,0 +1,27 @@
+title:
+LPT: If you live in California, manufacturers of most household electronic goods that sell for more than $100 have to provide spare parts for up to seven years, regardless of warranty status. If they can't make the parts available to you, they have to buy the product back from you.
+
+content:
+**Edit - A correction to the title: it’s a** ***wholesale*** **price of $100 or more and they have to either replace it with a like or better product OR buy it back from you.**
+
+**Edit 2** \- wow this blew up. Edited my point about this being ethical as others have correctly commented that just because something is legal does not mean it's ethical. Also, If you are a lawyer or similar and find a factual error with any of this, please let me know and I'll update the post with your advice. Particularly curious as to how best to enforce and how much they'd have to refund if they no longer make parts in the case of something like a cell phone or other electronics.
+
+Descriptive article here: [https://www.latimes.com/business/la-fi-lazarus-20151211-column.html](https://www.latimes.com/business/la-fi-lazarus-20151211-column.html)
+
+Section of the law itself:
+
+&gt;(b) Every manufacturer making an express warranty with respect to an electronic or appliance product described in subdivision (h), (i), (j), or (k) of Section 9801 of the Business and Professions Code, with a wholesale price to the retailer of one hundred dollars ($100) or more, shall make available to service and repair facilities sufficient service literature and functional parts to effect the repair of a product for at least seven years after the date a product model or type was manufactured, regardless of whether the seven-year period exceeds the warranty period for the product [https://leginfo.legislature.ca.gov/faces/codes\_displayText.xhtml?lawCode=CIV&amp;division=3.&amp;title=1.7.&amp;part=4.&amp;chapter=1.&amp;article=3](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=CIV&amp;division=3.&amp;title=1.7.&amp;part=4.&amp;chapter=1.&amp;article=3).
+
+For example, it's highly unlikely that cell phone manufacturers will make original batteries available for purchase 7 years after the last phone of that model was manufactured. Given all their talk about how "NoN OrIgInAl BaTtErIeS WiLl SeT yOuR hOuSe On FiRe AnD kIlL bAbY sEaLs", let's turn the tables on 'em. Many high-end smartphones cost several hundred dollars or more: you could get a nice return for a couple of hours of work. (**Edit 3**: [not sure if this applies to cell phones](https://www.reddit.com/r/LifeProTips/comments/p9nz0l/lpt_if_you_live_in_california_manufacturers_of/h9zy0j5?utm_source=share&amp;utm_medium=web2x&amp;context=3), thanks u/PM_Me_Your_Deviance for pointing this out) This could apply to all sorts of things, including robot vacuums, laptops, TVs, etc.
+
+This is both legal (it's literally the law) and ethical (we should be repairing products if they are otherwise still useful, not tossing them due to the manufacturer's planned obsolescence).
+
+I'm posted this because the battery in my Samsung vacuum is failing. They used to sell the user-replaceable part separately for \~$90, now the only way to get it is to send it in for a $199 service + shipping. Fuck Samsung.
+
+url:https://reddit.com/r/LifeProTips/comments/p9nz0l/
+author:chrisgagne
+subreddit:LifeProTips
+score:49423
+numComments:912
+isOver18:False
+hasPostBody:True

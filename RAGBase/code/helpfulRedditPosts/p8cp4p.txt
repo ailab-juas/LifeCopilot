@@ -1,0 +1,17 @@
+title:
+LPT: The first 10% of any oral or written presentation (even informal ones) usually tends to be uninformative, introductory jibber-jabber. Learn to grab your audience immediately by trimming away your 10%, getting right to the main point, and THEN elaborating.
+
+content:
+The "10% Rule" was established for YouTube instructional videos, meaning you can always skip the first 10% of the video without missing any of the real content. It's the same with work presentations, written works, news articles, etc. You can almost always afford to skip the first 10%. 
+
+You can also use this to your advantage as a presenter yourself. Since people expect to be a bit bored in the beginning, eased into the material, coming in with something meaningful right away will really grab their attention and they are much more likely to listen to the rest of the way (as long as you don't become longwinded and boring thereafter, remember to keep things lean throughout).
+
+This is good even for something less formal like a "tell me about yourself" type question at a job interview, or when you need someone's help from customer service or IT - get to the point right away, THEN add the details.
+
+url:https://reddit.com/r/LifeProTips/comments/p8cp4p/
+author:zazzlekdazzle
+subreddit:LifeProTips
+score:1884
+numComments:49
+isOver18:False
+hasPostBody:True

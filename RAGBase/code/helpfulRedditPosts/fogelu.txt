@@ -1,0 +1,14 @@
+title:
+LPT: Sick of Youtube recommendations / channel ads ruining the last ten seconds of the video? Add these two lines to your adblocker's filter.
+
+content:
+    www.youtube.com##.ytp-ce-covering-overlay
+    www.youtube.com##.ytp-ce-element-show
+
+url:https://reddit.com/r/LifeProTips/comments/fogelu/
+author:ItsDominare
+subreddit:LifeProTips
+score:3204
+numComments:133
+isOver18:False
+hasPostBody:True

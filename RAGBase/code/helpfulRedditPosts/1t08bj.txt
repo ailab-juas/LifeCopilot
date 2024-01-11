@@ -1,0 +1,13 @@
+title:
+LPT:If you find it necessary to store things in your kitchen stove, remove the temperature knob, and place it inside the stove with the stored items.
+
+content:
+This will force you to remember the stuff inside the oven, and not preheat your mothers 60 dollar tupperware set.
+
+url:https://reddit.com/r/LifeProTips/comments/1t08bj/
+author:Cannedbeans
+subreddit:LifeProTips
+score:2366
+numComments:556
+isOver18:False
+hasPostBody:True

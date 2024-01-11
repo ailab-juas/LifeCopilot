@@ -1,0 +1,18 @@
+title:
+LPT: You can request your FBI file for free.
+
+content:
+The Privacy Act allows U.S. citizens and lawfully admitted aliens to request information on themselves or another living person.
+
+Visit:
+https://www.fbi.gov/services/records-management/foipa/requesting-fbi-records
+
+Under the Privacy Act Request section you are given the option to request the records online or via mail. I’m interested to see what the FBI thinks about me. 
+
+url:https://reddit.com/r/LifeProTips/comments/7zl5rq/
+author:Twelveplus87equals7
+subreddit:LifeProTips
+score:1356
+numComments:229
+isOver18:False
+hasPostBody:True

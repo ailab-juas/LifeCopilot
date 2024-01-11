@@ -1,0 +1,17 @@
+title:
+LPT: HALT stands for hungry, angry, lonely and tired, and you should never make a big decision if you are any of these things.
+
+content:
+Important decisions in life should not be made when emotions are high. 
+
+When your mind is not thinking clearly and a big decision can wait, it's best to wait 72 hours for you to reach a more rational state of mind.
+
+If after three days, you still want to quit your job, buy that expensive car or move to another country, then start the process.
+
+url:https://reddit.com/r/LifeProTips/comments/nfv99j/
+author:humblecuriosity
+subreddit:LifeProTips
+score:23381
+numComments:932
+isOver18:False
+hasPostBody:True

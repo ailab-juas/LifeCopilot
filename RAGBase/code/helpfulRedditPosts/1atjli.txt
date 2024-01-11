@@ -1,0 +1,13 @@
+title:
+YSK: Get a real egg on any McDonald's breakfast sandwich, not the folded-up yellow thing. Just ask for a "round egg".
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/1atjli/
+author:YellowSharkMT
+subreddit:YouShouldKnow
+score:1137
+numComments:232
+isOver18:False
+hasPostBody:False

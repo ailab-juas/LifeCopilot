@@ -1,0 +1,13 @@
+title:
+LPT: If you work a sedentary office job, be sure to take a break every 30 - 45 minutes to stand up, stretch, and walk around. This can help prevent "computer hunch" and overuse injuries
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/4lvqrp/
+author:Awards_from_Army
+subreddit:LifeProTips
+score:1039
+numComments:116
+isOver18:False
+hasPostBody:False

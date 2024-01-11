@@ -1,0 +1,18 @@
+title:
+YSK that NASA will email you and let you know when and where the International Space Station will pass over your house. Just type in your zip code.
+
+content:
+http://spotthestation.nasa.gov/
+
+Just by paying attention to my email, my kids and I have seen the Space Station on three different occasions. 
+
+It's cool to see. Honest. 
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/2t2y08/
+author:Mongo1021
+subreddit:YouShouldKnow
+score:1989
+numComments:97
+isOver18:False
+hasPostBody:True

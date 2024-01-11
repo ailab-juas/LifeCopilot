@@ -1,0 +1,13 @@
+title:
+LPT: The app 'Freerice' is a quiz app run by the United Nations. Every time you get a question right, it generates money to fund food where it is needed the most. The app is totally free, runs on ads and the amount of money you've raised is represented by how many grains of rice it could purchase.
+
+content:
+This is a really great way to help people in need if you're in a difficult place financially :)
+
+url:https://reddit.com/r/LifeProTips/comments/idu14f/
+author:turnipscout
+subreddit:LifeProTips
+score:2071
+numComments:110
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: The sooner you realize life is about finding positive coping mechanism for boredom and stress, and not about finding perfection, the happier you’ll be.
+
+content:
+(Edit) I Keep learning this the hard way. You shouldn’t.
+
+url:https://reddit.com/r/LifeProTips/comments/r68en1/
+author:aaronbein
+subreddit:LifeProTips
+score:18877
+numComments:414
+isOver18:False
+hasPostBody:True

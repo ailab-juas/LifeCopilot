@@ -1,0 +1,13 @@
+title:
+LPT: College students; download any lecture notes and PowerPoints used in a class and create a folder for each class. These can be very useful if the class is a prerequisite for upper division courses, and can be used to refresh your memory.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/gioh17/
+author:StrandedRipper
+subreddit:LifeProTips
+score:9413
+numComments:190
+isOver18:False
+hasPostBody:False

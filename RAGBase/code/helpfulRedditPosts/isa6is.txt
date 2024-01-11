@@ -1,0 +1,15 @@
+title:
+YSK When driving in the rain your lights should be on.
+
+content:
+Why YSK: It’s not for you to see the road, it’s for other drivers to see you. This is especially true in heavy rain, particularly if you pull over and wait out the storm. 
+
+If your wipers are active, your lights should be on.
+
+url:https://reddit.com/r/YouShouldKnow/comments/isa6is/
+author:troutbum13
+subreddit:YouShouldKnow
+score:1391
+numComments:136
+isOver18:False
+hasPostBody:True

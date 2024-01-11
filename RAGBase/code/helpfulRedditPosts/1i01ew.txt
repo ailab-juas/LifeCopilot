@@ -1,0 +1,21 @@
+title:
+YSK that if you want to watch a YouTube video with age restriction, which requirers you to log in, you can type 'boo' in front of 'youtube' in the URL.
+
+content:
+For example:
+
+http://www.youtube.com/watch/?v=N-xHcvug3WI
+
+becomes
+
+http://www.booyoutube.com/watch/?v=N-xHcvug3WI
+
+and you're free to watch the video without logging in.
+
+url:https://reddit.com/r/YouShouldKnow/comments/1i01ew/
+author:LG193
+subreddit:YouShouldKnow
+score:1674
+numComments:101
+isOver18:False
+hasPostBody:True

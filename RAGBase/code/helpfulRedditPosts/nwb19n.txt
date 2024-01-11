@@ -1,0 +1,13 @@
+title:
+YSK: Lilies are extremely poisonous to cats and every part of the plant, including the pollen can be fatal.
+
+content:
+Why YSK: I don’t own a cat but my mom got some lilies for her birthday and her cat ate some of the leaves. Luckily she threw them up and they got her to the vet in time so she survived, the vet said if she hadn’t gotten the cat to them quickly she would have gone into irreversible kidney failure. Most cat people probably already know this but I didn’t and I think this is important information for every would-be cat owner.
+
+url:https://reddit.com/r/YouShouldKnow/comments/nwb19n/
+author:srkad
+subreddit:YouShouldKnow
+score:10952
+numComments:272
+isOver18:False
+hasPostBody:True

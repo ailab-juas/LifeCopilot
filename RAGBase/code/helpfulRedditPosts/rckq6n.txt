@@ -1,0 +1,13 @@
+title:
+LPT: If someone keeps checking in on you, check in on them. Often times people do unto others what they’d do unto themselves
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/rckq6n/
+author:J-Maz
+subreddit:LifeProTips
+score:2907
+numComments:73
+isOver18:False
+hasPostBody:False

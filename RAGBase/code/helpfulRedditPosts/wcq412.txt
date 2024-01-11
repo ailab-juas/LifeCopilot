@@ -1,0 +1,21 @@
+title:
+YSK: The process of finding the cause of a problem and fixing it properly. This process goes by different names in different fields, it's generally called Root cause analysis is an important skill.
+
+content:
+Why YSK:
+
+You may think that this is obvious, however many people will attempt to treat symptoms and not the underlying cause of a problem.
+
+They will also fail to make observations and attempt to solve issues based on irrelevant previous experience.
+
+Even engineers, doctors, and other professionals will skip steps because they are complacent.
+
+Learn to channel your inner Sherlock Holmes. By identifying and fixing issues, no matter how small or big, you will find yourself a less frustrated and happier.
+
+url:https://reddit.com/r/YouShouldKnow/comments/wcq412/
+author:Business_Downstairs
+subreddit:YouShouldKnow
+score:4820
+numComments:168
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: The key to making friends is acting like they're your friend already.
+
+content:
+There's a lot of pressure when it comes to trying to impress somebody. In the process, you might contrive a dynamic that isn't authentic. But if you already act like you're their friend, the relationship will seem organic and natural. Act like you do with your current friends to strangers. This is how I've made most of my friends. Just act comfortable and confident and you'll be amazed at how many people you can befriend!
+
+url:https://reddit.com/r/LifeProTips/comments/25jpy3/
+author:zfinne
+subreddit:LifeProTips
+score:1249
+numComments:126
+isOver18:False
+hasPostBody:True

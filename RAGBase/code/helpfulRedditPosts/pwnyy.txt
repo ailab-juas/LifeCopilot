@@ -1,0 +1,13 @@
+title:
+LPT: Keep a trash bag underneath the things in your backpack. It'll provide extra padding, and if it starts raining, you can just put everything in there to keep your stuff from getting wet.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/pwnyy/
+author:TheBloodTypo
+subreddit:LifeProTips
+score:1397
+numComments:92
+isOver18:False
+hasPostBody:False

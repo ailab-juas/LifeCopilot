@@ -1,0 +1,13 @@
+title:
+YSK: On iPhone, even if you have your phone on silent and Do Not Disturb, you can allow calls through from selected numbers, e.g., family, close friends, all while still blocking pesky emails and app notifications. Contacts &gt; Click name of contact &gt; Edit &gt; Ringtone &gt; Tick "Emergency Bypass."
+
+content:
+Why YSK: If you want to know when you are being called by a loved one (e.g., for an emergency), but you don't want to be notified by all possible notifications, this option is helpful. Note that it won't work for texts, only calls. It does ignore the silent-mode switch, too, meaning if they call you will hear it despite both DND and silent mode.
+
+url:https://reddit.com/r/YouShouldKnow/comments/qx9g41/
+author:Throwymcthrowz
+subreddit:YouShouldKnow
+score:1350
+numComments:39
+isOver18:False
+hasPostBody:True

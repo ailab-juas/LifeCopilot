@@ -1,0 +1,21 @@
+title:
+LPT: If your boss says they could easily replace you, it's usually because they don't want you to start comparing them to the "market".
+
+content:
+People who know they'll lose if you run that comparison will do everything they can to convince you not to run it.  If you internalize this replacability narrative, they've won--you're now stuck in a shitty job forever.  If you rebel against it, even slightly, they'll triple down on it, but crucially, they'll never *actually* fire you or even place you on leave, because they need your skills.
+
+**If your boss says this, and you don't think this LPT applies to you or anyone around you, read on.** My experience has been that people who work for bad companies tend to have negative experiences, and that sours their work and them, so when they leave (or are fired), their current and former coworkers—who are their primary source of referrals—tend to have found other shitty companies to work for. It's a sort of closed-loop shittiness system.
+
+Meanwhile, the opposite happens, too. When life circumstances drive someone to leave a company treating them well, even if they land at a bad company next, they only refer the best people from the bad company into their old, good one. They are acting as filters into Good-land, if you will. This has the effect of both improving Good-land and making Shit-land even shittier, since it never gets to keep good people.
+
+So, if you want to break out of Shit-land, how do you do it? Start by making professional friends outside of your immediate sphere. Attend conferences, for example. Any employer who won't send employees to conferences is afraid you'll see outside of their Potemkin shittiness village; their refusal is *prima facie* evidence that they're a shitty employer, so pay your own conference admission if you must. Once there, be open that you're looking. You've been told you're worthless and replaceable for so long that you don't realize you're actually very desirable. Good employers will now offer you opportunities to speak to their company's attendees at the conference: typically senior management and senior ICs. Take the chance! Focus not on how your current employer disappoints you. Instead, talk about the sort of work that you'd love to be doing. Describe vision and ambition. Do this three or four times, and I guarantee you have an offer by the end of the conference.
+
+**tl;dr**: Short-sighted owners build the company that they want to have, and jealously guard against talent walking out the door. Smart employers build the company that *they* want to work at and grow talent internally, even if that means the talent will depart some day. Brilliant employers build the company that people who are *smarter* than them would work at.
+
+url:https://reddit.com/r/LifeProTips/comments/bjrqez/
+author:existential_plastic
+subreddit:LifeProTips
+score:1709
+numComments:199
+isOver18:False
+hasPostBody:True

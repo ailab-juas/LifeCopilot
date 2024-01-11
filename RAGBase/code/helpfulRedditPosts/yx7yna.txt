@@ -1,0 +1,19 @@
+title:
+YSK that taking a hot, long shower you can actually get dehydrated very fast, especially if you dont drink enough fluids as it is
+
+content:
+Why ysk: People don't often think that bathing in long hot showers can cause any issues, and you especially won't feel yourself sweating, as you're constantly under running water. Not realizing that you're sweating profusely in hot water is the biggest part of the problem.
+
+Don't unknowingly cause yourself a heat stroke or heat exhaustion by taking a hot shower or bath that's too long. Before you realize it, you're lightheaded and passing out.
+
+There is a recorded case of an elderly man who had a heat stroke that caused acute renal failure from taking a 3 hour hot bath. 
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3890729/
+
+url:https://reddit.com/r/YouShouldKnow/comments/yx7yna/
+author:Svargas05
+subreddit:YouShouldKnow
+score:5219
+numComments:228
+isOver18:False
+hasPostBody:True

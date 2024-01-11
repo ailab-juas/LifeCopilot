@@ -1,0 +1,13 @@
+title:
+LPT: Found a lost iPhone? Pull up the passcode lock screen, hit ‘emergency’ and then the ‘medical ID’ option. If the owner has input any info, it will be there.
+
+content:
+My husband found an almost new iPhone while diving in a nearby lake. Surprisingly we got it to charge up and were able to locate the owner and return the phone using the medical ID. I know if it were my phone I would have been stoked to get that call!
+
+url:https://reddit.com/r/LifeProTips/comments/hth72h/
+author:Mrdeesel
+subreddit:LifeProTips
+score:20664
+numComments:501
+isOver18:False
+hasPostBody:True

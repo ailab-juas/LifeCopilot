@@ -1,0 +1,13 @@
+title:
+YSK the difference between a barrel roll and an aileron roll
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/18larm/
+author:Wrobot_rock
+subreddit:YouShouldKnow
+score:1131
+numComments:174
+isOver18:False
+hasPostBody:False

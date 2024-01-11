@@ -1,0 +1,13 @@
+title:
+LPT: If a child misplaced an object of yours, go down to their level to try and find it.
+
+content:
+Kids are shorter and can often see spots that as grown ups we cannot.  Walking on your knees or or crawling might make you find whatever they decided to hide easier.
+
+url:https://reddit.com/r/LifeProTips/comments/70o4kj/
+author:peachy_cherry
+subreddit:LifeProTips
+score:18121
+numComments:646
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: when arguing never say "You", always say "I feel". No one can argue about how you feel.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/z58tg/
+author:ggk1
+subreddit:LifeProTips
+score:1183
+numComments:516
+isOver18:False
+hasPostBody:False

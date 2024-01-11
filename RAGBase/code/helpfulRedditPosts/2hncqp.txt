@@ -1,0 +1,13 @@
+title:
+LPT: when you are paywalled out of an article that you accessed through the New York Times website, just google the title of that article and read it for free.
+
+content:
+New York Times only allows you to access 10 articles a month per IP address; that is if you go through the New York Times website. After your 10th article you will only be allowed to visit the Times homepage and peruse article titles. If you want to read more through the Times website, you'll have to pay for unlimited access. But do not fret: you can circumvent the paywall through googling the title of the article you want to read. (Is this news to anyone, or does everyone already know this?) I learned this by being a cheap bastard.   
+
+url:https://reddit.com/r/LifeProTips/comments/2hncqp/
+author:allthecatsintheworld
+subreddit:LifeProTips
+score:1583
+numComments:184
+isOver18:False
+hasPostBody:True

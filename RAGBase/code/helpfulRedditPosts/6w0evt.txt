@@ -1,0 +1,14 @@
+title:
+YSK now when you search for "clinical depression" on Google on mobile, you'll see a Panel that will give you the option to tap “check if you’re clinically depressed”, which will bring you to a clinically validated questionnaire to test what your likely level of depression may be.
+
+content:
+There's a post in their blog explaining about it:
+https://www.blog.google/products/search/learning-more-about-clinical-depression-phq-9-questionnaire/
+
+url:https://reddit.com/r/YouShouldKnow/comments/6w0evt/
+author:ColdSunnyMorning
+subreddit:YouShouldKnow
+score:8680
+numComments:566
+isOver18:False
+hasPostBody:True

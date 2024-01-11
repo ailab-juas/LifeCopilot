@@ -1,0 +1,13 @@
+title:
+LPT: If you're a highschool student looking for a job and are eventually planning on moving to a new city after graduating, aim for a job at a large chain like a grocery store. They will often facilitate job transfers so that you can have employment lined up when you move
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/6zbjg6/
+author:83wonder
+subreddit:LifeProTips
+score:44480
+numComments:1225
+isOver18:False
+hasPostBody:False

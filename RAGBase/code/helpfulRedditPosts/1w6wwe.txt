@@ -1,0 +1,13 @@
+title:
+LPT: when showing people pictures on your phone, zoom in a little bit so they can't swipe to other pictures
+
+content:
+My mom is a snoop. Whenever I try to show her pictures on my phone she nonchalantly tries to swipe left/right, but if you zoom in a little it just slightly moves the picture around.
+
+url:https://reddit.com/r/LifeProTips/comments/1w6wwe/
+author:mooomba
+subreddit:LifeProTips
+score:2588
+numComments:546
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+YSK that Condé Nast began this year to strongly support sponsored content (corporate advertisement disguised as original content)
+
+content:
+As cited [here](http://www.foliomag.com/2015/conde-nast-launches-sponsored-content-group/). We should be aware that more and more of the OC and homegrown content we see on this and other sites may in fact be corporate-sponsored advertising material. If it's a normal story, comment, video or image but with specific, conspicuous product placement, it might be advertising. Be wary! 
+
+url:https://reddit.com/r/YouShouldKnow/comments/39amss/
+author:veritate_valeo
+subreddit:YouShouldKnow
+score:2549
+numComments:323
+isOver18:False
+hasPostBody:True

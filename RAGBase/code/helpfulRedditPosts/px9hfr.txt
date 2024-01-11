@@ -1,0 +1,15 @@
+title:
+YSK Uber Eats no longer refunds cash for missing food. They only give “Uber cash” credits to your account.
+
+content:
+**WHY YSK:** Normally restaurants will correct their mistake by giving you the right food, taking something off the bill, or refunding a portion of your money. Real cash is of course far more useful and less restrictive. 
+
+But Uber eats now only gives small Uber cash credits that can only be used on their platform. They say they can no longer refund actual cash. Be careful when ordering for groups, as you have little recourse for restaurant mistakes now.
+
+url:https://reddit.com/r/YouShouldKnow/comments/px9hfr/
+author:think_up
+subreddit:YouShouldKnow
+score:15011
+numComments:701
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,19 @@
+title:
+YSK that accepting "MDM" on your phone will give a third party full administrative rights.
+
+content:
+"MDM stands for Mobile Device Management, and is a way to ensure employees stay productive and do not breach corporate policies."
+
+&gt; Invasion of Personal Privacy, Once an MDM Policy is installed on your phone, regardless of which third-party software you are using, it has the highest privileges on your phone (Device Administrator).
+
+&gt; One of the big advantages of MDM, is that users do not even know how much the administrator actually knows.
+
+https://blog.cdemi.io/never-accept-an-mdm-policy-on-your-personal-phone/
+
+url:https://reddit.com/r/YouShouldKnow/comments/7rqxvz/
+author:lonely_monkey
+subreddit:YouShouldKnow
+score:3191
+numComments:384
+isOver18:False
+hasPostBody:True

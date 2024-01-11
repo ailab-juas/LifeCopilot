@@ -1,0 +1,15 @@
+title:
+YSK: All adults (19+) should get boosters for several childhood vaccinations
+
+content:
+https://www.cdc.gov/vaccines/schedules/hcp/imz/adult.html  
+
+"At risk" people are supposed to get even more as well.
+
+url:https://reddit.com/r/YouShouldKnow/comments/aq2aok/
+author:bassgoonist
+subreddit:YouShouldKnow
+score:2538
+numComments:231
+isOver18:False
+hasPostBody:True

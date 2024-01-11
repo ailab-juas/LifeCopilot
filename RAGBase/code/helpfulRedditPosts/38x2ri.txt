@@ -1,0 +1,13 @@
+title:
+LPT: Make epic taco bowls out of tortillas
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/38x2ri/
+author:hazysummersky
+subreddit:LifeProTips
+score:1987
+numComments:187
+isOver18:False
+hasPostBody:False

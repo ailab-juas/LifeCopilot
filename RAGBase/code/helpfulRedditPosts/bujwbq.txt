@@ -1,0 +1,17 @@
+title:
+YSK that pressing # or 1 when leaving a voicemail will stop your recording and read some options to you, this lets you to delete &amp; re-record your voice message, mark it as urgent or private, leave a different callback number, re-play your message, or pickup where you left off.
+
+content:
+It's unbelievable the amount of bad voicemails I sent potential employers as a teenager, If I knew I could fix them I'd would have probably had a job in weeks not months. 
+
+&amp;#x200B;
+
+Warning: A few voicemails don't have this feature, so then you just sound like the idiot who left a voicemail and started pushing random buttons before hanging up.
+
+url:https://reddit.com/r/YouShouldKnow/comments/bujwbq/
+author:KingSulley
+subreddit:YouShouldKnow
+score:1072
+numComments:19
+isOver18:False
+hasPostBody:True

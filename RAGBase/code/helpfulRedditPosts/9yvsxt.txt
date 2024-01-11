@@ -1,0 +1,26 @@
+title:
+YSK that if you are in the US, you should throw away any type of romaine lettuce in your home, restaurant, etc.
+
+content:
+The CDC released a warning today:
+https://www.cdc.gov/ecoli/2018/o157h7-11-18/index.html
+
+From the article:
+
+- This advice includes all types or uses of romaine lettuce, such as whole heads of romaine, hearts of romaine, and bags and boxes of precut lettuce and salad mixes that contain romaine, including baby romaine, spring mix, and Caesar salad.
+
+- If you do not know if the lettuce is romaine or whether a salad mix contains romaine, do not eat it and throw it away.
+
+- Wash and sanitize drawers or shelves in refrigerators where romaine was stored. 
+
+Edit 1: Here's a map of who got ill where (Credit to u/gt24): https://www.cdc.gov/ecoli/2018/o157h7-11-18/map.html
+
+Edit 2: Canada too (Credit to /u/ashkestar): https://www.canada.ca/en/public-health/services/public-health-notices/2018/outbreak-ecoli-infections-linked-romaine-lettuce.html
+
+url:https://reddit.com/r/YouShouldKnow/comments/9yvsxt/
+author:americancowboy
+subreddit:YouShouldKnow
+score:9073
+numComments:414
+isOver18:False
+hasPostBody:True

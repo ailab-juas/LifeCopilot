@@ -1,0 +1,23 @@
+title:
+How to dominate your computer using the CTRL key.
+
+content:
+Link is [here](http://twistedsifter.sifter.netdna-cdn.com/wp-content/uploads/2010/06/ctrl-key-shortcuts-infographic.png).
+
+Taken from http://twistedsifter.com/2010/06/ctrl-key-shortcuts/.
+
+EDIT:
+
+You should also check out [Kunic's](http://www.reddit.com/r/LifeProTips/comments/s3o17/how_to_dominate_your_computer_using_the_ctrl_key/c4av8zy) suggestion of the subreddit /r/keyboardshortcuts.
+
+Also sorry about the lack of Mac short cuts, but if you have any please pm me so I can add it here.
+
+Thanks!
+
+url:https://reddit.com/r/LifeProTips/comments/s3o17/
+author:Boa220
+subreddit:LifeProTips
+score:1265
+numComments:404
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,23 @@
+title:
+YSK that apostrophes are never used to make a singular word plural.
+
+content:
+Why YSK: Many people use 's to pluralize words. This is incorrect. The only time you should ever use an apostrophe is for contractions (don't, haven't, she's), to make something possessive (Dave's), or for pluralizing lowercase letters (dot your i's). At least in English. In other languages, your results may vary.
+
+Edit: Some common questions I have gotten (keep in mind, these nuances are US-specific, so they may not always apply):
+
+What about numbers and initialisms? (1980s vs 1980's, M.D.'s vs MDs). While both can be correct, most style guides call for no apostrophe.
+
+What about multiple people with the same name that ends in "s" (Chrises or Chris's)? As weird as it looks, Chrises is correct. You add the "es" just like with any other noun that ends in "s."
+
+How should I use an apostrophe to show possession for a word ending with s (news' or news's)? If it is a proper noun, then you would add 's (James's, Athens's) but if it is a non proper noun, then you would just add the apostrophe (news', bikes').
+
+What's up with "it's vs its?" Why is the possessive not getting an apostrophe? "Its" is a possessive pronoun and therefore does not get an apostrophe. Think of it like his, hers, and theirs.
+
+url:https://reddit.com/r/YouShouldKnow/comments/r4zsyl/
+author:mankiller27
+subreddit:YouShouldKnow
+score:7326
+numComments:690
+isOver18:False
+hasPostBody:True

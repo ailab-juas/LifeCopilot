@@ -1,0 +1,18 @@
+title:
+YSK that Bob Ross's 'Joy of Painting' is public domain and you can watch every episode here
+
+content:
+Posted this once but forgot to post the link.
+Sorry about that.
+
+https://archive.org/search.php?query=collection%3AThe_Joy_of_Painting&amp;sort=-publicdate&amp;page=4
+
+edit:  All these comments are so nice!
+
+url:https://reddit.com/r/YouShouldKnow/comments/2rtzzp/
+author:Axyl_V
+subreddit:YouShouldKnow
+score:2554
+numComments:137
+isOver18:False
+hasPostBody:True

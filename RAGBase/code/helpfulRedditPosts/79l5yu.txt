@@ -1,0 +1,33 @@
+title:
+YSK that if you pay with a credit card at Target, the company sells your in-store purchase history to advertisers
+
+content:
+Many people are unaware of how invasive Target's privacy policy is and how it builds profiles across multiple platforms to sell your data to advertisers. Target attempts to link: 
+- everything you buy in store (including the Target pharmacy) 
+- anything you say on your various interweb accounts 
+- data for sale from 3rd parties on your age and income 
+
+This creates a rich dataset that can result in very deep targeting across the interwebs (and thus lots of revenue for Target).
+
+For example, [this woman mistakenly attributed the ads she saw after experiencing a burn](http://www.bbc.com/news/technology-41776215) (8th paragraph) to FB listening through her phone's microphone, though the true source was likely the purchase she made at Target.
+
+Source: [Target's own privacy policy](https://www.target.com/c/target-privacy-policy/-/N-4sr7p#PP_3rdPartyContent). Here are some highlights:
+
+*We merge data collected from our own websites, [...] demographic and other information regarding your likely commercial interests from third parties; and in-store transaction data.*
+
+*We collect data that is publicly available. For example, information you submit in a public forum (e.g., a blog, chat room, or social network) can be read, collected or used by us and others, and could be used to personalize your experience.*
+
+**Edit:** Forgot to mention that Target runs machine-learning algorithms to try to predict key monetizable life-events like having a child or moving. Target's machine-learning algorithm found that good prediction for pregnancy was an increase in purchasing:
+
+- Cotton balls
+- Unscented lotion
+
+Advertisers are increasingly focusing on life-event marketing because *"A single life event can trigger lifecycle marketing, allowing brands to follow consumers and their children throughout each life stage"* and *"Some major life events are emotionally driven – affecting not only how these consumers make purchase decisions but also how they react to content."* (Quotes taken from a whitepaper formerly available on networkedinsights.com, one of many companies focused on using machine learning to predict when users are experiencing life events so that they can monetize specific lists of users.)
+
+url:https://reddit.com/r/YouShouldKnow/comments/79l5yu/
+author:itsjakeandelwood
+subreddit:YouShouldKnow
+score:3221
+numComments:343
+isOver18:False
+hasPostBody:True

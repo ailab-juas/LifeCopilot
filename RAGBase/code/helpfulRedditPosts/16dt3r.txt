@@ -1,0 +1,13 @@
+title:
+LPT: Smile before answering the phone. It will make you sound happier and lead to a better conversation.
+
+content:
+Great tip for sales people, but also useful in everyday life.
+
+url:https://reddit.com/r/LifeProTips/comments/16dt3r/
+author:pianonecktie
+subreddit:LifeProTips
+score:1802
+numComments:210
+isOver18:False
+hasPostBody:True

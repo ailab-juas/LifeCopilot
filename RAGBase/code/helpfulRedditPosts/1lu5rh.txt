@@ -1,0 +1,15 @@
+title:
+LPT: Take a picture of your car key on your phone.
+
+content:
+I had a lock smith out because I lost the only key I had to my car and at the same time we had him make a key for my brothers car who recently moved across country. (He took his key by mistake, he wasn't taking his car) It took him about 45 min to make the key for my car doing it the conventional way of just reading it off the ignition cylinder. (He did say that it was longer than usual). I had my brother send me a picture of his key and he was able to cut it in under 2 minutes just from the cell phone pic.
+
+TL;DR A locksmith can make a key from a cell phone pic 10X faster than the normal way of doing it.
+
+url:https://reddit.com/r/LifeProTips/comments/1lu5rh/
+author:conte360
+subreddit:LifeProTips
+score:1910
+numComments:519
+isOver18:False
+hasPostBody:True

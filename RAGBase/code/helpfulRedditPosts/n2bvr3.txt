@@ -1,0 +1,15 @@
+title:
+LPT: If you are having issues with your internet and your provider doesn't listen to your complaints, file an informal FCC complaint against the company. They are completely free to fill out, and the company is required to respond to them within 30 days.
+
+content:
+Have been having multiple issues with my internet. Every complaint call was just being answered with "oh we're working on it..." The issue was the node in my area was not good enough to support all the people in the area, but they told me there is no ETA on when it was to be replaced. 
+
+I filed an informal complaint to the FCC and within days I was contacted by the corporate offices, and my internet issues were prioritized and fixed quickly.
+
+url:https://reddit.com/r/LifeProTips/comments/n2bvr3/
+author:EvanH123
+subreddit:LifeProTips
+score:28516
+numComments:609
+isOver18:False
+hasPostBody:True

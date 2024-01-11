@@ -1,0 +1,17 @@
+title:
+YSK about CodeAcademy: A website with free interactive coding lessons including Java, Python, HTML etc.
+
+content:
+[Click here to start coding](http://www.codecademy.com/)
+
+Pretty much the best website to learn different programming languages including JavaScript, Python, PHP, HTML/CSS and some others.
+
+EDIT: By the way it'd Codecademy, not Codeacademy... Duh, silly me.
+
+url:https://reddit.com/r/YouShouldKnow/comments/1rs26j/
+author:TidalSky
+subreddit:YouShouldKnow
+score:1173
+numComments:148
+isOver18:False
+hasPostBody:True

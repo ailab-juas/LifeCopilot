@@ -1,0 +1,13 @@
+title:
+LPT: If you ever want software online for free, don't search for "free". Search for "open source" to avoid limited trial versions and malware.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/rrpus9/
+author:KillerSwan13
+subreddit:LifeProTips
+score:2670
+numComments:89
+isOver18:False
+hasPostBody:False

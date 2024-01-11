@@ -1,0 +1,16 @@
+title:
+YSK, Not all poisonous gas is colored, but ALL colored gas is poison.
+
+content:
+ **Why YSK:**  This could help save you in a situation where you dont know what something is or how it may react! Though, of course, I would expect anyone to exit the area of ANY gas leak.   
+
+
+ Credit to [u/johnn11238](https://www.reddit.com/u/johnn11238/) for his comment on a post regarding the recent chlorine gas explosion.
+
+url:https://reddit.com/r/YouShouldKnow/comments/vmbw5i/
+author:Lukaar
+subreddit:YouShouldKnow
+score:15775
+numComments:463
+isOver18:False
+hasPostBody:True

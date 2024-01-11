@@ -1,0 +1,13 @@
+title:
+LPT: When making homemade fries, after slicing the potato, put the slices in a bowl of cold water to soak. This allows some of the starches to release into the water, which makes the inside of the fries more tender while allowing the outside to be crispier.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/27lp82/
+author:victoria_antonia
+subreddit:LifeProTips
+score:3543
+numComments:465
+isOver18:False
+hasPostBody:False

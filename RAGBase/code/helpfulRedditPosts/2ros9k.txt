@@ -1,0 +1,22 @@
+title:
+LPT: Night Mode on Apple Devices
+
+content:
+Apple's mobile devices have a very useful, and not very well known night mode. It is difficult to activate the first time, but easy to activate with a triple click of the home button. 
+
+Note: This LPT works on iOS 8 Apple devices: iPads and iPhones.
+
+To activate the night mode, go into the Settings app on your device and follow the menu: General&gt;Accessibility&gt;Zoom. Turn the switch labeled "Show Controller" on, and then tap the first toggle, "Zoom" the screen will zoom in and a small circle with arrows should appear. Tap on the switch controller, and when the menu opens select "Choose Filter" and select "Low Light". The screen will now have a black tint and be darker. Now use the slider at the bottom of the switch controller menu and  slide it to the left. The screen background will zoom out until the entire screen returns to normal. Tap outside of the menu and turn off the switch controller by tapping the "Show Controller"switch to off. If the whole screen is not dimmed turn on "Full Screen Zoom" and it will resolve it. Tap the upper left to go back to Accessibility, and scroll to the bottom of the page, and tap "Accessibility Shortcut", Select "Zoom", and now you are able to toggle the night mode by triple clicking the home button!
+
+Triple click the home button at any time with your device on and the night mode filter will switch on, or off. Useful to quickly dim your device without opening the control center, or to make the rather bright Apple apps dimmer and easier on your eyes in the night!
+
+Leave any questions bellow, and I will try to help you out!
+Edit: Adding in your suggestions! Glad many of you like this!
+
+url:https://reddit.com/r/LifeProTips/comments/2ros9k/
+author:marksalnikov
+subreddit:LifeProTips
+score:3226
+numComments:751
+isOver18:False
+hasPostBody:True

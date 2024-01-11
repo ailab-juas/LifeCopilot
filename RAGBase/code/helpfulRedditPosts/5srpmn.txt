@@ -1,0 +1,13 @@
+title:
+LPT : If you carry a USB in your pocket at all times, make sure it's password protected.
+
+content:
+I recently lost a USB which i carried in my pocket at all times. I had a lot of work related stuff in it as well as personal information such as scanned Passport and ID's of myself and family members too. Which in the wrong hands could be bad. I realized later that only if i had it password protected , it would not worry me so much. So if any of you guys carry a USB at all times as well, make sure its secure.
+
+url:https://reddit.com/r/LifeProTips/comments/5srpmn/
+author:ammary
+subreddit:LifeProTips
+score:1161
+numComments:203
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+YSK if you're pumping at a gas station and the fuel stream ignites, DO NOT REMOVE THE NOZZLE FROM THE RECEPTACLE.
+
+content:
+If this happens to you, keep the nozzle in place, shut off the fuel at the pump with the on/off or emergency switch, and tell the attendant who will shut off the main pump and call emergency services.  Why YSK:  I've seen about 69 videos of people who experience this and immediately remove the nozzle and wave the stream of fire around. This will be your first instinct and it is WRONG. To lower the chance this happening, ground yourself when you exit your car by touching the door frame.
+
+url:https://reddit.com/r/YouShouldKnow/comments/rki013/
+author:LivefreeorCRABS
+subreddit:YouShouldKnow
+score:7233
+numComments:235
+isOver18:False
+hasPostBody:True

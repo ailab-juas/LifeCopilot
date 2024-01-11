@@ -1,0 +1,13 @@
+title:
+YSK that physical albums (CD, vinyl, and other formats) that are bought from Amazon could eligible for AutoRip meaning you get a free download of the album
+
+content:
+With the holidays coming up, it could be a good idea to buy your friends and family the new albums of their favourite artists or some classics that they may not have, all the while expanding your music library and listening to some new music you may not have picked yourself. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/75vigd/
+author:26326312
+subreddit:YouShouldKnow
+score:2110
+numComments:43
+isOver18:False
+hasPostBody:True

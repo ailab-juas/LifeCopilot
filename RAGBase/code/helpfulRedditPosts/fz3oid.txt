@@ -1,0 +1,13 @@
+title:
+LPT: If you miss a call from your boss, ALWAYS check your e-mail before calling back so you're prepared if they make a reference to it on the phone.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/fz3oid/
+author:ZakX10
+subreddit:LifeProTips
+score:19734
+numComments:328
+isOver18:False
+hasPostBody:False

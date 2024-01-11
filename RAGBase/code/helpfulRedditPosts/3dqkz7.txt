@@ -1,0 +1,13 @@
+title:
+YSK that you can watch the first vampire movie ever, Nosferatu from 1922, on YouTube. Also, the director's head was stolen from his grave in Berlin on Monday
+
+content:
+[Link to movie](https://www.youtube.com/watch?v=rcyzubFvBsA)
+
+url:https://reddit.com/r/YouShouldKnow/comments/3dqkz7/
+author:Targ
+subreddit:YouShouldKnow
+score:2115
+numComments:61
+isOver18:False
+hasPostBody:True

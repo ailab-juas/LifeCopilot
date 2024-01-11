@@ -1,0 +1,13 @@
+title:
+LPT: If you want to eat healthier but don't really like veggies, cut them into strips and roast them in the oven with a little salt and pepper. Some veggies will taste just like french fries and are really tasty, healthy alternatives to other junk food.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/6gx8np/
+author:DestinyPvEGal
+subreddit:LifeProTips
+score:1312
+numComments:125
+isOver18:False
+hasPostBody:False

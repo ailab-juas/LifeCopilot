@@ -1,0 +1,15 @@
+title:
+LPT: Make 2022 the year of the zipper merge.
+
+content:
+Let us normalize using the entire ending lane before merging and allowing cars in one at a time, like a zipper. They aren’t cutting you off to be ahead. They’re not bottlenecking traffic while ignoring half the road.
+
+The best way to cut down on traffic and accidents.
+
+url:https://reddit.com/r/LifeProTips/comments/rvl1v9/
+author:Additional_Initial_7
+subreddit:LifeProTips
+score:5631
+numComments:606
+isOver18:False
+hasPostBody:True

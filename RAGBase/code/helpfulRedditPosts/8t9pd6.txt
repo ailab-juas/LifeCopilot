@@ -1,0 +1,13 @@
+title:
+LPT: If a friend is buying you lunch and you are wondering what price or how much is okay, ask him what he recommends.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/8t9pd6/
+author:cmplctdsmplcty
+subreddit:LifeProTips
+score:43583
+numComments:1602
+isOver18:False
+hasPostBody:False

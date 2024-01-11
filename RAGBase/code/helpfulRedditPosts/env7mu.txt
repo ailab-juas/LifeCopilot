@@ -1,0 +1,13 @@
+title:
+LPT: if you have an idea for something cool, but you lack the skill required to do it alone, don’t say “I have an idea for x”. Instead say “ I’m working on x and I am looking for people who can do y”. Remember, ideas are cheap.
+
+content:
+Your perceived credibility will also go way up if you have something substantial to show for your idea.
+
+url:https://reddit.com/r/LifeProTips/comments/env7mu/
+author:DigiornosPizza
+subreddit:LifeProTips
+score:2916
+numComments:63
+isOver18:False
+hasPostBody:True

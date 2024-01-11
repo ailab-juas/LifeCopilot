@@ -1,0 +1,19 @@
+title:
+YSK if you're ever in an unfamiliar or sketchy area, you can use Google Maps without looking at your phone.
+
+content:
+Google has done a great job integrating vibration alerts into their Maps app. In walking mode, the vibration patter is different depending on if you need to turn right or left.
+
+Long short short vibration = right hand turn
+
+Short long long vibration = left hand turn
+
+Why YSK: there are people out there who look for tourists or people who clearly don't know the area and prey on the. If you're ever in an unfamiliar area, and you don't want to broadcast the fact that you don't know your way around, you can use Google Maps by simply holding your phone in your hand and pay attention to the vibration patterns.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ttxwd4/
+author:plzbubblewrapmy_____
+subreddit:YouShouldKnow
+score:9570
+numComments:295
+isOver18:False
+hasPostBody:True

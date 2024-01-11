@@ -1,0 +1,15 @@
+title:
+YSK about the best weather map available to the United States. Behold the glory of NOAA's full loop mosaic radar map!
+
+content:
+I'm seriously, you guys.  This is so much better for visualizing potential weather than anything I've ever come across, and in conjunction with your local weather report can really hone in on what weather is about to occur in the coming hours.
+
+http://radar.weather.gov/Conus/full_loop.php
+
+url:https://reddit.com/r/YouShouldKnow/comments/1nxgb4/
+author:xxafrikaanerxx
+subreddit:YouShouldKnow
+score:1378
+numComments:168
+isOver18:False
+hasPostBody:True

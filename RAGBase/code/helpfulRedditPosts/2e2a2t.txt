@@ -1,0 +1,13 @@
+title:
+LPT: When you have friends or family that are unemployed, don't ask "Have you found a job yet?" every time you see them.
+
+content:
+No need to rub it in, especially when the job market is on life support. Trust me, you'll be the first to know when they do find a job. 
+
+url:https://reddit.com/r/LifeProTips/comments/2e2a2t/
+author:jonathanvan
+subreddit:LifeProTips
+score:1171
+numComments:343
+isOver18:False
+hasPostBody:True

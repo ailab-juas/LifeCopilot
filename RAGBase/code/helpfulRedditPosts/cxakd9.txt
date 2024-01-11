@@ -1,0 +1,13 @@
+title:
+LPT: Freeze your cheese before grating it. Put it in the freezer a bit and it'll firm up so it's easier to work with and doesn't gum up the grater.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/cxakd9/
+author:Xerotrope
+subreddit:LifeProTips
+score:13569
+numComments:472
+isOver18:False
+hasPostBody:False

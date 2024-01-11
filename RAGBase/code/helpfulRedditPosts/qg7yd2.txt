@@ -1,0 +1,13 @@
+title:
+LPT: if a kid comes to you with a joke and you already know the punchline, just say "I don't know, what?" and let them deliver it.
+
+content:
+This is really true for anyone telling you a joke but doubly so for kids. There's no more awkward anticlimax than "guessing right", but some people can't seem to help themselves.
+
+url:https://reddit.com/r/LifeProTips/comments/qg7yd2/
+author:bulleitprooftiger
+subreddit:LifeProTips
+score:2561
+numComments:91
+isOver18:False
+hasPostBody:True

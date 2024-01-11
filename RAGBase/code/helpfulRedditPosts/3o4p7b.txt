@@ -1,0 +1,27 @@
+title:
+YSK LastPass has been acquired by LogMeIn, a company of questionable integrity.
+
+content:
+LastPass is one of the better and most commonly used password managers (if you aren't using a password manager, you absolutely should be!).  Today they announced that they have been acquired by LogMeIn.  This is seen as bad news by many of their customers because LogMeIn is a company with a bad reputation.  
+
+LogMeIn is a company that provided a free remote management software product (they made money by also offering a more advanced premium version).  A short time after they promised that users could trust that LogMeIn would "always" be free to use as it had been for 10 years, they abruptly announced that they were forcing everyone to pay for the premium software or their software would be shut off *in 7 days*.  Yes, 7 days!  And this is for software that many thousands of people depend on to remotely access their PCs that they may not otherwise be able to use if the LogMeIn software stops working.   The absurdly short time period was apparently done to try to prevent most people from having time to switch to alternatives before they would lose access access to their PCs and have to pay to use LogMeIn to access them.  People who paid the company $29 for their mobile app would also be cut off shortly after with no recourse. [Rage ensued.](http://www.computerworld.com/article/2486764/internet/logmein-pulls-plug-on-free-remote-access--rage-ensues.html)
+
+Now that LogMeIn has acquired LastPass, LastPass users should seriously consider finding an alternative password manager since there is no reason to believe LogMeIn won't pull the same move again and lock people out of being able to log into their websites if they don't start paying the company whatever price they ask.  LastPass' [blog post](https://blog.lastpass.com/2015/10/lastpass-joins-logmein.html/) announcing the acquisition filled up with so many people expressing outrage that they actually turned off the comment submit form on the post.
+
+**You may want to consider switching to one of these alternatives:**
+
+* [1Password](https://agilebits.com/onepassword) - This is the one that has features and functionality that are the most similar to LastPass, including easily accessing your passwords from multiple devices.
+
+* [KeePass](http://keepass.info/) - This one has the advantage of being open source.  From what I understand, you can sync the data between multiple devices but it takes more effort to set it up because it isn't a built-in feature.
+
+* [Dashlane](https://www.dashlane.com/) - An interesting new alternative.  I don't know much about this one, but it looks good and may be worth trying.
+
+(Let me know if there are other alternatives that should be added to this list.)
+
+url:https://reddit.com/r/YouShouldKnow/comments/3o4p7b/
+author:thbt101
+subreddit:YouShouldKnow
+score:2526
+numComments:539
+isOver18:False
+hasPostBody:True

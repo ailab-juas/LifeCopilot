@@ -1,0 +1,13 @@
+title:
+LPT: On the PC, holding the shift key whilst using the scroll button will scroll left to right instead of up and down
+
+content:
+Just figured this out in Gimp 2, tied it out in other things and it worked! if this is a repost, please let me know and i will take it down
+
+url:https://reddit.com/r/LifeProTips/comments/1btgln/
+author:Bonobo395
+subreddit:LifeProTips
+score:1410
+numComments:161
+isOver18:False
+hasPostBody:True

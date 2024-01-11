@@ -1,0 +1,13 @@
+title:
+LPT: Read the comments in /r/LifeProTips - many of the LPT's are great ideas, but some are stupid or downright dangerous and the first comment will almost always warn you of this.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/20vbg1/
+author:shreddor
+subreddit:LifeProTips
+score:1191
+numComments:128
+isOver18:False
+hasPostBody:False

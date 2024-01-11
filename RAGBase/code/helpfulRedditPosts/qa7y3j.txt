@@ -1,0 +1,13 @@
+title:
+YSK that sharp knives are safer than dull knives.
+
+content:
+Why YSK: Sharp knives aren't actually as likely to cut you as dull ones. Because a sharp knife easily slices through food, you only have to apply a small amount of pressure when using them. This means that you're more likely to cut the item you're intending to cut, and not your hand.
+
+url:https://reddit.com/r/YouShouldKnow/comments/qa7y3j/
+author:hunytart
+subreddit:YouShouldKnow
+score:5427
+numComments:218
+isOver18:False
+hasPostBody:True

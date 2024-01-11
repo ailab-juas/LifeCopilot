@@ -1,0 +1,17 @@
+title:
+YSK: When signing up for interest-free financing for a product, if you don't pay that item off completely in the allotted time, ALL the accrued interest will be due as soon as the term is up
+
+content:
+YSaK that the credit card company will NOT break the monthly amount due into equal increments to safeguard you from not paying it all on time. 
+
+For instance, you buy an 1800 dollar washer with 0% interest for 18 months. Your monthly minimum amount due will be ~$50. They won't set the monthly due amount at $100 to ensure you pay it off in time. You'll have to figure that math out yourself and be sure you pay that amount to make sure your balance is $0 come the 18th month. 
+
+If you don't pay the 1800 off completely by the end, all that interest you would have saved gets added to the balance, making the interest-free financing useless.
+
+url:https://reddit.com/r/YouShouldKnow/comments/do9n59/
+author:Svargas05
+subreddit:YouShouldKnow
+score:11461
+numComments:321
+isOver18:False
+hasPostBody:True

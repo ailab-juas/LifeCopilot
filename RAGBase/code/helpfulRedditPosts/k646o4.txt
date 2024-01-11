@@ -1,0 +1,23 @@
+title:
+LPT: Make your bed and tidy your bedroom every day. Studies show this leads to endorphins and will help you to be productive and positive every day.
+
+content:
+It's very easy to let your bedroom into disarray if you're busy and living, but this tidiness will transform your life. Making your bed and putting dirty laundry in a hamper will significantly help you keep your space tidy, and only takes about thirty seconds.
+
+Edit: here are some sources on making your bed. 
+[lifehack](https://www.lifehack.org/articles/lifestyle/how-making-your-bed-every-morning-can-improve-your-life.html)
+[1 MD](https://1md.org/article/making-the-bed)
+
+On cleanliness being beneficial:
+[psychology Today](https://www.psychologytoday.com/us/blog/the-truisms-wellness/201607/the-powerful-psychology-behind-cleanliness)
+[pendragon homes](https://pendragonhomes.com/2017/12/04/six-mental-health-benefits-of-a-clean-house/)
+
+Enjoy your clean spaces.
+
+url:https://reddit.com/r/LifeProTips/comments/k646o4/
+author:itzykan
+subreddit:LifeProTips
+score:1236
+numComments:82
+isOver18:False
+hasPostBody:True

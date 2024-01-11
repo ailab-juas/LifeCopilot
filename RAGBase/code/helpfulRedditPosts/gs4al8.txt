@@ -1,0 +1,13 @@
+title:
+LPT: If you're travelling in a sketchy city, buy a cheap wallet and put a few dollars in it. If you get mugged, you can give them that wallet and keep your money and cards safe in another wallet.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/gs4al8/
+author:so_u_sa
+subreddit:LifeProTips
+score:18438
+numComments:717
+isOver18:False
+hasPostBody:False

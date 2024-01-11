@@ -1,0 +1,13 @@
+title:
+LPT: Use your work email ONLY FOR WORK. Your IT and management has full backdoor access to your mailbox to read everything, including your deleted emails. And even an option to send emails with your address.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/vo7atn/
+author:[deleted]
+subreddit:LifeProTips
+score:30043
+numComments:1906
+isOver18:False
+hasPostBody:True

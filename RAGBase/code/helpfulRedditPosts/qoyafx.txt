@@ -1,0 +1,15 @@
+title:
+YSK YouTube videos with ads can be skipped by pressing the “i” icon in the lower left, then “stop seeing this ad” and pressing “yes.”
+
+content:
+Why YSK: more and more ads are placed to promote YouTube premium these days. This can save you many seconds and you will get quicker at it as you do it more often.
+
+Edit:on mobile
+
+url:https://reddit.com/r/YouShouldKnow/comments/qoyafx/
+author:vanstabe
+subreddit:YouShouldKnow
+score:2230
+numComments:147
+isOver18:False
+hasPostBody:True

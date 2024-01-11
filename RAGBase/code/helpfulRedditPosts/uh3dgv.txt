@@ -1,0 +1,13 @@
+title:
+LPT: Senior dogs have a harder time regulating body temperature, so in the warmer months, take them for walks at dusk/night/dawn when it's much cooler outside.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/uh3dgv/
+author:friedwormsandwich
+subreddit:LifeProTips
+score:1008
+numComments:22
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,15 @@
+title:
+LPT: If you're sick to your stomach and know you're going to have to throw up to feel better, have a bit of vanilla ice cream first. It won't stop it, but it'll prevent most of the bad taste and burning that comes with sicking up.
+
+content:
+I know it sounds a bit weird, but I discovered it by accident when I was having a lot of stomach problems. The creamyness covers up the burning, and as gross as it sounds ice cream tastes almost as good on the return trip.
+
+When I told a coworker during her pregnancy, she tried it and wound up keeping ice cream in the house throughout her entire pregnancy it worked so well.
+
+url:https://reddit.com/r/LifeProTips/comments/1hb124/
+author:wes_the_rad
+subreddit:LifeProTips
+score:2000
+numComments:449
+isOver18:False
+hasPostBody:True

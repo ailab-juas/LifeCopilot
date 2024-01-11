@@ -1,0 +1,17 @@
+title:
+LPT When sending an important personal health, law or job related e-mail to your supervisor / boss from your work-e-mail, send yourself a BCC to your personal e-mail-adress as a back-up in case you need written proof (e.g. Proof that you have informed your boss about something crucial)
+
+content:
+Maybe this is common sense, but I had to learn it the hard way in my first proper job position. So apologies if this is redundant. I was gullible, but I'm smarter now.
+
+In short I was laid off my job because - according to my boss - I never mentioned the excessive workload, the lack of time to take care of everything and the fact that I never asked for help in handling said workload. When indeed I stressed in multiple meetings that I either need more time (i.e. paid work overtime or change my 20h contract to 25h) or help from my coworkers to achieve the deadlines and goals. Alas: I did so in person and via company mail. And wouldn't you know it, magically my work e-mails vanished the day I was laid off. So I had nothing as a proof to my "union" (I guess the state's worker's union in my country)
+
+Edit: /u/BayesianDice made an important point on making sure that BCC'ing mails to your personal e-mail adress is ALLOWED. So check first and if it's not allowed, find alterantive ways to protect yourself from your scheming bosses!
+
+url:https://reddit.com/r/LifeProTips/comments/vhmck0/
+author:Unrelenting_Optimism
+subreddit:LifeProTips
+score:1930
+numComments:77
+isOver18:False
+hasPostBody:True

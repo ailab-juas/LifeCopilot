@@ -1,0 +1,13 @@
+title:
+YSK : Uber will silently raise prices for you over time, the app tests how much you are willing to pay
+
+content:
+[deleted]
+
+url:https://reddit.com/r/YouShouldKnow/comments/ufeaud/
+author:[deleted]
+subreddit:YouShouldKnow
+score:21170
+numComments:1284
+isOver18:False
+hasPostBody:True

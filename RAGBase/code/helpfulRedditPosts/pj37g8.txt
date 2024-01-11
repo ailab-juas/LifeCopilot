@@ -1,0 +1,13 @@
+title:
+LPT: If something you need to assemble comes with a tool, such as an Allen Wrench, tape it to the bottom or underneath the object when you finish putting it together. You'll be thankful if ever you need to disassemble said object!
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/pj37g8/
+author:GunnoZero
+subreddit:LifeProTips
+score:4569
+numComments:146
+isOver18:False
+hasPostBody:False

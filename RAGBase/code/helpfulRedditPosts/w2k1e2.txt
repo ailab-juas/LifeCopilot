@@ -1,0 +1,25 @@
+title:
+YSK: that if a person changes their behavior towards you in a negative way, you should not ask a question centered around you, but rather one centered around them.
+
+content:
+For example: someone becomes distant, rude, or angry with you and you dont know why. Sometimes your first instinct is to ask a question like "Why are you angry with me?"
+
+Any "why....me" question is an especially poor choice because it both shows you're the center of your concern and makes the assumption that whatever is going on with them has something to do with you. This is not always true and having to explain that would just be an additional frustration to the person. 
+
+Even if you were to revise the question to eliminate the accusation/assumption, such as: "are you angry with me?". 
+This puts them on the defensive because you are making them explain their recent behavior and actions in regards to you, when they could, in fact, have absolutely nothing to do with you. It also communicates that you're not really concerned with them, but how they are treating you and how they are effecting you. 
+
+What you should ask instead: "Are you ok?" 
+This lets them know that you noticed something was off with them and you are concerned for them, not yourself. 
+
+Why YSK:
+
+Often times people change their behavior towards you due to factors that have absolutely nothing to do with you. They don't need you troubling them with your feelings on top of their own, and they may need you to help them through whatever the real problem is. We are all human and sometimes let our problems bleed into other aspects of our lives. This should be interpreted as more of a cry for help than an assault on others.
+
+url:https://reddit.com/r/YouShouldKnow/comments/w2k1e2/
+author:Mikealoped
+subreddit:YouShouldKnow
+score:13197
+numComments:380
+isOver18:False
+hasPostBody:True

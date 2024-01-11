@@ -1,0 +1,13 @@
+title:
+YSK that if you're looking to donate towards cancer research, you can bypass any non-profit organizations and donate directly to your local cancer research hospital.
+
+content:
+I was listening to / watching a podcast with British gaming commentator, John Bain, or TotalBiscuit (online alias), and he gave this advice, starting at 10:48 in [the podcast](https://youtu.be/Ozb2r7c0hxA?t=10m48s). What better way is there in order to know EXACTLY where your money is going when you donate, than straight to the source?
+
+url:https://reddit.com/r/YouShouldKnow/comments/8dfqb8/
+author:perpterts
+subreddit:YouShouldKnow
+score:5124
+numComments:74
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+YSK to restart/turn off your phone if you expect a police encounter. This will force a pin login on startup instead of facial recognition or thumb unlock.
+
+content:
+Police have been known to use fingerprint and facial unlock against people's wills to try to prove guilt while they're being detained. They can not force you to verbally give them your pin however. In my opinion you should have the option of not giving the police anything until meeting with your attorney  and this just helps to achieve that.
+
+url:https://reddit.com/r/YouShouldKnow/comments/d0kmta/
+author:clinkyscales
+subreddit:YouShouldKnow
+score:12726
+numComments:479
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,20 @@
+title:
+YSK the US Navy has a set of manuals to teach basic math all the way up to pre-Calculus and statistics
+
+content:
+The Navy has four manuals used to teach those with very minimal education basic math.
+
+To get a sense of the education level assumed, NAVEDTRA 14139 starts with a review of addition, subtraction, and multiplication (assuming that you've seen these things before but reminding you how to do them), the first full unit that is not a review is on fractions.
+
+* [NAVEDTRA 14139](http://militarynewbie.com/wp-content/uploads/2013/11/NAVEDTRA-14139-Mathematics-Basic-Math-and-Algebra.pdf) Mathematics Basic Math and Algebra - 13.8 MB
+* [NAVEDTRA 14140](http://militarynewbie.com/wp-content/uploads/2013/11/NAVEDTRA-14140-Mathematics-Trigonometry.pdf) Mathematics Trigonometry - 8.39 MB
+* [NAVEDTRA 14141](http://militarynewbie.com/wp-content/uploads/2013/11/NAVEDTRA-14141-Mathematics-Pre-Calculus-and-Introduction-to-Probability.pdf) Mathematics Pre Calculus and Introduction to Probability - 10.4 MB
+* [NAVEDTRA 14142](http://militarynewbie.com/wp-content/uploads/2013/11/NAVEDTRA-14142-Mathematics-Introduction-to-Statistics-Number-Systems-and-Boolean-Algebra-.pdf) Mathematics Introduction to Statistics Number Systems and Boolean Algebra - 6.61 MB
+
+url:https://reddit.com/r/YouShouldKnow/comments/7d0fqs/
+author:NotMyTypesType
+subreddit:YouShouldKnow
+score:8637
+numComments:353
+isOver18:False
+hasPostBody:True

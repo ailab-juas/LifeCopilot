@@ -1,0 +1,13 @@
+title:
+LPT If you want to look for an indivual frame in a youtube video press "," or "." to skip backwards or forwards 1 frame
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/jtvlty/
+author:digging_gecko
+subreddit:LifeProTips
+score:2235
+numComments:36
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: The correct order is Floss, Mouthwash, Brush. This keeps the fluoride on your teeth.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ub82yd/
+author:Jimfro
+subreddit:LifeProTips
+score:2999
+numComments:370
+isOver18:False
+hasPostBody:False

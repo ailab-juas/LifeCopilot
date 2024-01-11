@@ -1,0 +1,13 @@
+title:
+LPT: When you go to a big event with lots of people, change your phone lock screen background to a screenshot of text of a friend’s phone number. This way if you lose it and someone picks it up, they can immediately contact your friend without having to unlock or reset your phone.
+
+content:
+My friends and I have had backgrounds that say “IF LOST CALL OR TEXT” + one or two of our phone numbers. It’s saved our asses more than once!
+
+url:https://reddit.com/r/LifeProTips/comments/8kl8wd/
+author:neeeonwhales
+subreddit:LifeProTips
+score:23934
+numComments:717
+isOver18:False
+hasPostBody:True

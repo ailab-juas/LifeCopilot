@@ -1,0 +1,13 @@
+title:
+LPT: Learn to have healthy skepticism about things you hear and read. The new world is feeding our minds a universe of information. It's best to be indiscriminately skeptical of information validity. Question it all. Think for yourself.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/jcts7c/
+author:[deleted]
+subreddit:LifeProTips
+score:8322
+numComments:270
+isOver18:False
+hasPostBody:False

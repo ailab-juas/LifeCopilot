@@ -1,0 +1,20 @@
+title:
+YSK when you are leaving a voicemail that's going downhill fast that you can rerecord it unlimited times!
+
+content:
+This has been a lifesaver at my job. You can also listen to your voicemail or even abandon ship all together and delete it.
+
+Rerecord: # or * (depending on the carrier, but a prompt will tell you so just try both)
+
+Listen to the voicemail: 2 (if nothing happens, # then 2)
+
+Delete: 3 (if nothing happens, # then 3)
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/8pzgr9/
+author:Arynn
+subreddit:YouShouldKnow
+score:1166
+numComments:29
+isOver18:False
+hasPostBody:True

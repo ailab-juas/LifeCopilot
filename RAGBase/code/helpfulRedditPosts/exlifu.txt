@@ -1,0 +1,13 @@
+title:
+LPT: Never be mad at someone for something they don't know about. More times than not it's a miscommunication/misunderstanding and you can lose major relationships over it.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/exlifu/
+author:podotash
+subreddit:LifeProTips
+score:1098
+numComments:48
+isOver18:False
+hasPostBody:False

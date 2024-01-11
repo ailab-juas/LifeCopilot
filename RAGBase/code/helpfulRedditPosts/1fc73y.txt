@@ -1,0 +1,19 @@
+title:
+You Should Know when to use 'i.e.' and when to use 'e.g.'
+
+content:
+From the linked site: 
+
+&gt;When you mean “for example,” use e.g. It is an abbreviation for the Latin phrase exempli gratia. When you mean “that is,” use “i.e.” It is an abbreviation for the Latin phrase id est. Either can be used to clarify a preceding statement, the first by example, the second by restating the idea more clearly or expanding upon it. Because these uses are so similar, the two abbreviations are easily confused. If you just stick with good old English “for example” and “that is” you won’t give anyone a chance to sneer at you. If you insist on using the abbreviation, perhaps “example given” will remind you to use “e.g.,” while “in effect” suggests “i.e.”
+
+&gt;Since e.g. indicates a partial list, it is redundant to add “etc.” at the end of a list introduced by this abbreviation.
+
+[Source](http://public.wsu.edu/~brians/errors/e.g.html)
+
+url:https://reddit.com/r/YouShouldKnow/comments/1fc73y/
+author:Sizzmo
+subreddit:YouShouldKnow
+score:1681
+numComments:169
+isOver18:False
+hasPostBody:True

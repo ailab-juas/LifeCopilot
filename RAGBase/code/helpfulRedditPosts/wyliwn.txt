@@ -1,0 +1,19 @@
+title:
+YSK: Storing a grill (or other “outdoor” appliances) outside dramatically reduce the lifespan of that product.
+
+content:
+Why YSK: Most grills and outdoor appliances are marketed to be left outside on patios and decks. This is the worst place to store them. The weather (temperature changes, humidity, and rain) will make your grill deteriorate and rust much faster than if you store it out of the elements.
+
+The best thing you can do is store your grills and appliances covered in a garage. Second best place is in covered in an area out of the elements (like a gazebo). If you are unable to move the items, find a ***waterproof*** cover, and cover after each use. Make sure the appliance is cool before covering. In a pinch, a tarp will do.
+
+Doing this simple thing will drastically extend the life of your products. 
+
+(important, most covers are marketed as “water resistant”, you want *waterproof*)
+
+url:https://reddit.com/r/YouShouldKnow/comments/wyliwn/
+author:freefire2020
+subreddit:YouShouldKnow
+score:6825
+numComments:319
+isOver18:False
+hasPostBody:True

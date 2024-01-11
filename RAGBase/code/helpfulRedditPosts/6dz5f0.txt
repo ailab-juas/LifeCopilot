@@ -1,0 +1,27 @@
+title:
+YSK that the iPhone Reminders app can notify you once you've entered a certain radius of a chosen location.
+
+content:
+I use this feature quite frequently while traveling and it's proven to be successful every time. 
+
+For example, today I set my phone to notify me once I'm within 800ft of Ginza Station in Tokyo. This is how I did it.
+
+1. Go into your Reminders app and create a [new reminder](http://imgur.com/IYHXYBN.png) and select the (i)nformation button.
+
+2. Turn on ["Remind me at a location"](http://imgur.com/Q4ic2Nf)
+ 
+3. Enter your desired location, choose "When I arrive" and [set your desired radius](http://imgur.com/lkEVlZn.png). Note: the location must be registered in Apple's native Maps application.
+ 
+4. Go back, select "Done" and it should look [something like this](http://imgur.com/OULvoUe.png). 
+
+Enjoy!
+
+My iOS is still on 8.4 so interface may have changed a bit for updated users.
+
+url:https://reddit.com/r/YouShouldKnow/comments/6dz5f0/
+author:dcroc
+subreddit:YouShouldKnow
+score:1830
+numComments:108
+isOver18:False
+hasPostBody:True

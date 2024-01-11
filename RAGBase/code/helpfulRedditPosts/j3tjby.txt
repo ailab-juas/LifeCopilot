@@ -1,0 +1,13 @@
+title:
+LPT: If you want to become one of the “regulars” at a restaurant, introduce yourself to the staff.
+
+content:
+I work in a restaurant and our regulars always introduce themselves to the new staff and they’re on a first name basis with all of us.
+
+url:https://reddit.com/r/LifeProTips/comments/j3tjby/
+author:Jords4803
+subreddit:LifeProTips
+score:47693
+numComments:1772
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+YSK an ice cube can prevent your protein shake from foaming
+
+content:
+Why YSK: A lot of protein powders foam when you mix them in a shaker, and the foam makes them unpleasant to drink.
+
+Throwing one ice cube into the shaker before you shake it won't make your drink cold but it will prevent it from foaming. You can then drink it immediately and don't have to wait for the foam to go away.
+
+url:https://reddit.com/r/YouShouldKnow/comments/xpnvnv/
+author:bitchSpray
+subreddit:YouShouldKnow
+score:2294
+numComments:88
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Make some awesome night decorations
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/x4jan/
+author:Darkashe
+subreddit:LifeProTips
+score:1570
+numComments:285
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: Every 5 years or so, try healthy foods you don't like. Your tastes might have changed.
+
+content:
+Today I learned I love brussel sprouts, which I haven't had for over 10 years.
+
+url:https://reddit.com/r/LifeProTips/comments/intzl8/
+author:3IceShy
+subreddit:LifeProTips
+score:1795
+numComments:118
+isOver18:False
+hasPostBody:True

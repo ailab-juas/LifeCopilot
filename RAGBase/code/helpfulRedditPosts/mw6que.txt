@@ -1,0 +1,17 @@
+title:
+LPT: If you're stuck in the elevator call the Fire Department, not the building management/maintenance
+
+content:
+4th of July 2009, I was stuck in the elevator at my apartment complex for over an hour with ~~5~~ (Edit: it was actually 7) other people and a tiny dog.  The apartment manager, through the intercom, assured us that maintenance were on their way.  Finally, we called 911 after one person started having a panic attack.  The fire department arrived and set us free within 10 minutes and they told us we should have called them right away.
+
+The fire department has the means to enter a building and the tools to open the elevator.  Often times there is no maintenance team on site.  If they are, they usually do not have the tools to open an elevator and have to call in support off-site which may take a long time - especially on holidays or weekends.
+
+TLDR: The Fire Department will get there WAY faster than the people on the other side of the elevator intercom.
+
+url:https://reddit.com/r/LifeProTips/comments/mw6que/
+author:juntadna
+subreddit:LifeProTips
+score:49152
+numComments:2104
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: No matter how old you are, it's never too late to pick up an instrument or try your hand at artwork. Even if you have zero talent or ability, if you practice you will improve daily and be rewarded even if no one will ever hear you play or see your work.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/vm1hg5/
+author:latchkey_adult
+subreddit:LifeProTips
+score:1067
+numComments:67
+isOver18:False
+hasPostBody:False

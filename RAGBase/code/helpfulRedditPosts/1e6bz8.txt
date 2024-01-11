@@ -1,0 +1,13 @@
+title:
+YSK if a person is coughing or speaking they don't need the Heimlich maneuver.
+
+content:
+The only time a person needs the Heimlich maneuver is if they can't talk/cough because that means something is lodged in their windpipe. If they're coughing that means that air is passing through the trachea and they can breath, if you see this you should give them room to breath.
+
+url:https://reddit.com/r/YouShouldKnow/comments/1e6bz8/
+author:BewilderedAlbatross
+subreddit:YouShouldKnow
+score:1310
+numComments:104
+isOver18:False
+hasPostBody:True

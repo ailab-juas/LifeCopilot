@@ -1,0 +1,21 @@
+title:
+YSK to check the settings on your vehicle's headlights
+
+content:
+Lately I've seen a ton of cars on the road at night with no taillights, even though they have headlights on.
+
+These are *daytime running lights* that offer just enough light in the city to make it seem like your lights are fully on. This does not turn on your taillights, however, making you a hazard on the road - especially coming into winter when flying snow can obscure the vision of everyone on the road.
+
+So next time you're out at night, get out and walk around your car to see if all four lights are on. If yes, carry on. If no, check the headlights setting - usually on the left side of your steering wheel (Canada/USA). There may be simple on-off switches, or there might be an auto setting. Use the auto setting if you have it, as it is designed to turn on all lights when the sun goes down.
+
+If turning the switch to auto or on doesn't turn on your taillights, you may need new fuses or lamps. Some cars make the changes easy enough to do at home, and some don't. Google your car to see, and proceed as necessary.
+
+Drive safe!
+
+url:https://reddit.com/r/YouShouldKnow/comments/7b337q/
+author:Lexi_Banner
+subreddit:YouShouldKnow
+score:2532
+numComments:234
+isOver18:False
+hasPostBody:True

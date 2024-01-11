@@ -1,0 +1,13 @@
+title:
+LPT: Don't pay anyone (or any company) to consolidate your Federal Student Loans.
+
+content:
+I work in the industry, and I've met quite a few people who have paid a company to consolidate their loans for them. You can do so free at studentloans.gov 
+
+url:https://reddit.com/r/LifeProTips/comments/34aenv/
+author:CloseEnough_
+subreddit:LifeProTips
+score:4715
+numComments:788
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,17 @@
+title:
+YSK about Tomahawk, a free cross-platform client that combines your music collection from Spotify, Youtube, Grooveshark, last.fm, soundcloud etc, along with your local music collection.
+
+content:
+Here's the list of every music content provider they work with right now: http://www.tomahawk-player.org/resolvers.html
+
+If you and your friends own large collections on computers, you can listen to their tracks too. It's free and open source as well.
+
+[Link](http://www.tomahawk-player.org/index.html)
+
+url:https://reddit.com/r/YouShouldKnow/comments/2dsgn8/
+author:footballer285
+subreddit:YouShouldKnow
+score:1713
+numComments:169
+isOver18:False
+hasPostBody:True

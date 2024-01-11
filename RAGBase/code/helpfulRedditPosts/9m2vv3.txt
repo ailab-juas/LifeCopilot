@@ -1,0 +1,13 @@
+title:
+LPT: If you have near sightedness but forget your glasses/contact lenses, and need to read something far away (ex: fast food menu), take a picture of it with your phone
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/9m2vv3/
+author:Bungboy
+subreddit:LifeProTips
+score:1500
+numComments:162
+isOver18:False
+hasPostBody:False

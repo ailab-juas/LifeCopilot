@@ -1,0 +1,13 @@
+title:
+LPT: When someone gives you a compliment, accept it. Don't belittle yourself by saying "oh I don't know about that" or "I'm not sure about that" or "yeah right".
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/z0472g/
+author:Cheensly
+subreddit:LifeProTips
+score:4755
+numComments:229
+isOver18:False
+hasPostBody:False

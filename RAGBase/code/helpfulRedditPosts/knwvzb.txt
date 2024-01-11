@@ -1,0 +1,13 @@
+title:
+YSK: We turn our headlights on during snowstorms not to help us see but to help other drivers see us.
+
+content:
+Why YSK: If you’re visiting the mountains this winter and find yourself driving in snowy conditions, we kindly ask that you also turn your headlights on. Most people do this, but maybe 1/5 drivers do not. Cars get covered in snow and muddy water from melting snow, and it can be very difficult to see cars in your rear view mirrors or oncoming traffic if they don’t have their headlights on. Even if your car always has headlights on the tail lights are important as well. Please help make the road safer for yourself and others during your vacation! Big thanks!
+
+url:https://reddit.com/r/YouShouldKnow/comments/knwvzb/
+author:illpourthisonurhead
+subreddit:YouShouldKnow
+score:1050
+numComments:39
+isOver18:False
+hasPostBody:True

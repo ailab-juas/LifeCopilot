@@ -1,0 +1,13 @@
+title:
+LPT: If you put melted cheese in the bottom of a taco first, the shell won't split.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/cjaizx/
+author:hyteck9
+subreddit:LifeProTips
+score:35272
+numComments:1854
+isOver18:False
+hasPostBody:False

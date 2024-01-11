@@ -1,0 +1,13 @@
+title:
+LPT: If you ever find yourself remembering a cringey/embarrassing memory, play the Seinfeld theme over it.
+
+content:
+Playing jokey songs like the Seinfeld or Curb Your Enthusiasm theme in your head helps cushion the cringe blow and transform it into a funny memory.
+
+url:https://reddit.com/r/LifeProTips/comments/itaznw/
+author:bluesheep123
+subreddit:LifeProTips
+score:29327
+numComments:555
+isOver18:False
+hasPostBody:True

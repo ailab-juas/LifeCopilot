@@ -1,0 +1,23 @@
+title:
+YSK: Robinhood isn't the only brokerage that offers commission-free stock trading
+
+content:
+**Why YSK: Many people who joined Robinhood did so to avoid the commission fees charged by other brokerage firms. However, commission-free trading is a much more standard practice than it was a few years ago. While Robinhood may deserve credit for this, it doesn't mean you have to stick with them.**
+
+You've probably heard about their response to the Gamestop incident, so I won't reiterate it. However, this isn't the first time Robinhood's business practices have sparked controversy. If you're not informed enough to be trusted with what freedom they *do* give you, you have other options, like a robo-investor. And if you're an active and informed trader, or you just really want to blow your money on GME stock to make a point, you're not even in their target market.
+
+I'll refrain from recommending a particular service, as I'm not a professional and it's *extremely* important to read the fine print. Some brokerages may offer commission-free trades as a temporary promotion, and some will offset the reduced cost by charging customers in less obvious ways, a practice Robinhood has been accused of. You should *always* know what you're getting into.
+
+EDIT: A few more things: First of all, a lot of people are angry at Robinhood right now. I'm one of them. However, please don't impulsively sell stocks or close your accounts without knowing how long the liquidation process takes, what you're gonna do with your money, and what a "wash sale" is.
+
+Secondly, there are a lot of false as well as confusing reports about the Gamestop incident, including which companies are doing what, so be careful when trying to piece it together.
+
+And finally, RIP my inbox.
+
+url:https://reddit.com/r/YouShouldKnow/comments/l74lkw/
+author:[deleted]
+subreddit:YouShouldKnow
+score:26600
+numComments:751
+isOver18:False
+hasPostBody:True

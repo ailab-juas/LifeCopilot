@@ -1,0 +1,16 @@
+title:
+YSK garlic confit in oil can kill you, if stored improperly
+
+content:
+Why YSK:
+“Garlic in oil is very popular, but homemade garlic in oil can cause botulism if not handled correctly. Unrefrigerated garlic-in-oil mixes can foster the growth of clostridium botulinum bacteria, which produces poisons that do not affect the taste or smell of the oil. Spores of this bacteria are commonly found in soil and can be on produce such as garlic. It is virtually impossible to eliminate all traces of miniscule soil particles on garlic heads. These botulinum spores found in soil are harmless when there is oxygen present. But when spore-containing garlic is bottled and covered with oil, an oxygen-free environment is created that promotes the germination of the spores and produces a toxin that can occur at 50 degrees Fahrenheit or above.” (I.E. room temp)
+
+https://www.canr.msu.edu/news/stinking_facts_about_garlic
+
+url:https://reddit.com/r/YouShouldKnow/comments/xejuce/
+author:0000000000000007
+subreddit:YouShouldKnow
+score:1110
+numComments:102
+isOver18:False
+hasPostBody:True

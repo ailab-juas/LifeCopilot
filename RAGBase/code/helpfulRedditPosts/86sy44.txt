@@ -1,0 +1,13 @@
+title:
+LPT: If someone tells you about an event in their life coming up, add it to your calendar. So you can follow up with them after no matter how big or small it is. Makes you a better friend.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/86sy44/
+author:jsonArray
+subreddit:LifeProTips
+score:44884
+numComments:628
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: Always add a splash of vanilla to pancake mix
+
+content:
+Make your boxed pancake mix as per the instructions then add a splash of vanilla extract to the batter. Makes all the difference
+
+url:https://reddit.com/r/LifeProTips/comments/t243a1/
+author:attabe123
+subreddit:LifeProTips
+score:4915
+numComments:407
+isOver18:False
+hasPostBody:True

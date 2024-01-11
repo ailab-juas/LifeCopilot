@@ -1,0 +1,18 @@
+title:
+LPT: Need to quickly divide a number by 5? Multiply the number by 2 and move the decimal point once to the left.
+
+content:
+For example, if you need to quickly divide 73 by 5, just multiply 73 by 2 to get 146. Move the decimal point to the left to get 14.6, and 14.6 = 73/5.
+
+Another example. Need to divide 630 by 5? Well, 630*2 = 1260. Move the decimal point and your answer is 126.
+
+
+Edit: Woke up to quite a bit of exposure. Thanks all so much!
+
+url:https://reddit.com/r/LifeProTips/comments/80fhtg/
+author:anthonybustamante
+subreddit:LifeProTips
+score:3340
+numComments:177
+isOver18:False
+hasPostBody:True

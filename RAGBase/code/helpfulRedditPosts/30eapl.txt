@@ -1,0 +1,19 @@
+title:
+YSK about YouTab, a website that turns YouTube videos into chords
+
+content:
+This site seems to be using an algorithm to extract the chords from YouTube videos. In most cases it does a decent job. There's a fix button that allows you to improve on the content and lyrics are supported to some extent.
+
+While they still have some work to do it seems very promising and is a useful tool for aspiring musicians.
+
+[Search YouTube](https://www.youtab.me/create)
+
+[Available songs](https://www.youtab.me/discover)
+
+url:https://reddit.com/r/YouShouldKnow/comments/30eapl/
+author:MarcosBunch
+subreddit:YouShouldKnow
+score:2005
+numComments:109
+isOver18:False
+hasPostBody:True

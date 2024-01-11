@@ -1,0 +1,15 @@
+title:
+YSK: Apple Music deletes your original songs and replaces them with Apple-protected versions
+
+content:
+Why YSK: I recently made the mistake of allowing Apple Music to sync with my old iTunes library, which was full of mp3s and ripped CDs from over 10 years ago (aka my rightful files). After syncing the library so I could have my iTunes songs on my phone, I started noticing that some of them are no longer explicit versions and some are just plain missing from their folders. 
+
+In an attempt to save effort, Apple Music may replace your files with their own stored versions that are not necessarily identical to the ones you have. These files are protected and are not really "your" property anymore. And in some cases, if there's any lapse in payment or something on their end messes up, you might lose your files forever. Like I did. I now have hundreds of songs missing and unrecoverable. Thought I would put this out there to save someone else some pain.
+
+url:https://reddit.com/r/YouShouldKnow/comments/zl8ko3/
+author:evilerutis
+subreddit:YouShouldKnow
+score:35057
+numComments:1868
+isOver18:False
+hasPostBody:True

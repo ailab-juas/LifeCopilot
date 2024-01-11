@@ -1,0 +1,19 @@
+title:
+LPT: If you have both a paper and presentation due, skip straight to the presentation and use it to structure your paper.
+
+content:
+This has worked for nearly every discipline I've studied.
+
+The first step is finding references, but once you've done your reading and collected your information, the next step is structuring your paper logically. If you have trouble following outlines, doing the presentation first can help.
+
+When you create a presentation, you prepare it in the most logical and easy-to-follow format because you'll be delivering information to a group of people. You can then use your presentation to structure your paper and guarantee you don't miss anything. For example, people rarely remember to define terms in the context of their paper; in a presentation, it's common to include a glossary slide. When you're writing your paper, you'll remember to either include a short statement about the terms' definitions when the vocabulary is used or a short paragraph defining the words being used throughout.
+
+*e* Guys, writing advice is not prescriptive. Do what works for you. It's pretty silly to bash people for having different methods than you.
+
+url:https://reddit.com/r/LifeProTips/comments/1s48y1/
+author:[deleted]
+subreddit:LifeProTips
+score:1753
+numComments:161
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: If your friend or coworker tells you they got a new job, ask them the start date and put it in your calendar so you can text them a good luck / happy first day message
+
+content:
+I know I’d feel nice receiving this, so I’ve been doing it for the past few years. I have a terrible memory so I put an event on my calendar so I can remember to text them that morning.
+
+url:https://reddit.com/r/LifeProTips/comments/i3qtxx/
+author:bubble_chart
+subreddit:LifeProTips
+score:72027
+numComments:674
+isOver18:False
+hasPostBody:True

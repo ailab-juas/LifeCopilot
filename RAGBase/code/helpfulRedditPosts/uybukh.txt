@@ -1,0 +1,17 @@
+title:
+YSK - How to Skip silences in the videos you watch as well as speed them up to 2x+ speed.
+
+content:
+ 
+
+You can use extensions such as [Skip Silence](https://chrome.google.com/webstore/detail/skip-silence/fhdmkhbefcbhakffdihhceaklaigdllh?hl=en) to allow you to change the speed increments so you can watch at 2x+ speed or higher, as well as skip silences in the video.
+
+ **Why YSK:**  because often people sit through long videos at the default speed and could save an immense amount of time by skipping the silent parts in the video as well as speeding up the default speed of the video.
+
+url:https://reddit.com/r/YouShouldKnow/comments/uybukh/
+author:andy404040
+subreddit:YouShouldKnow
+score:1912
+numComments:99
+isOver18:False
+hasPostBody:True

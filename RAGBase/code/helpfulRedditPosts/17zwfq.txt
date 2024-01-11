@@ -1,0 +1,13 @@
+title:
+LPT: When filming a video with your phone at a concert, put a finger over where the sound is picked up.
+
+content:
+For instance, on an iPhone, cover the bottom of your phone with your finger/hand. This keeps the sound muffled, but it sounds a lot clearer when you play it back later. This works great for loud concerts.
+
+url:https://reddit.com/r/LifeProTips/comments/17zwfq/
+author:sk1990
+subreddit:LifeProTips
+score:1133
+numComments:271
+isOver18:False
+hasPostBody:True

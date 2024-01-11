@@ -1,0 +1,15 @@
+title:
+YSK You Can Get Your Taxes Done Free Online
+
+content:
+Why YSK: You shouldn't have to pay to do your taxes correctly.
+
+In the USA the government offers many free resources to do your taxes. Here is a direct link to the site with every company available through the IRS Free File Online: https://apps.irs.gov/app/freeFile/browse-all-offers/
+
+url:https://reddit.com/r/YouShouldKnow/comments/srqsum/
+author:ZoidRock56
+subreddit:YouShouldKnow
+score:6822
+numComments:291
+isOver18:False
+hasPostBody:True

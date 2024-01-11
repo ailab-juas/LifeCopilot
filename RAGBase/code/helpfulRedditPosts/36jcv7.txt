@@ -1,0 +1,13 @@
+title:
+LPT: When you're trying to blackout a window use tin foil, it's cheap, easy to work with, easy to remove, blinds cover it, and sunlight can't penetrate it.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/36jcv7/
+author:xsamsarax
+subreddit:LifeProTips
+score:1023
+numComments:358
+isOver18:False
+hasPostBody:False

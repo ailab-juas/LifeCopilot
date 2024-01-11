@@ -1,0 +1,13 @@
+title:
+LPT: If you are painting a room in your house, write the brand and color name of the paints you’re using behind the light switch or electrical plates in case you ever need to touch up and don’t have the original cans.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/oaygco/
+author:aaareed
+subreddit:LifeProTips
+score:5179
+numComments:130
+isOver18:False
+hasPostBody:False

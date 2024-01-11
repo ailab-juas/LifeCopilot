@@ -1,0 +1,13 @@
+title:
+LPT: If you feel anxious before talking on the phone, try writing down everything you want to say.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ivqp2p/
+author:[deleted]
+subreddit:LifeProTips
+score:1552
+numComments:60
+isOver18:False
+hasPostBody:False

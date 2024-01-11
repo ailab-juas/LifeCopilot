@@ -1,0 +1,17 @@
+title:
+YSK: you can report churches and other tax-exempt organizations for a variety of offenses.
+
+content:
+Why YSK: many organizations are not paying taxes when they should be. You can help fix the issue by filling out a form.
+
+https://www.irs.gov/pub/irs-pdf/f13909.pdf
+
+Edit for neutrality/placation: most churches do not violate the listed policies.
+
+url:https://reddit.com/r/YouShouldKnow/comments/uwcy6t/
+author:Barcata
+subreddit:YouShouldKnow
+score:2576
+numComments:182
+isOver18:False
+hasPostBody:True

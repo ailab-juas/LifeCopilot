@@ -1,0 +1,13 @@
+title:
+LPT: Go to the zoo when it is a little cool outside. The animals will be active trying to warm up.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/56ysy7/
+author:bl0ckhead9
+subreddit:LifeProTips
+score:5180
+numComments:1272
+isOver18:False
+hasPostBody:False

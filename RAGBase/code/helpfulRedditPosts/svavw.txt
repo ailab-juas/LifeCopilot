@@ -1,0 +1,13 @@
+title:
+YSK NPR has teamed up with TED to produce the TED Radio Hour. Here is their first show, enjoy!
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/svavw/
+author:lowmigx3
+subreddit:YouShouldKnow
+score:1078
+numComments:35
+isOver18:False
+hasPostBody:False

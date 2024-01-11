@@ -1,0 +1,13 @@
+title:
+LPT: When getting automotive work done, say you're looking for a second opinion.
+
+content:
+Mechanics tend to be more honest and inclined to give you a fair deal/assessment if they think they're competing for the work.
+
+url:https://reddit.com/r/LifeProTips/comments/44tc3c/
+author:PM_UR_NIPPLE_PIERCNG
+subreddit:LifeProTips
+score:2100
+numComments:326
+isOver18:False
+hasPostBody:True

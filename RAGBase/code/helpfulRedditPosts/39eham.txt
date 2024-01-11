@@ -1,0 +1,27 @@
+title:
+LPT: Use Human Nature to Shave Time Off Your Commute
+
+content:
+This is a pretty basic LPT that I've used daily over the last 18 months to shave anywhere from 5-20 mins off of my daily morning commute in Seattle. I expect it will work in other major cities with rush hour traffic.
+
+
+Most people stick to a pretty standard morning routine and typically aim to leave home in predictable quarter to half-hour increments. In other words, 6:30AM, 7:15AM, 7:30 AM, etc. This  seems to create "waves" of commuters that hit arterial roads shortly after these increments. 
+
+
+Time your morning routine to get you out onto the streets at an odd time increment, such as 7:07AM or 6:53AM. This should give you a head start on the next wave of commuters leaving home at one of the more predictable increments. 
+
+
+Obviously, the closer you get to peak rush hour, the less effective this becomes, but I've found that leaving home between 7:12 and 7:22AM makes an incredible difference vs. leaving at 7:30 AM. It may take a little experimentation to find the sweet spot for your neighborhood. 
+
+
+**TL,DR:** Aim to get out onto the road between the normal quarter and half hour increments that most people tend to stick to and you can take advantage of lulls in traffic patterns. 
+
+EDIT: Jeebus, did I pick the wrong day to post to Reddit.
+
+url:https://reddit.com/r/LifeProTips/comments/39eham/
+author:TheStegg
+subreddit:LifeProTips
+score:2386
+numComments:749
+isOver18:False
+hasPostBody:True

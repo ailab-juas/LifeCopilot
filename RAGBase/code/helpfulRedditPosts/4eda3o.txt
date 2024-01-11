@@ -1,0 +1,17 @@
+title:
+LPT: If your car gets a parking ticket, always check the plate number on the ticket.
+
+content:
+Story time: yesterday I found a ticket on my car's windshield. It was from a private parking enforcement company and my car was parked on the street. I knew I was legally parked, and I also happen to be a former employee of this company and know that they don't check street parking (the city does). I checked the plate number on the ticket, and it was for a different car - same color and type as mine, but different manufacturer.
+
+This is actually the second time something like this has happened to me. The first time was when I was working for this parking enforcement company. One of the perks was that when I was off-duty I'd be able to park in company-run lots without paying and if I got ticketed, I'd just turn it over to my boss to void at the end of the week. One day I got a ticket for a car that wasn't mine and pointed it out to my boss, thinking that the lot-checker that day must really suck at his job. My boss says "I know what this is" and explains to me that sometimes people will try to get out of paying a ticket by leaving it on the windshield of another car, hoping that the other driver will pay it without noticing it wasn't for them. He said "This is one ticket I won't be voiding - let's let them have fun with our collections department." What killed me the most about that one was that the car it was for was a brand new BMW convertible, and I was driving a 20-year-old Mazda that showed all the signs of having been the car that two siblings and I had first learned to drive in. In the absence of any other evidence, I'm forced to assume the BMW belonged to Donald Trump.
+
+TL;DR: there are dickheads out there who will try to trick you into paying their parking ticket for them by leaving it on your windshield, so make sure to check the plate number on the ticket before paying it off.
+
+url:https://reddit.com/r/LifeProTips/comments/4eda3o/
+author:CaptJackRizzo
+subreddit:LifeProTips
+score:4939
+numComments:978
+isOver18:False
+hasPostBody:True

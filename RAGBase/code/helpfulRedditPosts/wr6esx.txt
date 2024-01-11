@@ -1,0 +1,13 @@
+title:
+LPT: if you're looking for a new hobby. Cooking is one of the most rewarding and easy hobbies to adopt (as you have 3+ opportunities to practice each day).
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/wr6esx/
+author:Sgabonna
+subreddit:LifeProTips
+score:13054
+numComments:664
+isOver18:False
+hasPostBody:False

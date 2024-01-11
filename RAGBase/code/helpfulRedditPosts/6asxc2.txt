@@ -1,0 +1,13 @@
+title:
+LPT: When you ask your boss' help to solve a problem, always have at least one approach to suggest. It might be not the best one, but it will make them respect you more.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/6asxc2/
+author:krinart
+subreddit:LifeProTips
+score:12900
+numComments:453
+isOver18:False
+hasPostBody:False

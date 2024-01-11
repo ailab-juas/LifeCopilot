@@ -1,0 +1,13 @@
+title:
+LTP: Can't type ¯\_(ツ)_/¯? I made a website that has all the unicode faces (ಠ_ಠ) and copies them to your clipboard when you click on them.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1emfmd/
+author:defaultnamehere
+subreddit:LifeProTips
+score:1169
+numComments:275
+isOver18:False
+hasPostBody:False

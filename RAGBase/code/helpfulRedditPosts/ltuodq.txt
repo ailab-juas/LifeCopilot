@@ -1,0 +1,13 @@
+title:
+LPT: Your cover letters purpose is to explain how your previous experience makes you ready for the job. "I can do x because I did y." At the same time you explain you understand the job. Then the CV becomes just "proof" of that.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ltuodq/
+author:Fairfax7
+subreddit:LifeProTips
+score:29216
+numComments:641
+isOver18:False
+hasPostBody:False

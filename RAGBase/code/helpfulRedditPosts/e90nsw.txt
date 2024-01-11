@@ -1,0 +1,17 @@
+title:
+YSK: burn a jar candle for the first time until the entire top layer of wax has melted (at least a few hours) to prevent tunneling.
+
+content:
+Wax that has already melted once will melt much faster next time. This is what leads to ["tunneling"](https://4.bp.blogspot.com/-QdQlcXLTpLY/UkMQ89uF_SI/AAAAAAAAA1U/RMRkI1d6wE8/s1600/candle-tunnel.jpg) of pillar candles: the second time around, the little melted wax pool from the first burn will melt first, then melt the wax around it, leading to the candle burning much faster downwards than across. And so on, every single time.
+
+So the key is that very first burn! If the entire top layer of wax melts, then this entire top level will melt more quickly next time, leading to uniform warming and melting all the way across from thereon out. This will take a few hours (a general rule of thumb is 1 hour for every inch in diameter), so make sure to make time for this!
+
+[Source,](https://www.candlejunkies.com/complete-guide-to-preventing-and-fixing-candle-tunneling/) which also has instructions on how fix a tunneled candle, but it's much more labor and time intensive than just preventing it!
+
+url:https://reddit.com/r/YouShouldKnow/comments/e90nsw/
+author:flamants
+subreddit:YouShouldKnow
+score:8794
+numComments:154
+isOver18:False
+hasPostBody:True

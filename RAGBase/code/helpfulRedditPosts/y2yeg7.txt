@@ -1,0 +1,26 @@
+title:
+YSK: It isn’t libel/slander if it’s true.
+
+content:
+Edit: Yes, we get it, this isn’t true in every place. There are 200 comments making that very clear. Do your due diligence, folks. 
+
+Defaming someone’s character/business/actions is only considered libelous (written defamation) or slanderous (spoken defamation) if the claims are false. 
+
+Why YSK: As an example, business owners might be upset about negative reviews and threaten to sue customers who write them. But customers are allowed to freely post about their negative experiences and the business will have no legal ground if the customers can provide evidence that their experience was true. 
+
+If you have a bad experience or plan to publish something negative, do what you can to support your statements (take pics, have witnesses, keep receipts, etc.). 
+
+
+(Note: this is to protect others from having a similarly bad experience, and shouldn’t be used as an excuse to be an asshole.)
+
+Source: https://www.freedomforuminstitute.org/about/faq/is-truth-a-defense-in-libel-lawsuits/
+
+Edit: This is based on my knowledge of US laws and isn’t universally true. Obviously don’t take this post as gospel and check your local jurisdiction.
+
+url:https://reddit.com/r/YouShouldKnow/comments/y2yeg7/
+author:ba113r1na
+subreddit:YouShouldKnow
+score:7125
+numComments:244
+isOver18:False
+hasPostBody:True

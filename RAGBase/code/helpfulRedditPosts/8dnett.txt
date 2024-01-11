@@ -1,0 +1,13 @@
+title:
+LPT: If you're someone who finds it hard to get started on a task, tell yourself you'll do it for 30 minutes only. You have given yourself permission to stop after 30 minutes, but the likelihood is you'll carry on.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/8dnett/
+author:FoggingTheView
+subreddit:LifeProTips
+score:30112
+numComments:518
+isOver18:False
+hasPostBody:False

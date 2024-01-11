@@ -1,0 +1,15 @@
+title:
+LPT: Use you turn signal even if there are no other cars around
+
+content:
+Blinking a few seconds in advance of turning or changing lanes can alert motorists that you didn't know were there. For instance a motorcycle that was in your blind spot will have time to react and get out of the way.
+
+Source: Me. As a motorcycle rider I'm always thinking have you seen me? And what are you going to do next?
+
+url:https://reddit.com/r/LifeProTips/comments/4gnr9b/
+author:ni9e
+subreddit:LifeProTips
+score:1174
+numComments:262
+isOver18:False
+hasPostBody:True

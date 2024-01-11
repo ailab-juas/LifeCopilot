@@ -1,0 +1,15 @@
+title:
+LPT If you accidentally type something in all caps, highlight it and hit Shift+F3
+
+content:
+The same also works if you need to change lowercase to caps.
+
+Edit: As some people below have pointed out, this is indeed a ~~Windows~~ Microsoft Office feature. Personally I have used this on Microsoft Word and Outlook. Sorry for not being clearer, I don't use other operating systems very much, so don't get the chance to test these sort of things!
+
+url:https://reddit.com/r/LifeProTips/comments/84nr0n/
+author:Lady_Tech_Support
+subreddit:LifeProTips
+score:26914
+numComments:765
+isOver18:False
+hasPostBody:True

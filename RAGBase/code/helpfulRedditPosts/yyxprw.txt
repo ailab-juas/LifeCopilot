@@ -1,0 +1,13 @@
+title:
+LPT: Don't just let kids win at games. You can slow it down, you can teach them strategy, but keep it real. Someday, they will beat you fair and square, and it will be a moment they always remember with pride.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/yyxprw/
+author:zazzlekdazzle
+subreddit:LifeProTips
+score:43147
+numComments:1238
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,19 @@
+title:
+YSK that you can get past the YouTube 18+ content filter without having to log in.
+
+content:
+Simply change
+
+&gt;**youtube.com/watch?v=dQw4w9WgXcQ**
+
+to 
+
+&gt;**youtube.com/v/dQw4w9WgXcQ**
+
+url:https://reddit.com/r/YouShouldKnow/comments/1g90y5/
+author:_Zaga_
+subreddit:YouShouldKnow
+score:1339
+numComments:61
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Wrap a wet paper towel around your beverage and put it in the freezer. In about 15 minutes it will be almost completely ice cold.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/x2ndh/
+author:jack_brightside
+subreddit:LifeProTips
+score:2917
+numComments:491
+isOver18:False
+hasPostBody:False

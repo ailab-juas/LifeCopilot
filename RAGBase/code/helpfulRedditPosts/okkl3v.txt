@@ -1,0 +1,15 @@
+title:
+YSK that your iPhone can scan documents
+
+content:
+Why YSK: With recent comments in the news about how many rural folks cannot easily photocopy a document — your iPhone can do so. (Android too, maybe?)
+
+Open a new note in the Notes app, then click on the camera and choose “scan documents”. This is not the same as taking a picture of a piece of paper! It identifies the edges of your document, squares it off, and saves it as a PDF. I’ve used this for signed contracts and the other parties could not tell a difference.
+
+url:https://reddit.com/r/YouShouldKnow/comments/okkl3v/
+author:A7omicDog
+subreddit:YouShouldKnow
+score:4652
+numComments:207
+isOver18:False
+hasPostBody:True

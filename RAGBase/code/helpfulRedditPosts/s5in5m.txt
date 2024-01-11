@@ -1,0 +1,18 @@
+title:
+YSK: Download PDF versions of all of your better appliances and save them to an “Owner’s Manuals” folder on your computer/mobile device.
+
+content:
+
+I’ve owned my home for about 10 years now, and during that time, I purchased a lot of different appliances and devices. Every now and then, I have an issue with one of them, and I have to try to find the owners manual. At a certain point I realized I could just consolidate everything digitally, so I created a file folder on my computer specifically for PDF versions of owners manuals, then I went and found all the ones that I owned… lawnmower, washer/dryers, TVs, SoundBars, etc. 
+
+It’s saved me a lot of time and energy having everything available in one place for when I need it. This tip is pretty basic, but hopefully it helps somebody.
+
+Why YSK: it helps you stay organized, find troubleshooting resources quicker, and takes up less space… and you can’t lose them.
+
+url:https://reddit.com/r/YouShouldKnow/comments/s5in5m/
+author:diverareyouok
+subreddit:YouShouldKnow
+score:6059
+numComments:120
+isOver18:False
+hasPostBody:True

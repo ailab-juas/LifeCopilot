@@ -1,0 +1,17 @@
+title:
+LPT: Having trouble getting ahold of a real human on Apple Tech Support? Drop an F-bomb. (Marked [NSFW] just in case)
+
+content:
+First off, I don't post a lot of stuff so I couldn't figure out how to mark as NSFW, please tell me if I did it wrong so I can fix it.
+
+Second, not kidding on this one. I was having some trouble with my (older) laptop and wanted to order a new keyboard to fix it myself. After exploring every option possible in the machine based list, I eventually got frustrated and used a few choice words that triggered something in the computer I was talking to.
+
+It cut itself off in mid-sentence, apologized, and in about 10 more seconds I was talking to an Apple tech. Unfortunately for me, he couldn't help me order my new keyboard. At least I got the answer that they aren't made anymore, instead of having to drive over an hour to the closest Apple store for the same information.
+
+url:https://reddit.com/r/LifeProTips/comments/13izmn/
+author:floppybutton
+subreddit:LifeProTips
+score:1321
+numComments:284
+isOver18:True
+hasPostBody:True

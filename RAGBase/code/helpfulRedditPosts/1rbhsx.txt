@@ -1,0 +1,13 @@
+title:
+YSK there is an online version of Cards Against Humanity
+
+content:
+http://pyz.socialgamer.net/game.jsp I don't have any friends that would be willing to play such a horrible (and fun!) game so I play it with people online!
+
+url:https://reddit.com/r/YouShouldKnow/comments/1rbhsx/
+author:Lifebreaker
+subreddit:YouShouldKnow
+score:1368
+numComments:119
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+YSK: Sal Khan, founder and CEO of Khan Academy, created over 6,500 videos that can educate you (for most undergrad classes) on almost every topic in physics, math, astrology, history, economics and finance FOR FREE. His videos are great extensions to learning and help fill gaps of knowledge.
+
+content:
+You can check his videos out on YouTube and Khan Academy!
+
+url:https://reddit.com/r/YouShouldKnow/comments/f8kmhw/
+author:dbreggs22
+subreddit:YouShouldKnow
+score:55254
+numComments:894
+isOver18:False
+hasPostBody:True

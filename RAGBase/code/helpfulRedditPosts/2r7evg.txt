@@ -1,0 +1,15 @@
+title:
+LPT: If you are just starting at the gym and doing cardio, set a distance limit and not a time limit
+
+content:
+If you say you'll run for 10 minutes you may find yourself going slower and walking towards the end. Even worse for machines you control the speed of (rowing and cycling). 
+
+Set a distance and make a mental note of a time you want to beat. The less you work the longer it takes. 
+
+url:https://reddit.com/r/LifeProTips/comments/2r7evg/
+author:kinder_teach
+subreddit:LifeProTips
+score:1105
+numComments:112
+isOver18:False
+hasPostBody:True

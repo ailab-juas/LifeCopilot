@@ -1,0 +1,13 @@
+title:
+LPT: If you aren't getting the internet speed you pay for, try using a CAT-5e or CAT-6 cable instead of WiFi.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/2ft104/
+author:jacoman74
+subreddit:LifeProTips
+score:1771
+numComments:806
+isOver18:False
+hasPostBody:False

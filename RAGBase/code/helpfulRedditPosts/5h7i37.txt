@@ -1,0 +1,13 @@
+title:
+LPT: If you're put on hold and don't hear music there's a good chance you're just muted and they can still hear you
+
+content:
+Might not want to say mean things about someone trying to find you an answer or sing in your car...we can hear you 
+
+url:https://reddit.com/r/LifeProTips/comments/5h7i37/
+author:HerViciousSmile
+subreddit:LifeProTips
+score:38176
+numComments:2924
+isOver18:False
+hasPostBody:True

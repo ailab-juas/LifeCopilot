@@ -1,0 +1,29 @@
+title:
+LPT: When proofreading your own work, change the font to something you would not normally use.
+
+content:
+For me, this method is more effective than reading the sentences in reverse order, printing out the document and reading it on paper, or other such methods offered on LPT before.  
+
+The more obnoxious the font, the better.  It should make you feel like someone else wrote the text and that you don't like them very much, allowing you to be very critical of "their" work.  I use comic sans, freestyle script, or ravie.
+
+If you normally write in one of those fonts, then pick a font that a normal person would use and also be aware that I don't like you very much.
+
+Edit:  Other methods provided here
+
+1. Read the sentences in reverse order
+
+2. Read it aloud
+
+3. Have a text-to-speech program read it aloud to you.
+
+4. Put it down and come back to it later.
+
+None of these are mutually exclusive, mix and match what works for you.
+
+url:https://reddit.com/r/LifeProTips/comments/431jj1/
+author:Googunk
+subreddit:LifeProTips
+score:4956
+numComments:511
+isOver18:False
+hasPostBody:True

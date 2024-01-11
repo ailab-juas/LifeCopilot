@@ -1,0 +1,15 @@
+title:
+YSK about HLTB, a website that shows you how long it will take to beat a video game depending on your play style.
+
+content:
+http://www.howlongtobeat.com/
+
+Awesome for gamers that are looking at buying different games, renting games, or trying to organize their library!
+
+url:https://reddit.com/r/YouShouldKnow/comments/28tgua/
+author:FoldedRose
+subreddit:YouShouldKnow
+score:1372
+numComments:141
+isOver18:False
+hasPostBody:True

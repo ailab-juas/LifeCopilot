@@ -1,0 +1,20 @@
+title:
+YSK that the College of Veterinarians of Ontario (CVO.org) regulates the delivery of veterinary medicine in Ontario, and that you can look up vet names on their website prior to selecting a vet for your animal to ensure they are the safest choice.
+
+content:
+Why YSK:
+
+Looking up a vet through the CVO to ensure they don’t have record of issues (such as history of complaints or malpractice charges) could potentially save your pets life!
+
+We recently scheduled one of our small dogs for a dental cleaning with someone other than our usual vet. A friend had recommended them and they advertised more affordable dental care. An online search for their clinic showed almost 200 positive google reviews and
+an average 4.5 star rating.
+
+Despite this, we have just canceled the appointment after learning that this vet has had multiple license suspensions and fines for malpractice over the past 10 years (several of which led to the unnecessary suffering and death of the animals he was treating). I was shocked that despite this history, there was no obligation to report this through their clinic and that it wasn't obvious when looking at their google reviews After this experience, we will be checking CVO.org anytime we are considering a new vet for our animals.
+
+url:https://reddit.com/r/YouShouldKnow/comments/yoqm4x/
+author:Dambowie
+subreddit:YouShouldKnow
+score:1100
+numComments:25
+isOver18:False
+hasPostBody:True

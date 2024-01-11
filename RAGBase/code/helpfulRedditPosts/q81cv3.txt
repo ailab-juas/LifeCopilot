@@ -1,0 +1,28 @@
+title:
+LPT: Talk to a live person at the IRS with one call
+
+content:
+1-800-829-1040,,1,2,1,3,2,,,,,,,,,,,,2,4 
+
+This is the one click option for English. If you call this number, including the commas, it will automatically take you though all the steps outlined. The first ‘1’ after the main number can be changed to a ‘2’ for Spanish, or other languages accordingly.
+
+Here are the prompts that the above number take you though:
+
+ 1. The IRS telephone number is 1-800-829-1040.
+ 2. The first question the automated system will ask you is to choose your language.
+ 3. Once you’ve set your language, do NOT choose Option 1 (regarding refund info). Choose option 2 for “Personal Income Tax” instead.
+ 4. Next, press 1 for “form, tax history, or payment”.
+ 5. Next, press 3 “for all other questions.”
+ 6. Next, press 2 “for all other questions.”
+ 7. When the system asks you to enter your SSN or EIN to access your account information, do NOT enter anything.
+ 8. After it asks twice, you will be prompted with another menu.
+ 9. Press 2 for personal or individual tax questions.
+ 10. Finally, press 4 for all other inquiries. The system should then transfer you to an agent.
+
+url:https://reddit.com/r/LifeProTips/comments/q81cv3/
+author:Subie_doo
+subreddit:LifeProTips
+score:1050
+numComments:71
+isOver18:False
+hasPostBody:True

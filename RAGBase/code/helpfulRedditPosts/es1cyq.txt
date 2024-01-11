@@ -1,0 +1,13 @@
+title:
+LPT: If you think a friend is struggling with a mental health issue, ask them about it. They likely will never reach out on their own.
+
+content:
+Social media is filled with “I’m here if you need me” posts. They don’t work.  Instead be proactive in checking with friends and family, especially if they seem down or off.
+
+url:https://reddit.com/r/LifeProTips/comments/es1cyq/
+author:tjmaxal
+subreddit:LifeProTips
+score:1310
+numComments:72
+isOver18:False
+hasPostBody:True

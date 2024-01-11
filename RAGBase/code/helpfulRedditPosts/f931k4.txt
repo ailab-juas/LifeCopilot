@@ -1,0 +1,19 @@
+title:
+LPT: If a credit card of finance offer excludes residents of Iowa, you probably shouldn’t apply.
+
+content:
+If you pay close enough attention, you might notice that a fair amount of finance offers exclude Iowa residents. This is because Iowa has some of the most robust consumer credit laws around that - among other things - put limits on interest rates and late payment penalties, AKA, helping prevent predatory loan practices. This isn’t to say that *all* companies who don’t do business with Iowa residents are predatory, but I don’t think I’d want to take out a loan with a company that won’t do business with consumers who have laws that protect them from being abused by creditors. 
+
+
+https://www.doctorofcredit.com/why-are-some-credit-card-offers-not-available-to-residents-of-iowa/
+
+
+https://www.legis.iowa.gov/docs/ACO/IC/LINC/Chapter.537.pdf
+
+url:https://reddit.com/r/LifeProTips/comments/f931k4/
+author:killgoresalmonman
+subreddit:LifeProTips
+score:57580
+numComments:1621
+isOver18:False
+hasPostBody:True

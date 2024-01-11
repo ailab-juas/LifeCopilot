@@ -1,0 +1,17 @@
+title:
+LPT: If you’re enrolling in Harvard’s free online courses, you have the option to get a verified certification at the start for $90. If you click the free route, the very next screen offers the same certificate for $76.50 just by clicking the free route first.
+
+content:
+Harvard is offering a bunch of free online classes for people to take. When you click to enroll, they offer a $90 verified certificate that has a signed copy with Harvard letterhead proving you completed it. If you click the free route, the very next screen offers the same verified certificate for $76.50. If you’re interested in getting this certificate to prove you did it, one extra click here can save you almost $15!
+
+Edit: [Click here to access Harvard’s free courses!](https://online-learning.harvard.edu/catalog/free)
+
+Edit 2: [Here’s a list of almost every single free course offered from most Ivy League schools!](https://www.freecodecamp.org/news/ivy-league-free-online-courses-a0d7ae675869/)
+
+url:https://reddit.com/r/LifeProTips/comments/g91zhd/
+author:iEatSwampAss
+subreddit:LifeProTips
+score:20680
+numComments:460
+isOver18:False
+hasPostBody:True

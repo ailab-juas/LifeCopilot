@@ -1,0 +1,13 @@
+title:
+LPT: If you are doing a task and you're asking yourself if you should be wearing eye or ear protection, then the answer is always yes.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/l3jhw1/
+author:EchoStrike_
+subreddit:LifeProTips
+score:70479
+numComments:1263
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: If you break a glass on a hard floor, shine a flashlight parallel to the floor so you can see the shadows of tiny pieces you would otherwise miss.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/j80v1s/
+author:raviji22
+subreddit:LifeProTips
+score:7116
+numComments:156
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+YSK if you ever get random email from someone saying they have footage of you looking at adult websites as well as recordings from your webcam and if you don't pay them money (usually Bitcoin), they will send this footage to friends, family and coworkers. Don't panic. This is fake and a scam.
+
+content:
+I've had this happen to me just today. The email usually has a subject line of one of your old passwords you used. They say that they have installed malware onto your device and that has got them access to your display and your camera. They also say that the malware has obtained every one of your contacts on social media as well as your email address details. But don't worry, this is all an elaborate scam just to scare you so you send them.money. No one has access to anything other than the password that was used in the subject line, to which is where you should double check if you have used this password on any other websites and immediately change it.
+
+url:https://reddit.com/r/YouShouldKnow/comments/hpnv9v/
+author:WaffleRoflGuy
+subreddit:YouShouldKnow
+score:23330
+numComments:819
+isOver18:False
+hasPostBody:True

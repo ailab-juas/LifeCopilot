@@ -1,0 +1,29 @@
+title:
+YSK most of major vpn software is owned by one big company with a shady past called kape technologies.
+
+content:
+Why YSK :  Some people choose vpns for privacy. many vpns that you are paying for could be still selling your data or part of the five eyes. which kills the point for some users. be careful what vpns you choose and do your research
+
+
+vpns owned by kape technologies include expressvpn, cyberghost, PIA and more
+
+
+2017 – KAPE TECHNOLOGIES BUYS CYBERGHOST FOR 10.4$ million
+
+
+
+2018 – KAPE TECHNOLOGIES BUYS ZENMATE FOR 5.5$ million
+
+
+2019 – KAPE TECHNOLOGIES BUYS PIA FOR 95$ million
+
+
+2021 – KAPE TECHNOLPGIES BUYS EXPRESSVPN FOR 930$ million
+
+url:https://reddit.com/r/YouShouldKnow/comments/uchz4e/
+author:RadiantLogic
+subreddit:YouShouldKnow
+score:2135
+numComments:188
+isOver18:False
+hasPostBody:True

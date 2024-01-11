@@ -1,0 +1,24 @@
+title:
+YSK that your tax service may charge you ADDITIONAL fees to pay for the US fed/state filing of your returns using your federal refund (in lieu of paying via an alternative method, such as your credit card, which costs you nothing).
+
+content:
+The service often cleverly disguises these fees. For instance, let's say that the service charges you $30.00 to file your federal return and $30.00 to file your state return. They'll offer you two options:
+
+* Pay via credit card; or
+* Pay using funds which will be subtracted from your federal return.
+
+They'll present the "using your federal return" option as merely being a more convenient alternative payment method and that your decision really doesn't bear any consequences. "No need to get up to get your wallet, we'll just subtract the **$30.00 fee from your federal return**!" or something along those lines. 
+
+Read the statement (and the subsequent required federal notice) carefully, though. They're charging you a ***fee*** of $30.00 to file your federal return for $30.00 and your state return for $30.00, for a ***total of $90.00***. I find this to be deceptive. 
+
+If you pay with your card, no such fee will be incurred; you'll need only to pay the $60.00 in filing fees. 
+
+I hope that this helps someone, because I just about fell for it. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/amsgkx/
+author:Mediocre_Investment
+subreddit:YouShouldKnow
+score:2164
+numComments:87
+isOver18:False
+hasPostBody:True

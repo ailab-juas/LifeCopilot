@@ -1,0 +1,13 @@
+title:
+LPT: If your roommates phone alarm is going off near by, you can turn it off by calling their phone!
+
+content:
+Used to have a roommate who had multiple alarms and would forget to turn them off while getting ready for work. Just call their phone and the alarm will shut off once you hang up
+
+url:https://reddit.com/r/LifeProTips/comments/cb6apa/
+author:Surgikull
+subreddit:LifeProTips
+score:18715
+numComments:283
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+LPT: When getting an oil change (or other quick service) at your dealership, turn your phone's Bluetooth off
+
+content:
+Your phone will automatically connect to your car when the technician (ie, me) starts your car to bring it in for service (yes, your Bluetooth can reach the car 100+ feet away at times).  This switches the phone call from your handset to the car, interrupting your phone call.  We do not want nor like to interrupt phone calls we have no business listening to in the first place, or angering you or whomever you were talking to.
+
+EDIT:. R.I.P. inbox.  Wow.  Didn't think this would blow up like it did!
+
+url:https://reddit.com/r/LifeProTips/comments/9u7ms5/
+author:bored505
+subreddit:LifeProTips
+score:17532
+numComments:999
+isOver18:False
+hasPostBody:True

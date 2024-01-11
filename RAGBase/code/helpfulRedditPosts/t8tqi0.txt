@@ -1,0 +1,13 @@
+title:
+LPT: Those viral posts asking things like “Your stripper name is your first pet and your mother’s maiden name” are amazingly effective ways to reveal answers to common security questions you may be using elsewhere.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/t8tqi0/
+author:[deleted]
+subreddit:LifeProTips
+score:5907
+numComments:200
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: When on conference calls, get in the habit of muting yourself all of the time unless you are talking.
+
+content:
+Treat the call as 'push to talk'. It reduces background noise and means you can make plenty of noise eating, sneezing or practising guitar.
+
+url:https://reddit.com/r/LifeProTips/comments/63dltg/
+author:JohnBovril
+subreddit:LifeProTips
+score:35959
+numComments:1853
+isOver18:False
+hasPostBody:True

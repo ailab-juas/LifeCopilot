@@ -1,0 +1,13 @@
+title:
+YSK the LD50 (lethal dose for 50% of people) of alcohol is 0.4% BAC. This equates to 13 1.5 oz shots taken all at once, or ~4/5 of a standard liquor bottle.
+
+content:
+2,200 Americans die of alcohol poisoning each year. Not sure what the global figure is.
+
+url:https://reddit.com/r/YouShouldKnow/comments/7t3l2w/
+author:tesoblivionfan
+subreddit:YouShouldKnow
+score:1761
+numComments:182
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Use https://old.reddit.com/ to browse reddit using the old design. It loads more quickly and it's a bit more intuitive. Assuming everyone knows this, but for those that don't there ya go.
+
+content:
+https://old.reddit.com/
+
+url:https://reddit.com/r/LifeProTips/comments/8xbg0w/
+author:jfk_47
+subreddit:LifeProTips
+score:50436
+numComments:981
+isOver18:False
+hasPostBody:True

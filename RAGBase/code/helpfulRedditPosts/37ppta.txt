@@ -1,0 +1,15 @@
+title:
+LPT: if you are heading to an appointment, use Google maps even if you know how to get there. The real-time traffic will automatically update your route so that you get there as quickly as possible.
+
+content:
+Edit: Well holy shitballs this got a lot bigger than I thought it would. For the record, I don't work for Google or any affiliated company. I was suggesting that you use *any* GPS with real time traffic that will re-route your trip so you can avoid traffic congestion. I happen to use GM but Waze, Apple maps (although in my experience it does not re-route), Garmin, or any other GPS probably works too. I agree that in addition to this, you should leave with plenty of time so that you are not in a rush and you should also concentrate on the road and not your phone unless you want to be part of the reason there is traffic. 
+
+Have a great day everyone!
+
+url:https://reddit.com/r/LifeProTips/comments/37ppta/
+author:_Prisoner_24601_
+subreddit:LifeProTips
+score:2853
+numComments:556
+isOver18:False
+hasPostBody:True

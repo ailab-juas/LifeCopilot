@@ -1,0 +1,13 @@
+title:
+YSK you should feed ducks vegetables and fruits rather than bread.
+
+content:
+Ducklings require a varied diet and plenty of natural plants and insect proteins to mature properly. I just realized this after 30 something years.
+
+url:https://reddit.com/r/YouShouldKnow/comments/fspctb/
+author:dietacoca
+subreddit:YouShouldKnow
+score:7274
+numComments:218
+isOver18:False
+hasPostBody:True

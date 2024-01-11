@@ -1,0 +1,13 @@
+title:
+Attention: Fathers day is in 9 days.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/urkt7/
+author:ZodiarK
+subreddit:LifeProTips
+score:1373
+numComments:285
+isOver18:False
+hasPostBody:False

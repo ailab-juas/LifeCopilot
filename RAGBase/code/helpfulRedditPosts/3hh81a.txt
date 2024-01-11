@@ -1,0 +1,13 @@
+title:
+LPT: Nice people are so much cooler than cool people
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/3hh81a/
+author:streetpotato
+subreddit:LifeProTips
+score:4113
+numComments:519
+isOver18:False
+hasPostBody:False

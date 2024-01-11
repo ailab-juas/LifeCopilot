@@ -1,0 +1,13 @@
+title:
+LPT: When dinning out at restaurants in the United States, pay out tips to staff in **cash** whenever possible. Many restaurants deduct credit card fees from workers' tips depending on state wage laws.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/94d27q/
+author:Zfriske
+subreddit:LifeProTips
+score:1071
+numComments:232
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: If you’re ever in the heat of an argument, always act like you’re being recorded. This helps you from saying things you don’t mean and could regret later.
+
+content:
+This has always helped me remain calmer in disagreements!
+
+url:https://reddit.com/r/LifeProTips/comments/cu7g7q/
+author:Valuable_Armadillo
+subreddit:LifeProTips
+score:39586
+numComments:561
+isOver18:False
+hasPostBody:True

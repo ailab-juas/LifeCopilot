@@ -1,0 +1,13 @@
+title:
+LPT: If your car is overheating, roll down the windows and turn the heater on max.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/2j24e2/
+author:[deleted]
+subreddit:LifeProTips
+score:1413
+numComments:243
+isOver18:False
+hasPostBody:False

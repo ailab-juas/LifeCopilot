@@ -1,0 +1,19 @@
+title:
+YSK that if you live in the US and you are having trouble affording your medication there are several programs to help.
+
+content:
+A recent post on pics about a guy in the hospital because he couldn’t afford his insulin broke my heart. If you live in the United States there are several medication assistance programs that can help you if you are struggling to afford your medication. 
+
+[The Partnership for Prescription Assistance helps qualifying patients without prescription drug coverage get the medicines they need for free or nearly free.](https://medicineassistancetool.org)
+
+[SingleCare offers discounted prices for many medications.](https://www.singlecare.com)
+
+[GoodRx provides a searchable database of current prices and discounts for medications.](https://goodrx.com)
+
+url:https://reddit.com/r/YouShouldKnow/comments/calns4/
+author:Salvidor_Dali
+subreddit:YouShouldKnow
+score:2701
+numComments:99
+isOver18:False
+hasPostBody:True

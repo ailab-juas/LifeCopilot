@@ -1,0 +1,17 @@
+title:
+LPT: If you middle mouse click a link it will open in a new tab. If you middle mouse click a tab, it will close without having to click the little "X"
+
+content:
+EDIT:
+
+TY for gold!
+
+EDIT 2: For clarification, since some seem confused. Middle mouse button is the scroll wheel, which is used to scroll up and down pages. If you press down on it like its a button, it is a middle mouse click. Works on most modern mice.
+
+url:https://reddit.com/r/LifeProTips/comments/23iacn/
+author:Fubby2
+subreddit:LifeProTips
+score:1943
+numComments:476
+isOver18:False
+hasPostBody:True

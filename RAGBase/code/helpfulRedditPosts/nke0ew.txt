@@ -1,0 +1,13 @@
+title:
+LPT: If you have Amazon Prime and haven’t been receiving your packages in 2-days, start a live chat and tell them the issue. Once they explain why, ask them for an account credit due to the inconvenience. They’ll immediately credit your account $10.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/nke0ew/
+author:Steven_Ray20
+subreddit:LifeProTips
+score:33064
+numComments:1078
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: if you're really into a certain TV show and are trying to be more fit, commit to only watching that show while working out. You will have extra motivation to workout more regularly
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/e140bt/
+author:BeardedRhino
+subreddit:LifeProTips
+score:1161
+numComments:50
+isOver18:False
+hasPostBody:False

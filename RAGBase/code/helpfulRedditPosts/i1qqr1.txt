@@ -1,0 +1,13 @@
+title:
+LPT: If you're on a plane and it suddenly starts making a quick descent when the oxygen masks drop, don't panic. The pilot is just descending to 10,000ft where there is enough oxygen to breathe normally
+
+content:
+Also remember that if this happens he won't be able to notify you and the other passengers immediately because regulations require him to inform Air Traffic Control and the airline first
+
+url:https://reddit.com/r/LifeProTips/comments/i1qqr1/
+author:theinspector5
+subreddit:LifeProTips
+score:39062
+numComments:1449
+isOver18:False
+hasPostBody:True

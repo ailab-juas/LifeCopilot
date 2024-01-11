@@ -1,0 +1,25 @@
+title:
+LPT: On a Windows system, hit Win+R and type "shutdown -t x" where x stands for a time in seconds to automatically shutdown your computer after a given time. Perfect if you just want to finish this one youtube video before going to bed, but tend to usually watch another 20.
+
+content:
+I know the situation too well where "just one more reddit post" turns into a 3 A.M. binge session.
+
+
+If I feel like my browsing time is getting out of hands again, I usually look at the clock, round up to a nice, even number and set the shutdown time for the difference in seconds. 
+
+Say it's 11:52 pm, I type "shutdown -t 480" and keep browsing until my PC forces me to quit at exactly midnight.
+
+Windows will notify you 2 minutes before it finally shuts down, and if you changed your mind you can issue the command "shutdown -a" to cancel the shutdown process.
+
+edit: 
+/u/Patrikco made a neat website which calculates the time difference for you
+
+http://www.shutdownti.me/
+
+url:https://reddit.com/r/LifeProTips/comments/8kzsbt/
+author:tommi9er
+subreddit:LifeProTips
+score:34246
+numComments:946
+isOver18:False
+hasPostBody:True

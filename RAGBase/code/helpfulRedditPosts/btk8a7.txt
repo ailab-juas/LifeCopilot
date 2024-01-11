@@ -1,0 +1,13 @@
+title:
+LPT: When you cross a road, always make eye contact with the drivers of oncoming cars. Studies have shown that even our peripheral vision can identify faces when you are looked at and thus it increases the chance of being seen and avoids accidents.
+
+content:
+[Source](https://www.sciencedirect.com/science/article/pii/S0010027711000345)
+
+url:https://reddit.com/r/LifeProTips/comments/btk8a7/
+author:Cinema7D
+subreddit:LifeProTips
+score:18257
+numComments:461
+isOver18:False
+hasPostBody:True

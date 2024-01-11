@@ -1,0 +1,13 @@
+title:
+LPT: If you're someone that always listens to music in your car make it a habit at least once a month to turn it off and listen to your car for a couple minutes. There may be an issue you're not aware of which could be caught before it turns into a major problem.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/dth4g9/
+author:pntbll1313
+subreddit:LifeProTips
+score:61571
+numComments:1293
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: Run your kitchen faucet until it turns hot just before turning on your dishwasher otherwise most of the startup water will be cold and less effective.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/tdlrh2/
+author:VectorVictorious
+subreddit:LifeProTips
+score:2201
+numComments:344
+isOver18:False
+hasPostBody:False

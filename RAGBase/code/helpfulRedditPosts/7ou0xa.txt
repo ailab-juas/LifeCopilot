@@ -1,0 +1,13 @@
+title:
+LPT: Most juices/drinks that advertise 50% less sugar are simply watered down. You can save money by watering down the normal product.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/7ou0xa/
+author:InnateAnarchy
+subreddit:LifeProTips
+score:37023
+numComments:1263
+isOver18:False
+hasPostBody:False

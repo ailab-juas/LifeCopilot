@@ -1,0 +1,13 @@
+title:
+LPT: At a public event, if you are an audience member asking a question, you get one sentence to give context. Then you ask your specific and direct question. No one came to hear you speak. Please shut up.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5tlw4x/
+author:mountbuchanan
+subreddit:LifeProTips
+score:1865
+numComments:71
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,45 @@
+title:
+YSK: Mother dogs move their puppies when they don’t feel secure, not to “show them off”
+
+content:
+Why YSK: There are so many videos of mother dogs bringing their puppies out to “show them off” to an owner, I guess people think this is normal, but it indicates anxiety.
+
+If your dog has puppies and she moves them out of the whelping box, she does not like her whelping box. Yes, it’s adorable that she trusts you to be a safe place, but ideally she has her own comfy safe space where she can leave her puppies without stressing out
+
+When you see videos of this happening, it isn’t a happy mama being proud, it’s a stressed mama asking for help
+
+Edit: Glad to see there's so much interest in this!
+
+I see many people wanting more sources for this, and I can provide some - however, it's important to note that scientific studies are typically conducted for a specific purpose (reducing anxiety as a trait, increasing positive mothering traits, both of these aimed at breeding practices) so the focus is rarely on something as specific as this YSK.
+
+Regardless, conclusions can be drawn about typical dam (mother dog) behavior, deviations from it, and possible causes. This book, [Canine Behavior: Insights and Answers](https://books.google.com/books?id=S6o5ypyRPQEC&amp;lpg=PP2&amp;ots=Y2Pq4pmUKS&amp;dq=anxious%20behavior%20in%20canine%20dams&amp;lr&amp;pg=PA211#v=onepage&amp;q&amp;f=false) (Chapter 6, Maternal Behavior), ties together many different studies to form it's conclusions - one of which is the following:
+
+&gt;During the first week, the bitch hardly leaves the puppies. By 2 weeks postpartum, she will remain outside the nest for 2 or 3 hours... She will rest with the puppies, a behavior that helps offspring maintain body temperature which they are incapable of doing on their own.  
+&gt;  
+&gt;**During the first few weeks, the bitch is insistent that the puppies remain where they were whelped... She will retrieve the entire litter if they have been moved \[from the whelping location\]. Such behavior...minimizes the attraction of predators...and avoid wasting energy resources.**
+
+So typically dams are eager to minimize dangers and avoid wasting energy by insisting that puppies remain where they were whelped.
+
+[In this article](https://www.tandfonline.com/doi/full/10.1080/23144599.2019.1641899) (Section 6, Abnormal Maternal Behaviors) the authors note that anxious dams leave the nest more frequently. **They also note that repeatedly removing puppies from the nest is an indication of rejection behavior - the dam may perceive that something is wrong with the puppy, or may have determined that the nest is not secure/warm/clean enough to maintain the puppy.**
+
+My comment which is based on these sources:
+
+Leaving the nest in the first few weeks (besides to urinate or defecate) usually indicates an anxious dam. Discomforts in the environment can add to the anxiety - high levels of anxious behavior (leaving the nest, unfocused on feeding/cleaning) can indicate that the dam is on the verge of rejecting her pups
+
+**Since puppies cannot regulate their body temperature, removing them from the nest is not typical dam behavior. It seems to primarily occur when the risk of staying in the nest outweighs the risk of losing body temperature - since maintaining the right body temp is critical to keeping puppies alive, the dam is taking on a huge risk by moving them around**
+
+Edit 2: How do we know this behavior indicates anxiety and not something else?
+
+People have done studies! [I linked this one](https://www.tandfonline.com/doi/full/10.1080/23144599.2019.1641899) above, but didn't mention this part:
+
+&gt;The results revealed significantly lower levels of these substances in bitches with a maternal aggressiveness background. The oxytocin levels of 3.58 + 0.43 ng/ml and cholesterol at 125.50 + 8.6 mg/dL in dogs with cannibalism, compared with oxytocin of 9.68 + 1.58 ng/ml and cholesterol at 159.18 + 13.85 mg/dL in bitches with normal postpartum behaviour. Thus, they concluded that oxytocin is an essential neuroendocrine factor in bitches, to develop normal maternal behaviour.
+
+Measuring emotional reactions is difficult, but researchers are able to measure hormonal levels in dogs with normal maternal behavior and compare those levels to dogs with abnormal maternal behavior. In this example, the authors are explaining cronyism (maternal cannibalism), but it does demonstrate the methodology that is used to determine things like stress levels. As with most mammals, dogs produce cortisol (stress hormone) and oxytocin (love hormone) - these hormone levels are measured at intervals and associated with behavior.
+
+url:https://reddit.com/r/YouShouldKnow/comments/vgqycu/
+author:peace_makes_plenty_
+subreddit:YouShouldKnow
+score:7828
+numComments:184
+isOver18:False
+hasPostBody:True

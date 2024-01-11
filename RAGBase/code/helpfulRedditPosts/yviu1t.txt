@@ -1,0 +1,15 @@
+title:
+YSK that defrosting a frozen turkey in the refrigerator takes approximately 24 hours for every 4-5 pounds of turkey. For a 24-pound turkey you should start defrosting it 6 days in advance.
+
+content:
+Why YSK: With Thanksgiving coming up soon you'll need to make sure you're allowing enough time to completely defrost your bird.
+
+[https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/poultry/turkey-basics-safe-thawing](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/poultry/turkey-basics-safe-thawing)
+
+url:https://reddit.com/r/YouShouldKnow/comments/yviu1t/
+author:Lagavulin16_neat
+subreddit:YouShouldKnow
+score:11659
+numComments:468
+isOver18:False
+hasPostBody:True

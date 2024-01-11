@@ -1,0 +1,33 @@
+title:
+YSK: Even slow-moving water presents incredible risk. Trying to move across a fast-moving stream or flood water is suicide. A 1-meter cube of water is the definition of a ton. Imagine the water as 1 ton cubes moving at that speed, and you will see how cars get swept away trying to cross.
+
+content:
+Why YSK:
+
+Many people vastly underestimate the forces even small bodies of water can impart.
+
+There's a silly little rule of thumb that's actually pretty helpful. If you dropped a flower in the water, would you have time to bend down and pick it up, or is flowing away out of reach by the time you did?
+
+If you can pick it up, you're fine.
+
+If not, basically, if the water goes over your ankles you can be taken off your feet at any moment, mind the rocks, but are okayish.
+
+If it goes over your knees, you're at serious risk of being taken by the stream.
+
+If you're trying to move something with a large surface area, like the wheels of a car, or god help you its deep enough to be pushing on the whole sides of the car, you're fucked.
+
+Moving bodies of water contain incredible energies, water is really, really dense. I mean just think about picking up a big bucket of the stuff.
+
+I see a lot of people drive cars over roads that have flooded and are in motion, and every time I wish I could scream at them before they go in.
+
+Water is so dense, that whole ass car only weighs as much as 1-2 cubic meters of water. Its surface area can have a LOT more than that pushing on it.
+
+Your car absolutely will not win.
+
+url:https://reddit.com/r/YouShouldKnow/comments/rf59fx/
+author:urammar
+subreddit:YouShouldKnow
+score:4013
+numComments:82
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: if your copay for medication is too high, check the website of the company, they often have free coupons that could cover the entire copay or dramatically reduce it. They’d rather pay for your copay and receive your insurance payout than you not take their medication.
+
+content:
+Source: years of experience having to be on expensive meds and biologics. Biologics can cost hundreds even with great insurance but the company programs get that down to 50 or even 5 bucks. I also got Epiduo for free when it originally cost $118 before the coupon. 
+
+url:https://reddit.com/r/LifeProTips/comments/8dkgv0/
+author:xCitiz3nsx
+subreddit:LifeProTips
+score:17681
+numComments:1012
+isOver18:False
+hasPostBody:True

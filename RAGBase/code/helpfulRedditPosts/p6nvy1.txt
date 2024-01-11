@@ -1,0 +1,13 @@
+title:
+LPT: If a website sends you your password in plain text after clicking "forgot password", you should stop using that website because passwords are not encrypted and hackers could easily get hold of your password.
+
+content:
+Passwords should not be stored in plain text, because in case of a data breach, your password could be included. Also, employees could see users' passwords, which should not be the case either.
+
+url:https://reddit.com/r/LifeProTips/comments/p6nvy1/
+author:Creative_Wasteland
+subreddit:LifeProTips
+score:24179
+numComments:753
+isOver18:False
+hasPostBody:True

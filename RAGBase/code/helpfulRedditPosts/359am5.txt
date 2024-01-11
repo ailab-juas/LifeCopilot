@@ -1,0 +1,22 @@
+title:
+YSK: In the event of a car accident, the risk of injury/death to front seat riders raises at least 22% when the back seat passengers do not wear their seat belts.
+
+content:
+Back seat passengers basically become a projectile which puts *everyone* in the vehicle at a much greater risk of injury and death. 
+
+Many states are now making it a law that back seat passengers must wear their seatbelts.
+
+http://www.m.webmd.com/men/news/20040120/backseat-riders-need-seatbelts
+
+
+http://www.ghsa.org/html/stateinfo/laws/seatbelt_laws.html
+
+Edit: more info, although this website is frustrating on mobile: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2598377/
+
+url:https://reddit.com/r/YouShouldKnow/comments/359am5/
+author:Jo_MamaSo
+subreddit:YouShouldKnow
+score:1945
+numComments:172
+isOver18:False
+hasPostBody:True

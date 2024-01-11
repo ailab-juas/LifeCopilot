@@ -1,0 +1,13 @@
+title:
+You should know what the Girl Scout Cookies you're buying promote.
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/orifr/
+author:Minifig81
+subreddit:YouShouldKnow
+score:1433
+numComments:549
+isOver18:False
+hasPostBody:False

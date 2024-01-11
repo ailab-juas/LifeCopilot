@@ -1,0 +1,13 @@
+title:
+LPT: If a website forces you to download their app to continue, its a RED FLAG. They aren’t able to collect enough data about you from the web page so need you to install the app.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/a9aejp/
+author:VPee
+subreddit:LifeProTips
+score:4530
+numComments:288
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT When making a major decision, write down in a journal exactly why you chose to act the way you did. If you come to regret the decision later, you'll have insight on exactly what your past self was thinking, helping you learn from your mistakes without becoming angry at your present self.
+
+content:
+This is especially useful when you experience circumstances that your past self could not have possibly foreseen.
+
+url:https://reddit.com/r/LifeProTips/comments/6phybn/
+author:kd39
+subreddit:LifeProTips
+score:1402
+numComments:24
+isOver18:False
+hasPostBody:True

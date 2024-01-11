@@ -1,0 +1,13 @@
+title:
+LPT: When getting into an Uber, close the door and open it again, pretending it didn’t close properly. This is a safety check to make sure the child lock isn’t on and so you can get out if comes to that.
+
+content:
+This is something I do, as a guy whenever I get into an Uber. I can’t trust anyone after I was in an Uber and the child lock was on.
+
+url:https://reddit.com/r/LifeProTips/comments/t2147u/
+author:ashnag
+subreddit:LifeProTips
+score:11973
+numComments:657
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Just because technology allows us to reply to someone in real time does not mean you have an obligation to do so. You don’t have to apologize for taking time to respond!
+
+content:
+Edit: This is meant for those that want to maintain a healthy balance between work, personal life, and technology. I consider a reply timely and professional if it’s within 24 hours. Obviously if it’s an emergency you should respond sooner!
+
+url:https://reddit.com/r/LifeProTips/comments/nbn6mo/
+author:vinchenzo54
+subreddit:LifeProTips
+score:54094
+numComments:1321
+isOver18:False
+hasPostBody:True

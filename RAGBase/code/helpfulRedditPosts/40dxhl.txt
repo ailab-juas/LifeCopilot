@@ -1,0 +1,15 @@
+title:
+YSK Seventy-three percent of car seats are not used or installed correctly.
+
+content:
+Check out [safekids.org](http://www.safekids.org/safetytips/field_risks/car-seat?gclid=Cj0KEQiAn8i0BRDur-HV1PCTy4UBEiQAPuFr9JvrYkVCqa3eCob_vNbGgAfhvE7D1PqwLpmCqL2MHykaAmR28P8HAQ) for tips on properly fitting, installing, and using car safety seats for your children.  Also, check [seatcheck.org](http://www.seatcheck.org/) to find a location near you that will check your car seat for proper installation.  
+
+As a pediatric trauma nurse, father, and redditor, I want our kids to be in the 27%.  Let's keep our little subs safe.
+
+url:https://reddit.com/r/YouShouldKnow/comments/40dxhl/
+author:OldManGrimm
+subreddit:YouShouldKnow
+score:1175
+numComments:211
+isOver18:False
+hasPostBody:True

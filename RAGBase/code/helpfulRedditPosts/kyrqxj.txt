@@ -1,0 +1,13 @@
+title:
+LPT: If someone grabs your iPhone and you have FaceID enabled, you can prevent them from unlocking it (by pointing it at your face) by saying, “Hey Siri, whose phone is this?” That phrase will cause Siri to disable FaceID, and the only way to unlock your phone will be via the passcode.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/kyrqxj/
+author:Kombatnt
+subreddit:LifeProTips
+score:44446
+numComments:1313
+isOver18:False
+hasPostBody:False

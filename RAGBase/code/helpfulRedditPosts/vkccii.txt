@@ -1,0 +1,15 @@
+title:
+LPT: If you’re picking up takeout, call the restaurant to order directly, rather than use a food ordering app. The restaurant will make more money because they won’t need to pay commissions for the app.
+
+content:
+Apps like Uber Eats, Deliveroo and Menulog can take a commission from the restaurant if you order through them, even if they’re not delivering it.
+
+Order from the restaurant directly and you’ll help a small business keep more of their money and it will cost the same or even be slightly cheaper for you.
+
+url:https://reddit.com/r/LifeProTips/comments/vkccii/
+author:4allin1
+subreddit:LifeProTips
+score:36620
+numComments:2028
+isOver18:False
+hasPostBody:True

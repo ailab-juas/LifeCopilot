@@ -1,0 +1,31 @@
+title:
+LPT: Use "accusatory" language when you're paying a compliment, but use "passive" language when pointing out something negative
+
+content:
+Compliment example: "That is a nice shirt" vs "I love your shirt! **You picked** such a nice blue!" 
+
+It makes it sound like the person you're complimenting caused the thing you are complimenting them on. You are now complimenting their taste/judgement and not just an item in their posession
+
+Criticism example: "You stepped in dog shit" vs "**There is** dog shit on your shoe"
+
+In contrast, when you're pointing out something negative, you don't want to sound like you're criticizing someone's judgement. An accusatory grammar structure to a criticism makes it sound like they're at fault for the bad thing, whereas passive grammar makes it sound like the bad thing is just something neutral that happens to exist in space/time, no faults attached.
+
+This can also be extrapolated out to positive/negative things that don't have to do with personal appearance:
+
++ "That was a good point" vs "You made a well reasoned point"
+
++ "This tastes good" vs "You seasoned this perfectly"
+
+- "Someone broke the sink" vs "The sink is broken"
+
+- "You're being too loud" vs "The volume of this conversation is a bit high"
+
+Use your judgement, obviously. Sometimes it makes sense to accuse someone of something negative, especially if it's an ongoing issue, it's something urgent etc.
+
+url:https://reddit.com/r/LifeProTips/comments/xrlw6n/
+author:kinnoth
+subreddit:LifeProTips
+score:22597
+numComments:534
+isOver18:False
+hasPostBody:True

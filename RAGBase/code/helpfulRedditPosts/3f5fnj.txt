@@ -1,0 +1,13 @@
+title:
+YSK Microsoft's new privacy statement says "we will access, disclose and preserve personal data, including your content (such as the content of your emails, other private communications or files in private folders), when we have a good faith belief that doing so is necessary [...]"
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/3f5fnj/
+author:CTSD
+subreddit:YouShouldKnow
+score:3346
+numComments:616
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+YSK it can be difficult for people to express their personality and sense of humour in their second language, and can often be misinterpreted as unfriendly.
+
+content:
+It requires a great deal of language-proficiency to be able to tell jokes and express oneself at a personal level.
+
+url:https://reddit.com/r/YouShouldKnow/comments/diky6e/
+author:SoupIsAHotSmoothie
+subreddit:YouShouldKnow
+score:1509
+numComments:56
+isOver18:False
+hasPostBody:True

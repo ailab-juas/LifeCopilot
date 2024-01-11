@@ -1,0 +1,17 @@
+title:
+YSK that watching gifs uses more data than watching an equal length video
+
+content:
+Most people have auto-play gifs turned on, and most people don't have unlimited data on their phone, so if you often run out, or come close to your limit, maybe try turning off auto-play gifs.
+
+&amp;#x200B;
+
+For example I converted a 24MB video to a gif, it was 500MB. That's obviously exaggerated but the file sizes are quite a bit larger on gifs, and the quality is lower.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ekxas8/
+author:cupitr
+subreddit:YouShouldKnow
+score:5555
+numComments:120
+isOver18:False
+hasPostBody:True

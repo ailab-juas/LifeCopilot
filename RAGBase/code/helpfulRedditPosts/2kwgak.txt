@@ -1,0 +1,23 @@
+title:
+YSK that the most effective way of fighting a ticket is through the mail.
+
+content:
+you can fight a traffic ticket via trial by declaration. respond to the ticket with the price of the fine and a letter explaining what happened. make the letter as long and as detailed as possible. 
+
+police get paid overtime to show up in court to support their ticket, but they have very little incentive to respond to your detailed letter with their own detailed letter. they will often not bother with writing a letter and you will be found "not guilty" and receive the fine back.
+
+if the officer does respond and you lose the trial by declaration, you can then request a "trial de novo" and get to show up in court to fight the ticket, and the usual rules apply. if the cop does not show up, you automatically win.
+
+this is a way to get two chances to beat a ticket, as long as you have the funds to pay the fine first.
+
+
+edit: this applies to the following states - California, Florida, Hawaii, Indiana, Louisiana, Nebraska, Ohio, Oregon, and Wyoming.
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/2kwgak/
+author:shamblingman
+subreddit:YouShouldKnow
+score:1280
+numComments:107
+isOver18:False
+hasPostBody:True

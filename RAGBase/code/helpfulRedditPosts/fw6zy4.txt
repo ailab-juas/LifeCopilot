@@ -1,0 +1,15 @@
+title:
+LPT: Sick of always getting Pinterest photos in you photo search? Add -site:pinterest.* to the end of your search to remove them!
+
+content:
+Copy and paste:
+
+ \-site:pinterest.\*
+
+url:https://reddit.com/r/LifeProTips/comments/fw6zy4/
+author:Billybobhotdogs
+subreddit:LifeProTips
+score:1357
+numComments:49
+isOver18:False
+hasPostBody:True

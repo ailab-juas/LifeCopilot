@@ -1,0 +1,13 @@
+title:
+LPT: If there is a persistent foul smell in your kitchen that remains after you've seemingly cleaned everything, check the filter to the fan above your stove. This is meant to funnel most fumes to an outside vent, but like any filter it can get saturated over time.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/85cggq/
+author:f3darkhelmet
+subreddit:LifeProTips
+score:32324
+numComments:726
+isOver18:False
+hasPostBody:False

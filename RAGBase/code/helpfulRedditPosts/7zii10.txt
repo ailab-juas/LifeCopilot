@@ -1,0 +1,15 @@
+title:
+LPT: When applying for jobs, submit your resume in PDF format rather than in DOC format.
+
+content:
+When resumes make their way through an HR Portal, it is very common for the formatting of Word documents to get messed up along the way. This immediately makes you look unprofessional to a potential interviewer. That very rarely happens with PDFs.
+
+As a backup to this situation: always bring extra copies of your resume with you to the interview, along with a portfolio and a pen.
+
+url:https://reddit.com/r/LifeProTips/comments/7zii10/
+author:daveyfck1
+subreddit:LifeProTips
+score:1249
+numComments:125
+isOver18:False
+hasPostBody:True

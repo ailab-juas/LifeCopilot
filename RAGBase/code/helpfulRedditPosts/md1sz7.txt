@@ -1,0 +1,25 @@
+title:
+YSK that if you're watching a YouTube video with headphones and the audio is only coming through one ear, you should enable mono sound.
+
+content:
+Note: I should mention that this won't work if one of your headphone speakers are simply just broken. The reason this happens is not a hardware issue but an issue with how the YouTuber/content  creator mixed/recorded the audio tracks, making the sound completely pan to either the right or left side.
+
+Why YSK: Mono sound means the same audio will play through both speakers rather than anything being panned to the left or right (For example majority of all music does this to give the music a more dynamic sound)
+
+On Windows literally just search "Mono" after hitting the Windows key and its the first option that comes up. With Mac go to to System Preferences &gt; Accessibility &gt; Audio &amp;gt;  Tick the checkbox for Play stereo **audio** as **mono**.
+
+And  after you're done watching the video just remember to disable the setting and you're good to go!
+
+You can even do this on mobile, if you're on IOS go to Settings &gt; Accessibility &gt; Audio/Visual &gt; Mono audio &gt; toggle the switch on.
+
+If you're on Android, its Settings &gt; Accessibility &gt; Hearing Enhancements &gt; Toggle Mono Audio .
+
+Hope this tip helps anyone out there and if anyone has anything to add (how to enable on other OS etc.) please let me know!
+
+url:https://reddit.com/r/YouShouldKnow/comments/md1sz7/
+author:realplaydead
+subreddit:YouShouldKnow
+score:9925
+numComments:111
+isOver18:False
+hasPostBody:True

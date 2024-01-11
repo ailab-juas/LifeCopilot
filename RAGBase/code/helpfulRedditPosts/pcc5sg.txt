@@ -1,0 +1,15 @@
+title:
+LPT: ALWAYS clean second hand electronics, no matter if it looks clean or not.
+
+content:
+Actual story that happened to me once: I bought a used Thinkpad X220 off of eBay. It looked super clean from the outside, almost like no one ever used the damn thing. A week later my feet started itching. Another week later my whole family started having itchy feet as well. So I started to investigate the situation. I looked under my bed, and there was a whole colony of bed bugs there. I suddenly thought of the Thinkpad, since this whole situation started happening after I bought it and I thought the Thinkpad might be related to the situation in one way or another. Boy that aged like wine. I took apart the computer and OH MY GOD. There was hatched bed bug eggs all over the motherboard. We literally had to go through all of our furniture and clothes and fumigate the house to get rid of the stupid bed bugs.
+
+Don't be like me. Clean all of your second hand electronics.
+
+url:https://reddit.com/r/LifeProTips/comments/pcc5sg/
+author:Alpha012_GD
+subreddit:LifeProTips
+score:6555
+numComments:360
+isOver18:False
+hasPostBody:True

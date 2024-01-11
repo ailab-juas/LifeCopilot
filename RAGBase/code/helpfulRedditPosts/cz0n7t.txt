@@ -1,0 +1,13 @@
+title:
+LPT: Need to remove rust? Cut a potato, dip it in baking soda, and rub it on the rust. The baking soda and oxalic acid in the potato react and break down rust, the scrubbing and abrasion from the baking soda move the rust off.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/cz0n7t/
+author:[deleted]
+subreddit:LifeProTips
+score:2696
+numComments:102
+isOver18:False
+hasPostBody:True

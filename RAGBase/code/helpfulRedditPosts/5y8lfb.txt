@@ -1,0 +1,15 @@
+title:
+YSK that Android 7.0 now has a split-screen mode
+
+content:
+To activate it, tap the button at the bottom of your phone to see your recent apps. Then, tap and drag one of them to the top of the screen. To add the second app, just tap it from your recent apps. To exit full screen, drag the bar in the middle up or down.
+
+Thank me later.
+
+url:https://reddit.com/r/YouShouldKnow/comments/5y8lfb/
+author:carnifax23
+subreddit:YouShouldKnow
+score:1110
+numComments:205
+isOver18:False
+hasPostBody:True

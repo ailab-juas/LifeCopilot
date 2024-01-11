@@ -1,0 +1,23 @@
+title:
+YSK: A lot of people think human brain development stops at exactly age 25, but this isn’t true for everyone.
+
+content:
+Why YSK: In reality, when brain development ends varies from person to person. Some people’s development ends in their later 20s, whereas others can end a little before 25. It’s more like brain development ends roughly around one’s mid-to-late 20s. This is when your prefrontal cortex and white matter tracts connecting to the prefrontal cortex finish development. 
+
+This is important, for example, to consider in conversations regarding when adolescence fully ends and adulthood fully begins, or when making decisions around doing things that can alter your brain’s development, like the use of certain drugs.
+
+Also, on a somewhat related note, certain areas of your brain, like the hippocampus (important for learning and memory), remain plastic and able to change throughout adult life, so some changing of your brain is still possible past your mid-to-late 20s.
+
+[Source 1](https://www.nimh.nih.gov/health/publications/the-teen-brain-7-things-to-know#:~:text=Though%20the%20brain%20may%20be,last%20brain%20regions%20to%20mature)
+
+[Source 2](https://hr.mit.edu/static/worklife/youngadult/brain.html#beyond)
+
+[Source 3](https://bigthink.com/neuropsych/adult-brain/)
+
+url:https://reddit.com/r/YouShouldKnow/comments/yc18tt/
+author:flammablelemon
+subreddit:YouShouldKnow
+score:6120
+numComments:213
+isOver18:False
+hasPostBody:True

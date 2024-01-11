@@ -1,0 +1,13 @@
+title:
+YSK that Operating Rooms handle their own “Code Blue” situations, which means they don’t announce “Code Blue” on the overhead speaker. If your loved one is in surgery and you hear “Code Blue” announced, don’t worry, it’s not for them.
+
+content:
+Why YSK: I work in an Operating Room, and many times when a “Code blue” is called, I’ve seen family members in the waiting room look worried. Even my own family members have done this during their child’s surgery. When I explained that the “Code Blue” you hear isn’t for the operating room, it helps them feel much better.
+
+url:https://reddit.com/r/YouShouldKnow/comments/l9h3pm/
+author:kjmitchell
+subreddit:YouShouldKnow
+score:2075
+numComments:65
+isOver18:False
+hasPostBody:True

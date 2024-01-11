@@ -1,0 +1,13 @@
+title:
+LPT: Forget to ship your long distance friend or family member a gift on their birthday? Order their favorite food via delivery.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/39b6gq/
+author:tidder422
+subreddit:LifeProTips
+score:3018
+numComments:555
+isOver18:False
+hasPostBody:False

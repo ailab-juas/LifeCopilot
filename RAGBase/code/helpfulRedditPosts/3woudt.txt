@@ -1,0 +1,15 @@
+title:
+YSK you can add "gaming." in any YouTube link to have a bigger and darker layout
+
+content:
+In the address bar, instead of "youtube.com" insert "gaming.youtube.com" then the rest of your link.
+
+I noticed this a few days ago and it's great when you watch a lot of videos! The theater mode is a lot bigger than the regular one and the overall background is dark gray so it's easier on the eyes especially later at night.
+
+url:https://reddit.com/r/YouShouldKnow/comments/3woudt/
+author:Hogwarts_Headmaster
+subreddit:YouShouldKnow
+score:1912
+numComments:117
+isOver18:False
+hasPostBody:True

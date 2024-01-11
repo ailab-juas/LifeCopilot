@@ -1,0 +1,61 @@
+title:
+YSK: If you can't afford to pay for mindfulness apps like Headspace or Calm, you can find *free*, evidence-based mental health and mindfulness apps that were developed by researchers at the US Department of Veterans Affairs for use by civilians and veterans alike.
+
+content:
+Why YSK:
+
+Times are tough, dudes, and we all need some help sometimes.  When you're in a place where you can't afford therapy, or need a little extra support between therapy appointments, mental health apps can help fill those gaps.
+
+Not all mental health apps are legit, though, and outside of the most popular paid apps (e.g. Headspace &amp; Calm), it can be hard to find something that's actually shown to be effective.
+
+The VA has developed [a bunch of mental health apps](https://mobile.va.gov/appstore/mental-health) that are free to the general public.  Some were designed with veterans as the target audience, but some were designed to be used by anyone.
+
+Some highlights are:
+
+[Mindfulness Coach](https://mobile.va.gov/app/mindfulness-coach), which offers a self-guided mindfulness course and some recorded mindfulness exercises similar to what you can find on Headspace
+
+[Insomnia Coach](https://mobile.va.gov/app/insomnia-coach), which walks you through a treatment program for insomnia and has features like guided imagery recordings
+
+[MOVE Coach](https://mobile.va.gov/app/move-coach) which can help with weight loss and exercise in a guided program
+
+\---
+
+If you don't end up finding one you like through the VA, I highly recommend you check out [One Mind PsyberGuide](https://onemindpsyberguide.org/), which is a nonprofit site that has experts review mental health apps based on their credibility, effectiveness, and privacy settings.  There's some wonderful potential as far as apps go, but you don't want to waste your time on something that doesn't work or sells your private info.
+
+Be well, friends!
+
+[Source](https://www.sciencedirect.com/science/article/pii/S1077722918300233?casa_token=NEDuA9Iwhh0AAAAA:7nW3jLvBvOVhFAlhZ8st2O3D0GPH7XEe1-etDVtZhLCjQ6ZelE7iAXIImj-FNCxkCNM88xsSDpPB)
+
+**Edit**:
+
+I wanted to update this to compile some of the excellent other resources people have mentioned in the comments.  Thank you so much to everyone who's making suggestions, this is becoming a really informative collection of info!  And thanks for the awards, it's very kind of you all.
+
+First of all, as u/ron-swonson shared, some public libraries are offering free subscriptions to some apps.  Go to your local library's site to see if they are offering anything!
+
+Some insurance companies are also offering free subscriptions like Kaiser Permanente-- thanks u/FrankU_MajorityHwip and u/lipstick_junkiej!
+
+Some of the most common suggestions are as follows.  I don't know much about many of these, but it's clear a lot of you have found them helpful.  (Sorry if I don't include your name or suggestion, there are a ton of comments to sift through!)
+
+Insight timer:  "Tons of free guided meditation, meditation timer for your own sessions, groups, livestreams with meditation teachers, groups etc. " - u/NugPacino
+
+Waking Up by Sam Harris: "the most comprehensive, thoughtful, and exceptionally managed mediation app on the market, in my opinion" u/tayezz
+
+Balance: " also has a free year subscription!! I love their immersive meditations and Singles. I think they’ll have an Android version out in March so everyone can get a free year. " u/Alejandara
+
+Woebot: " It runs through Facebook Messenger or as a separate app on your phone and guides you through cognitive behavioral therapy exercises. " u/IffySaiso
+
+Smiling Mind: "Smiling mind is amazing! Their sleep meditations help me nod off every single night now, and for those who need some background sounds to fall asleep to, the optional music on each meditation is perfect." u/Charlotte805
+
+Medito: " Highly recommend Medito that has a pledge to keep their app free for all. " u/mowpoos
+
+Virtual Hope Box: " The Portland VA worked with The DOD on another one called [Virtual Hope Box](https://apps.apple.com/us/app/virtual-hope-box/id825099621) that was designed around suicide prevention.  My wife was pet of the study around efficacy, and I have used it myself. Great app and definitely should be included in this topic. " u/omnithorpe
+
+&amp;#x200B;
+
+url:https://reddit.com/r/YouShouldKnow/comments/ln2fyy/
+author:Phaesporic
+subreddit:YouShouldKnow
+score:38514
+numComments:597
+isOver18:False
+hasPostBody:True

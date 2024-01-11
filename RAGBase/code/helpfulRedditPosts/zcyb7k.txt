@@ -1,0 +1,15 @@
+title:
+YSK that many public library systems provide renewable, temporary, free access to journals like the NYT, WP, WSJ, and LAT as long as you have a valid library card
+
+content:
+Why YSK: If you look up these journals alongside keywords for libraries, you can usually find a page where you can get temporary access for 24 hours or a week to a journal.
+
+It's a great way to access the news without breaking the bank.
+
+url:https://reddit.com/r/YouShouldKnow/comments/zcyb7k/
+author:HaitianFire
+subreddit:YouShouldKnow
+score:8352
+numComments:121
+isOver18:False
+hasPostBody:True

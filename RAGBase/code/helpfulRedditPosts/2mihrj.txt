@@ -1,0 +1,15 @@
+title:
+LPT: revitalize a dead ball point pen by hitting it with a lighter on the tip, then scribble.
+
+content:
+Just a quick pass with a lighter over the ball point tip melts away dried ink and frees the ball to let it write again. I feel like this works a lot more consistently than licking the tip. That one has only worked about half the time for me.
+
+Edit: For clarity's sake, apply flame to pen tip for half a second. Then scribble. That is all.
+
+url:https://reddit.com/r/LifeProTips/comments/2mihrj/
+author:CountOverride
+subreddit:LifeProTips
+score:1161
+numComments:138
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+YSK the $35 that scientific journals charge you to read a paper goes 100% to the publisher and 0% to the authors. If you email a researcher and ask for their paper, they are allowed to send them to you for free and will be genuinely delighted to do so.
+
+content:
+If you're doing your own research and need credible sources for a paper or project, you should not have to pay journal publishers money for access to academic papers, especially those that are funded with government money. I'm not a scientist or researcher, but the info in the title came directly from a Ph.D. at Laval University in Canada. She went on to say that a lot of academic science is publicly funded through governmental funding agencies. It's work done for the public good, funded by the public, so members of the public should have access to research papers. She also provided a helpful [link](http://holly.witteman.ca/index.php/2017/12/11/getting-access-to-paywalled-papers/) with more information on how to access paywalled papers. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/8wmkg2/
+author:gangbangkang
+subreddit:YouShouldKnow
+score:39955
+numComments:823
+isOver18:False
+hasPostBody:True

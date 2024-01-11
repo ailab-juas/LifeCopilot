@@ -1,0 +1,22 @@
+title:
+YSK some cooking recipes online use unnecessarily complicated ingredients, you don't need to go all out and buy everything.
+
+content:
+Why YSK:
+
+I'm an amateur cook, and I come across a lot of recipes online, either websites or on YouTube, and here are some learnings:
+
+1) Recipes generate clicks. They would reference other similar recipes they've made or say that one of the ingredients which they use was made in another video/ page. While this can be easy sometimes, I can give a particularly bad one - A carbonara recipe needed 2 spoons of a chilli oil, which needed another set of preparations with ingredients like Korean chilli powder which I didn't have for making a whole litre of it. There are many more examples, but just think about how less of an influence any of these will have on the final product and just substitute it. The people behind these websites aren't you, so work with what you have and only make the extra effort if it's worth it.
+
+
+2) As someone who goes all out when cooking in the sense that I will buy all including optional ingredients especially for recipes I'm trying out for the first time and stick to the recipe, you should really see how useful some of these ingredients are in the future. Taking the previous example, Chilli oil of a particular type can be useful in multiple dishes or it might just sit in your cupboard, only to be used for the initial few spoons or that one recipe made in a blue moon. Save some money and ignore/ substitute it with something you have.
+
+I realize a lot of this is obvious to most people, but the excitement of cooking something new after finding that amazing looking recipe almost always results in buying stuff you're not going to need. I hope this acts as a reminder to help those who are still in that mindset.
+
+url:https://reddit.com/r/YouShouldKnow/comments/oefj4v/
+author:SyStRm
+subreddit:YouShouldKnow
+score:11046
+numComments:574
+isOver18:False
+hasPostBody:True

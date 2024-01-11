@@ -1,0 +1,13 @@
+title:
+LPT: If you have to tell someone you're going to be late, tell them you'll be later than you expect.
+
+content:
+They're already going to be annoyed either way, they'll be a little less annoyed if you show up earlier than expected.
+
+url:https://reddit.com/r/LifeProTips/comments/4b2iuq/
+author:samuraiguitarist
+subreddit:LifeProTips
+score:4550
+numComments:932
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+YSK that the cough after an upper respiratory infection (cold, bronchitis, sinusitis, etc.) lasts an average of 18 days and antibiotics do not shorten this.
+
+content:
+http://www.medicalnewstoday.com/articles/254970.php
+
+The key thing to remember is that the 18 days is an average, i.e. there will be a sizable number of coughs that last even longer.  Keep that in mind the next time you get a respiratory bug.
+
+url:https://reddit.com/r/YouShouldKnow/comments/2r92gx/
+author:Camerongilly
+subreddit:YouShouldKnow
+score:1577
+numComments:94
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,28 @@
+title:
+LPT: If you have an Android phone, go to the developer options and set Animation Time to x0.5! Your phone will feel like it's gotten a huge processor update.
+
+content:
+Unlock Developer Options:
+
+Settings &gt; About Phone &gt; 7x tap on Build Number
+
+
+Decrease animation time:
+
+Settings &gt; System &gt; Developer Options &gt; Set all Options with Animation Scale to x0.5 or less
+
+Enjoy your fast phone
+
+Edit: Wow, my first gold, thanks a lot! Glad you guys like the LPT :)
+
+Edit Edit: As others have pointed out, Build Number in Samsung phones is apparently in About Phone &gt; Software info. Also this works on Android devices other than phones.
+
+Edit Edit Edit: The exact options to tweak in Developer options are called Window animation scale, Transition animation scale and Animator duration scale. Alternatively you can also turn the animations off via System &gt; Accessibility &gt; Remove animations!
+
+url:https://reddit.com/r/LifeProTips/comments/d4yqa1/
+author:H2Oaq
+subreddit:LifeProTips
+score:56160
+numComments:2693
+isOver18:False
+hasPostBody:True

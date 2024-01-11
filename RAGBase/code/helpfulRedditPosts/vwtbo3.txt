@@ -1,0 +1,15 @@
+title:
+YSK that you can request a refund, or “credit” from Spectrum for internet outages lasting longer than 4 hours.
+
+content:
+After another Spectrum outage in my area, I decided to message Spectrum to see if I could be compensated for time spent without wifi (that I have paid for). To my surprise, Spectrum was easily able to look through my previous year of service and credit me for all the previous outages. However, you must ask for the credit every time there is an outage. 
+
+Why YSK: If you are in an area (like me) that experiences random outages frequently, you should know this (because Spectrum sure didn’t tell me) to receive your money back and to keep these big corporations held accountable for services not rendered.
+
+url:https://reddit.com/r/YouShouldKnow/comments/vwtbo3/
+author:brenconnnn
+subreddit:YouShouldKnow
+score:11681
+numComments:241
+isOver18:False
+hasPostBody:True

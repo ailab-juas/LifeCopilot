@@ -1,0 +1,13 @@
+title:
+LPT: When cooking things on aluminium foil, first scrunch the foil up, then lay it loosely flat again out on your baking tray. The juices will stay put - and the food will not stick to the foil half as much, if at all.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ws9r64/
+author:johnlewisdesign
+subreddit:LifeProTips
+score:42719
+numComments:1339
+isOver18:False
+hasPostBody:False

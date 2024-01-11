@@ -1,0 +1,13 @@
+title:
+YSK ikea will recycle your batteries for free.
+
+content:
+In my city the only other way to recycle batteries is to take them to the dump, and they charge a fee. I just found out the other day that ikea will do it for free! Usually there is a little station by the customer service desk.
+
+url:https://reddit.com/r/YouShouldKnow/comments/7uddnd/
+author:UfoFood
+subreddit:YouShouldKnow
+score:2947
+numComments:161
+isOver18:False
+hasPostBody:True

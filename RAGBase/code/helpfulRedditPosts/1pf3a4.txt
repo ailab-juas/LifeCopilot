@@ -1,0 +1,13 @@
+title:
+YSK: There is a book titled: "How to Win Every Argument: The Use and Abuse of Logic". You're welcome reddit.
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/1pf3a4/
+author:StanTheRebel
+subreddit:YouShouldKnow
+score:1109
+numComments:242
+isOver18:False
+hasPostBody:False

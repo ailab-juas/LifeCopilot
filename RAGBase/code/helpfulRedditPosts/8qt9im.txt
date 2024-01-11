@@ -1,0 +1,13 @@
+title:
+LPT: If you share an 'inside joke' with a friend around other people, just let them know what it is even if they won't get it. People don't appreciate being excluded.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/8qt9im/
+author:funwithuzis
+subreddit:LifeProTips
+score:17956
+numComments:603
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: use a colander to prepare the last bowl of cereal from a box/bag.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1eu85u/
+author:movinonup2east
+subreddit:LifeProTips
+score:1584
+numComments:707
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: Use ninite.com to install even single pieces of software. Ninite strips any additional software or browser bar addons
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1oz4ea/
+author:[deleted]
+subreddit:LifeProTips
+score:1390
+numComments:203
+isOver18:False
+hasPostBody:False

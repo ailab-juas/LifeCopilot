@@ -1,0 +1,18 @@
+title:
+You can view multiple subreddits by adding a + between them after r/
+
+content:
+For Example www.reddit.com/r/YouShouldKnow+Cars. 
+
+
+Also redditp.com/r/subreddit turns the images into a slideshow.
+
+Edit: This also works for the redditisfun app on android. Special Thanks to trollburgers for that one. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/1b59fc/
+author:CaptainPlanck
+subreddit:YouShouldKnow
+score:1147
+numComments:87
+isOver18:False
+hasPostBody:True

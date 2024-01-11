@@ -1,0 +1,13 @@
+title:
+YSK that you can get a bunch of free premium products like Office365, AutoDesk and Developer Tools if you are a student
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/2zy0dv/
+author:robyxx
+subreddit:YouShouldKnow
+score:1829
+numComments:187
+isOver18:False
+hasPostBody:False

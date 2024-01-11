@@ -1,0 +1,13 @@
+title:
+LPT: easy way to find those extremely tiny screws, pills, broken glass, etc. that fell somewhere on the floor.
+
+content:
+I've been working with electronics and other things that use extremely small parts for a few years.  I'm also a clumsy bastard.  I'm always dropping shit.  I've found the best way to find the stuff is to turn off the lights, grab a laser pointer, and get on the floor. Most lasers are cylindrical. you want one with the smallest diameter, because the beam will be closest to the floor.  While sitting in the corner of the room, Put the laser down flat pointed toward where you dropped the object, and hold down the button.  While doing this, turn the laser clockwise.  It should look kind of like a sonar, or a hand on an analog clock.  the beam will hit the dropped object, and it will light up really bright.  This is great for finding small parts, or cleaning up broken glass.
+
+url:https://reddit.com/r/LifeProTips/comments/1rq22l/
+author:boombatz
+subreddit:LifeProTips
+score:2787
+numComments:389
+isOver18:False
+hasPostBody:True

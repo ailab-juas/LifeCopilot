@@ -1,0 +1,13 @@
+title:
+LPT: If you’re buying a new computer and are torn between a couple models, try googling “Model number doesn’t” and see what auto predict says is the most common complaint or issue.
+
+content:
+I’m a techy person and do my own computer repairs, but if I do this and the top search suggestion is “XYZ123 doesn’t turn on” vs “ABC987 doesn’t connect to wifi” I have a better idea of what to expect.
+
+url:https://reddit.com/r/LifeProTips/comments/j2dkbc/
+author:semarlow
+subreddit:LifeProTips
+score:1361
+numComments:49
+isOver18:False
+hasPostBody:True

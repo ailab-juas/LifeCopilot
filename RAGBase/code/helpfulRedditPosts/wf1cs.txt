@@ -1,0 +1,13 @@
+title:
+Enter a false password first if you're suspicious
+
+content:
+Just something I do when I'm asked to enter my password in novel scenarios (e.g. Gmail logs off on its own and asks me to log back on, iTunes asks for my account password without telling me why). If they can recognize it's a false password it just gives me some extra assurance that I'm not giving away personal information. It doesn't hurt to double check. 
+
+url:https://reddit.com/r/LifeProTips/comments/wf1cs/
+author:blymph
+subreddit:LifeProTips
+score:1492
+numComments:372
+isOver18:False
+hasPostBody:True

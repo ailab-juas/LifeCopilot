@@ -1,0 +1,13 @@
+title:
+LPT: To block out noise from upstairs neighbors or loud roommates, hook up a Bluetooth speaker with good bass and play a “brown noise” app. The lower bass frequency does a better job of blocking footsteps and deep sounds than typical white noise machines.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/9nwt4c/
+author:roberta_sparrow
+subreddit:LifeProTips
+score:48574
+numComments:1673
+isOver18:False
+hasPostBody:False

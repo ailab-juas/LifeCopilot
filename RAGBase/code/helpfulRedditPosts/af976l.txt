@@ -1,0 +1,13 @@
+title:
+LPT: Spraying some Pam onto your snow shovel will make the snow slide right off when you shovel.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/af976l/
+author:Xcalc3
+subreddit:LifeProTips
+score:28706
+numComments:920
+isOver18:False
+hasPostBody:False

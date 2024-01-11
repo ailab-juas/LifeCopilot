@@ -1,0 +1,13 @@
+title:
+LPT : If your printer prints only one side of the page and you want double page print quickly, don't keep reversing the page. First print odd numbered pages (1,3,5,7,9..) and then reverse all the pages and print even numbered pages (2,4,6,8..).
+
+content:
+This personally made the process of double page printing much much faster and saves lot of pages if you just print single pages cuz you lazy.   
+
+url:https://reddit.com/r/LifeProTips/comments/aw6zq3/
+author:sukul123
+subreddit:LifeProTips
+score:3471
+numComments:157
+isOver18:False
+hasPostBody:True

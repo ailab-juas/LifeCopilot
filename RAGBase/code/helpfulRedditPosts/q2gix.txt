@@ -1,0 +1,35 @@
+title:
+LPT: Chrome Extensions to make your browsing experience much better
+
+content:
+This is pretty much everything I have shoved into my browser. Feel free to add to the list!
+
+* [Currency Converter](https://chrome.google.com/webstore/detail/anbfhidldjknonaihbalghlebaijealk) - Automatically convert prices in page to the selected currency using the current exchange rates.
+* [World Clocks](https://chrome.google.com/webstore/detail/innfmeekncjandlanpgdmmogkcimekgo) - For the more globally minded. I'm in Australia and have relatives in the UK so it's handy there. Also to know what time is internet primetime in the US etc.
+* [Forecast Fox](https://chrome.google.com/webstore/detail/ihffmkcfkejomlfnilnmkokcpgclhfeg) - Why look out the window when you can have a little icon in your browser that tells you what it's like out there?
+- - -
+
+* [YouTube Options](https://chrome.google.com/webstore/detail/bdokagampppgbnjfdlkfpphniapiiifn) - This does the job of about 3-4 extensions I used to use. Disables comments, removed bloat, plays HD automatically, puts the page in "theatre" mode and MORE!
+* [YouTube Rating Preview](https://chrome.google.com/webstore/detail/cgbhdenfmgbagncdmgbholejjpmmiank) - Adds the little red/green approval rating to video thumbnails. 
+- - - 
+* [EXIF Viewer](https://chrome.google.com/webstore/detail/lplmljfembbkocngnlkkdgabpnfokmnl) - More for curious badgers/photographers. If the info is there, this extension will pull it out for you.
+* [Hover Zoom](https://chrome.google.com/webstore/detail/nonjdcjchghhkdoolnlbekcfllmednbl) - Hover over an image link/thumbnail and the full sized image will pop up.
+* [Image Properties in Context Menu](https://chrome.google.com/webstore/detail/khagclindddokccfbmfmckaflngbmpon) - Chrome's built in Image Properties context menu is useless. This fixes that.
+* [Right click set as Wallpaper](https://chrome.google.com/webstore/detail/ddkmiidlgnkhnfhigdpadkaamogngkin) - Does what it says on the tin.
+* [TinEye Reverse Image Search](https://chrome.google.com/webstore/detail/haebnnbpedcbhciplfhjjkbafijpncjl) - Where'd that image come from? TinEye can help you find out!
+* [Patr's Flickr App](https://chrome.google.com/webstore/detail/iplbmjolljikncjboeofgmjoaacheemi) - if you use Flickr a lot, this has lots of handy little features.
+- - - 
+* [Readability](https://chrome.google.com/webstore/detail/oknpjjbmpnndlpmnhmekjpocelpnlfdi) - magically strips all the clutter from a website and lets you read the damn article.
+* [Ad Block plus](https://chrome.google.com/webstore/detail/cfhdojbkjhnklbpkdaibdccddilifddb) - makes your internet better/kills revenue for websites you love. You have the option to disable it for specific sites. Your call.
+* [Google Dictionary](https://chrome.google.com/webstore/detail/mgijmajocgfcbeboacabfgobmjgjcoja) - double click a word, get a definition. Handy for improving your word knowledge.
+* [Send from Gmail](https://chrome.google.com/webstore/detail/pgphcomnlaojlmmcjmiddhdapjpbgeoc) - click an email link, send from Gmail.
+* [Reddit Enhancement Suite](http://redditenhancementsuite.com/) - duh.
+* [Fitit Unit Converter](https://chrome.google.com/webstore/detail/bbiibbalnekgcfmkdhmahleeiblhpfdi) - for those [/r/Fitness](/r/Fitness) people. If you Americans would just adopt the Metric System like the rest of the world this wouldn't be necessary.
+
+url:https://reddit.com/r/LifeProTips/comments/q2gix/
+author:[deleted]
+subreddit:LifeProTips
+score:1062
+numComments:323
+isOver18:True
+hasPostBody:True

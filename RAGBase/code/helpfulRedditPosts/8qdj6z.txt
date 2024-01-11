@@ -1,0 +1,13 @@
+title:
+LPT: If you have an SD card in you Samsung S7 or S8, remove it before upgrading to 8.0 Oreo. Myself and others have had their cards corrupted after the upgrade.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/8qdj6z/
+author:[deleted]
+subreddit:LifeProTips
+score:2096
+numComments:138
+isOver18:False
+hasPostBody:True

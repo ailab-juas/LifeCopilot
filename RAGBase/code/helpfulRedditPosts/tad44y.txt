@@ -1,0 +1,13 @@
+title:
+LPT: When someone close to you is complaining about someone else (coworker, friend, spouse), ask them if they’ve spoken to said person about their issue. This both validates their feelings and avoids feeding into their negativity.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/tad44y/
+author:thepique
+subreddit:LifeProTips
+score:1539
+numComments:49
+isOver18:False
+hasPostBody:False

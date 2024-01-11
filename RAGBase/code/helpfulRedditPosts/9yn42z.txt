@@ -1,0 +1,13 @@
+title:
+LPT: If you are quitting a vice (smoking, drinking, etc.) treat yourself with the money you are saving. It makes quitting easier.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/9yn42z/
+author:Radarker
+subreddit:LifeProTips
+score:27185
+numComments:778
+isOver18:False
+hasPostBody:False

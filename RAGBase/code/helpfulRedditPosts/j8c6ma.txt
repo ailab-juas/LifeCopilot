@@ -1,0 +1,17 @@
+title:
+LPT: After you graduate from college, request an alumni email account. That way, you get access to all of the .edu perks + discounts you used as a student again.
+
+content:
+If you loved the benefits of having a .edu account as a student, then you’ll continue loving it after college. If your university provides .edu accounts for alum, you’ll be able to use the account for a lot of the same benefits students get. 
+
+It’s not fool proof. Some companies use SheerID to verify student enrollment but some companies provide educational benefits for all .edu holders, students, and instructors.
+
+Edit: grammar
+
+url:https://reddit.com/r/LifeProTips/comments/j8c6ma/
+author:LizzoSaidTruthHurts
+subreddit:LifeProTips
+score:24108
+numComments:608
+isOver18:False
+hasPostBody:True

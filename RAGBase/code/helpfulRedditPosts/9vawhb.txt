@@ -1,0 +1,13 @@
+title:
+LPT: When you're shopping for a place to live, look to the east of where you work. That way the sun will be at your back for your commute both directions.
+
+content:
+Source: my burning eyeballs as I travel to and from my house out west.
+
+url:https://reddit.com/r/LifeProTips/comments/9vawhb/
+author:dymbrulee
+subreddit:LifeProTips
+score:13008
+numComments:568
+isOver18:False
+hasPostBody:True

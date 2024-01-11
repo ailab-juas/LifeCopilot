@@ -1,0 +1,19 @@
+title:
+YSK: You are supposed to close your bedroom doors at night for fire safety
+
+content:
+It delays the spread of fire, smoke and toxic fumes.
+  
+https://closeyourdoor.org/
+  
+http://www.nfpa.org/News-and-Research/News-and-media/Press-Room/News-releases/2016/Should-people-sleep-with-the-door-open-or-closed-to-best-protect-themselves-in-a-home-fire
+
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/7dnqsh/
+author:Nomandate
+subreddit:YouShouldKnow
+score:5839
+numComments:531
+isOver18:False
+hasPostBody:True

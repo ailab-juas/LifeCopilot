@@ -1,0 +1,19 @@
+title:
+LPT: When doing math in Excel, use "names" to reference variables in a function.
+
+content:
+This will forever change the way I use Excel. I recently learned how to use [names](http://office.microsoft.com/en-us/excel-help/define-and-use-names-in-formulas-HA010147120.aspx) in Excel. Basically, under the "Formulas" tab, choose "Name Manager." You can give an easy-to-remember name to a cell (or range of cells) and **use that name to reference the cell**.
+
+For example, let's say we want to calculate the area of a triangle, where the area is equal to one half base times height: A = b * h / 2.  You have "b" and "h" in A1 and A2; their values are in B1 and B2. Instead of calculating area as "= B1 * B2 / 2", name B1 "b" and B2 "h". Then you can enter "= b * h / 2" into a cell and get the area.
+
+Obviously it's not worth the trouble in this example. But if you're using more complex formulas, many formulas which reference a particular variable, or a cell in another sheet (where you have to preface the cell reference with the sheet name) it's MUCH easier to type out your name and MUCH easier to understand what's in your formula. As an added bonus, anyone else using your spreadsheet will intuitively know what your formula is calculating without having to trace each cell reference to its source!
+
+Edit: Yikes, thanks for pointing out my formula error folks! Got caught up wording my tip and wasn't paying attention to the details. Fixed! 
+
+url:https://reddit.com/r/LifeProTips/comments/21jjih/
+author:jofwu
+subreddit:LifeProTips
+score:1358
+numComments:196
+isOver18:False
+hasPostBody:True

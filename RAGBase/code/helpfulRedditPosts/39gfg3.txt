@@ -1,0 +1,13 @@
+title:
+LPT: After a car accident, step-by-step checklist. Getting into a car accident can be jarring and emotional, even if it’s a small fender bender. Make a checklist to help take the thinking out of what information to collect.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/39gfg3/
+author:lackeyse
+subreddit:LifeProTips
+score:4583
+numComments:1051
+isOver18:False
+hasPostBody:False

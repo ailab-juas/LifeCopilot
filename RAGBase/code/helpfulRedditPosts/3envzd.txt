@@ -1,0 +1,29 @@
+title:
+YSK how to stay anonymous online
+
+content:
+It's an older [infographic](http://i.imgur.com/MNQNqSR.jpg) but it checks out. It has the basic information about VPN's and TOR browser. Could be some useful information for those who want to keep a lower profile online. If you have some tips of your own, put them in the comments.
+
+EDIT: Bonus stuff. Here are some apps that are also anonymous or pretty close to it. Also another important point as someone pointed out in the comments. I have no clue if any of these have been audited or if they publish their protocols. This is just what turned up when I was researching for "anonymous" type apps.
+
+Whisper (https://whisper.sh) - probably the most popular anonymous posting app of them all
+
+~~Yik Yak (http://www.yikyakapp.com) - another popular app to make anonymous posts~~ apparently they require a verified phone number now
+
+Wickr (https://www.wickr.com) - calls itself the most trusted, secure, and private messenger in the world
+
+Wish2wish (http://wish2wish.com) - a radar/map based social media app that doesn't need personal info to make posts
+
+Confide (https://getconfide.com) - messages self-destruct after reading
+
+Cyber Dust (https://www.cyberdust.com) - messages you send are encrypted and then deleted
+
+Random (http://www.random.co) - "Explore the web anonymously" as the description says
+
+url:https://reddit.com/r/YouShouldKnow/comments/3envzd/
+author:ckfighter2
+subreddit:YouShouldKnow
+score:1265
+numComments:87
+isOver18:False
+hasPostBody:True

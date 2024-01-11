@@ -1,0 +1,13 @@
+title:
+LPT: Driving alone somewhere at least 30 min away? Listen to a TED talk! Time will fly and you will learn LPTs at the same time!
+
+content:
+Im addicted to TED talks. They're like LPTs on crack. I know they've been around, but I just recently started listening on a couple 90 minute drives. They honestly felt like 15 minute drives, thanks to TED talks being so engaging. Time flies when you're learning cool, new ideas!
+
+url:https://reddit.com/r/LifeProTips/comments/1ijj8s/
+author:kranbes
+subreddit:LifeProTips
+score:1759
+numComments:351
+isOver18:False
+hasPostBody:True

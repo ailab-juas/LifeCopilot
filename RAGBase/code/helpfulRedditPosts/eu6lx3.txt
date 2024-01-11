@@ -1,0 +1,19 @@
+title:
+YSK: 3Dbuzz has shutdown; all courses are available for free
+
+content:
+More info on [their website](https://www.3dbuzz.com/).
+
+Edit (27/01/2020): Many people seem to be hesitant about the files for some reason, so let me clarify some things. [BitTorrent](https://en.wikipedia.org/wiki/BitTorrent) is a protocol for [peer-to-peer file sharing](https://en.wikipedia.org/wiki/Peer-to-peer_file_sharing). This means that there is no central server that you download from. You download the files from other people, and when you are downloading you are also sending the files to other people. Torrents usually have bad reputation because it is mainly used for downloading pirated content. However, there are many use cases and this is one of them. The creators are shutting the website down, and instead of putting the files on a server that you can download from, they created a Torrent so they only have to (in theory) seed to a few people to get it to spread. Bandwidth is proportional to the number of seeders (and their own bandwidth).
+
+In simpler words, this is now public content that you can access, legally, by downloading the Torrent (which are not illegal/unethical by default as some would think). Note that you are **greatly** helping by downloading **AND THEN [SEEDING](https://en.wikipedia.org/wiki/Glossary_of_BitTorrent_terms#Seed_.2F_seeding)**. This will not only improve the bandwidth (download speed), but also increase the lifespan of the files. **If no one is seeding, you cannot download the files**.
+
+If you still have any questions, I would be very happy to answer them.
+
+url:https://reddit.com/r/YouShouldKnow/comments/eu6lx3/
+author:Dakeiz
+subreddit:YouShouldKnow
+score:7420
+numComments:169
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: If two people are travelling with luggage, both people should should share the two suitcases. If one gets lost in transit you will each still have at least half of your things.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/331ux3/
+author:jmcniven
+subreddit:LifeProTips
+score:3015
+numComments:672
+isOver18:False
+hasPostBody:False

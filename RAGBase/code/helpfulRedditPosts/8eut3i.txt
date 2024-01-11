@@ -1,0 +1,19 @@
+title:
+LPT: When helping a friend in need, be specific about things you could do for them, rather than making a broad general offer.
+
+content:
+
+- I can pick up your prescription during lunch today. Let me know. 
+- Making lasagna on Thursday, can I bring some over for you?
+- Saturday afternoon for Netflix? I’ll come over with snacks...don’t clean!
+
+Specific things work so much better for someone going through a hard time than saying “anything you need, just tell me.” Even if you really mean it!
+
+
+url:https://reddit.com/r/LifeProTips/comments/8eut3i/
+author:Sic-Bern
+subreddit:LifeProTips
+score:2157
+numComments:60
+isOver18:False
+hasPostBody:True

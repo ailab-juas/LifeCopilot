@@ -1,0 +1,15 @@
+title:
+YSK that you should not approach a service dog unless the handler gives permission
+
+content:
+Services are working dogs, and approaching them and petting them can distract them from their duties. Some of these duties include ensuring their handler's well being, or allowing them to move around freely. 
+
+Before approaching these dogs, make sure the handler gives explicit permission. They are allowed to say no.
+
+url:https://reddit.com/r/YouShouldKnow/comments/6octtf/
+author:MikeNotBrick
+subreddit:YouShouldKnow
+score:1973
+numComments:187
+isOver18:False
+hasPostBody:True

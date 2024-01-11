@@ -1,0 +1,17 @@
+title:
+YSK that the universal plastic grading symbol is NOT a recycling symbol
+
+content:
+Why YSK: The universal plastic grading symbol on all plastic products looks a lot like the recycling symbol (which was intentional by the way). It's actually a symbol for you to know how easy the product in question is to recycle. The symbol is similar to the recycling symbol but with a number in the middle (between 1 and 7). The number tells you how easy (and likely) it is for said product to be recycled. In the UK, numbers 1, 2 and 5 are currently recycled. In America it's just 1 and 2. Check what numbers are recycled in your country and buy wisely!
+
+[Universal plastic grading symbol explained](https://imgur.com/a/FMomX5u)
+
+EDIT: Some people are pointing out that the number isn't regarding the difficulty of recycling different types of plastic. Whilst this is true, the main objective of this number to the consumer is to identity if the product in question can or can not be recycled. The image attached does show level of ease with colour coding.
+
+url:https://reddit.com/r/YouShouldKnow/comments/v8bore/
+author:______1_____
+subreddit:YouShouldKnow
+score:7930
+numComments:240
+isOver18:False
+hasPostBody:True

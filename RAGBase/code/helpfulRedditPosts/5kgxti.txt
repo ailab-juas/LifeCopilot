@@ -1,0 +1,13 @@
+title:
+LPT - Don't stack firewood up against your house.
+
+content:
+Doing this is a great way to get termites.
+
+url:https://reddit.com/r/LifeProTips/comments/5kgxti/
+author:lionsfandom
+subreddit:LifeProTips
+score:12804
+numComments:1409
+isOver18:False
+hasPostBody:True

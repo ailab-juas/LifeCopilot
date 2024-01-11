@@ -1,0 +1,27 @@
+title:
+LPT: If you call a tech or customer support line provide only the information they request.
+
+content:
+As someone who works for a company that warrantees landscaping items like spotlights and bulbs I constantly have customers overshare and slow down their warranty or impede it completely.
+
+Don't give the full story to the rep. I'll be blunt, we don't really care and you're overexplaining. 
+
+Oversharing is annoying, but the real problem is people ALWAYS share how the warranty had been voided.
+
+"Well,  I was sitting outside watching hurricane Ian and I saw a bolt of lighting strike near my house and my bulbs burned out."
+
+Thats an Act of God. I Can't help you.
+
+Instead, when you call, state you problem in one sentence.
+
+"I have six dead light bulbs to replace"
+
+I promise, if the rep needs more info they will ask. But they will also be able to "not ask" the right questions to help you out.
+
+url:https://reddit.com/r/LifeProTips/comments/yrbpxj/
+author:variablesInCamelCase
+subreddit:LifeProTips
+score:7331
+numComments:385
+isOver18:False
+hasPostBody:True

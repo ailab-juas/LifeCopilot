@@ -1,0 +1,13 @@
+title:
+LPT: Making large hamburgers? Poke a dent in the middle to keep them from getting too thick when they cook
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ss263/
+author:stephthegeek
+subreddit:LifeProTips
+score:1377
+numComments:321
+isOver18:False
+hasPostBody:False

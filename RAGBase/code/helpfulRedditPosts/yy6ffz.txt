@@ -1,0 +1,13 @@
+title:
+LPT: Teach your children to treat servers like they would a friend who invited them to their house for a meal. Rather than feel entitled, they will treat servers with respect and gratitude.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/yy6ffz/
+author:ReflectionEterna
+subreddit:LifeProTips
+score:1571
+numComments:85
+isOver18:False
+hasPostBody:False

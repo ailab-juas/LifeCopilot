@@ -1,0 +1,15 @@
+title:
+YSK that the Swedish company Soundcloud is very close to bankruptcy
+
+content:
+They are running out of money quickly. Make sure you have your own music somewhere locally, and not just on Soundcloud should the service suddenly terminate.
+
+source: http://digital.di.se/artikel/soundcloud-gick-back-med-490-miljoner
+
+url:https://reddit.com/r/YouShouldKnow/comments/5m5u5w/
+author:MrOaiki
+subreddit:YouShouldKnow
+score:7864
+numComments:589
+isOver18:False
+hasPostBody:True

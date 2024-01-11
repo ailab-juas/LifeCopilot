@@ -1,0 +1,13 @@
+title:
+LPT If you are a very talkative person, get in the habit of questioning what you gain by sharing information with the people you talk to. Sometimes knowing when not to talk is just as important as knowing what to say.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/j52hhg/
+author:allthekos
+subreddit:LifeProTips
+score:79884
+numComments:1529
+isOver18:False
+hasPostBody:False

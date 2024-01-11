@@ -1,0 +1,17 @@
+title:
+LPT: When watching a movie with a group friends, always turn on subtitles.
+
+content:
+I'm always that guy that asks to have it turned up because I'm actually more interested in the show than the petty conversations. With subtitles on, even though there will always be at least one person who makes a negative remark about them, you can have the movie volume at a much lower volume allowing those who want to talk to still hold conversations and those who are watching the movie to be able to follow it.
+
+**EDIT:** Because of the amount of angry messages I've gotten over this LPT, I'd like to clarify. This is something that is best in large groups. I know there are close friends who can actually commit to watching a movie, this doesn't apply to those scenarios. Also, I know a lot of people hate subtitles so please stop telling me. Subtitles are something you have to watch a few movies with and then you are never bothered by them again. If you don't like subtitles, ignore this LPT, don't send me hate mail. Last but not least, like I said, this is just to be considerate to those who might be more interested in the movie than talking to people at any point. Don't play movies that nobody has seen in large groups, just something fun that some people can pay attention to if they want.
+
+**Second LPT:** If you use VLC to watch videos on your computer (which you should), use "H" to delay subtitles upwards of a couple seconds so you aren't tempted to read them unless you missed something. It'll also get you used to ignoring subtitles.
+
+url:https://reddit.com/r/LifeProTips/comments/14tn87/
+author:Wahzuhbee
+subreddit:LifeProTips
+score:1238
+numComments:340
+isOver18:False
+hasPostBody:True

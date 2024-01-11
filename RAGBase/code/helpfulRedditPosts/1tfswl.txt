@@ -1,0 +1,13 @@
+title:
+LPT: When a bottle of chocolate syrup "runs out", fill the bottle with milk and shake it up. Utilizes all the remaining syrup for a final, chocolatey gift.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1tfswl/
+author:carrotflowerking2
+subreddit:LifeProTips
+score:1435
+numComments:175
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,23 @@
+title:
+LPT: If you post photos or videos of yourself online, especially NSFW, remove all the embedded information beforehand
+
+content:
+A lot of people nowadays are posting sexually explicit media of themselves online, which is cool, but not necessarily smart.
+
+You should take the time to protect yourself. Many phones automatically place location data, along with other metadata, like the model of your phone, within the media itself. 
+
+You can configure your settings so your phone stops doing this. You can scrub the metadata even after the photo/video is created. 
+
+Location metadata is very terrifying as often times the exact address of the location can be found, and some phones will straight up list it, or even show a map, in the details of the image/video for anyone who downloads it to find.
+
+Protect yourself from stalkers. Delete location metadata.
+
+Edit: many platforms automatically remove the data, but some don't.
+
+url:https://reddit.com/r/LifeProTips/comments/gz9v54/
+author:Demetraes
+subreddit:LifeProTips
+score:1002
+numComments:48
+isOver18:True
+hasPostBody:True

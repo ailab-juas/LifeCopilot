@@ -1,0 +1,15 @@
+title:
+LPT If you need to write an lengthy work email, give headings to each paragraphs. It not only helps your readers, it also helps you to organize your thoughts
+
+content:
+I have a coworker who does this in smallest emails, it’s so much easier to read. And because I understand instantly what they are relaying and requesting, I respond and act quicker for them. Started doing that myself, and found myself naturally keep the section relevant to what it’s supposed to focus on. Your readers will appreciate this!
+
+Edit: Some responses say that emails shouldn’t be long anyways, good for you that you never have to give HR/payroll detailed on-record explanations on why they are wrong and what they should do to correct things for you :/
+
+url:https://reddit.com/r/LifeProTips/comments/ybc5mz/
+author:xiexieni9527
+subreddit:LifeProTips
+score:1258
+numComments:73
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,19 @@
+title:
+LPT: When checking the air pressure in your tires, don't forget to check your spare!
+
+content:
+I just checked the air pressure in my tires before traveling.  I also checked the spare...only to find it completely flat.  I refilled it and put it back in the boot.   
+
+A flat spare isn't helpful!  Be sure your spare has air!
+
+Travel safely!
+
+
+
+url:https://reddit.com/r/LifeProTips/comments/1rncku/
+author:wstreefrog
+subreddit:LifeProTips
+score:1853
+numComments:221
+isOver18:False
+hasPostBody:True

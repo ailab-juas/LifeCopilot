@@ -1,0 +1,21 @@
+title:
+YSK: The 2020 U.S. Census will NOT ask you about your citizenship status, and is confidential.
+
+content:
+The 2020 census is predicted to have a massive undercount of millions of people related to budgeting issues, fear of reprisal and an inability to properly prepare. Here's some facts to clear the air and make you feel more comfortable with the Census:
+
+The 2020 Census will NOT ask you if you or anyone in your household are citizens. This was a question that was suspiciously enacted by the director of the census, which tied into minority suppression by gerrymandering. The decision went to the Supreme Court where it was shot down. To reiterate: ***The Census will not ask you if you are a citizen of the United States.***
+
+Your census info is kept completely confidential for 72 years.
+
+It is absolutely illegal for any information gathered in the census to be shared with anyone for anything. It is explicitly for the use of the census and nothing more.
+
+[here's a video for everyone](https://youtu.be/1aheRpmurAo)
+
+url:https://reddit.com/r/YouShouldKnow/comments/dzcsbp/
+author:Swartz55
+subreddit:YouShouldKnow
+score:6113
+numComments:502
+isOver18:False
+hasPostBody:True

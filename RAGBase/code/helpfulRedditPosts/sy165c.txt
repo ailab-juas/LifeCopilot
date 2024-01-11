@@ -1,0 +1,17 @@
+title:
+YSK that if you are in an emergency while abroad and do not immediately know the emergency number of the country, dialing 911 would get you redirected to emergency services in many countries. However, the official emergency number worldwide is 112.
+
+content:
+Why YSK: Travelling abroad can be fun and full of uncertainties, even with the best preparations. And sometimes you need the emergency number not for yourself but to help someone else.
+
+Edit: An additional tip, thanks to u/mrbill1234, you can dial 112 from any GSM phone for free, even if it has no SIM, even if you don't know the unlock PIN, and even if it has been blocked as stolen. It will connect to the best available network which has reception at your location.
+
+Edit 2: to clarify that 112 is the most common official emergency number worldwide, but not in all countries, as some commenters have observed.
+
+url:https://reddit.com/r/YouShouldKnow/comments/sy165c/
+author:poyup
+subreddit:YouShouldKnow
+score:14959
+numComments:273
+isOver18:False
+hasPostBody:True

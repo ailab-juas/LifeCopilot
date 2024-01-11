@@ -1,0 +1,23 @@
+title:
+YSK that pregnancy is counted from two weeks BEFORE conception.
+
+content:
+Pregnancy is counted from the first date of a person's last period, which is approximately two weeks before she actually conceives. Then, after the conception event, it takes two weeks for pregnancy to be detected. So, a person will already be four weeks pregnant by the time she is able to detect that she is pregnant.
+
+Why YSK: As these numbers are discussed in the news, it is important to understand what six weeks of pregnancy actually means. Many people may imagine that six weeks of pregnancy = six weeks of knowing you're pregnant. In reality, at six weeks of pregnancy, **a person can only have known she was pregnant for an absolute maximum of two weeks**--and this is assuming she has very regular periods that she is tracking.
+
+Source because of rule 9: [here](https://americanpregnancy.org/healthy-pregnancy/week-by-week/pregnancy-week-1-2/)
+
+Edit since apparently the previous site is unreliable: here are some more sites that discuss weeks 1-2 of pregnancy, which occur before conception. This is not an opinion or debate, just simply how pregnancy is calculated. [1](https://www.whattoexpect.com/pregnancy/week-by-week/weeks-1-and-2.aspx) [2](https://www.babycenter.com/pregnancy/week-by-week/2-weeks-pregnant) [3](https://www.betterhealth.vic.gov.au/health/healthyliving/pregnancy-week-by-week#week-1)
+
+Edit 2 because a lot of people are asking: if you have irregular cycles and do not know when you conceived, a doctor will estimate how far along you are based on measurements at your first ultrasound. Note this estimate will still include two weeks prior to conception (so an "8 week old" embryo has technically only existed for 6 weeks). Doctors typically will not perform an ultrasound until you are 10-12 weeks along (occasionally sooner, 7-8 weeks).
+
+Edit 3 for another FAQ: The medical reason for this is that your body is technically preparing for pregnancy during those first two weeks, so it can be viewed as part of the pregnancy even though the fetus hasn't been conceived yet. The practical reason is that it makes it easier to track--women are more likely to know the date of their last period than the date of the conception, as they may have sex on multiple days during a cycle.
+
+url:https://reddit.com/r/YouShouldKnow/comments/vmfggs/
+author:Herodias
+subreddit:YouShouldKnow
+score:4706
+numComments:236
+isOver18:False
+hasPostBody:True

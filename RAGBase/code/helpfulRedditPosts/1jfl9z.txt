@@ -1,0 +1,56 @@
+title:
+YSK which websites won't waste your time.
+
+content:
+[This is a comment](http://www.reddit.com/r/AskReddit/comments/1hb8qo/which_websites_do_you_usually_visit_when_you_are/caso6bx) from /u/SaidinWoT about websites that **aren't** wasteful:
+
+* [khanacademy.org](http://khanacademy.org) - Watch thousands of micro-lectures on topics ranging from history and medicine to chemistry and computer science!
+* [freerice.com](http://freerice.com) - Help end world hunger by correctly answering multiple-choice quizzes on a wide variety of subjects!
+* [fuckinghomepage.com](http://fuckinghomepage.com) - LINKS TO FUCKING AWESOME SHIT THAT CHANGE EVERY MOTHERFUCKING DAY.
+* [artofmanliness.com](http://artofmanliness.com) - Blog/site dedicated to all things manly, great for learning life skills and good insights.
+* [unplugthetv.com](http://unplugthetv.com) - Randomly selects an educational video to watch instead of useless drivel.
+* [coursera.org](http://coursera.org) - Educational site that works with universities to get their courses on the internet, free for you to use!
+* [lizardpoint.com](http://lizardpoint.com) - A collection of browser-based games and the like to improve knowledge of geography, math, and such.
+* [ted.com](http://ted.com) - Collection of TED (Technology, Entertainment and Design) talks in which knowledgable speakers address a variety of topics in short videos (&lt; 18 minutes)
+* [lifehacker.com](http://lifehacker.com) - Learn to hack life! Tips and tricks for improving all areas of your life.
+* [lifehackninja.com](http://lifehackninja.com) - Recently started life hack site that offers lists of useful knowledge.
+* [good.is/infographics](http://good.is/infographics) - (Note: /u/gerbalgerbal typo'd to /inforgraphics, which does exist but isn't much of anything) Collection of infographics to get some good information in an easy to digest visual format.
+* [mathrun.net](http://mathrun.net) - Practice your basic math skills with a simple game
+* [justinguitar.com](http://justinguitar.com) - Hundreds of free guitar lessons as well as some basic music theory.
+* [duolingo.com](http://duolingo.com) - Learn a new language for free while helping to translate the web!
+* [memrise.com](http://memrise.com) - Learn things quickly and efficiently with flashcards that are spaced based on the [spacing effect](https://en.wikipedia.org/wiki/Spacing_effect)
+* [cookingforengineers.com](http://cookingforengineers.com) - A site containing one man's explorations in food, with step by step instructions for making a wide variety of dishes.
+* [thedatingspecialist.com](http://thedatingspecialist.com) - A weekly blog run by a professional dating coach, offers advice on a wide variety of relationship topics.
+* [zenhabits.net](http://zenhabits.net) - Blog about improving your life by making it simpler.
+* [nerdfitness.com](http://nerdfitness.com) - Fitness resource for the average person.
+* [mentalfloss.com](http://mentalfloss.com) - Articles meant to expose you to interesting info, whether to "make you smile" or to really get you thinking.
+* [openculture.com](http://openculture.com) - Compendium of free learning resources, including courses, textbooks, and videos/films.
+* [charitynavigator.org](http://charitynavigator.org) - Site dedicated to reviewing charities so you can easily research any you might be interested in and see how they hold up.
+* [lettersofnote.com](http://lettersofnote.com) - Their tagline does better than I can: "Correspondence deserving of a wider audience"
+* [thedailymiscellany.com](http://thedailymiscellany.com) - On the opposite end of the vulgarity spectrum from [fuckinghomepage.com](http://fuckinghomepage.com), a daily dose of useful knowledge, quotes, and other random things.
+
+Adding in some suggestions from elsewhere in the thread (sorry if I missed any):
+
+* [MIT Open Courseware](http://ocw.mit.edu/index.htm) - Free access to quite a few MIT courses that are on par with what you'd expect from MIT. (from /u/1900david)
+* [codecademy.com](http://codecademy.com) - Pretty nice website with introductory courses for various programming languages and web technologies. (from /u/Archaya (and others, Archaya just replied directly to this post))
+* [investopedia.com](http://investopedia.com) - Learn about the world of finance, from basic terminology to in depth analysis of various areas of investing. (from /u/IAmNotAPerson6)
+* [udacity.com](http://udacity.com) - Free courses mainly focused around mathematics and programming. Aimed at people of all skill levels, redditors really seem to like it (I've never actually tried it). (from /u/veggie124 (and possibly others))
+* [lang-8.com](http://lang-8.com) - Write posts in a language you're trying to learn, get them critiqued by a native speaker (and in turn help that native speaker learn your language)! (from /u/smallpoly)
+* [careerbuilder.com](http://careerbuilder.com) - Job hunting site meant to help you find a career. Rather aptly named. (from /u/NOT_ACTUALLYRELEVANT)
+* [ureddit.com](http://ureddit.com) - Reddit's very own University! Learn from fellow redditors, or try to teach them. (from /u/Gr1pp717)
+* [engineerguy.com](http://engineerguy.com) - Collection of videos in which Bill breaks down various feats of engineering in layman's terms. (from /u/Bovisaurus)
+* [zooniverse.org](http://zooniverse.org) - Take part in investigating various interesting studies of nature, science, and culture. (from /u/velawesomeraptors)
+* [quora.com](http://quora.com) - Ask questions you're curious about, answer those you're knowledgable about. Tailor your own feed to fit what interests you. (from /u/virjog)
+* [aldaily.com](http://aldaily.com) - Aggregation of articles from various higher education journals and publications. (from /u/Hesprit)
+* [noexcuselist.com/everything](http://noexcuselist.com/everything) - A convenient list of lots of awesome sites to learn from. Includes pretty much everything listed here, helpfully grouped into categories. Hover over links to get descriptions that may or may not beat out mine! (from /u/figureEIGHTS)
+* [livemocha.com](http://livemocha.com) - Community dedicated to the idea of everyone being fluent in multiple languages, teach or be taught another language with the goal of conversational fluency. (from /u/bearfiesta)
+* [simplesciencefitness.com](http://simplesciencefitness.com) - Breaking down the science behind fitness into layman's terms. (from /u/lapiak)
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/1jfl9z/
+author:dandy__lions
+subreddit:YouShouldKnow
+score:3065
+numComments:239
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+YSK that you can watch thousands of free movies on Archive.org, including Dr Strangelove, A Star is Born, and Night of the Living Dead
+
+content:
+[https://archive.org/details/moviesandfilms](https://archive.org/details/moviesandfilms)
+
+url:https://reddit.com/r/YouShouldKnow/comments/9pqgo6/
+author:Zonark000
+subreddit:YouShouldKnow
+score:6973
+numComments:136
+isOver18:False
+hasPostBody:True

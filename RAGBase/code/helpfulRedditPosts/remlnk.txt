@@ -1,0 +1,13 @@
+title:
+LPT: Wash your water bottle regularly. I don't mean rinse it out; I mean properly scrub it.
+
+content:
+It seems to be one of those things people don't think to clean because it's "just water." But remember that bacteria love water and think about all the places your bottle picks them up (bag, gym, office, mouth, etc)
+
+url:https://reddit.com/r/LifeProTips/comments/remlnk/
+author:AccuratelyWeird
+subreddit:LifeProTips
+score:1062
+numComments:210
+isOver18:False
+hasPostBody:True

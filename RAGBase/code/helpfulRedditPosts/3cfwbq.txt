@@ -1,0 +1,13 @@
+title:
+YSK: If you are in the U.S., you can order contact lenses from overseas (e.g. Canada) without a prescription.
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/3cfwbq/
+author:no_username_for_me
+subreddit:YouShouldKnow
+score:3066
+numComments:437
+isOver18:False
+hasPostBody:False

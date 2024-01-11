@@ -1,0 +1,13 @@
+title:
+LPT : Don't use WD-40 to lubricate your bike chain. It contains a solvent and will actually breakdown the remaining lube on your chain.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/57qf1k/
+author:AlexJosh
+subreddit:LifeProTips
+score:6237
+numComments:1189
+isOver18:False
+hasPostBody:False

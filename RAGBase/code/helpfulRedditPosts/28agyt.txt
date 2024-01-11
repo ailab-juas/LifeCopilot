@@ -1,0 +1,15 @@
+title:
+LPT: If you screw up while leaving a voicemail message, press 1!
+
+content:
+If you're leaving a voicemail message and screw up press 1 and it will normally bring up the options menu. I've found that option 3 is usually the option to delete and re-record the message. 
+
+Edit: Yes we all understand you text and Facebook message your friends. However, many people have jobs where they may need to call clients, vendors, other employees etc. which is how I learned about this particular tip
+
+url:https://reddit.com/r/LifeProTips/comments/28agyt/
+author:hulkfisting
+subreddit:LifeProTips
+score:2898
+numComments:339
+isOver18:False
+hasPostBody:True

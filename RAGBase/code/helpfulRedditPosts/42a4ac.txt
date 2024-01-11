@@ -1,0 +1,13 @@
+title:
+LPT : If you live in the blizzard affected areas and have a heat pump be sure to clear snow from around the outside unit. Leaving snow piled up around the unit can cause it to break.
+
+content:
+LPT : You most likely have a heat pump if you have a newer hvac system.  In heat mode your system is taking heat from outside and transferring it to the inside.  Your outside unit is normally on 6 inch pump ups, but this extreme snow is going to be well above that.  The snow sits up against the outside unit and doesn't allow the refrigerant to change from liquid to gas and if liquid gets to your compressor it will break.  Compressors cannot pump liquid.  Now almost all heat pumps have some back up heat source like electric or gas so you can still have heat but save yourself the trouble and money of having to replace your outdoor unit and clear all snow from around it.  Be careful not to damage and wires on your outside unit when clearing away the snow.  Now keep in mind some units have safety measures to protect from this but this is not a typical snow storm.  Better to be safe than be sorry, clear the snow.
+
+url:https://reddit.com/r/LifeProTips/comments/42a4ac/
+author:dogmob
+subreddit:LifeProTips
+score:3725
+numComments:503
+isOver18:False
+hasPostBody:True

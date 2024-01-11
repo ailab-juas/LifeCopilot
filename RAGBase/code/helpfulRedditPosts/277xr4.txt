@@ -1,0 +1,15 @@
+title:
+YSK that oil changes in most cars are not required nearly as often as many garages recommend. In the US most service garages recommend every 3000 miles while many car manufactures actually recommend every 7,500 miles or more.
+
+content:
+check your owners manuals or do a little web searching to find what is actually appropriate for your car.
+
+EDIT: oil change intervals vary wildly depending on the car and driving conditions.  The 3000 mile interval is still relevant for many car owners however some new cars (such as Jaguars) have a standard interval of 15K miles.  The 3,000-mile oil change is a one size fits all myth that needs to stop. Failing to heed the service interval in your owner's manual is a waste of oil and money.  
+
+url:https://reddit.com/r/YouShouldKnow/comments/277xr4/
+author:lumpytrout
+subreddit:YouShouldKnow
+score:1688
+numComments:434
+isOver18:False
+hasPostBody:True

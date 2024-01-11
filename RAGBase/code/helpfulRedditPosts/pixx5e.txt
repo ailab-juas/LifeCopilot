@@ -1,0 +1,21 @@
+title:
+YSK: there is a file called rockyou.txt that contains the most common passwords in the world. If your password is on it, you should change it asap.
+
+content:
+Origins of the file: [https://en.wikipedia.org/wiki/RockYou#Data\_breach](https://en.wikipedia.org/wiki/RockYou#Data_breach)
+
+Link to download the text file (133 MB): [https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt](https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt)
+
+Why YSK: when trying to brute force your password, hackers will resort to lists of common passwords, and rockyou.txt is the most exhaustive and well-known source. Those lists allow to hack a ton of accounts in a short time thanks to the limited amount of trials necessary for statistically good results. If a hacker is going to try and get into your account, this list will be used. If your password isn't on it, he will most likely not try further and your account should be safe from brute force attacks.
+
+This is the best thing you can do to prevent your account from randomly getting hacked. To note that your password should still be long enough to prevent brute forcing with *all* character combinations (recommended 8+ characters) and that will not prevent social engineering attacks.
+
+Edit: this comment section is an absolute mess
+
+url:https://reddit.com/r/YouShouldKnow/comments/pixx5e/
+author:Wolfeur
+subreddit:YouShouldKnow
+score:1585
+numComments:148
+isOver18:False
+hasPostBody:True

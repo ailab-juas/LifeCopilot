@@ -1,0 +1,15 @@
+title:
+YSK: the Magnuson-Moss Warranty Act of 1975 (USA) says that the manufacturer can’t void your warranty just because you disassembled your device. Instead, they have to prove that whatever malfunction occurred was because you disassembled the product. (Similar laws exist in many other countries.)
+
+content:
+Why YSK: When I am cracking open an electronic item for repair or harvest, I often run into sternly-worded stickers which warn me that if I go any further “Your warranty may be voided”. This is generally not true, per the Magnuson-Moss Warranty Act.
+
+Ref: https://www.ifixit.com/News/11748/warranty-stickers-are-illegal
+
+url:https://reddit.com/r/YouShouldKnow/comments/jwuncg/
+author:oncobomber
+subreddit:YouShouldKnow
+score:24885
+numComments:386
+isOver18:False
+hasPostBody:True

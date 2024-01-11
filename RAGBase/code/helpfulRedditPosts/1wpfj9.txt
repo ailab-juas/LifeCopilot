@@ -1,0 +1,13 @@
+title:
+LPT: To close a non-reclosable cardboard box, fold one flap into a triangle, fold the opposite flap in half, and reclose by rearranging the flaps like so...
+
+content:
+http://imgur.com/a/sgY3x#0
+
+url:https://reddit.com/r/LifeProTips/comments/1wpfj9/
+author:kempff
+subreddit:LifeProTips
+score:1177
+numComments:130
+isOver18:False
+hasPostBody:True

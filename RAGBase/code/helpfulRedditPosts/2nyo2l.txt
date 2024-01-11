@@ -1,0 +1,13 @@
+title:
+YSK that no two cancers are the same.
+
+content:
+My uncle got lung cancer a few years back and I remember everybody gave him the same advice as if there is a "one size fits all" plan. [This graphic not only shows how deadly lung cancer is, but how every case needs to be treated different than others who have/had lung cancer](https://www.myriadpro.com/blog/dangers-lung-cancer-infographic/)
+
+url:https://reddit.com/r/YouShouldKnow/comments/2nyo2l/
+author:Wabes
+subreddit:YouShouldKnow
+score:1150
+numComments:141
+isOver18:False
+hasPostBody:True

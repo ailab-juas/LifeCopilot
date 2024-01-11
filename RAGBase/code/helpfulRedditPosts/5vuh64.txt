@@ -1,0 +1,29 @@
+title:
+LPT: Never give any personal information on inbound calls regardless of how much information they already know about you.
+
+content:
+This should be pretty obvious, when someone calls you, regardless of how "legit" or "serious" they seem, never give any information out.   They called you, and you DON'T KNOW who they are.
+
+I had someone call me asking for personal information saying they spoke with my wife.  Gave me her name and her phone number but said she asked that they call me.   It all sounded great and legit, but my "Spider Sense" kicked in when they asked to confirm my birthday.  Now I told him I would have to call him back since I didn't know who he was.  It got so far as him asking for my credit card in order to pay for something.  
+
+I hung up, called him back at the publicly listed number.  Not the number he gave me.  
+
+Turns out it was legit and the guy was from the company.  I completed the transaction and it all worked out.  
+
+So a few more tips:
+
+ * Don't be shy to say "I don't give out information on inbound calls, sorry!"
+
+ * Call them back on publicly listed numbers, like google or their website.
+
+ * Get as much info about them as possible before hanging up, Name, Title, Department and so on.
+
+ * Don't be fooled if they already have info on you, or they speak perfect English.  Not every scammer is from India or Eastern Europe. (Sorry if anyone is offended, but seriously you know its somewhat true.)
+
+url:https://reddit.com/r/LifeProTips/comments/5vuh64/
+author:DSCJ
+subreddit:LifeProTips
+score:1444
+numComments:65
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Use Chromecast without Internet/mobile data by setting up a internet-less hotspot
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/38sb3v/
+author:Quaternions_FTW
+subreddit:LifeProTips
+score:3696
+numComments:421
+isOver18:False
+hasPostBody:False

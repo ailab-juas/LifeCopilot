@@ -1,0 +1,20 @@
+title:
+LPT: When packing up your Xmas lights, forget the loop. Use the zigzag (pics in description)
+
+content:
+I've been using this technique for the last 10+ years since learning it from a lighting store and never had a tangle.  
+
+Link to pics: http://imgur.com/a/Y8H2x (I've used my larger, C9 lights that were outside to demonstrate, but I do the same thing with my smaller tree lights.)
+
+Instead of looping the lights together, or wrapping them around something, use a zigzag-like pattern by holding the base of the first light, then taking every other light and holding them together. By the end, you'll have a bundle with the lights alternating; 1, 3, 5, etc facing up and 2, 4, 6, etc facing down. Use a twisty tie or something to tie them together and put them back in the box.
+
+This method takes up a lot less space than wrapping them around something, minimizes the potential for tangles and, when you need them next year, you simply take one end and they will all unravel in order. (Future you will be thankful)
+
+
+url:https://reddit.com/r/LifeProTips/comments/3yf03q/
+author:bcrabbers
+subreddit:LifeProTips
+score:2910
+numComments:229
+isOver18:False
+hasPostBody:True

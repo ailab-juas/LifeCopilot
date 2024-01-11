@@ -1,0 +1,41 @@
+title:
+LPT: If you're starting out in a new city and don't know what your long term living situation is, get a post office box
+
+content:
+I did this when I relocated to a new city in a new state, and it's turned out to be very useful. Some benefits include:
+
+-If you have to rent a different place for whatever reason (has happened to me 3 times now due to job change and an iffy landlord situation), you don't have to worry about changing your billing address, or contact other institutions which have your address on file. You're less likely to lose important mail between moves.
+
+-If you're living with roommates, you don't have to worry about them snooping through your mail
+
+-Having a secure place to receive your mail may reduce your chances of being a victim of identity theft. You can go out of town for several days and your mail is still safely locked at the post office.
+
+-It might give you some comfort knowing that your physical address isn't on file with a bunch of organizations or businesses (there are some limitations to this where you HAVE to give someone your physical address, not a mailing address)
+
+-Psycho relatives who want to send Christmas cards don't have to know where you actually live. Hooray!
+
+If you're deciding which post office to get a box in, but aren't sure exactly what part of the metro area you'll be in long-term, aim for a more centralized location near mass transit.
+
+Getting a PO box might cost you $50 a year, but it's very worth it IMO. 
+
+**Edited to add:** I had no idea I'd get such a big response to this LPT! A couple thoughts based on the comments here:
+
+As several folks have pointed out, it's probably a better idea to get a UPS box, especially if you buy a lot of stuff online. I don't, and I feel like my PO box has suited me well.
+
+If you do decide to get a PO box, it'll be the most worth it if the following conditions exist:
+
+1. You get a relatively low volume of mail (meaning you don't have to check your box often)
+
+2. You end up moving frequently within the same metro area
+
+3. The cost to rent the PO Box is reasonable (some cities may be as low as $50, others will be as high as $150)
+
+Also as someone pointed out, check the USPS website for lobby hours when you're deciding where to get your PO box.
+
+url:https://reddit.com/r/LifeProTips/comments/65j5nr/
+author:InfoMiddleMan
+subreddit:LifeProTips
+score:12321
+numComments:421
+isOver18:False
+hasPostBody:True

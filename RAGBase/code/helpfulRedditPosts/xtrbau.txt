@@ -1,0 +1,24 @@
+title:
+YSK that ash trees in North America are facing an epidemic that recently spread to the West coast of the United States. Ash trees can be vaccinated at a relatively low cost, but only before infection.
+
+content:
+Why YSK: An infection of Emerald Ash Borers (EABs) can kill an otherwise healthy ash in 2-5 years. The loss of ash trees can impede ecosystems, bring down home values or disrupt food webs. During bad weather, sick or dying ashes can pose a safety risk if they fall or drop branches. And with the loss of these trees comes an increased risk of landslides and flooding, both of which tree roots help to prevent.
+
+If you are a home owner with ash trees, contact local arborists immediately, and inquire about your options for vaccinating or treating your ashes to protect them. Signs of infection are hard to spot before it is too late, and treatments are **only** effective prior to intense infection.
+
+There are quite a few brand names for EAB pesticides, although they all use the same 10 or so active ingredients. There are a variety of ways to apply them to ash trees, depending on the product. Some are applied to the soil, typically either by drenching the ground around the tree with a water and pesticide solution, or by injecting the solution a few centimeters below ground near the base of the tree. Either way, the compounds will be slowly taken up by the tree and spread throughout it.
+
+Some compounds can also be applied to trees as a spray. These tend to be less preferred, since the chemicals can easily drift around while spraying, affecting unintended species. Interestingly, one of the approved sprays is permethrin, which is also effective at repelling mosquitos!
+
+A relatively new technology, tree injectors, allow the direct injection of anti-EAB pesticides into a tree's inner tissue. Trunk injected pesticides work faster, much like IV drugs work faster than pills in humans. In studies, this method has been the most successful, however it is more expensive. Some municipal governments are reimbursing tree owners for part of the cost of vaccinating their ashes. Montreal West, for example, will reimburse tree-owners up to $250.
+
+To read more about how EABs kill trees, what the signs are, why EABs are such a problem in North America and what other methods scientists are testing to fight the epidemic, read this article from McGill University's Office for Science and Society- [https://www.mcgill.ca/oss/article/epidemic-facing-ash-trees](https://www.mcgill.ca/oss/article/epidemic-facing-ash-trees)  
+\^ Links to a **lot** of primary research and sources in that article.
+
+url:https://reddit.com/r/YouShouldKnow/comments/xtrbau/
+author:TheClumsyScientist
+subreddit:YouShouldKnow
+score:9382
+numComments:226
+isOver18:False
+hasPostBody:True

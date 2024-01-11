@@ -1,0 +1,21 @@
+title:
+YSK: Alcohol can dramatically impact your lifespan with even slightly-excessive drinking (10-15 beverages weekly) shortening life by one to two years
+
+content:
+**Why YSK:** According to research: 
+
+* people diagnosed with alcohol use disorder see lifespans decrease by up to 28 years
+* Even slightly-excessive drinking, or roughly 10-15 alcoholic beverages per week, could shorten a drinker’s life by one to two years
+* Just a few more weekly drinks (18) can knock off four to five years
+
+Contrary to studies showing beneficial effects of alcohol or net-zero impact on lifespan, alcohol appears to speed up telomere shortening. Telomeres are endpieces, or caps, of DNA on your chromosomes that protect the chromosome from damage. Telomeres naturally shorten with age, so preventing shortening or damage to telomeres should be a focus.
+
+Source: [https://spannr.com/articles/alcohols-effect-on-longevity](https://spannr.com/articles/alcohols-effect-on-longevity)
+
+url:https://reddit.com/r/YouShouldKnow/comments/x9d7ph/
+author:deeeel
+subreddit:YouShouldKnow
+score:21364
+numComments:3263
+isOver18:False
+hasPostBody:True

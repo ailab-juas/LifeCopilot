@@ -1,0 +1,13 @@
+title:
+YSK the Chrome extension called Window Resizer hijacks your Google results and adds their Amazon affiliate links
+
+content:
+If you have Window Resizer installed, give them a 1-star review and then remove it from Chrome.
+
+url:https://reddit.com/r/YouShouldKnow/comments/1snyyl/
+author:globecode
+subreddit:YouShouldKnow
+score:1512
+numComments:84
+isOver18:False
+hasPostBody:True

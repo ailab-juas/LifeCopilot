@@ -1,0 +1,17 @@
+title:
+YSK: You can bypass most article membership gateways online using outline.com
+
+content:
+If you're trying to read an article online and it requires you to signup/pay to read the thing, just type **outline.com/** before the URL and you'll get taken to the full article text. You can also navigate straight to [outline.com](https://outline.com) and from there type in the URL of the article you're trying to access. Here's more [info](https://millennialmoderator.com/read-any-article-online-for-free) about it as well as other features.
+
+&amp;#x200B;
+
+WHY: because membership gateways are annoying
+
+url:https://reddit.com/r/YouShouldKnow/comments/bg7f2z/
+author:loshofficial
+subreddit:YouShouldKnow
+score:4730
+numComments:100
+isOver18:False
+hasPostBody:True

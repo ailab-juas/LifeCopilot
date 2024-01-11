@@ -1,0 +1,13 @@
+title:
+LPT: The IRS provides FREE software to file your taxes if your adjusted gross income was $69K or less in 2019 (United States)
+
+content:
+Here's the link: [IRS Free File](https://apps.irs.gov/app/freeFile/). Options include TurboTax, TaxAct, TaxSlayer and others.
+
+url:https://reddit.com/r/LifeProTips/comments/euf1t9/
+author:the_great_impression
+subreddit:LifeProTips
+score:1639
+numComments:135
+isOver18:False
+hasPostBody:True

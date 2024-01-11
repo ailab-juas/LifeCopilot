@@ -1,0 +1,15 @@
+title:
+YSK About Frog Logs if you have a swimming pool to help save the lives of some critters
+
+content:
+There is an inexpensive thing called a [Frog Log](https://i.imgur.com/pdEETAP.jpg) that is a bridge from the water to the ground to allow critters who have fallen into the pool to escape with their lives.
+
+It's better than fishing out the poor unfortunate souls that don't make it.
+
+url:https://reddit.com/r/YouShouldKnow/comments/csg4mx/
+author:danooli
+subreddit:YouShouldKnow
+score:8176
+numComments:215
+isOver18:False
+hasPostBody:True

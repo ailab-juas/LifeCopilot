@@ -1,0 +1,13 @@
+title:
+YSK about amazonsupply.com, a beta site where Amazon organizes materials, tools and other building supplies for science, tech and the hobbyist.
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/1m8ub7/
+author:hdconn
+subreddit:YouShouldKnow
+score:1413
+numComments:88
+isOver18:False
+hasPostBody:False

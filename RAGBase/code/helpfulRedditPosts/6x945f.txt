@@ -1,0 +1,15 @@
+title:
+YSK Wells Fargo Bank has discovered over 3 million accounts that were opened without the customer's permission. If you ever were a customer and you think an account may have been opened secretly under your name, you can call this hotline to find out and possibly receive a refund: 1-877-924-8697
+
+content:
+The scandal with Wells Fargo continues to grow, with [more fake accounts being discovered, including credit cards and bill pay services.](http://money.cnn.com/2017/08/31/investing/wells-fargo-fake-accounts/index.html) (In addition, they're accused of ripping off auto insurance customers and small business owners.)
+
+When I worked there in 2008, I was trained to convince every customer that they should open more accounts. The managers even pressured me into bringing friends and family members in to open accounts. It's clear in retrospect that the "rock star" bankers were getting their big numbers in questionable ways. I'm sorry I played along. Now I just want to make sure that everyone who was affected by this terrible sales culture receives justice.
+
+url:https://reddit.com/r/YouShouldKnow/comments/6x945f/
+author:lux514
+subreddit:YouShouldKnow
+score:10473
+numComments:276
+isOver18:False
+hasPostBody:True

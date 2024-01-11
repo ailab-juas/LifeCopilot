@@ -1,0 +1,15 @@
+title:
+YSK that you should remove the cotton ball from pill bottles. It was put there to protect the pills during shipping. The cotton can draw moisture into the bottle causing the pills to decompose faster.
+
+content:
+Storing your medicine properly:
+
+https://medlineplus.gov/ency/patientinstructions/000534.htm
+
+url:https://reddit.com/r/YouShouldKnow/comments/871oik/
+author:kilrock
+subreddit:YouShouldKnow
+score:13594
+numComments:339
+isOver18:False
+hasPostBody:True

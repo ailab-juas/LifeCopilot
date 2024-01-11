@@ -1,0 +1,21 @@
+title:
+LPT: Now is a great time to pay off your federal student loans. Your loan servicer knows this, and likely disabled autopay.
+
+content:
+If you have the ability to continue paying your US federal student loans during this crisis, the government has set interest rates to zero until September. This means that any payment you make now will go directly to the principal, without accrued interest working against you.
+
+This is not good for student loan servicers, the private companies that administer these loans. In the last week, several of these companies have disabled autopay. You now need to either opt back in to autopay, or remember to pay manually. Bastards. 
+
+If you have the resources to keep paying your loans right now - do it!
+
+Edit: As a few commenters pointed out, it is better to put the money you would be spending on making these payments into savings and paying down your loans before interest rates increase. This gives you the benefit of whatever your savings account gives you in interest.
+
+The point is, take advantage of interest rates being zero to pay down your principal directly.
+
+url:https://reddit.com/r/LifeProTips/comments/g0mr1o/
+author:chp_130
+subreddit:LifeProTips
+score:1750
+numComments:196
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,25 @@
+title:
+YSK how to properly perform CPR and the Heimlich Maneuver, and how to work an AED
+
+content:
+Reading over a reddit thread earlier today it became clear that the majority of redditors have no idea how to perform CPR or the Heimlich Maneuver if a situation should arise. 
+
+Fast response CPR can significantly increase the chance that someone will survive a cardiac episode with most or all of their mental faculties in check. Similarly, every minute without an AED during a cardiac episode increases the likelihood of significant brain injury by 7-10%, so fast retrieval and use of an AED can have life-changing effects on the patient. 
+
+Worse come to worse, a person needing CPR and an AED is already dead, so there is no harm in attempting CPR. An AED will also not shock the heart unless it detects a proper malfunctioning hearth rhythm, so there is no way to harm a victim of a cardiac episode by using the AED if it isn't necessary. 
+
+[Heimlich Maneuver Info-graphic.](https://cdn1.vox-cdn.com/uploads/chorus_asset/file/7440217/chokingposternyc.jpg)
+
+[CPR Info-graphic.](https://s-media-cache-ak0.pinimg.com/736x/3c/84/87/3c848756251a8317230098cdb358f11c.jpg)
+
+[AED Info-Graphic.](https://lh5.googleusercontent.com/-yOqHycdwZA4/VK8Gr1Aq-JI/AAAAAAAAADI/UXwYrLx_dhg/w690-h1169/aed-infographic.jpg)
+
+[Citation:](http://www.jblearning.com/catalog/9781284032840/) Emergency Care and Transportation of the Sick and Injured ^^Eleventh ^^Edition
+
+url:https://reddit.com/r/YouShouldKnow/comments/5r8zre/
+author:sdh59
+subreddit:YouShouldKnow
+score:2148
+numComments:194
+isOver18:False
+hasPostBody:True

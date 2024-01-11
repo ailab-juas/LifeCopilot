@@ -1,0 +1,13 @@
+title:
+YSK: 'weary' means tired, 'wary' means concerned or hesitant.
+
+content:
+Why YSK; I hear this being misused a lot and interpreted strictly they can mean the direct opposite. E.g. 'I'm weary of uncooked chicken' suggests you eat so much uncooked chicken it's  boring.
+
+url:https://reddit.com/r/YouShouldKnow/comments/kx6v57/
+author:VindoViper
+subreddit:YouShouldKnow
+score:16287
+numComments:368
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: If someone sends you some art/writing/music they've done, don't just say you like it, talk about a specific part of it because that feels a lot more engaging.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/j8956x/
+author:Wolf_Girl42
+subreddit:LifeProTips
+score:2487
+numComments:78
+isOver18:False
+hasPostBody:False

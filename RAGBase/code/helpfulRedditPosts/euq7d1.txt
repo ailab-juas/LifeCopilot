@@ -1,0 +1,19 @@
+title:
+YSK: If you want to post your art on the internet, there are some easy ways to improve the quality (and therefore response) of your phone photography!
+
+content:
+Artistic expression is awesome! Please share your creations with the world, even if you don't see them as anything special. That said, I see a lot of first-time posters whose work is difficult to see and appreciate due to the quality of the photo they chose. Here are some simple things that can help:
+
+1. Get as much light on the piece as possible. This might mean waiting until the next morning and photographing near a sunny window. Otherwise, turn on a bright light or several!
+2. If there is glare, then move or tilt the piece so the light is indirect. This should be easy with a window-- just take the picture right outside the edge of the square of light.
+3. Take 1 minute to edit the picture with your phone's onboard editing capabilities. Before you start, turn your phone's brightness all the way up so you can see exactly what the picture looks like. You should adjust brightness/whites/highlights so that any paper looks pure white. You should adjust contrast/blacks/shadows so that dark colors stand out strongly. And you should go into the temperature/color settings so that any blues or yellows in the paper color turn more neutral (pure white, not blue-white or yellow-white).
+
+This should help people appreciate your art for what it is, not how you took your picture. Happy making!
+
+url:https://reddit.com/r/YouShouldKnow/comments/euq7d1/
+author:Magical_cat_girl
+subreddit:YouShouldKnow
+score:6836
+numComments:76
+isOver18:False
+hasPostBody:True

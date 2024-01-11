@@ -1,0 +1,15 @@
+title:
+YSK that if you ever see a large explosion (Tianjin and Beirut for example) you should get away from any windows ASAP
+
+content:
+If there is an explosion as large as the one that happened in Lebanon today, every window within a certain radius is going to explode.  Especially if the pressure wave is great enough, the entire room you are standing in could be peppered in small shards of glass.  There are pictures of Lebanon after the explosion and the entire skyline is missing windows from buildings.
+
+If an accident of this magnitude happens again in your city, save your eyes!  Cover your face and move away from windows until the shockwave has passed.
+
+url:https://reddit.com/r/YouShouldKnow/comments/i3syo2/
+author:muttenchops23
+subreddit:YouShouldKnow
+score:1526
+numComments:89
+isOver18:False
+hasPostBody:True

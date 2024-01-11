@@ -1,0 +1,13 @@
+title:
+YSK: how to get a public WiFi login page to appear
+
+content:
+If you’re connecting to a public WiFi network, and can’t get the generic “click here to connect” page to pop up, open a browser (in incognito/private mode seems to help) and access routerlogin.net. This is normally the page one uses to access one’s home router, but 95% of the time in my experience, it automatically redirects to the pesky connect page at Starbucks, the library, Panera, etc. if you can’t get it to pop up on its own.
+
+url:https://reddit.com/r/YouShouldKnow/comments/9fuiq7/
+author:Smitherd
+subreddit:YouShouldKnow
+score:3574
+numComments:166
+isOver18:False
+hasPostBody:True

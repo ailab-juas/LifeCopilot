@@ -1,0 +1,23 @@
+title:
+YSK: Microsoft is going to start injecting ads into Windows 10 File Explorer with the next Creators update. Here is how to turn them off preemptively.
+
+content:
+1. Launch File Explorer and then click View &gt; Options &gt; Change folder and search options.
+
+2. In the Folder Options dialog that pops up, select the View tab.
+
+3. In the Advanced Settings box, scroll down and uncheck the option labeled “Show sync provider notifications.” Hit OK.  
+  
+  
+   
+
+^^^[[Sauce]](https://thenextweb.com/apps/2017/03/10/windows-10-is-bringing-shitty-ads-to-file-explorer-heres-how-to-turn-them-off/)  
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/605zol/
+author:temporarycreature
+subreddit:YouShouldKnow
+score:16051
+numComments:1554
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+YSK that Dish has a hidden 4K World Cup Channel
+
+content:
+Channel 540 is titled “4K Channels” and is expandable. Channel 540-02 is 4K World Cup soccer 
+
+url:https://reddit.com/r/YouShouldKnow/comments/8w6px6/
+author:TanWeiner
+subreddit:YouShouldKnow
+score:4336
+numComments:113
+isOver18:False
+hasPostBody:True

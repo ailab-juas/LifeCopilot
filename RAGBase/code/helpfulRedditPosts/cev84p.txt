@@ -1,0 +1,13 @@
+title:
+YSK if you use FaceApp, you give the company the irrevocable right to use your face, likeness and name commercially.
+
+content:
+In the terms and conditions, it states this under 4. Privacy and 5. User Content
+
+url:https://reddit.com/r/YouShouldKnow/comments/cev84p/
+author:asweet03
+subreddit:YouShouldKnow
+score:14143
+numComments:448
+isOver18:False
+hasPostBody:True

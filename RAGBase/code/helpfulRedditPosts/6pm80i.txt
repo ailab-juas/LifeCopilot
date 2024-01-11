@@ -1,0 +1,15 @@
+title:
+YSK: You can listen/delete your Google voice search data.
+
+content:
+https://myactivity.google.com/myactivity?restrict=vaa&amp;utm_source=help
+
+I found out a while ago, and it made me delete all my searches from back in 2015.
+
+url:https://reddit.com/r/YouShouldKnow/comments/6pm80i/
+author:illestprodigy
+subreddit:YouShouldKnow
+score:1887
+numComments:109
+isOver18:False
+hasPostBody:True

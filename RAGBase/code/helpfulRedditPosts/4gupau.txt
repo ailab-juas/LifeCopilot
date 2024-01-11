@@ -1,0 +1,13 @@
+title:
+LPT: No matter if you like the person or not, always build good work relationships.
+
+content:
+It will help you in your career with that company by making it easier to get promoted. It will also help you if you ever leave and you need work references.
+
+url:https://reddit.com/r/LifeProTips/comments/4gupau/
+author:El_Heisenberg
+subreddit:LifeProTips
+score:5005
+numComments:672
+isOver18:False
+hasPostBody:True

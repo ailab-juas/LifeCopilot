@@ -1,0 +1,13 @@
+title:
+YSK: No matter how tough the times are, you should always do your due diligence on any job leads.
+
+content:
+Why YSK: I am lucky enough to be a part of a rapidly growing company. We have recently become aware of some entities that are using the names of people in our founding circle to lure and defraud job seekers. They are promising jobs at my firm that don't exist, but are harvesting personal info, and trying to get candidates to buy "needed" items ahead of starting a job. Check everything out. Look for a formal job posting. Talk to a human. Assess the situation and see if it passes the sniff test. Be safe out there.
+
+url:https://reddit.com/r/YouShouldKnow/comments/k8y4ev/
+author:SDBioBiz
+subreddit:YouShouldKnow
+score:21402
+numComments:363
+isOver18:False
+hasPostBody:True

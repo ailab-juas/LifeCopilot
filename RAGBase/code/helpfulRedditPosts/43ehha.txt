@@ -1,0 +1,17 @@
+title:
+LPT: If you find a lost wallet somewhere, skip lost+found, bring it to a bank branch that issued the CC's
+
+content:
+They'll be able to look up and contact the person based on their account numbers and you've got a much higher chance of getting it returned.  Lost my wallet a year or so ago by driving off from gas station after setting it on the trunk and someone returned mine to my bank, who called me right after it was returned.  
+
+It's a little more effort than just bringing it to an employee or manager of where you found it but you greatly increase the chances of that person getting their stuff back.  
+
+
+
+url:https://reddit.com/r/LifeProTips/comments/43ehha/
+author:zzevannn
+subreddit:LifeProTips
+score:5364
+numComments:1154
+isOver18:False
+hasPostBody:True

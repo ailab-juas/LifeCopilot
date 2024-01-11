@@ -1,0 +1,19 @@
+title:
+YSK Your dishwasher has a second compartment that contains “Rinse Aid” that needs to be filled ~once a month. It’s a surfactant that allows for better drying and prevents water spots from forming
+
+content:
+Why YSK: most people I’ve talked to have no clue about this, especially young people. Most of these people also complain about water spots on their dishes… 
+
+Rinse Aid (or Jet Dry) is a surfactant. That means it causes water to “sheet” off the dishes instead of forming droplets that cling and leave spots. Remember that newer dishwashers are uber-efficient at water usage and thus rely on this to have an effective drying cycle. 
+
+[Here](https://producthelp.kitchenaid.com/Dishwashers/Dishwashers/Dispenser_Concerns/Rinse_Aid_Questions/How_to_fill_and_adjust_rinse_aid_dispenser_-_Dishwasher) are KitchenAid instructions for various ways to refill the rinse aid of your washer. Basically you just open the plug and fill until the meter says “full”. There is a dial as well that controls how much rinse aid is used each cycle. Typically 2 is the recommended setting, unless you still have water spots then you can turn it up to 3 or 4.
+
+Edit; yeah as comments have mentioned this depends. I see how my OP can seem like it’s a necessity but it does depend on the type of water you have. Hard water most likely will require some sort of Rinse Aid, whether packaged with your detergent or separate in the other compartment.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ut3lvm/
+author:1saltymf
+subreddit:YouShouldKnow
+score:10648
+numComments:577
+isOver18:False
+hasPostBody:True

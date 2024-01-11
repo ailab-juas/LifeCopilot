@@ -1,0 +1,13 @@
+title:
+LPT: To avoid slipping and falling on ice, walk like a penguin. Distribute your body weight over one leg at a time as you walk.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/7sndp2/
+author:ELDubCan
+subreddit:LifeProTips
+score:3836
+numComments:252
+isOver18:False
+hasPostBody:False

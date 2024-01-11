@@ -1,0 +1,44 @@
+title:
+YSK how to tell if a number is divisible by another number.
+
+content:
+**Obvious:**
+
+1 - Always.
+
+2 - If the number is even.
+
+5 - If the number ends in 5 or 0.
+
+10 - If the numbers ends in 0.
+
+**Less Obvious:**
+
+3 - Add all of the digits in the number.  If the result is divisible by 3, then so is the original number.  (Note that this rule can be repeated with the result if you still don't know.)
+
+4 - If the last 2 digits of the number are divisible by 4, then so is the entire number.  If you don't know then halve the last 2 digits twice.  If you still have a whole number then it is divisible by 4.
+
+6 - If the number passes the '2' rule and the '3' rule, then, yes.
+
+8 - If the last 3 digits of the number are divisible by 8, then so is the entire number.  If you don't know then halve the last 3 digits three times.  If you still have a whole number then it is divisible by 8.
+
+9 - Add all of the digits in the number.  If the result is divisible by 9, then so is the original number.  (Note that this rule can be repeated with the result if you still don't know.)
+
+**Obscure:**
+
+
+7 - Remove the last digit from the number.  Take the number formed by the remaining digits and subtract by 2x the removed digit.  If the result is divisible by 7, then so is the original number.
+
+Example (**889**):
+
+**88**-(**9**x2) = 88-18 = 70
+
+=&gt; 889 is divisible by 7.
+
+url:https://reddit.com/r/YouShouldKnow/comments/40okdn/
+author:MisterHandy
+subreddit:YouShouldKnow
+score:3634
+numComments:305
+isOver18:False
+hasPostBody:True

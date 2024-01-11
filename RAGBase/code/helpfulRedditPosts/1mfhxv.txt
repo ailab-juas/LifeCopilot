@@ -1,0 +1,43 @@
+title:
+YSK That in lieu of recent changes to YouTube, there are plenty of add ons available for most popular browsers to dramatically increase your YouTube experience. Set auto HD, reenable auto buffer, hide comments (HALLELUJAH!), auto repeat, etc... Links in text.
+
+content:
+**Bonus YSK for top of /r/YSK: You can watch free TV Shows and Movies using our Android app, [TV Portal](http://goo.gl/FoI9G9). We know it looks like crap currently, and we are working on a [complete redesign](https://plus.google.com/114711755267249705050/posts/4b1r8C4iUZ7) and overhaul, which should be available in a couple of months. Check us out, shoot me any questions via PM or to our support email, tvportalapp@gmail.com. I may even make a completely new post for this. Yeah, I like that idea.**
+
+I am stupid: [/u/ChetBenning has graciously pointed out that my use of "In lieu of" is incorrect and that I should have said "In light of."](http://www.reddit.com/r/YouShouldKnow/comments/1mfhxv/ysk_that_in_lieu_of_recent_changes_to_youtube/cc8tcpp) Thank you Chet. 
+
+I use [YouTube Options (Chrome)](https://chrome.google.com/webstore/detail/youtube-options/bdokagampppgbnjfdlkfpphniapiiifn?hl=en).
+
+I've seen mentioned on Reddit recently [YouTube Center (Firefox)](https://addons.mozilla.org/en-us/firefox/addon/youtube-center/).
+
+I'll add more links as/if they are mentioned.
+
+Make sure to read the readme's for these guys and just tinker around initially to get used to them. 
+
+**EDIT: Adding suggestions from commentors**
+
+[/u/anon72c](http://www.reddit.com/r/YouShouldKnow/comments/1mfhxv/ysk_that_in_lieu_of_recent_changes_to_youtube/cc8scdr) - [Comment Snob (Firefox)](https://addons.mozilla.org/en-us/firefox/addon/youtube-comment-snob/)
+
+[/u/Zugbug](http://www.reddit.com/r/YouShouldKnow/comments/1mfhxv/ysk_that_in_lieu_of_recent_changes_to_youtube/cc8sb1e) - [YouTube Center (Multiple Browsers)](https://github.com/YePpHa/YouTubeCenter/wiki)
+
+[/u/andiho](http://www.reddit.com/r/YouShouldKnow/comments/1mfhxv/ysk_that_in_lieu_of_recent_changes_to_youtube/cc8t920) - [Magic Actions for Youtube (Chrome)](https://chrome.google.com/webstore/detail/magic-actions-for-youtube/abjcfabbhafbcdfjoecdgepllmpfceif?hl=en)
+
+[/u/JoltZero](http://www.reddit.com/r/YouShouldKnow/comments/1mfhxv/ysk_that_in_lieu_of_recent_changes_to_youtube/cc8ttmv?context=3) - Turn Off the Lights: [Chrome](https://chrome.google.com/webstore/detail/turn-off-the-lights/bfbmjmiodbnnpllbbbfblcplfjjepjdn?hl=en), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/turn-off-the-lights/?src=ss), [Screenshot](http://i.imgur.com/QdKNQgQ.jpg)
+
+[/u/xenofexk](http://www.reddit.com/r/YouShouldKnow/comments/1mfhxv/ysk_that_in_lieu_of_recent_changes_to_youtube/cc8uqm8) - [**Experimental** HTML5 video player (Plays YouTube videos without Flash)](https://www.youtube.com/html5)
+
+[/u/dankbudsdankbuds](http://www.reddit.com/r/YouShouldKnow/comments/1mfhxv/ysk_that_in_lieu_of_recent_changes_to_youtube/cc8uuwn) - [SmartVideo](http://smartvideo.ashishmishra.in/download)
+
+[/u/mistersofthands](http://www.reddit.com/r/YouShouldKnow/comments/1mfhxv/ysk_that_in_lieu_of_recent_changes_to_youtube/cc8vr7f) - [ViewTube](http://userscripts.org/scripts/show/87011)
+
+[/u/I_only_eat_triangles](http://www.reddit.com/r/YouShouldKnow/comments/1mfhxv/ysk_that_in_lieu_of_recent_changes_to_youtube/cc8wrh4) - [YouTube Link Title](http://userscripts.org/scripts/show/83584)
+
+[/u/drjekyll](http://www.reddit.com/r/YouShouldKnow/comments/1mfhxv/ysk_that_in_lieu_of_recent_changes_to_youtube/cc8zlw5) - [YousableTubeFix](https://userscripts.org/scripts/show/13333) &amp; [ProxMate](http://proxmate.dave.cx/)
+
+url:https://reddit.com/r/YouShouldKnow/comments/1mfhxv/
+author:halfjew22
+subreddit:YouShouldKnow
+score:1031
+numComments:144
+isOver18:False
+hasPostBody:True

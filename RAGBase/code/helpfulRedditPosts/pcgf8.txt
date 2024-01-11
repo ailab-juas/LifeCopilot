@@ -1,0 +1,13 @@
+title:
+First world problem solving...
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/pcgf8/
+author:LatinBeef
+subreddit:LifeProTips
+score:2353
+numComments:204
+isOver18:False
+hasPostBody:False

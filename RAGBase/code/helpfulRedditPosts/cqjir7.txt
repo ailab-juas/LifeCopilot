@@ -1,0 +1,13 @@
+title:
+LPT: If someone is treating you to a meal and you're wondering how much you should spend, ask them what they're ordering to get a better idea of the range.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/cqjir7/
+author:Shasnas69
+subreddit:LifeProTips
+score:16342
+numComments:611
+isOver18:False
+hasPostBody:False

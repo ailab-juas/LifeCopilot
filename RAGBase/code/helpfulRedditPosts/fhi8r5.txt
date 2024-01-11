@@ -1,0 +1,13 @@
+title:
+YSK Clorox wipes are NOT flushable
+
+content:
+ With all the madness trying to disinfect everything a large number of people will start using Clorox wipes. They will not break down like toilet paper. They will snag and ball up causing your sewer line to be clogged. You don't want to pay an expensive plumber fee /rooter guy to tell you this after the fact.
+
+url:https://reddit.com/r/YouShouldKnow/comments/fhi8r5/
+author:felinebarbecue
+subreddit:YouShouldKnow
+score:19079
+numComments:619
+isOver18:False
+hasPostBody:True

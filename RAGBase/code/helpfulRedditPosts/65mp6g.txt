@@ -1,0 +1,13 @@
+title:
+[LPT] When writing a paper for school, your conclusion is basically a TL;DR for your professor. Make it as clear and informative as possible.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/65mp6g/
+author:JBSLB
+subreddit:LifeProTips
+score:1023
+numComments:34
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: Simple gaming Apps like 2048 still use data to load advertisements. Make sure to go into settings and turn data off for 2048 and similar apps. Every little bit helps!
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/298vuj/
+author:[deleted]
+subreddit:LifeProTips
+score:1932
+numComments:454
+isOver18:False
+hasPostBody:False

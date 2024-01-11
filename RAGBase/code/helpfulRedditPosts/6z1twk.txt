@@ -1,0 +1,17 @@
+title:
+YSK: If you have a student account with Spotify, you now qualify for Hulu at no additional cost.
+
+content:
+Somehow just found out, but this is a great deal. You can get Spotify premium and Hulu for the price of $4.99 a month if you're a college student with a valid email.
+
+Edit: Applies to those in the U.S. only.
+
+More info: https://www.spotify.com/us/student/
+
+url:https://reddit.com/r/YouShouldKnow/comments/6z1twk/
+author:BackpackBuddha
+subreddit:YouShouldKnow
+score:2237
+numComments:83
+isOver18:False
+hasPostBody:True

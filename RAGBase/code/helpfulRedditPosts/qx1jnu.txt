@@ -1,0 +1,13 @@
+title:
+YSK: Banks are required by law to confiscate counterfeit currency, they do not reimburse you for it
+
+content:
+Why YSK: if you think you have fake cash, don’t ask the bank to check it for you.   If it’s fake, they are legally not allowed to return it.  They are also not going to give you $ to replace it.
+
+url:https://reddit.com/r/YouShouldKnow/comments/qx1jnu/
+author:Gemini_Incognito
+subreddit:YouShouldKnow
+score:3516
+numComments:262
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+LPT: The "let it sit" time in microwave cooking instructions isn't for cooling its for cooking.
+
+content:
+The reason most microwave meals say to let the product sit for a few minutes after heating is to allow the product to finish cooking, there is a noticeable quality difference if you stick it out a little longer.
+
+The reasoning for this is that the microwave works by pumping energy into the food, it's not that great at evenly distributing that energy, conduction and convection are responsible for distributing that heat but those processes take longer than radiation so they need a little more time to work after the microwave is done with its cooking cycle.
+
+url:https://reddit.com/r/LifeProTips/comments/e20yyg/
+author:squirrelbee
+subreddit:LifeProTips
+score:1048
+numComments:96
+isOver18:False
+hasPostBody:True

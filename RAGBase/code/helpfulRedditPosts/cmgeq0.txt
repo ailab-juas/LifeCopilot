@@ -1,0 +1,13 @@
+title:
+LPT: When learning a new task, focus first on the quality of your work, then on the consistency of your work, and only then begin to focus on the speed of your work.
+
+content:
+Very simple advice but many people I work with need this.
+
+url:https://reddit.com/r/LifeProTips/comments/cmgeq0/
+author:living_void
+subreddit:LifeProTips
+score:1947
+numComments:47
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Tired of all the ads in one of the free game apps you’re playing? Go to your settings and turn off the apps access to cellular data. Enjoy the ad free game play!
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/c7qq7c/
+author:msmi326
+subreddit:LifeProTips
+score:18128
+numComments:517
+isOver18:False
+hasPostBody:False

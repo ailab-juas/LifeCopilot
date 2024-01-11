@@ -1,0 +1,13 @@
+title:
+YSK: One in five free Android VPN Apps contains malware. If you're not paying for it YOU usually are the product.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/YouShouldKnow/comments/akxfqg/
+author:[deleted]
+subreddit:YouShouldKnow
+score:4983
+numComments:218
+isOver18:False
+hasPostBody:True

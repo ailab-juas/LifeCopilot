@@ -1,0 +1,15 @@
+title:
+YSK that if you have restless legs at night and nothing seems to be working, it might be because you're eating too close to bed time.
+
+content:
+Why YSK: RLS can be triggered by [low blood sugar](https://diabetestalk.net/diabetes/can-high-blood-sugar-cause-restless-legs) even if you are not diabetic. Eating before bed, especially refined carbs, can make it so that once you're waiting for sleep you end up in a period of low blood sugar, which can contribute to RLS. Even once you fall asleep, you can continue to kick and fidget in your sleep and you'll be more tired the next day.
+
+So if you're trying everything else -- iron, electrolytes, hot showers -- and you're still getting RLS, your eating habits might be the culprit.
+
+url:https://reddit.com/r/YouShouldKnow/comments/p3bpjc/
+author:Echospite
+subreddit:YouShouldKnow
+score:1976
+numComments:117
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,17 @@
+title:
+YSK There is a scammer who is pretending to be a spectrum representative who has been proven to be fake by the company.
+
+content:
+So I called Spectrum today for internet support. Everything went fine there. About 10 minutes after, I got a call from a phone number listed as 855-202-0960. It was a man who said he was with spectrum. He knew my name and exactly which services I did and did not have with spectrum! He was very loud and aggressive with his voice, asking if I wanted to upgrade to the other services, and then when I declined he started asking why I didn’t want them multiple times over. Between the audio quality and his demeanor it was very clear that he was not a spectrum representative. After I finally hung up with him, I immediately called the real spectrum. I spoke with a representative whom immediately involved his supervisor. They called the number, and the scammer answered and said he was with spectrum. They asked him for his employee security code (which all spectrum employees have one because of this) and the scammer had no idea what they were talking about. Because of this they proved he was a fraud and a scammer. Spectrum said they are sending this up the corporate ladder, and that the issue would hopefully be resolved. They, however, have no knowledge on how the scammer acquired my personal information. Personally I don’t know what to do because I now know my personal information is out there. 
+
+TLDR: There is a fake spectrum rep who will call spectrum customers and try to sell them services they don’t have. Be careful anyone who uses spectrum. 
+
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/9mr9dy/
+author:TherealGA1141
+subreddit:YouShouldKnow
+score:1708
+numComments:68
+isOver18:False
+hasPostBody:True

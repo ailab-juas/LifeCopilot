@@ -1,0 +1,13 @@
+title:
+LPT: use a cupcake pan and cupcake cups when making brownies. No cutting, no mess, perfectly sized brownies.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/2usaj3/
+author:phadewilkilu
+subreddit:LifeProTips
+score:2749
+numComments:723
+isOver18:False
+hasPostBody:False

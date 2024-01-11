@@ -1,0 +1,13 @@
+title:
+LPT: If you have a child in youth sports, let his/her coach do the coaching. Positive encouragement is always welcome but game specific instructions could conflict with the coach’s instructions, potentially delaying your player’s development.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/fcu97n/
+author:TaylorMadeNades
+subreddit:LifeProTips
+score:2090
+numComments:145
+isOver18:False
+hasPostBody:False

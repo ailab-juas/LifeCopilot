@@ -1,0 +1,38 @@
+title:
+YSK about a web quiz-game which sends 100% of the ad-revenue to tree planters in Madagascar, Ethiopia, and Haiti.
+
+content:
+http://www.johnnyappl.com
+
+*How does this game work?*
+
+JohnnyAppl is a trivia game that lets you plant real trees by getting questions right. Everyone plays together to crowd-fund reforestation projects in Madagascar, Ethiopia, and Haiti. For every correct answer, a micro-donation is automatically sent to one of these planting sites. These micro-donations are paid for by banner ads. When you plant trees, you also offset CO2, so we track how this offsetting makes you carbon neutral.
+
+
+*Will planting a tree really fight off climate change?*
+
+Yes, trees fight climate change. We know that CO2 (carbon dioxide) is a major contributor to global warming. Trees suck CO2 out of the air and store it in their trunks and roots, acting as carbon-sinks. A recent study by NASA suggests that tropical forests [may help end climate change](http://www.nasa.gov/jpl/nasa-finds-good-news-on-forests-and-carbon-dioxide/#.VKY_nIfFut8). When you plant trees, the CO2 your trees offset can make you carbon neutral. Staying carbon neutral is a great way to take responsibility for your impact on climate change. 
+
+
+*Is there any proof the trees are really planted?*
+
+Yes. Our partner [Eden Reforestation Projects](http://www.edenprojects.org/) is one of the largest and most successful reforestation groups. They have already planted over 60 million trees in [Madagascar](http://www.edenprojects.org/madagascar). They are a verified, non-profit, 501(c)(3) charitable organization. To see more information on where your trees are planted, visit [Madagascar](http://www.edenprojects.org/madagascar), [Ethiopia,](http://www.edenprojects.org/ethiopia) or [Haiti](http://www.edenprojects.org/haiti) on Eden’s website. They often update us with new photos and videos on their [blog](http://www.edenprojects.org/blog). 
+
+
+*Who pay for the trees, and who plants them?*
+
+100% of revenue is generated from advertisements. There is a banner ad on the right-side of the game screen that pays for all the trees. This money is sent directly to our reforestation partners - [Eden Reforestation Projects](http://www.edenprojects.org/). Eden restores hope, alleviates suffering, empowers people and builds local economies in impoverished communities. Local workers benefit immensely from the jobs created by the trees you plant on JohnnyAppl. 
+
+ 5,815 trees planted so far.
+ 19,917total players 
+
+Donation Proof: www.edenprojects.org/johnnyappl
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/3fhx59/
+author:Achoo_Gesundheit
+subreddit:YouShouldKnow
+score:1688
+numComments:31
+isOver18:False
+hasPostBody:True

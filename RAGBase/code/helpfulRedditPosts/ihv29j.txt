@@ -1,0 +1,13 @@
+title:
+LPT: Wikipedia is not a credible source, but has sources at the bottom. If you have a teacher who says no to Wikipedia as a source use the Wikipedia sources
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ihv29j/
+author:KeltixHD
+subreddit:LifeProTips
+score:5585
+numComments:191
+isOver18:False
+hasPostBody:False

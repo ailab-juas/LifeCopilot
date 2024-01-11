@@ -1,0 +1,13 @@
+title:
+LPT: If you watch a horror movie and end up feeling anxious or uncomfortable afterward, watch some behind the scenes/bloopers of the movie online.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/q50t9d/
+author:[deleted]
+subreddit:LifeProTips
+score:2890
+numComments:90
+isOver18:False
+hasPostBody:True

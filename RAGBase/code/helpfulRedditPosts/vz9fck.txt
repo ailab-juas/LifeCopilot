@@ -1,0 +1,13 @@
+title:
+LPT: Starting on July 16, 2022, the National Suicide Hotline will be given a 3 digit number: 988
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/vz9fck/
+author:EverySir
+subreddit:LifeProTips
+score:32538
+numComments:132
+isOver18:False
+hasPostBody:False

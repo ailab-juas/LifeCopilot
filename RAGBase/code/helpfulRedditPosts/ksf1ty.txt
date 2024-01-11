@@ -1,0 +1,17 @@
+title:
+YSK: The symptoms of anxiety and depression and that it's important to reach out for help or help those around you struggling.
+
+content:
+Why YSK: With the past year and recent events many people around the world are developing or continuing to struggle with depression, anxiety, and other mental health issues. The stigma around mental health needs to be broken down and one of the first steps people can take is to be better informed. There are many recourses for information and assistance out there but for now I will just link [a CDC webpage with information on anxiety and depression.](https://www.cdc.gov/tobacco/campaign/tips/diseases/depression-anxiety.html)
+
+**Important Edit:** As many have mentioned as well as the article itself, these CDC identified symptoms are not intended to be used to self diagnose nor as  a tool to diagnose others. I made this post to bring awareness to the subject matter and to try and break away some of the stigma around talking about mental health issues. If you feel you are possible suffering from mental health issues reach out to a medical professional for further assistance.
+
+Edit 2: I really wish I could respond to more individual comments but I'm at work so I would just like to make some general statements adding to this post. First off, anxiety and depressive disorders are very real and not everyone shares the same experiences. There are many types of depression, a large portion of which stem from imbalances of chemicals like serotonin and therefore people with these kinds of depression cannot "just get over it" or work through it with therapy alone (Please consult a medical professional if you feel this may apply to you. I am not a doctor and I am only speaking from my own experiences and understanding). For those who feel they are still struggling despite reaching out for help, please keep strong and continue to talk to your health care provider about possible treatments as they vary greatly. I hope this helps and thank you to all the people who helping provide information and support to other commenters.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ksf1ty/
+author:apricity_spam
+subreddit:YouShouldKnow
+score:12806
+numComments:295
+isOver18:False
+hasPostBody:True

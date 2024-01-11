@@ -1,0 +1,17 @@
+title:
+LPT: Another way to write fast, well-constructed papers.
+
+content:
+In college I had a professor that changed the way I wrote papers forever. After his class I became an English major and loved writing papers.
+
+He gave a formula to our class: If you had an eight page paper to write, that means you need to write roughly 16 paragraphs. If you write an introductory paragraph and conclusion, that leaves 14 body paragraphs. Write down 14 ideas that support your thesis, rearrange them to make sure there is a natural thought progression, and before you know it you had an 8-page well-structured essay.
+
+Hope this helps!
+
+url:https://reddit.com/r/LifeProTips/comments/136zs4/
+author:dan81989
+subreddit:LifeProTips
+score:4230
+numComments:595
+isOver18:False
+hasPostBody:True

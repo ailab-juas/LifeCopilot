@@ -1,0 +1,13 @@
+title:
+LPT: if you are going to freeze bananas, peel them first or you'll make yourself feel really stupid.
+
+content:
+Based on [this](http://www.reddit.com/r/LifeProTips/comments/1dnobl/lpt_you_can_make_banana_ice_cream_with_just/) I popped two bananas in the freezer.  Don't do this.  Peel them first, mmk?
+
+url:https://reddit.com/r/LifeProTips/comments/1dsxi9/
+author:dreezyforsheezy
+subreddit:LifeProTips
+score:1627
+numComments:352
+isOver18:False
+hasPostBody:True

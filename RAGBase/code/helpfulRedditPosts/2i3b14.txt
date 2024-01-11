@@ -1,0 +1,13 @@
+title:
+LPT: Sick or allergies? Blow your nose with damp paper towels. Tougher *and* gentler.
+
+content:
+Even damp, good quality paper towels are stronger and more resistant to blow-through than a tissue is, and the moisture means it won't dry out or annoy your nose.
+
+url:https://reddit.com/r/LifeProTips/comments/2i3b14/
+author:gcanyon
+subreddit:LifeProTips
+score:1216
+numComments:266
+isOver18:False
+hasPostBody:True

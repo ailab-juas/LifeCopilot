@@ -1,0 +1,15 @@
+title:
+LPT: When authenticating an account with private information (like SSN) give an almost correct answer to test that the company you called is actually checking it and not phishing you.
+
+content:
+I just thought of this when I called my retirement account manager.  She authenticated me but I didn't authenticate her. At the least I can check to see if she is checking actual information rather than phishing me for mine!
+
+Of course, this is for calls that you already feel are legitimate. If someone calls you out of the blue with no context never give them private information.
+
+url:https://reddit.com/r/LifeProTips/comments/2zle0s/
+author:wittyw0n
+subreddit:LifeProTips
+score:3271
+numComments:489
+isOver18:False
+hasPostBody:True

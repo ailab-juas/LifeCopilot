@@ -1,0 +1,23 @@
+title:
+LPT: Easy way to figure out if you should us "I" or "Me" in a sentence
+
+content:
+When trying to figoure out if you should use "I" or "me" in a sentence where you are discussing you and another person, remove the other person from the sentence, and read it to yourself. It should make grammatical sense.
+
+For instance: "Me and my friend went to the store" --&gt; "Me went to the store." That's obviously not right.
+
+"My friend and I went to the store" --&gt; "I went to the store" That's right.
+
+"He was really friendly to I and my friend" --&gt; "He was really friendly to I" Doesn't sound right
+
+"He was really friendly to me and my friend" --&gt; "He was really friendly to me" That's better. 
+
+If you remember this, your writing (and speaking) will be much more eloquent.
+
+url:https://reddit.com/r/LifeProTips/comments/nkdgwq/
+author:spasticpoodle
+subreddit:LifeProTips
+score:2597
+numComments:232
+isOver18:False
+hasPostBody:True

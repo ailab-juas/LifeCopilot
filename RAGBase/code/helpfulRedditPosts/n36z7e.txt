@@ -1,0 +1,25 @@
+title:
+YSK if someone goes into cardiac arrest you should begin CPR immediately after calling 911
+
+content:
+My girlfriend and I were driving yesterday when she saw a man collapse in his front yard.  She told me and I pulled over.  I found him face down by his lawnmower, unconscious.  
+  
+We tried to call 911 but didn’t have service, so I flagged down a neighbor and had her call.  The neighbor had a friend present and that friend tried to take his pulse, initially saying that he “was no longer with us” but then she saw him breathe slightly.
+
+Fortunately an ambulance was there in maybe 5-6 min after the man’s collapse, and I didn’t want to approach him personally because I didn’t feel qualified.  
+
+Why YSK:  When I went home I did some research, and if I had begun mouthless CPR– chest compressions to the beat of “Stayin’ Alive”- I might have been able to dramatically improve the man’s odds of survival.  But I didn’t know, and hadn’t had a refresher on CPR since I was a kid.
+
+I didn’t have those tools or knowledge on-hand, and I wish I had.
+
+I also looked up survival rates and sad to say the odds seem to be that we witnessed this man in his final minutes, or at the very least at a point where his life changed dramatically.  I wish I could have done more in the moment, and I hope by posting this someone is able to think and act more quickly if they happen to be in that situation.  
+
+[CPR during cardiac arrest: someone’s life is in your hands ](https://www.health.harvard.edu/blog/cpr-during-cardiac-arrest-someones-life-is-in-your-hands-201507238152)
+
+url:https://reddit.com/r/YouShouldKnow/comments/n36z7e/
+author:SpookZero
+subreddit:YouShouldKnow
+score:14312
+numComments:701
+isOver18:False
+hasPostBody:True

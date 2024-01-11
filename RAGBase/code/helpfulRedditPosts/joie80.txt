@@ -1,0 +1,13 @@
+title:
+YSK that cats might be looking for shelter in your car during winter season
+
+content:
+Why YSK: A cat could be sleeping on a wheel or under your hood, so before you start the motor, check if there is a cat somewhere. A minute of checking your car could save a life of a beloved pet.
+
+url:https://reddit.com/r/YouShouldKnow/comments/joie80/
+author:irongamer5d
+subreddit:YouShouldKnow
+score:1480
+numComments:151
+isOver18:False
+hasPostBody:True

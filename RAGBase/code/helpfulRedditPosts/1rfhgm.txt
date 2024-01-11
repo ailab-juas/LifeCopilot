@@ -1,0 +1,19 @@
+title:
+YSK how to prevent retail stores from using your WiFi-enabled cellphone to collect visitation data.
+
+content:
+Several brick and mortar stores use a service called "RetailNext" to keep track of how often you visit by pinging your cellphone via WiFi.
+
+"Retailers use this information for their internal operations – such as determining the average time spent in the store during a shopping visit," according to the RetailNext website.
+
+In order to opt out, you can either turn your phone off or go to: [https://wifimetricsoptout.com/](https://wifimetricsoptout.com/)
+
+Here's a list of stores using the RetailNext service: [http://www.retailnext.net/about-us/customers](http://www.retailnext.net/about-us/customers)
+
+url:https://reddit.com/r/YouShouldKnow/comments/1rfhgm/
+author:wellsdb
+subreddit:YouShouldKnow
+score:1025
+numComments:215
+isOver18:False
+hasPostBody:True

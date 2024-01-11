@@ -1,0 +1,15 @@
+title:
+LPT: Learn the phonetic alphabet, save yourself a heap of aggravation!
+
+content:
+I am not military, just a regular civilian. Over the last few years there has been an uptick in business conducted by phone vs in person for me (and probably a lot of you too!), and a lot of in-person communication done through masks and plexi barriers. I found myself constantly repeating my name and email 2/3 three times on calls because “N” sounds like “M”, etc. To add an extra layer of annoyance, my name is a variation on a common name with one letter changed, and my last name isnt common either so I’d never get away with being Joe Smith where people could sort it out on their own. I was using stand-in words at the beginning, but that didn’t work as well. 
+
+Fed up, I printed, cut out and pinned the phonetic alphabet on my desk, wrote out my email in same, memorized it in a day and now I save myself and the person on the other end of the phone a bunch of irritation. Comes in really handy talking through masks too. Now work emails come in when they’re supposed to and I’m not repeating myself like a parrot all damn day long.
+
+url:https://reddit.com/r/LifeProTips/comments/qpcu5x/
+author:frijolejoe
+subreddit:LifeProTips
+score:8137
+numComments:864
+isOver18:False
+hasPostBody:True

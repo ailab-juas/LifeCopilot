@@ -1,0 +1,17 @@
+title:
+YSK if you are going to hire a web developer to register/create YOUR website, make sure you retain all ownership rights in your work contract.
+
+content:
+I work at an ISP/Host/Registrar and the number of companies who are ghosted by their web devs or have former employees who manage the website refuse to transfer a website/relinquish it back after they have been terminated is astonishing.
+
+There are substantially large companies ($1Mill) a year or more in revenue who's *entire* platform hinges on the website running who absolutely PANIC once the dev stops managing the website or disconnects it because they were fired. Suddenly it's MY companies fault for not just turning the website over immediately upon a single email request (which usually contains *zero* proof of ownership).
+
+So I implore anyone who has a company website that's currently in the hands of a friend/employee/web developer, for the love of god GET IT BACK FROM THEM while your business relationship is still good.
+
+url:https://reddit.com/r/YouShouldKnow/comments/hbp6wi/
+author:Nixplosion
+subreddit:YouShouldKnow
+score:3226
+numComments:52
+isOver18:False
+hasPostBody:True

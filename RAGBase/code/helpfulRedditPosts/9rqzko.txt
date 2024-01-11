@@ -1,0 +1,17 @@
+title:
+LPT: In Chrome's address bar, type "slide", "doc", or "sheet" followed by ".new" to instantly create and go to a new document.
+
+content:
+EDIT: Works in any browser.
+
+Type for instance "[slide.new](https://slide.new)" into the omnibar and it will make a new Google Slides presentation stored in your Google Drive.
+
+GIF to demo: [https://twitter.com/googledocs/status/1055490445088903168](https://twitter.com/googledocs/status/1055490445088903168)
+
+url:https://reddit.com/r/LifeProTips/comments/9rqzko/
+author:Kwalm0
+subreddit:LifeProTips
+score:19330
+numComments:372
+isOver18:False
+hasPostBody:True

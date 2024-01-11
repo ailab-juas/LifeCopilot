@@ -1,0 +1,13 @@
+title:
+LPT If you always mix up the “ and ‘ symbols for feet and inches, an easy way to determine which is which would be to think about how many syllables each word has. Inches has 2 syllables so “ would be the appropriate symbol, whereas feet has one syllable, making ‘ the appropriate symbol
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/noht03/
+author:apatheticcanteloupe
+subreddit:LifeProTips
+score:21303
+numComments:982
+isOver18:False
+hasPostBody:False

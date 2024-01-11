@@ -1,0 +1,13 @@
+title:
+LPT: If you accidentally press the spacebar and scroll down the page, you can press Shift+Space and go back to where you were
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/dy257y/
+author:Myst1kSkorpioN
+subreddit:LifeProTips
+score:49776
+numComments:579
+isOver18:False
+hasPostBody:False

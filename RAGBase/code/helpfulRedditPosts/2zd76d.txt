@@ -1,0 +1,35 @@
+title:
+YSK That Alcoholics Anonymous is one of the worst treatments for addiction.
+
+content:
+As explained [here](http://www.theatlantic.com/features/archive/2015/03/the-irrationality-of-alcoholics-anonymous/386255/?utm_source=SFFB) (warning: thoughtless picture of a guy looking really blissed out on beer at the top), AA ranks 38th out of 48 studied treatments.
+
+That isn't to say it won't work for some people: obviously there are those that are helped by it, especially in comparison to not having any treatment or help at all.
+
+But the best methods to kick alcohol addiction were found to be brief interventions by a medical professional, and counseling that aims to help people see the need to change, such as cognitive behavioral therapy or motivational enhancement therapy. Additionally, acamprosate is a drug that eases cravings.
+
+**Edit:**
+
+(1) For all its shortcomings, AA definitely has the advantage over many other options of being free. That can really be invaluable to many people, and is worth pointing out, so thank you commenters that did so.
+
+(2) The sense of community and help from other addicts is the most valuable part of the program for many. What it is not is unique to AA: The 12 Steps is what divides AA from other support groups, and is what is being referred to when discussing it as opposed to other programs or strategies.
+
+This post was not to say that AA is worthless, as I specifically noted that it has helped people.  I probably should have given the title a more positive spin, but my point was that there are better options, not that AA doesn't work for anyone.
+
+**Edit 2:**
+
+Someone linked to a great SlateStarCodex on this, which goes much more in depth into the research and is definitely worth the read.
+
+http://slatestarcodex.com/2014/10/26/alcoholics-anonymous-much-more-than-you-wanted-to-know/
+
+The conclusions it draws are basically the same about the effectiveness of AA:
+
+&gt;So does Alcoholics Anonymous work? Though I cannot say anything authoritatively, my impression is: Yes, but only a tiny bit, and for many people five minutes with a doctor may work just as well as years completing the twelve steps. As such, individual alcoholics may want to consider attending if they don’t have easier options; doctors might be better off just talking to their patients themselves.
+
+url:https://reddit.com/r/YouShouldKnow/comments/2zd76d/
+author:DaystarEld
+subreddit:YouShouldKnow
+score:2442
+numComments:650
+isOver18:False
+hasPostBody:True

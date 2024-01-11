@@ -1,0 +1,23 @@
+title:
+LPT: Never buy items advertised on social media newsfeeds. The majority are either scams, bait and switch, or "Wish" quality products. Social media sites almost never provide resolution. Instead of following the link in the ad, search for the item independently and buy from legitimate vendors.
+
+content:
+Social media advertisements are frequently bots or institutional scams. It typically results in:
+
+1. Paypal scam where they charge your card multiple times and you end up having to request a new card number.
+2. Bait and switch, where you follow the link for one thing and end up ordering something completely different.
+3. Low quality item to begin with. Think "wish" quality products.
+
+myself and several friends have gotten ripped off from these purchases, and our credit card companies were only willing to resolve about half of these issues. Social media sites almost never rectify the issue, and often if you check back later the comments section indicate several hundred other people were scammed (and some fake reviews left as well!).
+
+If you see something you want, search for it independently outside of social media and purchase it on a legitimate vendor. Never follow the link directly from social media.
+
+Edit: My heart goes out to all the small business owners who rely on social media advertising as a major component of their advertising. There's clearly a divide between vendors who are trying to do the right thing, and consumers who get scammed and lose faith in the system. I think this post goes to highlight that there's more than one victim to online scammers, it's not just the customer getting scammed but also all the legitimate vendors that have to compete with scammers and assert their legitimacy. I honestly think advertising sources should do a better job curating their vendors, otherwise consumers will lose faith in their platform.
+
+url:https://reddit.com/r/LifeProTips/comments/qiydff/
+author:Shitty_Mike
+subreddit:LifeProTips
+score:24521
+numComments:798
+isOver18:False
+hasPostBody:True

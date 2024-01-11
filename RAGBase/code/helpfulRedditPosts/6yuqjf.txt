@@ -1,0 +1,13 @@
+title:
+LPT - Generators in disaster scenarios commonly lead to carbon monoxide poisoning. Please leave the generator outside while running, if it is inside, you will be breathing in toxic fumes unknowingly.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/6yuqjf/
+author:constructorofthings
+subreddit:LifeProTips
+score:1949
+numComments:89
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: When to use "Who" and when to use "Whom"
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/sov4d/
+author:funkless_eck
+subreddit:LifeProTips
+score:2462
+numComments:409
+isOver18:False
+hasPostBody:False

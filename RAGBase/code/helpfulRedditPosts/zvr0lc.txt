@@ -1,0 +1,21 @@
+title:
+YSK how to have multiple virtual desktops in Windows and how to flip between them really easily.
+
+content:
+Why ysk . Multiple desktops are great for keeping unrelated, ongoing projects organized—or for quickly switching desktops before a meeting. To create multiple desktops: 
+
+On the taskbar, select Task view &gt; New desktop .
+
+Open the apps you want to use on that desktop.
+
+To switch to another desktop, select Task view again or (what I do ) is hold the cntrl and the windows key down and then use the left and right arrows to shift between them.
+
+Edit. Few people asking, it’s not a virtual machine. It uses the same resources between desktops.
+
+url:https://reddit.com/r/YouShouldKnow/comments/zvr0lc/
+author:Big_Clerk8509
+subreddit:YouShouldKnow
+score:6585
+numComments:301
+isOver18:False
+hasPostBody:True

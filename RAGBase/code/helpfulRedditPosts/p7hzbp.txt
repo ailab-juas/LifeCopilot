@@ -1,0 +1,32 @@
+title:
+YSK: if an elevator has problems while your in it, don't try to get out
+
+content:
+Why YSK: yo put it simply, the elevator wants to keep you safe. Elevators  actually have a large number of safety features, but trying to leave the cab circumvents these. Most of the small number of elevator accidents that happen are when people left the cab or were outside the cab. In fact, you are safer in the cab then you are on the floor you are going to. 
+Elevators have a number of emergency systems, such as fire recall (goes to the first floor in a fire), seismic mode (moves to the top floor during earthquakes in places that have them often, so that if the counterweight breaks it won't fall on the cab), and more. Never ever force the door open and try to get out of it is stuck. People have died because the elevator didn't know and self-recovered, and moved while people were between the cab and the floor. Don't go through the top. Just don't. 
+
+If you are stuck in an elevator, stay calm. Try pressing the floor again. Try pressing the open door and close door buttons. Wait and see if it fixes itself for a few seconds. Then you can press whatever button to call someone to help you. Sometimes, elevators recover and don't know they haven't gone to the floor, so if it starts moving all of the sudden, it's possible someone called the elevator to another floor. 
+
+TL;DR, if the elevator gets stuck, stay calm, stay in the cab.
+
+Huge thanks to Deviant Ollam and others for teaching me this stuff over the years
+
+Edit: I'm sorry, title should say *You're as many of you pointed out
+
+Edit 2: when you're stuck in an elevator and press the call button, it may be a good idea to mention it is not an emergency. Many elevator call buttons are hooked to the emergency line in case of things like medical emergencies happen in one.
+
+Edit 4: this kinda got bigger than any other post I have ever made. Sorry I can't respond to comments as much as I was wanting to.
+
+Edit 5: but no means am I an expert at all, take everything I say about the technicals with a grain of salt. But the point still remains. My goal here is to get the word out.
+
+Edit 6: thank you for the awards, kind strangers.
+
+Edit 7: I forgot to mention: if the elevator's floor indicator turns off and it starts going up slowly, the down slowly, it may be uncomfortable, but this is normal operation. It essentially just decides it needs to re-calibrate itself, and you just happened to be in it when it happened. It will let you out when it is done
+
+url:https://reddit.com/r/YouShouldKnow/comments/p7hzbp/
+author:MinecrAftX0
+subreddit:YouShouldKnow
+score:8444
+numComments:394
+isOver18:False
+hasPostBody:True

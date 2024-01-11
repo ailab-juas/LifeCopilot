@@ -1,0 +1,13 @@
+title:
+YSK about an online library where you can borrow over 200,000 eBooks
+
+content:
+https://openlibrary.org/borrow
+
+url:https://reddit.com/r/YouShouldKnow/comments/21xw7p/
+author:curmudge_john
+subreddit:YouShouldKnow
+score:1972
+numComments:112
+isOver18:False
+hasPostBody:True

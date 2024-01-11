@@ -1,0 +1,15 @@
+title:
+YSK that if you need help affording medications, many pharmaceutical companies have prescription assistance programs where you may be able get meds for free or at a significant discount if you qualify
+
+content:
+The website [Needy Meds](https://www.needymeds.org/pap) is a great place to start. You can search by brand name, generic drug name or manufacturer. 
+
+*Disclosure- I used to work for the assistance program for a biologics manufacturer. The upper income limit for one of the drug programs I worked on was over $100K (you could earn that much and still receive assistance if other qualifications met).
+
+url:https://reddit.com/r/YouShouldKnow/comments/b1y0g0/
+author:GiantMeteor2017
+subreddit:YouShouldKnow
+score:2262
+numComments:114
+isOver18:False
+hasPostBody:True

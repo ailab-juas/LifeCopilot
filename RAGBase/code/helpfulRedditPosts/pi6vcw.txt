@@ -1,0 +1,13 @@
+title:
+LPT: Regardless of someone’s age or gender, wait for them to get inside the door before you drive away.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/pi6vcw/
+author:danawl
+subreddit:LifeProTips
+score:13927
+numComments:349
+isOver18:False
+hasPostBody:False

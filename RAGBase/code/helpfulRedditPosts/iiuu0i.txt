@@ -1,0 +1,13 @@
+title:
+LPT if someone is asking you a question in your language and the speaking is poor, try to reply with the words used in the question
+
+content:
+Today a man asked me if the chair in front of me was availible and i responded "It's taken". He then asked me again if the chair was availible and i responded once more "It's taken" to which he looked confused but then went to grab the chair, i then realised that he might not know the word "taken" so i instead said "not availible" to which he noded and went away (leaving the chair).
+
+url:https://reddit.com/r/LifeProTips/comments/iiuu0i/
+author:Hjoel111
+subreddit:LifeProTips
+score:27438
+numComments:604
+isOver18:False
+hasPostBody:True

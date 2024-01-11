@@ -1,0 +1,24 @@
+title:
+YSK you can use a free Google Play Music account to upload, store and stream 50,000 tracks from your MP3 library on any device with a web browser.
+
+content:
+DISCLAIMER: I don't work for Google.
+
+I already pay for Apple's iTunes Match service to store my music library in 'the cloud' but I can only access/play those tracks from an iPhone/iPad or a Mac/PC running iTunes. I'd love to be able to access these tracks elsewhere (like on work computers that have speakers but don't allow installation of iTunes) so when my friend told me I could upload 50,000 tracks for FREE and stream them via a smart phone or tablet or Raspberry Pi or Mac or PC or smart TV or literally anything with a web browser, it was a no-brainer. 
+
+I've heard there may be some ads on the free account, but I've yet to hear any, and streaming my home library remotely has worked seamlessly so far, which is unfortunately more than I can say for iTunes Match...! I thought my MP3 library was big (I have 15,000 tracks) but that's still only a drop in the ocean for the 50,000 tracks offered.
+
+Finally, and this is important, I thought it would take years to upload all 15,000 tracks. It only took about 8 hours. I think it must match songs in your library with songs already on their servers (a lot like iTunes Match) and so I only needed to upload my super-rare EPs, bootlegs and my own recordings etc. and most of the rest was already available.
+
+Thanks Google! 
+
+**EDIT** Realised I forgot to post the link for people who don't know what I'm talking about: https://music.google.com/
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/3ffdbn/
+author:peanutismint
+subreddit:YouShouldKnow
+score:1840
+numComments:230
+isOver18:False
+hasPostBody:True

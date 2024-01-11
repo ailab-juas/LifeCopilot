@@ -1,0 +1,17 @@
+title:
+YSK that the Pew research center offers a quiz that will tell you, based on your own beliefs, what political ideology you most closely align with.
+
+content:
+The site for this quiz is [here ](http://www.people-press.org/quiz/political-typology)
+
+Edit: as many people pointed out, opinions on some issues aren't always so black and white, u/1radgirl posted this [link](http://www.politicalcompass.org/test) which is a similar test with a broader spectrum. 
+
+Edit^dos: u/MBowling5494 and several others have pointed to (Isidewith)[www.isidewith.com] that will pair you up with a candidate in your area that espouses your beliefs
+
+url:https://reddit.com/r/YouShouldKnow/comments/2lfpzt/
+author:Mozeeon
+subreddit:YouShouldKnow
+score:1144
+numComments:343
+isOver18:False
+hasPostBody:True

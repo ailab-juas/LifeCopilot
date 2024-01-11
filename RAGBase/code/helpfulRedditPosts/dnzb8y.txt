@@ -1,0 +1,13 @@
+title:
+LPT: If you need a small amount of food like olives, artichokes, or other salad-related foods for a recipe, check out your supermarket's salad bar where you can pay by weight instead of buying whole jars, etc and wasting food.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/dnzb8y/
+author:WeakAndWeary
+subreddit:LifeProTips
+score:8657
+numComments:260
+isOver18:False
+hasPostBody:False

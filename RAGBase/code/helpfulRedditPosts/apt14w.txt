@@ -1,0 +1,13 @@
+title:
+YSK: Vaccines can lose effectiveness over time. Ask your doctor to run titers to see if you are still immune.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/YouShouldKnow/comments/apt14w/
+author:[deleted]
+subreddit:YouShouldKnow
+score:2696
+numComments:110
+isOver18:False
+hasPostBody:True

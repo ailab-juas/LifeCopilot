@@ -1,0 +1,15 @@
+title:
+YSK Many people are not looking for answers when they share their problems with you.
+
+content:
+Why YSK: People have different reasons for sharing their personal problems with you, but one of the main reasons is simply to have someone to talk to/process with. Talking about a problem can be incredibly helpful for people that need a way to process. However, that helpful process can be completely dismantled by the other person interrupting with some comment like "well you should do x y or z..."
+
+I can't tell you how many times I've taken the time and energy to put my trust in someone and open up about things I have going on, only to be completely patronized by their "advice". If people want advice, they will likely specifically ask for your thoughts on a situation. If they don't explicitly state that they want your thoughts on their problems, then just listen to them and ask questions that can help THEM think it through, don't tell them HOW to think about their problems.
+
+url:https://reddit.com/r/YouShouldKnow/comments/n637eb/
+author:jorbro2023
+subreddit:YouShouldKnow
+score:1133
+numComments:81
+isOver18:False
+hasPostBody:True

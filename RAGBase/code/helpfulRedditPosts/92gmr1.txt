@@ -1,0 +1,15 @@
+title:
+YSK that coffee (and coffee brewing appliance) companies consider a "cup" 6 ounces instead of the standard 8.
+
+content:
+So when a bag of coffee beans/grounds says it will make 48 cups, really it will make 36.  This is also important to know for coffee recipes from the brands' producers so you get the ratios and flavors correct.
+
+Edit:  sorry everyone -- 5-6 ounces.
+
+url:https://reddit.com/r/YouShouldKnow/comments/92gmr1/
+author:ChefHannibal
+subreddit:YouShouldKnow
+score:5567
+numComments:291
+isOver18:False
+hasPostBody:True

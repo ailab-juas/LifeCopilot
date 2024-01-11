@@ -1,0 +1,31 @@
+title:
+YSK: if the hearing in one of your ears suddenly goes out, this is a true medical emergency.
+
+content:
+I am not talking about the occasional ringing.
+
+If you notice that you suddenly have lost all or most of the hearing in one ear, you may have something called Sudden Sensorineural Hearing Loss. (SSHL).
+
+This happened to me a few years ago. I told me wife and said we should wait to see if it passes. She panicked and demanded I call the ear doctor immediately. I called them and spoke with the secretary. She put me on hold and the doctor himself got on the phone and said "get here right now."
+
+I raced over, he examined me ahead of 10 people in the waiting room and diagnosed me with SSHL. He then prescribed me high dose steroids, prednisone. The dose was even higher than what transplant patients get to prevent organ rejection.
+
+For two days, nothing happened, then slowly some sounds started to come back and I eventually went from 98% hearing loss to around 5% hearing loss.
+
+No one knows exactly what causes it, some suspect a virus. The only known effective treatment are the steroids and they must be started within 1-3 days of onset. Even with the drugs, not everyone recovers their hearing. Without the drugs, even less people will recover their hearing. If you delay treatment beyond the 1-3 day window, the loss is almost always permanent.
+
+For those wondering, well, losing hearing in one ear isn't so bad right, you still have a good ear, so things should not be too bad, right? Wrong! When you lose your hearing in one ear, it is not silent. It is replaced by a constant whooshing, squealing, white noise that does not go away, and it therefore interferes with the noise coming into your good ear. 
+
+This should not be construed as medical advice, however if this happens to you or anyone you know, understand the urgency of going to an ear doctor, or ER so they can start you on the drugs without delay.
+
+**EDIT**
+
+Since this has gotten so much interest, I just wanted to add that if the oral steroids don't work, the next option is Intratympanic Steroid Injection. That is as bad as it sounds, and it involves a giant needle injecting the steroids directly into your ear drum. Just another reason to not delay treatment if this happens to you!
+
+url:https://reddit.com/r/YouShouldKnow/comments/29qrxm/
+author:thenewyorkgod
+subreddit:YouShouldKnow
+score:1740
+numComments:274
+isOver18:False
+hasPostBody:True

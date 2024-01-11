@@ -1,0 +1,19 @@
+title:
+YSK that xylitol, a known toxin to dogs, is now being listed as “birch sugar” in products like peanut butter and candy.
+
+content:
+Why YSK: Xylitol AKA “birch sugar” is incredibly toxic to dogs, and it’s used in a handful of products as a sugar substitute, including peanut butter and ice cream. 
+
+Because of its low glycemic index and plaque fighting properties, we’re seeing xylitol/birch sugar appear much more prevalently in food products. 
+
+Even in small doses, xylitol/birch sugar can cause liver failure and death in dogs. Most dog owners know to check labels for xylitol, but they might not know that birch sugar is the same thing. 
+
+[source](https://vetmedbiosci.colostate.edu/vth/animal-health/birch-sugar-is-the-same-thing-as-xylitol-and-its-toxic-to-dogs/)
+
+url:https://reddit.com/r/YouShouldKnow/comments/we6hw8/
+author:pebblesana
+subreddit:YouShouldKnow
+score:29515
+numComments:1140
+isOver18:False
+hasPostBody:True

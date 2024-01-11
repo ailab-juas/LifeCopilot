@@ -1,0 +1,13 @@
+title:
+LPT: If someone asks/texts you a general question and your initial thought is, “Why didn’t they just google it,” they probably thought of you specifically when the question entered their mind. Use this as an opportunity to connect with them.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/nw40vp/
+author:SpencerLass
+subreddit:LifeProTips
+score:27991
+numComments:561
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: Dandruff shampoo can be used to fight athletes foot and other topical fungal infections. The active ingredients in most dandruff shampoo's are either Selenium Sulfide or Zinc Pyrithion, both of which stop the proliferation and sporogenesis of fungi.
+
+content:
+Isn't this what reddit is all about?
+
+url:https://reddit.com/r/LifeProTips/comments/1at4ql/
+author:cherryninja
+subreddit:LifeProTips
+score:1334
+numComments:149
+isOver18:False
+hasPostBody:True

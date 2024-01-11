@@ -1,0 +1,13 @@
+title:
+LPT: Use a post-it note to catch dust when drilling
+
+content:
+[Like so](http://i.imgur.com/FqtxdqZ.jpg)
+
+url:https://reddit.com/r/LifeProTips/comments/4le3nr/
+author:_Survivor_of_Hathsin
+subreddit:LifeProTips
+score:1241
+numComments:119
+isOver18:False
+hasPostBody:True

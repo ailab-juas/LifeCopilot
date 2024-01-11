@@ -1,0 +1,13 @@
+title:
+Ysk Ceiling fans have a summer and winter setting.
+
+content:
+Why YSK: There is usually a switch on the fan that changes the direction the fan spins. Due to the pitch of the blades this changes the direction air flows. In summer, blades are supposed to spin counter-clockwise and this creates a downdraft to help cool. In winter, blades are supposed to spin clockwise to circulate warm air around for more efficient heating. This is especially important in homes with high or vaulted ceilings.
+
+url:https://reddit.com/r/YouShouldKnow/comments/r51r1p/
+author:ilovea1steaksauce
+subreddit:YouShouldKnow
+score:4659
+numComments:153
+isOver18:False
+hasPostBody:True

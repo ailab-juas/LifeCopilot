@@ -1,0 +1,15 @@
+title:
+YSK Catalog Choice, a non-profit organization, provides a service to cancel specific catalogs and other types of paper mail you no longer wish to receive. Catalog Choice sends merchants your catalog opt-out request on your behalf from a single, centralized website.
+
+content:
+This is especially important for those of us who mainly shop online and don't want or need bulky wasteful paper catalogs mailed to us on a regular basis.
+
+[https://www.catalogchoice.org](https://www.catalogchoice.org)
+
+url:https://reddit.com/r/YouShouldKnow/comments/egec0q/
+author:grandlewis
+subreddit:YouShouldKnow
+score:5866
+numComments:62
+isOver18:False
+hasPostBody:True

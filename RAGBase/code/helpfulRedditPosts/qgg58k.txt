@@ -1,0 +1,13 @@
+title:
+LPT: Use the Clock Method to easily estimate miles in kilometers - picture a clock face, if the minutes are the miles, the % full will estimate the kilometers. (45 minutes is 75% full -&gt; 45mi is roughly 75 km)
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/qgg58k/
+author:CalmBarber
+subreddit:LifeProTips
+score:5458
+numComments:230
+isOver18:False
+hasPostBody:False

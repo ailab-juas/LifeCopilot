@@ -1,0 +1,13 @@
+title:
+YSK: Bleach is more effective at killing germs when it's diluted than when used neat. Bleach starts to lose potency after around 6 months. Bleach diluted with water is only good for about a day. Bleach is corrosive to stainless steel – wipe down with water or ethanol afterward if use is unavoidable.
+
+content:
+Source: [https://www.scripps.edu/newsandviews/e_20060213/bleach.html](https://www.scripps.edu/newsandviews/e_20060213/bleach.html)
+
+url:https://reddit.com/r/YouShouldKnow/comments/8mflbq/
+author:Mr-Klaus
+subreddit:YouShouldKnow
+score:2214
+numComments:80
+isOver18:False
+hasPostBody:True

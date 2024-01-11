@@ -1,0 +1,13 @@
+title:
+LPT: If you’re easily distracted with the urge to Google things during study/work sessions, keep a piece of paper next to you and write down the thing so you don’t forget about it and don’t interrupt your study/work session
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/x0z6q0/
+author:Lexafaye
+subreddit:LifeProTips
+score:1475
+numComments:55
+isOver18:False
+hasPostBody:False

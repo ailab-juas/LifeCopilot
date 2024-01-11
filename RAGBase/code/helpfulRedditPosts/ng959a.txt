@@ -1,0 +1,13 @@
+title:
+LPT: When handling firearms, always assume there is a bullet in the chamber. Even if the gun leaves your sight for a second, next time you pick it up just assume a bullet magically got into the chamber.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ng959a/
+author:sblack9ikfg
+subreddit:LifeProTips
+score:64852
+numComments:4370
+isOver18:False
+hasPostBody:False

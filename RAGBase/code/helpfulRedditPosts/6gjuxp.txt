@@ -1,0 +1,13 @@
+title:
+LPT: Avoid buying phone cases that also double up as a wallet because if your phone gets stolen (or lost), you lose all the credit cards too and you cant cancel them easily because you won't have the registered phone.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/6gjuxp/
+author:guyi567
+subreddit:LifeProTips
+score:2877
+numComments:192
+isOver18:False
+hasPostBody:False

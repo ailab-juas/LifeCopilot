@@ -1,0 +1,20 @@
+title:
+YSK If you want to send a gift to a redditor that didn't get anything for Secret Santa you can still sign up as a rematcher
+
+content:
+I keep seeing a lot of post by people saying they got screwed in this year's Redditgifts Secret Santa and other kind redditors saying they want to help. Redditgifts asks for rematchers for all of their exchanges, people who send a gift to someone who didn't get anything but don't receive a gift. It looks like you have to sign into [Redditgifts](http://redditgifts.com/) to sign up as a rematcher.
+
+
+Also, if you shipped a gift and your giftee has it but won't mark it as received, send proof to the admins to get your credit and prevent yourself from being banned. 
+
+Edit: fixed link that only works if you're signed in.
+
+Edit: fixed link again. It's working now I swear! 
+
+url:https://reddit.com/r/YouShouldKnow/comments/2pz4bb/
+author:mamoocando
+subreddit:YouShouldKnow
+score:1517
+numComments:109
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: If you receive a call from your bank about fraud on your account, hang up and call them back at the number on the back of your credit/debit card or your bank statement. Fraudsters can spoof the toll free number for your bank, leaving you to believe it is your bank who is calling.
+
+content:
+This happened today to a friend of mine.  She received a call from  someone claiming to be from Chase Bank and the caller ID matched the  number on the back of her card. They even said they wanted to confirm  who they were talking to by sending her a security code (which they  texted to  - guess where? - her number).  After asking a few bogus  "security" questions, she gave them her card number and the security  code, still believing this was her bank.  After the call, she had a bad  feeling about the whole thing and called Chase who informed her they did  not call her.  They also said her account had been drained of $600, all  she had.  The end result is that since she contacted them right away,  Chase will be crediting her loss, opening a new account and sending her a  new card.  Big hassle that could have turned out much worse.
+
+url:https://reddit.com/r/LifeProTips/comments/a5o9zt/
+author:doh_man
+subreddit:LifeProTips
+score:4200
+numComments:117
+isOver18:False
+hasPostBody:True

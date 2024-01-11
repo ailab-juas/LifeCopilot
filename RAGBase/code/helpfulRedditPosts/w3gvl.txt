@@ -1,0 +1,13 @@
+title:
+LPT: Instead of typing out your email on your smartphone to log into certain sites, use a keyword shortcut.  
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/w3gvl/
+author:phatee
+subreddit:LifeProTips
+score:2184
+numComments:330
+isOver18:False
+hasPostBody:False

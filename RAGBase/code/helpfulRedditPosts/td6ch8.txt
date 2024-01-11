@@ -1,0 +1,19 @@
+title:
+YSK - Your keyboard should be inclined the OPPOSITE direction or not at all ⌨
+
+content:
+**Why YSK:**
+
+**Most keyboards are angled or come with kickstands that angle the keyboard** ***downwards towards you.***
+
+[This is terrible for your wrists, ergonomically speaking.](https://ergonomictrends.com/proper-ergonomic-typing-posture-at-computer/)
+
+You want the opposite, a keyboard that angles away from you to keep your wrists in a neutral/negative position. Prop your current keyboard up to fix this.
+
+url:https://reddit.com/r/YouShouldKnow/comments/td6ch8/
+author:Xsythe
+subreddit:YouShouldKnow
+score:4892
+numComments:225
+isOver18:False
+hasPostBody:True

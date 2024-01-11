@@ -1,0 +1,13 @@
+title:
+LPT: For more productivity and less procrastination, set a 20 minute timer.
+
+content:
+I found this out a few months ago and it has boosted my productivity by 1000%.  Work in intervals of 20 minutes, with a 20 minute break between intervals.  Whether it's cleaning, yard work, school work,  job-related work, working out, playing a video game, ANYTHING - just try it and see - it really works.  There is something about 20 minutes that is short enough to make you easily motivated to do whatever you're doing and push through it yet long enough to actually get stuff done.  
+
+url:https://reddit.com/r/LifeProTips/comments/48aqzd/
+author:MatttDamonnn
+subreddit:LifeProTips
+score:4820
+numComments:899
+isOver18:False
+hasPostBody:True

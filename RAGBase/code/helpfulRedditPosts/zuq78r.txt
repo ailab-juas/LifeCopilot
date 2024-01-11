@@ -1,0 +1,13 @@
+title:
+YSK hunting with lead shot can cause lead poisoning.
+
+content:
+Why YSK:  Eating wild game shot with lead can cause lead poisoning.  Lead ammunition shatters inside the animal making it impossible to pick the pieces out.  This has been proven in multiple studies using x-rays [here](https://www.nps.gov/pinn/learn/nature/leadinfo.htm) and many other sources you can find with basic searching.
+
+url:https://reddit.com/r/YouShouldKnow/comments/zuq78r/
+author:Foxs-In-A-Trenchcoat
+subreddit:YouShouldKnow
+score:2744
+numComments:276
+isOver18:False
+hasPostBody:True

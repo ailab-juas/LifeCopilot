@@ -1,0 +1,17 @@
+title:
+YSK that you can access the complete Feynman Lectures on Physics for free
+
+content:
+http://www.feynmanlectures.caltech.edu/
+
+---
+
+These lectures, from Richard Feynman, offer a comprehensive but easy to understand guide to quantum mechanics, electromagnetism, radiation and Newtonian mechanics. Even if you don't have a background in Physics, they are a fascinating read.
+
+url:https://reddit.com/r/YouShouldKnow/comments/1txvk4/
+author:lntrinsic
+subreddit:YouShouldKnow
+score:1403
+numComments:63
+isOver18:False
+hasPostBody:True

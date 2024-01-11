@@ -1,0 +1,13 @@
+title:
+YSK: You can play YouTube in the background with your phone locked if you play it from your web browser by requesting the desktop site
+
+content:
+It will try to open the app from the mobile web version but if you go to settings and select Request Desktop Site, it will play from your browser even with your phone locked
+
+url:https://reddit.com/r/YouShouldKnow/comments/coo5ps/
+author:xarzilla
+subreddit:YouShouldKnow
+score:1187
+numComments:88
+isOver18:False
+hasPostBody:True

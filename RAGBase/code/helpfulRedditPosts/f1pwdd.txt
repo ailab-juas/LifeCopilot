@@ -1,0 +1,13 @@
+title:
+LPT: Caffeine has a biological half-life of SEVEN HOURS. If you have trouble sleeping, try not drinking any coffee after lunch.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/f1pwdd/
+author:Advo96
+subreddit:LifeProTips
+score:11486
+numComments:545
+isOver18:False
+hasPostBody:False

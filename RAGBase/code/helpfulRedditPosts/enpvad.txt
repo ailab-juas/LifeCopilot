@@ -1,0 +1,13 @@
+title:
+LPT: Have a complexe Wi-Fi password set with some strong random password generator and then, use a QRcode generator to have it print and easily being accessible for you and your friends. (by scanning it)
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/enpvad/
+author:Oceanos1
+subreddit:LifeProTips
+score:2279
+numComments:213
+isOver18:False
+hasPostBody:False

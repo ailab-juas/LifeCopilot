@@ -1,0 +1,13 @@
+title:
+LPT: When you sign up for anything online, put the website’s name as your middle name. That way when you receive spam/advert emails, you will know who sold your info.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/j2mm1b/
+author:raviji22
+subreddit:LifeProTips
+score:129513
+numComments:1971
+isOver18:False
+hasPostBody:False

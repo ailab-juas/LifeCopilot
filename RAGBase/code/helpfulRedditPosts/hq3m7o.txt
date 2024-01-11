@@ -1,0 +1,13 @@
+title:
+LPT: Reddit has quietly enabled a setting that, by default, allows them to collect your location data. Disable it by going into your privacy settings.
+
+content:
+Edit: if you're deleting the app, consider switching to [Ruqqus](https://ruqqus.com)
+
+url:https://reddit.com/r/LifeProTips/comments/hq3m7o/
+author:selplacei
+subreddit:LifeProTips
+score:66124
+numComments:1952
+isOver18:False
+hasPostBody:True

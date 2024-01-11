@@ -1,0 +1,17 @@
+title:
+YSK which vitamin supplements are worth taking and which have no evidence to support their value.
+
+content:
+[This infographic gives a nice clear summary of which supplements are worth having, and which are just a complete waste of time.](http://i.imgur.com/eA7Hxzp.jpg)
+
+Edit: Thank you to /u/yishanwang for pointing out the interactive version of the chart, which can be [found here](http://www.informationisbeautiful.net/play/snake-oil-supplements/)
+
+2nd Edit: As many people have correctly pointed out, this chart is true for the *average individual*, assuming a good diet. Everybody responds differently to every drug, including vitamin supplements, especially if they are in poor health, or have a vitamin deficiency. What is true for the general healthy population is not necessarily true for you. If you have any real concerns regarding your health, of course go see a GP or a dietitian.
+
+url:https://reddit.com/r/YouShouldKnow/comments/24cwxb/
+author:malarial_camel
+subreddit:YouShouldKnow
+score:1953
+numComments:384
+isOver18:False
+hasPostBody:True

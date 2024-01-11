@@ -1,0 +1,29 @@
+title:
+YSK: Flood water is more than just rain. It contains sewage and chemical run-off that can make you sick or cause rashes.
+
+content:
+Flood waters that are high enough to enter homes or impede traffic are usually high enough to have filled sewage systems. If businesses or factories or storage facilities have flooded then gasoline, cleaning chemicals, and production chemicals might have been washed away. If the flood affected areas with septic tanks there will be sewage and strong acids meant to dissolve the sewage.
+
+Don't play in the rising water, and don't let your pets walk in it or drink it. Carry your children so they don't fall into it.
+
+If you use a raft or flotation device for safety avoid paddling with your hands.
+
+-----
+
+EDIT: Here are some links that might be helpful for people dealing with flood waters.
+
+[Occupational Safety and Health Administration](https://www.osha.gov/OshDoc/data_Hurricane_Facts/Bulletin2.pdf)
+
+[Center for Disease Control](https://www.cdc.gov/healthywater/emergency/extreme-weather/floods-standingwater.html)
+
+[World Health Organization](http://www.who.int/hac/techguidance/ems/flood_cds/en/)
+
+EDIT-2: [Here is a link](https://www.youtube.com/watch?v=4s5u3tPJ2Bs) to an Australian Public Service Announcement video for people who are more visually inclined.
+
+url:https://reddit.com/r/YouShouldKnow/comments/6wecjc/
+author:Whooplaah
+subreddit:YouShouldKnow
+score:23968
+numComments:663
+isOver18:False
+hasPostBody:True

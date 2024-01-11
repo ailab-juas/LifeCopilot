@@ -1,0 +1,18 @@
+title:
+LPT: Keep a regularly-updated note with your S.O.'s favourite things by category, add to it as much as possible
+
+content:
+Any time my girlfriend mentions something that she loves or we share a new consumable she really likes, it goes into an Evernote note.
+
+Each item in the list is grouped by type (alcohol, clothing brand+size, chocolates, etc.), and each item is a link to a Google Image Search so I can easily spot it when shopping.
+Let's say I am passing by the wine store on the way home. With one search I can pull up her favourite red wine or prosecco, with a link to what the packaging looks like.
+
+This might come off as cheating a little, but your S.O. appreciates the time and care you take to make sure you remember, not the inhuman ability remember things without electronic help.
+
+url:https://reddit.com/r/LifeProTips/comments/3pl9kq/
+author:Air-tun-91
+subreddit:LifeProTips
+score:4978
+numComments:1876
+isOver18:False
+hasPostBody:True

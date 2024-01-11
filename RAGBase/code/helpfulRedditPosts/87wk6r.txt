@@ -1,0 +1,13 @@
+title:
+LPT: Don't put "HAPPY BIRTHDAY!" on the outside of an envelope. It may "go missing," particularly if you can feel a gift card through it.
+
+content:
+It shouldn't happen, but it does.
+
+url:https://reddit.com/r/LifeProTips/comments/87wk6r/
+author:gnoani
+subreddit:LifeProTips
+score:4104
+numComments:137
+isOver18:False
+hasPostBody:True

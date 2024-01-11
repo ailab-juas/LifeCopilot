@@ -1,0 +1,13 @@
+title:
+LPT: When moving, pack a “first day” box with everything you think you’ll need right after you arrive. It’s annoying to dig through all your boxes for things like modems and hair dryers when you’re tired from your move.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/8srxvr/
+author:campperr
+subreddit:LifeProTips
+score:47429
+numComments:995
+isOver18:False
+hasPostBody:False

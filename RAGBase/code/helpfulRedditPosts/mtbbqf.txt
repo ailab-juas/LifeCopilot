@@ -1,0 +1,13 @@
+title:
+LPT: If you are trying to go to sleep and remember something but don’t want to get up to write it down, place an object on the ground, that way when you wake up in the morning you will wonder why that object is on the ground and associate it with whatever you were trying to remember.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/mtbbqf/
+author:RatDevourer46
+subreddit:LifeProTips
+score:29009
+numComments:880
+isOver18:False
+hasPostBody:False

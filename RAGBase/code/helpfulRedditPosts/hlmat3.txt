@@ -1,0 +1,13 @@
+title:
+LPT: Don’t mock or gloat over someone for changing their mind. Applaud and encourage them instead.
+
+content:
+Know someone who’s a flat-earther or anti-vaxxer? Don’t mock them or throw an ‘I-told-you-so’ in their face if/when they’re won over by science. Applaud them instead. Changing someone’s mind about proven science can be very difficult and almost traumatic for that person, and encouragement makes it much more likely that it might happen again.
+
+url:https://reddit.com/r/LifeProTips/comments/hlmat3/
+author:DrBlissMD
+subreddit:LifeProTips
+score:3704
+numComments:59
+isOver18:False
+hasPostBody:True

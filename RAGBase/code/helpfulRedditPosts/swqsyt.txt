@@ -1,0 +1,13 @@
+title:
+LPT: Parents, use tape to cover the speaker holes of your kid's toys. Noise still comes out, but it's much quieter.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/swqsyt/
+author:Twofingersthreerocks
+subreddit:LifeProTips
+score:1337
+numComments:94
+isOver18:False
+hasPostBody:False

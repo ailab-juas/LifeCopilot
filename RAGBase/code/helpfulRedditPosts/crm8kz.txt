@@ -1,0 +1,13 @@
+title:
+YSK: If you encounter free public Wi-Fi with a time limit, you can enter "8.8.8.8" into the address bar to reset both the login page and the timer once it's run out, effectively giving you unlimited wifi.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/YouShouldKnow/comments/crm8kz/
+author:[deleted]
+subreddit:YouShouldKnow
+score:1187
+numComments:42
+isOver18:False
+hasPostBody:True

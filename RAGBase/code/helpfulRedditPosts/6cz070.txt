@@ -1,0 +1,17 @@
+title:
+YSK that you do not have to pay for a boating license
+
+content:
+[Boat US](https://www.boatus.org/) will let you take the certification and print your license for free.
+
+Edit: As Lots of people have mentioned, this is only available in a set of US states, and some states required a physical card, which can cost $10. 
+
+The point is, the test portion is free through this site, which I was excited to hear. Sorry if the post was clickbait-y.
+
+url:https://reddit.com/r/YouShouldKnow/comments/6cz070/
+author:qvolt
+subreddit:YouShouldKnow
+score:3252
+numComments:276
+isOver18:False
+hasPostBody:True

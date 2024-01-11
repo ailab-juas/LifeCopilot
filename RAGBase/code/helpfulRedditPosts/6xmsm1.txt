@@ -1,0 +1,25 @@
+title:
+YSK that caller ID (call display) is very easy to fake
+
+content:
+Caller ID is very easy to "spoof" (as it's called), to set the caller's name and number, so it should not be trusted.
+
+I work for a tech support company. We see lots of cases where someone sees "Microsoft" or some other name on the caller ID, and takes it at face value, but it turns out to be scammers.
+
+We actually have a legitimate business use for faking caller ID: we make lots of international calls. So for example, US customers will see our 1-800 number, and UK customers see our 0800 number. This is all controlled by the phone software. In fact, I can pick "no caller ID" if I want.
+
+Edit to add: I've also seen this used by scammers/trolls to keep changing their number every time they call, so that their victim won't be able to block their number.
+
+Edit 2: Here are some links with more info for a few countries:
+
+- Canada: [CRTC](http://crtc.gc.ca/eng/phone/telemarketing/identit.htm)
+- USA: [FCC](https://www.fcc.gov/consumers/guides/spoofing-and-caller-id)
+- UK: [OFCOM](https://www.ofcom.org.uk/phones-telecoms-and-internet/advice-for-consumers/problems/tackling-nuisance-calls-and-messages/phone-spoof-scam)
+
+url:https://reddit.com/r/YouShouldKnow/comments/6xmsm1/
+author:Burnaby
+subreddit:YouShouldKnow
+score:2542
+numComments:151
+isOver18:False
+hasPostBody:True

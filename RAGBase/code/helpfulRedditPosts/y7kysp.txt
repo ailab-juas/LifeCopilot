@@ -1,0 +1,13 @@
+title:
+YSK: On iPhone, if you make a contact in your phone with the name "fuck" it will stop autocorrecting to "duck" when you text.
+
+content:
+Why YSK is because always correcting “duck” into “fuck” when texting is very annoying.
+
+url:https://reddit.com/r/YouShouldKnow/comments/y7kysp/
+author:cringes-orange
+subreddit:YouShouldKnow
+score:2113
+numComments:131
+isOver18:False
+hasPostBody:True

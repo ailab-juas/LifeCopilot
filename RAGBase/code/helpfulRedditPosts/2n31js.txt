@@ -1,0 +1,13 @@
+title:
+LPT: Don't tell people secrets just because you trust them.
+
+content:
+Most people have at least two people in their lives who they rely on enough to trust with any secret. If we know this, then we also know that the person we tell the secret to has at least one other person they really trust. Soon enough, the secret has been passed on between people who fully trust each other to not re-tell said secret.
+
+url:https://reddit.com/r/LifeProTips/comments/2n31js/
+author:physioboy
+subreddit:LifeProTips
+score:2622
+numComments:503
+isOver18:False
+hasPostBody:True

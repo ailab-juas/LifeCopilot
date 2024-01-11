@@ -1,0 +1,13 @@
+title:
+LPT: If you have multiple Gmail accounts on your phone, you can instantly switch between inboxes by flicking up/down on your profile icon
+
+content:
+Instead of having to click on your icon, select the account you want to switch to, you can simply swipe the icon up/down and you can save yourself a few seconds.
+
+url:https://reddit.com/r/LifeProTips/comments/ydr80w/
+author:Senor_Tortuga308
+subreddit:LifeProTips
+score:27878
+numComments:735
+isOver18:False
+hasPostBody:True

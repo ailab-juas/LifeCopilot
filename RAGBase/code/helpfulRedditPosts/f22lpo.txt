@@ -1,0 +1,13 @@
+title:
+YSK that companies like Teleflora, FTD, and 1-800-Flowers don't actually have physical stores. They're just middle-men who take orders, charge you a 20% service fee, and then turn around and charge the local floral shop a finder's fee. So shop local and keep your money in your flowers.
+
+content:
+They also display their flowers on their websites as "one sided" arrangements, so they look much smaller once you receive them.
+
+url:https://reddit.com/r/YouShouldKnow/comments/f22lpo/
+author:kellysuepoo
+subreddit:YouShouldKnow
+score:12794
+numComments:217
+isOver18:False
+hasPostBody:True

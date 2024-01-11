@@ -1,0 +1,13 @@
+title:
+YSK if a company suddenly makes it difficult to get a refund. You can call your fraud hotline for your credit and use it as evidence to justify a chargeback.
+
+content:
+In light of EA removing the refund button
+
+url:https://reddit.com/r/YouShouldKnow/comments/7cvu28/
+author:zpjack
+subreddit:YouShouldKnow
+score:1060
+numComments:39
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Put subtitles on when watching something with multiple friends, conversations won't disrupt the movie and you won't force everyone to sit silent for 2 hours.
+
+content:
+It's sort of a compromise if you're really serious about the movie, but this way you can actually have the experience be a social event, crack jokes, and ask questions.
+
+url:https://reddit.com/r/LifeProTips/comments/dc02cq/
+author:HansCool
+subreddit:LifeProTips
+score:29336
+numComments:700
+isOver18:False
+hasPostBody:True

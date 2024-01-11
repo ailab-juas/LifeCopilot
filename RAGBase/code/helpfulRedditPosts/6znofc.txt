@@ -1,0 +1,437 @@
+title:
+YSK: What your options for responding to Equifax are because if you're an American adult you have almost definitely been compromised.
+
+content:
+I have edited this slightly to answer some FAQs. (I've answered well over 700 questions over the past 36 hours related to this.)
+
+I have redacted some of the legal portions and replaced it mostly with a warning. 
+
+**Do not try to frivolously sue a $17B company**
+
+#*Step Number 1.0*
+
+*Relax.* Your info isn't likely to be used unless you lose the lottery I talk about later. And nobody is playing the lottery until about 90 days from now. So *relax.* But take it seriously. This is still important. 
+
+#*Purpose:*
+
+I am making this because I see a lot of younger or more inexperienced or just unknowledgeable comments and questions about this breach. If you don’t know if you’ve been affected, or it affects you, or what the effects in question even are **that’s okay!** Especially for you younger folks, teen adults, people that haven’t worked with credit or law a lot you aren’t expected to magically know everything. Since I’m seeing advice scattered everywhere I thought I would consolidate it the best I can. 
+
+#*What Happened?*
+
+Equifax, one of the three major credit reporting agencies in the United States, was breached and over 140,000,000 people had their entire credit history stolen. Credit history includes your Social Security Number, past addresses, all previously held accounts, all inquired accounts, any bankruptcies within the last seven years, and more. 
+
+#*How do I know if I was affected?*
+
+Are you an American adult that has ever held or inquired about a credit card, loan, car, bank account, cell phone account, electric service, water service, internet service, a security clearance, most jobs, most schools, most apartment complexes, or renting a house? ***Congratulations! You’re affected!*** I’m seeing a lot of “Well, if you ever did X…” Or “If you ever signed anything with this fine print…” 
+
+Nope. If you’ve ever applied for anything financial related in the United States then Equifax has been spying on you. Not like Big Brother, but Equifax, TransUnion, and Experian spy on you via financial history which every lender and creditor in the nation sends to them. 
+
+#*When did I consent to this?*
+
+You didn’t. Shame, but that’s the reality. It was likely hidden in the fine print of the first checking account you tried to open or when you inquired about buying a car but let’s be honest – it isn’t consensual regardless. You have no choice because it is pretty much impossible to actually live so off the grid you’ve never had any credit history. If someone used the same leverage to pressure you into giving them sex instead of your SSN it would be considered rape. Will this hold up in court? Almost definitely not. So you’re stuck with the rest of us. 
+
+#*How is this different than other breaches?*
+
+A lot of people brought up the US Office of Personnel Management Breach, or Target, or Yahoo, or PlayStation Network. This one is not very similar to those at all. The closest you’re getting in past examples is OPM. Here’s why: Target, Yahoo, and PSN don’t keep track of SSNs. They don’t keep track of every bill you’ve ever paid. They don’t keep track of everything you’ve ever thought about buying through financing or credit card. Target, Yahoo, and PSN’s biggest damages were your Debit or Credit Information being compromised. Big deal; cancel the card and get a new one. ***With Equifax, we can’t do that.*** You can theoretically request a new SSN but that request is not likely to be answered, especially on this scale. OPM was the only one similar to this, but that only affected government employees and it was stolen most likely by the Chinese Government. Fortunately for us, probably to spy on us rather than ruin our lives. 
+
+#*So what happens now that my information has been stolen?*
+
+Well now you get to play the anti-lottery. 140,000,000+ people, virtually every adult in the United States, has been entered into a lottery of epic proportions. Only in this case you *don’t* want to win. What does this mean for you? Well, it means if you have luck as bad as or worse than mine you ought to be concerned. *Is the chance of you being the unlucky loser likely?* Nope. But you sure as hell don’t want to be. 
+
+#*What happens if I lose this lottery?*
+
+Then you get to spend literally years fighting to prove to everyone that you are the real you and not the identity thief. During this fight you will not likely be eligible to do anything that requires credit – no cars, no house, no loans, maybe even no utilities or home rentals. If you’re like me and don’t have family to fall back on for a few years in this scenario then you should be the utmost concerned because this will make your life a living hell for 3-4 years. 
+
+#*How can I improve my chances?*
+This is where we get to your actual LifeProTip. Here are the processes you should undertake immediately if it applies to you.
+
+   1) Get a copy of your credit report **today.**
+
+*If you can. The systems have been down because this post got nearly 600,000 views, the breach made the news for 4 days, and all of us are killing their systems. If you can't do the site, try again later. If no luck, use the mail. 
+
+Regardless of freeze, alert, or regular credit monitoring get your current credit report to keep on file so you can identify anything new that shouldn’t be there in the future. 
+
+**Fuck CreditKarma, Fuck FreeCreditReport, Fuck all that shit, you want the real stuff.**
+
+[Annualcreditreport.com](https://www.annualcreditreport.com/index.action) (We killed it, Jim. Try again later when not everyone on reddit is trying to access it.)
+
+
+*REEE HAIL CORPORATE PLUGGING THEIR SITE REEEE*
+
+
+No. The Federal Government of the United States requires each of those three credit agencies give you a free copy of your credit report every year and this is the *only* authorized site to actually collect on that.
+Usually I’d suggest not getting them all at once but if you can’t afford to keep paying for all this crap then go ahead and pull all three at once. Again, if you’re like me and move around a lot the website may not like you very much. Jump through its stupid hoops to get it mailed if you have to. The credit agencies *have* to honor your request. Document this shit well. 
+
+If you don't believe me see any of the following links. This is ***the only real free credit report site***. 
+
+https://www.usa.gov/credit-reports#item-35962
+
+https://www.transunion.com/annual-credit-report
+
+http://www.experian.com/consumer-products/free-credit-report.html
+
+https://www.consumer.ftc.gov/articles/0155-free-credit-reports
+
+https://en.wikipedia.org/wiki/AnnualCreditReport.com
+
+Credit Karma et al are not free. They might not charge you, but somebody is paying them to do that service. Keep that in mind. 
+
+   2) Freeze your credit. 
+
+Call the three credit agencies, the same bullshit enterprise that allowed this to happen, and put a freeze on your credit. *What does this do?* Well, it freezes your credit. *Nobody*, including yourself, can inquire into your credit for any reason until this freeze is unfrozen. 
+
+**This does not affect current accounts! Your current loans will be fine. Your score will still go up and down accordingly.**
+
+**If you are a student** or have some other situation where you need to have frequent checks of your credit you can probably safely wait up to 3 months OR initiate a Fraud Alert instead. See the next step.
+
+*Does this cost money?* 
+
+Fees vary by your state. Equifax is waving fees currently. 
+
+
+*Does unfreezing cost money? Isn’t this a pain in the ass?*
+
+Yes, but only slightly. It will cost about $30 to unfreeze all three when you need to finance something but here’s the bright side: $30 and a few minutes on the phone with an automated system is a hell of a lot easier than the hell that will be your identity being stolen. And besides, if you can’t afford the $30 and a day of preparation before financing something - *you probably shouldn’t be financing anything anyway.* And I’ll tell you a little later how to get it back.
+
+Ultimately the fee varies by State. 
+
+*Does this affect my credit score?*
+
+Nope. Your credit will go on as usual, but nothing new can be added or inquired during the freeze. You will still be able to use your credit card. 
+
+#Here are the phone numbers to initiate a credit freeze
+
+- TransUnion: 1-888-909-8872
+
+- Equifax: 1-800-349-9960
+
+- Experian: 1 888 397 3742
+
+**You must call all three!**
+
+You *can* do this online, but Equifax’s site has been crashing nonstop since the breach was announced and the system doesn’t like people like me that move around a lot. I’d suggest using the phone. It is an automated system so don’t worry about interacting with a person. 
+
+#Important! 
+
+**What is to stop the credit thief from lifting my freeze?**
+
+A long PIN that will be supplied to you when you freeze it. This is pretty much it so make damned sure not to lose that. If there is another breach like this while you have the freeze, unfreeze it ASAP, then freeze it again to get a new PIN. *Yes, this costs money. It costs less than having your identity stolen. And you might be able to get it back.* 
+
+TransUnion allows you to set your own PIN, Experian will send it in the mail, Equifax will set it for you and give it to you over the phone after your freeze is initiated. ***IMPORTANT! Do not hang up until you have it written down!*** You can make it replay the message over and over. Listen to the automated prompts. 
+
+**Equifax's phone system may go in and out. RECORD YOUR CALLS or listen very carefully. IIRC the * button will make it repeat, but listen to be sure!**
+
+
+  3) Initiate a Fraud Alert **If you don’t do a credit freeze, at least do this.**
+
+You are a victim of identity theft now. Contact your local police station, tell them you need to file the report to initiate the appropriate processes. They may not know what you’re talking about but they will do it if you explain. 
+
+**If they do not comply** you can continue, it will just cost money. 
+
+**[This site right here gives you a checklist on how to initiate the fraud alert.](https://www.consumer.ftc.gov/articles/0279-extended-fraud-alerts-and-credit-freezes)** 
+
+This normally costs money but you’re a victim now. This is why you need the police report/Identity Theft Report. This makes it free. This requires that anyone who wants to run your credit is going to have to jump through extra hoops to verify your identity. 
+This may be a pain for you, but sure as hell a lot less pain than fighting through identity theft for four years. 
+
+
+
+   4)  Opt out of prescreened offers of credit while you’re at it. 
+
+This incident is probably gonna inspire you to get off the grid a bit more. You tired of junk mail? Well here’s how you reduce a ton of it: 
+
+[888-5OPTOUT (888-567-8688)]( https://www.optoutprescreen.com/?rf=t) 
+
+
+Call the number or click the link I embedded into it. Either way will work. This will remain for five years at a time but if you return the signed Permanent Opt-Out Election Form to each credit bureau it will remain forever. 
+
+**Experian**
+
+Opt Out
+
+P.O. Box 919
+
+Allen, TX 75013
+
+**TransUnion**
+
+Name Removal Option 
+
+P.O. Box 505 
+
+Woodlyn, PA 19094 
+
+**Equifax, Inc.**
+
+Options
+
+P.O. Box 740123
+
+Atlanta, GA 30374-0123
+
+
+**Innovis Consumer Assistance**
+
+P.O. Box 495
+
+Pittsburgh, PA 15230-0495
+
+
+**Alright. Done. Now how do I get some of this money back? What is our legal recourse? How do we punish Equifax?**
+
+I want you to do something right now while you’re angry. I want you to type up a clear, polite, but strongly worded email. Prepare it as if you’re sending it to the President himself. 
+
+[Click this link and send it to everyone on that list, both Federal and State.](http://act.commoncause.org/site/PageServer?pagename=sunlight_advocacy_list_page) 
+
+*Will this get my money back?* 
+
+
+No. Not yet. But let’s get started on that. 
+
+
+#*Your legal recourse comes down to small claims court, personal formal suit, or class action.* 
+
+For all of these cases DO NOT ENROLL IN EQUIFAX’S “IDENTITY PROTECTION”. We don’t trust these people anymore, remember? 
+
+Your legal recourse comes down to how you were affected. 
+
+#**Consult a lawyer.**
+
+ **Please read the bottom of the post.** You cannot sue without evidence of some kind. DO NOT get into a lawsuit with a $17B company without talking to a lawyer and having a damn good reason. 
+
+If you are directly impacted, here are the possible options. Again, **talk to a lawyer.** 
+
+So here’s the pros and cons of each other recourse: 
+
+**Small Claims**
+
+This is the most likely in which you actually get anything back, but that doesn't make it easy. Your limitations will vary by State and County. Some jurisdictions allow you to sue for up to $25,000 in small claims. Most limit it much lower at like $3,500. The amount you choose is totally up to you but we’ll get to coming up with a number in a moment. 
+
+Pros: 
+
+- Most likely to actually get you paid
+
+- Do not need a lawyer
+
+- Less formal court process
+
+- Ironically, this will likely do the most damage to Equifax if enough people do it.
+
+- Equifax will probably not even send a lawyer to deal with it if they get served with enough of them.
+
+Cons: 
+
+- Difficult process for some
+
+- Still costs court fees
+
+- Actually getting the judgement and collecting the judgement are two totally different things
+
+- There is no discovery process in small claims.
+
+
+**Formal Lawsuit**
+
+This will get you the biggest personal payout - ***if*** *you win*. Keep in mind you’ll be going up against a $17B company so even when fighting many lawsuits they will likely have more firepower than you in almost any case. The good news for us little guys in this case is some very wealthy people would have also gotten their info stolen so if we’re lucky some other big guns will be taking them to court personally, but I wouldn’t count on it. 
+
+Pros:
+
+- Biggest possible personal payout
+
+- There is a discovery process
+
+- Will cost Equifax even if they win
+
+- Collecting on these judgements is going to be way simpler since you have a lawyer
+
+- Less personally intense for you
+
+Cons:
+
+- Most expensive option
+
+- Requires a lawyer (going without one would be suicide)
+
+- You will need a cyber security expert
+
+- You will need a financial sector expert
+
+- You will need to be able to prove that Equifax could have done more
+
+
+**Class Action**
+
+**Most of us will fall into this one.**
+
+This one is already in the works. It will likely cost Equifax somewhere in the $100M range, the lawyers will collect 40% of it, and the few millions of us that apply to be part of the class will get a few bucks out of it. Equifax is already preparing to pay out for this and it won’t even faze them if this is the worst thing that happens. 
+
+Pros:
+
+- Super easy. All you need to do is send the lawyers your info. They will probably set up a website in a few months for all of us to do that.
+
+- Much easier to win. Hell at this point I’d say its guaranteed to win. 
+
+- You get a few dollars.
+
+Cons
+
+- You will only get a few dollars
+
+- This won’t even faze Equifax as a company.
+
+- You lose your ability to sue them as an individual if you sign on as a member of the Class. 
+
+
+#*Which is right for me?*
+
+Consult a lawyer. Do not try to do this completely on your own. Even with Small Claims at least consult one first. 
+
+
+#*Last Steps!*
+
+File your tax return as soon as possible from here on out. With your credit frozen and a fraud alert in place your biggest risk of direct impact is going to come from a fraudulent tax return. Unfortunately, the powers that be at the IRS don’t bother to confirm identity on tax filings except for a SSN. If somebody files with your SSN you will not be able to file. You will have to dispute it. I have seen people have to go through this battle before and it is very long. Hound your employers to get your W-2 ASAP.
+
+
+If your identity is stolen and used this way [TurboTax keeps a webpage](https://turbotax.intuit.com/tax-tools/tax-tips/General-Tax-Tips/Identity-Theft--What-to-Do-if-Someone-Has-Already-Filed-Taxes-Using-Your-Social-Security-Number/INF23035.html) to make fighting this battle a little easier. 
+
+
+**The IRS will never contact you by phone or email to verify your identity!** However, if *you contact them* they will be willing to verify over the phone. If you get a call *from* anyone claiming to be the IRS for this purpose hang up, look up the IRS number, and call them instead. 
+
+
+[Here is the IRS official page on the subject.](https://www.irs.gov/newsroom/tips-for-taxpayers-victims-about-identity-theft-and-tax-returns)
+
+#*Is there any part of my identity that is secure?*
+
+Our birth certificates and passports are about all we've got left right now. 
+
+**Birth Certificates**
+
+If you only have one copy of your birth certificate look up your County of Birth's rules on requesting a new one. This will probably cost about $20 as well. The birth certificate is one of the end-all-be-all points of our identity. Keep them in locked and fire proof boxes. Worst case scenario for you is having your identity stolen and then having a fire take these documents. Make sure both can't happen at the same time at least.
+
+Since it relies on birth certificates I highly suggest reading further on Passports.
+
+**Naturalization Forms**
+
+If you are a Naturalized American then do the same as the Birth Certificate folks, but with your citizenship documents. A birth certificate from your country of birth certainly wouldn't hurt either. 
+
+**Passports**
+
+ If you don't have one look into getting a Passport. This will prevent one from being made in your name with your birth certificate in the future, may help you prove your identity if necessary, and you can also travel to Europe, Canada, and Mexico without a visa in most cases. Win-win-win. 
+
+Passports use various methods for confirming your identity but the lynchpin is your birth certificate. You'll have to send a 2"x2" photo and a certified original copy of your birth certificate off the State Department to get your Passport. The photo can be done at a UPS Store or CVS or similar places and costs like $5. The Passport fee itself is closer to $100. 
+
+The State Department will send back your birth certificate when they are done with it but I would suggest having more than one *original* on hand. Photocopies are not good enough for either case. 
+
+#*Additions for non-Americans*
+
+**Canada**
+
+According to the news I can find it is likely the Equifax breach compromised information for Canadians but Equifax Canada won't saw how many. Their only official comment was that they have nothing to add to what Atlanta-based Equifax already announced. According to their website they have no idea how many were affected yet. However, judging by how large the compromise was for Americans unless Canadians and Britons are kept on entirely different networks with no trusted relationship, its likely going to be all of you as well. 
+
+All of the following information is subject to research I've done solely today so allow some room for error: 
+
+Canada only has Equifax Canada and TransUnion Canada, so things are 33% easier.
+
+Steps you can take: 
+
+1) Monitor your credit score. Get a report. [TransUnion Click here.](https://ocs.transunion.ca/ocs/home.html) [Equifax Click Here.](http://www.consumer.equifax.ca/home/en_ca) In Canada the free reports are done by mail. 
+
+2) [According to CreditCards.com](http://canada.creditcards.com/credit-card-news/file-alerts-are-Canadas-answer-to-US-report-freezes-1264/) Canadians can request a Credit File Alert which is their equivalent of a credit freeze. 
+
+3) If you find out you were affected and your SIN was stolen, [file a police report and alert all of your banks.](http://www.kiplinger.com/article/credit/T048-C000-S002-how-to-combat-stolen-social-security-numbers.html) 
+
+
+**UK**
+
+Same as Canada, all of this is based on research from today only. I am far from an expert on foreign personal credit and finance law. 
+
+[Media reports, largely sensational in appearance claim up to 44m Britons may have been compromised.](https://www.theguardian.com/technology/2017/sep/08/equifax-told-to-inform-britons-whether-they-are-at-risk-after-data-breach) However, judging by how large the compromise was for Americans unless Canadians and Britons are kept on entirely different networks with no trusted relationship, its likely going to be all of you as well. 
+
+Steps you can take: 
+
+1) Check your credit reports. Unfortunately it doesn't look like truly free reports exist in the UK. Instead there is a Statutory £2 Credit Report. 
+
+[Experian Click Here](https://www.experian.co.uk/consumer/statutory-report.html)
+
+[Equifax Click Here](https://www.equifax.co.uk/Products/credit/statutory-report.html)
+
+2) UK equivalent to a Credit Freeze is [CIFAS.](www.cifas.org.uk) 
+CIFAS – The UK’s Fraud Prevention Service
+6th Floor
+Lynton House
+7 - 12 Tavistock Square
+London
+WC1H 9LT
+
+Once active, creditors will have to jump through a few hoops to verify who you are. 
+
+3) If you find your information has been stolen call [0300 123 20 40](http://www.actionfraud.police.uk/) or click the link embedded. 
+
+
+#*For American Parents*
+
+You can freeze your child's credit once they have an SSN! They probably don't have an Equifax file unless you've had them apply for banks and credit cards already, but freezing it when they are young is not a bad idea! 
+
+#*Advice from an actual lawyer*
+
+Contact your own lawyer if you want to file a suit but here is a comment from a lawyer here on reddit that I think is the most realistic. 
+
+&gt;Equifax was very, very negligent in letting their systems get breached. But until there's an actual injury, you can't win any lawsuit unless there are statutory damages, which almost certainly brings it into the federal court realm. You can't just pick a random-ass number and say "I was harmed for this amount."
+&gt;No, you can't get it for emotional damages. No, you can't get it for pain and suffering. Unless your ID was actually stolen and used to open a line of credit, your best option is to remain in the class action.
+
+- /u/edsbf1
+
+Lawsuits are not clear cut. This is why law school is three years and after that there are State Bar Exams. 
+
+#*FAQ*
+
+Q: Will my credit cards still work during the freeze? 
+
+A: Yes. You just can't get new ones while frozen. 
+
+Q: Will we ever be able to unfreeze? 
+
+A: I will only be unfreezing when I am credit shopping. Until we stop using SSNs for every damn thing, no unfortunately we won't ever be 100% secure again. 
+
+Q: How will it affect my insurance? 
+
+A: Contact your insurer to ask them if a credit freeze will affect you. 
+
+Q: Do I need to unfreeze all three every time I need to use it? 
+
+A: Ask your lender/creditor/checker/whoever which bureau they will be inquiring to. Unfreeze that one. 
+
+Q: Do my spouse and I both need to do it? 
+
+A: Yes. Credit files are maintained separately. 
+
+Q: If I am 18 and only have a debit card am I affected? 
+
+A: Ask your bank if they communicate checking/savings account holder info with Equifax. If not, you're fine. 
+
+Q: **OMG I AM FREAKING OUT**
+
+A: *R-E-L-A-X.*
+
+Q: Equifax didn't give me my PIN!
+
+A: https://help.equifax.com/s/article/ka137000000DS9XAAW/What-do-I-do-if-I-lose-my-security-freeze-PIN
+
+Q: Does a credit freeze affect my credit score?
+
+A: No. **A credit freeze does not affect your credit score.**
+
+**A credit freeze also does not:**
+
+- prevent you from getting your free annual credit report
+
+- keep you from opening a new account, applying for a job, renting an apartment, or buying insurance. But if you’re doing any of these, you’ll need to lift the freeze temporarily, either for a specific time or for a specific party, say, a potential landlord or employer. The cost and lead times to lift a freeze vary, so it’s best to check with the credit reporting company in advance.
+
+- prevent a thief from making charges to your existing accounts. You still need to monitor all bank, credit card and insurance statements for fraudulent transactions.
+
+url:https://reddit.com/r/YouShouldKnow/comments/6znofc/
+author:Velostodon
+subreddit:YouShouldKnow
+score:35407
+numComments:2289
+isOver18:False
+hasPostBody:True

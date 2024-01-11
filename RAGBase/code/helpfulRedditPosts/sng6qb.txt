@@ -1,0 +1,19 @@
+title:
+YSK if you're in the UK, pay for your prescriptions AND get at least two prescriptions per month, you'll be better off getting a pre-paid certificate
+
+content:
+Why YSK:
+
+The cost for a prescription in the UK is currently £9.35 per item. If you get prescribed medication regularly you will likely save so much money annually by purchasing a pre-payment certificate. It costs £108.10 for 12 months which can be paid in one go or in 10 monthly direct debit installments.
+
+EDIT: this info is for England only as I have since learnt that Scotland and Wales offer free prescriptions anyway
+
+[Here's where you can purchase one](https://services.nhsbsa.nhs.uk/buy-prescription-prepayment-certificate/start)
+
+url:https://reddit.com/r/YouShouldKnow/comments/sng6qb/
+author:ljgill97
+subreddit:YouShouldKnow
+score:2350
+numComments:127
+isOver18:False
+hasPostBody:True

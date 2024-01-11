@@ -1,0 +1,13 @@
+title:
+LPT: If you’re ‘bad at conversation’ just ask questions. People love to talk about themselves, they think they are extremely unique and interesting, even people you might like to be friends with.
+
+content:
+I’m pretty introverted.  But I’ve decided that people are interesting, so I just ask questions and listen and ask more questions and people generally seem to like that.  And don’t worry, people rarely ask a question about you, so you’re off the hook there.
+
+url:https://reddit.com/r/LifeProTips/comments/mfg7ei/
+author:lockday
+subreddit:LifeProTips
+score:22717
+numComments:638
+isOver18:False
+hasPostBody:True

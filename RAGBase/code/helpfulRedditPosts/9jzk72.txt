@@ -1,0 +1,13 @@
+title:
+YSK the GPS maps on your phone works when flying on an airplane
+
+content:
+Just connect to the plane wifi, sit by the window and place the phone just right to get the gps signal. You should be able to see your location as it zooms very fast on the maps. try to match the map to what you see over the window. it should pass the time nicely.
+
+url:https://reddit.com/r/YouShouldKnow/comments/9jzk72/
+author:okiujh
+subreddit:YouShouldKnow
+score:1404
+numComments:113
+isOver18:False
+hasPostBody:True

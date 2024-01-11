@@ -1,0 +1,13 @@
+title:
+YSK the expiration dates on water bottles are for the bottle, not the water.
+
+content:
+Water doesn't expire, but the bottle does. It doesn't make the water particularly toxic, but may lead to an off flavor or odor.
+
+url:https://reddit.com/r/YouShouldKnow/comments/hdqmb0/
+author:asdfpartyy
+subreddit:YouShouldKnow
+score:1109
+numComments:69
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Need a lawyer, but can't afford one? If you live near a University with a Law School, contact the Law School and see if they have a Legal Clinic.
+
+content:
+A legal clinic provides Law students with an opportunity to practice, practicing law. They are supervised by actual lawyers, and can help you with paperwork and navigating the legal system. The supervising lawyer may be willing to represent you in court, if needed. These law clinics usually operate on a sliding scale fee schedule. If your case is more than the clinic can handle, they may be able to connect you with a lawyer who will represent you and work with you on cost/payment.
+
+url:https://reddit.com/r/LifeProTips/comments/z9lntv/
+author:The_Real_Mrs_Coffee
+subreddit:LifeProTips
+score:3524
+numComments:50
+isOver18:False
+hasPostBody:True

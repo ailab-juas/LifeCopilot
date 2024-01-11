@@ -1,0 +1,33 @@
+title:
+YSK while travelling, the Google Translate app can instantly translate words through your camera, live by simply pointing your camera at something (without having to take a photo). You can also do this OFFLINE by downloading the language-pack.
+
+content:
+Sorry for the crappy title.
+
+Some examples for use:
+
+* Signs
+* Labels on washing machines, electronics etc.
+* Activity/event details on flyers 
+* Supermarket items &amp; pharmaceuticals 
+* Medical forms
+
+This technology is called "Augmented Reality Translation". There's something like over 30 languages supported. 
+
+Tap the camera icon after opening the app and it's pretty self-explanatory from there. Make sure you've set the input/output languages correctly. 
+
+When translating text across two or more lines, take a picture pressing the red button and the app will attempt to identify text/characters which you can highlight with your finger to translate. This actually works better overall but I believe this feature is only available with internet. 
+
+Download your language-pack for offline use (augmented reality only) 
+
+Have fun!
+
+EDIT: This technology was first released back in 2010 by Quest Visual and it was called "Word Lens". Since then I think Google bought it and made it 100% free. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/8lfov1/
+author:dcroc
+subreddit:YouShouldKnow
+score:2805
+numComments:79
+isOver18:False
+hasPostBody:True

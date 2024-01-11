@@ -1,0 +1,13 @@
+title:
+LTP: Place a $1 sealed water jug in your toilet's tank to save about a gallon of water every time you flush
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/pkylx/
+author:3hough
+subreddit:LifeProTips
+score:1279
+numComments:236
+isOver18:False
+hasPostBody:False

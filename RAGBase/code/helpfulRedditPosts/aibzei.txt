@@ -1,0 +1,31 @@
+title:
+YSK That chiropractic spinal manipulation has been found to be causally linked to stroke as well as cervical cord oedema and carotid artery dissections.
+
+content:
+Pre-emptive: I'm not saying "don't see a chiropractor." It's just worth seeing the information and being informed.    
+    
+Formal research tends to be lacking on chiropractic care. However, at least two studies indicate some significant level of risk associated with chiropractic manipulation.    
+    
+[The first study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1905885/) analyzed existing documentation to find that "[s]pinal manipulation, particularly when performed on the upper spine, is frequently associated with [...] adverse effects. It can also result in [...] vertebral artery dissection followed by stroke." The findings continue to state that "[d]issection of the vertebral arteries was the most common problem; other complications included dural tear, oedema, nerve injury, disc herniation, haematoma and bone fracture. The symptoms were frequently life-threatening, though in most cases the patient made a full recovery. In the majority of cases, spinal manipulation was deemed to be the probable cause of the adverse effect." Finally: "Collectively, these data suggest that spinal manipulation is associated with frequent, mild and transient adverse effects as well as with serious complications which can lead to permanent disability or death. Yet causal inferences are, of course, problematic."    
+    
+[The second study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4336806/) weighs two cohorts with each other: Medicare B beneficiaries aged 66-99 seeing *either* chiropractic providers *or* primary care physicians (but not both):    
+"The proportion of subjects with stroke of any type in the **chiropractic cohort** was [0.12%] at 7 days, and [0.51%] at 30 days. In the **primary care cohort**, the proportion of subjects with stroke of any type was [0.14%] at 7 days, and [0.28%] at 30 days. In the chiropractic cohort, the adjusted risk of stroke was significantly lower at 7 days as compared to the primary care cohort [...], but at 30 days, a slight elevation in risk was observed for the chiropractic cohort [...] [ [indicated by this figure](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&amp;p=PMC3&amp;id=4336806_nihms646741f3.jpg) ]."    
+    
+Among the diagnoses confirmed to have prevailed after a chiropractic manipulation were:    
+    
+* Vertebrobasilar Stroke (ICD-10 I63.219)    
+* Vertebral Artery Dissection (ICD-10 I77.74)    
+* Dural Tear (ICD-10 G96.11)    
+* Horner's Syndrome (ICD-10 G90.2)    
+* Haematoma of Ligamentum Flavum at CIII - CIV (ICD-10 N83.7)    
+* Intercranial Hypotension (ICD-10 G97.2)    
+* Retinal Embolism (ICD-10 H34.9)    
+* Cervical Disc Herniation (ICD-10 M50.10)
+
+url:https://reddit.com/r/YouShouldKnow/comments/aibzei/
+author:Gabenism
+subreddit:YouShouldKnow
+score:6157
+numComments:651
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,44 @@
+title:
+LPT: You should know that WhatsApp is changing their privacy policy so that they can harvest more of your personal data. They Will share your harvested personal data with Facebook and whoever they decide to. This change is in effect from February 2021. Signal pm and Telegram are good alternatives.
+
+content:
+[Their privacy policy change](https://www.whatsapp.com/legal/updates/privacy-policy/?lang=en) which will come into effect from **February**, if you don't accept their new policy, you will be prevented from using ***WhatsApp.***
+
+The data they collect to share will include your private messages. They mention that the "sharing" is just between sender and receiver but then they reference this section again to cover themselves from a dispute. ^(Why do you think that is?)
+
+&gt;You share your information **(including messages)**  
+&gt;  
+&gt;\- We access, preserve, and share your information described in the "[Information We Collect"](https://www.whatsapp.com/legal/updates/privacy-policy?eea=0#privacy-policy-updates-information-we-collect)” section of this Privacy Policy above if we have a good-faith belief that it is necessary  
+&gt;  
+&gt;\- and may include other information identified in the [Privacy Policy](https://www.whatsapp.com/legal?eea=0#privacy-policy) section entitled ‘Information We Collect’ ^((Speaking about what they share with Facebook and who they want. Your messages fall under "Information We Collect".))
+****
+This particular part is also concerning about banner advertisements having a chance to one day suddenly *pop up* on the app. Facebook is notorious for ads.
+
+&gt;We still do not allow third-party banner ads on our Services. We have no intention to introduce them, **but if we ever do, we will update this Privacy Policy.**
+****
+**They are going to use your data** to help them make money through you.
+
+&gt;\-helping you complete purchases and transactions, and showing relevant offers and ads across the [Facebook Company Products](https://faq.whatsapp.com/general/security-and-privacy/the-facebook-company-products); ^((Facebook company products refers to things like Oculus Headsets and their other partners whom have their own Privacy Policies))
+****
+They expect you, the consumer to review amendments to this policy change If for some reason they don't notify you, what about all the other times they made minor adjustments since the Facebook acquisition and did not notify you. They know this policy change has lots of critical changes hence why it pops up over WhatsApp when you opened it recently.
+
+&gt;We may amend or update our Privacy Policy. Please review our Privacy Policy from time to time.
+****
+How to [delete your WhatsApp ](https://faq.whatsapp.com/android/account-and-profile/how-to-delete-your-account/)[account ](https://faq.whatsapp.com/android/account-and-profile/how-to-delete-your-account/)[.](https://faq.whatsapp.com/android/account-and-profile/how-to-delete-your-account/)
+****
+This comes as a major inconvenience as backing up messages won't be easy and waiting for friends to shift will take awhile but **what is the cost of Privacy I ask you.** ***They*** ***clearly shouldn't be the ones setting that price.***
+Ever since ***WhatsApp*** stopped requiring annual/monthly subscriptions, we should've been worried.
+
+**Signal Private Messenger** is your best bet as an alternative to ***WhatsApp.***
+
+**Signal Private Messenger** preserves if not enhances your privacy protection. They're also both free to my knowledge. Signal Private Messenger is maintained by donations.
+
+Signal Private Messenger's [Frequently Asked Questions](https://support.signal.org/hc/en-us/sections/360001602832-General-FAQ)
+
+url:https://reddit.com/r/LifeProTips/comments/ksgryq/
+author:SeSSioN117
+subreddit:LifeProTips
+score:20230
+numComments:870
+isOver18:False
+hasPostBody:True

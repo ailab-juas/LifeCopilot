@@ -1,0 +1,15 @@
+title:
+YSK: Low university crime statistics do not mean they have low crime.
+
+content:
+If you are applying to a college or university and look at their reported crime statistics, they typically do not show an accurate value of the crime that actually occurs. This is for two reasons: 1) many crimes, especially ones like sexual assault, go unreported. 2) Sometimes universities try to stop crime from being reported or being classified in a way that will show up in their record. In fact, if your university has a crime statistic of 0 for something like rape, that statistically is impossible, and can mean the university may be purposely obfuscating the truth or impeding the reporting process.
+
+Why YSK: Crime statistics are not very useful in selecting a university. Unless they are so low that it indicates a reporting problem or corruption.
+
+url:https://reddit.com/r/YouShouldKnow/comments/oaipru/
+author:Animedjinn
+subreddit:YouShouldKnow
+score:1113
+numComments:50
+isOver18:False
+hasPostBody:True

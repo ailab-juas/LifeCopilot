@@ -1,0 +1,13 @@
+title:
+LPT: when making a new recipe, don't ask if people like it. Ask them if they would eat it again and what would they change. You'll get better feedback and people won't feel like they have to lie to spare your feelings if it's bad.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/bdevsv/
+author:1900grs
+subreddit:LifeProTips
+score:10602
+numComments:165
+isOver18:False
+hasPostBody:False

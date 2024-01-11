@@ -1,0 +1,13 @@
+title:
+LPT: Tired of feeling the heat through your oven mitts, or not being able to grab things from the oven in a stable way? Your local hardware store has a range of welding gloves that have higher heat resistance, better dexterity, and often offer them for comparable or lower prices.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/iywbf5/
+author:anti--seed
+subreddit:LifeProTips
+score:19126
+numComments:384
+isOver18:False
+hasPostBody:False

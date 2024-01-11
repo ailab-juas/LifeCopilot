@@ -1,0 +1,43 @@
+title:
+YSK how to react if you get an e-mail from yourself saying your account has been hacked
+
+content:
+So two days ago I got this e-mail from seemingly my own account and it had one of the actual passwords I use. https://i.imgur.com/Cs1adou.png
+
+I majorly freaked out, but started having my doubts when i realized that by the date that the e-mail said I already had my webcam covered and had had a different e-mail password for years. I asked a few people and someone found an article about it and here's the gist of it; to understand this (admittedly well done) scam you need to know two things:
+
+1.- How is it that it looks like I sent it myself?
+
+"From: spoofing" is hard to explain but essentially it means that, if you know what you're doing, you can make the receiver of your email think that it was sent from a different address, even their own.
+
+2.- How did they get my password?
+
+There are basically two options;
+
+- You got caught in some kind of phishing and accidentally gave you password away to someone with malicious intent.
+
+- One or more of the websites you use was hacked and your e-mail address and password you use for that site got posted somewhere on the internet for all to see.
+
+Now, how do you fix it?
+
+First we need to be sure that it actually wasn't sent from your account, so go to your "sent" folder and check whether or not you actually sent it; If not, then go to the next step. ~~If it WAS sent from your account, get help from someone that knows more about this than me because it means your e-mail account has indeed been broken into and that's a WAAAAY bigger problem.~~ Edit: I'm not completely sure how legit this is but according to this article https://www.tomsguide.com/us/spam-gmail-sent-folder,news-27042.html it's possible for spam to actually appear in your "sent" folder. I'd still be cautious though.
+
+Now, about the password:
+
+There's basically NOTHING you can do about it except changing your password, but don't just change it to another easy one, so listen: there's this program I just found out about called KeePass, it's free and open source, which means it's not a "trade your privacy in return of it being free", but a project people contribute to to help others out. The program lets you store your passwords in an encrypted file that's only accessible by a master password. Having this program, there's no excuse to have an "easy to remember" password to use everywhere. It generates random passwords for you to use and you can just store them in your file.
+
+To create a very secure master password, ~~this xkcd is pretty useful https://www.xkcd.com/936/~~ (Edit: yeah, after quite a lot of people commented about it, I realize that the xkcd doesn't really show the full picture. There are more things that go into it. This article is much more useful: https://crambler.com/password-security-why-secure-passwords-need-length-over-complexity/ ) but I'd also recommend to NEVER. GIVE. YOUR. MASTER. PASSWORD. AWAY. don't make ANY accounts with it, no matter how much you trust the site. And for the love of god, when creating a password file READ THE INSTRUCTIONS CAREFULLY. Frequently Back up the password file to a secure cloud server like google drive and, if you can, print the file that it gives you so you can recover your passwords if somehow the whole file gets lost or you forget the master password.
+
+I really hope I helped someone to not have such a bad time as me if an e-mail like this reaches you. If I made a dangerous mistake in anything that I said here, feel free to correct me and I'll edit it.
+
+Edit: someone pointed out something that I wanted to add but forgot. If you want to know if a password associated to your email address has been leaked, check out https://haveibeenpwned.com
+
+Edit: this one's kinda common sense but yes, if you can get 2-factor authentication, do it. Not all sited have the option but this way, even if your password gets leaked, no one can get into your account without your phone.
+
+url:https://reddit.com/r/YouShouldKnow/comments/9z7tk3/
+author:nddragoon
+subreddit:YouShouldKnow
+score:2892
+numComments:182
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,19 @@
+title:
+YSK: If you're a Google Keyboard user, swiping left or right across the space bar moves the cursor.
+
+content:
+This is super handy for those of you who have a bit of trouble getting the cursor precisely where it needs to be before you start typing, removing, pasting, etc.
+
+*Edit: Apparently this and the swipe backspace to delete also describes some rogue cursor/deletion behavior some have been experiencing. This can be disabled in Long press comma -&gt; Google Keyboard settings (gear icon) -&gt; Gesture typing -&gt; Enable gesture delete/cursor control.*
+
+*Edit 2: Make sure you're using Google Keyboard out of the app store and not the stock AOSP keyboard. Especially for those of you using Cyanogen or other custom roms.*
+
+Cheers.
+
+url:https://reddit.com/r/YouShouldKnow/comments/4tl8oz/
+author:wtmh
+subreddit:YouShouldKnow
+score:3254
+numComments:215
+isOver18:False
+hasPostBody:True

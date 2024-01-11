@@ -1,0 +1,13 @@
+title:
+YSK about simple.wikipedia.org. It's the same thing as Wikipedia, but in plain English. It's much easier to read and understand if you're not already familiar with the topic.
+
+content:
+http://simple.wikipedia.org/wiki/Main_Page
+
+url:https://reddit.com/r/YouShouldKnow/comments/1scqcf/
+author:FreezingIce
+subreddit:YouShouldKnow
+score:1016
+numComments:53
+isOver18:False
+hasPostBody:True

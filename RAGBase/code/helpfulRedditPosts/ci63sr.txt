@@ -1,0 +1,13 @@
+title:
+LPT: If you’re taking something to a group party (bowls, serving dishes, folding chairs, etc) stick an address label to the bottom of it. If you forget to take it home, the host will have a much easier time determining who it belongs too.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ci63sr/
+author:MissMaryEli
+subreddit:LifeProTips
+score:4384
+numComments:116
+isOver18:False
+hasPostBody:False

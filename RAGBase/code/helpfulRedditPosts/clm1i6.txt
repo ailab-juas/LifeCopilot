@@ -1,0 +1,15 @@
+title:
+YSK that Chase Bank is now storing your voice for security verification, but you can opt out!
+
+content:
+https://www.chase.com/personal/voice-biometrics
+
+Chase has a new Voice ID program. Anytime you call Customer Service, they record and store your voice for security identification. If you (like me) are uncomfortable with Chase indefinitely storing your biometric data, all you have to do is call Chase Customer Service at 800-935-9935 and ask to Opt Out. Took me 2 minutes.
+
+url:https://reddit.com/r/YouShouldKnow/comments/clm1i6/
+author:benjidigs
+subreddit:YouShouldKnow
+score:2836
+numComments:98
+isOver18:False
+hasPostBody:True

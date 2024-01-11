@@ -1,0 +1,13 @@
+title:
+YSK Just because it doesn’t feel hot out doesn’t mean it is safe to leave your dog in the car
+
+content:
+As we transition to spring a car can gain 20 degrees in just 10 minutes
+
+url:https://reddit.com/r/YouShouldKnow/comments/g53mkc/
+author:hockeyh2opolo
+subreddit:YouShouldKnow
+score:9470
+numComments:162
+isOver18:False
+hasPostBody:True

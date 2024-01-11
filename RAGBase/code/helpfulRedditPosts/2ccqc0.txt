@@ -1,0 +1,13 @@
+title:
+LPT: Unsure if something, eg an apartment, is a scam? Use reverse image search on Google.
+
+content:
+If the landlord gives you pictures, go to images.google.com. Click the camera icon in the far right of the search bar and search the images. I just found someone trying to scam me this way.
+
+url:https://reddit.com/r/LifeProTips/comments/2ccqc0/
+author:ascharles1
+subreddit:LifeProTips
+score:1548
+numComments:130
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: If you're talking to someone and they tell you something they have already told you before, instead of saying "I know, you told me" say "oh yes, I remember you saying..." It reminds them that the conversation has been had before but you valued what they said.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/jio4al/
+author:upstroke_donut
+subreddit:LifeProTips
+score:7759
+numComments:113
+isOver18:False
+hasPostBody:False

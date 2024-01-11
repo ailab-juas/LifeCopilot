@@ -1,0 +1,13 @@
+title:
+LPT: When planning to prepare a recipe, read it all the way through in advance. There are few things as frustrating as getting halfway through cooking only to see "refrigerate overnight"
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/vasphc/
+author:TheKingOfDub
+subreddit:LifeProTips
+score:7857
+numComments:188
+isOver18:False
+hasPostBody:False

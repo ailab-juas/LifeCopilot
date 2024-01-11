@@ -1,0 +1,13 @@
+title:
+LPT: Find a way to keep your phone number in your wallet. If you lose it, whoever finds it will have an easier time contacting you.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/184ty9/
+author:MrPlen
+subreddit:LifeProTips
+score:1260
+numComments:207
+isOver18:False
+hasPostBody:False

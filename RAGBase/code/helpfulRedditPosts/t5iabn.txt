@@ -1,0 +1,13 @@
+title:
+YSK: You may qualify for $30-$75 off your internet bill through the Affordable Connectivity Program
+
+content:
+Why YSK: With all the work from home, remote learning, and 'escape from the reality that is the last 2 years by binge watching your favorite show on repeat' that we are doing, home internet is more important than ever. The Affordable Connectivity Program is a federal (U.S) program that provides a discount of up to $30 per month toward internet service for eligible households and up to $75 per month for households on qualifying Tribal lands. Even if you don't qualify, think about your parents, your neighbors, and your friends that may benefit from this. A $30 credit is enough to cover the entire cost of internet service through some ISP's assistance programs (such as Internet Essentials from Comcast) but the credit can apply to any service level. Check your service provider's website or [https://acpbenefit.org/](https://acpbenefit.org/) to see if you qualify and for how to apply.
+
+url:https://reddit.com/r/YouShouldKnow/comments/t5iabn/
+author:archos1gnis
+subreddit:YouShouldKnow
+score:2943
+numComments:137
+isOver18:False
+hasPostBody:True

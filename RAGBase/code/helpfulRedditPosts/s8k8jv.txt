@@ -1,0 +1,27 @@
+title:
+YSK If you are trying to copy text from a phone app that doesn't support the copy function, take a screenshot and then you can do it from your photos
+
+content:
+Why YSK? Because it's easier than retyping it.
+
+it's so annoying when you see a group of text in an app that you want to copy and paste to share somewhere else or put in your notes. You go to hold your finger on the text and it doesn't support the copy function!
+
+To get around this, You can take a screen shot and then do this from your photos app now. On iphone, you can open any photo with text,  hold your finger on the text within the photo and it willl let you highlight + copy it.
+
+
+
+*edit* *it works with iOS15. Other devices im not 100% sure about. And be careful with confidential information. And use Google lens on android (according to the comments, it works!)*
+
+*There's other solutions on other devices.. Google lens for example, as commenters here have pointed out.*
+
+
+
+&gt;BONUS TIP: If you have a piece of paper or sign and need to copy text from it, take a picture of it and do the same thing to copy and paste text easier/faster  than to type  it from scratch.
+
+url:https://reddit.com/r/YouShouldKnow/comments/s8k8jv/
+author:SlutForTurtles
+subreddit:YouShouldKnow
+score:4472
+numComments:208
+isOver18:False
+hasPostBody:True

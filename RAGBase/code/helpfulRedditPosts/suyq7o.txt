@@ -1,0 +1,13 @@
+title:
+LPT: When in doubt, the less information you share at work and with colleagues and management, the better. You never know what could happen, from reorgs to opportunities. And business relationships are conditional.
+
+content:
+You don't have to be a robot, but it's useful to think twice before getting overly personal at work. Additionally, as much as your business may tout sharing with your manager, remember that your one-on-ones are definitely not therapy sessions, and you have no obligation to share details beyond the scope of your work, from what you're doing on the weekend to how you're feeling.
+
+url:https://reddit.com/r/LifeProTips/comments/suyq7o/
+author:mowway
+subreddit:LifeProTips
+score:3884
+numComments:142
+isOver18:False
+hasPostBody:True

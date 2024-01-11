@@ -1,0 +1,13 @@
+title:
+LPT: If you get a new book for notes, leave the first page blank. When you finish using the book, you can number all the pages and use the first page as guide of what notes are where.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/hq0g4h/
+author:samh10
+subreddit:LifeProTips
+score:1678
+numComments:42
+isOver18:False
+hasPostBody:False

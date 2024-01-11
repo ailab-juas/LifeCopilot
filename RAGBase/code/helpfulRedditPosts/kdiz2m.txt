@@ -1,0 +1,15 @@
+title:
+LPT: If you have a DSLR camera, take note of the serial number in case it is stolen. Many cameras include the serial number in the metadata of the photos it takes. Tools exist to trace any photos taken with your camera once they are posted online.
+
+content:
+One such service is [CameraTrace](http://www.cameratrace.com/trace). Under their FAQ is a partial list of supported camera models. Currently they support tracing on about 5 popular photo hosting sites including twitter. 
+
+Other similar services probably exist or are likely to in the future. As well as the expansion of the range of sites they can search from.
+
+url:https://reddit.com/r/LifeProTips/comments/kdiz2m/
+author:free-dadjokes
+subreddit:LifeProTips
+score:28682
+numComments:305
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,27 @@
+title:
+LPT: You can turn Youtube videos into .gifs just by adding 'gif' to the beginning of the URL.
+
+content:
+ Add *'gif'* before *'youtube.com/[...]'* and after *'www.'*;  
+
+Example:
+ &gt;www .**gif**youtube.com/watch?v=dQw4w9WgXcQ   
+
+This will bring you to a editor, there you can edit the length of your gif among other things. Then click 'create gif'. After that, rightclick the resulting image and click 'GIF LINK' (this will copy your new cool gif to the clipboard).   
+  
+[Result](http://share.gifyoutube.com/Kdj3RQ.gif)     
+
+Have fun!   
+  
+  
+***Disclaimer***: This isn't an official feature from Youtube.    
+gifyoutube.com is a separate domain from youtube, so have that in mind when entering it.  
+Thank you for the comments and gold, by the way!
+
+url:https://reddit.com/r/LifeProTips/comments/37h7sy/
+author:laikamonkey
+subreddit:LifeProTips
+score:5827
+numComments:744
+isOver18:False
+hasPostBody:True

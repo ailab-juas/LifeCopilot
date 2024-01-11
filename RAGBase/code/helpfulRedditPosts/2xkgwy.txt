@@ -1,0 +1,13 @@
+title:
+LPT: Every Friday at work, write down what you did that week. That way when you need to discuss your contributions / update your resume / ask for a promotion, you won't leave anything out.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/2xkgwy/
+author:quentin-coldwater
+subreddit:LifeProTips
+score:2746
+numComments:203
+isOver18:False
+hasPostBody:False

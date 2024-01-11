@@ -1,0 +1,13 @@
+title:
+LPT: If you enjoyed watching very old and unpopular Youtube video - thank the channel owner for keeping it all these years. This way you will motivate them to keep this video intact, they will see that it's not all for nothing.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/qp9wzr/
+author:roboq6
+subreddit:LifeProTips
+score:1050
+numComments:26
+isOver18:False
+hasPostBody:False

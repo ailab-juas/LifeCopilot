@@ -1,0 +1,13 @@
+title:
+LPT: when training someone new, do not assume they know things. Go over everything unless they tell you specifically that they already know it.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/6h6hjp/
+author:eldridge2e
+subreddit:LifeProTips
+score:37405
+numComments:1442
+isOver18:False
+hasPostBody:False

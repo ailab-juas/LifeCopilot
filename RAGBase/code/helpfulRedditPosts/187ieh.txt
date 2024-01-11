@@ -1,0 +1,15 @@
+title:
+LPT: If you receive a spam text message, forward it to 7726 (SPAM). Your carrier (all of them) will reply asking for the number it came from. This helps them put a stop to unsolicited ads for their customers.
+
+content:
+I learned this while I was working for Verizon Wireless, but all of the carriers have a similar service on their networks. Believe it or not, the carriers don't want their customers getting unsolicited ads as it reflects poorly on their service. 
+
+Also, if the message appears to be coming from an email address, you can send that in reply, too. 
+
+url:https://reddit.com/r/LifeProTips/comments/187ieh/
+author:ikonoclasm
+subreddit:LifeProTips
+score:3589
+numComments:341
+isOver18:False
+hasPostBody:True

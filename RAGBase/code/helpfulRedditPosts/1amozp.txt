@@ -1,0 +1,14 @@
+title:
+Call a store in a different time zone to get a question answered if your local store is already closed.
+
+content:
+May be obvious to some, but today I had a question about the presta valves on my bicycle but all the local bicycle stores were closed. I ended up calling a store two time zones over and got my question answered. I was proud of myself.
+
+
+url:https://reddit.com/r/LifeProTips/comments/1amozp/
+author:PersianBob
+subreddit:LifeProTips
+score:1865
+numComments:253
+isOver18:False
+hasPostBody:True

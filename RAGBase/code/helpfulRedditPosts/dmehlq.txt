@@ -1,0 +1,13 @@
+title:
+LPT: The loud ads at the gas pump can usually be muted by pressing one of the unlabeled buttons next to the screen.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/dmehlq/
+author:DrAuer
+subreddit:LifeProTips
+score:27434
+numComments:2250
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+YSK: that your Uber drivers rate you as a passenger based on your behaviour during the trips. It is located in your profile and the best is 5-star.
+
+content:
+Why YSK: This rating will determine the likelihood of you getting picked up during busy times and when getting long rides. Be nice to your drivers and don't be the drunk asshole!
+
+url:https://reddit.com/r/YouShouldKnow/comments/r2uq62/
+author:pubchikntendrsub
+subreddit:YouShouldKnow
+score:18427
+numComments:1089
+isOver18:False
+hasPostBody:True

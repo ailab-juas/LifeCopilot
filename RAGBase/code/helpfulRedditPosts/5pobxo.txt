@@ -1,0 +1,19 @@
+title:
+LPT: If your roommate's wakeup alarm is going off after they've already left the room (i.e. they're in the shower), call their phone and hang up to turn it off.
+
+content:
+Edit: This is in reference to an alarm on your roommate's PHONE. No, calling a phone will not turn off your alarm clock. (Thanks to the many, many people who pointed this out). 
+
+I mentioned this in a long-buried comment, but I've only used this with my roommate's iPhone on iOS 10. Some people say this doesn't work on other phones, so please go ahead and try it out, I hope it helps you! 
+
+Also, this is for either extremely lazy people, like myself (I am someone who uses chrome Remote Desktop for my computer 6 feet away and I have both my TV and LED light strip remotes command-strip velcroed to the wall next to my bed), or for anyone whose roommate has left their phone in a private/locked room. 
+
+Interestingly, some people have suggested flipping the electric breaker on and off real quick to reset any alarm CLOCKS left on in locked rooms while the owners are away. (As always, the real LPT is in the comments!)
+
+url:https://reddit.com/r/LifeProTips/comments/5pobxo/
+author:adamdj96
+subreddit:LifeProTips
+score:17616
+numComments:793
+isOver18:False
+hasPostBody:True

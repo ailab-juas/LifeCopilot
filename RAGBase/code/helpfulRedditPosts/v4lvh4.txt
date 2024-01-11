@@ -1,0 +1,13 @@
+title:
+LPT: If you ever get an unsolicited text from a number you don't know and the text has a link in it, never click on it it's 100% always a scam.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/v4lvh4/
+author:Stupidceilingfan1
+subreddit:LifeProTips
+score:32096
+numComments:828
+isOver18:False
+hasPostBody:False

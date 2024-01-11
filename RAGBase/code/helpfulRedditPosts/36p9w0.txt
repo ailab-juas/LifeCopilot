@@ -1,0 +1,13 @@
+title:
+LPT: Open packs of zip ties from the middle, rather than the end, to keep them all in the pack.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/36p9w0/
+author:im_a_pop_sensation
+subreddit:LifeProTips
+score:4884
+numComments:636
+isOver18:False
+hasPostBody:False

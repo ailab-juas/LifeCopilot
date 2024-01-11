@@ -1,0 +1,19 @@
+title:
+YSK :If you find a locked iPhone, and Siri is still enabled
+
+content:
+ask "who do you belong to?"
+
+ It will give you the Info and you can return it back
+
+also you can say Call a Family member
+
+**X-POST /r/TechnologyProTips**
+
+url:https://reddit.com/r/YouShouldKnow/comments/35laht/
+author:CaptainOnBoard
+subreddit:YouShouldKnow
+score:2470
+numComments:285
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,23 @@
+title:
+YSK that, in the US, your income is taxed based on Tax Brackets - meaning not all of your income is taxed at the same rate.
+
+content:
+YSK that, in the US, your income is taxed based on Tax Brackets - meaning not all of your income is taxed at the same rate.
+
+This is a hot topic right now, but [here](https://youtu.be/VJhsjUPDulw) is a great visualization of how Bracketed Taxes works. 
+
+Edit: These brackets are for all income, not just higher income. For example, the first bracket currently is from $0 - $9,875 and is at 10%. They increase from there. So all income is taxed using brackets. And EVERY person is taxed the same 10% on their first up to $9,875 of income. This also applies to your ~~adjusted income~~ taxable income, so after deductions. There are many who, after deductions, fall below or at $0 which would make them tax free. It's not a flat rate of income though because there are so many deductions that many different taxable incomes can qualify. 
+
+Edit: it's been pointed out that the other or technical term for this is marginal tax rate. I believe the terms are interchangeable but there are much more qualified individuals that have clarified in the comments section so I'll let them take the credit!
+
+For example: if you make $410,000 a year and you hear that taxes will be more for those making $400,000 it really means that taxes will be more on *income* over $400,000. The only portion you pay that higher tax rate on would be the last $10,000 - not all $410,000. This is how it works for all brackets.
+
+Why YSK: it's important to understand how Bracketed Taxes work as some people will use a higher tax rate to spread fear. This may freaks someone out that makes just a bit more than the bracket that is being increased. While some think they will now pay a higher rate on all their income, they will actually only pay a higher rate on the income in that tax bracket.
+
+url:https://reddit.com/r/YouShouldKnow/comments/jf0nma/
+author:SulkyVirus
+subreddit:YouShouldKnow
+score:43640
+numComments:2490
+isOver18:False
+hasPostBody:True

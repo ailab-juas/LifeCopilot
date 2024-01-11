@@ -1,0 +1,25 @@
+title:
+YSK: if you’re sitting in your car and running it to warm up, make sure your tail pipe is clear of snow
+
+content:
+Why YSK: If you run your car while the tailpipe is covered in snow, carbon monoxide can back up into your car and you can die, similar to running it in a garage. This was hounded into me from a young age growing up where we get a lot of snow every year, but it occurred to me that it may not be common knowledge in Texas. Stay safe out there, everyone!
+
+Edit: I’m getting a shocking amount of angry people in the comments claiming that this isn’t true. It’s a real thing that’s on the news every single winter where I live. Here are some news stories: 
+
+https://www.wbur.org/cognoscenti/2013/02/15/carbon-monoxide-darshak-sanghavi
+
+https://www.google.com/amp/s/www.cbc.ca/amp/1.4966337
+
+https://www.nbcwashington.com/news/local/carbon-monoxide-poisoning/71433/
+
+https://people.com/celebrity/mom-infant-son-killed-by-carbon-monoxide-from-snow-stuck-in-tailpipe/
+
+This is the result of a 5 minute google. I’m not sure why some people are so angry with me over this, but I’m just trying to be helpful and spread awareness. Stay warm out there everyone!
+
+url:https://reddit.com/r/YouShouldKnow/comments/lltbpa/
+author:HeresW0nderwall
+subreddit:YouShouldKnow
+score:2896
+numComments:168
+isOver18:False
+hasPostBody:True

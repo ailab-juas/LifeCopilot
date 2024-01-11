@@ -1,0 +1,13 @@
+title:
+LPT: Since it's the beginning of the year, start a memory jar. When you have a fun memory, write it down with the date and put it in the jar. At the end of the year, go through it and see all the positives that happened in your year.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/rtx13r/
+author:eren_yeagermeister
+subreddit:LifeProTips
+score:7623
+numComments:126
+isOver18:False
+hasPostBody:False

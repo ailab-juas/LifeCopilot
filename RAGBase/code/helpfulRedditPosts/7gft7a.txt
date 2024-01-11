@@ -1,0 +1,15 @@
+title:
+LPT: Take pictures of all sides of your car, as well as the odometer, before handing over the keys to your mechanic. If they damage anything, you'll have proof it was their fault.
+
+content:
+"That dent was already there!"
+
+"No, it wasn't. See pic of me, my car, and your shop? Note the timestamp? No dent."
+
+url:https://reddit.com/r/LifeProTips/comments/7gft7a/
+author:Warlizard
+subreddit:LifeProTips
+score:1080
+numComments:67
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: If something in your oven catches on fire, DO NOT OPEN THE DOOR!
+
+content:
+Feeding flames with a rush of oxygen is the absolute last thing you want to do in this situation.  Instead, leave the door closed, turn off the oven, and watch for the fire to smother itself as the oxygen inside the oven depletes.  If the flames get worse or refuse to go out, leave the house and call the fire department.  Better to ruin your stove top than burn your entire home down.
+
+url:https://reddit.com/r/LifeProTips/comments/ewitzi/
+author:Ser_Laughing_Tree
+subreddit:LifeProTips
+score:31991
+numComments:1434
+isOver18:False
+hasPostBody:True

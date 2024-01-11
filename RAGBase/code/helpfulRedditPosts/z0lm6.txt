@@ -1,0 +1,17 @@
+title:
+LPT: Ctrl + Shift + V pastes as plain unformatted text in most applications and systems. (Cmd Shift V on Mac)
+
+content:
+Tired of pasting content into an email or rich text document (such as gmail) only to find that your font style and size are all different? Hold down shift in addition to the standard Ctrl V and the text will be pasted in whichever font style is already present.
+
+Since learning this I find myself using it all the time.
+
+EDIT: Seems to work best in web browsers. MS Office with mixed results - try Ctrl Alt V.  Mac OS X, try Cmd Opt Shift V or Cmd Opt V
+
+url:https://reddit.com/r/LifeProTips/comments/z0lm6/
+author:rbmichael
+subreddit:LifeProTips
+score:3297
+numComments:276
+isOver18:False
+hasPostBody:True

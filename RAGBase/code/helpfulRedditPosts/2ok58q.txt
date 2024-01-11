@@ -1,0 +1,13 @@
+title:
+LPT: Save Powerpoint presentations with .pps/.ppsx extension instead of .ppt/.pptx to open the presentation directly as a slide show.
+
+content:
+Save Powerpoint presentations with .pps/.ppsx extension instead of .ppt/.pptx to open the presentation directly as a slide show.
+
+url:https://reddit.com/r/LifeProTips/comments/2ok58q/
+author:indijska
+subreddit:LifeProTips
+score:3378
+numComments:180
+isOver18:False
+hasPostBody:True

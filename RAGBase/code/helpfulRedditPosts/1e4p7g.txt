@@ -1,0 +1,25 @@
+title:
+YSK How deletion works on a computer (and why you've probably never really deleted anything)
+
+content:
+So, in light of the news that Snapchat content can still be pulled from your phone even when it's deleted (duh), I thought this would be a useful PSA. I'm not a computer expert but I believe I have the basic idea; any experts can come in and comment further if they want.
+
+OK, so any file you have on your computer is assigned some space on the hard drive. When you delete that file using the recycle bin, all you're doing is telling the computer: "OK, you can use that space for something else now if you'd like." But the computer isn't actually going to *do* that until you have new files that it decides to put there. In short, nothing is ever really "deleted", it just gets eventually overwritten with something new. So if there's nothing new, the old file is still there.
+
+So, imagine you got some pics or messages on snapchat, and then they were "deleted." Those ones and zeros are still on your phone, and while YOU may not be able to see them by default (because that's how the OS is designed to work) people with file recovery software almost definitely can see them if they get access to your phone.
+
+So if you want to actually delete something, what you need to do is (a) tell the computer it can use that space on the HDD and then (b) tell the computer to use that space on the HDD for something else so it gets overwritten. There are lots of programs to do this, and even built in tools in your OS (at least for the desktop OSes, I don't know about smartphones). [Here's a wikihow article that'll give you some places to start](http://www.wikihow.com/Delete-Files-Forever). These programs overwrite the file you want to delete with random 1s and 0s, and tell the computer that space is still free.
+
+EDIT: NOPE ~~Now, the bad news is that if you want to be really secure, overwriting it once isn't enough. It's sort of like writing on a piece of paper; if you write new text over your old text people can still kind of read the old text if they try hard enough. Similarly, some software can still read parts or all of old files even if they've been overwritten once or twice, so if you really need to be secure, you should use software that can overwrite the file a few times (I believe the DoD standard is 7). This makes deleting files take a *lot* longer, but it also means that when they're gone they're actually gone.~~
+
+There are even programs that will help you do this with ALL your empty HDD space at once (or just use the erase free space option in Mac's disk util with the right settings). It takes forever, but when you're finished, all those files have been overwritten with random 1s and 0s, so there's very little chance of them being recovered.
+
+(And of course, if you really need to make sure some files on a hard drive aren't seen, the best option is to destroy that hard drive thoroughly. But that may be overkill if you just want to make sure your nude selfies stay deleted)
+
+url:https://reddit.com/r/YouShouldKnow/comments/1e4p7g/
+author:shakawhenthewallsfel
+subreddit:YouShouldKnow
+score:1331
+numComments:203
+isOver18:False
+hasPostBody:True

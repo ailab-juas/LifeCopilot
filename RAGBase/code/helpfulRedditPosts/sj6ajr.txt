@@ -1,0 +1,21 @@
+title:
+YSK that buying a used car from a rental car company or a shady dealership could likely have a GPS tracker installed
+
+content:
+Why YSK:
+
+I work at one of the biggest National used car dealerships in the US as a mechanic refurbishing used cars. Often enough I receive work orders to remove aftermarket GPS trackers and those vehicles disproportionately have been bought from rental car companies or local independent dealerships.
+
+The GPS trackers only require a switched 12V source for power and use an internal battery for when the vehicle is turned off.
+
+Most common locations, in my experience, are under the driverside dash around the steering column or OBD connector and behind the driverside kick panel, where you usually rest your left foot, it is also common to be installed in the engine bay in vicinity of the battery.
+
+Edit: I should mention that most of these GPS trackers are probably deactivated and no longer actively tracking the vehicles location, regardless, I feel like you all should know that it could be installed and should be removed if it is.
+
+url:https://reddit.com/r/YouShouldKnow/comments/sj6ajr/
+author:HarbingerX111
+subreddit:YouShouldKnow
+score:5095
+numComments:217
+isOver18:False
+hasPostBody:True

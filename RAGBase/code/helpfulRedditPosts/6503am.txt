@@ -1,0 +1,13 @@
+title:
+LPT: If you are the type of person who struggles to get up in the morning, take a full glass of water with you to bed and drink it as soon as your alarm goes off.
+
+content:
+Dehydration from a nights sleep often makes you groggy and less likely to be willing to get out of bed. The boost of water is enough to get you over that hump.
+
+url:https://reddit.com/r/LifeProTips/comments/6503am/
+author:N0Catharsis
+subreddit:LifeProTips
+score:13616
+numComments:1015
+isOver18:False
+hasPostBody:True

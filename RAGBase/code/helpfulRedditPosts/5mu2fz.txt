@@ -1,0 +1,13 @@
+title:
+YSK how many calories per day you can eat without gaining weight
+
+content:
+Since weight gain and loss is fundamentally about calories in (calories you eat) and calories out (your Basal Metabolic Rate + exercise), you should know what your calorie budget is. [Plug your stats in here](https://tdeecalculator.net/)
+
+url:https://reddit.com/r/YouShouldKnow/comments/5mu2fz/
+author:dildo-schwaggins
+subreddit:YouShouldKnow
+score:5289
+numComments:805
+isOver18:False
+hasPostBody:True

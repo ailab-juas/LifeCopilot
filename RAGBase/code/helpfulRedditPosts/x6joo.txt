@@ -1,0 +1,13 @@
+title:
+Thank You for whoever came up with the brilliant idea to use old toilet paper rolls for cable management!
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/x6joo/
+author:MattHolland
+subreddit:LifeProTips
+score:1466
+numComments:135
+isOver18:False
+hasPostBody:False

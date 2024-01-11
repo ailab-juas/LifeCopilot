@@ -1,0 +1,13 @@
+title:
+LPT: If an American website​ asks you for a valid U.S. Zip code. Just type in 90210 you know it will work.
+
+content:
+Im Canadian and every time a website asks me for a zip code I just type in 90210. I've been doing this for a long time cause its the only valid American zip code I know by heart.
+
+url:https://reddit.com/r/LifeProTips/comments/61i0me/
+author:piratespoison
+subreddit:LifeProTips
+score:1936
+numComments:231
+isOver18:False
+hasPostBody:True

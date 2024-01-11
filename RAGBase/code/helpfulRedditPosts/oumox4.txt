@@ -1,0 +1,13 @@
+title:
+YSK: Personal/Fitness Trainers are not required to be Licensed
+
+content:
+Unlike barbers and massage therapists, fitness/personal trainers are not required to get a state license to practice. What most trainers do is get a "Certification", which is just a textbook/test. Why YSK: Working with a trainer that is uneducated is dangerous and does more harm and good. Just because someone is "Certified" means they were able to study and pass a test. Even if the certification is accredited, that just means that an accrediting agency (for profit) makes sure the tests are legitimate (for example: that they are proctored, that the company doesn't lie about the cost, etc), not so much that the CONTENT is legitimate. Also, personal training is expensive. To pay someone so much money per hour that may not be qualified or educated seems silly. Make sure that you find a trainer that went to a hands-on program for personal training, one that is accredited as an education establishment (diploma), not just a "certification". Or at least someone who did an apprenticeship/has hands-on experience.
+
+url:https://reddit.com/r/YouShouldKnow/comments/oumox4/
+author:Olive1234569
+subreddit:YouShouldKnow
+score:4414
+numComments:172
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+YSK: there’s an organization that will help you out if you’re having a bad psychedelic experience. The website is: https://firesideproject.org
+
+content:
+Why YSK: there is a non profit that offers support lines via text and call to help with anyone having a bad psychedelic experience. This is incredibly helpful for someone going through a tough time while using psychedelic substances.
+
+url:https://reddit.com/r/YouShouldKnow/comments/wv6amr/
+author:chazman1234
+subreddit:YouShouldKnow
+score:14475
+numComments:576
+isOver18:False
+hasPostBody:True

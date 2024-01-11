@@ -1,0 +1,13 @@
+title:
+LPT: If someone didn't hear you and asks you to repeat what you said, say the exact same words, don't rephrase.
+
+content:
+I'm about 80% deaf in my left ear and 40% in my right with persistent tinnitus. I often have to ask people to repeat what they said. If you repeat exactly what you said the first time, I can build a pattern of what was said which helps me understand for the future. If you completely change what you said the second time around, it's totally confusing as to what I heard the first time. 
+
+url:https://reddit.com/r/LifeProTips/comments/60aw5o/
+author:a_calder
+subreddit:LifeProTips
+score:1854
+numComments:163
+isOver18:False
+hasPostBody:True

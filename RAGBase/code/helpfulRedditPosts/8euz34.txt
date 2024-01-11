@@ -1,0 +1,13 @@
+title:
+LPT: With new privacy regulations coming soon and most companies updating their Terms of Service (ToS), you should know about https://tosdr.org/ "Terms of service; didn't read"--a website providing a short version of many terms of service.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/8euz34/
+author:daou0782
+subreddit:LifeProTips
+score:26244
+numComments:313
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: If you're in a job interview and you're offered a glass of water, always accept. If you're asked a tough question, you can take a sip and get yourself some extra seconds to think of a response
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/9ziq3o/
+author:StillNoNumb
+subreddit:LifeProTips
+score:35199
+numComments:833
+isOver18:False
+hasPostBody:False

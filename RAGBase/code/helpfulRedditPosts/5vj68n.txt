@@ -1,0 +1,13 @@
+title:
+LPT: If you need money out of a gas station/convenience store/7-11 ATM, ask if the store does cash back first. If they do then buy something cheap like a pack of gum and get cash back. This is less expensive than most ATM fees.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5vj68n/
+author:moralanarchy
+subreddit:LifeProTips
+score:9302
+numComments:880
+isOver18:False
+hasPostBody:False

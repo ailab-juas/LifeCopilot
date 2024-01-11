@@ -1,0 +1,21 @@
+title:
+YSK how to use maps and GPS for free on your smartphone, even abroad
+
+content:
+1. Download any app that allows downloading of offline maps. I personally use [this one](http://maps.me/en/home) since it's free and works great. I bet there are other apps that works just as good. Edit: As /u/Intylerable pointed out, it is possible to download maps in Google Maps!
+
+2. Obviously downloading maps use data, so this costs money, unless you use WiFi. You need to download the map of the region that you're going to use beforehand. This lets you use it for free later. So if you're traveling to Berlin, remember to download the map for Berlin on a WiFi network before you need to use it.  
+
+3. I like to completely turn off mobile data when abroad so that I won't get any unexpected surprises. In any case, at least turn off data roaming.  
+
+That's it. To test this, download a map of the region you're currently in. Turn off everything that is related to data (wifi and mobile data). Open the app and see for yourself. You will get the map, and position of your current location, and POIs. You can even search for an address and get the route like you would in a normal GPS system.  
+
+This may not be the first time this is posted here, but if at least one person reads this for the first time and finds it useful, I will be happy.
+
+url:https://reddit.com/r/YouShouldKnow/comments/5jl70s/
+author:kevai
+subreddit:YouShouldKnow
+score:2157
+numComments:160
+isOver18:False
+hasPostBody:True

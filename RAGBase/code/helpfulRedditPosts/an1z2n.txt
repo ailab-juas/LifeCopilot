@@ -1,0 +1,13 @@
+title:
+YSK about Dark Patterns, tricks used in websites and apps that make you buy or sign up for things that you didn't mean to. If a company wants to trick you into doing something, they can take advantage of this by making a page look like it is saying one thing when it is in fact saying another.
+
+content:
+The website [darkpatterns.org](https://darkpatterns.org/hall-of-shame) names and shames companies who to trick people into singing up and buying things they didn't intend to, as well as [listing different examples of shady practices](https://darkpatterns.org/types-of-dark-pattern) like Bait and switch, Confirmshaming, Disguised Ads, Forced Continuity, Hidden Costs, Privacy Zuckering and Trick Questions.
+
+url:https://reddit.com/r/YouShouldKnow/comments/an1z2n/
+author:dmt_burrito
+subreddit:YouShouldKnow
+score:4512
+numComments:169
+isOver18:False
+hasPostBody:True

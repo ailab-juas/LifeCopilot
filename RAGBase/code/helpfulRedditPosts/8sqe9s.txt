@@ -1,0 +1,15 @@
+title:
+YSK that you can ring your phone even if it is silent by using Google's find phone if your phone is linked to your google account.
+
+content:
+Find phone link: https://myaccount.google.com/intro/find-your-phone
+
+It is in the locate phone section. Press ring phone. Not sure if your phone has to be connected to the internet for it to work.
+
+url:https://reddit.com/r/YouShouldKnow/comments/8sqe9s/
+author:TheKhota
+subreddit:YouShouldKnow
+score:3033
+numComments:94
+isOver18:False
+hasPostBody:True

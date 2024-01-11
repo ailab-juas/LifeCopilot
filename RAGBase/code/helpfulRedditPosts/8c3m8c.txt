@@ -1,0 +1,29 @@
+title:
+YSK the difference between bit (b) and byte (B) and their abbreviations when it comes to data transfer speeds
+
+content:
+Having this information will help you be more informed when it comes to purchasing data plans and internet packages.
+
+Between bits and bytes, there is an 8:1 ratio. So, if your internet is advertised as 1 gigabit per second (Gb/s) fiber, it's purporting that their service is able to offer a transfer speed of 125 megabytes worth of data per second (125 MB/s), not one gigaBYTE (1,000 megabytes) per second (GB/s) worth of data per second. 
+
+Bytes are bigger than bits, so the larger unit (bytes) gets the capital B while the smaller unit gets the lowercase b. A bit is a rate of transfer, while a byte is a unit of storage so data plans are always advertised as bits per second, not bytes per second. 
+
+GB = gigabyte (1,000 megabytes)
+Gb = gigabit (125 megabytes)
+
+Some common internet plans "decoded":
+
+1 Gb/s = 125 megabytes of data per second
+
+100 Mb/s = 12.5 megabytes of data per second 
+
+10 Mb/s = 1.25 megabytes of data per second 
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/8c3m8c/
+author:_RE_TARDIS
+subreddit:YouShouldKnow
+score:4113
+numComments:181
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,21 @@
+title:
+LPT: How to write instructions for teaching people software
+
+content:
+Instructional designer here. I write instructions for all sorts of things but mostly software. We've found the best way to write clear step-by-step instructions is to orient the reader to the location, identify the object, specify the action and describe the outcome. This will seem awkward to most people at first, but it really is easier to follow.
+
+For example, you might be tempted to write "Click *File* on the menu bar." Better instructional syntax is "From the menu bar, select *File*." This helps the reader establish the region before the action and not the other way around. 
+
+Continuing the example with an additional step and the outcome: "From the menu bar, select *File* then *Open*. This launches the 'Open file' dialog box."
+
+This may seem overly simplistic, but when you delve into complicated procedures, it really helps the learners stay on the path. For example: "Near the bottom of the screen, in the 'Parameters' section, select the "Reset on exit" radio button then click the Filter button (it looks like a yellow funnel)."
+
+Of course, your instructions should be in numbered steps. I only use paragraph style to concentrate on the language part. If you have an example of a poorly written set of instructions, post it here and I'll show you how to re-write it.
+
+url:https://reddit.com/r/LifeProTips/comments/11ovcj/
+author:photolouis
+subreddit:LifeProTips
+score:1625
+numComments:217
+isOver18:False
+hasPostBody:True

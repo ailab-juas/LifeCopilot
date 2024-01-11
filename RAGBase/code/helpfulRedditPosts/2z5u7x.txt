@@ -1,0 +1,13 @@
+title:
+YSK that if you want products that can be shipped to Japan but not to wherever you are, there are services starting at ~$5USD that will provide you with a Japanese mailing address and forward your purchases to you!
+
+content:
+There are probably other websites, but this is the one I stumbled upon: http://www.tenso.com/en/.  Very convenient for purchasing music from Japanese bands and other Japanese products that you can't buy elsewhere.
+
+url:https://reddit.com/r/YouShouldKnow/comments/2z5u7x/
+author:xthecharacter
+subreddit:YouShouldKnow
+score:2970
+numComments:217
+isOver18:False
+hasPostBody:True

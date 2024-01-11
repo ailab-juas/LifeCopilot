@@ -1,0 +1,19 @@
+title:
+YSK that unless you were going to buy it anyway, a reduced price is not a "deal". You're spending more money than you otherwise would.
+
+content:
+Why YSK:
+
+Black Friday is here with retailers offering "discounts" but this applies no matter what the time of the year.
+
+If you want to buy something, put it on a list and keep track of the price (tools like CamelCamelCamel (Amazon only), and TopPreise (Switzerland) can help here). If there's a "deal", first check it's actually money off and not artificially inflated and then buy it.
+
+If you see something and go "wow! look at that reduction, I would lose money not buying it", you are taking money from your own pockets and giving it to retailers for something you don't really need.
+
+url:https://reddit.com/r/YouShouldKnow/comments/r2fxgr/
+author:kisamoto
+subreddit:YouShouldKnow
+score:3487
+numComments:83
+isOver18:False
+hasPostBody:True

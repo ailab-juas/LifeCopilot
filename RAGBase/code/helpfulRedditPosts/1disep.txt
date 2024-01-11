@@ -1,0 +1,13 @@
+title:
+LPT: When browsing LifeProTips, always check the comments to find better LPT than the original post.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1disep/
+author:Ginger_Head_Man
+subreddit:LifeProTips
+score:2455
+numComments:249
+isOver18:False
+hasPostBody:False

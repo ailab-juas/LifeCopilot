@@ -1,0 +1,13 @@
+title:
+YSK that you can transfer Spotify playlists to other music streaming services (like Apple Music, Amazon Music and others), and vice versa
+
+content:
+Why YSK: If (like me) you’re only staying with Spotify because you’ve built up a lot of personal playlists with them, apps (like SongShift) will copy and sync your playlists over to other music streaming services.  This makes it easy to try other services, many of which offer free trials.
+
+url:https://reddit.com/r/YouShouldKnow/comments/sgf0fd/
+author:boozhazha1
+subreddit:YouShouldKnow
+score:31346
+numComments:1460
+isOver18:False
+hasPostBody:True

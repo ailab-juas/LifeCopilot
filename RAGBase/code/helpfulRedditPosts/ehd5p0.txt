@@ -1,0 +1,64 @@
+title:
+YSK about the difference between correlation and causation (a very serious modern day issue)
+
+content:
+INTRO : 
+We live in a world surrounded by data, a lot of which is unfortunately poorly interpreted and can cause more confusion and harm than good. Sometimes this is done on purpose, sometimes by accident simply by lack of knowledge.
+
+DEFINITIONS : 
+
+Correlation is when one variable's behavior appears to follow the behavoiur of another variable.
+Often indicated by a straight-line-graph of eg. 'the amount of cows owned by a farmer' vs 'the farmer's wealth'. 
+
+Causation is when one variable directly influences another variable and causes its outputs  to act in a certain manner. This is also often indicated by a straight-line-graph eg. "the amount of cigarettes smoked per day" vs "the chance of getting lung cancer" 
+
+EXAMPLES :
+
+Both of the examples above are examples of causation:
+If a farmer has a lot of cows he will tend to be wealthier, since he probably makes profit from having those cows etc.
+It has been scientifically proven that smoking cigarettes increases the chance of lung cancer.
+
+As we see, here one variable does influence the other, but this is not always the case even if there seems to be corellation.
+
+COUNTER-EXAMPLES :
+
+Take 'then number of pirates' vs 'the world's population', if you were to graph those values over time you would notice that clearly as the number of pirates decreased the human population increased. Is that because pirates killed so many people that when they were gone the population could start to grow? Well NO. There is simply more factors we aren't taking into account, the population of humans naturally increased over time as civilisation thrived, and parallel to this the population of pirates 'naturally' fell. One variable did not influence the other, eventhough you can show a correlation between them.
+
+Think about these examples :
+
+'size of your TV' vs 'academic performance'
+(wealthier people TEND TO preform better academically than people from less wealthy families. They also tend to have larger TVs.)
+
+'number of gears on your bike' vs 'life expectancy'
+(bikes with more gears tend to be more expensive, meaning wealthier people can afford them. Wealthier people TEND TO live longer)
+
+Do you understand how if we make the variables more complex it might be hard to notice if it's correlation or causation, especially if you know little about the topic at hand?
+
+Please spread this message to make more people aware of the difference.
+
+Also can we please once and for all stop using the phrase "You can't argue with data", well actually you can and even should, especially with wrongly interpreted data, how about we instead say "You can't argue with CORRECTLY INTERPRETED (and correctly collected) data"
+
+Post Scriptum:
+
+Yes pirates do kill some people which does mean that they are kind of linked to the human population, but on a broad scale this isn't significant enough of a change.
+
+I used the 'Education' Flare as eee well I like turquoise, no but seriously this kind of applies to everything, since data really is everywhere, so I taught you should be educated about this. Look it's my first post here... 
+
+Well.. that was a bit, thanks for reading if you made it here :)
+
+TL;DR
+Corellation is when two things appear to be connected in some way, causation is when one thing actually influences another. You need to be careful interpreting data and make sure to draw the right conclusions and only trust it if you're certain it's causation.
+
+Edit 1 : Wow, rip my inbox, didn't think this would blow up this fast. Also spelling corrections.
+
+Edit 2 : A lot of people mentioned they didn't like my examples, I did make the farmer and gears in a bike one up on the spot to be honest, but I mean they seem realistic and all I'm trying to do is get the point of correlation VS causation across. But if you have any better examples just comment them below! Thanks :)
+
+Edit 3 : I didn't know this day would come but... Thank you for the Gold kind stranger!!!
+
+url:https://reddit.com/r/YouShouldKnow/comments/ehd5p0/
+author:GreenLizard01
+subreddit:YouShouldKnow
+score:5874
+numComments:124
+isOver18:False
+hasPostBody:True

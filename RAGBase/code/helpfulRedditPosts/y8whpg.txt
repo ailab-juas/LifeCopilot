@@ -1,0 +1,17 @@
+title:
+LPT: when dropping off your car for service at a dealership, take a picture of your dashboard for your record
+
+content:
+Last week I took my car in at the Lexus dealership for a new OEM key. When they returned my car back, they noted that I had my check engine light on, which was not the case when I was dropping it off. 
+
+When I asked them about it they said “well we documented that check engine light” at our shop and it’s gonna cost you $xx to fix it. When I mentioned that this wasn’t there when I dropped the car off, they asked if I had any pictures with time stamp. They refused to make it right. 
+
+So now I know to take a picture of my dash before dropping off my car for service of any kind.
+
+url:https://reddit.com/r/LifeProTips/comments/y8whpg/
+author:InevitableDapper8376
+subreddit:LifeProTips
+score:6868
+numComments:274
+isOver18:False
+hasPostBody:True

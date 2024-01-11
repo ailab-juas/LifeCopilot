@@ -1,0 +1,15 @@
+title:
+LPT: If you own a pet or are taking care of one, look up the nearest emergency veterinarian right now so you know exactly where to take the pet in case of an emergency.
+
+content:
+If the animal is suffering, it's best to know exactly where to go rather than wasting precious moments looking up the nearest pet hospital.
+
+Make sure it's open on Sundays just in case.
+
+url:https://reddit.com/r/LifeProTips/comments/6gmr6s/
+author:cleantoe
+subreddit:LifeProTips
+score:24221
+numComments:1034
+isOver18:False
+hasPostBody:True

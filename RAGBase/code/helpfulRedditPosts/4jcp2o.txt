@@ -1,0 +1,40 @@
+title:
+LPT: Download Wifi analyzer to determine what channel your router should broadcast its Wifi Signal. Improved my wifi speeds by 22x
+
+content:
+I recently moved into a condo and have a 100mbps plan, but my wifi was only getting 4Mbps using Speedtest.
+
+Using Wifi Analyzer showed I was on Channel 6 along with about 6 others.
+
+Channel 11 only one had one other, so I changed my wifi signal to use channel 11. Immediately after I ran Speedtest and got 87Mbps.
+
+Edit: 
+
+Wifi Analyzer for Android: https://play.google.com/store/apps/details?id=com.farproc.wifi.analyzer&amp;hl=en
+
+For Windows: https://www.microsoft.com/en-us/store/apps/wifi-analyzer/9nblggh33n0n
+
+Sorry iphone/~~Mac~~ people. For Mac Users: (thanks /u/smpx)
+
+Find "Wireless Diagnostics" under utilities (or just use Spotlight to bring it up)
+
+Go to "Window" menu and select "Scan". This shows you the exact same information.
+
+---
+
+To change your Wifi's channel:
+
+Go to: 192.168.1.1 or 192.168.0.1, this is your login page. 192.168.1.254 is for att. 10.0.0.1 is Comcast
+
+By default the login is either admin / admin, or admin / password or admin / [blank]
+
+My setting is here: http://imgur.com/cMco0YZ 
+
+
+url:https://reddit.com/r/LifeProTips/comments/4jcp2o/
+author:pikindaguy
+subreddit:LifeProTips
+score:7073
+numComments:3250
+isOver18:False
+hasPostBody:True

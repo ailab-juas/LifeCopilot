@@ -1,0 +1,13 @@
+title:
+LPT: if you can't afford the safety equipment you can't afford the dangerous equipment
+
+content:
+In general when purchasing dangerous equipment (bikes, boats, trapeze, etc) factor in the cost of the safety equipment first. If the cost of the necessary helmets, life perservers, crash mat etc. brings the costs too high you could never afford it
+
+url:https://reddit.com/r/LifeProTips/comments/gq2os7/
+author:Scaptia_beyonceae
+subreddit:LifeProTips
+score:1234
+numComments:67
+isOver18:False
+hasPostBody:True

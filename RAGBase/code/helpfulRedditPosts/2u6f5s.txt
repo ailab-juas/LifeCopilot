@@ -1,0 +1,21 @@
+title:
+LPT: If you can scroll on a page using the "space bar" you can scroll back up using "shift + space bar"
+
+content:
+This also works on:
+
+[shift] alt + tab = toggle windows
+
+[shift] alt + esc = toggle windows without zoom effect
+
+[shift] tab = go to next line or box or something
+
+[shift] etc.. .. ..
+
+url:https://reddit.com/r/LifeProTips/comments/2u6f5s/
+author:[deleted]
+subreddit:LifeProTips
+score:2968
+numComments:178
+isOver18:False
+hasPostBody:True

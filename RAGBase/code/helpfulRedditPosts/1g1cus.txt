@@ -1,0 +1,13 @@
+title:
+LPT: Keep all your user's manuals in the cloud ... when you buy something new, go to the manufacturer's site and upload the manual to Google Drive or Dropbox
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1g1cus/
+author:noyb_not_now_or_ever
+subreddit:LifeProTips
+score:2565
+numComments:284
+isOver18:False
+hasPostBody:False

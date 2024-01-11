@@ -1,0 +1,15 @@
+title:
+YSK The weight distribution on a dolly/cart matters.
+
+content:
+I move heavy cartloads of stuff a lot for work and am often surprised how many people don't realize how weight distribution impacts the cart's ability to roll well. The next time you need to move a cart of stuff around, step back and look at it. Which end looks like it's probably heavier? Make sure that end is in the back when you move it. **Why YSK:** With the lighter load at the front, a cart/dolly will be able to roll over cracks, bumps, and other obstructions *much* more easily. With the weight at the front, a small obstruction can easily bring the whole thing to a dead stop.
+
+EDIT: Similarly, *load* the cart with this idea in mind. At the grocery store, put the 12-pack of beverages and other heavy items/bags at the back of the cart, and toilet paper, chips, and other light bags/items toward the front. Your trip to the car in the beat-up parking lot will go much more smoothly.
+
+url:https://reddit.com/r/YouShouldKnow/comments/oy1qoo/
+author:Sima_Hui
+subreddit:YouShouldKnow
+score:3760
+numComments:98
+isOver18:False
+hasPostBody:True

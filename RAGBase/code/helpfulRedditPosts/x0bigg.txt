@@ -1,0 +1,13 @@
+title:
+LPT: When picking up someone from the airport, bring a snack for them.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/x0bigg/
+author:missher1234
+subreddit:LifeProTips
+score:1017
+numComments:121
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,17 @@
+title:
+YSK that Tuna is incredibly nutritious and packed with protein, healthy fats and vitamins — but it should not be consumed every day. Eating too much tuna could lead to unsafe consumption of mercury.
+
+content:
+Why YSK: There are multiple factors that would dictate the recommended weekly consumption of tuna, including tuna species, age, and personal body weight. But for most people, this means only 2-3 servings per week of tuna known to have the lowest levels (skipjack/canned light).
+
+https://www.healthline.com/nutrition/mercury-in-tuna
+
+Edit: as some people have pointed out, tuna is not the only fish with mercury in it. I get that and didn’t mean to single out tuna exclusively. I posted as a YSK because some people eat crazy amounts of it. I mean, just read the comments here and you will see just how much some people are eating it.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ixcqkq/
+author:autistic_robot
+subreddit:YouShouldKnow
+score:6029
+numComments:282
+isOver18:False
+hasPostBody:True

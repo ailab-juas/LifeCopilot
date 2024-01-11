@@ -1,0 +1,28 @@
+title:
+YSK : try to be active about your privacy over the internet
+
+content:
+Why YSK 
+With advancing technology and companies try to fetch every details about you. Try to keep your personal information on the internet to the minimum. 
+1. Never put  your full name online.
+2. Never put your address.
+3. Only use email to sign up.
+4. Never share where you Work.
+5. Use Voip number if you have to
+6. Only share above details on 1:1 convo
+7. Use short name or nick name.
+8. Use Vpn if you can
+9. Use websites over apps
+10. Use different browsers for different types of internet activity 
+11. Avoid Syncing 
+12. Use encryption for cloud storage 
+13. Use throwaway/second email 
+14. Connect your Smart tv/devices to guest wifi
+
+url:https://reddit.com/r/YouShouldKnow/comments/ztsr7u/
+author:Desperate_Grape_3147
+subreddit:YouShouldKnow
+score:2112
+numComments:107
+isOver18:False
+hasPostBody:True

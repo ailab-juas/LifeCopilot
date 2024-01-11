@@ -1,0 +1,52 @@
+title:
+YSK Your laser printer may be forcing you to buy unnecessary and expensive toner by displaying low toner messages before it is empty and refusing to print. You can save hundreds (thousands?) a year by manually overwriting this. Instructions for Brother 9015CDW in text, Google for your own brand.
+
+content:
+TLDR: Printer companies want you money and force you to buy extra toner. I have now reset the toner level in my Brother laser printer 4 times with no loss of printing quality or indication toner that toner is in fact low. Google howto reset these counters and save a lot of money.
+
+For the Brother 9015CDW instructions below, and here http://imgur.com/a/1CBhX.
+
+**
+
+Many people know that printer companies sell their printers at low prices, and even below cost, because they know that you will come back and buy their expensive ink and toners once you own the machine.
+
+
+To help 'encourage' us to buy more expensive ink and toner some printer companies not only mislead you by telling you that the toner or ink is empty or running low, but will physically stop the machine from printing further until you buy some more. 
+
+
+In laser printers, as with my Brother 9015CDW, they can do this by having the printer count the number of pages printed, and shutting down further printing after the page counter is hit, regardless of how much toner is actually left. Other's will do similar things by shining a laser through the drum of powder and shutting down the printer when the laser shows the drum an undisclosed percentage empty. 
+
+
+On a colour laser printer there are 4 drums of powder, each retailing at over $100 AUD each for the genuine name-brand product. This is obviously very expensive and it is frustrating to think companies mislead us and attempt to force us to buy extra product. I have now reset my printers counters 4 times, printed thousands of pages with no loss of quality or any indication that toner is anywhere near low, for me this is the equivalent of thousands of dollar in toner in just a few months, totally unnecessary.
+
+
+So how to take back control of your printer? This will vary model to model, and brand to brand, but what you need to do is to Google your make and model of printer and find out if it is counting pages or estimating the level of toner by shining a laser through the toner cartridge.
+
+
+If it is counting pages you need to Google how to access the printers hidden menus usually used by tech support and other types and reset the counter back to zero, from where it will start counting pages again.
+
+For example, on my Brother DCP-9015CDW here is a how-to reset the page counter:
+
+1. Open the printer as if you were to change the toner. Printer will display 'Close the top cover'.
+
+2. Hold down the star key on the keyboard for around 10-20 seconds until reset menu appears. (Star key is not illuminated at this stage, you can see the dark outline, or guess where it lies on the keypad, or use printer functions while it is closed to see where the star key lies.
+
+3. Reset everything.
+
+4. Profit (or rather, save).
+
+See here http://imgur.com/a/1CBhX for pictures.
+
+
+If it is shining a laser through the drum, you can get a piece of black electrical tape, or blue tak or similar, and cover the laser entry and exit points, so that the laser always reports back full. Google this for further explanation.
+
+
+Result may vary, hope this was useful to some people.
+
+url:https://reddit.com/r/YouShouldKnow/comments/6s1skj/
+author:naikii
+subreddit:YouShouldKnow
+score:3099
+numComments:126
+isOver18:False
+hasPostBody:True

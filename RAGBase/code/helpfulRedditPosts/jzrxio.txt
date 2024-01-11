@@ -1,0 +1,19 @@
+title:
+YSK: If Comcast tries saying your modem/router only supports up to 7 devices, that is a lie.
+
+content:
+Why YSK: I just recently contacted Comcast to help with modem issues I was having. Note that I have a modem/router combo from Comcast. 
+
+Instead of proposing to have a technician look at it or sending a replacement, the first thing the representative tried telling me is that my 200 mb/s plan can only support up to 7 devices and that I should upgrade my service plan. I have about a dozen IoT devices like smart switches and alexas around the house. The rep tried telling me my bandwidth is an issue since I have so many devices and that I should upgrade to a gigabit plan to support up to 20 devices. 
+
+I know this is bullshit. The number of devices alone doesn't dictate whether or not your internet is slow or dropping out. However, how much data each device is using simultaneously could have an effect. This could be verified by understanding from Comcast if your service's bandwidth is being maxed at all. If it's not being maxed out, the number of devices isn't the issue. 
+
+So, if you are having issues with your Comcast internet and they immediately say you need to upgrade your plan because you have more than 7 devices connected, please be skeptical. Ask if your connection is being maxed out frequently. If it isn't, your plan isn't the issue and they are simply trying to sell you a new package so that you pay them to fix their problem.
+
+url:https://reddit.com/r/YouShouldKnow/comments/jzrxio/
+author:mediafeener
+subreddit:YouShouldKnow
+score:1298
+numComments:72
+isOver18:False
+hasPostBody:True

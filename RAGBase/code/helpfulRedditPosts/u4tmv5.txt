@@ -1,0 +1,13 @@
+title:
+LPT: Your parents are just regular humans trying to figure their way in the world just like you. They don’t know everything.
+
+content:
+I often say that we become adults when we realise this fact about our parents (or whoever raised you). They’re not omnipresent and all-knowing, they’re just trying to make the best decision they can at the time much like ourselves. I think some people never find this realisation and those are often the people that live by their parents law until late in their life
+
+url:https://reddit.com/r/LifeProTips/comments/u4tmv5/
+author:millner_44
+subreddit:LifeProTips
+score:2955
+numComments:134
+isOver18:False
+hasPostBody:True

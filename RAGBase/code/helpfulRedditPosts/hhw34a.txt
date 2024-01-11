@@ -1,0 +1,15 @@
+title:
+LPT: Occasionally sift through your post/comment page and see how much personal information you’ve revealed.
+
+content:
+You joined that Concord NH subreddit and commented on someone’s post? Asked for help on r/relationshipadvice and mentioned your age? Answered an r/askreddit post and said what field you work? Told a story and mentioned where you go/went to school? Posted a very specific story on r/TIFU? Etc. 
+
+These are all things that seem like small pieces of your identity when posting but someone can easily put them together and identify you. For some it might not be that big of a deal, but if you’re posting/commenting on the assumption that what you tell or say is private (complaining about your boss, posting on an NSFW sub, confessing a secret), you’re probably wrong.
+
+url:https://reddit.com/r/LifeProTips/comments/hhw34a/
+author:cityinlightstype
+subreddit:LifeProTips
+score:1059
+numComments:83
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: When hired for a new job, copy the list of responsibilities they provide you and save it in a folder with your resume. This will make it easier to complete an application the next time you look for a job when the employer asks what your last job duties were.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/iyfoo4/
+author:Blackberry_Creek
+subreddit:LifeProTips
+score:42313
+numComments:546
+isOver18:False
+hasPostBody:False

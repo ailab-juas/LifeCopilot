@@ -1,0 +1,13 @@
+title:
+YSK Google images has added "animated" under their search tools. Now .gifs are much easier to find! 
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/1ap8ui/
+author:palonious
+subreddit:YouShouldKnow
+score:1735
+numComments:49
+isOver18:False
+hasPostBody:False

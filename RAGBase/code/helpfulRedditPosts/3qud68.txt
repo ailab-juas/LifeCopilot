@@ -1,0 +1,13 @@
+title:
+LPT: When you receive a business card, write where you met (and when) on it with a pen right after.
+
+content:
+I receive a lot of business cards at events and rarely make use of them. Guessing it's the same for many others. I was just going through a stack to organize contacts for a project, and for most of the cards I went through I couldn't remember the person or the context in which we'd met. If I'd jotted this down with a pen immediately, each card would've made the first email easier and given the impression that I could remember them. "Hi XYZ, we met at ABC, I am writing to..." instead of a completely contextless email. 
+
+url:https://reddit.com/r/LifeProTips/comments/3qud68/
+author:MKRLTMT
+subreddit:LifeProTips
+score:4776
+numComments:565
+isOver18:False
+hasPostBody:True

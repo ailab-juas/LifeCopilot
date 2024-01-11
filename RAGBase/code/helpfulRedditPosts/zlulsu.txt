@@ -1,0 +1,15 @@
+title:
+LPT: If you live in a snowy region, compare the snow on your roof to your neighbors, if yours seems to melt quicker, you probably need more attic insulation.
+
+content:
+Obviously make sure it’s facing the same direction. North is usually best since since it’s less influenced by the sun. If you have duct runs from your furnace going through your attic you could have a decent leak or broken duct line. 
+
+I live in utah and am constantly comparing roof snow melt to my own.
+
+url:https://reddit.com/r/LifeProTips/comments/zlulsu/
+author:TheSiege82
+subreddit:LifeProTips
+score:24909
+numComments:403
+isOver18:False
+hasPostBody:True

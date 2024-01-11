@@ -1,0 +1,13 @@
+title:
+YSK about "Should I Answer", an app that spam-filters almost all telemarketer and robo-dial calls
+
+content:
+Even if one gets through, you can flag and block it so that it can't bother others, which is very satisfying. The more people who use this, the better.
+
+url:https://reddit.com/r/YouShouldKnow/comments/4fbyt4/
+author:daveberzack
+subreddit:YouShouldKnow
+score:1350
+numComments:143
+isOver18:False
+hasPostBody:True

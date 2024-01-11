@@ -1,0 +1,13 @@
+title:
+YSK: In the US you can preview what mail you'll be getting today, for free. Sign up with the USPS and view scans of the outside of all your mail.
+
+content:
+I just found out this exists. Figured there might be some other people who had never heard of it. If you want to preview your mail or check to be sure nothing is misdelivered, the USPS offers a free service called "informed delivery" which allows you to view scans of the exterior of your mail from any PC, phone, or tablet. When you register, you receive a confirmation code via regular mail to verify your address. [You can sign up right here.](https://informeddelivery.usps.com/box/pages/intro/start.action)
+
+url:https://reddit.com/r/YouShouldKnow/comments/7sym6i/
+author:Ythan
+subreddit:YouShouldKnow
+score:3687
+numComments:201
+isOver18:False
+hasPostBody:True

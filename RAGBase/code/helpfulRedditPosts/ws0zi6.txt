@@ -1,0 +1,13 @@
+title:
+YSK some traffic lights have sensors and you should pull up to the designated line.
+
+content:
+Why YSK about the sensors, is because if you are too far away from the line, the traffic light might not switch for many turns. Some people stop too far back or completely over the line and nothing is registered. Any cars behind are then stuck at the traffic light as well. This could lead to someone running a light and receiving a ticket, or worst causing an accident.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ws0zi6/
+author:bexdporlap
+subreddit:YouShouldKnow
+score:1256
+numComments:99
+isOver18:False
+hasPostBody:True

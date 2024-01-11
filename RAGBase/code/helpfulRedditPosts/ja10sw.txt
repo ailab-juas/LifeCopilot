@@ -1,0 +1,13 @@
+title:
+YSK: donating money to a soup kitchen or for bank is far more productive than donating food.
+
+content:
+Why YSK: food banks and soup kitchens have connections and bulk buying power that they use to buy more than you can with the same amount of money. They can also buy fresh produce which cannot be donated easily by individuals.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ja10sw/
+author:hotelstationery
+subreddit:YouShouldKnow
+score:41391
+numComments:702
+isOver18:False
+hasPostBody:True

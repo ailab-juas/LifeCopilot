@@ -1,0 +1,14 @@
+title:
+LPT: Notepad - at the first line of the file, put .LOG This will then put a timestamp at the end of the file every time you open it.
+
+content:
+Also, if you press the F5 key it inserts a timestamp.
+
+
+url:https://reddit.com/r/LifeProTips/comments/3a6iti/
+author:admin-mod
+subreddit:LifeProTips
+score:4877
+numComments:885
+isOver18:False
+hasPostBody:True

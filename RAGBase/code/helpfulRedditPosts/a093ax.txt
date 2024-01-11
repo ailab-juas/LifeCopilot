@@ -1,0 +1,13 @@
+title:
+LPT: Before bringing your vehicle in for basic maintenance, check YouTube and see if there's an instructional video available. Often the work is a lot quicker, easier, and cheaper than you'd think to do yourself. Plus, you'll build confidence in your skills and a respectable knowledgebase.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/a093ax/
+author:killerbutton
+subreddit:LifeProTips
+score:29478
+numComments:1647
+isOver18:False
+hasPostBody:False

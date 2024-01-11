@@ -1,0 +1,13 @@
+title:
+LPT: One way or another you are going to pay. Either you stay in shape now (paying for a gym membership or running shoes or a bike or ...) or you can pay the hospital later for your health problems (heart attack, stroke, diabetes, etc.). Either way you are going to pay eventually.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/yhh0tf/
+author:bluesimplicity
+subreddit:LifeProTips
+score:1649
+numComments:288
+isOver18:False
+hasPostBody:False

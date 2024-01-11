@@ -1,0 +1,13 @@
+title:
+LPT: When you buy a new computer (Windows) always do a reset. This will remove all the unwanted pre-installed programs. Run the initial startup, then hold the shift key while clicking restart. Then it's troubleshooting, reset, and remove everything. Better than uninstaling one by one.
+
+content:
+Also works for viruses and corrupted Windows files. Just click keep personal files option.
+
+url:https://reddit.com/r/LifeProTips/comments/8clmo0/
+author:chefboyrchris
+subreddit:LifeProTips
+score:1006
+numComments:87
+isOver18:False
+hasPostBody:True

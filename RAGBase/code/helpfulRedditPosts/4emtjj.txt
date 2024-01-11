@@ -1,0 +1,17 @@
+title:
+YSK Most states have voter information available publicly, which may make your current address available to the general public.
+
+content:
+In Oregon, for example: all you need to find someone's current voter registration address is their first name, last name, and DOB. Name &amp; DOB are usually relatively easy to find online, even if you're careful. I'm guessing most states have the same (or similar) protocol. 
+
+Most states will allow you to redact this from public record (in other words, only keep it in private records), but you typically need to fill out a separate form that lists why you need it to be confidential. 
+
+*Edit: since some folks seem up in arms, this wasn't meant to be a scary OMG STALKERS STEALING YR ADDRESS!!111!!! post, I just thought people would want to know.*
+
+url:https://reddit.com/r/YouShouldKnow/comments/4emtjj/
+author:80234min
+subreddit:YouShouldKnow
+score:1329
+numComments:91
+isOver18:False
+hasPostBody:True

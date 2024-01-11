@@ -1,0 +1,13 @@
+title:
+LPT: Don't cling to a mistake just because you spent a lot of time making it.
+
+content:
+Whether it's a job you've been in for years but despise, or a relationship that is not healthy, always remember you can get out of the situation and start fresh at any time. Avoid the sunk cost fallacy.
+
+url:https://reddit.com/r/LifeProTips/comments/s73wxs/
+author:VarokSaurfang
+subreddit:LifeProTips
+score:17022
+numComments:370
+isOver18:False
+hasPostBody:True

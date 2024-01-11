@@ -1,0 +1,13 @@
+title:
+LPT: do a factory reset before donating or recycling your electronics
+
+content:
+Your information is still stored in a PCB or hard drive. My TV recently stopped working so I had Best Buy out to check it out. They diagnosed that the main board had failed and needed to be replaced, but called me later and told me that board wasn't being manufactured anymore, but if I could find it online then I could do it myself. So I did just that, and it worked! It also came with Matthew's Amazon Prime account still signed in and watchable. If I didn't have my own account that I'd rather use, I could easily be working my way through Matthew's watchlist for free, or until he changed his password. I guess another LPT is to change your passwords annually. Stay safe out there y'all.
+
+url:https://reddit.com/r/LifeProTips/comments/st3jsu/
+author:FinalCenturyParty
+subreddit:LifeProTips
+score:17189
+numComments:619
+isOver18:False
+hasPostBody:True

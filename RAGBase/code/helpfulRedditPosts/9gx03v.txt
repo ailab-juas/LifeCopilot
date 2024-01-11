@@ -1,0 +1,13 @@
+title:
+LPT: If you are stressed over something, ask yourself if it will still be significant or affect your life in 7 days. This can help put into perspective how small the problem is and stop very harsh or rash reactions.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/9gx03v/
+author:MagicCards_youtube
+subreddit:LifeProTips
+score:1566
+numComments:90
+isOver18:False
+hasPostBody:False

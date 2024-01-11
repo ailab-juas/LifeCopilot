@@ -1,0 +1,15 @@
+title:
+LPT: Roast yo’ broccoli. Broccoli is a cheap, ubiquitous vegetable that too often is steamed or boiled to death, sapping nutrients and flavor. Toss with olive oil and salt and roast at 400.
+
+content:
+Edit: A lot of people are asking about cooking time. I didn’t include that because it’s very subjective. I like the florets browned and the stems crunchy. 15 minutes at 400 degrees is a good guess for that, but if you like softer veggies and less browning you might want to decrease the temp to 350-375 and go a little longer. The stems won’t have as much “bite” that way.
+
+That said, you’ll want to check in on it and see for yourself. I use color more than time to determine doneness.
+
+url:https://reddit.com/r/LifeProTips/comments/i5ko7x/
+author:RockleyBob
+subreddit:LifeProTips
+score:85373
+numComments:3897
+isOver18:False
+hasPostBody:True

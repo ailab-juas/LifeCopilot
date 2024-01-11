@@ -1,0 +1,23 @@
+title:
+YSK that you can schedule text message to send later so you don't interrupt people's sleep or meeting.
+
+content:
+Create your message. 
+On Android, click on the 3 dots at top right
+"Schedule"
+Set time.
+"Set"
+
+Now and then, I still forget to schedule and wake people up at 5 a.m. because they're in 2 time zone over.  Sorry, sibling!!!
+
+EDIT: Sorry, I thought it's an Android feature. It seems that it's not.  Been using LG for many years now.   I found this feature a while back.  Maybe on the LG Stylo which ran about $200-$250 from Metro PCS.
+
+Sorry, Apple folk.  I didn't know it's available on Apple.  Someone commented that there's an app for it.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ckmjh3/
+author:nuocmam
+subreddit:YouShouldKnow
+score:2906
+numComments:224
+isOver18:False
+hasPostBody:True

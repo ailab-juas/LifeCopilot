@@ -1,0 +1,31 @@
+title:
+YSK many blood donor eligibility requirements changed in the last few years, and you may be newly eligible to donate blood.
+
+content:
+Why YSK: There have been a lot of changes to blood donor eligibility, so it's good to be up to date with  these things. Being ineligible to donate often gets people down, and they end up spreading out-of-date  information because they think certain rules remain in place.
+
+This information is U.S.-centric, but a lot of changes took place outside  the U.S. in the last years too, so check with your local blood center  for eligibility requirements.
+
+Some examples (U.S.):
+
+* For male donors who would have been deferred for having sex with another  man: deferral period reduced from 12 months to 3 months. (This is also true in Northern Ireland, Australia. There are likely to be more changes  with this in the future, with the Advance Study being finished up now.)
+* For those who recently got a tattoo or piercing in a state that does not  regulate these industries, deferral period reduced from 12 months to 3  months. (Georgia, Idaho, Maryland, Massachusetts, New Hampshire, New  York, Pennsylvania, Utah, Wyoming, D.C.)
+* Those who receive a tattoo or piercing in a state that regulates these industries: no deferral period.
+* For  those who have traveled to malaria-endemic areas (and are residents of  malaria non-endemic countries), deferral period changed from 12 months to 3 months.
+* Removal of deferral for those who spent time in the U.K. from 1980-1996, time  spent in France and Ireland from 1980-2001, and receipt of a blood  transfusion in the U.K., France, or Ireland from 1980-present.
+
+Please be aware that these guidelines are set by the FDA in the U.S. Also,  your eligibility is best determined by calling your local blood bank.
+
+Source:  [https://americasblood.org/news/abc-supports-fdas-updated-guidance-on-vcjd/](https://americasblood.org/news/abc-supports-fdas-updated-guidance-on-vcjd/) 
+
+ [https://en.wikipedia.org/wiki/Blood\_donation\_restrictions\_on\_men\_who\_have\_sex\_with\_men](https://en.wikipedia.org/wiki/Blood_donation_restrictions_on_men_who_have_sex_with_men) 
+
+[https://advancestudy.org/](https://advancestudy.org/)
+
+url:https://reddit.com/r/YouShouldKnow/comments/ysj5j0/
+author:Yay_Blood
+subreddit:YouShouldKnow
+score:7840
+numComments:511
+isOver18:False
+hasPostBody:True

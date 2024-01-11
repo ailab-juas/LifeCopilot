@@ -1,0 +1,13 @@
+title:
+LPT: Brush your teeth before you settle in for your late night tv watching session. It helps prevent over-snacking, and will make your transition much easier when you eventually want to stumble to bed.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/gqafvr/
+author:thedampening
+subreddit:LifeProTips
+score:3895
+numComments:63
+isOver18:False
+hasPostBody:False

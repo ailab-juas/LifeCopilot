@@ -1,0 +1,17 @@
+title:
+LPT: If you plan on ordering food, try calling the restaurant directly vs. using a delivery app. You can save on fees and the restaurant will earn all the proceeds
+
+content:
+I recently tried ordering food from Door Dash and realized they were charging around $8 for fees. 
+
+I called the restaurant and they said I could order directly through them, saving me almost $15 in the process (they also didn’t charge delivery). 
+
+Door Dash takes an average of 20% from the restaurant. Ordering directly gives all the money to them
+
+url:https://reddit.com/r/LifeProTips/comments/jwpewv/
+author:theflightofporter
+subreddit:LifeProTips
+score:2444
+numComments:179
+isOver18:False
+hasPostBody:True

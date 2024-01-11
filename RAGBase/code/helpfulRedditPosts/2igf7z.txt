@@ -1,0 +1,13 @@
+title:
+LPT: When dealing with work politics, rarely show your cards.
+
+content:
+The nastier the politics, the more reserved and cautious you should be. Looking for support among other unhappy people is a bad strategy since they are the last ones who can help change things. Keep your head down and respond in only the most deliberate and strategic ways. 
+
+url:https://reddit.com/r/LifeProTips/comments/2igf7z/
+author:[deleted]
+subreddit:LifeProTips
+score:2553
+numComments:705
+isOver18:False
+hasPostBody:True

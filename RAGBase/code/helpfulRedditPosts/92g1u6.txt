@@ -1,0 +1,13 @@
+title:
+LPT: If you're ever in a position of choosing a nursing home or assisted living facility for a loved one, go ask your local EMS service which one they'd choose.
+
+content:
+We've seen it all. 
+
+url:https://reddit.com/r/LifeProTips/comments/92g1u6/
+author:ch5697
+subreddit:LifeProTips
+score:2017
+numComments:89
+isOver18:False
+hasPostBody:True

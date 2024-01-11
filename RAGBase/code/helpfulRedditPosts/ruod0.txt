@@ -1,0 +1,13 @@
+title:
+Get baked food off your glass cookware by scrubbing it with a bit of aluminum foil 
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ruod0/
+author:enterstip
+subreddit:LifeProTips
+score:1202
+numComments:172
+isOver18:False
+hasPostBody:False

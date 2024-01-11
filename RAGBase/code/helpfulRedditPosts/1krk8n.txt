@@ -1,0 +1,23 @@
+title:
+YSk about PizzaCodes.com It provides you with promo codes up to 50% off your pizza order.
+
+content:
+www.pizzacodes.com 
+
+US only I think.
+
+Just key in your zip and it will show you locations and promo codes for Papa Johns and Dominoes. Some have up to 50 percent off on the order. 
+
+Edit: **Don't forget to tip the drivers!** Maybe some of the amount you saved?
+
+I think this may be a repost. 
+
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/1krk8n/
+author:ToProvideContext
+subreddit:YouShouldKnow
+score:3269
+numComments:263
+isOver18:False
+hasPostBody:True

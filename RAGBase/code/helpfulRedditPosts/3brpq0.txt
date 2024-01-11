@@ -1,0 +1,16 @@
+title:
+LPT: "e.g." is for listing examples, "i.e." is for rephrasing.
+
+content:
+A lot of languages (e.g. English, Spanish, Italian) gain their roots from Latin (i.e. the languages use words and phrases from the Latin language.)
+
+Edit: Thank you, Reddit, for the "disable inbox replies" button. Or is that RES?  
+Oh, also, thanks for front page. Last thing I expected from a simple grammar tip.
+
+url:https://reddit.com/r/LifeProTips/comments/3brpq0/
+author:brilliantlyInsane
+subreddit:LifeProTips
+score:4361
+numComments:995
+isOver18:False
+hasPostBody:True

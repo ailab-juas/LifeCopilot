@@ -1,0 +1,21 @@
+title:
+YSK the universal edibility test
+
+content:
+[In case you need to survive the wilderness](http://www.wilderness-survival.net/figures/fig9-5.gif)
+
+[(Main article)](http://www.wilderness-survival.net/plants-1.php)
+
+Edit: Wanted to include some extra info from the comments (some of this stuff is buried):
+
+* Insects and animals are a less risky first choice than plants (u/Omikron).
+* Some people are imagining filling your belly with oak leaves. In deciding which plants to test in the first place, go with what seems tasty/filling (u/TacoinaToaster suggests root tubers). Bonus points for boiling/roasting.
+* **The test doesn’t apply to mushrooms** (u/salasia).
+
+url:https://reddit.com/r/YouShouldKnow/comments/6rwdo2/
+author:djiivu
+subreddit:YouShouldKnow
+score:5261
+numComments:356
+isOver18:False
+hasPostBody:True

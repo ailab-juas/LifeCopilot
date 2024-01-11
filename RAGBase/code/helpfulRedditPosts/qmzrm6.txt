@@ -1,0 +1,13 @@
+title:
+LPT: When writing an online review for clothing, leave your height, weight, and the size you ordered! It's one of the most helpful things you can tell potential buyers and can save others from needing to make wasteful returns.
+
+content:
+Telling people it fit or didn't fit is useless without also giving your size and the size you ordered.
+
+url:https://reddit.com/r/LifeProTips/comments/qmzrm6/
+author:RockleyBob
+subreddit:LifeProTips
+score:1964
+numComments:44
+isOver18:False
+hasPostBody:True

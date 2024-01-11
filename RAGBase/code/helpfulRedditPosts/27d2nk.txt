@@ -1,0 +1,19 @@
+title:
+YSK How to easily create GIFs
+
+content:
+Use [LiceCap](http://www.cockos.com/licecap/)!
+
+[Example](http://i.imgur.com/IYDPLe8.gif)
+
+As to "why": sometimes it's more useful to show a series of images, and a gif can be a more effective tool to do that than static images. This little program makes it supremely simple to do so  (easier than anything I've used before). It's available for windows and OSX.
+
+Also an instant gif is a nifty little trick. Impress your friends!
+
+url:https://reddit.com/r/YouShouldKnow/comments/27d2nk/
+author:LoveOfProfit
+subreddit:YouShouldKnow
+score:1791
+numComments:146
+isOver18:False
+hasPostBody:True

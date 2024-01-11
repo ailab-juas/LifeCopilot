@@ -1,0 +1,13 @@
+title:
+LPT: Don't primarily associate weight loss with exercise. It takes a lot of effort to burn 200 calories whereas it takes nearly no effort to not put those 200 calories in your body in the first place. Weight loss can be achieved exclusively from your diet.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/100333c/
+author:frivola
+subreddit:LifeProTips
+score:15941
+numComments:887
+isOver18:False
+hasPostBody:False

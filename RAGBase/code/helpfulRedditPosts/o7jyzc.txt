@@ -1,0 +1,13 @@
+title:
+LPT: Loyalty to your company only rewards the company. Hopping companies is the best way to increase your salary, don't sit there hoping for a raise. Apply to other jobs, get a better offer and use it to leverage a raise or take the offer.
+
+content:
+You'd be surprised how many people nearly double their salaries just by applying for jobs.
+
+url:https://reddit.com/r/LifeProTips/comments/o7jyzc/
+author:seanmashitoshi
+subreddit:LifeProTips
+score:75436
+numComments:3495
+isOver18:False
+hasPostBody:True

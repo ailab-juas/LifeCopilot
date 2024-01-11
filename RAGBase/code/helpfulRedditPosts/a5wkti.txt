@@ -1,0 +1,33 @@
+title:
+YSK that midnight Saturday is the deadline to get health insurance for next year in most states
+
+content:
+This Saturday, December 15th is the deadline to get health insurance for next year in most states, so if you live in the US and don’t get  insurance through your job, parents, or something like the VA or Tricare, now would be a very good time to sign up.
+
+Saturday's deadline applies to: AL, AK, AZ, AR, CT, DE, FL, GA, HI, ID, IL, IN, IA, KS, KY, LA, ME, MD, MI, MS, MO, MT, NE, NV, NH, NJ, NM, NC, ND, OH, OK, OR, PA, SC, SD, TN, TX, UT, VT, VA, WA, WV, WI, WY.
+
+These states have later deadlines: CA, CO, MA, MN, NY, RI, DC.
+
+Healthcare in this country is insanely expensive but you may qualify for government subsidies that cover some or all of the cost of the insurance and then you'll actually be able to go to the doctor if you get sick or have an accident. If you make less than $20k a year there's a good chance you can get a plan that costs $0-$20 a month and covers a lot. 
+
+Go to [healthcare.gov](https://healthcare.gov) to see if you qualify before midnight Saturday. You can also call them at (800) 318-2596 but wait times are getting long.
+
+If you talk to a broker or go elsewhere online, watch out for scams like:
+
+short-term insurance (doesn't cover prescriptions or pre-existing, banned by some states)
+
+healthcare sharing ministries (unregulated, lots of loopholes, not actually legally required to cover anything)
+
+critical illness (nicknamed "cash cancer" for a reason - but only obscure cancers you'll never get)
+
+hospital indemnity (cash when you go to the hospital, this is NOT health insurance)
+
+etc. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/a5wkti/
+author:healthsherpa
+subreddit:YouShouldKnow
+score:3039
+numComments:209
+isOver18:False
+hasPostBody:True

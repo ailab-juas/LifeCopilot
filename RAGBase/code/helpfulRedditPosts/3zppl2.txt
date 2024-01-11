@@ -1,0 +1,13 @@
+title:
+LPT: If a small child asks you a question, and you don't understand what they said, answer, "What do you think?"
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/3zppl2/
+author:skullkandyable
+subreddit:LifeProTips
+score:4915
+numComments:970
+isOver18:False
+hasPostBody:False

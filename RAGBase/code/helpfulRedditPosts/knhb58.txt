@@ -1,0 +1,13 @@
+title:
+LPT: If you ever ask yourself the question "should I get gas now or later?" The answer is always now. The fact that you can even consider now means you're in a safer position to get it now vs later when you will most certainly be in anymore urgent situation in which you won't have time.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/knhb58/
+author:cwutididthar
+subreddit:LifeProTips
+score:33980
+numComments:1038
+isOver18:False
+hasPostBody:False

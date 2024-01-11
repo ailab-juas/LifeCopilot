@@ -1,0 +1,25 @@
+title:
+YSK that recipes you find online could be absolute garbage
+
+content:
+Just because someone puts a recipe on their blog does not mean it's good, or that the site owner loves it, or even that the site owner has tried it. Anyone who has ever worked in SEO will tell you that the name of the game for the vast majority of blogs and small websites out there is advertising, so at the end of the day all the owners really care about is getting you to look at their site. As a result, not everyone is concerned with making sure that what they're posting is fact checked or even makes sense at all. As long as they have a long blog post full of pretty food pictures (and advertisements) with a recipe tacked on at the end, they are good to go.
+
+Before making something from a recipe you find online, try to check it out by:
+
+1) checking the comments to see if anyone else has made it and what they thought.
+
+2) compare it with other recipes online to see if they are all similar or if the one you're looking at doesn't seem to fit
+
+3) thinking critically about the ingredients listed and the dish you're trying to make. Does everything seem to make sense? This step is harder if you don't have a lot of experience in the kitchen
+
+*Edit: a lot of comments are saying that America's Test kitchen and Joy of Cooking are very reliable sources for recipes. Also certain YouTube channels like Binging with Babbish*
+
+Ultimately remember that the internet is largely an unmoderated dumpster fire of opinions, information, and copypasta, so anything you see there (including this post) should be taken with a grain of salt.
+
+url:https://reddit.com/r/YouShouldKnow/comments/hycmi9/
+author:jraychris
+subreddit:YouShouldKnow
+score:12834
+numComments:661
+isOver18:False
+hasPostBody:True

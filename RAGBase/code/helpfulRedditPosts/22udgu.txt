@@ -1,0 +1,13 @@
+title:
+LPT: f.lux (by itself a great LPT for post-sundown eye comfort) has a new setting called Darkroom for iris-wide-open working in a black room. (screenshot in comments)
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/22udgu/
+author:Bombjoke
+subreddit:LifeProTips
+score:1517
+numComments:235
+isOver18:False
+hasPostBody:False

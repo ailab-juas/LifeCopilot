@@ -1,0 +1,15 @@
+title:
+LPT: Cancel trial subscriptions on Google Play as soon as you start them. They will still be usable till the end of the trial period, without any risk of forgetting to cancel them and ending up costing money. You can always pay for it if you want to continue.
+
+content:
+Coming from someone who has forgotten to cancel his subscriptions a couple of times.
+
+Edit: as people have pointed out, this works for most subscription-based services, like Netflix and Amazon Prime.
+
+url:https://reddit.com/r/LifeProTips/comments/irxdnv/
+author:iamnnyu
+subreddit:LifeProTips
+score:18086
+numComments:175
+isOver18:False
+hasPostBody:True

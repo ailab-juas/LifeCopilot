@@ -1,0 +1,13 @@
+title:
+LPT: Use newspaper to clean your windows, it works extremely well
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/uwl1w/
+author:GrixM
+subreddit:LifeProTips
+score:1110
+numComments:172
+isOver18:False
+hasPostBody:False

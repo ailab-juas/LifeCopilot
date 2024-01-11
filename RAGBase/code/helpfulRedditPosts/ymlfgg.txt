@@ -1,0 +1,18 @@
+title:
+LPT: Several social media companies are based in California and must abide by CCPA/CPRA privacy acts which requires that all data collected on you be provided or deleted upon your request, regardless of where you live. Take advantage of this act when deleting your social media accounts.
+
+content:
+This applies to all companies that obtain digital records on you in one way or another, not just social media but ecommerce and news sites or anywhere user information has been provided. If you are in Europe you can request this of any website regardless of their location thanks to GDPR. Some US states also have similar privacy protections, as do other countries. 
+
+If you're closing and deleting an account check their HQ location and have them delete all of your collected data. Most data is not deleted automatically and is just no longer accessible but still exists in the Company's datastore. You can request your data or ask that they delete it even after you have already closed/deleted your account.
+
+
+Edit: For those asking how to submit a request, most companies should have in the TOS and Help section instructions on how to submit a request. You can also go through https://yourdigitalrights.org/ and follow their default form, search for the company in question and submit your request.
+
+url:https://reddit.com/r/LifeProTips/comments/ymlfgg/
+author:Kajico
+subreddit:LifeProTips
+score:2909
+numComments:59
+isOver18:False
+hasPostBody:True

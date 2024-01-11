@@ -1,0 +1,13 @@
+title:
+YSK that when logging onto a public wifi hotspot, you should go to a website you've never been to so that you can get to the connect page quicker.
+
+content:
+If you go to a site that is already in your cache, it will take longer for your device to understand you aren't connected. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/59ybpf/
+author:aflockofdoves1
+subreddit:YouShouldKnow
+score:1562
+numComments:129
+isOver18:False
+hasPostBody:True

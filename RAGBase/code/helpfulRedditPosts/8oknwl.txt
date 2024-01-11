@@ -1,0 +1,23 @@
+title:
+YSK that Equifax will stop offering free removal of credit freezes on June 30th, 2018
+
+content:
+If you would like to save yourself the fee and will need to use your credit in the near future, you will need to un\-freeze before this deadline. Below are the details for all three companies:  
+
+
+Equifax: \(800\) 685\-1111 
+
+TransUnion:  \(888\) 909\-8872 
+
+Experian: [https://www.experian.com/freeze/center.html](https://www.experian.com/freeze/center.html)  
+
+
+Note: Experian didn't allow me to do this over the phone, and equifax has a rather finicky automated phoneline operator.
+
+url:https://reddit.com/r/YouShouldKnow/comments/8oknwl/
+author:lenbedesma
+subreddit:YouShouldKnow
+score:3257
+numComments:139
+isOver18:False
+hasPostBody:True

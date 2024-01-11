@@ -1,0 +1,13 @@
+title:
+LPT: If you are going to get two or more movies from Redbox, proceed to checkout with only one. They usually ask if you would like to add a movie for 50 cents.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/449ouw/
+author:RangerJake
+subreddit:LifeProTips
+score:3480
+numComments:358
+isOver18:False
+hasPostBody:False

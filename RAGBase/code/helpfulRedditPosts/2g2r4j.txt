@@ -1,0 +1,15 @@
+title:
+LPT: If you ever need to roughly measure something small and you have no ruler, a one dollar bill is approximately 6 inches. Fold it in half once for 3" or twice for 1.5"
+
+content:
+To be precise, a USD bill is 6.14 inches. A Canadian bill is 152.4mm, which is almost exactly 6 inches. Sorry to all other 200+ countries for not doing the leg work for you, but the general idea is the same. Find out the size of your common bills and you have a handy measuring tool for life.
+
+If you want to get really crafty you can fold it into thirds and then half to get an inch. With great power comes great responsibility.
+
+url:https://reddit.com/r/LifeProTips/comments/2g2r4j/
+author:ubccompscistudent
+subreddit:LifeProTips
+score:1555
+numComments:315
+isOver18:False
+hasPostBody:True

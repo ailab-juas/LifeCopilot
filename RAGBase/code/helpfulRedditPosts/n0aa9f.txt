@@ -1,0 +1,19 @@
+title:
+YSK Biodegradable plastics can still pollute the environment.
+
+content:
+In order for biodegradable plastics (which are different from Bioplastics) to decompose properly they need to be disposed of in a special way:
+
+\&gt; This typically involves temperatures of over 50°C and the right combination of moisture, air and microbes – meaning that these plastics won’t break down if left in the ocean or on domestic compost heaps.
+
+[https://www.sciencefocus.com/science/what-does-biodegradable-plastic-degrade-into/](https://www.sciencefocus.com/science/what-does-biodegradable-plastic-degrade-into/)
+
+Why YSK? You should make sure when you dispose of Biodegradable plastics that they are being disposed of properly, just putting them in the trash is a bad idea.
+
+url:https://reddit.com/r/YouShouldKnow/comments/n0aa9f/
+author:JebusKristi
+subreddit:YouShouldKnow
+score:9270
+numComments:307
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,14 @@
+title:
+LPT: always assume when you’re put on hold that the other person can still hear you.
+
+content:
+I work at a towing company, sometimes when people call in with damage claims complaints etc. we just mute the call and listen for a minute or two, usually someone slips up to a friend what ACTUALLY happened and we just blow them off/ give them the run around from there.
+Most calling services listen in while your on hold for training. So mute your side if your going to say something you wouldn’t want the person you trying get a hold of to know.
+
+url:https://reddit.com/r/LifeProTips/comments/9bkszx/
+author:Kadybaby
+subreddit:LifeProTips
+score:52205
+numComments:1954
+isOver18:False
+hasPostBody:True

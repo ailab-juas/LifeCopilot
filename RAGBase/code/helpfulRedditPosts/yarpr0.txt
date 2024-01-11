@@ -1,0 +1,13 @@
+title:
+LPT: If you're going to send a very personal text message, write it in a notepad app first so you don't accidentally press send
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/yarpr0/
+author:Spartan6056
+subreddit:LifeProTips
+score:1276
+numComments:62
+isOver18:False
+hasPostBody:False

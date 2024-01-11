@@ -1,0 +1,13 @@
+title:
+When you call 911, the first words out of your mouth should be, "I need [service] at [address]. Again, that's [address]." This way the operator has the pertinent details up front and can already have the appropriate people dispatched while you're telling your story. [from /u/USMBTRT]
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1dvffs/
+author:lilsoccakid74
+subreddit:LifeProTips
+score:3099
+numComments:306
+isOver18:False
+hasPostBody:False

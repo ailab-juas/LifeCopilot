@@ -1,0 +1,27 @@
+title:
+YSK what to do in an emergency prior to having the paramedics show up.
+
+content:
+Hi everyone, I'm a paramedic and I have had a few instances recently of bystanders that were either doing things that weren't great, or that didn't know what to do for a friend / loved one and asked. Now, I think everyone should take a first aid class or at minimum a CPR class, but not everyone does. For the average person though there are really only three things that we want a person to do before we're on scene:
+
+* CPR on someone that you think is dead. Don't sweat it if you're wrong, if you aren't a professional it's incredibly difficult in an emergency to really know for sure. Remember that doing or not doing CPR is about whether you think you feel a pulse or not and not whether there really is one. Better to err on the side of doing it if you think they are dead. If you aren't CPR trained the 911 dispatcher can give you instructions as well. It's not rocket science, and our biggest issue in EMS with this is people doing nothing because they think they will do it wrong. Bad CPR is better than no CPR. When we get to a person down that has no CPR started by bystanders, the odds of us saving them decrease drastically. If you read this and aren't comfortable with the thought of doing CPR you really should go take a CPR class. Call your local ambulance service, almost all of them have free public CPR training.
+
+* Stop major, life threatening bleeding. How does a lay person know if it's life threatening? It might be obvious or it might not. If you aren't sure err on the side of stopping the bleeding. Use one thin piece of cloth or gauze and a lot of pressure. Don't add more gauze, if what you are using becomes saturated that's an indication that the bleeding isn't controlled with pressure and the person need a tourniquet. There is no point in covering it with more material, that just makes it so you don't see them bleeding to death. One of the things I look for is a "stream" of blood. If it's arterial it may well squirt or pulsate with the heartbeat, but ultimately if it's enough bleeding to form a solid stream, that bothers me. What I mean by that is this: If you stood up and cut your arm, causing it to bleed a little, it would likely drip off the end of your arm to the floor, dripping is generally not life threatening. If you cut your arm more seriously the bleeding would be enough to cause a solid stream of blood and "pour" onto the ground. That to indicates what I would refer to as "serious" bleeding. The key here though is pressure on the spot that's bleeding. You aren't trying to "clot" the blood, you're just trying to stick your finger in the hole in the boat. Once you have controlled the bleeding, never let go until a paramedic asks you to. No mater what (unless it becomes unsafe), there is no guarantee that if you lose control of that bleeding anyone will be able to control it again. With streaming and dripping I'm talking about immediate after the injury as well, there could be slowed bleeding and dripping as the patient runs out of blood volume. You would be tipped off to that case be their literally being a pool or trail of blood around the person.
+
+* Finally I want you to open the airway of unconscious people with a pulse. [Use a head tilt chin lift](http://www.blscprtraining.com/a3.jpg). The vast majority of people who die from something like alcohol poisoning actually just die from becoming unconscious in a way that their away is blocked and can't breathe. This can be prevented with simple manual manipulation of the head. 
+
+That's pretty much it. There isn't really a need for bandaging, splinting, etc. as I'm going to remove anything bystanders did in my assessment and re-apply professionally. It can be helpful to calm a person down to cover their injury though. I'm not saying you shouldn't do anything else, I'm just saying anything else is extra.
+
+Never stop on or adjacent to a roadway just call 911. That's the most dangerous place in the country, never find yourself standing on a road. Car broken down? You should be 100ft off the side of the road. But that's a tip for another day.
+
+Finally, this is not medical advice. This is advice for lay people to do without training. Although they vary in specifics and no one can ever promise you that your actions are without liability, you should be covered by Good Samaritan laws in most places following this advice.
+
+Let me know if you have any questions!
+
+url:https://reddit.com/r/YouShouldKnow/comments/3c0pew/
+author:SDAdam
+subreddit:YouShouldKnow
+score:1593
+numComments:289
+isOver18:False
+hasPostBody:True

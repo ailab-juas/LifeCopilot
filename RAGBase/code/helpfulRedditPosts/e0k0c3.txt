@@ -1,0 +1,13 @@
+title:
+YSK: that you can copy and paste an image weblink into the file location box of nearly any "Choose File" prompt. You don't need to save it to your computer.
+
+content:
+[Like so](https://i.imgur.com/Spfr804.png)
+
+url:https://reddit.com/r/YouShouldKnow/comments/e0k0c3/
+author:kingeryck
+subreddit:YouShouldKnow
+score:7221
+numComments:123
+isOver18:False
+hasPostBody:True

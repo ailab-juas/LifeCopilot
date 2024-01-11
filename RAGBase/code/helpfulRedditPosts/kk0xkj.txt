@@ -1,0 +1,31 @@
+title:
+YSK that you can register your number to Do Not Call registry to minimise the amount of spam calls and SMS you receive
+
+content:
+Why YSK: A lot of unnecessary SMS and calls can be prevented by registering your number to Do Not Call registry. Each country has its own registry
+**Click View Table**
+
+| Country | Service |
+|:-------|------:|
+| USA | [Do Not Call](https://donotcall.gov)|
+|Australia | [Do Not Call](https://donotcall.gov.au)|
+|UK | [Telephone Preference Service](https://www.tpsonline.org.uk/)|
+| India |  [TRAI](https://trai.gov.in/faqcategory/unsolicited-commercial-communicationsucc)|
+| Canada | [National Do Not Call List](https://www.lnnte-dncl.gc.ca/en)|
+|France | [BLOCTEL](https://bloctel.gouv.fr)|
+| Brazil | [Não Me Perturbe](http://www.naomeperturbe.com.br)|
+|Netherlands| [Bel-me-niet](https://www.bel-me-niet.nl/)|
+| Ireland| [National Directory Database](https://www.citizensinformation.ie/en/consumer/common_consumer_problems/stopping_junk_mail.html)|
+|Belgium|[Do Not Call Me](https://dncm.be)|
+|Spain | [Lista Robinson](https://www.listarobinson.es/)|
+|Germany| none|
+
+Why I shared here: I'm Indian and I registered 5 years ago for 3 mobile numbers and they, get a maximum of 1 SMS per week. My father worked for a popular telecom company and shared this to me. It seems American subscribers still receive calls. Also, I don't know why Germany doesn't have any
+
+url:https://reddit.com/r/YouShouldKnow/comments/kk0xkj/
+author:NainarB
+subreddit:YouShouldKnow
+score:6112
+numComments:294
+isOver18:False
+hasPostBody:True

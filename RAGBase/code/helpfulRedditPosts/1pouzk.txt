@@ -1,0 +1,13 @@
+title:
+LPT: Alien Blue users, tap a link with two fingers to upvote without going to the link. Three fingers to downvote.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1pouzk/
+author:[deleted]
+subreddit:LifeProTips
+score:1375
+numComments:65
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: When your children are born, reserve them a good email address. This way you have the password until they are 18 and you can also use it as a time capsule to send them notes, pictures and feelings as they grow up.
+
+content:
+And if you get them a good one they'll thank you for that, too.
+
+url:https://reddit.com/r/LifeProTips/comments/1pp2xo/
+author:[deleted]
+subreddit:LifeProTips
+score:1553
+numComments:789
+isOver18:False
+hasPostBody:True

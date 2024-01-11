@@ -1,0 +1,13 @@
+title:
+LPT: Don't immediately rinse your mouth after brushing your teeth; the toothpaste is supposed to stay on your teeth for awhile and rinsing it removes the fluoride and it's beneficial effects
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/y2z1yo/
+author:ShitImBadAtThis
+subreddit:LifeProTips
+score:1399
+numComments:369
+isOver18:False
+hasPostBody:False

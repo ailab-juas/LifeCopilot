@@ -1,0 +1,16 @@
+title:
+LPT: If you own a '96 or newer Dodge, Chrysler or Jeep, you can use the ignition trick to find OBD2 codes.
+
+content:
+Insert your key into the ignition. Turn the key to the "on" position without turning the engine over. Then return back to the "off" position. Repeat three times. On the third time, leave it in the "on" position. If there is an error, a code should read out in your odometer. You can search for the code in your manual or online. [Demonstration](https://www.youtube.com/watch?v=cCJGVjT1ylw)
+
+Edit: Forgot to add a part.
+Edit 2: Thanks for all the response. Correction, the "off" position should be the "ACC" position. Thank you [u/Sheeptivism_Anon](https://www.reddit.com/user/Sheeptivism_Anon) for the point. Please forgive my mistake.
+
+url:https://reddit.com/r/LifeProTips/comments/4cr52s/
+author:mipark
+subreddit:LifeProTips
+score:3870
+numComments:699
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: If you're a business owner, keep a vector file of your logo handy
+
+content:
+You will avoid any problems when sending your logo off for promotional purposes such as printing t-shirts, banners, etc. I work for a marketing company, and the amount of poor quality JPEG's of logos I get is absurd. If you've paid to have a logo designed, you should have a vector file of it yourself.
+
+url:https://reddit.com/r/LifeProTips/comments/4k8d02/
+author:Waagwai
+subreddit:LifeProTips
+score:5863
+numComments:1827
+isOver18:False
+hasPostBody:True

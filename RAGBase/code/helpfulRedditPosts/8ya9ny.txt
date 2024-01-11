@@ -1,0 +1,13 @@
+title:
+YSK: some libraries have an app that lets you borrow digital copies.
+
+content:
+Ask your library if they are affiliated with anything like that and take advantage of it. This way you can check out books without even having to leave your house. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/8ya9ny/
+author:CaptainxHindsight
+subreddit:YouShouldKnow
+score:3342
+numComments:124
+isOver18:False
+hasPostBody:True

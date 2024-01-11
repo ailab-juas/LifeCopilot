@@ -1,0 +1,20 @@
+title:
+YSK: Indeed tells the hiring manager how many times you’ve applied to jobs they’ve posted.
+
+content:
+Why YSK: This could either be good or bad for you, as it shows the dates and positions applied for. It could show you as very eager to work with the particular company. But also, it could give the impression you’re not “loyal” or that you’ve been looking for a long time.
+
+
+Edit: rates&gt;dates
+
+Edit: I’m going to go ahead and add the clarifications here. Indeed tells me how many times you’ve applied to positions posted by my account. Not how many other companies you’ve applied for. If you apply to nine different positions over two years, Indeed says “This candidate has applied to 9 other jobs on this account.” And then I can click that and it will tell me the dates and job descriptions and I can see any notes I made, and the status. (Awaiting Review, Reviewed, Rejected)
+
+This isn’t something I care about. It might be something other hiring managers care about, so it seemed like something YSK.
+
+url:https://reddit.com/r/YouShouldKnow/comments/oaf9n1/
+author:mmmaddox
+subreddit:YouShouldKnow
+score:8169
+numComments:275
+isOver18:False
+hasPostBody:True

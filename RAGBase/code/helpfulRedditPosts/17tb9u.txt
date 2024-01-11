@@ -1,0 +1,13 @@
+title:
+If an image is burned into your plasma TV screen turn on static for about a day. Most of the time the image will fade away.
+
+content:
+Depends on how severe the burn is but this is usually a pretty sure-fire way to fix your tv!
+
+url:https://reddit.com/r/LifeProTips/comments/17tb9u/
+author:scottphris
+subreddit:LifeProTips
+score:2366
+numComments:336
+isOver18:False
+hasPostBody:True

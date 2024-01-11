@@ -1,0 +1,17 @@
+title:
+LPT: If youre giving an important presentation and there is ANY chance AT ALL that you will not be presenting on your own computer, you can embed your fonts
+
+content:
+Im a corporate AV tech. Literally my entire job most days is to make sure your powerpoint makes it to that giant screen up there. Most of the time, that means that youll be giving me your presentation to run from a different computer.
+
+Now, really, I understand. I really do. You want your presentation to be striking, so you download a cool font you found online. I want your presentation to go well, too! It's why I do what I do! Or, maybe your organization has a font that it commissioned to be used in official communications. Maybe you just use a different version of windows than everyone else. In any case, you've chosen a non-standard font. Well, problem is, *my* computer doesnt have that font installed on it. Office does a pretty good job finding good replacements, but it will often still result in weird formatting, line breaks where you didnt intend them to be, text sprawling off a page, that kind of thing.
+
+Good news, my friend! Powerpoint has built in a way for you to ensure that my lack of specialized fonts doesnt ruin your presentation! Just open powerpoint, click the file tab, and then options. In the options menu, move to the save tab. At the bottom, under "Preserve fidelity when sharing this presentation", select the "Embed fonts in the file" check box. This will make powerpoint save the font files along with the powerpoint file, and my computer will be able to recognize your super special fancy fonts
+
+url:https://reddit.com/r/LifeProTips/comments/otd0p6/
+author:ArgonWolf
+subreddit:LifeProTips
+score:1935
+numComments:79
+isOver18:False
+hasPostBody:True

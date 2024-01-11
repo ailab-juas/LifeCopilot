@@ -1,0 +1,13 @@
+title:
+LPT: If you've gotten outstanding service from someone and are asked to do a survey, take the time to hook them up. Those surveys can go a long way, and will surely light up their day
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/6bqz5y/
+author:LampsLookingatyou
+subreddit:LifeProTips
+score:1215
+numComments:69
+isOver18:False
+hasPostBody:False

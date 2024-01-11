@@ -1,0 +1,13 @@
+title:
+Make a autocorrect shortcut to easily enter your email.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1lge1e/
+author:SamF1sh
+subreddit:LifeProTips
+score:2499
+numComments:321
+isOver18:False
+hasPostBody:False

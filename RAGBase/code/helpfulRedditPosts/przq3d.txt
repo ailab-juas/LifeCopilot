@@ -1,0 +1,13 @@
+title:
+LPT: Learn a skill to make something physical and tangible, what you can touch and feel. E.g., leathercraft, woodworking, cooking, painting, photography with the intent to print, etc. Being able to touch your creation is a huge stressbuster, a way to get off social media, and thoughtful presents.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/przq3d/
+author:hash1e
+subreddit:LifeProTips
+score:37430
+numComments:1364
+isOver18:False
+hasPostBody:False

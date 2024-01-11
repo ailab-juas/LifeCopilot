@@ -1,0 +1,16 @@
+title:
+LPT: Add an estimated time to completion on every task of your to-do lists.
+
+content:
+If you are a serial procrastinator like myself, you may have found to-do lists useful. However it can feel overwhelming when little tasks add up.
+
+Adding the time needed to accomplish them makes you notice how little it will take. "Doing the dishes (15 min)" feels less a pain when you have been on Reddit for 2 hours already. It also feels good to see when you overestimated the time and you can now go back to procrastinating.
+
+
+url:https://reddit.com/r/LifeProTips/comments/4b5l7d/
+author:Tantaurus
+subreddit:LifeProTips
+score:1774
+numComments:120
+isOver18:False
+hasPostBody:True

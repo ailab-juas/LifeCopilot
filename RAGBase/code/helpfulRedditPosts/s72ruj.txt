@@ -1,0 +1,21 @@
+title:
+LPT: If you receive a traffic or parking ticket, look up the specific statute cited on the ticket. The state has the burden of proof you committed the offense and building your case by citing the specific statute is often the only way to be found not guilty.
+
+content:
+Your citation should tell you the code section you allegedly violated. Sometimes it will be hand printed by the officer in a box or blank; other times it's preprinted on the ticket, with the officer simply checking the appropriate box. In either case, near the statute number, you will often find a very short description of the law. You might see something like, "VC 22350"—meaning "Vehicle Code section 22350." Or "TC 545.351," for "Transportation Code section 545.351."
+
+Once you find the law you're accused of breaking, read it carefully. The penalties for traffic offense are typically less severe than those for more serious violations of the law. But the state—either a prosecutor or the citing officer—still has the burden of proving you committed the offense. When you read a statute, you want to figure out exactly what components—called the "elements"—make up a violation of the law.
+
+I've used this successfully recently to battle a ticket in Hawaii where an airport cop pulled me over and wrote me a ticket for speeding. Looked up the statute and they were required to prove their case by either getting me on radar of following me for one mile. This was a small aiport only 3/4 of a mile total around, and he didn't get me on radar. I cited the statute, showed they didn't meet the burden of proof, and they dismissed the case. All by mail without a court appearance.
+
+IMO it's worth your time. Most statutes can be found online.
+
+I've been to traffic court before and 100% of the people found guilty say things like "the sun was in my eyes" or "this isn't fair" or "the cops are just trying to make their quota" and the successful ones cite the specific statute, bring up exceptions found in the statute (i.e. no parking at any time except for temporary loading and unloading -"I was moving into my new apt and the statute allows for this exception") and successfully argue why the state hasn't proven their case.
+
+url:https://reddit.com/r/LifeProTips/comments/s72ruj/
+author:Mdizzle29
+subreddit:LifeProTips
+score:1327
+numComments:115
+isOver18:False
+hasPostBody:True

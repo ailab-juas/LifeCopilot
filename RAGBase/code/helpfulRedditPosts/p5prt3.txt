@@ -1,0 +1,13 @@
+title:
+LPT: The less you punish honesty, the more likely you will be told when something goes truly and embarrassingly wrong. You can still have consequences, but have them for the mistake, not for the act of being honest and telling about it.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/p5prt3/
+author:Pangolindrome
+subreddit:LifeProTips
+score:1445
+numComments:43
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+YSK that if you have recently started medication for depression and have thoughts of suicide, it could very well be a side effect of the antidepressant medication.
+
+content:
+It’s hard to notice because the thoughts come from inside you, and they seem like your everyday thoughts.
+
+url:https://reddit.com/r/YouShouldKnow/comments/35hme9/
+author:checkmarkiserection
+subreddit:YouShouldKnow
+score:1815
+numComments:302
+isOver18:False
+hasPostBody:True

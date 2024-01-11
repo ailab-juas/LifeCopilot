@@ -1,0 +1,13 @@
+title:
+LPT: If you're getting into working out, take a picture on your first day and then another 1 months later. Much like not noticing our hair grow day to day, it's hard to notice progress when you see yourself daily. The comparison of the pictures will help put into perspective what you're working for!
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/cdmizd/
+author:oHCo12
+subreddit:LifeProTips
+score:1549
+numComments:58
+isOver18:False
+hasPostBody:False

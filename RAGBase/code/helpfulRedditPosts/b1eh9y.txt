@@ -1,0 +1,17 @@
+title:
+YSK a sudden loss of vision affecting both eyes is a sign of a stroke
+
+content:
+30-50% of strokes involve vision loss, yet most people do not know that you can lose vision from a stroke and it is not part of the FAST (Face, Arm, Speech, Time) acronym for stroke. I work with stroke victims a many noticed the vision loss but tried to sleep it off, not knowing it was a stroke and delaying their treatment during a crucial time. 
+
+If you notice a loss of vision in the periphery of both eyes, call your doctor.
+
+Edit: everyone has a problem with the “call your doctor” part. Let’s modify that to “call the appropriate medical professionals.” That can be different for different people, so use your best judgement
+
+url:https://reddit.com/r/YouShouldKnow/comments/b1eh9y/
+author:orfane
+subreddit:YouShouldKnow
+score:2844
+numComments:173
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,17 @@
+title:
+YSK about Semantic Scholar. An online database of open access journals.
+
+content:
+It contains 42+ million journal articles. You can filter results into Medicine or Computer Science field, year published, publication type, author(s), journal and conference, contains a PDF, etc. 
+
+&amp;#x200B;
+
+The website is [https://www.semanticscholar.org/](https://www.semanticscholar.org/) 
+
+url:https://reddit.com/r/YouShouldKnow/comments/aok78b/
+author:739RedRose
+subreddit:YouShouldKnow
+score:2354
+numComments:20
+isOver18:False
+hasPostBody:True

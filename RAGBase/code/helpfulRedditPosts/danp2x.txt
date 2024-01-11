@@ -1,0 +1,13 @@
+title:
+LPT: When punishing younger children for something, discuss with them what they have done wrong before giving any punishment. This gives them an explanation and re-enforces some rules that you might not make as clear as others, along with making them feel more understood.
+
+content:
+If you can, don’t punish them on the first offense either. If they really didn’t know what they were doing wrong, give them a second chance.
+
+url:https://reddit.com/r/LifeProTips/comments/danp2x/
+author:foot-waffle
+subreddit:LifeProTips
+score:1410
+numComments:78
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT : If you make a meal that is too hot to eat at first, instead of blowing on it, clean up the kitchen until it is at a good temperature to eat. You will be less motivated to clean up after you enjoy your meal.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/tre9f4/
+author:Shamashu
+subreddit:LifeProTips
+score:2931
+numComments:71
+isOver18:False
+hasPostBody:False

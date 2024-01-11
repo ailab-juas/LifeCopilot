@@ -1,0 +1,13 @@
+title:
+LPT: When checking reviews online on sites like Amazon.com, also check reviews sorted by latest date first. Some merchants will start selling a lower quality version of the product after reaching a high ranking.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/252suk/
+author:[deleted]
+subreddit:LifeProTips
+score:3514
+numComments:258
+isOver18:False
+hasPostBody:False

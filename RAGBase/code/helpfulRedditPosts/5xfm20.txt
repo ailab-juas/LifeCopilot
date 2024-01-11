@@ -1,0 +1,15 @@
+title:
+LPT: Debates and arguments end. If you find the conversation circling, it's not a debate, it's someone trying to out talk you.
+
+content:
+Debates and arguments will be sourced with a definitive goal. If the topic keeps skipping to new points, or they focus only on a small mistake.
+
+It's a troll, not someone looking to learn or discuss.
+
+url:https://reddit.com/r/LifeProTips/comments/5xfm20/
+author:ImThatGuyToday
+subreddit:LifeProTips
+score:1084
+numComments:58
+isOver18:False
+hasPostBody:True

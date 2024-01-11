@@ -1,0 +1,15 @@
+title:
+YSK in addition to all of the other bad things it does, measles wipes out your immune system's memory, so you can lose immunity to things you were previously immune to.
+
+content:
+This makes people who are infected with measles much more likely to get and spread other communicable diseases. 
+
+http://www.nationalgeographic.com/science/2019/03/measles-vaccine-protect-disease-immune-amnesia/
+
+url:https://reddit.com/r/YouShouldKnow/comments/e75nn2/
+author:formulawanker
+subreddit:YouShouldKnow
+score:9771
+numComments:168
+isOver18:False
+hasPostBody:True

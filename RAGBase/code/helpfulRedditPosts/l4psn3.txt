@@ -1,0 +1,17 @@
+title:
+YSK that Expectation Management is a Crucial but Underrated Skill
+
+content:
+Why YSK: As a career consultant, I have observed that the vast majority of projects that were unsuccessful failed not because of any technical shortcomings, but because of bad expectation management (EM). EM is important for all relationships, not just the client-consultant one.
+
+When you are planning to do something, whether for work or in your personal life, be honest with yourself and any other parties about what can be done within a given timeframe/budget. It may lead to disappointment and possibly even you losing the project, but it’s better to weed those situations out at the beginning rather than be stuck with an impossible task that you can’t deliver on. If you fail to deliver after agreeing to unreasonable terms, it’s all on you. At that point, your reputation will take a much bigger hit than if you had just been honest at the beginning.
+
+This sounds so obvious, but I can’t tell you how many times I’ve seen other consultants land in hot water with clients because they promised something could be done in 4 weeks when they know it usually takes 6-8. Only twice in my career did a client walk because I was honest with them about what could be done, and I believe I (and my firm) dodged a bullet in both cases.
+
+url:https://reddit.com/r/YouShouldKnow/comments/l4psn3/
+author:felix_mateo
+subreddit:YouShouldKnow
+score:11081
+numComments:127
+isOver18:False
+hasPostBody:True

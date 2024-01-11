@@ -1,0 +1,13 @@
+title:
+LPT: Check if your A/C has an "anti-fungal" setting. It will keep working for several minutes after shutdown, blowing room-temperature air to keep fungus from growing on the unit's radiator.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/d5nxi6/
+author:TrippinOnCheese
+subreddit:LifeProTips
+score:1373
+numComments:38
+isOver18:False
+hasPostBody:False

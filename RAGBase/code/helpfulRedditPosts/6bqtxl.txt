@@ -1,0 +1,13 @@
+title:
+YSK how to tell if a number is divisible by another number.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/YouShouldKnow/comments/6bqtxl/
+author:[deleted]
+subreddit:YouShouldKnow
+score:7542
+numComments:347
+isOver18:False
+hasPostBody:True

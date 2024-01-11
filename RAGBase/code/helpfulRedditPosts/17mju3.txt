@@ -1,0 +1,13 @@
+title:
+LPT: Ctrl+Shift+J in Chrome to open a prompt that can be used for quick calculation.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/17mju3/
+author:chatmonchy
+subreddit:LifeProTips
+score:1271
+numComments:304
+isOver18:False
+hasPostBody:False

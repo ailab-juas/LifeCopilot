@@ -1,0 +1,13 @@
+title:
+YSK Target is now offering 1 FREE year of Experian credit monitoring for those who shopped during their data breach!
+
+content:
+http://target.com/databreach
+
+url:https://reddit.com/r/YouShouldKnow/comments/1vdqlk/
+author:rickribera93
+subreddit:YouShouldKnow
+score:1458
+numComments:181
+isOver18:False
+hasPostBody:True

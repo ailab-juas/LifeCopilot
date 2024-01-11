@@ -1,0 +1,13 @@
+title:
+LPT: If something trivial makes you upset, just think to yourself "if this is all I have to be upset about, my life is pretty good."
+
+content:
+I find that this helps to not get angry or mad about something small or meaningless. Because someone somewhere has it worse than you.
+
+url:https://reddit.com/r/LifeProTips/comments/5xpaqh/
+author:skaterfromtheville
+subreddit:LifeProTips
+score:1407
+numComments:59
+isOver18:False
+hasPostBody:True

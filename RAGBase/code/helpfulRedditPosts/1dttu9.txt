@@ -1,0 +1,13 @@
+title:
+LPT: When renaming multiple files on a windows machine, instead of pressing enter to finish the rename, press tab to instantly move to the next sequential file, with the renaming process already started.
+
+content:
+Tested on Windows 7
+
+url:https://reddit.com/r/LifeProTips/comments/1dttu9/
+author:dmaji1
+subreddit:LifeProTips
+score:1318
+numComments:71
+isOver18:False
+hasPostBody:True

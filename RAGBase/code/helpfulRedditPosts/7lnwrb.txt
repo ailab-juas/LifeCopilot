@@ -1,0 +1,17 @@
+title:
+YSK: If your laptop has a USB port with a lightning symbol next to it , you can use it to charge your phone or accessories without switching the laptop on .
+
+content:
+If the symbol is there but it doesn’t work, check your BIOS, you’ll have an option to enable usb power delivery . You can enter the BIOS only during startup (before you see the windows icon) by pressing a key specific to your system manufacturer. It’s usually one amongst the function keys or DEL key in some cases . You’ll have more information in your instruction manual .
+
+Note: Was posted to LPT but the mods said it wasn't fit to be a LPT and removed it. Thought you guys might find it useful.
+
+Edit : Since this seems to be gaining traction, just a reminder to everyone this festive season, to say thanks for the little things we receive from the people around us . It costs us nothing and encourages the person to do even better . And happy holidays!
+
+url:https://reddit.com/r/YouShouldKnow/comments/7lnwrb/
+author:hdpe125
+subreddit:YouShouldKnow
+score:22558
+numComments:309
+isOver18:False
+hasPostBody:True

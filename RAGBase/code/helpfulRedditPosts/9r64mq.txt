@@ -1,0 +1,13 @@
+title:
+YSK Animal shelters are usually happy to take old towels and blankets off your hands for animal bedding. Better then sending them off to a landfill somewhere!
+
+content:
+Here is a list of things shelters are in need of: https://www.animalhumanesociety.org/donate/donate-our-wish-list
+
+url:https://reddit.com/r/YouShouldKnow/comments/9r64mq/
+author:hdormitzer
+subreddit:YouShouldKnow
+score:4111
+numComments:46
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,17 @@
+title:
+YSK: When Googling for a customer service phone number, do not always rely on Google's snippets.
+
+content:
+For example, search for "Skype customer service". The first result will be a snippet that gives a phone number. If you'll notice, the phone number is sourced from a Facebook question. This number is a scam number, and my family member only caught on when the person on the other end asked to be sent $120 as a processing fee. 
+
+(Feel free to give them a call and waste their time if you would like. It's the 1-844 number. I've reported them to Google, but who knows how long it will take to bring down)
+
+EDIT: adding an additional source of coverage on the topic from Malwarebytes (so this isn't just a personal experience reference): https://blog.malwarebytes.com/cybercrime/hacking/2016/08/googles-featured-snippets-abused-by-seo-scammers/
+
+url:https://reddit.com/r/YouShouldKnow/comments/6h0f8k/
+author:ComfortablyNumber
+subreddit:YouShouldKnow
+score:1037
+numComments:31
+isOver18:False
+hasPostBody:True

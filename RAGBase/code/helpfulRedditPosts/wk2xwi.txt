@@ -1,0 +1,15 @@
+title:
+LPT: To Easily Transfer Files Between Devices, Attach the file in your email on Device 1 to create a "Draft", then log into your email on Device 2 and download from your created "Draft"
+
+content:
+*UPDATE TO ADD*
+
+I'm aware of cloud storage and other options, this was meant to be a quick-desperate option if needed before cloud option and/or additional options were available.
+
+url:https://reddit.com/r/LifeProTips/comments/wk2xwi/
+author:crzydjm
+subreddit:LifeProTips
+score:20527
+numComments:873
+isOver18:False
+hasPostBody:True

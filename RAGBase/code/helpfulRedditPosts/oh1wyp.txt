@@ -1,0 +1,13 @@
+title:
+LPT Take videos of you doing every day things with your pets, like belly rubs or ear scratches. You'll appreciate being able to go back and watch them when they're gone.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/oh1wyp/
+author:soimalittlecrazy
+subreddit:LifeProTips
+score:1111
+numComments:34
+isOver18:False
+hasPostBody:False

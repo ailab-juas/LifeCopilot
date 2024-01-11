@@ -1,0 +1,43 @@
+title:
+YSK: A flu shot isn't just for you. It protects people who can't get a flu shot.
+
+content:
+Every year around this time, you see reminders to get your flu vaccine, and every year, a bunch of people don't do it, for one reason or another. "I never get the flu anyway." "The flu shot makes me sick, so why bother?" "It doesn't even work, so what's the point?"
+
+The point is that in addition to protecting *you* against the most common strains of the flu each year, we need a critical mass of people to get vaccinated to prevent the flu from spreading at all, so people that *can't* get the vaccine - the very young, elderly, or immunocompromised - are protected, too. This is super important, since this is the group most likely to suffer serious complications if they get the flu, including death. 
+
+[This is called "herd immunity," or "community immunity."](https://www.vaccines.gov/basics/protection/index.html) The point is that [if a high enough percentage of people are immune, there are too few susceptible people for the virus (that was a typo, thank you) to spread.](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Herd_immunity.svg/512px-Herd_immunity.svg.png) We've successfully done this with diseases like measles and mumps ([except where anti-vaccers have caused outbreaks](https://www.washingtonpost.com/news/to-your-health/wp/2017/10/03/failure-to-vaccinate-is-likely-driver-of-u-s-measles-outbreaks-report-says/)). 
+
+So YSK, get a flu shot, because it'll probably keep you from getting the flu, and grandma needs you to get the flu shot so *she* doesn't get the flu when you sneeze in the supermarket. Grandmas and newborns everywhere thank you. 
+
+&amp;nbsp;
+
+**Edit:**
+
+Just to clear up a few things.
+
+The flu vaccine [varies in effectiveness](https://www.cdc.gov/flu/professionals/vaccination/effectiveness-studies.htm) from year to year, based on how well it matches the circulating strains of influenza, but generally goes a good job reducing your risk of becoming sick with the flu by 40-50%. Each year, the vaccine protects against three strains, and [a lot of work](https://www.cdc.gov/flu/about/season/vaccine-selection.htm) goes in to determining which strains are most likely to be common. It isn't just guesswork. 
+
+&amp;nbsp;
+
+That doesn't sound effective enough to want to get the vaccine? Here's a more important number: The CDC estimates there are about 20 to 30 THOUSAND flu-associated deaths a year, on average, mostly from secondary respiratory infections like pneumonia. But to see what a big deal the vaccine makes, we can compare a "good" year and a "bad" year. The "bad" year was 2004, when the vaccine was largely ineffective. There were about 45,000 flu-associated deaths that year. The "good" year, oddly enough, was 2009, the year H1N1 scared everyone, with about 15,000 deaths.
+
+Why the difference? No vaccine in 2004, but a very effective vaccine and higher-than-normal vaccination rates in 2009. 
+
+It works. Save lives. Get your flu shot. 
+
+&amp;nbsp;
+
+**Edit #2:**
+
+Via Vox: [Stop reading this headline and go get a flu shot](https://www.vox.com/2016/10/21/13344896/seriously-go-get-flu-shot)
+
+Many of the points I've made, made much better, via one of the best (if not the best) healthcare journalists in the US. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/747lcv/
+author:DarwinZDF42
+subreddit:YouShouldKnow
+score:16838
+numComments:1575
+isOver18:False
+hasPostBody:True

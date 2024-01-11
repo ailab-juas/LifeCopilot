@@ -1,0 +1,13 @@
+title:
+LPT: Use Starbucks to get rid of foreign currency
+
+content:
+If you ever find yourself departing a country and have left over local currency, stop by the Starbucks at the airport and load your remaining local currency onto your Starbucks gift card. It'll automatically translate to your home currency at a great exchange rate.
+
+url:https://reddit.com/r/LifeProTips/comments/6i2mbt/
+author:johnmaysonus
+subreddit:LifeProTips
+score:1124
+numComments:147
+isOver18:False
+hasPostBody:True

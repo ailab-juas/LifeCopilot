@@ -1,0 +1,37 @@
+title:
+YSK how to book your first therapy/psychologist appointment
+
+content:
+YSK how to find help from a professional if you're in need or have been considering it. It can seem intimidating, which is the last thing someone needing help wants to deal with. These steps assume you have medical insurance, maybe others can chime in for those that don't. 
+
+From my experience, I usually
+
+1) first go to https://www.psychologytoday.com/us/therapists and filter local therapists by whether they accept your insurance, issue, and whatever else is important to you (sex, therapy style, LGBTQ focused, etc).
+
+2) Once you find a list, I would then go to your insurance site and you'll be able to find a directory of covered therapists. Even though the therapist listed the insurance on Psychology Today, that might be outdated info or inaccurate or whatever. So cross reference the list of therapists you picked out from Psychology Today with the insurance company's list.
+
+3) Of those that appear to accept your insurance, start reaching out to some from their Psychology Today profile. Many you can email straight from that profile page. Others you will need to call. I generally use a message like this:
+
+"Good afternoon, my name is X. I am interested in learning how to go about setting up an initial appointment with you. I have been previously diagnosed with X **or** I have trouble dealing with X and believe it might be X. I have X insurance, which it appears you accept. If accepting new patients, please just let me know next steps. Thanks!"
+
+If calling, the same bit can be used.
+
+4) They'll then let you know if they are accepting new patients and if they accept your insurance, and (if so) then set up an initial appointment with you (or sometimes an initial call). Be aware that lots of therapists have full patient loads and not accepting patients (you can ask about a wait list) and many don't accept insurance (way too much paperwork on their part). Don't give up! You'll probably have to reach out to multiple before you get one that can see you and then after the initial appointment (which is basically a meet and greet), you decide whether you feel comfortable talking with this person or if you want to try another.
+
+Just make sure you verify multiple times over that they accept your insurance beforehand.
+
+Good luck! It is so worth it.
+
+Edit: /u/kalabash commented below about the terminology one uses when asking about insurance, which seems to be a good call: 
+
+"This is a big ask, OP, but I would very much caution against using the phrase “accepts your insurance”. As someone who took the calls for years, all “accepts your insurance” means is that the provider is willing to bill the insurance on your behalf. All insurance reps have taken countless calls from customers dismayed to found out their provider isn’t contracted for their plan. “But they said they accepted my insurance!”
+
+The proper lingo is to ask if a provider is “participating”, “par”, or “contracted” with the member’s plan. In addition, we caution very severely against relying on what the provider says. Call the insurance. Ask. That way you get the call recorded. If something goes awry regarding the provider’s contractual status, you’re protected. “Accept my insurance” is not good enough and has not been good enough for as long as I can remember. This thread is already filled with people saying they can barely afford visits as it is. Setting them up to be misled by providers who imply they’re contracted when they’re not does a grave disservice to people."
+
+url:https://reddit.com/r/YouShouldKnow/comments/9apdcv/
+author:CocoMonkeyBank
+subreddit:YouShouldKnow
+score:3654
+numComments:216
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,17 @@
+title:
+YSK: Check AliExpress before you buy something on Amazon, because a lot of items on Amazon are just AliExpress items being sold at a huge mark-up.
+
+content:
+Why YSK: This will save you from being overcharged. [Example](https://i.redd.it/9ntnajd720y81.png)
+
+Edit: A lot of people seem to think you get faster shipping when buying these drop shipped items from Amazon. You don't. I have bought multiple items on Amazon that took a month to deliver which I later found out were simply being drop shipped from AliExpress. These items on Amazon are drop shipped. ***They take the same time to ship on Amazon as they do on AliExpress.***
+
+Credit to: u/churnboi323 for making the image
+
+url:https://reddit.com/r/YouShouldKnow/comments/ukd6hd/
+author:bateman34
+subreddit:YouShouldKnow
+score:8396
+numComments:404
+isOver18:False
+hasPostBody:True

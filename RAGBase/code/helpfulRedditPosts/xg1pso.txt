@@ -1,0 +1,23 @@
+title:
+YSK You can skip any ad on the YouTube app
+
+content:
+Why YSK, nothing ruins a video like having to watch 40 seconds of ads.
+
+When an Ad starts, select the information button at the bottom left (why this ad) go down to ‘Stop seeing this ad’ hit select and choose ‘Return to video’ this will instantly skip both ads, although it’s tedious doing this several times a video it’s a lot easier than putting up with 40 seconds of ads.
+
+This works on the YouTube app, unsure about via browser.
+
+Hope this helps.
+
+Edit: This mostly applies to users that don’t have access to extensions. I watch YouTube via my Sky box that has the YouTube app built in. I’m sure a high percentage of people are aware of Adblock.
+
+Edit 2: I believe this only works on the TV version of the app and not the mobile version.
+
+url:https://reddit.com/r/YouShouldKnow/comments/xg1pso/
+author:Incho94
+subreddit:YouShouldKnow
+score:4686
+numComments:361
+isOver18:False
+hasPostBody:True

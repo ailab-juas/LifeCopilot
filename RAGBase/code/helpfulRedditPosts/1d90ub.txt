@@ -1,0 +1,13 @@
+title:
+LPT: Google Maps for mobile can be an effective car locater. Just tap your current location when you park, and "star" the location.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1d90ub/
+author:see__no__evil
+subreddit:LifeProTips
+score:1954
+numComments:266
+isOver18:False
+hasPostBody:False

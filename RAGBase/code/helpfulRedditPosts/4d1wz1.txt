@@ -1,0 +1,31 @@
+title:
+LPT: How to deal with being stonewalled by a faceless bureaucracy.
+
+content:
+We've all been there: you've asked for something from your local council and they've stonewalled you; you need a document from your University and they're ignoring you; you've got a problem with your apartment and they are pretending you don't exist. These sorts of organisations create a wall of front-facing fall-guys (typically call-centre employees) who have no access to any real knowledge or power. Sometimes they leave you powerless and seemingly with no way to treat with them.
+
+Here's the solution my father passed on to me a number of years ago - he used to do it with written letters.
+
+-----
+
+First draft and store a stock email explaining the problem and the solution you want from them in polite, firm, general terms. **Always avoid abuse or anything else that could be construed as harassment.** Then send the same email, just CTRL+C'd, to the address that you have: only send one email the first week, then two emails the next week, and four the next week, finally one a day on the ~~third~~ fourth week. Most of the time they see the writing on the wall and acquiesce. If not, at this point if you've been using your normal email address, they'll probably have put you in their spam filter. So if you haven't already, you'll want to use disposable forwarding email addresses [e.g. this](https://forward.cat/). These mean that they can't effectively block you, especially if you use multiple domain sites. 
+
+Obviously you can scale all of this as much as you like depending on your deadline. Another method for more impact is beginning to CC other email addresses in your emails. Email addresses are fairly easy to find typically, because bureaucracies all function on them and have internal lists. So bringing in more collateral damage can put internal pressure on them to resolve the issue. Try sending the email with different tones and quite general subject lines (e.g. 'Ongoing issue...', 'Re: Organisation', or 'Help!'), so they don't know it's the same email and have to open it. Yet another way of **really** annoying people is to use completely different formatting sometimes: Comic Sans font, and liberal red or yellow highlighting is a particular annoyance.
+
+They'll respond. The worst it ever got for me was sending the same email five times a day to multiple people from throwaway email accounts. They folded. 
+
+Be prepared though: this can *really* piss people off. It's only a solution if they're totally stonewalling you and all forms of communication have already broken down. Definitely don't do this to people you want to keep dealing with...
+
+TLDR: send repeated emails, and mash it up with different addresses, fonts, subject lines, etc.
+
+-----
+
+Edit: more useful email resources courtesy of /u/escalat0r: http://notsharingmy.info/ and https://trashmail.com. The latter is probably the best.
+
+url:https://reddit.com/r/LifeProTips/comments/4d1wz1/
+author:articleofpeace
+subreddit:LifeProTips
+score:4572
+numComments:664
+isOver18:False
+hasPostBody:True

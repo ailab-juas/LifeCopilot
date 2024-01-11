@@ -1,0 +1,29 @@
+title:
+YSK What your Google Personal info and Privacy settings are and what control you have over them.
+
+content:
+I was fumbling through my phone earlier today trying to change settings to improve my battery life and I ended up on my Google account page. I found many interesting options turned on by default across many menus and sub-menus that might be useful to be aware of. You can go straight to yours by this link myaccount.google.com/privacy Here is a few things I found on by default. 
+
+Under "Personal Info &amp; Privacy" clicking on 'Privacy Checkup" offers many options ranging from what is automatically shared to your Google+ account, to Google Photo geo-location defaults, face recognition and grouping, and Location and Audio recording history (which I go into detail later).
+
+Under "Personal Info &amp; Privacy&gt;Your Personal Info" section check your "Location Sharing" Option to see what websites and apps you are currently sharing your location with.
+
+"Personal Info &amp; Privacy&gt;Activity Controls&gt;Places You Go" logs locations you visit regardless if its an address you input or just a location you visit, simple as that. The pro to this is that Google Maps can load the area you frequent the most to cut down load time and data usage and offer faster routes etc. Straight from this page is Google's disclaimer for what they collect:
+&gt; Quality and duration of your connections to cell networks, GPS, Wi-Fi networks, or Bluetooth, State of your location settings, reboot occurrences and crash reports, Apps used for turning Location History on or off, or battery levels.
+
+"Personal Info &amp; Privacy&gt;Activity Controls&gt;Voice Searches and Commands" The creepiest setting I ran into listed about 200 clips of my voice ranging from Google Voice Searches, which is understandable, but also voice clips of myself and people nearby, all transcribed to text, from everyday conversations. Have a look through this list on your account, it's interesting. You can disable this setting if you so wish by clicking the switch to grey and also clicking on "Manage Activity" and clearing previous entries.
+
+"Personal Info &amp; Privacy&gt;Ad Settings" Allows you to do what you expect, turn on or off personalized ads. Another setting worth mentioning on this page is control over what ads Google sends the device you're on regardless if you're signed in or not to a Google account.
+
+A lot of what I found in just a few pages had a huge impact on my internet browsing and security, and a lot of settings that most people might not be aware of are on that they may wish to have off.
+
+
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/4nm912/
+author:beastgunner
+subreddit:YouShouldKnow
+score:1272
+numComments:25
+isOver18:False
+hasPostBody:True

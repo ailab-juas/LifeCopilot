@@ -1,0 +1,13 @@
+title:
+LPT: If you're not in a hurry, take the scenic route. Discovering new places and experiencing the road less traveled is its own reward.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/wm5xvq/
+author:OddGuyOuttaSight
+subreddit:LifeProTips
+score:19017
+numComments:556
+isOver18:False
+hasPostBody:False

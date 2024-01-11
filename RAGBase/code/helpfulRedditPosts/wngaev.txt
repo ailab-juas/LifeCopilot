@@ -1,0 +1,30 @@
+title:
+YSK you can haggle on your hospital bill*
+
+content:
+You should know that if you live in America, you can haggle on your health care bill. Your insurance company does it, and you're allowed to do so too.
+
+The first step comes when they serve you with a bill saying how much money they want from you, ask them for a fully itemised list. This will often significantly reduce the price they'll ask you for. 
+
+Next, if there's anything on that list you're certain you didn't get, tell them that and ask for it to be taken off the list as you didn't receive it. 
+
+Lastly, if the price is still outside the range of what you can afford to pay without ruining your finances, you can ask the hospital if they have any payment plans to accommodate that, they almost always do.
+
+
+Even in the rare event that the hospital refuses to budge on any of this, you haven't lost anything but a bit of time. There's no need to hire a lawyer for this, and the hospital will never charge you more than the initial bill anyway. 
+
+Note: This only applies to healthcare in the United States. It may work elsewhere but I'm not knowledgeable on that enough to say. Additionally this is more applicable to those with either no insurance or getting something done not covered by your insurance agency, as they do this on your behalf if it is covered.
+
+Why YSK: American healthcare is ruinously expensive at face value, but you can often reduce the price by simply asking your healthcare some questions about it, so that being un-insured doesn't have to be a financial death sentence.
+
+Edit: To all the Europeans (and disillusioned Americans) taking this as an excuse to clown on the american medical system in the comments, yes I know this system sucks, that's *why* I'm trying to help people get fucked by it less.
+
+If this advice doesn't apply to you it means you're in a situation where you don't need this. Good for you, but unfortunately many people are not so lucky.
+
+url:https://reddit.com/r/YouShouldKnow/comments/wngaev/
+author:Remote_Romance
+subreddit:YouShouldKnow
+score:5799
+numComments:409
+isOver18:False
+hasPostBody:True

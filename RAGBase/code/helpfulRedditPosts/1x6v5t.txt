@@ -1,0 +1,19 @@
+title:
+LPT: Throwing out a laptop/computer? Remove the hard drive and convert it into a USB external hard drive
+
+content:
+I was doing some clearing and decided to throw out my old laptop. Before I did, I removed the 500GB hard drive in it and bought a £2.00 enclosure on eBay, which converted it into a regular USB hard drive. I couldn't believe how simple and cheap it was and I would bet that a lot of people throw away their PCs with perfectly functional hard drives inside who are unaware of this trick.
+
+ For those who aren't very technical, a regular SATA hard drive looks like [**this**](http://i.imgur.com/bXMWShT.jpg). Every external hard drive contains one of these inside. To convert it into a regular hard drive all you need is a cheap enclosure like [**this one**](http://www.ebay.co.uk/itm/Blue-2-5-SATA-to-USB-HARD-DRIVE-CADDY-HDD-CASE-ENCLOSURE-for-Laptop-Xbox-/300781806145?pt=UK_Collectables_HardDriveEnclosures_RL&amp;hash=item4607fe2241). Mine came with simple instructions and within minutes it was set up.
+
+__
+
+**Bonus**: This is also great for if your laptop/computer breaks but isn't a hard drive-related problem because you will still be able to access everything on the hard drive, no data lost. 
+
+url:https://reddit.com/r/LifeProTips/comments/1x6v5t/
+author:oscc
+subreddit:LifeProTips
+score:1129
+numComments:165
+isOver18:False
+hasPostBody:True

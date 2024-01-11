@@ -1,0 +1,70 @@
+title:
+YSK how to keep yourself safe from ads and sponsors
+
+content:
+In this day and age, there's no good reason that you should have to view digital advertisements. Why YSK: this guide will save you time by teaching you, if you don't know already, how to efficiently block ads.
+
+Ads:
+
+* Are annoying
+* Take up unnecessary resources such as bandwidth (you can block well over 10,000,000 ads in a matter of maybe a couple years)
+* Can be vectors for malicious software (malvertising)
+* Are ways for large companies to convince you to buy something (generally subconsciously and generally something that you don't need)
+* Waste your time
+
+As an ancillary note, this guide will also help you avoid sponsored segments, which often advertise crappy, overpriced garbage (e.g. [Manscaped](https://np.reddit.com/r/malegrooming/comments/l6d5ym/manscaped_baited_me/), [Raycons](https://np.reddit.com/r/HeadphoneAdvice/comments/mbuvhp/poor_raycon_earbud_sound_quality/)) and waste your time by forcing you to sit through them or manually scrub past.
+
+Here's a simple, practical guide to avoiding both of them.
+
+---
+
+#Desktop
+
+* uBlock Origin – a fast, efficient, feature-packed, and robust ad blocker 
+ * [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+ * [Firefox Android](https://addons.mozilla.org/en-US/android/addon/ublock-origin/)
+ * [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+ * [Edge](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak)
+ * [Opera](https://addons.opera.com/en/extensions/details/ublock/)
+ * (no longer compatible with Safari)
+
+uBlock Origin is better than AdBlock Plus in essentially every conceivable way (faster, more feature-packed, cleaner UI, no whitelisted ads, etc.), which is why I'm not recommending ABP here. If you have ABP, I recommend switching to uBO.
+
+* SponsorBlock – an extension that allows you to automatically (or manually) skip past sponsored sections; while disabled by default, you are also able to individually opt in to skipping outros, recaps, unpaid/self promotion, intros/intermissions, etc. You can create your own segments, which are voted on by the community through an upvote/downvote system. This will save you (it calculates how much time you've saved, and I've saved over 10.5 hours just by using it for a few months).
+
+ * [Firefox](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/)
+ * [Chrome](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone)
+ * [Edge](https://microsoftedge.microsoft.com/addons/detail/sponsorblock-for-youtube-/mbmgnelfcpoecdepckhlhegpcehmpmji)
+
+---
+
+# Android
+
+* [NewPipe x SponsorBlock](https://apt.izzysoft.de/fdroid/index/apk/org.polymorphicshade.newpipe) (on F-Droid)
+* [NewPipe vanilla](https://newpipe.net/)
+* [YouTube Vanced](https://vancedapp.com/)
+
+NewPipe is free and open-source software (FOSS), whereas Vanced is proprietary in some respects because it relies on a proprietary API. This means that you can, however, log into your account with Vanced.
+
+---
+
+#Other (DNS-wide)
+
+* [Pi-hole](https://pi-hole.net/)
+ * [Setup tutorial](https://www.youtube.com/watch?v=KBXTnrD_Zs4)
+
+A DNS-wide ad blocker which can be installed on any Linux machine but which is designed to be used on low-power devices such as a Raspberry Pi. Blocks ads across your entire network.
+
+---
+
+#Edit:
+
+For those concerned about iOS, that's why Pi-hole is there. :)
+
+url:https://reddit.com/r/YouShouldKnow/comments/sgbld9/
+author:BelowTheCharacterLim
+subreddit:YouShouldKnow
+score:1538
+numComments:122
+isOver18:False
+hasPostBody:True

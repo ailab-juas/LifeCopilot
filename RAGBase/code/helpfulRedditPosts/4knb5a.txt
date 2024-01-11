@@ -1,0 +1,15 @@
+title:
+LPT: When training someone at work, or in any situation, make sure you to explain the end goal.
+
+content:
+Doing this makes it easier to piece together what you're actually doing. Rather than saying do this, then this, then that and now we have achieved this, you can show how these steps actually benefit/lead to the goal.
+
+Edit: just noticed the horrible grammar in the title. I was actually writing this while in the middle of a training break, so no time to proof read. My bad!
+
+url:https://reddit.com/r/LifeProTips/comments/4knb5a/
+author:vLiiaaM
+subreddit:LifeProTips
+score:5296
+numComments:521
+isOver18:False
+hasPostBody:True

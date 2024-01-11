@@ -1,0 +1,25 @@
+title:
+YSK that while Spotify discount for students is valid for 4 years, you have to reactivate the plan every 12 months, otherwise you get charged the full premium rate.
+
+content:
+Why YSK: If you are subscribed to Spotify student-tier premium, you get 50% discount for up to 4 years. However, you have to renew this subscription every 12 months. If you don't do that, you get charged the full premium rate ~~without notice~~. You should know that because it's easy not to notice the extra charge on your bank account which sucks.
+
+&amp;#x200B;
+
+&gt;Qualifying Students can receive the advertised discounted monthly subscription to the Spotify Premium Service for each month (each a "**Discounted Month**") up to a period of twelve (12) consecutive months ("**Discount Period**"). Qualifying Students are entitled to activate up to three (3) additional Discount Periods for themselves by re-submitting their Qualifying Information for re-verification.  
+&gt;  
+&gt;...  
+&gt;  
+&gt;Qualifying Students that are not able to activate any additional Discount Periods will automatically migrate to a subscription to the Spotify Premium Service on a monthly recurring basis, at the then-full price, after the end of the Discount Period.
+
+Source: [Spotify student-tier terms and conditions](https://www.spotify.com/us/legal/student-tier-terms-and-conditions/).
+
+Edit: Removed "without notice" since you actually get a reminder email. In my case it was filtered as spam.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ug85vk/
+author:Elfarma
+subreddit:YouShouldKnow
+score:1269
+numComments:24
+isOver18:False
+hasPostBody:True

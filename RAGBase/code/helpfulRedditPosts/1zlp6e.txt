@@ -1,0 +1,13 @@
+title:
+LPT: The calculator in Windows does more than you think. Under the 'View' menu, you can convert units, calculate dates, plan a mortgage, and even calculate a vehicle's lease and fuel economy.
+
+content:
+I believe these features are only in Vista and up, but correct me if I'm wrong. 
+
+url:https://reddit.com/r/LifeProTips/comments/1zlp6e/
+author:fuzzykittenhead
+subreddit:LifeProTips
+score:2558
+numComments:219
+isOver18:False
+hasPostBody:True

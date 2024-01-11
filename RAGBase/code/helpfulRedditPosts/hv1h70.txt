@@ -1,0 +1,19 @@
+title:
+YSK: eBay reads all your messages, and lower level employees can access your personal contact info.
+
+content:
+Former eBay employee here. After all the news that has come out about the execs terrorizing that poor couple, I feel like this is important to share. When I worked at eBay, I could easily read anyone’s messages and see all their personal info just by looking them up by name - and I was customer support at the lowest level. 
+
+eBay supports a culture that could easily lead to stalking. Please consider this when you use any private website - I’m sure it’s no different. 
+
+EDIT: fixed the amp link. 
+
+https://www.cbsnews.com/news/james-baugh-6-ebay-employees-charged-cyberstalking-cockroaches-pig/
+
+url:https://reddit.com/r/YouShouldKnow/comments/hv1h70/
+author:encrcne
+subreddit:YouShouldKnow
+score:17599
+numComments:396
+isOver18:False
+hasPostBody:True

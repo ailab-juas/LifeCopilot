@@ -1,0 +1,15 @@
+title:
+YSK that Mbps stands for "Megabits" per second instead of MegaBytes per second.
+
+content:
+Many casual internet users consider 25 mbps to be very fast when in reality it is only about 3.25 MB/s. Knowing this is extremely important when shopping for ISPs
+
+edit: missing a word.
+
+url:https://reddit.com/r/YouShouldKnow/comments/42prb8/
+author:ummtheguy
+subreddit:YouShouldKnow
+score:3128
+numComments:525
+isOver18:False
+hasPostBody:True

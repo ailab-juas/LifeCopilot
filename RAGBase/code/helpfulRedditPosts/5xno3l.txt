@@ -1,0 +1,15 @@
+title:
+YSK about fast.com, an internet speed test site that works on smartphones and doesn't use flash/java
+
+content:
+I could be wrong about the flash or java part, but this site doesn't require you to download an ad-filled app like ookla speedtest.
+
+Edit: http://fast.com
+
+url:https://reddit.com/r/YouShouldKnow/comments/5xno3l/
+author:TheSkilledPlaya
+subreddit:YouShouldKnow
+score:2762
+numComments:183
+isOver18:False
+hasPostBody:True

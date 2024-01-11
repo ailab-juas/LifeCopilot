@@ -1,0 +1,15 @@
+title:
+LPT: If you see the same repost over and over, take 5 seconds to check the OP’s post history to see if they’re a blatant reposter. If so, block them.
+
+content:
+This is probably already obvious but one by one I’ve noticed the quality of Reddit has improved slowly but significantly for me.
+
+And if somebody already posted this idea then I’m sorry for becoming what I swore to destroy.
+
+url:https://reddit.com/r/LifeProTips/comments/eqjvo3/
+author:PhilippinoWrangler
+subreddit:LifeProTips
+score:4419
+numComments:127
+isOver18:False
+hasPostBody:True

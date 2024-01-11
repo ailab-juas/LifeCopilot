@@ -1,0 +1,13 @@
+title:
+YSK: If you need to find a reusable or stock image no need to pay, just type what you are looking for into Google Images then click Tools&gt;Usage rights&gt; Labeled for reuse
+
+content:
+You can get great, free stock images from all over the internet. Quick how to [here](https://lifeprotips.co/stock-photographer/).
+
+url:https://reddit.com/r/YouShouldKnow/comments/7xkwkz/
+author:Readditor57
+subreddit:YouShouldKnow
+score:10307
+numComments:95
+isOver18:False
+hasPostBody:True

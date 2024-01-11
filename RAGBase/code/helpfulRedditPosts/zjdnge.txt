@@ -1,0 +1,19 @@
+title:
+LPT: Organise computer files by always using the date format ‘YYYYMMDD’ as the start of any filename. This will ensure they ALWAYS stay in chronological order in a folder.
+
+content:
+This is very useful when you have a job/hobby which involves lot of file revisions, or lots of diverse documentation over a long time period.
+
+Edit:  Yes - you can also sort by 'Date' field within a folder.  Or by Date Modified. Or Date Created. Or by Date Last Saved?  Or maybe by Date Accessed?!  What's the difference between these?  Some Windows/Cloud operations can change this metadata, so they are not reliable.  But that is not a problem for me - because I don't rely on these.
+
+Edit2: Shoutout to the TimeLords at r/ISO8601 who are also advocating for a correctly-formatted timeline.
+
+Edit3: This is a simple, easy, free method to get your shit together, and organise a diverse range of files/correspondance on a project, be it personal or professional.  If you are a software dev, then yes Github's a better method.  If you are designing passenger jets then yes you need a deeper PLM/version-control system.  But both of those are not practical for many industries, small businesses, and personal projects.
+
+url:https://reddit.com/r/LifeProTips/comments/zjdnge/
+author:ThickSheik
+subreddit:LifeProTips
+score:25115
+numComments:1072
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: As a lawyer, don't take legal advice from Reddit.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/kx0wqn/
+author:[deleted]
+subreddit:LifeProTips
+score:50495
+numComments:2657
+isOver18:False
+hasPostBody:True

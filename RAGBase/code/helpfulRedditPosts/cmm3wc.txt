@@ -1,0 +1,13 @@
+title:
+YSK that a flashing green traffic light means something different depending on where in Canada you’re driving.
+
+content:
+For example, in Toronto if you’re waiting at a red light and it then turns into a flashing green light, then carefully proceed to make an advanced left turn. When it stops flashing and remains green, the advance period is over. However, in Vancouver, if your red light is over and is replaced by a flashing green light DO NOT make a left turn across oncoming traffic; the flashing green means that it will remain “green” for your traffic direction until such time as a pedestrian button push will request the light to change.
+
+url:https://reddit.com/r/YouShouldKnow/comments/cmm3wc/
+author:juan-de-fuca
+subreddit:YouShouldKnow
+score:3355
+numComments:225
+isOver18:False
+hasPostBody:True

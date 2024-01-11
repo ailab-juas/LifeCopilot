@@ -1,0 +1,13 @@
+title:
+YSK: You can mail books, documents, or other educational materials for a cheaper rate using USPS Media Mail.
+
+content:
+Domestic shipping in the U.S.
+
+url:https://reddit.com/r/YouShouldKnow/comments/bgi7ms/
+author:3am_uhtceare
+subreddit:YouShouldKnow
+score:2552
+numComments:80
+isOver18:False
+hasPostBody:True

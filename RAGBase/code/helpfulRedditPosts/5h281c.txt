@@ -1,0 +1,15 @@
+title:
+YSK you can still upgrade to Windows 10 for free
+
+content:
+If you are someone who uses "assistive technologies" ^^;) then you can upgrade to Windows 10 using this link: 
+
+ https://www.microsoft.com/accessibility/windows10upgrade
+
+url:https://reddit.com/r/YouShouldKnow/comments/5h281c/
+author:88c
+subreddit:YouShouldKnow
+score:1730
+numComments:420
+isOver18:False
+hasPostBody:True

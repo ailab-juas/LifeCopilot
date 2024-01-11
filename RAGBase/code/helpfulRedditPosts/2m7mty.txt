@@ -1,0 +1,13 @@
+title:
+LPT: If you have 5000€ available for a used car, spend 3500€ for the car and use the rest to get it into perfect technical condition.
+
+content:
+There's always something that you miss, even if you crawl through there for an hour. Buy cheaper and less fancy - then you're available to afford new dampers, winter tires, a few quick fixes that are typical for the model and make, you name it. Bonus: You don't feel like your "new" car is eating the hair off your head, but instead you see it as something that is good and that you're turning into your own, perfectly maintained property without having to stretch finances.
+
+url:https://reddit.com/r/LifeProTips/comments/2m7mty/
+author:the_second
+subreddit:LifeProTips
+score:2497
+numComments:763
+isOver18:False
+hasPostBody:True

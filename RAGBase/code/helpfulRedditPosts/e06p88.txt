@@ -1,0 +1,13 @@
+title:
+LPT: Before buying furniture online, download a photo and reverse-image search it. Oftentimes, outlets sell the same exact stuff and because they use the same stock images, you'll find it elsewhere for cheaper.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/e06p88/
+author:gaudiocomplex
+subreddit:LifeProTips
+score:2521
+numComments:65
+isOver18:False
+hasPostBody:False

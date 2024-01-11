@@ -1,0 +1,13 @@
+title:
+LPT: When you're thinking about buying something you don't necessarily need, imagine the item in one hand and the cash in the other. Which one would you take?
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/6kqaj9/
+author:Willwalt
+subreddit:LifeProTips
+score:35376
+numComments:1755
+isOver18:False
+hasPostBody:False

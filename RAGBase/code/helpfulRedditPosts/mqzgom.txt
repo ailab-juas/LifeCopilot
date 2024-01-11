@@ -1,0 +1,13 @@
+title:
+LPT: Most of your tech problems can be solved via Google in 5 minutes. There is no need to always annoy the IT guy in the family just because he "knows it anyway"
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/mqzgom/
+author:hannes20001
+subreddit:LifeProTips
+score:6215
+numComments:424
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+YSK: Never give out your Social Security number to a group that promises to check if you are involved in the Equifax leak; even if they claim to be Equifax.
+
+content:
+Equifax accidentally leaked millions of SS numbers. Do not give out your SS number even if an email promises to check if you are in the leak. Even if they claim to be Equifax, it's probably a phishing scam.
+
+url:https://reddit.com/r/YouShouldKnow/comments/6ywjic/
+author:Chearcher
+subreddit:YouShouldKnow
+score:6358
+numComments:172
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,21 @@
+title:
+YSK that you shouldn't drink grapefruit juice when you're taking medications
+
+content:
+Grapefruit juice contains inhibitors of the CYP3A4 enzyme that is responsible for the metabolism of many drugs. This can lead to adverse effects or reduced drug effect. You can find a list of common drugs that interact with grapefruit juice [Here.](https://www.drugs.com/article/grapefruit-drug-interactions.html)
+
+[Source](https://bpspubs.onlinelibrary.wiley.com/doi/abs/10.1046/j.1365-2125.1998.00764.x@10.1111/(ISSN)1365-2125.THE_BEST_OF_BJCP)
+
+Edit: I made it look like you can never consume grapefruits while taking drugs. Most medications don't interact with grapefruit juice. Ask your doctor/pharmacist if this is the case with the drugs you're taking.
+
+Edit 2: This also includes eating a grapefruit. I thought this was obvious.
+
+Edit 3: Poor wording. Grapefruit-drug interactions can either increase (and cause side effects) OR decrease the effect of drugs. That depends on the drugs you're taking.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ey8ue5/
+author:a_smilingpsycho
+subreddit:YouShouldKnow
+score:9024
+numComments:369
+isOver18:False
+hasPostBody:True

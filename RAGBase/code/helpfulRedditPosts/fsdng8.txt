@@ -1,0 +1,13 @@
+title:
+LPT: Remember that tomorrow is April Fool’s Day and the Internet will be lying to you more than normal
+
+content:
+Hopefully people will take into account that COVID-19 might not make this the best time to try for a “funny” lie, but it seems unlikely.
+
+url:https://reddit.com/r/LifeProTips/comments/fsdng8/
+author:majorjoe23
+subreddit:LifeProTips
+score:41313
+numComments:770
+isOver18:False
+hasPostBody:True

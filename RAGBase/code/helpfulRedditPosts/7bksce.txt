@@ -1,0 +1,13 @@
+title:
+LPT: Always copy any text you have input on any online web form before you click submit. If the page fails to load you can still save your work
+
+content:
+As a backup, after copying, paste into a text file... this happened to me years back in Windows 98 days on dial up... I spent 2 hours typing a job application only to click submit and my connection had dropped... never did it again after that!
+
+url:https://reddit.com/r/LifeProTips/comments/7bksce/
+author:WaxerUK
+subreddit:LifeProTips
+score:21544
+numComments:603
+isOver18:False
+hasPostBody:True

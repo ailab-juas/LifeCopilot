@@ -1,0 +1,13 @@
+title:
+LPT: If you have a Visa gift card with a small balance, you can use it to load your Amazon gift card balance instead of throwing out the card.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/yy6o4y/
+author:GiddySwine
+subreddit:LifeProTips
+score:11715
+numComments:268
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+YSK: If you are paying someone to learn how they became successful, you ARE how they became successful.
+
+content:
+Whether it's a seminar host or a self help author, they don't have a secret to success. They don't have a magic bullet. They are successful because they convinced you to pay them.
+
+url:https://reddit.com/r/YouShouldKnow/comments/akki1o/
+author:bobombpom
+subreddit:YouShouldKnow
+score:8318
+numComments:169
+isOver18:False
+hasPostBody:True

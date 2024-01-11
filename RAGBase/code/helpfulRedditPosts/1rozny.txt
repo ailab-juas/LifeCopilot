@@ -1,0 +1,15 @@
+title:
+LPT: When you are staying at a hotel in a country where you do not speak the language or not know your way around, carry with you the business card of the hotel.
+
+content:
+Most hotels will have at their front desk a card with their details on it. Leave it in your wallet and if you need to get into a taxi but cannot speak the language well or know the area, you can show them the card. This will save you time and reduce likelihood of miscommunication. 
+
+Also, some hotels will have a notepad in the rooms with their details on it, take that instead of the hotel card if you cannot get one.
+
+url:https://reddit.com/r/LifeProTips/comments/1rozny/
+author:c0nc0n
+subreddit:LifeProTips
+score:1903
+numComments:125
+isOver18:False
+hasPostBody:True

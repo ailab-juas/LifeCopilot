@@ -1,0 +1,15 @@
+title:
+LPT: Take a screenshot of your mobile boarding pass to save it as a photo on your mobile device for quick and easy access.
+
+content:
+Too many times have I seen people fumbling with their phone trying to get into their mobile boarding pass. Either they have no, or low, signal and it takes forever to load. 
+
+I've found loading the boarding pass well in advance and taking a screenshot of it on my phone makes it super simple to get at as well as no internet needed.
+
+url:https://reddit.com/r/LifeProTips/comments/1ql5hw/
+author:ih82luz
+subreddit:LifeProTips
+score:1109
+numComments:125
+isOver18:False
+hasPostBody:True

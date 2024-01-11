@@ -1,0 +1,26 @@
+title:
+YSK Antibacterial soaps are no more effective but are bad for your health (and the environment)
+
+content:
+[This Smithsonian Magazine article](http://www.smithsonianmag.com/science-nature/five-reasons-why-you-should-probably-stop-using-antibacterial-soap-180948078/) covers it pretty well.  Antibacterial soap is nothing but a marketing gimmick by the soap industry, but it's seriously harmful.  These are the valid points they mention...
+
+1.  Antibacterial soaps are no more effective than conventional soap and water.
+
+2.  Antibacterial soaps have the potential to create antibiotic-resistant bacteria. - This is the scariest thing about it.  Overuse of antibacterial additives are leading to super resistant diseases and bacteria.
+
+3.  The antibacterial additive acts as an endocrine disruptor. - It interferes with your hormone system, leading to increased risk for infertility, obesity and cancer.  It also may cause developmental issues in children.
+
+4.  The soaps might lead to other health problems, too. - The triclosan ends up in your bloodstream where it has all kinds of other effects, including increasing your chance of developing food allergies.
+
+5.  Antibacterial soaps are bad for the environment. - All that triclosan ends up in the environment, causing further harm to animals and people, and leading to more antibiotic-resistant disease.
+
+Antibacterial soap is a marketing gimmick that has no real benefit, but is harmful to human health and the environment.  The FDA is working on possibly banning it, but while it's still being sold, please don't buy it.
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/1z0ioi/
+author:thbt101
+subreddit:YouShouldKnow
+score:1010
+numComments:96
+isOver18:False
+hasPostBody:True

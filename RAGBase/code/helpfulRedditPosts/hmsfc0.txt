@@ -1,0 +1,15 @@
+title:
+Lpt: Windows Key + V lets you see the entire Clipboard of things you copied earlier.
+
+content:
+Edit: Some people mentioned that you might have to enable "clipboard history" in your settings if it doesn't work. 
+
+I didn't have to do this, so I didn't know about it.
+
+url:https://reddit.com/r/LifeProTips/comments/hmsfc0/
+author:kac00n
+subreddit:LifeProTips
+score:1967
+numComments:122
+isOver18:False
+hasPostBody:True

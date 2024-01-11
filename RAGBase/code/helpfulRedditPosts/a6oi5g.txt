@@ -1,0 +1,13 @@
+title:
+LPT: If you have to give or take names, addresses, serial codes, etc. on your job, take time to learn the NATO phonic alphabet. It will make the communication go much smoother. Plus you'll gain the appreciation if the other person is a pilot.
+
+content:
+Alfa, Bravo, Charlie, Delta, Echo, Foxtrot, Golf, Hotel, India, Juliett, Kilo, Lima, Mike, November, Oscar, Papa, Quebec, Romeo, Sierra, Tango, Uniform, Victor, Whiskey, X-ray, Yankee, Zulu.
+
+url:https://reddit.com/r/LifeProTips/comments/a6oi5g/
+author:perkisar
+subreddit:LifeProTips
+score:36669
+numComments:2264
+isOver18:False
+hasPostBody:True

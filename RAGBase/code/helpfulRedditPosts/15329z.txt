@@ -1,0 +1,13 @@
+title:
+LPT: Parents of Reddit, read this!
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/15329z/
+author:nateopotatoe
+subreddit:LifeProTips
+score:1910
+numComments:495
+isOver18:False
+hasPostBody:False

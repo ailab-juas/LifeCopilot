@@ -1,0 +1,13 @@
+title:
+LPT: Having a bad day? Make yourself a mini day goal to do one random act of kindness for a stranger. Putting the focus on something positive can pull you out of your bad mood and it will feel rewarding to make someone else smile.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/869bc4/
+author:FrumpyMushro0m
+subreddit:LifeProTips
+score:1096
+numComments:38
+isOver18:False
+hasPostBody:False

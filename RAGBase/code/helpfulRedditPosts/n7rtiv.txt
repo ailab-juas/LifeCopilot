@@ -1,0 +1,13 @@
+title:
+YSK: There is no such thing as a private beach in the State of California.
+
+content:
+Why YSK: All beaches in California are public domain up to the mean high tide line with the exception of the beaches controlled by the United States Military. Although private properties may show obvious “No Trespassing” and/or “Keep Out” signs, they are in fact illegal and not allowed by the California Coastal Commission (CCC) - the body responsible for enforcing the California Coastal Act.
+
+url:https://reddit.com/r/YouShouldKnow/comments/n7rtiv/
+author:Slavatheshrimp
+subreddit:YouShouldKnow
+score:30279
+numComments:1414
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+YSK: Just because someone has published a book doesn't mean it's contents or the author is credible.
+
+content:
+Why YSK: Literally anyone can publish a book about anything. Often times authors despite having the appropriate credentials will publish false information specifically because they know what they're saying will make them money. Nutrition is a very predatory market, do your research people.
+
+TV and podcasts are also huge problems in this regard.
+
+url:https://reddit.com/r/YouShouldKnow/comments/p73diq/
+author:RileyTrodd
+subreddit:YouShouldKnow
+score:10727
+numComments:245
+isOver18:False
+hasPostBody:True

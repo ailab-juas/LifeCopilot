@@ -1,0 +1,13 @@
+title:
+You Should Know about WinDirStat, a program that lets you see which files and directories take up the most space on your hard disk. Indispensable for cleanup!
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/11f5uf/
+author:mirshafie
+subreddit:YouShouldKnow
+score:1014
+numComments:90
+isOver18:False
+hasPostBody:False

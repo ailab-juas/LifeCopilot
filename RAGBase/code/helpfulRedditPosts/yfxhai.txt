@@ -1,0 +1,13 @@
+title:
+LPT if you're on a budget, most supermarkets sell fully cooked rotisserie chickens for much cheaper than you can buy an uncooked one for. it's a "loss leader" for them
+
+content:
+For those who don't know, a loss leader is a product that supermarkets actually sell at a loss in order to entice people to come into their stores. Most stores that I go to have rotisserie chickens for somewhere between $7 and $10. The same size chicken would be more than that if you went to the back of the store and bought it raw.
+
+url:https://reddit.com/r/LifeProTips/comments/yfxhai/
+author:dominatedivvy
+subreddit:LifeProTips
+score:25619
+numComments:1461
+isOver18:False
+hasPostBody:True

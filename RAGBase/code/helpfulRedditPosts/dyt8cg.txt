@@ -1,0 +1,13 @@
+title:
+LPT: If you ever want to cancel a subscription and they allow you to select a reason why, always pick the "it's too expensive" or "I can't afford it right now" option. Odds are they will give you a discount incentive to stay or later on send you an opportunity to try them out again for free.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/dyt8cg/
+author:rizzy92
+subreddit:LifeProTips
+score:44598
+numComments:666
+isOver18:False
+hasPostBody:False

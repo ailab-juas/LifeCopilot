@@ -1,0 +1,13 @@
+title:
+If you want a discount for an online purchase and can wait, try signing in and leaving it in your cart. Many sites will email you a coupon code.
+
+content:
+It definitely works for ThinkGeek.
+
+url:https://reddit.com/r/LifeProTips/comments/18l82r/
+author:Scraendor
+subreddit:LifeProTips
+score:1408
+numComments:189
+isOver18:False
+hasPostBody:True

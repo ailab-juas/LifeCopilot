@@ -1,0 +1,13 @@
+title:
+LPT: A good way to keep your audience awake during a complicated lecture - use examples about food.
+
+content:
+Talking about a Frictionless Spherical Pizza for 45 minutes with mushroom and olive toppings that are distributed uniformly randomly on its surface will definitely stimulate many parts of your student's brains, some of which will be relevant to the lecture's subject.
+
+url:https://reddit.com/r/LifeProTips/comments/2nlaw1/
+author:ninja_cracker
+subreddit:LifeProTips
+score:2194
+numComments:112
+isOver18:False
+hasPostBody:True

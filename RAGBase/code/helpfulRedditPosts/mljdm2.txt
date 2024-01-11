@@ -1,0 +1,17 @@
+title:
+LPT - get in the habit of asking 1-2 clarifying questions before jumping in, no matter how obvious things seem.
+
+content:
+Early in my career I was so prone to saying "yes!" whenever I was asked to pitch in on a project, or to join a meeting, or to take on some new work. I have always been enthusiastic and excited to contribute - but I could have been having a bigger impact if I stepped back to ask some clarifying questions up front.
+
+Now, even when I *think* I get it, I'll ask for clarification, or think up some questions that can help me confirm my understanding. Even when it ends up that I did understand, I help others by providing more insight into the *why*.
+
+Don't be afraid to ask the "requester" to do a little extra work to make sure you know why something is important. You'll be glad you did.
+
+url:https://reddit.com/r/LifeProTips/comments/mljdm2/
+author:jeffvincent
+subreddit:LifeProTips
+score:2472
+numComments:75
+isOver18:False
+hasPostBody:True

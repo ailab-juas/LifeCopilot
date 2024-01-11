@@ -1,0 +1,13 @@
+title:
+LPT: If you’re working in a technical role (IT, Engineering, etc), write everything you do as if it was a user manual. Ignore those who say it will be used to replace you. It is more likely to be used to show management “you can give me that promotion, the next guy is all set”.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/nzzxra/
+author:unm4tched
+subreddit:LifeProTips
+score:33116
+numComments:980
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,21 @@
+title:
+LPT: Keep a separate master resume with ALL previous work experience. When sending out a resume for application, duplicate the file and remove anything that may be irrelevant to the position. You never know when some past experience might become relevant again, and you don’t want to forget about it.
+
+content:
+EDIT: Wow, this blew WAY up. And my first time on the front page too. 
+
+I guess I can shut down some of the disagreement by saying that every field does things a little bit differently, but this is what’s worked for me as a soon-to-be college grad, with little truly significant work experience, and wanting to go into education. Most American employers/career help centers I’ve met with suggest keeping it to about a page because employers won’t go over every resume with a fine-toothed comb right away. Anything you find interesting but maybe less important could be brought up in an interview as an aside, perhaps. 
+
+A few people have mentioned LaTeX. I use LaTeX often in my math coursework, but I’m not comfortable enough with it outside of mathematical usage for a resume. Pages (on Mac) has been sufficient for me.
+
+As far as LinkedIn go, it’s a less-detailed version of the master document I keep, as far as work experience goes, but I go way more in depth into relevant coursework and proficiencies on LinkedIn than I do on paper. 
+
+TL;DR- I’ve never had two people or websites give the same advice about resumes. Everyone’s going to want it different. *Generally* in the US, the physical resume could afford to be shorter because it leaves room for conversation if called for an interview. 
+
+url:https://reddit.com/r/LifeProTips/comments/7z71so/
+author:rlc327
+subreddit:LifeProTips
+score:73762
+numComments:1107
+isOver18:False
+hasPostBody:True

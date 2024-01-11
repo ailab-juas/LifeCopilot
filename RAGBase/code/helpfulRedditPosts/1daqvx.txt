@@ -1,0 +1,15 @@
+title:
+YSK that hundreds, even thousands, of years is still a very short time in geological terms. (e.g. "The ocean is at its warmest temp in 150 years" is not *necessarily* significant.)
+
+content:
+Edit: YSK that an example of something being taken out of the context of geological time is not the same thing as making a claim about the cause of an ecological shift 
+
+Edit: YSK that asterisks are commonly used to emphasize important words
+
+url:https://reddit.com/r/YouShouldKnow/comments/1daqvx/
+author:SJtheFox
+subreddit:YouShouldKnow
+score:1282
+numComments:290
+isOver18:False
+hasPostBody:True

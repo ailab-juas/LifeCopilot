@@ -1,0 +1,14 @@
+title:
+YSK that you can play Youtube videos in VLC by simply pasting the link in the VLC window
+
+content:
+Simply copy the link, open VLC, press Ctrl+V and hit Enter. You'll be able to use all of VLC's features like equalizer, video filters and hardware acceleration (especially useful on netbooks or shitty computers)
+EDIT: If you run into problems, make sure the URL starts with http:// and not https://
+
+url:https://reddit.com/r/YouShouldKnow/comments/1aembf/
+author:Komari
+subreddit:YouShouldKnow
+score:1252
+numComments:115
+isOver18:False
+hasPostBody:True

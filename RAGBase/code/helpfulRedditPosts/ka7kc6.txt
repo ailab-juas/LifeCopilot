@@ -1,0 +1,23 @@
+title:
+LPT: The emergency duct tape you have in your car should be replaced with gaffer tape. Gaffer tape is more expensive and works differently, but it holds up better to long term storage and high temperatures
+
+content:
+Edit: according to u/beaucannon1234 I think preservation tape may actually be the best choice!
+
+I'm sure you've at some point in your life come across a roll of duct tape that you could barely unravel, let alone use because it was a mess sticking to itself because the adhesive had melted. If you have a roll of duct tape rolling around in the trunk of your car for a year and a half, this is inevitable.
+
+Duct tape adhesive is polyethylene resin and tends to break down and melt around 140F/60C, while gaffer tape adhesive is actually just vinyl and doesn't break down till about 200F/93C, so unless it manages to get to almost boiling temperature, it leaves no residue when you remove it. 
+
+However, leaving no residue means that it's not binding to whatever you tape it to as strongly as duct tape does (because gaffer tape is designed to be removed at some point). But it works for p much everything you would use duct tape for.
+
+If you want to be all extra, you could have both in your car!
+
+Edit: as u/elektroloko points out, gaffer tape may not work as well in cold temperatures
+
+url:https://reddit.com/r/LifeProTips/comments/ka7kc6/
+author:ohdeargodnotthisguy
+subreddit:LifeProTips
+score:2205
+numComments:126
+isOver18:False
+hasPostBody:True

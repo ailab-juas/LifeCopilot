@@ -1,0 +1,28 @@
+title:
+YSK that there is a version of Windows 10 that comes without any ads, bloatware and spyware. It's called Windows 10 LTSC.
+
+content:
+The full name is Windows 10 Enterprise LTSC (Long Term Servicing Channel). It's a variant of the Enterprise edition and is the Windows 10 equivalent of Windows 7 Ultimate. 
+
+LTSC is:
+
+* clean (no pre-installed non-removable junk "apps" and no ads), 
+* resource efficient (no cortana and other background processes) and 
+* stable (no feature updates to break your computer - just security and bug fixes for 10 years).
+
+&amp;nbsp;
+
+It's not actively advertised, Microsoft tries rather hard to make sure people don't use it and Windows 10 fans will barage you with marketing talking points about how awful and useless it is.
+
+----
+EDIT: The discussion below is quite lively, so I encourage anyone interested in LTSC to first read up on it, to evaluate all pros and cons carefully (e.g. no official support for Cortana might actually be a bad thing for your needs) and reach your own conclusions. Don't let me or those that are hardcore against LTSC make your decision for you.
+
+#EDIT2:
+
+url:https://reddit.com/r/YouShouldKnow/comments/cpu0jf/
+author:hungriestjoe
+subreddit:YouShouldKnow
+score:10552
+numComments:709
+isOver18:False
+hasPostBody:True

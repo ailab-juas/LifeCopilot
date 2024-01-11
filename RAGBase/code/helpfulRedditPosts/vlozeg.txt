@@ -1,0 +1,13 @@
+title:
+YSK: to enter your phone number into your food delivery app and NOT put it in the “notes” section.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/YouShouldKnow/comments/vlozeg/
+author:[deleted]
+subreddit:YouShouldKnow
+score:3826
+numComments:151
+isOver18:False
+hasPostBody:True

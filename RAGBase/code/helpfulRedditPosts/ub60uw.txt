@@ -1,0 +1,13 @@
+title:
+[LPT] When you leave a tip on credit card, add an amount to make the check's total a palindromic number (ex. $43.34). When you get your statement, you can easily scan to see if hidden fees or extra tip was added by the restaurant if not palindromic.
+
+content:
+My friend taught me this LPT, and we caught a restaurant adding an additional amount to the tip this way. (It was only an additional $5, but we might not have caught it because it didn't look like an outrageous charge.) We called the owner to complain, and got not only the tip back, but an additional refund.
+
+url:https://reddit.com/r/LifeProTips/comments/ub60uw/
+author:AmandaMarsh
+subreddit:LifeProTips
+score:16049
+numComments:1325
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: When you screw up a voicemail press pound (#). You can review it and re-record if necessary.
+
+content:
+Edit: I live in America this # was known as the pound symbol before Twitter came around. I'm not dumb :( 
+
+url:https://reddit.com/r/LifeProTips/comments/2glzxj/
+author:[deleted]
+subreddit:LifeProTips
+score:2358
+numComments:271
+isOver18:False
+hasPostBody:True

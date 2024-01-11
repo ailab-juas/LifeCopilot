@@ -1,0 +1,13 @@
+title:
+LPT: If your clothes don't smell fresh even after washing, it could be your machine. The easiest way to get rid of mold in your machine is to use 1-2 dishwasher tabs or some detergent and do a cycle without clothes.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/dkhvr4/
+author:ae_goalpilot
+subreddit:LifeProTips
+score:39235
+numComments:1304
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: Remember Hanlon's Razor, "never attribute to malice that which can be adequately explained by stupidity", when someone does or says something callous that feels targeted towards you.
+
+content:
+Edit: As so many have pointed out, this doesn't apply to all situations. If someone does something particularly bad, it's wrong regardless of intent.
+
+url:https://reddit.com/r/LifeProTips/comments/uheyb5/
+author:chetradley
+subreddit:LifeProTips
+score:27951
+numComments:734
+isOver18:False
+hasPostBody:True

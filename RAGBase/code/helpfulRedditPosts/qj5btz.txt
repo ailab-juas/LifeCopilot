@@ -1,0 +1,13 @@
+title:
+LPT: Keep a written record of your family history. Not just births, deaths, marriages, birth places, health issues, and so on, but the stories your grandparents/relatives may tell you. One day, no one will be left to ask, and you may never know the answers to many questions about your background.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/qj5btz/
+author:phillygirllovesbagel
+subreddit:LifeProTips
+score:1064
+numComments:42
+isOver18:False
+hasPostBody:False

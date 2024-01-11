@@ -1,0 +1,13 @@
+title:
+YSK don’t swerve to avoid a deer
+
+content:
+Why YSK: More people get injured or die from swerving to avoid a deer than hitting the deer head-on. Instead, apply controlled braking if you can. You’re more likely to survive hitting a deer going 50 mph than a tree going 65 mph.
+
+url:https://reddit.com/r/YouShouldKnow/comments/zzllaq/
+author:Pyramidal_Sigh
+subreddit:YouShouldKnow
+score:6392
+numComments:637
+isOver18:False
+hasPostBody:True

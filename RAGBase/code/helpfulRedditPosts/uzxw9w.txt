@@ -1,0 +1,28 @@
+title:
+YSK If you sleep poorly, get tested for sleep apnea.
+
+content:
+
+Why YSK, sleep apnea affects a [billion people worldwide](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7007763/) and goes [undiagnosed in 80% of cases](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2727690/).
+
+[Click here](https://medium.com/@awarenessosa/a-global-crisis-ignored-my-sleep-apnea-story-and-the-case-for-mass-screening-2c6b006c71a5) to read my full story.
+
+I spent the majority of my 20s sleeping 3 hours a night. This was by far the darkest and most painful chapter of my life. My anxiety was through the roof, my mental health was in the gutter, and I lived with daily migraines. I was 160lbs, able to run 20 miles, and was nowhere near the textbook description of someone who might have sleep apnea. After the 1st night of receiving treatment I cried the next morning in the shower because I slept so well. Never had I felt so rejuvenated.
+
+If you sleep poorly, ask your doctor about getting a sleep study. At minimum, if you don’t have it, at least you ruled it out. If you do have it, and you’ve been living with undiagnosed sleep apnea, treatment might bring you the biggest quality of life upgrade you’ve ever had.
+
+Here’s what I learned about sleep apnea and my general thoughts about what should happen next:
+
+It’s a condition where an individual stops breathing at night. In essence, the person is choking on their own body, and they might stop breathing as many as hundreds and hundreds of times each night. Snoring is the most common risk factor. The most common treatment is a CPAP machine, which basically forces air in your system at night to keep your airways open. Approximately a [billion people worldwide have sleep apnea](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7007763/), it goes [undiagnosed in 80% of cases](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2727690/), and significantly increases the risk of developing and dying from the leading causes of death including [heart attack, stroke](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3106988/#R32), [cancer](https://pubmed.ncbi.nlm.nih.gov/27166241/), [Alzheimer’s](https://pubmed.ncbi.nlm.nih.gov/28364458/), [diabetes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6123041/), [accidents](https://www.nytimes.com/2018/06/25/upshot/i-learned-i-have-sleep-apnea-its-more-serious-than-many-people-realize.html), [suicide](https://pubmed.ncbi.nlm.nih.gov/29286590/), and more. It also significantly increases the risk of mental health conditions such as [anxiety and depression](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5836734/). In my opinion, sleep apnea is one of the most common, deadly, debilitating, and under-diagnosed conditions in the world. Hundreds of millions of people live out their lives a shadow of themselves, unaware that they have a treatable condition. At that, averaged out over decades, millions and millions of people die prematurely from sleep apnea. I'm overwhelmed by the aggregated mass of pain and suffering around the world because of the lack of awareness and the lack of readily available screening options.
+
+It's time that we advocate for mass screening in the vein of mammograms or colonoscopies. Feel free to read and share my story below. Therein you'll find the research behind my claims.
+
+[https://medium.com/@awarenessosa/a-global-crisis-ignored-my-sleep-apnea-story-and-the-case-for-mass-screening-2c6b006c71a5](https://medium.com/@awarenessosa/a-global-crisis-ignored-my-sleep-apnea-story-and-the-case-for-mass-screening-2c6b006c71a5)
+
+url:https://reddit.com/r/YouShouldKnow/comments/uzxw9w/
+author:sleepapneaawareness
+subreddit:YouShouldKnow
+score:6133
+numComments:538
+isOver18:False
+hasPostBody:True

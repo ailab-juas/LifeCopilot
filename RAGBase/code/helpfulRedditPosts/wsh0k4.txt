@@ -1,0 +1,13 @@
+title:
+LPT: If you want to cheer someone up, don't tell them to "smile" or "cheer up." Instead, tell them that you are glad to see them, that their presence makes you smile. Better yet, ask them about their day, listen, and allow them their feelings. That actually does make people feel better.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/wsh0k4/
+author:Funandgeeky
+subreddit:LifeProTips
+score:3611
+numComments:67
+isOver18:False
+hasPostBody:False

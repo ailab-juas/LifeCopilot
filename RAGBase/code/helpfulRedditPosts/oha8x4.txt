@@ -1,0 +1,13 @@
+title:
+LPT: When you share a recipe online use the URL from the printable recipe - no one enjoys scrolling through a 5-page blog post to find the paragraph of relevant information.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/oha8x4/
+author:8BitBrews
+subreddit:LifeProTips
+score:7915
+numComments:185
+isOver18:False
+hasPostBody:False

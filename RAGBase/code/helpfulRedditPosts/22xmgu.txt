@@ -1,0 +1,13 @@
+title:
+LPT: When switching from iPhone to Android, call Apple to remove your phone number from iMessage/iCloud services.
+
+content:
+I just went through the transition from an iPhone 4S to the Nexus 5, and was not receiving SMS from friends/family who still have an iPhone.  [Turns out](https://discussions.apple.com/thread/5558219?start=0&amp;tstart=0) this is a relatively widespread issue, as the iPhone will default to using iMessage when your number is registered in the iCloud (which happens automatically if you have ever used an iPhone).  The worst part is that even though the messages may be marked delivered on your friend's iPhone, tech support at Apple told me there is no way to recover them.  No need for applecare, just call 1-(800) MY-APPLE.  
+
+url:https://reddit.com/r/LifeProTips/comments/22xmgu/
+author:jtk2102
+subreddit:LifeProTips
+score:2625
+numComments:318
+isOver18:False
+hasPostBody:True

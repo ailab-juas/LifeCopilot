@@ -1,0 +1,13 @@
+title:
+LPT: If you have an alternative reddit account for porn set it to light mode if your main account is on dark mode or vice versa. This way you will immediatly know what account your on when opening the app even before any pictures or videos have loaded. This will prevent you from public embarrassment
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/pqt0en/
+author:kartoffelninja
+subreddit:LifeProTips
+score:54540
+numComments:1523
+isOver18:True
+hasPostBody:False

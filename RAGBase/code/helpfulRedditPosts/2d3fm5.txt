@@ -1,0 +1,13 @@
+title:
+LPT: Compare the cost of storing an unused item(the space in which it resides) to its value as well as to the cost to replace when deciding if you should get rid of it.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/2d3fm5/
+author:doodahdeedo
+subreddit:LifeProTips
+score:1555
+numComments:339
+isOver18:False
+hasPostBody:False

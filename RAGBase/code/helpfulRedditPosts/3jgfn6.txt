@@ -1,0 +1,14 @@
+title:
+YSK that you can create a heatmap of your Wi-Fi signal strength for your home or office using a free program for PC, which can then be used to optimize your signal.
+
+content:
+This is especially useful if you live in a large home and need to know where to place a repeater (signal booster) for your Wi-Fi.
+[http://www.howtogeek.com/165614/how-to-create-a-wi-fi-heatmap-for-network-analysis-better-coverage-and-geek-cred-galore/](http://www.howtogeek.com/165614/how-to-create-a-wi-fi-heatmap-for-network-analysis-better-coverage-and-geek-cred-galore/)
+
+url:https://reddit.com/r/YouShouldKnow/comments/3jgfn6/
+author:iinshallowseas
+subreddit:YouShouldKnow
+score:3914
+numComments:154
+isOver18:False
+hasPostBody:True

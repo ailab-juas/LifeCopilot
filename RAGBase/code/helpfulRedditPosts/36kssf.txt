@@ -1,0 +1,17 @@
+title:
+YSK that you can access the TV version of YouTube in your browser. Looks pristine, without the comments and other fluff.
+
+content:
+[YouTube TV version] (https://www.youtube.com/tv) 
+
+Found it today and I really, really like it. Plays automatically in full screen.
+
+For optimal viewing experience, set your page zoom level to 100% (thank you, /u/melechkibitzer)
+
+url:https://reddit.com/r/YouShouldKnow/comments/36kssf/
+author:thendof
+subreddit:YouShouldKnow
+score:1773
+numComments:134
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,19 @@
+title:
+YSK: If you see an ambulance parked on the side of the road that isn't actively providing care, there may be a dangerous situation in the area.
+
+content:
+Why YSK: If you ever pass by an ambulance with its lights turned off on the side of the road or in an unpopulated area and they are obviously not providing care for someone, the EMTs/Paramedics are likely staging for law enforcement to secure a possibly dangerous scene. In my county we stage for assaults, stabbings, shootings, and overdoses, as well as when the caller/dispatched location has a criminal history or a history of being combative.
+
+EMS typically stages about a mile or two from the scene in rural areas (in case of potential gunfire and other threats) and arrives on scene only when law enforcement has stated that the scene is secure.
+
+I'm an EMT-B (and in Paramedic school, wish me luck!) and I thought this would be a good thing for you guys to know. Stay safe, y'all!
+
+Edit: This isn't true of EVERY county within the US and I'm sure there are differences outside the US as well. It's also entirely possible that an ambulance is on the side of the road because Paramedics/EMTs are eating, waiting for their next call, or doing whatever else. However, in my experience as an EMT on night shift, trucks on the side of the road with the lights off are *usually* staging.
+
+url:https://reddit.com/r/YouShouldKnow/comments/yam6rf/
+author:RileyRKaye
+subreddit:YouShouldKnow
+score:3477
+numComments:103
+isOver18:False
+hasPostBody:True

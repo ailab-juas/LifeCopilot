@@ -1,0 +1,13 @@
+title:
+LPT: If you want to lose weight, keep in mind that you cannot outrun a bad diet. It takes ~3500 calories to burn a pound of fat, while running a marathon (26.2 miles) only burns about 2600 calories.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ab9vu0/
+author:Bearowolf
+subreddit:LifeProTips
+score:36234
+numComments:1633
+isOver18:False
+hasPostBody:False

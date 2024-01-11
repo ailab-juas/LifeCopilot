@@ -1,0 +1,19 @@
+title:
+YSK: Yellowstone is NOT "overdue" for an eruption. Not only is that not how volcanos work, only 5-15% of the magma in the magma chamber under the volcano is actually molten. The rest is completely solid and stable.
+
+content:
+That isn't to say that the volcano could *never* have another supereruption, but scientists do not believe it *ever will.*
+
+The "overdue" myth stems from the average time between the three eruptions in the volcano's life. Which is the average of two numbers, which is functionally useless.
+
+But even if it wasn't useless and it *was* rock-solid evidence of an eruption, we **still** wouldn't be overdue. There's still 100,000 years to go before we reach the average time between eruptions. 
+
+ For more information, [click here] (https://www.usgs.gov/faqs/yellowstone-overdue-eruption-when-will-yellowstone-erupt?qt-news_science_products=0#qt-news_science_products)
+
+url:https://reddit.com/r/YouShouldKnow/comments/gx6nt8/
+author:Supertilt
+subreddit:YouShouldKnow
+score:69234
+numComments:1874
+isOver18:False
+hasPostBody:True

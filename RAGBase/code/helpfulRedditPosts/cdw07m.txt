@@ -1,0 +1,13 @@
+title:
+LPT: If you're using an electronic admissions ticket for a flight/concert/etc, take a screenshot of the ticket in advance so you easily pull it up even if there's bad signal/wifi.
+
+content:
+A few years back I nearly missed a flight because the tiny airport I was flying out of had poor cell service and no wifi, ever since I always screenshot my boarding pass so  I don't have to worry about loading it up, it's already saved to my phone.
+
+url:https://reddit.com/r/LifeProTips/comments/cdw07m/
+author:Notmiefault
+subreddit:LifeProTips
+score:1354
+numComments:64
+isOver18:False
+hasPostBody:True

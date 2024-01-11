@@ -1,0 +1,13 @@
+title:
+LPT: Looking for good music to work to? Try video game soundtracks. The music's designed to provide a stimulating background that doesn't mess with your concentration.
+
+content:
+Edit: Thanks for all the awards!
+
+url:https://reddit.com/r/LifeProTips/comments/qye0nx/
+author:lagflag
+subreddit:LifeProTips
+score:2774
+numComments:199
+isOver18:False
+hasPostBody:True

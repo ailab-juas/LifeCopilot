@@ -1,0 +1,13 @@
+title:
+LPT: If you find a driver's license, just drop it in any USPS box and the Postal Service will mail it to it's rightful owner. [US]
+
+content:
+In case you ever find someone's driver's license, you can just drop it in any US Postal Service outgoing mail box and the Postal Service will make sure the owner get's it. Easy! 
+
+url:https://reddit.com/r/LifeProTips/comments/1w7tnf/
+author:yourmom2000
+subreddit:LifeProTips
+score:1338
+numComments:102
+isOver18:False
+hasPostBody:True

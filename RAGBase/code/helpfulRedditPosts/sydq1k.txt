@@ -1,0 +1,31 @@
+title:
+YSK that in the USA, the National Labor Relations Act makes it illegal for companies to ban you from discussing pay and working conditions.
+
+content:
+Why YSK: in my few years of working for greedy company after greedy company, some of them try backhandedly (or even obviously) to prevent employees talking amongst each other about their compensation. 
+
+You absolutely should talk about how much you're getting paid and make sure everyone *of the same skill level* is getting paid a similar amount. 
+
+This is the first of many steps we can take to help assure women, minorities and handicapped people, (and everyone else for that matter) are paid appropriately for their work.
+
+Edit: Thanks to u/aburke626 I have some more clarification on the legalities regarding all this. Thank you! 
+
+Here’s the FAQ page for the NLRB, some good stuff here in general: https://www.nlrb.gov/resources/faq/nlrb
+
+And specifics on discussing wages: https://www.nlrb.gov/about-nlrb/rights-we-protect/your-rights/your-rights-to-discuss-wages
+
+Who is covered by the NLRA: https://www.nlrb.gov/about-nlrb/rights-we-protect/the-law/jurisdictional-standards
+
+The NLRA definition of a “supervisor” - https://www.nlrb.gov/guidance/key-reference-materials/national-labor-relations-act#:~:text=(11)%20The%20term%20%22supervisor,recommend%20such%20action%2C%20if%20in
+
+Edit 2: So I have been made aware by many, many comments that there are many employers in many states that can just fire you for no reason. 
+
+Take this with a grain of salt and be safe out there. Don't get fired.
+
+url:https://reddit.com/r/YouShouldKnow/comments/sydq1k/
+author:cumberber
+subreddit:YouShouldKnow
+score:7268
+numComments:160
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Before submitting an online form where you've typed out a long question or details, copy that section to your clipboard before hitting submit. If there is a problem with the website and that text is lost, you can quickly paste it back in when you try again instead of typing it out again.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/dehoww/
+author:Aerdon
+subreddit:LifeProTips
+score:31953
+numComments:483
+isOver18:False
+hasPostBody:False

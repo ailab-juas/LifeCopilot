@@ -1,0 +1,25 @@
+title:
+LPT: Scam the scammers
+
+content:
+Background: I work in the telephony industry and know how autodialers work. 
+
+&amp;#x200B;
+
+Most of the time, some dumb shit watched a youtube video and set an autodialer up to scam go down a list of numbers to call people or it could be a list that was bought or scraped online. Then they use a service to purchase minutes from a VOIP company. They rarely ever buy monthly plans as it makes it easier to track them.
+
+&amp;#x200B;
+
+Here's the good part. Most of the time, these idiots who program the autodialer do not configure it properly. Instead of waiting for the user calling to hang up to drop the connection, they have it set to only disconnect if the person being called hangs up (sloppy/lazy configurating). So, if you can piss these fuckers off enough to hang up on you, don't hang up. Put your phone on speak and mute. It will stay open and drain their credits. The longer you keep your phone on the line, the more minutes they run out of and the more money they have to spend.
+
+&amp;#x200B;
+
+Fuck scammers!
+
+url:https://reddit.com/r/LifeProTips/comments/p3to8l/
+author:Shitty_Users
+subreddit:LifeProTips
+score:1987
+numComments:115
+isOver18:False
+hasPostBody:True

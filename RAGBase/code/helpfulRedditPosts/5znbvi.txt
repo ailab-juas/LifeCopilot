@@ -1,0 +1,13 @@
+title:
+LPT: If you're in school and struggle with math or math based courses (Physics, Chemistry, etc), don't just memorize formulas. Try to understand how the formulas were derived. This will help you out during tests if you freeze up and forget everything you learned (the night before).
+
+content:
+Another little tip is be aware of units and make sure all the units that you don't need cancel out and all the ones that you do need are in the right place (numerator or denominator). I've been able to figure out a problem solely based on knowing what units I had, what units I needed to end up with, and the constants that have units (constants are really just values that will convert one unit type to another).
+
+url:https://reddit.com/r/LifeProTips/comments/5znbvi/
+author:cheesecamburger
+subreddit:LifeProTips
+score:3375
+numComments:248
+isOver18:False
+hasPostBody:True

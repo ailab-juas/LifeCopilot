@@ -1,0 +1,95 @@
+title:
+YSK how to not get fucked over by UPS
+
+content:
+If you shipped something with UPS and it arrived damaged, they will fight your damage claim tooth and nail. They make a lot of money off of packaging "insurance", and they do not like to pay it. Follow these steps to make UPS pay for what they did.
+
+&amp;nbsp;
+
+&amp;nbsp;
+
+
+
+Before you ship....
+
+&amp;nbsp;
+
+
+**Step 1: Take pictures of EVERYTHING.**
+
+The item you are shipping, the packaging, the item in the packaging, you mother since she's getting kinda old.
+
+&amp;nbsp;
+
+
+
+
+**Step 2: Pack your item according to the [packaging guidelines](https://www.ups.com/content/us/en/resources/ship/packaging/guidelines/how_to.html).**
+
+These are not guidelines, there are shipping law that will be used to fuck you later. Choosing the correct box is important.
+
+&amp;nbsp;
+
+
+**Step 3: Declare the cost of your item and Ship.**
+
+They may say things like "How much insurance would you like?" or "Would you like to insure your package?", but don't be fooled these vague words, THIS IS NOT INSURANCE. This is a declared value, and as far as UPS is concerned, you will not see this money.
+
+
+
+&amp;nbsp;
+
+
+
+&amp;nbsp;
+
+After your package has arrived in hundreds of pieces.....
+
+&amp;nbsp;
+
+
+**Step 1: Take pictures immediately**
+
+Don't pull everything apart. Keep every shard plastic and splinter of wood.
+
+&amp;nbsp;
+
+
+**Step 2: File a claim, and ask for the phone interview**
+
+This is the most important step. You will open up the [packaging guidelines](https://www.ups.com/content/us/en/resources/ship/packaging/guidelines/how_to.html) that you used earlier.
+
+* When asked about your packaging, read your guidelines word for word. 
+* When asked about damage to the box, tell them there is damage to the box that coincides with the item damage.
+* When asked if there was at least 2 inches of wrap surrounding your item, you will say yes.
+
+
+&amp;nbsp;
+
+
+
+**Step 3: Dispute the denied claim**
+
+Yes, there is a very good chance they will automatically deny your first claim for some bullshit reason. "We didn't do it." or "We can't see how the leg broke off." Dispute the claim and fight it further. You have met all their shipping guidelines, so should win eventually.
+
+&amp;nbsp;
+
+
+**Step Last Resort: Fax a demand letter to the UPS Store you shipped from**
+
+Hopefully it doesn't get to this step, but you can write up a letter detailing the entire process, explaining you want compensation for the cost of shipping and the declared value of the item. [Here is a sample demand letter.](https://i.imgur.com/uwFXjB4.png) (Shipping through Staples with UPS is the same, just extra bullshit.) They will call you within 10 minutes of faxing, be polite and cooperate, but follow through.
+
+
+
+&amp;nbsp;
+
+
+This may also apply to FedEx or USPS, but I cannot speak for them.
+
+url:https://reddit.com/r/YouShouldKnow/comments/45uwdy/
+author:DrFino
+subreddit:YouShouldKnow
+score:1809
+numComments:190
+isOver18:False
+hasPostBody:True

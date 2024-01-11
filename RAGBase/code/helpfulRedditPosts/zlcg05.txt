@@ -1,0 +1,15 @@
+title:
+LPT: your passport effectively expires 6 months before the expiration date printed on it.
+
+content:
+Most countries enforce a 6-month rule on foreign passports.  To be be granted entry into such a country, your foreign passport must be valid for at least 6 months.  For example, if you are a US citizen and want to make a quick visit to China in July, then your passport cannot expire the following December. China will not allow you in.  You must renew it before you visit.
+
+For this reason, treat your passport as if it expires six months before it says it does.  Renew it early.
+
+url:https://reddit.com/r/LifeProTips/comments/zlcg05/
+author:jack-o-licious
+subreddit:LifeProTips
+score:7029
+numComments:223
+isOver18:False
+hasPostBody:True

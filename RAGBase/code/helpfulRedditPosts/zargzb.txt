@@ -1,0 +1,15 @@
+title:
+LPT: Use Ctrl + Shift + Windows + B to restart graphics drivers
+
+content:
+On windows this key shortcut will restart your graphics drivers. 
+
+Any time I’m having issues with my monitors not being detected, screens flashing, etc. this shortcut comes in handy. Can be useful in a myriad of situations. Enjoy!
+
+url:https://reddit.com/r/LifeProTips/comments/zargzb/
+author:sp1nn
+subreddit:LifeProTips
+score:3397
+numComments:101
+isOver18:False
+hasPostBody:True

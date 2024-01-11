@@ -1,0 +1,13 @@
+title:
+YSK: Paypal will pay your return shipping costs
+
+content:
+If a Christmas gift didn’t turn out the way you were hoping and it’s not free to ship it back, your not out of options. Activate return shipping on your Paypal account. It’s up to $30 per order and 12 purchases a year. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/7jg7k0/
+author:DCAllen8
+subreddit:YouShouldKnow
+score:1302
+numComments:33
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,23 @@
+title:
+LPT: Stuck in snow? Keep your exhaust clear!
+
+content:
+I learned this a long time ago, but not a lot of people think of it. They assume that your exhaust will keep the snow melted. To a point it's true, but when you're stuck in deep and/or heavy snow, with a lot coming down (like in Buffalo right now), your exhaust can't melt enough of it. Then the gasses will start coming in to your car. Many people have died this way, and I believe at least one already has in this storm alone. 
+
+So please, if you get stuck in the snow and you're leaving your engine on for warmth (bonus-LPT: always keep your car filled with gas in the winter, especially before a storm), please **get out every so often and make sure there's room around your exhaust for it to vent.**
+
+*edit: To those saying this is useless, car will stall out first, etc.: Yes, it comes out of the tail pipe. But when there's snow around the tail pipe (up, over, around, etc., not packed into, [like this](http://media.syracuse.com/cny/photo/9259305-large.jpg)), it has to go somewhere. That somewhere is the only clear area it can find, under the car. I don't know of any airtight cars in existence, so it works its way into the cabin.*
+
+*edit 2: No, it's not for random little bits of snow, it's for extreme cases where snow is piling up around your car. And I never said it completely blocks the tail pipe, just that it blocks it from dissipating away, and ends up going under the car.*
+
+*edit 3: As /u/Susan_Werner pointed out below, here's an article for all of those saying it's not possible: http://www.medicinenet.com/script/main/art.asp?articlekey=563*
+
+*edit 4: 8 years, and I finally got a front page post, haha. If I save even one life, it's most definitely worth it.* **Speaking of, for all of those that are calling BS, here's the first of countless articles that can be found from a quick Google search: [2 car deaths in Boston tied to carbon monoxide](http://www.bostonglobe.com/metro/2013/02/10/boston-boy-dies-carbon-monoxide-poisoning-after-shoveling-out-from-blizzard/dcSmZDfjRSohNDCsAdtBqM/story.html)** *
+
+url:https://reddit.com/r/LifeProTips/comments/2mruul/
+author:supaphly42
+subreddit:LifeProTips
+score:3019
+numComments:423
+isOver18:False
+hasPostBody:True

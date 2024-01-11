@@ -1,0 +1,15 @@
+title:
+LPT: When asking someone to speak in another language, don't ask them to just "say something," ask them "tell me about your day."
+
+content:
+It's exciting to hear a different language, but too many people (*cough* Americans *cough) just say "say something in xxxxxx :)."
+
+Asking "tell me about you day in xxxxxx" gives them a topic to talk about, and you might be able to hear similar words.
+
+url:https://reddit.com/r/LifeProTips/comments/4pjeuo/
+author:phoenix1029
+subreddit:LifeProTips
+score:1063
+numComments:80
+isOver18:False
+hasPostBody:True

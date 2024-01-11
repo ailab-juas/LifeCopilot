@@ -1,0 +1,13 @@
+title:
+LPT: If you have a friend to whom you confess to, during the hard times in your life, ensure that you speak to them about the good things happening too.It sucks when someone only looks to a friend when things are not going so well and makes them feel used, no matter how good a friend they are.
+
+content:
+Also ask them how their life is going once in a while. Don’t make it one way traffic.
+
+url:https://reddit.com/r/LifeProTips/comments/j9nxfq/
+author:GuyWithDFacts
+subreddit:LifeProTips
+score:42685
+numComments:375
+isOver18:False
+hasPostBody:True

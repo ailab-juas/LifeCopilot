@@ -1,0 +1,15 @@
+title:
+LPT: If you're conversing with someone who isn't proficient in the language of communication or doesn't understand the dialect you're speaking in, speaking slowly may not help always. Instead try to frame a sentence with different words.
+
+content:
+When I came to US for work, though I knew English very well, it was difficult to understand certain specific dialects like Texan English or Philly English. I've seen people slow down and speak the exact same sentence, which wasn't helpful in anyway as I was still not understanding what they were speaking. It took sometime for me to understand - water pronounced wuter, towel pronounced tal, you all as y'all etc. 
+
+My English was also different for an American audience. Whenever I saw my audience not understanding what I just said in a meeting, I started repeating it with a different sentence structure changing a few words here and there, and it worked like a charm most of the time. Also, adding visible gestures could also fill the gaps.
+
+url:https://reddit.com/r/LifeProTips/comments/s20unn/
+author:RealityCheck18
+subreddit:LifeProTips
+score:3477
+numComments:172
+isOver18:False
+hasPostBody:True

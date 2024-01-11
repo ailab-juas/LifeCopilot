@@ -1,0 +1,22 @@
+title:
+YSK how to make sure that you front page is always fresh
+
+content:
+1. Upper right of any reddit page, click "**preferences**", 
+1. Scroll down to "**link options**".
+1. Check "**don't show links after I've liked them**", and/or
+1. Check "**don't show links after I've disliked them**"
+
+Now all you have to do is to vote. Threads  you upvoted or downvoted (depending on what you checked in step 3 and 4 above) will not show up on your front page anymore.
+
+Reddit is fueled by user submitted content, *and* your votes. With this simple change, you make it work for yourself, and for everybody else.
+
+See also the discussion from a year ago: http://redd.it/kp077
+
+url:https://reddit.com/r/YouShouldKnow/comments/1hkbyv/
+author:jdk
+subreddit:YouShouldKnow
+score:1814
+numComments:128
+isOver18:False
+hasPostBody:True

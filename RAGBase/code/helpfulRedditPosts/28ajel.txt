@@ -1,0 +1,13 @@
+title:
+YSK overexposing your eyes to UV radiation can lead to sunburned corneas (snow blindness), macular degeneration, and cataract formation. Those at altitude, near the equator, and/or in open spaces are at increased risk. Wear 100% UV protective sunglasses this summer!
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/28ajel/
+author:[deleted]
+subreddit:YouShouldKnow
+score:1332
+numComments:110
+isOver18:False
+hasPostBody:False

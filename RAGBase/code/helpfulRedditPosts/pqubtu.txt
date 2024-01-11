@@ -1,0 +1,13 @@
+title:
+YSK: The oils in hot peppers like jalapenos or habaneros are alcohol and fat soluble. To get peppers oils off your skin first apply olive oil or vegetable oil to the affected area for about 10 minutes or so, wipe off, then swab with rubbing alcohol.
+
+content:
+Why ysk: hot peppers oils can cause skin irritation and even burns. They can irritate the eyes, mucous membranes and genitals causing severe pain.
+
+url:https://reddit.com/r/YouShouldKnow/comments/pqubtu/
+author:brother_p
+subreddit:YouShouldKnow
+score:1124
+numComments:45
+isOver18:False
+hasPostBody:True

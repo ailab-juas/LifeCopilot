@@ -1,0 +1,15 @@
+title:
+YSK: Many banks will refund overdraft or account fees up to a few times a year. You just have to go into the bank and ask if they can issue a courtesy refund.
+
+content:
+Why YSK: when money is tight and you find your checking or savings account bottoming out, accruing fees can make the financial burden in your life worse. So long as you try to get in as soon as you can, you can get back some of that money with little effort on your part. 
+
+The big caveat here above other versions of this post in the past is that you need to go in pretty quick after the fee hits (&lt;30-90 days, depending on the bank). Sometimes if the fee is over a certain amount of days banks will no longer be able to reverse the fee, or at least thats how it is at the bank I work at (a major US bank).
+
+url:https://reddit.com/r/YouShouldKnow/comments/q649f8/
+author:vigilanterepoman
+subreddit:YouShouldKnow
+score:8396
+numComments:281
+isOver18:False
+hasPostBody:True

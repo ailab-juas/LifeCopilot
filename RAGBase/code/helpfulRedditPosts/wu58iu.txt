@@ -1,0 +1,13 @@
+title:
+LPT for students: as the new semester starts, many classes list every assignment/deadline in the syllabus from the get go. Spend a few hours putting them all into your calendar/reminder apps.
+
+content:
+It makes life far easier if you can visualize your upcoming deadlines for all classes in one spot. And by doing it all at once at the start, you avoid forgetting to add them as they appear throughout the semester. Bonus points if you also mark down the specific details of the assignment in the same spot (reading pages X-Y or doing a given set of problems). Doing this saved me from planning events during crunch periods and allowed me to avoid being surprised by 3 essays being due the same week.
+
+url:https://reddit.com/r/LifeProTips/comments/wu58iu/
+author:500_Shames
+subreddit:LifeProTips
+score:1229
+numComments:43
+isOver18:False
+hasPostBody:True

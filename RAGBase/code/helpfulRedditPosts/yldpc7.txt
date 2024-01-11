@@ -1,0 +1,13 @@
+title:
+LPT: Working out does not have to last an hour. There are proven benefits to exercising for only a few minutes. Doing this several days a week could elevate your mood considerably.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/yldpc7/
+author:incredibleinkpen
+subreddit:LifeProTips
+score:3185
+numComments:181
+isOver18:False
+hasPostBody:False

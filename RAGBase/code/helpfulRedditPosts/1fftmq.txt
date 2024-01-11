@@ -1,0 +1,13 @@
+title:
+YSK that alcohol based hand sanitizer will clean a dry erase board written on with regular marker
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/1fftmq/
+author:fattyfa
+subreddit:YouShouldKnow
+score:1152
+numComments:85
+isOver18:False
+hasPostBody:False

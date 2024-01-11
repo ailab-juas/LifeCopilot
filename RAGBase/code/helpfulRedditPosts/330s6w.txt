@@ -1,0 +1,13 @@
+title:
+LPT: If you missed the April 15th deadline to file your income tax return (without filing for an extension), file your taxes by May 15th because penalties accrue monthly on the 16th of each month.
+
+content:
+If you don't have an extension, you're charged 5% on any balance due on the 16th of each month (up to 25%). It's not accrued daily; it's all at once on the 16th of each month. Regardless of whether or not you got an extension, you have to pay 3% (annual rate) on any balance due. That is added to your balance daily. So while it's always best to get it done ASAP, you could save yourself a significant amount of money by filing by May 15th instead of May 16th or later.
+
+url:https://reddit.com/r/LifeProTips/comments/330s6w/
+author:[deleted]
+subreddit:LifeProTips
+score:1557
+numComments:159
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: If you start acting like the person you want to be eventually you will become that person.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/966i0e/
+author:rhenr22
+subreddit:LifeProTips
+score:1328
+numComments:147
+isOver18:False
+hasPostBody:False

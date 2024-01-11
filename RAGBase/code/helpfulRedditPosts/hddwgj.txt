@@ -1,0 +1,13 @@
+title:
+LPT: You’ll spend 1/3 of your life sleeping (among other activities) on a mattress. Invest in a quality mattress; a good night’s sleep cannot go understated.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/hddwgj/
+author:TaylorMadeNades
+subreddit:LifeProTips
+score:1755
+numComments:172
+isOver18:False
+hasPostBody:False

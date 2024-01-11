@@ -1,0 +1,13 @@
+title:
+LPT: When copy pasting, use CTRL+SHFT+V to remove Rich Text Cruft. A surprising amount of people don't know this.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1oftiy/
+author:urquanmaster
+subreddit:LifeProTips
+score:2316
+numComments:303
+isOver18:False
+hasPostBody:False

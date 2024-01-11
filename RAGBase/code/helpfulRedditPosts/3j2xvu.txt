@@ -1,0 +1,13 @@
+title:
+LPT: when writing an email, don't fill in the "To" field until it's completely done and ready to be sent
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/3j2xvu/
+author:[deleted]
+subreddit:LifeProTips
+score:1883
+numComments:119
+isOver18:False
+hasPostBody:False

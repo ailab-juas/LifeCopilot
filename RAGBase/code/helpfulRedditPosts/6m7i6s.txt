@@ -1,0 +1,21 @@
+title:
+LPT: if an app asks you to rate it click "yes", wait for your app store to start the load then click back. App stores don't state if you share, so apps can't check BUT it stores the cookie and never asks again.
+
+content:
+This saves you clicking "later" and stops the app bugging you with requests:
+
+HTH. 
+
+Edit: forgot to mention till reminded... This trick also works for "link to Facebook for a reward" links. Click the link... Wait for Facebook to load then click back. No Facebook link BUT you'll get the reward.
+
+Edit 2: TY for the gold kind stranger.
+
+Edit 3: WOW! third on r/all in 4 hours. You guys are amazing. Thank you.
+
+url:https://reddit.com/r/LifeProTips/comments/6m7i6s/
+author:freenarative
+subreddit:LifeProTips
+score:54231
+numComments:1074
+isOver18:False
+hasPostBody:True

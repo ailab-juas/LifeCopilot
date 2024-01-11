@@ -1,0 +1,13 @@
+title:
+YSK that due to the the shutdown there is a high demand for above ground swimming pools as well as a large amount of fake websites ready to take your money and not ship you anything.
+
+content:
+Even on Amazon. We learned the hard way. Known big box stores were all sold out and when looking up new websites found them all to be scams. So we ordered on Amazon without checking the seller’s ratings only to find all of the reviews were warnings not to buy. Do your homework people. Don’t be like me.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ht7akh/
+author:ImOkReally
+subreddit:YouShouldKnow
+score:1319
+numComments:64
+isOver18:False
+hasPostBody:True

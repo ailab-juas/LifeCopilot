@@ -1,0 +1,27 @@
+title:
+LPT: Mac Book users, hover your mouse over any word and tap three fingers on the track pad to see the definition, as well as Thesaurus and Wiki entries.
+
+content:
+This works on Yosemite and works on any text in browser, text editors, PDF readers etc...
+
+Extras:
+
+*/u/Bullz-Eye :
+
+&gt;http://www.bettertouchtool.net/[1] With this program you use your trackpad so much more efficient
+
+*/u/thread_pool :
+
+&gt;You don't need a Macbook to do this. On a regular Mac, you can hover over the target word, and press Control+Command+D to get the definition.
+
+*/u/Nonsensicallity :
+
+&gt;Another thing, if you have other languages installed on your keyboard, it'll give you the definition of that word in another language as if you had an x language to English dictionary.
+
+url:https://reddit.com/r/LifeProTips/comments/2od5c0/
+author:Billogi
+subreddit:LifeProTips
+score:3084
+numComments:601
+isOver18:False
+hasPostBody:True

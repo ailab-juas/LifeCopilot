@@ -1,0 +1,13 @@
+title:
+YSK about Televisor.com, enter a show you like and it will recommend new shows to watch and where to find them online
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/1kcp5m/
+author:Brenden105
+subreddit:YouShouldKnow
+score:1175
+numComments:117
+isOver18:False
+hasPostBody:False

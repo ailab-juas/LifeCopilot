@@ -1,0 +1,13 @@
+title:
+LPT: If your solution to a problem includes the words "if everyone just", it's not a viable solution
+
+content:
+Behavior is not easy to influence. People will not "just" do anything, especially if it disrupts a habit.
+
+url:https://reddit.com/r/LifeProTips/comments/60ozdf/
+author:Birdrats
+subreddit:LifeProTips
+score:1380
+numComments:127
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: If you receive a call from a business that asks for any sort of information from you because of an "issue with your account" or similar, hang up and call the business back with the number from their website
+
+content:
+Even if the number calling appears to come from the business, do not trust it because it is fairly easy to spoof caller ID. Recently someone has been calling from the AT&amp;T customer support number, needing information from me because there's an issue with my account. I hung up and called AT&amp;T back directly and they said my account was fine and it was a phishing scam. If you get a call from a business needing ANY identifying information from you (anything more than just your first name) explain to them that to be safe you will hang up and call the business back (you can ask for a case number or their extension for when you call back). If they insist on resolving the issue now, that should throw up major red flags that they are trying to do a phishing scam
+
+url:https://reddit.com/r/LifeProTips/comments/826vyk/
+author:rulerdude
+subreddit:LifeProTips
+score:5122
+numComments:193
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+YSK: Bugs are naturally attracted to light sources. To make a fly or another annoying bug leave your bedroom, try turning off all the lights in your room and turning on all the lights in another room like the kitchen or patio.
+
+content:
+Why YSK: It helps get rid of annoying bugs. It may also help you move them to another space where killing them is easier. My kitchen is bigger and less cluttered than my bedroom so it's easier to swat flies there.
+
+\*Doesn't work with all bugs
+
+url:https://reddit.com/r/YouShouldKnow/comments/q0z1nd/
+author:april-then-may
+subreddit:YouShouldKnow
+score:7686
+numComments:159
+isOver18:False
+hasPostBody:True

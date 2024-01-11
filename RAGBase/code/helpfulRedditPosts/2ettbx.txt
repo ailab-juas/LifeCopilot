@@ -1,0 +1,13 @@
+title:
+YSK about mynoise.net, an online sound generator that's amazing for the office, etc.
+
+content:
+It can make fantastic [rain noise](http://mynoise.net/NoiseMachines/rainNoiseGenerator.php), [temple bells](http://mynoise.net/NoiseMachines/windchimesGenerator.php), and [many more](http://mynoise.net/noiseMachines.php). It's a life-saver in a loud office (I show it to every new hire) or for light sleepers. I love it. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/2ettbx/
+author:yiersan
+subreddit:YouShouldKnow
+score:1704
+numComments:163
+isOver18:False
+hasPostBody:True

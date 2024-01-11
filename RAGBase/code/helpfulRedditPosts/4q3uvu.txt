@@ -1,0 +1,60 @@
+title:
+LPT: Use 'Focus Sessions' and 'Day Goals' to stay productive at work
+
+content:
+http://i.imgur.com/RZWFiSK.jpg
+
+**TL;DR: The link above shows a set of techniques I've implemented as part of my 2016 New Years Resolution and stick with each day.**
+
+More descriptions of each section below. 
+______
+
+* **Date**
+
+* **Time at Desk** [Goal: get in as early as possible since morning hours are most productive for me. Tracking this by writing it down helps give a tiny surge of motivation each morning]
+
+
+
+* **Day Goals** [These are intended as a FEW overarching goals (lets say, 2-3 goals) for what would make the day successful to you. It helps immediately scope the day's goals. A CRITICAL step: after you write these down, think: "If at the end of the day, I accomplish these 3 things, will I feel good about today?" If that thought leaves you feeling like your day goals are too daunting or too insufficient, then revise them before actually starting the day. Repeat until you feel comfortable with day goals.]
+
+
+
+* **Morning Thoughts** [I was finding that I'd come in with a set of emotionally charged thoughts that would then distract me throughout the day. Taking a few minutes to write down whatever happens to be on my mind, whatever I happen to be feeling, really helps to clear it, or at least postpone the thoughts for when I actually want to make time to process them.]
+
+
+
+* **ToDo List** [This ToDo list, at least for me, is NOT a comprehensive list of all work items. Instead, it contains things like chores, meetings, social things, smaller menial tasks, email checking, etc. The idea is to give myself less mental credit for a menial task and more credit for working towards my day goals, while still recognizing the need to get the menial tasks done]
+
+
+
+* **Retrospective:** [How did I actually use my time? Every couple of hours I update this list with where my time actually went. It's been SUPER interesting in particular to see how what sometimes might feel like a 'quick afternoon break' to me was actually more like a 2 hour break or something. Has been very revealing and sometimes helps me with efficiency]
+
+
+
+* **FOCUS SESSIONS** [These things are MAGICAL, at least for me. My big realization is that previously, I'd reason that e.g. sending a quick text message takes all of 20 seconds and is no big deal. But in reality, I was simply not creating the sort of totally focused, absolutely uninterrupted time I needed to get things done for real. So, focus sessions are 1-2 hour periods (set the time just before you begin one) where ALL SOCIAL MEDIA GOES OFF. completely. not even one exception. No text messaging. No facebook. No reddit. Ideally no email. for 1-2 hours. Write down your work goal for the focus session. Focus sessions have been mind clearing and liberating for me, and they are short enough to stick with. When the focus session is over, you are again free to kick back and catch up on texts (it's fun if you've accumulated some). I try to do anywhere from 3-6 of these a day, and personally find that about 1.5 hours is a good length of time. During focus sessions, I listen to music designed to enhance focus such as [alpha waves](https://www.youtube.com/watch?v=WPni755-Krg), but whatever music works well for you is fine. I find it's good to have an auditory trigger that you gradually grow to associate with focusing. If I am tempted to cheat, I remind myself that I am specifically trying to prove that I have self-trust: If I say I am going to focus for 1.5 hours, I will. Self-trust works both ways though - If I say I'm going to have fun for an hour, I should have stress-free fun]
+
+[edit] one more note on focus sessions - you don't necessarily need to work during the full focus session. If I need a pause, I find that staring out the window for a little while is a good quick rest that does not require a context shift. 
+
+
+
+
+Hope these techniques I've developed to address my own productivity issues will help some other people too! Would be curious which parts of this work for other people as well.  
+
+
+
+
+
+
+
+**update** Hey Reddit, what an overwhelming response!!  Glad to see that these strategies are worth a try for many of you too. For those of you who think this stuff is lame corporate non-work, I totally know what you're getting at. It's really best to find some approach that works for you and just *work*, rather than pour energy into overanalyzing *how to work*. But a lot of people including me struggle to find an approach in the first place, in particular for intense tasks like writing a term paper or thesis. 
+
+Regarding digital vs. handwritten sheets, personally, I prefer the handwritten approach because [it makes me think more carefully](http://www.businessinsider.com/handwriting-helps-you-learn-2014-12)  and also it's great to physically check things off. But a number of you on the thread have requested a digitized version
+ 
+
+url:https://reddit.com/r/LifeProTips/comments/4q3uvu/
+author:jmc1228
+subreddit:LifeProTips
+score:4221
+numComments:596
+isOver18:False
+hasPostBody:True

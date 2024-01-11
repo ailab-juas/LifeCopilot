@@ -1,0 +1,13 @@
+title:
+LPT: To throw away bacon grease, line a bowl with aluminum foil and pour the grease into it when done. When it's set up, you can just toss it in the trash. If you need to, you can wipe the remaining grease out with a paper towel.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1nk6nu/
+author:purebredginger
+subreddit:LifeProTips
+score:1110
+numComments:463
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,17 @@
+title:
+LPT: Still use Snapchat? Disable SnapMaps in your settings. While it can be a fun way to see what friends are up to, it can also be a dangerous tool others can use to track your location.
+
+content:
+I've met multiple men who have used SnapMaps to stalk women, as often times when a Tinder conversation goes well, Snapchat is the first info they exchange. While the service isn't pixel perfect, the location system is accurate enough (and easy to access) for people to know where you are to the nearest 1-2 blocks.
+
+These men have used SnapMaps to locate people's cars, verify that they aren't being lied to by their dates (i.e., "I know her ex lives on the street she's at right now"), and many other potentially dangerous things. The problem is, SnapMaps defaults to tracking/sharing your location, and is tucked away in the corner of the app so it's really easy to forget about.
+
+If you are currently using dating apps to meet new people or don't fully trust everyone you have added on snapchat, go ahead and go to location settings and switch to either "Ghost Mode" (only you can see your location) or restrict location viewing to a handful of friends you trust. It'll let you still enjoy the app, while also making sure your data doesn't go into potentially dangerous hands.
+
+url:https://reddit.com/r/LifeProTips/comments/j21cxh/
+author:AppleBeesAppetizers
+subreddit:LifeProTips
+score:5313
+numComments:140
+isOver18:False
+hasPostBody:True

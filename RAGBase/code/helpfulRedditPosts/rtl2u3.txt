@@ -1,0 +1,17 @@
+title:
+LPT: Want your helium-filled balloons to float longer? Blow in some air before tying the balloon!
+
+content:
+Helium atoms are very small compared to the atoms and molecules that make up plain air. A knot in a balloon is tight enough to hold air, but helium *very* slowly escapes. The easy solution is a puff of plain air into a helium-filled balloon before it’s tied. The air sinks to the bottom of the balloon where the knot is and plugs the hole better keeping the helium from escaping.
+
+I’ve had a balloon float around my living room for six months before it eventually fell.
+
+Edit: if anyone here has experience in Schlieren photography, we can conduct experiments to see if the air settles in an appreciable manner.
+
+url:https://reddit.com/r/LifeProTips/comments/rtl2u3/
+author:klaxz1
+subreddit:LifeProTips
+score:5794
+numComments:254
+isOver18:False
+hasPostBody:True

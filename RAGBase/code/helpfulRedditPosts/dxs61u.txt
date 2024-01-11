@@ -1,0 +1,13 @@
+title:
+LPT: If you have a dashcam, keep a second memory card in your car. That way in the event of an accident, you can swap out the card to help protect the footage. Secondly, it allows you to have a backup if you main card fails while you are out and about.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/dxs61u/
+author:Jamaican16
+subreddit:LifeProTips
+score:19650
+numComments:502
+isOver18:False
+hasPostBody:False

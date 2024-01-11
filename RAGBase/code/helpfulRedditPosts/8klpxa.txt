@@ -1,0 +1,14 @@
+title:
+YSK Paracetamol (Tylenol) is extremely toxic to cats which lack the appropriate enzyme to break it down safely. This produces Heinz bodies and causes Asphyxiation due to hemolytic anemia.
+
+content:
+Always remember to consult a veterinarian before giving any medications to your pet.
+https://en.wikipedia.org/wiki/Paracetamol#Cats
+
+url:https://reddit.com/r/YouShouldKnow/comments/8klpxa/
+author:DEATHRATTLERS
+subreddit:YouShouldKnow
+score:1607
+numComments:84
+isOver18:False
+hasPostBody:True

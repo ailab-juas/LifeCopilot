@@ -1,0 +1,13 @@
+title:
+LPT: If you want an actual Life Pro Tip, go to the comments section.....
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1m6asi/
+author:s_floyd
+subreddit:LifeProTips
+score:1325
+numComments:358
+isOver18:False
+hasPostBody:False

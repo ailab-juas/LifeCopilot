@@ -1,0 +1,13 @@
+title:
+LPT: Write every email as though it may be forwarded to the person who you'd least like to see it.
+
+content:
+Because it very well may. Usually, you can reword even uncomfortable messages in a way that wouldn't upset or offend anyone. And if you can't, it's probably best communicated verbally.
+
+url:https://reddit.com/r/LifeProTips/comments/2zppiz/
+author:bombastard3
+subreddit:LifeProTips
+score:4228
+numComments:626
+isOver18:False
+hasPostBody:True

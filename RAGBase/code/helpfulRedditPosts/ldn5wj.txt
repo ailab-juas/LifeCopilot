@@ -1,0 +1,16 @@
+title:
+YSK if you are experiencing a lot of static shocks, or unusually staticky laundry, humidifying your house may fix it. This is especially true if you have a wood stove, if you can you should always keep a teapot full of water on it.
+
+content:
+Why YSK: Dry air causes static. Static discharge can damage electronics if they aren’t properly grounded. But mostly static shocks are annoying. 
+
+
+The static is just one of the annoyances of overly dry air. For me I also experience dry skin and occasionally sinus discomfort if the air is especially dry. But the static is one of the signs I notice first.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ldn5wj/
+author:tehvillageidiot
+subreddit:YouShouldKnow
+score:2711
+numComments:57
+isOver18:False
+hasPostBody:True

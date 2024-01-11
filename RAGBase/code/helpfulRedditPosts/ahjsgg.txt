@@ -1,0 +1,21 @@
+title:
+YSK: Apple assumes no liability for protecting your personal data when trading in a used iPhone/Pad/Mac through their GiveBack Program.
+
+content:
+*Per the Legalese in almost transparent font..*
+
+[You are solely responsible for removing all data, including confidential  and personal data, from the device prior to shipping. Neither Apple nor  the approved partner accepts any responsibility or liability for any  lost files or data.](https://www.apple.com/shop/trade-in)
+
+No big conspiracy here, but posting as a simple reminder to learn how to completely wipe your data clean before getting rid of it. 
+
+["How to wipe all personal data and erase your iPhone and iPad."](https://www.imore.com/how-wipe-all-your-personal-data-ipad-or-iphone)
+
+&amp;#x200B;
+
+url:https://reddit.com/r/YouShouldKnow/comments/ahjsgg/
+author:protegehype
+subreddit:YouShouldKnow
+score:1838
+numComments:44
+isOver18:False
+hasPostBody:True

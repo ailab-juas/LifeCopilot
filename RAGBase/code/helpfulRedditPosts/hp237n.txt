@@ -1,0 +1,106 @@
+title:
+YSK: Keeping a "brag document" of your little wins at work will do wonders for your career.
+
+content:
+Thought I'd share some advice that has helped me so far in my career. It has to do with recording your wins at work - hope you like it!
+
+The human brain is terrible at remembering information.
+
+When we try to use the past to predict the future, we end up using *our memory* of the past. And our memory is extremely flawed, subject to whims and emotions.
+
+One of the biggest consequences of this is at work.
+
+You clock in 9-5 for days on days and then when you look back at what you did a year ago, you think “Where did all that time go?”
+
+Even worse, if YOU can’t remember what the hell you did, how will your boss?
+
+In an ideal world: you do a great job, your company rewards you. They’ll notice all the hard work you’re putting in. All the beautiful lines of code you’ve written.
+
+But we don’t live in an ideal world. And the costliest mistake you can make in your career is not being proactive about recording your achievements and your little wins.
+
+**Enter The Brag Document**
+
+By recording your small wins and accomplishments on a weekly basis, you accumulate concrete evidence of what you’ve achieved.
+
+And these “wins” don’t need to be Olympic Gold Medals.
+
+Did you help a coworker understand how to use an API? Jot it down.
+
+Did you anticipate a nasty bug and proactively reach out about it? It goes on there.
+
+Did you help mentor a junior employee? That’s definitely part of it.
+
+Over time, I promise you, your brag document will do wonders for your career.
+
+Sure - negotiating a raise or getting a promotion will become easier. In fact, come performance review time, even your boss will thank you for it. Those things are hard to write from pure memory. More on this a bit later.
+
+But the biggest benefit of a brag document lies in identifying *what you enjoy doing*.
+
+Your wins are likely a representation of tasks you enjoyed. And you should be very proactive about focusing on those tasks going forward.
+
+Use your Brag Document to ruthlessly identify the tasks you want to spend more time on, as well as the tasks you don’t want to do anymore.
+
+**The Pareto Principle**
+
+The Pareto Principle states that 80% of the effects come from 20% of the causes.
+
+At work, 80% of what you can feel proud about will stem from 20% of what you do. You can think of your Brag Document as representing that 20%.
+
+Use this 20% to ask yourself questions like:
+
+* Is there a common theme amongst this work?
+* Are there topics here that I thought I didn’t actually like but turns out I do?
+* How much of this work involves collaboration with other departments / teams?
+* How can I do more of this work?
+
+**Frequency**
+
+Update your brag document on a weekly basis. You can set it as a recurring event on your calendar.
+
+The biggest benefit of this is that it forces you to scrutinize your output on a regular basis and allows you to be proactive about focusing on the work you want to do.
+
+Let’s say that after a few weeks of work, you genuinely have nothing to put on your brag document.
+
+There’s a chance you had a bit of a slow period at work, but maybe you’re just stuck somewhere you don’t want to be?
+
+**Collaborate**
+
+Talk about your brag document with co-workers. Ask them what you think you should put on yours.
+
+You’ll often find that they’re able to mention things you completely forgot or didn’t even seem to think about.
+
+Remember - just because something seems easy *to you* doesn’t mean it’s easy in general. 5 minutes of work may have taken you 10 years to learn.
+
+You should also encourage your team to keep their own brag documents. Help each other be accountable and celebrate each other’s wins. This builds a strong team culture.
+
+**Your Manager**
+
+You should try to share your brag document with your manager once a quarter.
+
+It might seem **weird** or **unnatural** \- you’re basically dumping all your achievements into their lap. But this actually really makes their life easier.
+
+If your manager ever needs to vouch for you internally, then boom - they have direct evidence they can use. If your manager needs to reshuffle workload, then they know what you’re good at and what you can improve on.
+
+Even better, you and your manager should go through your brag document together.
+
+Tell them what you want to do more of. Tell them what you wish was on there more.
+
+You’ll both be able to identify areas in which you’re doing a great job and also areas in which your manager perhaps wants you to focus on more.
+
+Another aspect that’s helpful here is with goal setting - your manager and you likely work together anyway to determine quarterly goals.
+
+You should use your brag document to help you identify what type of goals you need to be hitting. Very often, we will achieve goals and then think “Wait..what was the point again?”
+
+By using your brag document to set goals, you’ll be much more likely to be working towards something that you find rewarding.
+
+\----
+
+Hope this was helpful - original article source [here](https://www.careerfair.io/reviews/howtobragatwork)
+
+url:https://reddit.com/r/YouShouldKnow/comments/hp237n/
+author:ibsurvivors
+subreddit:YouShouldKnow
+score:6831
+numComments:106
+isOver18:False
+hasPostBody:True

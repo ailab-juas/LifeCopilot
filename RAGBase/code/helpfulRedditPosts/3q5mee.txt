@@ -1,0 +1,19 @@
+title:
+LPT: It's better to have your debit card declined than to use overdraft protection.
+
+content:
+The bank wants it to look like they're doing to a favor by letting you use your card anyway, when the truth is you would have used an alternate source (like a credit card or cash) had the transaction been declined, thereby avoiding paying an overdraft fee.
+
+Cancel your overdraft protection. You WANT the bank to decline your card so you can use another source, rather than it accept the transaction and charge you for the "convenience".
+
+Update: Clearly being "more diligent about one's finances" is the best solution. However, it is easier stated than accomplished. Overdraft protection explicitly exists to take advantage of a lack of financial diligence.
+
+Update 2: Some people have banks that don't charge a fee each time their Overdraft Protection kicks in (Good for you! Sorry for the useless LPT to you!). Also, I'm specifically addressing debit card usage (not checks), so if you're complaining about "bounced check fees", you are confusing the two fees.
+
+url:https://reddit.com/r/LifeProTips/comments/3q5mee/
+author:GloverCom
+subreddit:LifeProTips
+score:4845
+numComments:1090
+isOver18:False
+hasPostBody:True

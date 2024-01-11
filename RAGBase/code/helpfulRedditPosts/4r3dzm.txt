@@ -1,0 +1,35 @@
+title:
+LPT Block websites from forcing you to disable your ad block by turning off JavaScript for them in the chrome settings menu.
+
+content:
+Well I got pretty pissed at news/article websites shoving a shit load of intrusive ads down my throat. So I installed ad block. Suddenly I saw this upward trend of sites forcing me to disable the ad block. Well, I am having none of that. I just turned off JavaScript execution for them. It's very simple to do too. You can follow the steps here: http://imgur.com/a/4rxHe
+
+Edit:
+
+More cool shit: 
+
+* /u/Daitoku has given a much [shorter way](https://www.reddit.com/r/LifeProTips/comments/4r3dzm/lpt_block_websites_from_forcing_you_to_disable/d4yjmd1) of achieving this.
+* Chrome will sync this setting to all your devices.
+* To temporary disable this for a website, disable in incognito mode. Will last only as long as your incognito session lasts.
+
+
+Also, many users have recommended:
+
+* NoScript for firefox and ScriptSafe for chrome. Cannot confirm how well they perform. I tried out SafeScript, a lot of websites stopped working for me. Apparently, this needs a lot of fine tuning.
+* Also read this about NoScript: https://adblockplus.org/blog/attention-noscript-users (maybe just one side of the story)
+* People suggested using the block-ads-on-this-page - an Adblock feature, that filters out ads and intrusive content by html element filtering. Seems not so easy to do. Wasn't able to make it work for wired
+* People also suggested hankering around in the developer console - using inspect element tool, well that's not for everyone.
+* More tools:
+ 1.  uBlockOrigin instead of Adblock Plus.
+ 2. [Anti Anti Ad Block](https://reek.github.io/anti-adblock-killer/) Scripts. However I cannot comment on the safety or privacy guarantee of these scripts. (Similar: [FuckFuckAdblock](https://github.com/Mechazawa/FuckFuckAdblock))
+
+Edit2:
+/u/joeycapone popped my cherry. Thanks for the gold sire! :) 
+
+url:https://reddit.com/r/LifeProTips/comments/4r3dzm/
+author:theManikJindal
+subreddit:LifeProTips
+score:4951
+numComments:534
+isOver18:False
+hasPostBody:True

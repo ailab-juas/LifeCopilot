@@ -1,0 +1,16 @@
+title:
+LPT: You can turn off those annoying pop-ups asking for reviews in apps in iOS 11 by going to Settings → iTunes &amp; App Store → In-App Ratings &amp; Review
+
+content:
+PS. You can also prevent ads from showing in offline games by turning off wifi or simply by turning on Airplane mode
+PPS. Disable all notifications while gaming by going to Settings →  Do Not Disturb → Silence: Always
+
+Update: according to u/RedCarpetGrave, this feature (regarding the reviews) may not work for every app :/
+
+url:https://reddit.com/r/LifeProTips/comments/8d6zjj/
+author:BlueDawn14
+subreddit:LifeProTips
+score:2345
+numComments:76
+isOver18:False
+hasPostBody:True

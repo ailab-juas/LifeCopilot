@@ -1,0 +1,13 @@
+title:
+LPT: Always pretend there's no such thing as "on time", you're either early or late. "On time" is only encompassed by a single minute, so always plan to be early and you'll never be late.
+
+content:
+Nice piece of wisdom my dad told me years ago.
+
+url:https://reddit.com/r/LifeProTips/comments/p96qq5/
+author:Zanthom19
+subreddit:LifeProTips
+score:24923
+numComments:1056
+isOver18:False
+hasPostBody:True

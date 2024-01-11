@@ -1,0 +1,13 @@
+title:
+LPT: The most important thing you must know to be a successful manager is that management is about fulfilling a leadership role on a team. It is not about controlling a team. If you ever want to be truely respected by your team then they must know that they are working with you, not for you.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/dd10bo/
+author:Jedi_Lucky
+subreddit:LifeProTips
+score:5853
+numComments:222
+isOver18:False
+hasPostBody:False

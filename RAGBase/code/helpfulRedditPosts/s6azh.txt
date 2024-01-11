@@ -1,0 +1,13 @@
+title:
+LPT: Remove formatting when pasting in MS Word.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/s6azh/
+author:dudewithpants
+subreddit:LifeProTips
+score:2217
+numComments:190
+isOver18:False
+hasPostBody:False

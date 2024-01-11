@@ -1,0 +1,13 @@
+title:
+LPT: Sealing open bags of chips without a clip (found on Twitter)
+
+content:
+[An image can be found here!](http://i.imgur.com/VFwxGCf.png)
+
+url:https://reddit.com/r/LifeProTips/comments/1h162u/
+author:covalentbond
+subreddit:LifeProTips
+score:1032
+numComments:237
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: If you need an item and plan to buy it on Black Friday, research the price now to get a good idea of what the price is before the sale. Never trust the e.g. "40% off!" claims on Black Friday.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/e15is5/
+author:mensmod
+subreddit:LifeProTips
+score:2744
+numComments:104
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: If a child asks you if Santa Claus is real, respond with, "What do you think?"
+
+content:
+A 5 year old asked me about Santa the other day and this response worked like a charm. She launched into her own theories about santa and forgot that she asked for my opinion. So it's a nice way to dodge the question without lying or revealing too much.
+
+url:https://reddit.com/r/LifeProTips/comments/zkyfth/
+author:SonOfKrampus
+subreddit:LifeProTips
+score:10886
+numComments:676
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,22 @@
+title:
+YSK how to skip unskippable ads on YouTube
+
+content:
+Really you just have to refresh the site. When you refresh the site one of three things can happen:
+
+1: you get a skippable ad. In this case it's faster to refresh if the previous ad was longer than 5 seconds.
+
+2: you get no ad at all. Sometimes YouTube thinks you've already watched an ad for the video and just skips it.
+
+3: you get the same as again. In this case you'll have to refresh the site again. May sometimes take more than 2 refreshes.
+
+
+Edit: I get that you can just use an ad Blocker but sometimes you're at another PC with no ad Blocker or you want to support the creators on YouTube. Either way, y'all can stop commenting about ad blockers now.
+
+url:https://reddit.com/r/YouShouldKnow/comments/e6fpc8/
+author:x1rom
+subreddit:YouShouldKnow
+score:4922
+numComments:246
+isOver18:False
+hasPostBody:True

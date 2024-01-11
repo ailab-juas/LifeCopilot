@@ -1,0 +1,13 @@
+title:
+LPT: In whatever organization you work or interact with, always befriend the janitors and the clerks
+
+content:
+They are the most invisible but the most important part of any organization and they're the best source of information in the organization's grapevine.
+
+url:https://reddit.com/r/LifeProTips/comments/utn5g8/
+author:BuffNerd5
+subreddit:LifeProTips
+score:1531
+numComments:109
+isOver18:False
+hasPostBody:True

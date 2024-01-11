@@ -1,0 +1,13 @@
+title:
+LPT: If you fire your IT guy or switch support companies, you better change ALL of your passwords
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/km4kp5/
+author:[deleted]
+subreddit:LifeProTips
+score:1370
+numComments:113
+isOver18:False
+hasPostBody:True

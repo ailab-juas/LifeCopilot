@@ -1,0 +1,13 @@
+title:
+LPT: Use a hair dryer to heat stickers before peeling them off and they won't tear!
+
+content:
+ Make sure the sticker gets nice and hot, and it will peel off with ease. It's saved my butt so many times. 
+
+url:https://reddit.com/r/LifeProTips/comments/47qtxc/
+author:AlexanderAF
+subreddit:LifeProTips
+score:4963
+numComments:377
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Keep a $20 bill in your car. You never know when you'll forget your wallet and that money will save you a big headache.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/7ldqcw/
+author:hoggy46012
+subreddit:LifeProTips
+score:2350
+numComments:217
+isOver18:False
+hasPostBody:False

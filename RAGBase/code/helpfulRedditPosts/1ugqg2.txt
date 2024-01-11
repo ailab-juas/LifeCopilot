@@ -1,0 +1,13 @@
+title:
+LPT: Expecting snow or ice? Cover your vehicles windshield with a tarp beforehand. Then when you need to go somewhere, all you have to do is remove the tarp, no scraping or brushing required.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1ugqg2/
+author:RayBrower
+subreddit:LifeProTips
+score:1211
+numComments:526
+isOver18:False
+hasPostBody:False

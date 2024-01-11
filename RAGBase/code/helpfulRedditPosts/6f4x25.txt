@@ -1,0 +1,21 @@
+title:
+YSK: If you have Windows 10, it comes with a Linux Ubuntu Subsystem to natively run Linux applications
+
+content:
+I just pulled, built and ran a graphical Linux application on windows.
+
+This is not just a shell, this is an entire subsystem. You can even install an xserver (GUI Windowing System) I recommend Xming X Server for Windows.
+
+Open "Change or Remove a Program" and click on "Turn Windows features on or off" where you will find it listed.
+
+More info:
+https://msdn.microsoft.com/en-us/commandline/wsl/about
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/6f4x25/
+author:[deleted]
+subreddit:YouShouldKnow
+score:3015
+numComments:285
+isOver18:False
+hasPostBody:True

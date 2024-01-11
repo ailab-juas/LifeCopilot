@@ -1,0 +1,13 @@
+title:
+LPT: Use liquid dishwashing detergent, not dish soap, to clean your water bottle. You can shake the sh*t out of it without the foam and constant rinsing.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/8uzdv3/
+author:invalid_credentials
+subreddit:LifeProTips
+score:2367
+numComments:133
+isOver18:False
+hasPostBody:False

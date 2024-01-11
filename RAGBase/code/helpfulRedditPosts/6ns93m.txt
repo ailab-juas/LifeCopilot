@@ -1,0 +1,13 @@
+title:
+LPT: While streaming a movie, if the mouse cursor won't go away press the comma key. That will usually do the trick.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/6ns93m/
+author:jerseycash5
+subreddit:LifeProTips
+score:36127
+numComments:947
+isOver18:False
+hasPostBody:False

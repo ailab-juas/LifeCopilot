@@ -1,0 +1,15 @@
+title:
+YSK Today is 12/12 and Krispy Kreme is having a buy one dozen donuts, get a second dozen free. Just show barcoded coupon from mobile device or printed off.
+
+content:
+http://www.krispykreme.com/dayofthedozens
+
+Awesome design and idea for their barcode!
+
+url:https://reddit.com/r/YouShouldKnow/comments/3wit9x/
+author:Targaryen93
+subreddit:YouShouldKnow
+score:1322
+numComments:108
+isOver18:False
+hasPostBody:True

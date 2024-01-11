@@ -1,0 +1,13 @@
+title:
+LPT: It's mosquito season so make sure to empty any outside containers that has collected rain water to mitigate breeding.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/35qc2o/
+author:metallikcherries
+subreddit:LifeProTips
+score:4399
+numComments:535
+isOver18:False
+hasPostBody:False

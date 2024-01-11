@@ -1,0 +1,17 @@
+title:
+LPT: When you buy a new WiFi router don’t login into the new network on all your devices; Changed the new router’s SSID and password to match the old one and everything will just work.
+
+content:
+I set both 2.4Ghz and 5Ghz to the same name and let the device choose which it prefers. Mileage may vary on older routers. 
+
+Also, set your ~~5Ghz~~ 2.4Ghz to NOT support 802.11b since it will slow down the network. 
+
+Edit: as others have pointed out, it should be the 2.4Ghz protocol that you’d configure to disallow 802.11b.
+
+url:https://reddit.com/r/LifeProTips/comments/oslpub/
+author:VisualDatasphere
+subreddit:LifeProTips
+score:3265
+numComments:146
+isOver18:False
+hasPostBody:True

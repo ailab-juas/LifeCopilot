@@ -1,0 +1,18 @@
+title:
+YSK: In the US while you are working, if you feel there is an imminent threat of death or injury - you can stop working.
+
+content:
+https://www.osha.gov/as/opa/worker/danger.html
+
+
+Why YSK:
+
+Employers know this, but few will tell employees about it. Workers are pressured into risking life and injury because of year end review raises, bonuses, and timeline of work that needs to be completed. My recommendation is this - call and record the conversation with supervisor or the person in charge. If the person in charge starts debating your opinion, hang up and call OSHA and the Department of Labor. The reason for calling to Dept of labor is to insulate the employee from any retaliations from the employer. HR works for the employer, OSHA and the Dept of Labor works for you.
+
+url:https://reddit.com/r/YouShouldKnow/comments/nyx4p2/
+author:Nubstix
+subreddit:YouShouldKnow
+score:26801
+numComments:1062
+isOver18:False
+hasPostBody:True

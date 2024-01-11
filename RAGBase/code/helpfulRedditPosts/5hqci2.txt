@@ -1,0 +1,125 @@
+title:
+YSK How to transfer, digitise, and save video footage from Video8 and Hi8 video tapes before it’s too late. (COMPREHENSIVE)
+
+content:
+I was inspired to put this post together after digitising my own Video8 and Hi8 tapes a few days ago.
+
+Not only do video tapes have a limited life span before they start to deteriorate, but the technology to convert the information stored on them into a useable digital file on your modern computer is rapidly disappearing. The longer you put off digitising your tapes, the harder it will be to watch and enjoy the hours of footage you or your family has recorded over the years.
+
+
+Recently I undertook the task of digitising dozens of tapes my father recorded on during my childhood in the late 1990s and early 2000s. The formats which I had to work with were Video8, Hi8, and MiniDV. This post will discuss Video8 and Hi8, as MiniDV is significantly less complicated and I may dedicate a post to that format depending on how well received this post is.
+
+
+**What is Video8 and Hi8?** Simply put, Video8 was an 8mm video tape format introduced by Sony in the mid-1980s. It was purely analogue in its video and audio recording. Hi8 was introduced in the early 1990s and included digital audio recording. Digital8 was later introduced in the late 1990s and saw common use before flash storage became good enough to render 8mm and MiniDV tape obsolete. 
+
+
+There are several ways to take the footage on a Video8/ Hi8 cassette and put it onto your computer, listed in highest to lowest recommendation:
+
+
+1. **Use a dedicated Video Tape Recorder (VTR) such as a Sony Video Walkman GV-D800 or GV-D200**. Connect this device to your computer using a DV to FireWire (iLink) cable, place your  video cassette into the VTR, and begin transferring. If your computer lacks a FireWire or a ThunderBolt port, use a video-capture card such as the Elgato GameCapture HD which plugs into the VTR’s S-Video/ composite output and into your computer’s USB port. 
+
+2. **Use a Digital8 HandyCam capable of backwards-compatibility with Video8 and Hi8 tapes**. Connect this device to your computer using a DV to FireWire (iLink) cable, place your video cassette into the HandyCam, and begin transferring. If your computer lacks a FireWire or a ThunderBolt port, use a video-capture card such as the Elgato GameCapture HD which plugs into the HandyCam’s S-Video/ composite output and into your computer’s USB port. 
+
+3. **Use a Video8 or Hi8 HandyCam and use a video-capture card** such as the Elgato GameCapture HD which plugs into the HandyCam’s composite output and into your computer’s USB port. 
+
+4. Another option you have at your disposal is taking your tapes to a **professional transfer service**, often times your local camera store can perform such a service. I have been informed that retailers such as Target or WalMart provide this service but I would be very hesitant to do this. This option can be very expensive depending on the number of video tapes you own, gives you no control over quality, and removes a certain level of privacy — in order to transfer tapes they must be played through in their entirety, are you comfortable with a stranger watching your family home videos?
+
+
+There are pros and cons to each of these methods, as I will outline:
+
+**1. Using a VTR/ Sony Video Walkman GV-D800.**
+
+**Pros:**
+
+  1) This method, coupled with a DV to FireWire (iLink) cable gives you the highest quality transfer of your tapes - quality only limited by the way the tapes were recorded in the first place. This is the method I used — I connected this device to my 2012 MacBook Pro’s 8-Pin FireWire port and used LifeFlix software to record my tapes onto my HardDrive. 
+
+2) This could possibly be the cheapest and least complicated method — I rented a GV-D800 from a video rental service for 48 hours for a mere $115 AUD including the rental insurance. The rental came with the GV-D800, its power supply, an 8mm cleaning cassette, and a DV to 6-Pin FireWire (iLink) cable. I used my own DV to 8-Pin FireWire cable which I bough form eBay for around $15 AUD which plugged right into my Mac. 
+
+3) It may be possible to use such a device at your local library — after doing some research online I have read comments that libraries offer this equipment available for use on-site. You will have to do your own research though, as I am unaware of any libraries near me offering this service. If you are a college or university student, it is quite possible to borrow one of these devices for free from your institute’s media facility.
+
+ **Cons:**
+
+1) These devices are difficult to come by. In the greater Sydney area, I was only able to find a single Sony GV-D800 available for renting. It was about an hours drive from my home if the traffic was good. Fail this, then you may have to shell out up to $1,000 AUD to purchase one of these devices from eBay. The GV-D200 is identical in functionality to the DV-D800 but lacks the D800’s built-in LDC screen, meaning you must output the device to a television with composite inputs to see what you’re doing on the device, but purchasing a GV-D200 could cost you around $600 AUD — significantly less than the GV-D800. 
+
+
+**Using a Digital8 HandyCam.**
+
+**Pros:** 
+
+1) Using a Digital8 HandyCam with Video8 and Hi8 backwards-compatibility is the next best option, and is almost identical to the process used when using a VTR/ Sony Video Walkman GV-D800. 
+
+2) Digital8 HandyCams are still quire readily available on the second hand market and given that they were still produced up until 2007 they can be in very good working condition.
+
+ **Cons:**
+
+ 1) Welcome to a world of complication trying to find a HandyCam capable of not only Video8 and Hi8 backwards-compatibility, but good quality playback. The inclusion of backwards-compatibility depends on the model of the HandyCam you are purchasing, and there are hundreds of different models, each with and without the feature. After a lot of research online I have found people claiming that even the quality of the playback may depend on the model of the camera, and after scouring eBay I have found people claiming their Digital8 HandyCam is capable of Video8 and Hi8 playback, only to find that it is not actually capable after searching the model type online. You may be spending your money on a device which cannot in fact do what you want it to. 
+
+2) Purchasing these cameras begins at around $300 AUD. From my research, I don’t believe you can rent these devices, meaning you will have to either outright buy one and then later re-sell it, or find a friend with such a device and borrow it. I would try to avoid buying a Digital8 HandyCam unless you do your research well before you commit to buy one. 
+
+
+**Using a Video8 and/ or Hi8 HandyCam.** 
+
+**Pros:**
+
+1) If for whatever reason a VTR or Digital8 HandyCam are out of the question, using a Video8/ Hi8 HandyCam still offers a decent quality transfer when coupled with a good quality Video Capture Card.  
+
+2) Video8/ Hi8 HandyCams are available second hand and can be purchased at a relatively reasonable price. 
+
+**Cons:** 
+
+1) The most recent Video8/ Hi8 HandyCams are now approaching more than 20 years old. They are all old, all worn out, all been used. It will be incredibly hard to find one of these borderline ancient devices which won’t give you any playback trouble.
+
+ 2) This method forces you to use a Video Capture Card. Even high quality devices (such as the Elgato GameCapture HD which I have used for other video capture) do not compare with using DV to FireWire (iLink) cables. Why? Simply put, FireWire is a constant stream of data transfer, perfect for video and audio transfer. Because capture cards use USB, the data must be transferred in batches — not ideal for tape digitisation. If your playback device drops out while playing a tape (which can happen and is normal to a certain degree) then the data being transferred can be interrupted and really damage your video file. For example: I was transferring VHS tapes with a VCR plugged into my Elgato CaptureCard, the video cut out for a few seconds before coming back to normal. This drop of video caused a major issue with my final video file — when playing back the file on my computer, after the video drop out, the video would simply not return on my computer, even though the audio continued. Using FireWire/ ThunderBolt ensures the whole tape is captured and transferred properly. I would place this as a priority above using a USB based Video Capture Card. 
+
+
+**Using a professional tape transfer service:**
+
+**Pros:**
+
+ 1) No hassle — you drop off the tapes, they do the rest. Pick up your video footage conveniently transferred onto DVD along with your original tapes.
+
+**Cons:**
+
+1) Can be extremely expensive. I have seen places charge as much as $50 AUD per tape. More than three tapes and you’re already spending much more than you ever needed to.
+
+ 2) You have no control whatsoever over the quality of your transfers. I have made the shocking discovery that some places hook your tape up to a regular old HandyCam, plug the camera into a small TV, and then point a digital camera at the TV! This is by far the single worst method you could conceivably do, and it is a downright scam if a transfer service does this to your video tapes.  
+
+3) All video tape transfer methods require the tape to be played out in its entirety. I know on my own video tapes there is footage of myself as a child naked in the bathtub. Would you trust a complete stranger with this kind of private family footage?
+
+
+
+**A word on FireWire Vs. USB.**
+
+Use FireWire first, USB if you absolutely need to. Speak with anyone working with pro-audio and they will explain how FireWire is a constant stream of data-transfer, as opposed to USB which transfers data in batches. Even though modern USB 3.1 can deliver multiple gigabytes per second, the devices which deliver the highest quality Video8 and Hi8 video transfer use DV iLink and are optimised for its use. Even if you are using the latest MacBook Pro with nothing but USB-C ports, USB-C also functions as a ThunderBolt port — which is simply the latest generation of FireWire. Purchase a DV to 8-Pin FireWire cable (8-Pin being the last port type that FireWire used before evolving to ThunderBolt), and if need be, purchase an 8-Pin FireWire to ThunderBolt adapter. As I have stated above, even when using a high quality Video Capture Card, you can still run into issues which can completely ruin your video file on your computer. FireWire/ ThunderBolt is the better option, I cannot stress this enough.
+
+**A word on the software required for video tape digitisation.**
+
+Video8 and Hi8 are dissimilar to Digital8 and MiniDV in the fact that they do not have an sort of digital signal — by nature they are primarily analogue. This can cause some serious headaches when transferring tapes onto your computer. Even though iMovie supports an incredibly wide range of tape-based devices, it will not register analogue footage. I did not know this until after I started using a rented Sony GV-D800, and caused me to have a mad rush trying to find a solution quickly. I found that iMovie reads the digital signals from the tape to determine how to transfer the footage, and if there is no digital signal, iMovie will simply fail to transfer the footage, even though it may display on the screen of your computer. To resolve this, I downloaded LifeFlix — available online and on the App Store. The paid version is around $46 AUD to use, and a free version advertises the ability to transfer a single one of your tapes before requiring you to upgrade. This may not entirely be necessary, however, as I discovered you can get around this imposition by simple pressing ‘resume’ instead of ‘start new tape.’ The software works great, and there are alternatives out there to suit your own preferences.
+
+
+**Expect the video file sizes to be large, though.**
+
+On average, a 90-minute Video8 tape was around 20 Gigabytes (GB) in size. 120 minute tapes were around 28GB in size. Ensure that you have adequate disk space on your computer or have a sizeable external hard drive. After each tape transfer I copied the file onto my 2TB external hard drive and deleted the file from my computer in order to save space. In total, I had 170GB of video footage.
+
+
+**A word on editing and enhancing your video files.**
+
+Keep the original files. They are ultimately the highest quality files — this is mostly because of the nature of old videos compared to modern video footage: before very recently interlaced video footage was the norm, and it is only fairly recently that video footage has been recorded as individual frames (example: 1080i compared to 1080p). You can still edit, colour correct, and overall enhance your videos to look much better, but in terms of archiving all of your hard work and family's video memories, keeping the original files is recommended so that as video editing and rendering technology gets better, you will always have the original files to go back to.
+
+**Final words.**
+
+There runs a very real risk that early digital video footage can be lost and inaccessible forever. Filmmaker David Fincher, who before breaking into filmmaking was a successful music-video maker in the 1980s has a number of tapes with raw footage which has just been completely lost to technological obscurity. Devices such as the Sony GV-D800 have not been manufactured in years and old technologies in good working order become harder and harder to come by with each passing day. Do not put off such a task for too long before it becomes too late. I was able to transfer all of my MiniDV tapes using a VTR I borrowed for free from my university, and a DV to Firewire (iLink) cable I purchased for $15 AUD. The Video8 video player cost me $115 AUD to rent and I got all my tapes digitised. It isn’t terribly expensive if you do your research. Do not use this post as your end-all, be-all guide - I spend a few months scouring the web for all of this information and after doing my research I was able to get my tapes digitised using the highest possibly quality for essentially the easiest and cheapest method. Make sure you know what tapes you have, what region you are in (NTST or PAL), and what kind of ports your computer has. 
+
+**Pictures:**
+
+[Here](http://i.imgur.com/Dw7HyTa.jpg) is the picture of the setup I used when transferring my Video8 and Hi8 Tapes using a Sony Video Walkman GV-D800 plugged into my 2012 MacBook Pro's 8-Pin FireWire port using a DV to FireWire cable. Also plugged into my computer was the power adapter to keep it powered while I transferred the lengthy tapes and a 2TB external HDD to copy my video files onto. After transferring all of my tapes I made sure to BACKUP all of the videos onto another, seperate, HDD. Once I transferred all of my tapes I rewound them, pressed play for a few seconds to ease up the tension on the tapes, attached a sticky note describing their contents and that they had been digitised, put them back into their cassette cases, put them all into a large zip-lock bag with some silicone gel packets, and stored all of them standing vertically in a cool, dry filing cabinet - the recommended method of storing these kinds of tapes.
+
+Please feel more than free to make additional suggestions or ask questions about this process, I will be editing this post to add more helpful information if need be. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/5hqci2/
+author:Catch-up
+subreddit:YouShouldKnow
+score:2010
+numComments:85
+isOver18:False
+hasPostBody:True

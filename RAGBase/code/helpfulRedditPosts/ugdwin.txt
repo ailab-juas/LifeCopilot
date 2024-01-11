@@ -1,0 +1,19 @@
+title:
+YSK that an organized answer in an exam is more likely to get a higher garde (especially in courses with hundreds of students)
+
+content:
+When TAs check your answers in an exam, we scan for the right answer and usually not deep dive into what you wrote. Sometimes we check hundreds of tests so we just want to see if you got things right. Checking a correct answer is the fastest because you scan for specific keywords/calculation/definition, and once you find it you can grade the question quickly. 
+
+If your answer is a mass and your hand written is unreadable, we need to work harder to find the answer. Even if you answer correctly, it takes the TA more time to find out that your answer is correct. It can cause several bad outcomes: 1. The TA read the entire answer and find mistakes that usually would be ignored. 2. The TA will think your answer is incorrect. 3. The TA might look for reasons to reduce points out of frustration. 
+
+Why YSK? Because TAs want you to answer correctly and give you all of the points. Not just because we want you to succeed, but also because it is less work for us. So answer correctly and keep the answer clear. Good luck in your exams! 
+
+I'm a university TA 4.5 years, engineering. Reposted after a typo in the title.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ugdwin/
+author:MoonAmunet
+subreddit:YouShouldKnow
+score:6696
+numComments:200
+isOver18:False
+hasPostBody:True

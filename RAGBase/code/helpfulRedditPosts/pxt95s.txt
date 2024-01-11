@@ -1,0 +1,13 @@
+title:
+LPT: If you see a deer crossing the road, assume other deer may immediately follow. Drive with caution.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/pxt95s/
+author:Ill_Statistician_224
+subreddit:LifeProTips
+score:2826
+numComments:89
+isOver18:False
+hasPostBody:False

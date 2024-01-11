@@ -1,0 +1,13 @@
+title:
+LPT: When you make rice at home, don't drain the water you rinse them with. Instead water your houseplants, they will love you for it.
+
+content:
+The starches from leftover rice water will help encourage beneficial soil bacteria, while the vitamins and minerals will add small amounts of NPK (nitrogen, phosphorus and potassium) to the soil.
+
+url:https://reddit.com/r/LifeProTips/comments/alvro7/
+author:bluluvspink
+subreddit:LifeProTips
+score:1029
+numComments:153
+isOver18:False
+hasPostBody:True

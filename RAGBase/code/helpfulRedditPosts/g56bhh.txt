@@ -1,0 +1,13 @@
+title:
+YSK The 'S' in time zones (e.g. EST) refers to Standard time, which is observed during colder months in the US. Right now, you mean 'EDT' for Eastern Daylight Time.
+
+content:
+Same goes for other US time zones (CDT, PDT, etc).  Or you can just leave out the central letter to keep it generic ('Let's meet at 1pm ET').
+
+url:https://reddit.com/r/YouShouldKnow/comments/g56bhh/
+author:PM_Me_Ur_Ruemmp
+subreddit:YouShouldKnow
+score:2849
+numComments:94
+isOver18:False
+hasPostBody:True

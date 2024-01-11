@@ -1,0 +1,19 @@
+title:
+YSK: If your cat is limping, then suddenly starts walking normally, they wern't faking being unjured. They are faking not being injured
+
+content:
+Why YSK: I see so many videos on Reddit of cats limping, then suddenly walking normally when they get close to their human. The OP, and the commenters find it hilarious, and make jokes about the cat faking injury for sympathy.
+
+Cats (and many other animals) will **instinctively hide their injuries** so as not to seem vulnerable to potential predators or rivals. If your cat is limping then suddenly stops, dont post a cute video on the net laughing about it. **Take them to a vet.**
+
+Walking on an injured leg is not only painful but could worsen or prolong the injury.
+
+If you are going to own a pet and be responsible for its life and wellbeing, educate yourself about its natural behaviours and how to care for it properly. Anthropomorphising your pet by lazily projecting human behaviours (such as faking an injury for sympathy) on to it, is not a substitute for doing some basic research on how to care for the creature who is dependant on you.
+
+url:https://reddit.com/r/YouShouldKnow/comments/wn1ta3/
+author:Skribbla
+subreddit:YouShouldKnow
+score:29594
+numComments:502
+isOver18:False
+hasPostBody:True

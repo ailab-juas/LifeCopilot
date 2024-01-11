@@ -1,0 +1,23 @@
+title:
+YSK giving fever reducing medicines such as acetaminophen or ibuprofen to prevent fever after vaccinations may also blunt immune responses to the vaccines.
+
+content:
+Clinical Immunization Safety Assessment (CISA) Project Current Studies 
+"Using prophylactic (preventive) antipyretics (fever reducers) immediately after vaccination and during the next 24 hours reduces the rate of fever following vaccination. However, giving these medicines, such as acetaminophen or ibuprofen, to prevent fever after vaccination may also blunt immune responses to the vaccine." - https://www.cdc.gov/vaccinesafety/ensuringsafety/monitoring/cisa/studies.html
+
+Post-Vaccine Acetaminophen May Harm Immune Response
+Giving prophylactic acetaminophen to children to prevent vaccine-induced fever reduces the immunogenicity of certain vaccines, two randomized trials showed. - http://www.medpagetoday.com/primarycare/vaccines/16458
+
+CBSNEWS AP - Study: Avoid Tylenol After Vaccinations - http://www.cbsnews.com/news/study-avoid-tylenol-after-vaccinations/
+
+The Effect of Prophylactic Antipyretics on Immune Responses and Fever After 2014-2015 and 2015-2016 Inactivated Influenza Vaccine - Duke University - https://clinicaltrials.gov/ct2/show/NCT02212990
+
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/5o0u52/
+author:ribbitribbitrabbit
+subreddit:YouShouldKnow
+score:1965
+numComments:94
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,21 @@
+title:
+YSK: Amazon delivery notes persist and are most likely only seen by the delivery driver.
+
+content:
+Why YSK:  Clear and concise instructions will make your delivery smoother.  Warning drivers of weather 6 months out of date isn't helpful.  Telling us about your dog will help immensely.  Whether they're friendly, or inside an invisible fence, etc. 
+
+ Amazon wants drivers to call you and ask that you put the dog away every time we see one between us and the porch.
+
+Instructions don't go away until you change them on your next order.  Great for telling us about your pup.  Pointless in letting us know you shoveled the driveway in July.   If you want one package to be hidden from an SO, delivery drivers are supposed to keep hiding it until that note is deleted.
+
+I've also had one asking me to call 30 minutes in advance so they could meet me.  The first time I saw that note was less than 2 minutes before I delivered.  We don't see notes until we are going to that location for that specific delivery.  And at 150+ deliveries a day, you can imagine the time between each stop.
+
+Drivers are instructed to accommodate every request the we reasonably can.  If you ask to place your package so it can't be seen from the road, or deliver to the side door, most drivers will be happy to oblige.  But if you ask us to deliver to a different address the next town over in the notes, it's not going to happen.  And if you insult your previous delivery drivers in the notes, we're probably going to keep doing the same thing that irritated you in the first place.
+
+url:https://reddit.com/r/YouShouldKnow/comments/vco86c/
+author:Shallow-Thought
+subreddit:YouShouldKnow
+score:10138
+numComments:562
+isOver18:False
+hasPostBody:True

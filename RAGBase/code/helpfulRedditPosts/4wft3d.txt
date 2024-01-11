@@ -1,0 +1,17 @@
+title:
+LPT: Disable the center channel audio line on a 5.1 surround sound system to mute the Olympic commentary
+
+content:
+I know this has been posted before, but I thought it deserved a bump for the Olympics.  
+
+Commentary can be nice, but when the sportscasters feel obligated to fill dead air, it can be cringe inducing to listen to them vamp.
+
+Edit: A word.
+
+url:https://reddit.com/r/LifeProTips/comments/4wft3d/
+author:rekk14
+subreddit:LifeProTips
+score:6951
+numComments:1402
+isOver18:False
+hasPostBody:True

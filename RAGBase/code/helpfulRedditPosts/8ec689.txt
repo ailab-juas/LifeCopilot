@@ -1,0 +1,13 @@
+title:
+LPT: When you ask someone to proof a document or piece of work, intentionally put a mistake near the beginning. It gives the reviewer more incentive to carefully look over the rest and find more.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/8ec689/
+author:ronronAD023
+subreddit:LifeProTips
+score:1063
+numComments:32
+isOver18:False
+hasPostBody:False

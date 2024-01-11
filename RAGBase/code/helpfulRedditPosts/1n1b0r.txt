@@ -1,0 +1,13 @@
+title:
+The 20-20-20 rule: every 20 minutes of staring at the computer screen, look at something 20 feet away for 20 seconds to avoid eye strain
+
+content:
+Maybe the 20-20-20 will help you keep your 20-20... Ahermgrr20!
+
+url:https://reddit.com/r/LifeProTips/comments/1n1b0r/
+author:danpe
+subreddit:LifeProTips
+score:2389
+numComments:345
+isOver18:False
+hasPostBody:True

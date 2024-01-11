@@ -1,0 +1,19 @@
+title:
+YSK that the Internet Archive has digitized over 3.8 million books and counting, and all of them can be borrowed for free
+
+content:
+Why YSK: Sometimes we need a book or a reference quickly, or just want a digital book to read for personal enjoyment. Because the library only loans out as many digital copies as it has physical copies, it also respects the author's copyright, unlike some other online libraries.
+
+[Most recently added books to the library](https://archive.org/details/inlibrary?sort=-addeddate)
+
+[Most viewed books in the library](https://archive.org/details/inlibrary?sort=-week)
+
+[Internet Archive's FAQ and guide about borrowing books](https://help.archive.org/help/borrowing-from-the-lending-library/)
+
+url:https://reddit.com/r/YouShouldKnow/comments/z8dpas/
+author:theflighttest
+subreddit:YouShouldKnow
+score:21800
+numComments:263
+isOver18:False
+hasPostBody:True

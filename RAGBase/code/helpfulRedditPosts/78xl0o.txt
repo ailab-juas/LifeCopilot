@@ -1,0 +1,13 @@
+title:
+YSK Walgreens is now selling Narcan kits and they are also available for free from many treatment facilities.
+
+content:
+If you have anyone in your life taking prescribed or non-prescribed opiates, please have a Narcan kit with you, even if they don’t seem at risk. Narcan can immediately reverse an opiate overdose and saves countless lives. It is easy to administer and has no effect if the person has not used opiates so no risk in giving if unsure the person is overdosing.
+
+url:https://reddit.com/r/YouShouldKnow/comments/78xl0o/
+author:rollerdays
+subreddit:YouShouldKnow
+score:4124
+numComments:185
+isOver18:False
+hasPostBody:True

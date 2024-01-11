@@ -1,0 +1,22 @@
+title:
+YSK the ridiculously high foreign exchange rates on ATMs are avoidable.
+
+content:
+Why YSK: this can save you hundreds of dollars in ATM fees in the long run while travelling
+
+
+I've come across this a few times travelling the UK and Europe when trying to withdraw cash in the local currencey.
+
+When using my bank card from NZ while travelling, ATMs would offer me an exchange rate with a 12% surcharge (UK) or 13.5% (Italy).
+
+The ATMs will come up with a message asking if you want to exchange your currency at the shown rate, but YSK that if you choose to decline, it will simply give you cash at the normal rate and your bank will charge you an exchange fee instead, which is often more reasonable (0.5% for me).
+
+I got caught out the first time and have been careful ever since. Not sure if this has been posted before but hope this helps someone..
+
+url:https://reddit.com/r/YouShouldKnow/comments/wt82nj/
+author:Fun_Drummer4516
+subreddit:YouShouldKnow
+score:2434
+numComments:120
+isOver18:False
+hasPostBody:True

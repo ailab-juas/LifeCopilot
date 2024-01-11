@@ -1,0 +1,13 @@
+title:
+YSK: uBlock and other AdBlocks in Chrome will lose most functionality in about a month when Manifestv3 is implemented
+
+content:
+Why YSK: Your privacy, data usage, and browsing experience will be affected. If you haven't already, invest in a pihole or switch to a non-chromium browser
+
+url:https://reddit.com/r/YouShouldKnow/comments/rdaz50/
+author:rcmaehl
+subreddit:YouShouldKnow
+score:1977
+numComments:393
+isOver18:False
+hasPostBody:True

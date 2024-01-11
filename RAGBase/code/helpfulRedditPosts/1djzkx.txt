@@ -1,0 +1,17 @@
+title:
+LPT: Do you have a hard time getting up in the morning? This website will change your life
+
+content:
+http://sleepyti.me/ 
+
+Basically, you put in when you need to get up and it tells you the best time to go to bed. It has to do with the way human sleep is divided into cycles and what not. I have used it for about a month and i get up every morning without a problem and feeling refreshed. It has changed my life
+
+EDIT: Okay so it obviously wont work for everyone since people have different sleeping cycles etc but it might work for you, like it did for me. It worked amazingly for me so i thought i'd share it with you guys. You can give it a try atleast.
+
+url:https://reddit.com/r/LifeProTips/comments/1djzkx/
+author:[deleted]
+subreddit:LifeProTips
+score:1982
+numComments:830
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,17 @@
+title:
+LPT: Use the built in citation system in Word for easy citations and reference generation
+
+content:
+Many do not know about it but it has saved me a lot of time going to some website. It automatically formats citations and stores the references for the future too. I have never been marked off on a paper while using it.
+
+EDIT 1: Here is a link to where it is: http://i.imgur.com/7CgJk4W.png
+
+EDIT 2: For those seeking to ensure a perfect, up-to-date, fully featured citation system, many are suggesting the use of programs like [Latex](http://latex-project.org/) or [Zotero](https://www.zotero.org/). The benefit of this tip is to feature a quick function that complements a program that many students already use.
+
+url:https://reddit.com/r/LifeProTips/comments/20h2xn/
+author:revallion
+subreddit:LifeProTips
+score:1119
+numComments:152
+isOver18:False
+hasPostBody:True

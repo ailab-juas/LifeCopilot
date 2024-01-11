@@ -1,0 +1,13 @@
+title:
+LPT: Select oranges by how heavy they are. Heavier = juicier = better.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/218bux/
+author:[deleted]
+subreddit:LifeProTips
+score:2872
+numComments:355
+isOver18:False
+hasPostBody:False

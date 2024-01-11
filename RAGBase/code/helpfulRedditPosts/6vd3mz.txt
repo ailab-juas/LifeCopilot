@@ -1,0 +1,13 @@
+title:
+YSK Pedialyte is great to keep in your fridge for a hangover or when you feel super dehydrated.
+
+content:
+Much better than sports drinks, albeit not as tasty. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/6vd3mz/
+author:chizzled_booty
+subreddit:YouShouldKnow
+score:5867
+numComments:668
+isOver18:False
+hasPostBody:True

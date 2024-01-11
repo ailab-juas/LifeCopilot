@@ -1,0 +1,13 @@
+title:
+LPT: On a paused YouTube video, the period and comma keys on physical keyboard will let you move between frames, helpful for when you need to see a specific area of the video.
+
+content:
+If someone knows a way to do this on mobile, post in the comments!
+
+url:https://reddit.com/r/LifeProTips/comments/x8hlsr/
+author:Akimotoh
+subreddit:LifeProTips
+score:2584
+numComments:36
+isOver18:False
+hasPostBody:True

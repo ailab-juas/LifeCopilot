@@ -1,0 +1,13 @@
+title:
+LPT: Yelp replaces restaurant phone numbers with a special number that charges that business a marketing fee. If you find a good restaurant on Yelp Google their phone number instead so they don't lose any money.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/jurn6l/
+author:OwlThief32
+subreddit:LifeProTips
+score:81242
+numComments:1968
+isOver18:False
+hasPostBody:False

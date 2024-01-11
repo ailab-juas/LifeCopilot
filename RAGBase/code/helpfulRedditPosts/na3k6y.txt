@@ -1,0 +1,13 @@
+title:
+YSK: to always go and look at a house you’re planning to buy after it has rained heavily (if possible)
+
+content:
+Why YSK: You should get a gauge of whether the soil gets heavily saturated or super-saturated during rain events. If your lawn is below the water table during flood events, it will be mushy, there will be standing water, and depending on how quick it runs off, you could be living in relatively swampy land during rainy parts of the year. When your yard is mushy people, dogs, anything becomes a great erosion agent, and this can cost you $$$. Pick the other house!
+
+url:https://reddit.com/r/YouShouldKnow/comments/na3k6y/
+author:fluves
+subreddit:YouShouldKnow
+score:9163
+numComments:277
+isOver18:False
+hasPostBody:True

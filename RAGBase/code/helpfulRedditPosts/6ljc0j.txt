@@ -1,0 +1,13 @@
+title:
+YSK: You can find the gate number and terminal of your flight by googling the flight number.
+
+content:
+Instead of looking for the massive board with all the flights and taking up space, just type your flight number into Google E.G. AA360 and it will let you know what gate, terminal and boarding time.
+
+url:https://reddit.com/r/YouShouldKnow/comments/6ljc0j/
+author:verbl
+subreddit:YouShouldKnow
+score:3845
+numComments:119
+isOver18:False
+hasPostBody:True

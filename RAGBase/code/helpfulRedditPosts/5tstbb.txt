@@ -1,0 +1,13 @@
+title:
+LPT: in college, if you miss an assignment, don't go to the instructor and ask if you can turn it in late for partial credit. Do the assignment first, then give it in asking for feedback and any credit theyre willing to give. They will be far more receptive.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5tstbb/
+author:LV426_DISTRESS_CALL
+subreddit:LifeProTips
+score:23910
+numComments:744
+isOver18:False
+hasPostBody:False

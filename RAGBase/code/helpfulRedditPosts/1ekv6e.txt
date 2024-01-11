@@ -1,0 +1,58 @@
+title:
+LPT bounty: 1 year of reddit gold to the first person to provide video proof that airline prices are different in Incognito Mode
+
+content:
+EDIT: **The 24-hour deadline on this bounty has expired. The bounty was not claimed.** My conclusions are:
+
+  1. There were several videos posted that (more or less) tried to follow the protocol. All of them showed the same fare in incognito mode. [One video] (http://www.reddit.com/r/LifeProTips/comments/1ekv6e/lpt_bounty_1_year_of_reddit_gold_to_the_first/ca1bf28) showed a different fare, due to entering different search parameters (JFK vs NYC). [Another one](http://www.reddit.com/r/LifeProTips/comments/1ekv6e/lpt_bounty_1_year_of_reddit_gold_to_the_first/ca1ng4k) showed a different fare due to mixing up the departure and arrival cities on one of the searches.
+  2. It's certainly not as easy as most people say it is. Over 20,000 people voted on this post, and nobody was able to produce a video proving it. Clearly, anyone who says this works a large fraction of the time, or that the effect can be summoned on demand, is wrong.  
+  3. Two people *did* manage to get [different results in Kayak](http://www.reddit.com/r/LifeProTips/comments/1ekv6e/lpt_bounty_1_year_of_reddit_gold_to_the_first/ca19wg1). This is not really the LPT we were investigating (in one case it was more expensive in incognito mode, and it's not them charging you more for the same flight). But it's definitely worth looking into. How can you make sure Kayak shows you hacker fares? That would make an excellent LPT.
+  4. I'm really comfortable calling this an urban myth until someone can actually show otherwise. Nothing will ever convince certain people, though, so I'm sure we'll see this repeated over and over. Hopefully this test will make people at least think twice before just accepting it uncritically, or accept that it's possible they made a mistake once while entering search parameters.
+
+Many people said there were problems with my protocol. Objections raised include: (1) you need more time to prepare (2) it only works with round-trip flights (3) it doesn't work in the United States (4) the LPT is wrong and you need to clear your cookies instead of going incognito (5) the LPT is wrong and you need to use different computers or IPs.
+
+Here's the thing: I'm not stopping you from making any video you want. I can't _promise_ I'll give gold for it, but if you make video proof, I'm sure the community would love to see it, based on the interest shown here.  Just saying. And I'd be happy to help review your video to give you advice on how to eliminate errors and make sure it actually proves what it's trying to prove.
+
+**Original Post follows:**
+
+[A common LPT](http://www.reddit.com/r/LifeProTips/comments/13mdr5/lpt_if_you_want_to_buy_the_cheapest_airline/) is that airline prices are different in Incognito Mode. It's true for some online shopping, but I don't believe it's true for flights. I think this is an urban legend. I think that every reported instance is easily explained as [people accidentally entering incorrect search parameters](http://www.reddit.com/r/LifeProTips/comments/1eh2t5/lpt_clear_your_browser_history_and_cookies_or_go/ca091oo), or prices simply changing (as they do) regardless of how you're searching.
+
+I'm looking for someone to prove me wrong. If you're the first to provide _actual video evidence_, I will give you one year of reddit gold. Simply make a video showing it happening, and upload the video to YouTube.
+
+ * Your video must follow my strict protocol (given below). The point of the protocol is to reduce errors and potential for tampering.
+ * If you post a video that fails to follow the protocol, you'll be disqualified for 6 hours.
+ * If you need the protocol changed, suggest an amendment **before** recording your video. I'll accept reasonable changes, but I will **not** accept any video that fails to follow the protocol as it was written when the video was made.
+ * You must post a link to the video in this thread within 3 hours of recording it.
+ * This offer is good for 24 hours ~~(but I'll consider extending it if it hasn't been claimed)~~.
+
+Flight search video protocol (version 2):
+
+&gt; You must stick with a single browser and a single flight search website for the entire video.  
+&gt; * Acceptable browsers: Chrome, Firefox, IE, Opera, Safari  
+&gt; * Acceptable websites: Expedia, Orbitz, Travelocity  
+&gt; * Or use the website of one of these airlines: Alaska, American, Delta, Frontier, Hawaiian, JetBlue, Southwest, United, USAir
+
+&gt; 1. Open a browser window of the [Times Square webcam](http://www.earthcam.com/usa/newyork/timessquare/). The date and time must be visible. This window must remain visible for the entire video.
+&gt; 2. Perform a flight search in a regular browser window.
+&gt; 3. Perform the same search in a window in private/incognito mode.
+&gt; 4. Perform the same search in a regular window again.
+
+&gt; The windows in steps 2, 3, and 4 must be fully visible while the search is being conducted, until the results appear. You can optionally close the windows from steps 2, 3, and 4 before going on to the next step. You can use the same window for steps 2 and 4. You must not perform any other searches or visit any other web pages during the video.
+
+&gt; Your flight search **must** be for 1 adult, **one-way**, economy/coach class, flight only (no hotels etc.). You can choose any departure city, arrival city, and date, but only one of each: do not select nearby airports, flexible dates, time of departure, or any special options like that. You may perform any searches you want before recording the video, but do not change any settings or preferences on the search website.
+
+&gt; The same flight (same date, time, airline, and flight numbers) must appear in all 3 results, and it must have the same price in steps 2 and 4, and a different price in step 3. The difference in price must be at least $10 USD. Each time, you must clearly show all the search parameters. On the results page, the parameters of the search must be visible.
+
+&gt; Make sure the uploaded video is high enough resolution that the necessary text is readable.
+
+[Here is an example video I made following the protocol](http://www.youtube.com/watch?v=pqaKg-eSFdY). Good luck.
+
+PS: Please do not post anecdotal claims here as evidence. I've heard enough of those, and if all you have is a story, there's no way for me to verify you did the search correctly.
+
+url:https://reddit.com/r/LifeProTips/comments/1ekv6e/
+author:Cosmologicon
+subreddit:LifeProTips
+score:3231
+numComments:841
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,20 @@
+title:
+YSK: BlueLab is closing down and all their VSTs are now free
+
+content:
+Why YSK: Finding high quality VSTs can be a pain for producers, especially ones that don’t break the bank.
+
+BlueLab is shutting down and all their VSTs are free until the site closes down. This is a great opportunity for producers to jump in and get some high quality VSTs for no charge at all.
+
+Edit:
+Thank you, u/TheWorldInMySilence for posting the definition in the comments when I forgot to add it to my post. To quote them:
+
+"Virtual Studio Technology (VST) is an audio plug-in software interface that integrates software synthesizers and effects units into digital audio workstations. VST and similar technologies use digital signal processing to simulate traditional recording studio hardware in software."
+
+url:https://reddit.com/r/YouShouldKnow/comments/r3w9st/
+author:fatlittlemidget
+subreddit:YouShouldKnow
+score:4147
+numComments:317
+isOver18:False
+hasPostBody:True

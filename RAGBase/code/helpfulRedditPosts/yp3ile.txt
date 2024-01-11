@@ -1,0 +1,16 @@
+title:
+YSK: the phrase “curiosity killed the cat” is only half the sentence, the full sentence is much more uplifting. It ends with “but the truth brought it back to life”.
+
+content:
+Why YSK:
+The term is often used to stop people from finding out something they want/need to know, or doing something they’ve always wanted to do
+
+The full term however is uplifting and powerful.
+
+url:https://reddit.com/r/YouShouldKnow/comments/yp3ile/
+author:Admirable-Pepper-641
+subreddit:YouShouldKnow
+score:4234
+numComments:185
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT If you have an itchy mosquito bite, run hot water from your faucet over a spoon for a few seconds then hold it to the bite.
+
+content:
+The toxin that makes you itch is very heat sensitive. The hot water your water heater produces is hot enough. Hold the hot spoon to the bite (don't burn yourself obviously) but it should be a bit uncomfortable. After doing that once or twice the itch will stop permanently
+
+url:https://reddit.com/r/LifeProTips/comments/ypl5v2/
+author:nanadoom
+subreddit:LifeProTips
+score:6860
+numComments:469
+isOver18:False
+hasPostBody:True

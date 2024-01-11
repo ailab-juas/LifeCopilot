@@ -1,0 +1,13 @@
+title:
+LPT: When hosting a dinner party for people you're not familiar with, leave a simple task until they have arrived, like mixing salad ingredients, or slicing bread. Invariably your guests will ask if they can help, and you can point them to these tasks as a useful icebreaker.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/aj5h05/
+author:tapdown
+subreddit:LifeProTips
+score:44224
+numComments:896
+isOver18:False
+hasPostBody:False

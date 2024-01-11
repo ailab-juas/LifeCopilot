@@ -1,0 +1,19 @@
+title:
+YSK about uBlock Origin, Sponsorblock &amp; Bypass Paywalls Clean
+
+content:
+Why YSK: There are so many people who are still using the internet without any sort of adblocker, even though I personally can't fathom how considering how bad things have become these days online. Not just with ads but also trackers and other annoyances such as sponsored parts of videos or paywalls on news sites.
+
+Seriously, we should all be using uBlock Origin and also uBO instead of Adblock or Adblock Plus as those are sellouts with their "acceptable ads" policies. uBO is also far more efficient at bypassing those anti adblock messages. As a side note, Google Chrome and its derivatives such as Edge will soon be introducing Manifest v3 which will limit the effectiveness of adblockers so it might be wise to switch to Firefox before then. No surprise considering how Google is primarily an advertising company so of course they don't like adblockers. (DuckDuckGo is an excellent alternative btw)
+
+You should also know about Sponsorblock which automatically skips sponsored parts of YouTube videos. Sponsorblock is also integrated in 3rd party YouTube clients such as YouTube Vanced and NewPipe x Sponsorblock from the IzzyOnDroid F-Droid repo. (I personally prefer the latter as it's open source and thus more privacy friendly) Sadly, those apps aren't available on iOS cause guess what, Google/YouTube blackmailed Apple to remove 3rd party YouTube apps from their App Store to sell you YouTube Premium instead and unlike Android you can't side load any of those apps. You can still download Sponsorblock from the App Store and watch YouTube in Safari though. Alternatively you can also use a 3rd party YouTube website called Piped Kavin Rocks which also automatically blocks ads and sponsors.
+
+There's also Bypass Paywalls Clean which can bypass paywalls on news websites. Keep in mind that those paywalled articles are still publicly available for everyone, usually as part of their x amount of free articles per month which this extension can increase to infinite, so there shouldn't be any legal concerns with it. Also use the clean version as the regular version comes with Google Analytics.
+
+url:https://reddit.com/r/YouShouldKnow/comments/rsmtrv/
+author:jikesar968
+subreddit:YouShouldKnow
+score:1064
+numComments:77
+isOver18:False
+hasPostBody:True

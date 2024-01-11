@@ -1,0 +1,23 @@
+title:
+YSK: You can give edit rights to a Google Calendar to someone who uses the iOS Calendar App by using Google’s CalDav service
+
+content:
+Why YSK: If you use the Google Calendar app but the person you want to share with uses the iOS Calendar App, this will allow you both to be able to edit the same calendar.
+
+Caveat: You should only do this with someone you trust to have full access to your Google account, or, you should create a new Google account to use as a shared account.
+
+1. Setup a Google App Password on the Google account to be shared. https://support.google.com/mail/answer/185833?hl=en-GB
+
+2. On the other person’s iOS device, add a new CalDav account using the previously created Google App Password. https://support.apple.com/guide/iphone/set-up-mail-contacts-and-calendar-accounts-ipha0d932e96/ios
+
+Once completed, the iOS user will see all the events of Google users Google calendar on their iOS calendar. The iOS user will have the ability to edit any and all events on the calendar.
+
+Edit: A couple of people have mentioned ways they’ve gotten around this also, which is great! My wife uses the iOS calendar app and Apple’s iCloud Calendar. I have an iPhone, but use the Google Calendar app and my events are stored with Google only. We couldn’t seem to just invite each other to events/calendars the normal way, so this worked for us!
+
+url:https://reddit.com/r/YouShouldKnow/comments/x5b2ef/
+author:BeardxWhisperer
+subreddit:YouShouldKnow
+score:3069
+numComments:82
+isOver18:False
+hasPostBody:True

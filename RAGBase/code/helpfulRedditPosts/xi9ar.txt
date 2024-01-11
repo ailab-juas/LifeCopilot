@@ -1,0 +1,13 @@
+title:
+LPT: Switch your phone to "airplane mode" while on the subway or metro to preserve battery life/avoid having your phone search hopelessly for service. 
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/xi9ar/
+author:Kgonz
+subreddit:LifeProTips
+score:1488
+numComments:407
+isOver18:False
+hasPostBody:False

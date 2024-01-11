@@ -1,0 +1,13 @@
+title:
+LPT: Add one sweet potato to three regular potatoes for delicious mashed potatoes.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/fib78n/
+author:fysics
+subreddit:LifeProTips
+score:1681
+numComments:98
+isOver18:False
+hasPostBody:False

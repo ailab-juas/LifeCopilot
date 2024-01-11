@@ -1,0 +1,13 @@
+title:
+LPT: When highlighting text to copy from a webpage, you don't have to select and drag your mouse from start to end. Just click the mouse at the starting point, then use SHIFT+CLICK at the end of the selection.
+
+content:
+Clicking the position at the start of the selection is like setting an invisible cursor.  Seems to work on all web browsers on PC and Mac according to my tests.
+
+url:https://reddit.com/r/LifeProTips/comments/2dk0cw/
+author:RuinerOfAllThings
+subreddit:LifeProTips
+score:3440
+numComments:439
+isOver18:False
+hasPostBody:True

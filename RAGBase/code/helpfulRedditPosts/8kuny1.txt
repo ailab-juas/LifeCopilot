@@ -1,0 +1,19 @@
+title:
+YSK: Propane tanks do expire. The date is punched on the top collar in MM/YY format. Your tank is only good for 10 years. Unless that date is followed by a letter (ex. E = 5yrs, S = 7).
+
+content:
+These tanks can still be recertified or exchanged. Tanks in exchange are usually only half filled and may *still* be expired. If you're planning on grilling out but your tank is empty, please check the date *before* traveling to a nearby propane dispensary and having a fit because they refuse to service your tank. (It is a $5,000 fine and loss of propane license.)
+
+Have a great summer everyone!
+
+EDIT: Composite tanks do exist, though any made by Lite Cylinder Company have been recalled. I found little information on the recall but here is a link with more info.
+
+https://www.iafc.org/press-releases/press-release/phmsa-emergency-recall-propane-tanks
+
+url:https://reddit.com/r/YouShouldKnow/comments/8kuny1/
+author:NotSoPersonalJesus
+subreddit:YouShouldKnow
+score:4269
+numComments:130
+isOver18:False
+hasPostBody:True

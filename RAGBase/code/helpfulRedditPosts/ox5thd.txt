@@ -1,0 +1,13 @@
+title:
+LPT: "Do you know why I pulled you over?" Translates from cop speak as "Are you stupid enough to incriminate yourself for my benefit?"
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ox5thd/
+author:dafdfdffsads
+subreddit:LifeProTips
+score:70724
+numComments:4499
+isOver18:False
+hasPostBody:False

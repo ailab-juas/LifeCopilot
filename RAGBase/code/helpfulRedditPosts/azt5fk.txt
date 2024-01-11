@@ -1,0 +1,17 @@
+title:
+YSK: Hourly History offers free ebooks on history that are designed to be finished within 1 hour.
+
+content:
+I think I found this previously in an askreddit post, but either way it's one of those things I've ended up sticking with. If you sign up they'll send you an email with 4-5 new free books every friday. 
+
+https://www.hourlyhistory.com/free-books/
+
+This week was John Wayne, James Dean, The Roaring 20s, Marilyn Monroe, Elvis Presley, Walt Disney, and Charlie Chaplin
+
+url:https://reddit.com/r/YouShouldKnow/comments/azt5fk/
+author:jvhero
+subreddit:YouShouldKnow
+score:4528
+numComments:93
+isOver18:False
+hasPostBody:True

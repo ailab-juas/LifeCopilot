@@ -1,0 +1,15 @@
+title:
+YSK: Your TV might have a volume leveling option in the settings, making it so much easier to watch movies with intense changes in volume.
+
+content:
+This may be obvious, but I rarely go to the settings on my TV so I just noticed it this week. It has been a game changer. 
+
+Why YSK: It eliminates the need to babysit the volume on poorly mixed movies, which can be stressful and really take you out of whatever you're watching.
+
+url:https://reddit.com/r/YouShouldKnow/comments/kpqzqq/
+author:fun-dumb-mental
+subreddit:YouShouldKnow
+score:4028
+numComments:149
+isOver18:False
+hasPostBody:True

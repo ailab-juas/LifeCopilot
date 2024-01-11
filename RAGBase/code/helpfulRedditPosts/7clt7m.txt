@@ -1,0 +1,20 @@
+title:
+YSK that you can shape government by more than just voting: most western democratic countries seek public comment on proposed regulations on a regular basis. Links for some countries inside.
+
+content:
+Here are a few examples in no particular order:
+
+[USA](https://www.regulations.gov/),
+[UK](https://www.gov.uk/government/publications?keywords=&amp;publication_filter_option=open-consultations&amp;topics%5B%5D=all&amp;departments%5B%5D=all&amp;official_document_status=all&amp;world_locations%5B%5D=all&amp;from_date=&amp;to_date=),
+[Canada](http://www1.canada.ca/consultingcanadians/),
+[Australia](https://consultation.business.gov.au/Consultation/Common/PublicConsultations/ViewPublicConsultations.aspx),
+[New Zealand](https://www.govt.nz/browse/engaging-with-government/consultations-have-your-say/), [Norway](https://www.regjeringen.no/en/find-document/consultations/id1763/),
+[European Union](https://ec.europa.eu/info/consultations_en)
+
+url:https://reddit.com/r/YouShouldKnow/comments/7clt7m/
+author:RickAstleyletmedown
+subreddit:YouShouldKnow
+score:1406
+numComments:42
+isOver18:False
+hasPostBody:True

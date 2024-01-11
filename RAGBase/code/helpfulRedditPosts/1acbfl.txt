@@ -1,0 +1,20 @@
+title:
+LPT: Want to improve your memory? Try the method of loci, used by world-class memory competitors.
+
+content:
+How it works: 
+
+1. Think of the layout of an area you are extremely familiar with (such as your house).
+2. Assign each small piece of information to a location/object in that area in your mind. Connect each piece of information to the image and/or sensations of that location/object.
+3. Commit to memory a very specific "route" through your layout, connecting each of your "stops".
+4. When you need to recall the information, visualize yourself walking through your route and stopping at each location/object and "looking" at it.
+
+The more familiar you are with the layout, the easier it is to recall the information you've assigned to it.
+
+url:https://reddit.com/r/LifeProTips/comments/1acbfl/
+author:Legion_of_Bunnies
+subreddit:LifeProTips
+score:2397
+numComments:433
+isOver18:False
+hasPostBody:True

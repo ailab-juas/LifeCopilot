@@ -1,0 +1,13 @@
+title:
+YSK sites like the Weather Channel, Weather Underground, etc. all get their data from the US National Weather Service (weather.gov)
+
+content:
+The main difference between the most accurate predictor (weather.gov) and the commercial sites is that the latter overpredicts inclement weather. Their thinking is that if you plan a picnic because there's a low chance of rain but get rained on, you'll be more upset than if they predicted rain but it turns out to be a nice day.
+
+url:https://reddit.com/r/YouShouldKnow/comments/bjwv0s/
+author:dla26
+subreddit:YouShouldKnow
+score:2916
+numComments:103
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+YSK how to clean an infected computer
+
+content:
+I'm not sure if this is all common knowledge now, I've worked in IT for years, so don't have these issues anymore.
+
+http://www.techsupportalert.com/content/how-clean-infected-computer.htm
+
+url:https://reddit.com/r/YouShouldKnow/comments/2l9ejz/
+author:VADRphoto
+subreddit:YouShouldKnow
+score:2150
+numComments:446
+isOver18:False
+hasPostBody:True

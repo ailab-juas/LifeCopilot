@@ -1,0 +1,13 @@
+title:
+LPT: If you're looking to buy a used vehicle ask for the VIN. Looking it up is free and will tell you valuable information before you go and look at it. It'll also tell you a lot if they don't give it you.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/uno0dx/
+author:ADD_OCD
+subreddit:LifeProTips
+score:1681
+numComments:88
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,17 @@
+title:
+LPT: Google "Note to myself" on your computer
+
+content:
+I don't know if someone already figuered this out.
+If you type "note to myself" in google on your computer, you can send a notification to yourself on your android device.
+I tought this was realy cool!
+
+EDIT: Note to self
+
+url:https://reddit.com/r/LifeProTips/comments/3aa92n/
+author:arthurderyckere
+subreddit:LifeProTips
+score:2328
+numComments:309
+isOver18:False
+hasPostBody:True

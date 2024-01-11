@@ -1,0 +1,13 @@
+title:
+LPT: Instead of pouring it down the drain, pour animal grease from cooking into a heat-appropriate vessel like a cup or bowl, let it set, and throw it out (or use it, if you’re into that). It will more than likely clog your pipes if poured down the drain.
+
+content:
+This should be common knowledge, but if I teach it to even one person who didn’t know, it’s worth it.
+
+url:https://reddit.com/r/LifeProTips/comments/wl7zyo/
+author:Pangolindrome
+subreddit:LifeProTips
+score:1917
+numComments:252
+isOver18:False
+hasPostBody:True

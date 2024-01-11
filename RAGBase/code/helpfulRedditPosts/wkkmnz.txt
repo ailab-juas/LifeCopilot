@@ -1,0 +1,13 @@
+title:
+YSK: a lot of dumb people are really successful.
+
+content:
+Why YSK: people who are successful aren’t any smarter or more capable than you. Stop letting self doubt be a barrier.
+
+url:https://reddit.com/r/YouShouldKnow/comments/wkkmnz/
+author:slowlybackwards
+subreddit:YouShouldKnow
+score:14339
+numComments:793
+isOver18:False
+hasPostBody:True

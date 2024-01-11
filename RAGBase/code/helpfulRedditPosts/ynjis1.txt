@@ -1,0 +1,13 @@
+title:
+LPT: Wash your shower curtain
+
+content:
+The bottom of shower curtains tend not to dry very well and can get really grungy, but many people don't think to clean them. Just throw your shower curtain in the washing machine and hang it back up to dry.
+
+url:https://reddit.com/r/LifeProTips/comments/ynjis1/
+author:BaffledPlato
+subreddit:LifeProTips
+score:4792
+numComments:397
+isOver18:False
+hasPostBody:True

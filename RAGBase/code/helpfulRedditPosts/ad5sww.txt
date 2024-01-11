@@ -1,0 +1,15 @@
+title:
+YSK Your company's HR department is there to protect the company, not the employees.
+
+content:
+For example, if you want a raise or to dispute your pay, it is their job to help deny you. If you have a harrassment claim (particularly if the company could be found culpable) it is their job to minimise and resolve the issue with best outcome for the company, without considering the interests of the employee.
+
+TL;DR: if you have an internal issue at your company, consult external sources before approaching the company HR department.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ad5sww/
+author:Ghostface_Programmah
+subreddit:YouShouldKnow
+score:5508
+numComments:215
+isOver18:False
+hasPostBody:True

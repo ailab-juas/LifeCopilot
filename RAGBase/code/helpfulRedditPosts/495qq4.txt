@@ -1,0 +1,15 @@
+title:
+YSK you can download videos from a ton of different websites using youtube-dl
+
+content:
+[youtube-dl](https://rg3.github.io/youtube-dl/) is a cross-platform command line tool for downloading videos from YouTube and [a ton of other sites](https://github.com/rg3/youtube-dl/blob/master/docs/supportedsites.md). Just place the executable somewhere, navigate there using a command prompt or terminal, and type `youtube-dl &lt;url&gt;`. Literally that simple. You can even use it to convert videos to audio by using the -x flag, like so: `youtube-dl -x &lt;url&gt;`.
+
+If the command line makes you uncomfortable, I developed and occasionally bug-fix a cross-platform FOSS GUI wrapper called [YoutubeDLGui](https://github.com/BrianAllred/YoutubeDLGUI/releases). You'll need the Mono runtime for your OS (Windows just needs the GTK# runtime).
+
+url:https://reddit.com/r/YouShouldKnow/comments/495qq4/
+author:BrianAllred
+subreddit:YouShouldKnow
+score:1402
+numComments:113
+isOver18:False
+hasPostBody:True

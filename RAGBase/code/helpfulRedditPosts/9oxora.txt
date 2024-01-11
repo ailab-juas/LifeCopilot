@@ -1,0 +1,24 @@
+title:
+LPT: On mobile use chrome to watch youtube and request the desktop version. Now you can listen to youtube in the background while the screen is locked.
+
+content:
+Edit: As /u/yayPower pointed out it seems like one has to open a new tab for this to work.
+
+
+Second Edit:
+
+Wow this got bigger than expected. Thank you for the gold kind stranger. 
+
+It doesn't seem to work on every Android device. I'm on a Nokia 8 and have tested it multiple times now and it definitely works.
+
+Sometimes you have to additionally press play on the lockscreen for it to work.
+
+As several people mentioned there are multiple third party apps that may do a better job at this.
+
+url:https://reddit.com/r/LifeProTips/comments/9oxora/
+author:t-jark
+subreddit:LifeProTips
+score:46702
+numComments:1403
+isOver18:False
+hasPostBody:True

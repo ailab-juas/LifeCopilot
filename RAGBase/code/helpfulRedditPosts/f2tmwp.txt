@@ -1,0 +1,17 @@
+title:
+LPT: When contracting artwork for company logos, be sure to acquire the vector artwork.
+
+content:
+Many companies and programs I have worked with do not have the source file for logos leaving them with small .jpegs or .pngs that can't be printed on anything bigger than a post-it note. If you are paying for the artwork, be sure to have the artist send you the vector format as well so you don't run into quality issues in the future. Even if you can't personally use it because you don't have the program, next time you contract artwork, the contractor will be able to use it.
+
+EDIT: As u/mono_muertos mentioned. Please pay the artist appropriately for the rights to acquire the vector artwork. It's much cheaper than paying someone else to do it again later on.
+
+EDIT 2: As u/h0rr0r_biz suggested: a VECTOR file is a format that can be scaled from the size of a pin head up to the size of a building and then some. File formats include but not limited to .ai, .eps and .pdf if the creator saved it with editing capabilities enabled. A picture of your dog is a raster format such as .jpg and .png. These cannot be scaled upwards without pixelating the image.
+
+url:https://reddit.com/r/LifeProTips/comments/f2tmwp/
+author:Kryptic_Anthology
+subreddit:LifeProTips
+score:1264
+numComments:117
+isOver18:False
+hasPostBody:True

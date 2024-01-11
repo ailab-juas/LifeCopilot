@@ -1,0 +1,19 @@
+title:
+YSK that the markup brush/pen-like tools in the iOS Photos app should not be used to redact/censor details in photos as adjusting the contrast/levels of the censored photo may reveal the original info. Instead, use the shape tool hidden behind the "+" button in Markup for truly opaque redaction.
+
+content:
+When in Markup, there is a blue "+" button to the right of the row of tools that includes the pen, highlighter, and marker tools. 
+
+From the "+" menu, you can choose to add text, a signature, or a magnified portion to your image. You can also add arrows and assorted basic shapes. Choose the rectangle, then use the new "shapes" button (just to the left of the "+" button) to choose a solid rectangle. Your rectangle can be dragged and resized to cover whatever it is you need to redact in your image.
+
+Privacy matters. Use the shapes tool to censor safely, without worrying about someone adjusting the contrast or brightness of your image to get around your efforts!
+
+Edit: The pen tool does cover pretty well. It's the softer tools, like the default brush, which require multiple passes to cover well, and it may be difficult to tell when the coverage is 100%. An opaque tool like the shape tool or pen tool avoids that issue.
+
+url:https://reddit.com/r/YouShouldKnow/comments/8kb9xg/
+author:BrazenlyGeek
+subreddit:YouShouldKnow
+score:2263
+numComments:48
+isOver18:False
+hasPostBody:True

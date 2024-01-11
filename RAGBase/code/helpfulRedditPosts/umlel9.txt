@@ -1,0 +1,17 @@
+title:
+LPT If your shoes stink, spray them with rubbing alcohol
+
+content:
+You can use a deodorant, but that will only mask the smell. By using rubbing alcohol or another _proper_ disinfectant inside the shoe, you'll eliminate the bacteria that are _causing_ the bad smell.
+
+It's also generally a good idea because it helps prevent Planter's warts and other such issues.
+
+EDIT: I'm being told it can ruin some types of shoes. So check online whether your shoes are safe to use isopropanol on first. Running shoes should be fine. Also, hydrogen peroxide is a good substitute.
+
+url:https://reddit.com/r/LifeProTips/comments/umlel9/
+author:JTudent
+subreddit:LifeProTips
+score:5060
+numComments:475
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,17 @@
+title:
+YSK Christmas cards that “sing” or play a melody when opened are not recyclable and the PCBs inside produce a lot of E-waste.
+
+content:
+Why YSK: Coming into Christmas try to avoid buying these cards. Inside each is a small speaker and circuit board, a lot of the time containing mercury and other harmful substances. 
+
+The card itself isn’t recyclable with these still inside, so if you do get one, don’t throw it straight in the trash!
+
+[A little web page about this](https://www.google.ie/amp/s/allgreenrecycling.com/singing-cards-bad-for-environment/amp/)
+
+url:https://reddit.com/r/YouShouldKnow/comments/jy35tx/
+author:Nigward127
+subreddit:YouShouldKnow
+score:3808
+numComments:96
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: If you get lots of tiny splinters cover it in white glue and let it dry. When you peel it, it should take the splinters with it
+
+content:
+Happened to me the other day
+
+url:https://reddit.com/r/LifeProTips/comments/3b0cvq/
+author:coconutforever
+subreddit:LifeProTips
+score:4026
+numComments:368
+isOver18:False
+hasPostBody:True

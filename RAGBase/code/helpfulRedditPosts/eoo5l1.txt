@@ -1,0 +1,13 @@
+title:
+LPT: If you're having trouble deciding if you should say something, ask yourself 3 questions about what you're choosing to say: Is it true, is it helpful, and is it the right time.
+
+content:
+This has gotten me out of some bad situations since I struggle to shut up.
+
+url:https://reddit.com/r/LifeProTips/comments/eoo5l1/
+author:Jon_Boopin
+subreddit:LifeProTips
+score:2370
+numComments:108
+isOver18:False
+hasPostBody:True

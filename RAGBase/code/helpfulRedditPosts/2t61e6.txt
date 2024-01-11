@@ -1,0 +1,33 @@
+title:
+LPT: Create a mail filter that trashes all mail from the .click and .link top-level domains
+
+content:
+In general, for spam control of an email box, you have two options: stopping it at the mail source (i.e., the sender), and stopping it at the mail destination (i.e., your inbox).
+
+Over the years, I've steadily gravitated toward the latter, since stopping it at the source is intensely frustrating, due to the variety of "unsubscribe" mechanisms (one-click unsubscribe, "input your email address," "login to your account to change your subscription preferences," etc.) And, of course, many spammers don't offer an unsubscribe options (or they do, but it doesn't actually unsubscribe your address when you submit it).
+
+By contrast, if you have a set process for blacklisting mail from a particular sender, you can use that exact same process with every spammer. Filters are simple, quick, centrally managed, and guaranteed to work for that spammer.
+
+Recently, I've started receiving loads of spam from .click and .link domains. Every time I check my mailbox, I've got two or three more - often multiple copies of the same message sent to the same address. Also, they're not only from different senders (alice@spammer.click and bob@spammer.click), but also different domains (alice@spammer1.click and bob@spammer2.click).
+
+It's clear that the .click and .link top-level domains are havens of spam. So, I've blacklisted them - i.e., the entire top-level domain. To my pleasant surprise, Gmail will allow you to create a filter by top-level domain. So as of this morning, email from both TLDs will never again reach my inbox.
+
+To create this type of filter in Gmail:
+
+* Open Gmail. Click on the "gear" icon at the top right, and select Settings.
+
+* Select the "Filters" tab, and then click on the link reading: "Create a new filter."
+
+* In the new pop-up window, enter the following (without quotes) in the "From" box: "*.click OR *.link" ... then select the "Create Filter With This Search" link. On the next page, select the "Delete it" option, and then click the "Create Filter" button.
+
+Done. You'll never see anything from .click or .link again.
+
+(**edit**) Of course, this technique can be expanded to other TLDs as well - and [there are many](https://iwantmyname.com/domains/new-gtld-domain-extensions)! Rather than blacklisting all of them off the bat, it'll be better to blacklist those that start emailing frequently. The next target on my list is the .guru TLD.
+
+url:https://reddit.com/r/LifeProTips/comments/2t61e6/
+author:sfsdfd
+subreddit:LifeProTips
+score:1795
+numComments:328
+isOver18:False
+hasPostBody:True

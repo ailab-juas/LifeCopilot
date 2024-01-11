@@ -1,0 +1,22 @@
+title:
+YSK that clearing your browser history only deletes what's locally stored on your computer and not everything you've searched for / all the details Google has collected on you.
+
+content:
+Good news is, you can actually clear all your activity details that Google has stored, such as everything you've searched for, locations you visited, voice/audio data collected, your ad preference and much more.
+
+To do this, just 
+1) Google "my activity" and click on the first link you get. 
+
+2) While on this page you can scroll down and check all your activities if you want. You can try clearing your browser history and it will still be there in your activities. You can delete specific activities if you'd like from here.
+
+3) If you want to delete all the activity stored, just click on the three vertical dots next to "search your activity", then click on "delete activity by". You can set a custom range or just click "All time" and then follow the prompts.
+
+Hope this helps.
+
+url:https://reddit.com/r/YouShouldKnow/comments/gonut7/
+author:ItsKomorebi
+subreddit:YouShouldKnow
+score:1439
+numComments:57
+isOver18:False
+hasPostBody:True

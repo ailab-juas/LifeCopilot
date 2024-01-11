@@ -1,0 +1,53 @@
+title:
+YSK that spring is coming, and so are ticks - here's how to identify, avoid, and remove them
+
+content:
+# Awareness
+
+* **Weather**: ticks are most active after the rain. Moulting requires [warm, damp conditions](https://en.wikipedia.org/wiki/Weather_and_climate_effects_on_Lyme_disease_exposure#Climate). As a result, ticks seeking a new host are most common two to three days after rain breaks a dry period.
+* **Terrain**: because ticks prefer warm and damp, they are most common on the islands and coastal areas. The CDC has an interesting set of [species distribution maps for ticks in the USA](http://www.cdc.gov/ticks/geographic_distribution.html), and your regional health authority might have some for your own country.
+* **Know your enemy**: learn about the [lifecycle of the tick](https://i.stack.imgur.com/vaPSv.jpg) in order to understand when, where, and how to best avoid it. When they are most active, where they like to hunt, and how they behave. Avoidance is better than cure.
+* **Why don't we just eradicate them?** As unpleasant as they are for humans ([and livestock](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1635821/)), ticks serve an important but poorly-understood role in the ecosystem. They are food for other animals, they host and transport other microorganisms, and they help to balance populations of the animals they prey on which affects overpopulation and overgrazing.
+
+# Prevention
+
+* **Tuck your socks in**: although ticks often climb high and grab passers-by, they are most commonly found in tall grass rather than in trees, and will simply climb upwards on your clothing.
+* [**Treat fabrics with permethrin**](https://www.cdc.gov/ticks/avoid/on_people.html): you'll see this recommended on a lot of hiking blogs, so you can look for 0.5% but **be cautious** because permethrin is a pyrethroid which are [known](http://pmep.cce.cornell.edu/profiles/extoxnet/pyrethrins-ziram/pyrethrins-ext.html) to be [toxic](http://www.anapsid.org/pyrethroids.html) (people have died from low doses, especially when inhaled), so overuse could be harmful. As with all chemicals, it's good to [know what you are dealing with](http://www.tickencounter.org/prevention/permethrin). Anecdotal evidence has suggested that grapefruit oil is a good natural alternative to permethrin.
+* **Wear darker clothing**: studies found that ticks are [more likely to be attracted to you if you wear lighter-coloured clothing](http://www.ncbi.nlm.nih.gov/pubmed/16051573). However, they are easier to spot crawling on light-coloured clothing, so it's something of a compromise.
+* **On your body**: ticks are very small, and deer ticks (the type that spread Lyme disease) are so tiny that it takes very little for them to hide. They can stay latched on for up to three days, and prefer to hide in moist, dark crevices - so pay particular attention to the hairline, underarms, groin, ankles, and behind the knees.
+* **Have somebody else check you**. Tick nymphs are [incredibly small, hard to detect or feel, and can easily be out of your sight range](https://i0.wp.com/www.healthline.com/hlcmsresource/images/Lifestyle/condition-specific/lyme-disease/blacklegged_ticks.jpg?w=1155&amp;h=1908). It's important to have another pair of eyes checking for suspicious black lumps, so don't be too shy about it.
+
+# Removal
+
+* **Check regularly!** It is impossible to remove a tick promptly if you are not aware of its presence. The [Lyme Disease Organisation](https://www.lymedisease.org/hard-science-on-lyme-ticks-can-transmit-infection-the-first-day/) says that Lyme can be transmitted in the first 24 hours, and even as early as 6 hours in an extreme case, although 36 hours is the normal window. Most tick prevention takes advantage of that time lapse and kills the tick faster than the tick can transmit disease.
+* **Tick removal tools** ([fork](https://www.amazon.ca/Twister-Removal-Remover-Hunting-Fishing/dp/B0089BOK12/ref=pd_sim_200_1/163-1027747-4543831) or [pincer](http://rads.stackoverflow.com/amzn/click/B001QC34GI) types) reduce the risk of squeezing the tick when attempting removal, as can happen with fingernails or tweezers, which can force the tick to vomit inside the bite, spreading the infection.
+* **Twist or pull?** The [CDC recommends pulling straight](https://www.cdc.gov/ticks/removing_a_tick.html), because twisting can cause the head to break off (the exception here is removal tools which are specially designed to use a twisting motion). In general:
+   * The tick's body must not be compressed, as this can force it to vomit disease-causing organisms.
+   * The tick should not be irritated or injured, for the same reason (for example, smothering, freezing, or burning it).
+   * The mouth parts of the tick should be cleanly removed along with the rest of its body.
+
+# Cure
+
+* **Seek medical help!** Dr Keystone, a tropical disease physician at a major Toronto hospital, [says](http://www.uhn.ca/corporate/News/Pages/what_is_bugging_you_part_three_ticks.aspx) that "What we now know is that if you receive a single dose of [doxycycline](https://en.wikipedia.org/wiki/Doxycycline) within 72 hours after removal of a tick that has been attached for more than 36 hours, infection can be prevented."
+   * However, you should make sure to get a proper diagnosis first, and let the doctor judge when to give doxycycline so that it's given when actually needed, rather than preventatively. This is due to its [unpleasant side effects](https://www.rxlist.com/consumer_doxycycline/drugs-condition.htm) which you should prefer to avoid.
+   * Even if you find a tick quickly, don't assume you are completely safe. Despite the CDC's 24-48 hour window for Lyme disease, [a review carried out in 2015](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4278789/) states that the minimum time needed has never been established, noting six cases where Lyme disease had been transmitted in less than 6 hours; other diseases may be passed within minutes.
+* **Keep the tick if possible**, in a ziploc bag or wrapped in Scotch tape. If you have any concerns about the nature of your tick bite (or especially if you see any redness around the bite area - [concentric red rings](http://lymediseaseguide.org/wp-content/uploads/2011/05/lyme-disease-rash.png) are a sign of Lyme's Disease), seal the tick and freeze it.
+   * In addition to Lyme's Disease, ticks can also carry and transmit [dozens of other nasty things](https://lymediseaseassociation.org/category/about-lyme/other-tick-borne-diseases/) (also [listed at CDC](http://www.cdc.gov/ticks/diseases/index.html)), including borreliosis, bartonellosis, ehrlichiosis, encephalitis, ricketts, and more.
+   * Bringing the source tick to your hospital if you find an infection can help the medical staff to quickly identify what type it was, and what bacteria or diseases it might have been carrying (although some, like borreliosis, are a clinical diagnosis and don't require an investigation of the tick).
+
+# Miscellanea
+
+* Ticks are ancient, and were literally a problem for dinosaurs. They first appear in the fossil record during the Cretaceous (between 66 and 145 million years ago), and the [oldest known fossil tick](http://www.guinnessworldrecords.com/world-records/oldest-tick) (*Carlos jerseyi*), discovered in a piece of amber in New Jersey, is 90 million years old.
+* Despite looking like insects, ticks are actually arachnids, meaning that they are more closely related to spiders and scorpions. Larval ticks only have six legs, but the other two appear later on. It can take up to three years for larvae to mature to the adult stage and reproduce.
+* There almost 900 tick species. One of these, the [Lone Star tick](https://en.wikipedia.org/wiki/Amblyomma_americanum) indigenous to the eastern USA and Mexico, causes [alpha-gal syndrome](https://www.mayoclinic.org/diseases-conditions/alpha-gal-syndrome/symptoms-causes/syc-20428608), an allergy to red meat in humans but which does not affect dogs or cats.
+* There is a comic superhero called [*The Tick*](https://en.wikipedia.org/wiki/Tick_(comics)), and not [one](https://en.wikipedia.org/wiki/The_Tick_(2001_TV_series)) but [two](https://en.wikipedia.org/wiki/The_Tick_(2016_TV_series)) TV shows have been produced, starring him.
+* If you have any updates or corrections, please let me know in the comments. I really believe in spreading awareness of this important topic and I hope we can all enjoy the beauty of nature without these little bastards ruining it for us.
+* Man, I'm itching like crazy just writing all this down. I certainly don't want to have to get one [removed from deep inside my ear canal](http://www.dailymail.co.uk/video/news/video-1523547/Disgusting-moment-blood-sucking-tick-removed-ear-canal.html).
+
+url:https://reddit.com/r/YouShouldKnow/comments/barw9p/
+author:cardboard-kansio
+subreddit:YouShouldKnow
+score:2474
+numComments:160
+isOver18:False
+hasPostBody:True

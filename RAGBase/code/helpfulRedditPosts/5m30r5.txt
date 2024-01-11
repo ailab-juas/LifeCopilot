@@ -1,0 +1,13 @@
+title:
+LPT: If you want to lose weight, eat on smaller plates. It has been proven to reduce calorie consumption without impacting satiety.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5m30r5/
+author:phd_dude
+subreddit:LifeProTips
+score:12588
+numComments:1191
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,17 @@
+title:
+LPT: if you have a one-off need to drive a large/heavy truck for a long distance, get a free 1-week trial of an RV navigation app to avoid low overpasses and low-weight bridges.
+
+content:
+I just had to drive a 12' 7", 26-foot, 26000-lb box truck 800 miles into Chicago. Visions of the 11foot8[11foot8](http://11foot8.com/) bridge were dancing in my head, and neither Waze nor Google Maps allows you to add height restrictions to your route.
+
+I ran across the suggestion to use an RV navigation app. I downloaded one and found an RV in their database that was heavier than the truck and only 1" shorter. The app got me there with no problems.
+
+Don't forget to cancel the nav subscription before the end of the free week to avoid being charged.
+
+url:https://reddit.com/r/LifeProTips/comments/w14ph1/
+author:midesaka
+subreddit:LifeProTips
+score:1639
+numComments:44
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Find tiny items like earrings by putting a stocking over the end of a vacuum
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/rcff7/
+author:iwanttobeadragon
+subreddit:LifeProTips
+score:1384
+numComments:88
+isOver18:False
+hasPostBody:False

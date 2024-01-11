@@ -1,0 +1,13 @@
+title:
+LPT: Save prepaid debit cards that only have a few cent on them to use as free trial cards.
+
+content:
+I have been doing this for years and was surprised not many do this. As long as you have a positive balance( I use one with 21¢ on it),your good to go. Great way to test the waters for apps and services before deciding to buy.
+
+url:https://reddit.com/r/LifeProTips/comments/ey4mca/
+author:PandaDaRabbit
+subreddit:LifeProTips
+score:12060
+numComments:388
+isOver18:False
+hasPostBody:True

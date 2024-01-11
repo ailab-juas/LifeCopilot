@@ -1,0 +1,13 @@
+title:
+YSK: Under most circumstances, your fourth amendment rights protect your mail from being searched.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/YouShouldKnow/comments/vlbfgz/
+author:[deleted]
+subreddit:YouShouldKnow
+score:3875
+numComments:188
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,24 @@
+title:
+YSK: Many modern cars track and relay your movements, places of interest, and driving habits back to the manufacture or one of their affiliates.
+
+content:
+Just putting it out there. Make of it what you will. 
+
+https://www.thezebra.com/insurance-news/5576/tracking-tech-good-and-bad/
+
+https://www.nytimes.com/2017/07/27/automobiles/wheels/car-data-tracking.html
+
+https://money.cnn.com/2017/02/07/technology/car-data-value/index.html
+
+Edit:
+More info, a little older but still relevant and gives some more idea about the particulars. 
+
+https://www.usatoday.com/story/money/cars/2013/03/24/car-spying-edr-data-privacy/1991751/
+
+url:https://reddit.com/r/YouShouldKnow/comments/b5ms48/
+author:kermitte777
+subreddit:YouShouldKnow
+score:3284
+numComments:195
+isOver18:False
+hasPostBody:True

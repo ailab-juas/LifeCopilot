@@ -1,0 +1,21 @@
+title:
+YSK that businesses can track you when your Wi-Fi is on, even if you're not connected to their network.
+
+content:
+Whenever any Wi-Fi device has it's antenna turned on, it broadcasts signals to search for access points (APs) in a given area. This 'probe' gives the retailer's AP some basic but personally identifiable information about your device (presence, signal strength, manufacturer and the MAC address.) The most important one here is the Media Access Control address which is a globally unique identifier for your device. 
+
+By installing multiple APs within a store and leveraging this technology, a retailer can track time spent on certain displays, average time spent in store, how many times you've visited a certain location, customer retention, and many other metrics.
+
+While this isn't necessarily a bad thing, its important for people to know how retailers can use 'free Wi-Fi' as a powerful surveillance tool. 
+
+Edit: missing parentheses 
+
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/8ts0u1/
+author:Dxres
+subreddit:YouShouldKnow
+score:5407
+numComments:206
+isOver18:False
+hasPostBody:True

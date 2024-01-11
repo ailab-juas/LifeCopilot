@@ -1,0 +1,15 @@
+title:
+YSK about donotcall.gov to stop telemarketers and robocalls.
+
+content:
+1. You may file a complaint (and get paid for these) if you received an unwanted call after your number was on the National Registry for 31 days.
+
+1. You may also file a complaint if you received a call that used a recorded message instead of a live person (whether or not your number was on the Registry). 
+
+url:https://reddit.com/r/YouShouldKnow/comments/4gubkd/
+author:antibubbles
+subreddit:YouShouldKnow
+score:1184
+numComments:104
+isOver18:False
+hasPostBody:True

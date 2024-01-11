@@ -1,0 +1,13 @@
+title:
+LPT: Americans are entitled to 4 at home COVID test, sent by USPS- Free of charge
+
+content:
+The website, COVIDtests.gov, now includes a link for Americans to order up to four at-home tests per residential address, to be delivered by the USPS. The orders are then submitted at special.usps.com/testkits
+
+url:https://reddit.com/r/LifeProTips/comments/s76gnn/
+author:Hodlerman
+subreddit:LifeProTips
+score:2621
+numComments:282
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: We procrastinate because we have trouble dealing with the emotions associated with whatever task it is we are supposed to be doing...That's why we avoid it...If you realize this, you can begin to work on addressing the underlying emotion associated with it
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/bl16n6/
+author:parrbird88
+subreddit:LifeProTips
+score:1002
+numComments:115
+isOver18:False
+hasPostBody:False

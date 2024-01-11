@@ -1,0 +1,19 @@
+title:
+YSK that a 12 inch pizza is almost one-and-a-half times the size of a 10 inch pizza (44% bigger, to be precise). You should always order the bigger pizza.
+
+content:
+At first sight, you might assume it's 20% larger, but it's actually much more.
+
+It's a simple mathematical concept, but is often overlooked. The area of a circular pizza is πr^2. The π bit cancels out, so we can forget it, but the r^2 bit is what matters. The pizzas have radii of 5 and 6 inches respectively. 5 ^2 =25; 6^2 =36. To get 36, you need to multiply 25 by 1.44. i.e it's a 44% increase. 
+
+It's always better to go for the larger pizza.
+
+The same idea applies to things like car exhausts. The difference between a 2.5" exhaust and a 3" one is also 44%.
+
+url:https://reddit.com/r/YouShouldKnow/comments/goqe0l/
+author:InstantlyJobless
+subreddit:YouShouldKnow
+score:1980
+numComments:93
+isOver18:False
+hasPostBody:True

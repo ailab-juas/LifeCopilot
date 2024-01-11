@@ -1,0 +1,13 @@
+title:
+LPT : if you're a hardcore gamer and play games in your chair for long periods in a day, do a couple of push-ups,squats and sit ups after every match you lose. It'll both motivate you to win more and be beneficial for your health
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/9lkqcr/
+author:kcir_semirg
+subreddit:LifeProTips
+score:1050
+numComments:109
+isOver18:False
+hasPostBody:False

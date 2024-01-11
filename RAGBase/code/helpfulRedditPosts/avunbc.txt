@@ -1,0 +1,13 @@
+title:
+LPT: When leaving a voice message, leave your name and number both at the beginning and end of your message, so if they miss it the first time they don't have to re-listen to the whole message.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/avunbc/
+author:Google_1t
+subreddit:LifeProTips
+score:2761
+numComments:139
+isOver18:False
+hasPostBody:False

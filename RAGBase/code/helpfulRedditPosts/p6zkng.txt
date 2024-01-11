@@ -1,0 +1,19 @@
+title:
+LPT: If you get calls from automated scammers, answer the call and put it on mute. The call will disconnect when no sound comes from your end. More details below.
+
+content:
+Basically, automated scam calls go out with a messaging system that are voice activated. So when you say “hello” that is when the recorded message starts. If you pickup and mute the call right away, the call gets disconnected after a few seconds. Typically after 2-3 times that scamming company removes your number, as they pay for each call that gets sent out. 
+
+You should always listen while the call is muted. If you hear breathing or any noise, it’s not a scam call! 
+
+Since doing this, I no longer get scam calls. Annoying at first but the number of calls drop really quickly over time.
+
+Edit: this is for robocalls. I only ever got robocalls. If a person is on the other side and you unmute to speak to them, they still might be a scammer. Just wasn’t my case so I’m my post I wrote that it’s not a scam.
+
+url:https://reddit.com/r/LifeProTips/comments/p6zkng/
+author:mtlmike85
+subreddit:LifeProTips
+score:12814
+numComments:864
+isOver18:False
+hasPostBody:True

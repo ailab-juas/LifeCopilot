@@ -1,0 +1,17 @@
+title:
+YSK that every android phone has a built-in text-on-the-lock-screen feature available in the settings, for anyone to read if you lose your phone. You can put something like "please return my phone to this address" on your SO's or family member's phone number.
+
+content:
+Why YSK: If the finder is kind enough to return it you will have much less of a trouble recovering it.  
+  
+Edit : on standard Android 10 go to settings -&gt; screen -&gt; advanced -&gt; lock screen display -&gt; message on lock screen. 
+  
+Edit 2 : as stated in the comments it is safer to put your email address instead of the postal one
+
+url:https://reddit.com/r/YouShouldKnow/comments/nfdous/
+author:Ogore
+subreddit:YouShouldKnow
+score:4006
+numComments:130
+isOver18:False
+hasPostBody:True

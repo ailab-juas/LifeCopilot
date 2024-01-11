@@ -1,0 +1,33 @@
+title:
+YSK that if you usually find yourself spending more than 10 mins to properly write an email, here's a well-thought-out structure for you
+
+content:
+Why YSK: this may be helpful to some of us that often having trouble writing a formal email, and to avoid all the hassle of re-read and re-edit for an hour (yep, that's me) just trying to sound as professional as we can.
+
+ps: Not mine. I found it on the internet. I wished I found it earlier and could have saved a lot of time sending out job applications.
+
+—
+
+Dear Person I am Writing To,
+
+This is an optional sentence introducing who I am and work for, included if the addressee has never corresponded with me before. The second optional sentence reminds the person where we met, if relevant. This sentence states the purpose of the email.
+
+This optional paragraph describes in more detail what's needed. This sentence discusses relevant information like how soon an answer is needed, what kind of answer is needed, and any information that the other person might find useful. If there's a lot of information, it's a good idea to separate this paragraph into two or three paragraphs to avoid having a Wall of Text.
+
+If a description paragraph was used, close with a restatement of the initial request, in case the addressee ignored the opening paragraph.
+
+This sentence is just a platitude (usually thanking them for their time) because people think I am standoffish, unreasonably demanding, or cold if it's not included.
+
+Closing salutation,
+Signature
+
+—
+"People always ask me how I can fire off work emails so quickly. Nobody has figured out yet that it's the same email with the details change as needed."—Anonymous on the Internet.
+
+url:https://reddit.com/r/YouShouldKnow/comments/iml79z/
+author:the-lah
+subreddit:YouShouldKnow
+score:25439
+numComments:245
+isOver18:False
+hasPostBody:True

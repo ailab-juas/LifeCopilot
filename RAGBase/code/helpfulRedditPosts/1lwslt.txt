@@ -1,0 +1,13 @@
+title:
+LPT: Call your cable company and say "I am thinking of adding some pay channels, but I don't know which ones are best suited to my viewing habits. Can I have them all free for a month or two to help me decide?" It works every time.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1lwslt/
+author:OmitsWordsByAccident
+subreddit:LifeProTips
+score:1098
+numComments:174
+isOver18:False
+hasPostBody:False

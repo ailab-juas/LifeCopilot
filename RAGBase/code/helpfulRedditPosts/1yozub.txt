@@ -1,0 +1,15 @@
+title:
+YSK there is a program called Should I Remove It that helps find obscure annoying programs in your computer, with a "should I remove it?" rating system to go with the option to uninstall programs.
+
+content:
+Website:
+
+http://www.shouldiremoveit.com/
+
+url:https://reddit.com/r/YouShouldKnow/comments/1yozub/
+author:[deleted]
+subreddit:YouShouldKnow
+score:2631
+numComments:278
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,23 @@
+title:
+YSK Elimination of a disease means that disease is still present in a population, just in such low levels (usually due to vaccination) that it can't actively spread around. Eradication of a disease means it has been wiped off the face of the planet.
+
+content:
+We've only ever eradicated one human disease, smallpox. And this is the reason diseases like measles will ALWAYS come back if we do not vaccinate about 85-95% (dependent on vaccination types) of the entire population.
+
+[https://www.ncbi.nlm.nih.gov/pubmed/21941041](https://www.ncbi.nlm.nih.gov/pubmed/21941041)
+
+[https://www.ncbi.nlm.nih.gov/pubmed/7044193](https://www.ncbi.nlm.nih.gov/pubmed/7044193)
+
+[https://www.ncbi.nlm.nih.gov/pubmed/30245481](https://www.ncbi.nlm.nih.gov/pubmed/30245481)
+
+[https://www.who.int/bulletin/volumes/86/2/07-040089/en/](https://www.who.int/bulletin/volumes/86/2/07-040089/en/)
+
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4927017/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4927017/)
+
+url:https://reddit.com/r/YouShouldKnow/comments/bm44q9/
+author:SaySomethingDesign
+subreddit:YouShouldKnow
+score:6869
+numComments:187
+isOver18:False
+hasPostBody:True

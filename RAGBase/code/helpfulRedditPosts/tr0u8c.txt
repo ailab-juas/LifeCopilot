@@ -1,0 +1,13 @@
+title:
+LPT: If you accidentally emergency pocket dial 911, stay on the line. Do not hang up. Explain to the operator that is was an accident. They will ask you a few questions and you’ll be on your way.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/tr0u8c/
+author:BDunnn
+subreddit:LifeProTips
+score:38308
+numComments:1133
+isOver18:False
+hasPostBody:False

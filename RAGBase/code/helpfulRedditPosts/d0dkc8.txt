@@ -1,0 +1,49 @@
+title:
+YSK that viral infections like the common cold and flu CANNOT be cured by antibiotics- those only work for bacterial infections. DO NOT ask your doctor for antibiotics when you have a viral illness. This only makes it so antibiotics won't work as well for you and others in the future.
+
+content:
+Taking antibiotics when you don't need them creates immunity both in your body and in the community in the long run. The more we use them, the more our bodies get used to them and the bacteria that cause actual illnesses that CAN be improved with antibiotics will become resistant. This means that antibiotics we use today won't always work in the future- one of the reasons why there is now a strain of drug-resistant TB. If you have a cold or flu, tough it out! Antibiotics WILL NOT help you feel better. 
+
+
+one of many sources: https://www.ncbi.nlm.nih.gov/books/NBK279540/
+
+
+Edit: if you do have to take antibiotics for a bacterial infection, finish out the cycle and take all the pills! Many people will stop taking their antibiotics once they start feeling better and this also creates drug resistant bacteria.
+
+Edit 2: Glad to see this is getting traction! Thank you all for your replies. I am not a doctor, and there are cases where antibiotics would be needed for a secondary infection, but in most cases, the common cold is just a cold. Of course, listen to your doctor, they know best, but please don't misuse antibiotics. Here in the US some doctors (not all) will prescribe antibiotics just to get someone to leave. Some people will go to doctor after doctor until one prescribes antibiotics. It's not a perfect system, but spreading awareness for things like this can be a good reminder, if not new information. To answer some comments: no, I did not just learn this. I learned this in 7th grade or so, but I've had to recently convince an adult that they don't need antibiotics for their stuffy nose. 
+
+I'm going to quote some useful comments below, even I'm learning from this post! Also thanks for the shiny thing!
+
+u/nom_de_guerre_23
+&gt;I often tell patients a story from one of my family medicine professors. He told us how a patient pressured him into antibiotics for a harmless infection and in the end he lost his nerves and just prescribed them. The same patient ended up destroying all his natural gut bacteria with the antibiotic and his gut got infected with Clostridium difficile which gave him horrible diarrhea for many weeks, some of them so severe that she had to be treated in hospital.
+
+u/eulerious
+&gt;Many doctors don't want to deal with ranting patients. So if patients demand antibiotics (cause they are idiots) the doctors will prescribe them (cause they are idiots too).
+
+u/AAAAaaaagggghhhh
+&gt;Plus, because it costs so much, most people have already tried waiting it out and after weeks misery, are going in because perhaps it is something bacterial after all. Then, when you get quite ill you are chastised, "why didn't you come in, sooner?" Meanwhile, there is no rapid test to determine whether it is a virus or bacterial on the spot, so doctors are also making their best guess. Sometimes they are wrong about it being a virus. It's happened to me, more than once, with more serious consequences for non-treatment when I first went in. Yes, I dumped several do-nothing morons. They never find out that they are wrong, because smart people don't pay out again to go back to the do-nothing docs.
+
+u/borderless_mirror
+&gt;Viral infections can lead to bacterial infections when the immune system is weakened. Not arguing the over prescription of anti-biotics but it's best to let a doctor decide the right course of action.
+
+u/civil_defense
+&gt;I had a guy at work who's 2 year old had a really bad cold, so he took him to see the doctor and they tested him, but it wasn't bacterial, so they didn't give him antibiotics even though the guy from work was demanding that he give them some. The guy came to work and threw a fit with us that the doctor wouldn't give him antibiotics and after we explained that the cold is viral and those would have done absolutely nothing, he was still furious that the doctor didn't give him any. I think some people just see it as "It's better than nothing" and don't understand the underlying mechanics of the medication.
+
+u/ProfessorEIm
+&gt;This isn't exactly correct, it is not our bodies that "get used to them" like a drug tolerance. Every generation has a new mutation, and some of those are resistant to antibiotics. If those are allowed to survive and reproduce, like if one ceases to take the meds before the prescription is up, then it becomes more likely that a resistant strain will spread.
+
+u/gasdocscott
+&gt;But how do you know it's a virus? That's the crux of the problem. Infections caused by bacteria or viruses frequently appear the same. There is no rapid and reliable test that differentiates. In older days, antibiotics were given as a 'just in case'. Nowadays doctors usually use a wait and see method. But then a patient dies of a bacterial infections and it's back to doctor bashing all over again.
+
+There are many more great comments and they just keep coming. Thank you all for your input! Bottom line is, listen to your doctor, they know what they're doing. Don't insist on taking antibiotics if you don't need them. And use antibiotics wisely!
+
+
+Edit 3: Get your flu shots people!!
+
+url:https://reddit.com/r/YouShouldKnow/comments/d0dkc8/
+author:emmaofthe9fingers
+subreddit:YouShouldKnow
+score:16559
+numComments:592
+isOver18:False
+hasPostBody:True

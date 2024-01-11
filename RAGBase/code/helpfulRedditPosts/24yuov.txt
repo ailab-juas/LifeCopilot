@@ -1,0 +1,29 @@
+title:
+Ladies and Gentlemen, it makes me proud to announce with your help, LPT has become a Default Subreddit!
+
+content:
+It pleases me to announce that along with several other subreddits, LPT has officially made it on to the Default list.
+
+You can read the news about what subreddits have officially made the cut [here](http://www.redditblog.com/2014/05/whats-that-lassie-old-defaults-fell.html).
+
+With this news comes a few minor things you should know about:
+
+* We will be changing our CSS moderately soon as many of you have said that you can't read it (even though you can click the squares at the upper right and change the color scheme). 
+
+* We've added a new rule to the subreddit: Troll LPTs will be grounds for a ban. Repeated "obvious" LPT's will also be grounds for a ban. - Yes, there is no middle ground here (we're cracking down on this pretty hard because we're sick of people thinking they can be funny and get away with such posts), if you see something you think violates this rule, let us know by either messaging us or reporting it. We'll nuke and ban accordingly. The rules (listed on the sidebar) that you've known and come to expect are staying the same. 
+
+* We're going to be more open to listening to ideas you have for the subreddit to make it function better as a whole and more LPT friendly for everyone. Becoming a default means the mods will be working over time but still enjoying the position... just give us a little bit of leeway, for some of us, this is our first default and we're a little stressed out about it and excited about the potential jump in subscriber numbers and to see what the new members bring.
+
+* We could not have done this without your help, so, from the bottom of the mod squad, we thank you from the bottom of our hearts, and we'll continue to run this place the way we have and the way you've expected it to be run. 
+
+Thanks again guys and gals!
+
+Your LPT Mod Squad.
+
+url:https://reddit.com/r/LifeProTips/comments/24yuov/
+author:Minifig81
+subreddit:LifeProTips
+score:2861
+numComments:378
+isOver18:False
+hasPostBody:True

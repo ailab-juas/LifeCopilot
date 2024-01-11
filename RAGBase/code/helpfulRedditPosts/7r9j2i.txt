@@ -1,0 +1,23 @@
+title:
+LPT: If you’re having trouble explaining something computer-related to your parents, instead of explaining it to them over to the phone, record yourself doing it and send them a video
+
+content:
+They'll be able to follow along better since they see it happening and will save everyone a lot of frustration
+
+EDIT: Turns out my method of recording the screen is inefficient and ancient as fuck. Your recommendations are the shit, here's a compilation of what i saw+tried (will keep adding as they come in):
+
+1. http://www.useloom.com/ -&gt; This thing kicks ass, like how the fuck have i not known about this, you click a button and it records your screen, your camera and your mic so you can narrate what you're doing. Once you finish recording you INSTANTLY get a link to the already processed video to share. No waiting time. Seems like it lets you edit the video as well.
+
+2. github.com/justinfrankel/licecap -&gt; similar to the above, allows you to record a part of your screen in giphy. No audio/cam though. Great tool
+
+3. https://www.teamviewer.us/ -&gt; for realtime support, install it on your parents laptop and then whenever they have trouble just take control of their desktop remotely and do it for them. Brute force that shit
+
+4. Have parents that understand tech -&gt; apparently it's more effective than all of the rest combined
+
+url:https://reddit.com/r/LifeProTips/comments/7r9j2i/
+author:faderunner
+subreddit:LifeProTips
+score:24351
+numComments:888
+isOver18:False
+hasPostBody:True

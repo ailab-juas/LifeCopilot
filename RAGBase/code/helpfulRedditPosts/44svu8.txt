@@ -1,0 +1,13 @@
+title:
+LPT: When a website asks you to check a box that says "I am not a robot", move your mouse a bunch after clicking it to avoid having to solve any puzzle or type a captcha after.
+
+content:
+This type of new captcha google has created tracks your mouse movements, and doing this will show that you are not a bot and it should let your right through.
+
+url:https://reddit.com/r/LifeProTips/comments/44svu8/
+author:shadowdylan99
+subreddit:LifeProTips
+score:1311
+numComments:108
+isOver18:False
+hasPostBody:True

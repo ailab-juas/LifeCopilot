@@ -1,0 +1,13 @@
+title:
+LPT: How to easily beat "Spot the Difference" puzzles
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/sq1em/
+author:rniland
+subreddit:LifeProTips
+score:1337
+numComments:622
+isOver18:False
+hasPostBody:False

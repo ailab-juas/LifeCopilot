@@ -1,0 +1,13 @@
+title:
+YSK about Free Rice, a project by the World Food Program which helps build your vocabulary while donating rice to the hungry
+
+content:
+[Link](http://freerice.com) to the site. For every vocab question you get correct, it donates 10 grains of rice (from ad revenue).
+
+url:https://reddit.com/r/YouShouldKnow/comments/5pwsgz/
+author:Sjmman
+subreddit:YouShouldKnow
+score:1996
+numComments:66
+isOver18:False
+hasPostBody:True

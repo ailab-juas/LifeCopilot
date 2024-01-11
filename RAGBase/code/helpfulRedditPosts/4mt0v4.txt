@@ -1,0 +1,13 @@
+title:
+LPT: After you copy and paste something NSFW, copy a harmless line of text.
+
+content:
+If you copy and past something NSFW, the next time you try and copy and paste something, the "copy" part may fail. Then, you could be left with an awkward mess as you "paste" a link or text that you never wanted others to see.
+
+url:https://reddit.com/r/LifeProTips/comments/4mt0v4/
+author:MrGrieves787
+subreddit:LifeProTips
+score:4520
+numComments:733
+isOver18:False
+hasPostBody:True

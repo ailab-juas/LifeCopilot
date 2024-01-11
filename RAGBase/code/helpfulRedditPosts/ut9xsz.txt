@@ -1,0 +1,32 @@
+title:
+YSK Your cousin's children, their children's children, their children's children's children are all your "First Cousins".
+
+content:
+Why YSK: I rarely run into anyone who gets this right. They always want to call their cousin's children their 'second cousin' and that's not how that works. It can be confusing, but if you can keep the first cousin rule straight, that will probably cover most of your known relatives.
+
+Second Cousins are only related by sharing a great grandparent. If it's their great grandparent, but it's just your grandparent, you're first cousins once removed.
+
+You indicate you're a different generation with "once removed", "twice removed" etc.
+
+Your cousin's children and your children would be second cousins.
+
+&amp;#x200B;
+
+\*EDIT\*  
+
+
+To the people who are saying the title is 'wrong', you're missing the point. When I'm saying "the first cousin rule" what I mean is, if you can remember that no matter how many generations a relative down is, if they're kids/grandkids/etc of your first cousin... they are also your **first** cousin (not second or third or whatever). 
+
+That's the "rule" to keep in mind. 
+
+Like if we were talking about quadratic equations and I'm saying you need to FOIL and people start chiming it it's wrong because you also have to simplify the result.
+
+The "once removed/twice removed/etc" is important but that part is easy to remember. How you differentiate your first cousin from their child should come to mind and if you know that it's NOT "second cousin", the only other way to differentiate is the "once removed".
+
+url:https://reddit.com/r/YouShouldKnow/comments/ut9xsz/
+author:NotBlaine
+subreddit:YouShouldKnow
+score:2620
+numComments:173
+isOver18:False
+hasPostBody:True

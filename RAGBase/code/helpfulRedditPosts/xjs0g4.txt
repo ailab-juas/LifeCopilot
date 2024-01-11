@@ -1,0 +1,22 @@
+title:
+LPT: Excel has a tool called Power Query that let's you automate pretty much 80% of your work, easier than macros and VBA (if you need to transform data).
+
+content:
+Hey I am an Industrial Engineer and honestly one of the best tips I can give you is to learn Power Query. If you work with Excel this will save you hours of time and give you a lot of exposure.   
+
+
+Basically it lets you import data from a lot of different sources (other excels, csv's, web data, sql databases, sharepoint lists, onedrive, folders...etc) into your excel file. Then you can transform the data, combine it and load it into excel as a fresh table. Tedious processes can be made a breeze in no time, just hit refresh and all the transformations you made are applied each time you need to update your data. 
+
+ I made a quick video describing how it works, but honestly a fast google search will get you going in no time. 
+
+I'll leave the link right here (I don't know if there's a problem, in that case please let me know) 
+
+[How to automate your excel files](https://youtu.be/TKFHcxYsFq0)
+
+url:https://reddit.com/r/LifeProTips/comments/xjs0g4/
+author:Digital_Lvl_Up
+subreddit:LifeProTips
+score:1150
+numComments:65
+isOver18:False
+hasPostBody:True

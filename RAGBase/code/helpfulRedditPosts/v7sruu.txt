@@ -1,0 +1,15 @@
+title:
+YSK not to store apples near other fruits and vegetables.
+
+content:
+Why YSK: because they can speed up the ripening process.
+
+As apples ripen, they produce a gas called ethylene which speeds up the ripening process of other fruits and vegetables stored nearby, or stored in the same fridge.
+
+url:https://reddit.com/r/YouShouldKnow/comments/v7sruu/
+author:WranglerVegetable512
+subreddit:YouShouldKnow
+score:11300
+numComments:346
+isOver18:False
+hasPostBody:True

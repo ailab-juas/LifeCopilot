@@ -1,0 +1,13 @@
+title:
+LPT: When calling a company to shutoff service, like your cell or broadband service, tell them “I am leaving the country, never to return” as the reason. This avoid the “let me transfer you to my manager to see how we can keep you as a customer” endless conversation.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/pnrwd1/
+author:Few_Horse4030
+subreddit:LifeProTips
+score:3794
+numComments:197
+isOver18:False
+hasPostBody:False

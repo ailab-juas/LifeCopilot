@@ -1,0 +1,13 @@
+title:
+LPT: Add a manual autocorrect entry to your phone, which replaces ‘@@‘ with your full email address. Never type it out again!
+
+content:
+Do ignore this if you have autofill for browsers/apps, password manager and/or predictive text. If your phone already does this, you’ve almost certainly got one of the aforementioned active, and can ignore this tip. I don’t use either, but do have autocorrect on, which this tip exploits 🤟🏼
+
+url:https://reddit.com/r/LifeProTips/comments/shq5e2/
+author:eddiewastaken
+subreddit:LifeProTips
+score:16781
+numComments:634
+isOver18:False
+hasPostBody:True

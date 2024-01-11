@@ -1,0 +1,17 @@
+title:
+LPT: When using an ATM or similar device, give the housing around the card reader a quick jostle to make sure it's not a skimmer.
+
+content:
+I'm sure this has been said often, but a reminder never hurts as we start traveling more post-pandemic.  Get into the habit of checking for skimmers when using your card.  You may not catch them all, but the more cheaply made/installed ones will usually pop right off.
+
+If you see one, notify law enforcement or the owner of the establishment.
+
+Also if your payment card leaves your hands (such as in restaurant), try to keep an eye on where it goes.  A server should take right to the register and back.  If they take too long out if sight or you see them run it through more than one device, get enough cash to last you about five business days and immediately stop payment on that card.
+
+url:https://reddit.com/r/LifeProTips/comments/nznoi3/
+author:ConditionYellow
+subreddit:LifeProTips
+score:3016
+numComments:172
+isOver18:False
+hasPostBody:True

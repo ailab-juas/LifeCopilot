@@ -1,0 +1,13 @@
+title:
+YSK that cinnamon can be added to potting soil to prevent fungus, disease, and even gnats
+
+content:
+Cinnamon is a natural and healthy remedy for fixing several plant issues especially with seedlings.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ggowqb/
+author:giotodd1738
+subreddit:YouShouldKnow
+score:3920
+numComments:129
+isOver18:False
+hasPostBody:True

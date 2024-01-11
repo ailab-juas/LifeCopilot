@@ -1,0 +1,13 @@
+title:
+YSK: "I'm Feeling Lucky" on Google Earth is an awesome feature that helps users to travel to random locations on our planet and learn new things about new attractions in different countries. If you are wondering which hidden gem you should visit next, then this feature is definitely for you!
+
+content:
+Why YSK: With “I’m Feeling Lucky,” users will be taken somewhere among tens of thousands of notable tourist spots only with the click of a button by Google Earth. After having arrived at a point of interest, you can also open a Knowledge Card to learn more about the history and facts of that place and have a look at some of the pictures. Just discovered this feature and I am more than ecstatic to share it with you guys!
+
+url:https://reddit.com/r/YouShouldKnow/comments/jku42f/
+author:desideria_dl
+subreddit:YouShouldKnow
+score:23844
+numComments:215
+isOver18:False
+hasPostBody:True

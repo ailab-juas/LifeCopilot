@@ -1,0 +1,13 @@
+title:
+LPT: start shopping for black friday now. Search what you want/need, find a good price, screenshot it, make a new album in your photos. when black friday comes, you will know exactly what you want, the maximum it will cost, and you will already have the price to see if you are getting a deal or not.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/pwi8b4/
+author:bretty666
+subreddit:LifeProTips
+score:19553
+numComments:564
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,15 @@
+title:
+YSK about Jog.fm a site that matches music at your running pace!
+
+content:
+http://jog.fm/
+
+Just enter your average mile time and click the big green "GO" button and you'll instantly get a list of songs for you to run while listening to!
+
+url:https://reddit.com/r/YouShouldKnow/comments/2boiep/
+author:dredman99
+subreddit:YouShouldKnow
+score:1224
+numComments:83
+isOver18:False
+hasPostBody:True

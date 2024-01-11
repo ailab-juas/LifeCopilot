@@ -1,0 +1,15 @@
+title:
+YSK that turning on airplane mode disables Ads in your favorite mobile game
+
+content:
+Are you tired of your favorite mobile game having ad after every mission wasting 20-30sec of your life. Well to you that don’t know that by turning your phone onto airplane mode it will shut off ads. Make sure when you do this that you don’t have anything important going on as this also shuts off your internet so you won’t be getting many notifications, after all you are playing your favorite mobile game why would you want to be bothered.
+
+Edit: IK the ads support the devs. IK it doesn’t work on all games.
+
+url:https://reddit.com/r/YouShouldKnow/comments/f03509/
+author:bringbackwestrenbbq
+subreddit:YouShouldKnow
+score:14037
+numComments:461
+isOver18:False
+hasPostBody:True

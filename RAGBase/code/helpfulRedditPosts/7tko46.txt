@@ -1,0 +1,13 @@
+title:
+LPT: Before checking in at the airport. take a photograph of your luggage. A picture is worth a thousand words if your bag gets lost!
+
+content:
+This has saved my family a couple of times... If you can't find your bags it's a lot easier just to show the baggage claim representative a picture of your luggage, then try to describe it to them.
+
+url:https://reddit.com/r/LifeProTips/comments/7tko46/
+author:FrenchJello
+subreddit:LifeProTips
+score:34877
+numComments:862
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,19 @@
+title:
+YSK: Never attempt to open or disassemble a microwave unless you know what you are doing.
+
+content:
+Why YSK? There are large capacitors that hold a lethal amount of electrical energy, that is still energised for long periods of time after the microwave has been unplugged.
+
+Edit: 15 hours in and 1.3mil people have read this, according to the stats.
+
+Have a quick read on CPR and INFANT CPR, it's a 10 minute read that decreases the mortality rate significantly whilst waiting for emergency services. https://www.reddit.com/r/YouShouldKnow/comments/yak6km/ysk_never_attempt_to_open_or_disassemble_a/itbrkl4?utm_medium=android_app&amp;utm_source=share&amp;context=3
+
+Stay safe all.
+
+url:https://reddit.com/r/YouShouldKnow/comments/yak6km/
+author:SauceOfPower
+subreddit:YouShouldKnow
+score:18054
+numComments:951
+isOver18:False
+hasPostBody:True

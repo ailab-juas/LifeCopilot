@@ -1,0 +1,19 @@
+title:
+LPT: When paying someone back for money they lent you, always round up a little bit.
+
+content:
+For example:
+
+If you had lunch with someone and it cost $35.58 total and you're paying them back your share tomorrow, give them $18, even if writing a check.
+
+There's a large difference between writing a check for "Seventeen dollars and 79/100 ----" versus "Eighteen dollars ----": the former says you're watching every single penny, whereas the latter shows that you're fairly relaxed about money and are generous (though not in a garish, showy, or obnoxious way.) You've made a positive impression on a person for the low-low cost of 21 cents.
+
+The rounding-up should be reasonably proportional to the total repayment amount, usually 1% or less. At the very least, you should always round off cents and deal in whole dollars. So, if you owe someone $4,992.12, just write them a check for $5,000. They will remember it (and you) in a positive way as a result.
+
+url:https://reddit.com/r/LifeProTips/comments/4xw8vu/
+author:BigBigFancy
+subreddit:LifeProTips
+score:1791
+numComments:220
+isOver18:False
+hasPostBody:True

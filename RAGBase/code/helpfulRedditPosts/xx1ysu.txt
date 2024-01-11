@@ -1,0 +1,13 @@
+title:
+LPT: if you get sucked into a TV series late at night with a lot of cliff hangers and need to go to bed, pause it during the middle of the episode rather than waiting until the end.
+
+content:
+…because chances are, you’ll click “next episode”
+
+url:https://reddit.com/r/LifeProTips/comments/xx1ysu/
+author:plswearmask
+subreddit:LifeProTips
+score:12881
+numComments:200
+isOver18:False
+hasPostBody:True

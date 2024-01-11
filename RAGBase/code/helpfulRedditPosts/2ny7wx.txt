@@ -1,0 +1,25 @@
+title:
+LPT: If you are starting a new job, don't be afraid to ask questions, but first, exhaust any non-human resources you have access to.
+
+content:
+Asking questions is extremely important when starting a new job.  You need to be able to mesh with the existing system as quickly as possible for maximum productivity, and there is no way of doing this beyond communication with your co workers and management.  When you come across something you don't fully understand, it is important to ask someone and be sure you are doing the correct thing, or you could create problems down the line that will force people to waste time fixing.  However, before you ask your question, research the topic yourself using the tools at your disposal before approaching someone for help.  
+
+Make use of any internal documentation your company may have available, and if that fails, try a google search on the topic.  Even if you are unable to find the answer, you will be able to ask a better question, and supplement it with any information you were able to find during your research.  In either case, you will probably want to at least get a confirmation from someone before going ahead and working, to make sure the answer you may have found from google is actually the right one in this specific case.  Note: if your company's documentation is lacking, take it upon yourself to update it.  If you have a question, it's likely someone else will in the future, and taking the initiative on this will save the company time (and make you look good as well).
+
+As a manager of many new interns, people who do this really tend to stand out, where as people who come to me with little understanding of the topic, asking questions which I know are a quick google search away tend to become very annoying very quickly.  If this happens too frequently, it becomes a distraction for me from getting my own work done.
+
+Even if it's something you think a person could answer quickly, you should understand that you are distracting someone with your question, especially if you come with little or no understanding of the topic.  Understand that no matter what, you are side tracking that person from their work. However, by building up your own understanding of the subject, you will need less explanation from them and will reduce the distraction.  
+
+By researching yourself, not only will you seem less lazy and more impressive to your co-workers, I have found that personally, when I make the effort to learn something on my own, I end up with a better understanding of the information in general.
+
+TL;DR: When you start a new job, try to learn for yourself using the resources you have available (company docs, google) before approaching co-workers with questions.
+
+**Edit:** Added a note about updating documentation if necessary (thanks /u/cat5inthecradle)
+
+url:https://reddit.com/r/LifeProTips/comments/2ny7wx/
+author:wpatter6
+subreddit:LifeProTips
+score:1868
+numComments:102
+isOver18:False
+hasPostBody:True

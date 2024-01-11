@@ -1,0 +1,13 @@
+title:
+LPT: Go to your Reddit inbox, click the three dots on top and select "Mark all as read" to remove that annoying number at the bottom.
+
+content:
+Edit: u/iwantmyteslanow had posted this in AskReddit too (which I saw after posting here)
+
+url:https://reddit.com/r/LifeProTips/comments/fsued5/
+author:johnjax90
+subreddit:LifeProTips
+score:78330
+numComments:3175
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: You can middle click folders in your bookmarks to open all of the webpages at once
+
+content:
+Just learned this by accident, it can be used for having set folders with webpages for specific tasks.
+
+url:https://reddit.com/r/LifeProTips/comments/2tfasj/
+author:Onixar
+subreddit:LifeProTips
+score:1731
+numComments:225
+isOver18:False
+hasPostBody:True

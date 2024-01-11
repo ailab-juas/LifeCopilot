@@ -1,0 +1,13 @@
+title:
+YSK You don’t need a Costco or Sam’s Club membership to use their pharmacies.
+
+content:
+TIL that you can use both Costco and Sam’s Club pharmacies without having to obtain a membership. Most states require all pharmacies to be open to the public. Why YSK: In a world where prices are always increasing and saving every penny counts, it’s nice to have a few more options to look into for prescription savings. Especially for people who require large quantities or long term prescriptions.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ycjg8g/
+author:Jrock9589
+subreddit:YouShouldKnow
+score:5998
+numComments:259
+isOver18:False
+hasPostBody:True

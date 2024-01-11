@@ -1,0 +1,24 @@
+title:
+LPT: When seeking a second opinion, don't mention the first diagnosis. You'll get a more thorough workup vs a confirmation.
+
+content:
+This is a great medical system hack.
+
+I have a family full of medical professionals, and this is one piece of advice they follow. A true second opinion is supposed to be a complete examination from scratch to search for what may be missed or to gain new perspective, but in today's world of overlapping appointments it is often just a quick confirmation.
+
+* Often a doctor is reluctant to counter another's diagnosis
+* If they think it is already resolved the don't look as hard
+* Second opinions are often seen by doctors as a quest for reassurance by the patient
+* doctors often react negatively to patients they perceive as questioning their profession's competence
+
+I was facing an amputation once, saw multiple doctors, same result. Went to another without telling him what I'd been told, a small overlooked detail allowed for a simpler treatment, and I kept the leg.
+
+**EDIT: I am not recommending having all tests repeated. just take the test results with you**
+
+url:https://reddit.com/r/LifeProTips/comments/2jz5fl/
+author:[deleted]
+subreddit:LifeProTips
+score:2839
+numComments:215
+isOver18:False
+hasPostBody:True

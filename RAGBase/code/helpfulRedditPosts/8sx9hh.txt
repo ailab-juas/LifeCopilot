@@ -1,0 +1,13 @@
+title:
+YSK that when driving on sand, deflate your tires by about half (depending on sand density) their rated PSI. This allows more tire to ride on top and will give you quite a bit more traction so you don't get stuck.
+
+content:
+Have fun out there!
+
+url:https://reddit.com/r/YouShouldKnow/comments/8sx9hh/
+author:xarzilla
+subreddit:YouShouldKnow
+score:4899
+numComments:235
+isOver18:False
+hasPostBody:True

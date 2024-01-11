@@ -1,0 +1,13 @@
+title:
+LPT: Before enacting a LifeProTip from a Redditor, check the replies for possible issues that may arise.
+
+content:
+I've noticed that a lot of seemingly helpful ideas are shot down because they create a much bigger separate issue.
+
+url:https://reddit.com/r/LifeProTips/comments/19mqdy/
+author:Missajeese
+subreddit:LifeProTips
+score:1119
+numComments:75
+isOver18:False
+hasPostBody:True

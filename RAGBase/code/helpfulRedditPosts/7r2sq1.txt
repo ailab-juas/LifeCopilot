@@ -1,0 +1,13 @@
+title:
+LPT: If you are having trouble beginning writing something, just throw anything down and then come back and edit it.
+
+content:
+As someone who writes for a living, I use this technique almost any time I write. If I begin obsessing over the best way to start this paragraph, or the perfect way to organize text, I can never get started. If I remember I can always come back and change this later or re-organize later, I can get started instantly. What I find, is that it is then way easier to come back and edit it. Somehow, editing seems to be way easier than writing!
+
+url:https://reddit.com/r/LifeProTips/comments/7r2sq1/
+author:touchedbyacat
+subreddit:LifeProTips
+score:1076
+numComments:44
+isOver18:False
+hasPostBody:True

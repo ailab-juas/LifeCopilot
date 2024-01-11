@@ -1,0 +1,13 @@
+title:
+LPT if you ever leave a voicemail for someone and regret it immediately, before hanging up, press the pound sign (aka #) and you'll be able to review, re-record, or delete the message.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/oirunc/
+author:chopsticks_overforks
+subreddit:LifeProTips
+score:3920
+numComments:100
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: If you want to build your relationships, create a ritual with your friends. Many relationships are built through proximity and regularity, and a weekly dinner, brunch, movie night, or the like, is a good way to cultivate these things.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/qb56yb/
+author:iiamuntuii
+subreddit:LifeProTips
+score:3278
+numComments:85
+isOver18:False
+hasPostBody:False

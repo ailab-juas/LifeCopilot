@@ -1,0 +1,13 @@
+title:
+LPT: Bring a Ethernet cable with you when you travel for work.
+
+content:
+For someone who travels once every few months, having an Ethernet cable helps. Ill be typing reports in the hotel when the hotel is fully booked and the wireless will go out or become to slow to be productive. 
+
+url:https://reddit.com/r/LifeProTips/comments/4vvsk2/
+author:jhleitner
+subreddit:LifeProTips
+score:3268
+numComments:528
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: In windows search "size:gigantic" and it will display all files on your computer &gt;128mb. Use this to clean up space on your hard drive.
+
+content:
+Ive got one of those 128gb SSD drives and im constantly cleaning up my HD. Just found out I had a random 7gb video file from when I was editing video.
+
+url:https://reddit.com/r/LifeProTips/comments/1g05tz/
+author:dontcommentonmyname
+subreddit:LifeProTips
+score:1075
+numComments:111
+isOver18:False
+hasPostBody:True

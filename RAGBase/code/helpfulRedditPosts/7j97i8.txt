@@ -1,0 +1,13 @@
+title:
+LPT Half a banana is roughly equivalent to an egg if you're baking cookies,cakes etc
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/7j97i8/
+author:sammyiwas
+subreddit:LifeProTips
+score:1209
+numComments:130
+isOver18:False
+hasPostBody:False

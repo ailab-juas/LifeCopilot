@@ -1,0 +1,13 @@
+title:
+YSK If you're passing a pedestrian on a bike not announcing your orientation puts you both at serious risk for injury.
+
+content:
+This happened to me 3 times today.  If you are on a bike trail, sidewalk or sharing any track with pedestrians you NEED to let them know you're coming.  They often can't hear you (especially over traffic) and often make adjustments for puddles, potholes or obstructions.  It's not just proper etiquite it's a serious safety issue.
+
+url:https://reddit.com/r/YouShouldKnow/comments/c0qmfc/
+author:LeaveOnYourLight
+subreddit:YouShouldKnow
+score:2034
+numComments:319
+isOver18:False
+hasPostBody:True

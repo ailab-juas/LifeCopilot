@@ -1,0 +1,21 @@
+title:
+LPT: if you have spare time in school/college, make picking up some basic programming your #1 priority
+
+content:
+You wouldn't believe the degree of IT illiteracy in the past generation or two, at least in people that don't primarily work in IT.
+
+After struggling for a year to find work in the field I studied for in college, I applied for an admin post on a whim and was accepted owing largely to an Excel project I'd made in my spare time leveraging scripting skills I'd picked up in IT class in highschool some 4 years prior.
+
+I now have a secure position equivalent to a manager's in my former job pay-wise, just over a year after uni, all largely thanks to the surprising amount of work you can automate with highschool-level programming.
+
+Doesn't matter the language, doesn't matter the field, just try your best to learn some basic scripting and automation, it has a disproportionately high chance, compared to required effort, to land you a job that could be the starting port for highly lucrative career.
+
+EDIT: A lot of useful advice on where and how to pick up programming basics in the comment. I'd like to clarify that this post is 1. about basic programming as in "simple, uncomplicated" programming, as opposed to Basic the programming language, and 2. A lot of people seem to have understood this as a "you should go into a programming career". I meant something quite different, which was that almost anyone who wants to go into a career that has an office/software/desk component can benefit a lot from having at least a grounding in how programming works and what a program/script is.
+
+url:https://reddit.com/r/LifeProTips/comments/r2jzaf/
+author:AncientSaladGod
+subreddit:LifeProTips
+score:9536
+numComments:502
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+YSK that some Black Friday products are lower quality items made just for the holiday. Always check model numbers!
+
+content:
+**Why YSK:** Black Friday is right around the corner so just a reminder that a lot of big companies produce derivative products (like TVs) just for Black Friday that are either not as high quality or have their features stripped down to make the sale worth it. It's not always a bad thing, sometimes you don't care about those features or just want a cheap TV. But if you do care, make sure to always check the model numbers!
+
+url:https://reddit.com/r/YouShouldKnow/comments/jwg4jg/
+author:livebythem
+subreddit:YouShouldKnow
+score:25909
+numComments:783
+isOver18:False
+hasPostBody:True

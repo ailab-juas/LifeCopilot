@@ -1,0 +1,15 @@
+title:
+LPT: When someone tells you you have done something wrong, take it in and analyze yourself instead of explaining why you did it or becoming defensive.
+
+content:
+Most likely you have done something wrong, and even if you hadn't, the other person thinks you have and that makes it real. At least to them.
+
+Simply apologizing and saying you won't do it in the future(even if you ARE right and the other person is in the wrong) will save you from more arguments than you can imagine.
+
+url:https://reddit.com/r/LifeProTips/comments/2ez42o/
+author:aaronis1
+subreddit:LifeProTips
+score:1807
+numComments:300
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,14 @@
+title:
+YSK about Ninite.com, a very useful website for installing or updating essential applications.
+
+content:
+http://ninite.com/
+All pc users should know about this website. It doesn't install toolbars or  any other junk programs and is especially handy if you have just reinstalled your operating system.
+
+url:https://reddit.com/r/YouShouldKnow/comments/1l98gq/
+author:Jungicider
+subreddit:YouShouldKnow
+score:1476
+numComments:163
+isOver18:False
+hasPostBody:True

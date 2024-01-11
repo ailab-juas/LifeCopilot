@@ -1,0 +1,13 @@
+title:
+[YSK] How to avoid the big screw-ups: Advice to a 20-year old from people twice his age.
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/11hgug/
+author:PeterCHayward
+subreddit:YouShouldKnow
+score:2046
+numComments:490
+isOver18:False
+hasPostBody:False

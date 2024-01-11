@@ -1,0 +1,13 @@
+title:
+YSK: When you get a scam email from "Paypal", simply forward it to spoof@paypal.com. It helps them stop scammers and prevent fraud. 
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/xu0u0/
+author:ch00f
+subreddit:YouShouldKnow
+score:1540
+numComments:69
+isOver18:False
+hasPostBody:False

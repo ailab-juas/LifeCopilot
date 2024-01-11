@@ -1,0 +1,13 @@
+title:
+YSK Flat head syndrome is occuring at epidemic proportions. Babies need tummy time.
+
+content:
+[https://www.contemporarypediatrics.com/pediatrics/pediatric-epidemic-deformational-plagiocephalybrachycephaly-and-congenital-muscular-torticollis](https://www.contemporarypediatrics.com/pediatrics/pediatric-epidemic-deformational-plagiocephalybrachycephaly-and-congenital-muscular-torticollis)
+
+url:https://reddit.com/r/YouShouldKnow/comments/awwors/
+author:dunn_with_this
+subreddit:YouShouldKnow
+score:3480
+numComments:346
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Repeat the name of the person when you meet someone for the first time. For example, "nice to meet you, Jobin". It is easier to remember the name once you say it.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1j371g/
+author:grex56
+subreddit:LifeProTips
+score:1772
+numComments:279
+isOver18:False
+hasPostBody:False

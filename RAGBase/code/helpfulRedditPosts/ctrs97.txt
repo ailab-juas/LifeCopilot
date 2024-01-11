@@ -1,0 +1,13 @@
+title:
+LPT: Put some cat litter in the bottom of your trash can before you put a liner or bag in, that way if a bag leaks the cat litter will help absorb the liquid making it much easier to deal with.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ctrs97/
+author:Darnnit
+subreddit:LifeProTips
+score:18073
+numComments:648
+isOver18:False
+hasPostBody:False

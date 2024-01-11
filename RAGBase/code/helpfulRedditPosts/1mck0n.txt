@@ -1,0 +1,16 @@
+title:
+YSK Merchants are not allowed to impose minimum purchase amounts when paying by debit card. You can report violators directly to Visa
+
+content:
+I get really annoyed when businesses have minimum charges to pay by card.  Visa's rules state that businesses are not allowed to do so for debit cards, and for credit cards there is a maximum minimum of $10.
+
+You can report businesses that violate here:
+https://usa.visa.com/checkoutfees/contact.jsp
+
+url:https://reddit.com/r/YouShouldKnow/comments/1mck0n/
+author:[deleted]
+subreddit:YouShouldKnow
+score:1771
+numComments:492
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+YSK: About the use of custom thumbnails in YouTube videos. This is a feature which is increasingly used by click-bait to deceive people.
+
+content:
+[Adding custom thumbnails](https://support.google.com/youtube/answer/72431?hl=en) was meant to be a tool for content producers to use a logo or a specific screen grab for the thumbnails but now it is used to disguise click-bait with pics not in the video.
+
+url:https://reddit.com/r/YouShouldKnow/comments/5ivxtk/
+author:ivebeenhereallsummer
+subreddit:YouShouldKnow
+score:1039
+numComments:112
+isOver18:False
+hasPostBody:True

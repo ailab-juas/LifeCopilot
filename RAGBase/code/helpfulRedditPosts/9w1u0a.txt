@@ -1,0 +1,15 @@
+title:
+YSK: you can remove the background from a picture using PowerPoint
+
+content:
+Just paste your picture in a slide and press format, and you will find an option to remove background in top right corner.
+
+This is useful because it is a software which is widely spread among students and removing background is quite a useful tool today when making school assignments or just having fun.
+
+url:https://reddit.com/r/YouShouldKnow/comments/9w1u0a/
+author:best_jerky
+subreddit:YouShouldKnow
+score:2109
+numComments:86
+isOver18:False
+hasPostBody:True

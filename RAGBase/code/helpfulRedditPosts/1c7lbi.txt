@@ -1,0 +1,13 @@
+title:
+LPT: Keep a folder in your work e-mail for the compliments/kudos you've received
+
+content:
+I find when I'm feeling unmotivated or stumped, I can look at these kudos and instantly feel better.
+
+url:https://reddit.com/r/LifeProTips/comments/1c7lbi/
+author:dailylotion
+subreddit:LifeProTips
+score:1816
+numComments:1068
+isOver18:False
+hasPostBody:True

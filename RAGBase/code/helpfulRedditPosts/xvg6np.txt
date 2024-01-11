@@ -1,0 +1,13 @@
+title:
+LPT: Assume all your work emails will get forwarded. Limit venting and complaining to a minimum, or at least do it in a tactful way. The corporate politics game is real
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/xvg6np/
+author:Jumping_Bear_
+subreddit:LifeProTips
+score:4800
+numComments:131
+isOver18:False
+hasPostBody:False

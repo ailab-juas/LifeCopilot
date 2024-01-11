@@ -1,0 +1,17 @@
+title:
+YSK Not to vacuum up mice droppings. It can give you (or anyone else around) Hantavirus.
+
+content:
+http://en.m.wikipedia.org/wiki/Hantavirus
+
+The virus is primarily spread by mice, and is contained in their droppings. Vacuuming the droppings aerosolizes the virions, making it possible for you to breathe them in and become infected. If you are, there is no treatment other than basic rest and fluids.
+
+Sweeping the droppings up with a dustpan or in just about any other careful manner makes this disease completely avoidable.
+
+url:https://reddit.com/r/YouShouldKnow/comments/22t1so/
+author:m0ntekarl01
+subreddit:YouShouldKnow
+score:1618
+numComments:176
+isOver18:False
+hasPostBody:True

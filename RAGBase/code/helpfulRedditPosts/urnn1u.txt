@@ -1,0 +1,13 @@
+title:
+LPT: If your vehicle has a built-in GPS and you plan to trade it in; make sure you clear your home address or any other personal info from it. Many dealers forget to do this.
+
+content:
+I just bought a vehicle recently and the gps still had the old owners address stores in there.   I'd hate to have a random person who bought my used vehicle find out where I live.
+
+url:https://reddit.com/r/LifeProTips/comments/urnn1u/
+author:Rowsdower32
+subreddit:LifeProTips
+score:36197
+numComments:1508
+isOver18:False
+hasPostBody:True

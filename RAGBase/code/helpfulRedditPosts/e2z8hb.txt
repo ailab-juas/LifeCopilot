@@ -1,0 +1,13 @@
+title:
+LPT: Stop reading food labels that tell you what isn't in the product ("No MSG", "Low Fat") and instead focus on the ingredient list that tells you what is in there. Beware of high sodium and high sugar (and the many synonyms manufacturers use to hide true sugar content), among many other things.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/e2z8hb/
+author:EricDNPA
+subreddit:LifeProTips
+score:10147
+numComments:506
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,17 @@
+title:
+YSK not to store a criminal's DNA material (hair/saliva/blood/cum) in plastic. DO STORE IT IN A PAPER BAG.
+
+content:
+ I just noticed a post on /r/legaladvice where OP mentioned that he was keeping some hairs and other DNA material in a ziplock bag. Some commenters advised the same thing.
+
+**DO NOT DO THIS**. When patients or clients I worked with suffered rape, sexual assault, or underage prostitution, police always made it very clear to keep things such as underwear or other stuff in a paper bag. 
+
+" **When transporting and storing** evidence that may contain **DNA**, it is **essential** to keep the evidence **dry and at room temperature**. Once the evidence has been secured in **paper bags or envelopes**, it should be sealed, labeled, and transported in a way that ensures proper identification of where it was found and proper chain of custody. **Never place evidence that may contain DNA in plastic bags** because plastic bags will retain damaging moisture. Direct sunlight and warmer conditions also may be harmful to DNA, so avoid keeping evidence in places that may get hot, such as a room or police car without air conditioning. For long-term storage issues, contact your local laboratory. "  [https://www.ncjrs.gov/nij/DNAbro/evi.html](https://www.ncjrs.gov/nij/DNAbro/evi.html)
+
+url:https://reddit.com/r/YouShouldKnow/comments/g6jo95/
+author:Maklo_Never_Forget
+subreddit:YouShouldKnow
+score:19910
+numComments:495
+isOver18:False
+hasPostBody:True

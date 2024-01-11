@@ -1,0 +1,13 @@
+title:
+LPT: If you're trying to improve, and you know you're gonna relapse, write a note to yourself saying why you shouldn't, and why you want to improve. Whenever you feel like you're gonna fall back, read the note.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/8mkwka/
+author:Igeticsu
+subreddit:LifeProTips
+score:21097
+numComments:414
+isOver18:False
+hasPostBody:False

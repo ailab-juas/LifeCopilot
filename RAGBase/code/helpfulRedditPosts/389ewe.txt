@@ -1,0 +1,13 @@
+title:
+YSK: If you call a company and they say they may record the call. Even if you are on hold and just listening to music, you are being recorded. So be careful what you say.
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/389ewe/
+author:deten
+subreddit:YouShouldKnow
+score:2108
+numComments:237
+isOver18:False
+hasPostBody:False

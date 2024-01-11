@@ -1,0 +1,13 @@
+title:
+YSK: The Non-American's Guide to American Football 
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/17te8n/
+author:Train22nowhere
+subreddit:YouShouldKnow
+score:1636
+numComments:234
+isOver18:False
+hasPostBody:False

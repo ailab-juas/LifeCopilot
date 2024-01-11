@@ -1,0 +1,15 @@
+title:
+YSK that people with ADHD can't often "just do it".
+
+content:
+ADHD is a neurodevelopmental disorder, meaning the ADHD brain works differently. People with ADHD lack the neurotransmitter **norepinephrine**. This makes them feel less accomplishment due to lack of mental arousal and alertness ([Read Here](https://www.additudemag.com/adhd-neuroscience-101/)).
+
+Why YSK: You most likely have ADHD relatives and this will help you understand them better, they aren't just lazy.
+
+url:https://reddit.com/r/YouShouldKnow/comments/iibeaq/
+author:scrubdzn
+subreddit:YouShouldKnow
+score:31225
+numComments:2651
+isOver18:False
+hasPostBody:True

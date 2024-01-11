@@ -1,0 +1,13 @@
+title:
+YSK what to do if you are a victim of rape. This includes NOT showering.
+
+content:
+http://www.911rape.org/getting-help/what-to-do-if-you-are-raped
+
+url:https://reddit.com/r/YouShouldKnow/comments/22fq7u/
+author:rutebega
+subreddit:YouShouldKnow
+score:2211
+numComments:439
+isOver18:False
+hasPostBody:True

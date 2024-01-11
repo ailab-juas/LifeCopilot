@@ -1,0 +1,13 @@
+title:
+If you feel like eating something but know that your body doesn't need food, try brushing your teeth!
+
+content:
+A lot of times you will lose that feeling and save your body from calories it doesn't need.
+
+url:https://reddit.com/r/LifeProTips/comments/15ppoo/
+author:BorriMorri
+subreddit:LifeProTips
+score:1094
+numComments:164
+isOver18:False
+hasPostBody:True

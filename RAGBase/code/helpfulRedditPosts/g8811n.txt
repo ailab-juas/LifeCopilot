@@ -1,0 +1,19 @@
+title:
+YSK that MoMA is putting their exhibitions online for free
+
+content:
+The Museum of Modern Art in New York City is gradually putting together online versions of their exhibitions which anyone can explore for free. They can be found [here](https://www.moma.org/calendar/exhibitions), including their exhibition on Donald Judd which was put up this past Thursday. Saying this, I had in fact been planning a trip to see “Judd,” so this was great to see!
+
+Edit: thanks to u/adamzugunruhe for the comment, MoMA also has free courses through Coursera at [https://www.coursera.org/moma](https://www.coursera.org/moma) as well as materials at [MoMA Learning](https://www.moma.org/learn/moma_learning/). You can support MoMA by donating or becoming a member [here](https://www.moma.org/support/donate/).
+
+Edit 2: if modern art isn’t your thing, the Met has a series of 360° videos of their galleries [here](https://www.metmuseum.org/art/online-features/met-360-project) and “primers” of their exhibitions [here](https://www.metmuseum.org/primer).
+
+Also, many museums including the British Museum, the National Gallery of Art and the Museum of Fine Arts Boston are putting up past and current exhibitions and virtual tours on [Google Arts &amp; Culture](https://artsandculture.google.com).
+
+url:https://reddit.com/r/YouShouldKnow/comments/g8811n/
+author:duineAduain
+subreddit:YouShouldKnow
+score:8197
+numComments:61
+isOver18:False
+hasPostBody:True

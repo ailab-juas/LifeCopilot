@@ -1,0 +1,13 @@
+title:
+LPT we all know about CTRL + C, CTRL + V. But how about WIN + V instead of CTRL + V. It brings up the clippboard and lets you paste anything that has been copied previously. Super useful when copypasting different stuff multiple times.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/lo5eby/
+author:Twotificnick
+subreddit:LifeProTips
+score:63238
+numComments:1463
+isOver18:False
+hasPostBody:False

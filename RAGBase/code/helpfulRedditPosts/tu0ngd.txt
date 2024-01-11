@@ -1,0 +1,13 @@
+title:
+LPT: If you see a sign warning of pickpockets operating in the area you’re in, DO NOT check your pockets immediately.
+
+content:
+These signs are typical in busy areas, train stations in the UK for example. Pick pocketers are known to operate by these signs, as when the general public pass by, its common for them to reach down to pockets in items of clothing to check they havnt been robbed. In turn showing potential theives exactly where your valuable items are located in your outfit.
+
+url:https://reddit.com/r/LifeProTips/comments/tu0ngd/
+author:TomEd170
+subreddit:LifeProTips
+score:23794
+numComments:1166
+isOver18:False
+hasPostBody:True

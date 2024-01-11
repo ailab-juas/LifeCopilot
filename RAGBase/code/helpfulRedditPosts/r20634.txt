@@ -1,0 +1,21 @@
+title:
+YSK that the average reading age in the US is that is that of a 13 year old, so when writing something for mass communication you should keep your language clear, simple, and unambiguous
+
+content:
+So firstly I need to say a couple of things.
+
+I'm not picking on the US, it's just the majority of people on Reddit are from there. I'm from the UK and our reading age is lower at 9 years, so it's not a dunk.
+
+Secondly some people try to link reading age to intelligence which just isn't the case. People with a low reading age can be very intelligent. There are many difficulties that people struggle with that can impair their reading age, but doesn't affect how intelligent they are.
+
+Why YSK: If you want to get your message across to the widest number of people you *have* to use simple language, you can't assume everyone has the same vocabulary.
+
+Being overtly and overly sesquipedalian can make you seem churlish, and alienate your audience. 😜
+
+url:https://reddit.com/r/YouShouldKnow/comments/r20634/
+author:CaptainI9C3G6
+subreddit:YouShouldKnow
+score:14013
+numComments:588
+isOver18:False
+hasPostBody:True

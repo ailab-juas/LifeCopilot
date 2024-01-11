@@ -1,0 +1,13 @@
+title:
+LPT: When camping, strap a head lamp to a gallon jug of water to fill the entire tent with ambient light.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/savv7/
+author:nickskater09
+subreddit:LifeProTips
+score:5379
+numComments:325
+isOver18:False
+hasPostBody:False

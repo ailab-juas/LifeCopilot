@@ -1,0 +1,13 @@
+title:
+LPT: If you're taking your animal to the vet for an ailment, get video of them coughing, breathing strangely, limping, etc. Animals may not show the ailment at the vet's office and the video can help the vet diagnose your furry friend.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/pc1w29/
+author:caturGHteRInAp
+subreddit:LifeProTips
+score:27564
+numComments:281
+isOver18:False
+hasPostBody:False

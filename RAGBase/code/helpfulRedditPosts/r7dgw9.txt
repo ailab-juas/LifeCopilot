@@ -1,0 +1,13 @@
+title:
+LPT: If buying a new Windows computer this holiday for yourself or someone else, do NOT pay extra for the Windows 11 version of the exact same device.
+
+content:
+Just bought my son his first gaming laptop. When checking out, there was the Windows 11 version of the exact same device for about $100 more. I declined, for a few reasons, and chose the Windows 10 version. As I'm setting up the computer for the first time it offers me the ability to upgrade it to Windows 11 for free anyway. So, even if you want to use Windows 11, buy the Windows 10 version and upgrade for free.
+
+url:https://reddit.com/r/LifeProTips/comments/r7dgw9/
+author:soandso90
+subreddit:LifeProTips
+score:27410
+numComments:971
+isOver18:False
+hasPostBody:True

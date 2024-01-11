@@ -1,0 +1,13 @@
+title:
+YSK most museums in London are completely free.
+
+content:
+London is an expensive city to visit and tourist traps can be a drain on your holiday budget. However a most of the best museums are completely free. Please see this list https://www.visitlondon.com/things-to-do/sightseeing/london-attraction/museum/free-museums-in-london
+
+url:https://reddit.com/r/YouShouldKnow/comments/eqiuii/
+author:jbuk02
+subreddit:YouShouldKnow
+score:16404
+numComments:601
+isOver18:False
+hasPostBody:True

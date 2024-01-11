@@ -1,0 +1,13 @@
+title:
+LPT: You can almost always remove "just" or "really" from a sentence to achieve a stronger meaning.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/gqcjmq/
+author:zeamp
+subreddit:LifeProTips
+score:36940
+numComments:1779
+isOver18:False
+hasPostBody:False

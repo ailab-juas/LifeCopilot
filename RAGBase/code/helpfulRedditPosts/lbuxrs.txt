@@ -1,0 +1,23 @@
+title:
+YSK: when applying to companies abroad, adapt the information in your application to an international context (including adding country phone codes)
+
+content:
+When applying to a company abroad, make sure that the information you present is understandable for someone from that country.
+
+This includes:
+* Adding the country codes to your phone number (+1 for US)
+* Adding the country to places you worked / studied instead of only states
+* Adding the country / city where you're living
+* Not using abbreviations that may not be understood from someone with a different background
+
+Why YSK? Not doing this hinders your chance of getting that job because it makes it more difficult for the company to understand your application. Also, it makes you look like you either lack intercultural competence which  companies hiring international applicants will most likely care about and/or indicate that you aren't aware that the job you just applied to is not in your home country and you didn't care to look it up, which almost every company will care about. 
+
+Source: I'm a hiring manager at a European company and every application from US Americans I have received recently makes this mistake (seems to be a uniquely American thing but it's of course still applicable for others as well). The first time I received an application with a phone code of (321) or something I was wondering what country code this was until I figured out it's from the US.
+
+url:https://reddit.com/r/YouShouldKnow/comments/lbuxrs/
+author:IMakeFriendsWithCake
+subreddit:YouShouldKnow
+score:11896
+numComments:237
+isOver18:False
+hasPostBody:True

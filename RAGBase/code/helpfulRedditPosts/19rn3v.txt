@@ -1,0 +1,13 @@
+title:
+LPT: If you're sick of seeing yellow underarm stains on your white t-shirts, switch to a deodorant that does not contain aluminium.
+
+content:
+Just look at the ingredient list of your deodorant next time you are at the drugstore and if you see aluminium listed, consider switching to a new one. These stains are not only embarrassing, but a bitch to remove.
+
+url:https://reddit.com/r/LifeProTips/comments/19rn3v/
+author:indorock
+subreddit:LifeProTips
+score:2017
+numComments:491
+isOver18:False
+hasPostBody:True

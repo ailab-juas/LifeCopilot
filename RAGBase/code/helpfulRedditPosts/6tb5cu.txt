@@ -1,0 +1,17 @@
+title:
+LPT: Browse AirBnb prices including hidden charges by using AirBnB Australia, regardless of your country.
+
+content:
+You can view AirBnB prices **including** all service fees, cleaning fees and any other hidden charges when browsing using [AirBnB Australia](https://www.airbnb.com.au).
+
+You can still view the site in any language and currency (and purchase in that currency) by selecting the currency and language from the menu at the bottom of the page.
+
+Apparently, this is because of a lawsuit against AirBnB by the Australian government about drip pricing - see [here](https://en.m.wikipedia.org/wiki/Airbnb#Pricing_transparency). Turns out it's super useful for the rest of us!
+
+url:https://reddit.com/r/LifeProTips/comments/6tb5cu/
+author:ruskind
+subreddit:LifeProTips
+score:1499
+numComments:23
+isOver18:False
+hasPostBody:True

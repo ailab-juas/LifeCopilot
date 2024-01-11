@@ -1,0 +1,13 @@
+title:
+LPT: When unmotivated, commit to doing 5 small tasks (I.e. put something away) every 30 minutes. If you do only those five, you've still accomplished something... but often you'll get in a groove and do even more.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/6vuoln/
+author:Brosephene_
+subreddit:LifeProTips
+score:5131
+numComments:91
+isOver18:False
+hasPostBody:False

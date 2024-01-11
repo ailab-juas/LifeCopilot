@@ -1,0 +1,13 @@
+title:
+LPT: Bring a pencil sharpener with you when going camping. It can be used to shave twigs into tinder and quickly start your campfire.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/i3whht/
+author:kinggobhead
+subreddit:LifeProTips
+score:1165
+numComments:152
+isOver18:False
+hasPostBody:False

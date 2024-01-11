@@ -1,0 +1,13 @@
+title:
+YSK: Most online recipes have a "Jump to Recipe" button.
+
+content:
+Why YSK: I always hear people complaining about having to read the cook's life story to find out how to make pancakes, but the button is usually hidden under the title/subtitle. It'll send you right to the simple for printing recipe without having to scroll all the way through the site.
+
+url:https://reddit.com/r/YouShouldKnow/comments/k0lgc1/
+author:Potential_Crisis
+subreddit:YouShouldKnow
+score:2386
+numComments:43
+isOver18:False
+hasPostBody:True

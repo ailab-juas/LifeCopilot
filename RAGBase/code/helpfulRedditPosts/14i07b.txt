@@ -1,0 +1,21 @@
+title:
+LPT: If you have trouble swallowing large pills/tablets, drink through a straw.
+
+content:
+&gt;A survey conducted by Harris Interactive revealed that 40% of American adults have experienced difficulty at one time or another with swallowing pills, even if they have had no problems swallowing food.
+
+Drinking through a straw makes the whole process so much easier. There's something about the suction that helps, the pill just disappears pretty much instantly (most of the time you don't even notice it passing).
+
+For clarification since there seems to be comments about pills inside straws...
+
+1. Put the pill on the middle/back of your tongue.
+2. Then take a small straw bended at 90 degrees (either from a juice carton, in water or whatever beverage).
+3. Drink. The sucking effect is like creating a tunnel in your mouth with the straw acting as a concentrated hose of sorts. Pushes it down easily.
+
+url:https://reddit.com/r/LifeProTips/comments/14i07b/
+author:[deleted]
+subreddit:LifeProTips
+score:1243
+numComments:234
+isOver18:False
+hasPostBody:True

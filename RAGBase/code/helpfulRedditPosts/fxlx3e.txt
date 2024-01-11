@@ -1,0 +1,15 @@
+title:
+YSK that most ceiling fans have a switch that reverses the rotation of the blades, creating a balanced airflow throughout your room, especially useful in colder seasons.
+
+content:
+'In the winter you want to turn the switch and have the fan run clockwise. This way instead of pushing air down, it pulls it up and pushes it against ceiling before it recirculates down the walls.' This creates a warming effect.
+
+[https://www.survivesummer.com/heres-what-that-switch-on-your-ceiling-fan-does-and-why-you-should-use-it/](https://www.survivesummer.com/heres-what-that-switch-on-your-ceiling-fan-does-and-why-you-should-use-it/)
+
+url:https://reddit.com/r/YouShouldKnow/comments/fxlx3e/
+author:heterotard
+subreddit:YouShouldKnow
+score:6503
+numComments:199
+isOver18:False
+hasPostBody:True

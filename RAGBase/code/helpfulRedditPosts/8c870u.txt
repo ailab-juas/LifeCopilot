@@ -1,0 +1,13 @@
+title:
+LPT: When potty training your dog, hang a bell from the door and ring it right before you take it outside. This will make the dog associate the bell with potty breaks so it will start ringing the bell when it needs to go, alerting you to let it out.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/8c870u/
+author:Thegingerkid01
+subreddit:LifeProTips
+score:6898
+numComments:287
+isOver18:False
+hasPostBody:False

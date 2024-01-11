@@ -1,0 +1,13 @@
+title:
+YSK that Glass Cleaners with Vinegar are for Water Spots. Glass Cleaners with Ammonia are for Grease and Fingerprints.
+
+content:
+Glass Cleaners usually come in two formulations vinegar and ammonia. Most folks don't know which formulation to buy. If you have hard water - ie your water leaves white mineral scales on the glass when it dries you should buy vinegar based glass cleaner. If you are trying to clean grease, finger prints you should use ammonia glass cleaner.  The science is that Vinegar is an acid that dissolves minerals, and Ammonia is a base that dissolves oils, fats and grease. Thought YSK!
+
+url:https://reddit.com/r/YouShouldKnow/comments/8gf6w8/
+author:Riptide360
+subreddit:YouShouldKnow
+score:1373
+numComments:30
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: If someone begins unloading their thoughts about a stressful situation they are having, ask them to clarify if they are just venting or if they looking for advice. Sometimes people just need someone to listen and aren't necessarily ready to explore potentially difficult truths.
+
+content:
+Knowing the parameters of the conversation may save both of you your sanity.
+
+url:https://reddit.com/r/LifeProTips/comments/kapoce/
+author:AndyP8
+subreddit:LifeProTips
+score:21358
+numComments:382
+isOver18:False
+hasPostBody:True

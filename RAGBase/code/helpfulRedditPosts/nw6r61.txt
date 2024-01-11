@@ -1,0 +1,15 @@
+title:
+LPT: If someone keeps delegating their tasks to you at work because they are being lazy, don't say no. Instead say something like "I have a priority that I need to do for (manager). Let me get approval from (manager) if this can be added to my list."
+
+content:
+We all encounter that lazy person at work who tries to delegate their tasks to others. The worse part is they take credit for work they didnt do. If you want them to stop, just talor the conversation to make a point that you have other priorities, but before you take on additionak tasks,  say that you need management's approvel to add "their task" to your list of priorities. If they are shady and know they are taking advantage of you, most often than not, this will get them to back off. 
+
+If they keep insisting, tell your management. Say "Chad is asking me to do this, but I have these priorities that I need to complete for you. He insist I add his task to the list but to do that, I need to re-prioritize the work I'm doing for you. Which one of "these tasks" would you like me to drop for his?"  This sets a tone that you are willing to help but you have to sacrifice one of your management's priorities to help Chad. This will lead management to have a conversation with Chad. Most likely he will never ask you again and start looking for a new victim.
+
+url:https://reddit.com/r/LifeProTips/comments/nw6r61/
+author:doxx_mcknot
+subreddit:LifeProTips
+score:18748
+numComments:382
+isOver18:False
+hasPostBody:True

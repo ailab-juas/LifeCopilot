@@ -1,0 +1,21 @@
+title:
+LPT: Replace "but" with "however", "although", or even just a pause so your listener avoids negating the first part of your sentence.
+
+content:
+When people hear "but" they automatically negate the first part of your sentence. This is why many people say "I'm sorry,but..." Isn't a real apology -- because whatever the second part of the sentence is trumps the sorry.
+
+I've found its especially useful when you're trying to avoid being accusatory or when you're trying to bring up an issue without putting the other person on the defense because the pause required to replace the "but" will also make you consider how to phrase the rest of your thought better.
+
+Person: You handled that customer well, but you can't be so blunt. 
+
+------
+
+Other person: you handled that customer well. However, next time you can try telling them in a kinder way.
+
+url:https://reddit.com/r/LifeProTips/comments/3g0at3/
+author:staycandid
+subreddit:LifeProTips
+score:4913
+numComments:624
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,22 @@
+title:
+LPT: Learn to coil cables correctly
+
+content:
+Coiling cable, most people think nothing of it. They look at me like I'm insulting them if I ask them if they know how to coil that mic cable they're holding. Then, they proceed to either wrap it around their forearm or quickly wind it around their hand. Both ways stretch the cable and twist it over and over again.
+
+The proper way to do this is called over-under wrapping. Learn it. Use it. Your cables will last longer and uncoil easily. In fact, when well coiled, a 100-foot cable can be thrown across the room and land in a straight line, without tangles.
+
+Here's a nice how-to from Wired:
+http://www.wired.com/gadgetlab/2013/08/tnhyut-coil-cable/
+
+----
+
+*Edit:* For those of you about to try this on old cables or garden hoses, make sure you drag it out straight and get all the kinks and twists out. It'll make it easier to tame. Also, play around with it and notice how twisting the cable left or right changes the way it "wants" to coil. Enjoy!
+
+url:https://reddit.com/r/LifeProTips/comments/1xtzxe/
+author:musicin3d
+subreddit:LifeProTips
+score:2959
+numComments:281
+isOver18:False
+hasPostBody:True

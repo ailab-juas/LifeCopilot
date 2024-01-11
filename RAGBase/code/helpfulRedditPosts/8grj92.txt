@@ -1,0 +1,13 @@
+title:
+YSK you can bypass Business Insider's adblock popup by Entering Reader Mode in Firefox
+
+content:
+So that you can read articles on their site without disabling your ad-blocking software. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/8grj92/
+author:urabusPenguin
+subreddit:YouShouldKnow
+score:1919
+numComments:56
+isOver18:False
+hasPostBody:True

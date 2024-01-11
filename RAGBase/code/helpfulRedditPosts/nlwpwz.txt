@@ -1,0 +1,15 @@
+title:
+LPT: In this online world, we all greatly rely on product reviews. When leaving a review for a product, please actually review the product itself and not how it was smashed during shipping or how you didn’t like the checkout process.
+
+content:
+ie: If you buy a speaker and it’s damaged during shipping, email customer service about the damage, or go review the shipping company who damaged it. If you don’t like the company’s checkout process, then go online and review the actual company itself. 
+
+It is not the random speaker’s fault and we are all sick of sifting through “complaints” vs actual “reviews”
+
+url:https://reddit.com/r/LifeProTips/comments/nlwpwz/
+author:-You-know-it-
+subreddit:LifeProTips
+score:31133
+numComments:952
+isOver18:False
+hasPostBody:True

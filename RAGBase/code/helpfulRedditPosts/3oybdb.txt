@@ -1,0 +1,13 @@
+title:
+LPT: The secret to confidence is that there is no secret. You start by faking it.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/3oybdb/
+author:anant_mall
+subreddit:LifeProTips
+score:4807
+numComments:1373
+isOver18:False
+hasPostBody:False

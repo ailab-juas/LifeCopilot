@@ -1,0 +1,13 @@
+title:
+LPT: Use the in store demo computers at Best Buy to price check on Newegg, they will match the price
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1ueud0/
+author:balancespec2
+subreddit:LifeProTips
+score:1694
+numComments:296
+isOver18:False
+hasPostBody:False

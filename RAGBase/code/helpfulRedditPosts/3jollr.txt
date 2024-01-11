@@ -1,0 +1,13 @@
+title:
+LPT: college students, check RateMyProfessor before tests and read what other students say about the most efficient ways to study for the exams are specific to that professor's course.
+
+content:
+I often check before the semester begins to see the ratings and briefly read the reviews, but when the semester starts and I am already enrolled, I rarely check it again. Until I realized that it had very useable study suggestions specific to that exact teacher (ex. study powerpoint slides, go over handouts, do the practice problems etc.)
+
+url:https://reddit.com/r/LifeProTips/comments/3jollr/
+author:carmeron
+subreddit:LifeProTips
+score:2502
+numComments:283
+isOver18:False
+hasPostBody:True

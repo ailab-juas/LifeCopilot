@@ -1,0 +1,13 @@
+title:
+YSK that archive.org has millions of books available for free, many of which are hard to find elsewhere on the internet
+
+content:
+Why YSK: if you're doing homework, research, etc. and you are asked to consult a specific book which you don't possess, can't buy (either bc it's expensive or bc it's an old edition) and can't go to a library or get it another way, you can search there, and you may find it. For online class i was asked to cite an article of my country's civil code which was derogated, and no pdf had those articles, but i was able to find a version from the 1930s there. I've also found a couple textbooks which i needed for brief research.
+
+url:https://reddit.com/r/YouShouldKnow/comments/iwp8y5/
+author:dumbassdoor
+subreddit:YouShouldKnow
+score:33454
+numComments:243
+isOver18:False
+hasPostBody:True

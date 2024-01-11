@@ -1,0 +1,13 @@
+title:
+YSK That the Facebook Privacy status that's currently trending is a scam; it has no affect on either Facebook or your privacy.
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/13sz8f/
+author:RyanMakesMovies
+subreddit:YouShouldKnow
+score:1239
+numComments:85
+isOver18:False
+hasPostBody:False

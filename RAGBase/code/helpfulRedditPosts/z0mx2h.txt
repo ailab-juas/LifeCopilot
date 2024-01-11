@@ -1,0 +1,21 @@
+title:
+YSK that you can now renew your US passport online
+
+content:
+Why YSK: Saves you time and a trip to the post office.
+
+Simply upload details, upload passport photo, pay via credit card or ACH transfer. Keep the old passport and photo. Apparently the US State department had did beta testing this summer and it was closed in October. System just opened up again this afternoon.
+
+I was actually working on my *Renew by Mail* but went back to the website to check again and there it was...a message that its opened up again for new registration.
+
+Note: after you sign up, it does take some time for your account to be activated. Then you get an email that its activated and then after logging into the website, you see the option to *Renew Passport Online*. Website is [MyTravelGov](https://caauthservice.state.gov). Getting the account activated took half a day but the renewal process took about 5 mins start to finish.
+
+More info here [Renew my Passport Online](https://travel.state.gov/content/travel/en/passports/have-passport/renew-online.html)
+
+url:https://reddit.com/r/YouShouldKnow/comments/z0mx2h/
+author:abdhjops
+subreddit:YouShouldKnow
+score:4761
+numComments:174
+isOver18:False
+hasPostBody:True

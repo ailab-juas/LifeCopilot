@@ -1,0 +1,15 @@
+title:
+LPT: Confirmation bias is real for everyone. Be aware of your own bias and seek your news from more neutral sources. Your daily stress and anxiety levels will drop a lot.
+
+content:
+I used to criticize my in-laws for only getting their news from Fox News. Then I realized that although I read news from several sources, most were left leaning. I have since downloaded AP and Reuter’s apps and now use them for news (no more reddit news) and my anxiety and stress levels have dropped significantly.
+
+Take a look at where you get your news and make sure it is a neutral source, not one that reinforces your existing biases.
+
+url:https://reddit.com/r/LifeProTips/comments/io7gc3/
+author:hoesindifareacodes
+subreddit:LifeProTips
+score:55351
+numComments:2624
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,19 @@
+title:
+YSK: If you find a co-worker to be completely wrong about something especially in a meeting or work situation, it’s better to make yourself the point of reference
+
+content:
+For example,
+
+* **Bad**- "I think you have got it completely wrong!!!!!"
+
+* **Better**- "I don’t think I understood it correctly. From what I understand, it says this _____. Am I wrong on this point?"
+
+(x-post /r/PsychologicalTricks)
+
+url:https://reddit.com/r/YouShouldKnow/comments/31nmlv/
+author:arijitdas
+subreddit:YouShouldKnow
+score:1709
+numComments:186
+isOver18:False
+hasPostBody:True

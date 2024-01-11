@@ -1,0 +1,13 @@
+title:
+LPT: Google basic things you “already know how to do” Often you’ll find a better way than what you “already knew”
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/urg840/
+author:tjmaxal
+subreddit:LifeProTips
+score:2342
+numComments:116
+isOver18:False
+hasPostBody:False

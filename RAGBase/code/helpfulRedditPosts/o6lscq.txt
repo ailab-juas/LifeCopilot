@@ -1,0 +1,13 @@
+title:
+YSK: Every Car Built from 2018 Onwards is REQUIRED to Have a Backup Camera -- It is not an extra feature
+
+content:
+Why YSK: Since May 2018, all newly-built cars sold in the United States are required to have a backup camera and video display for the camera. Many car dealers, both used and new, will advertise the backup camera as some kind of added luxury or special option and try to charge you more for it. Don't bite the bait and understand that it is 100% a legal mandate to have it, like seat belts or air bags.
+
+url:https://reddit.com/r/YouShouldKnow/comments/o6lscq/
+author:themikesem
+subreddit:YouShouldKnow
+score:57613
+numComments:2061
+isOver18:False
+hasPostBody:True

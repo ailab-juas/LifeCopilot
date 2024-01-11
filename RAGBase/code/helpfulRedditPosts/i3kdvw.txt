@@ -1,0 +1,13 @@
+title:
+YSK If one of the turn signal lights on your dash is blinking twice as fast as normal, one of your turn signal bulbs is burned out or malfunctioning.
+
+content:
+Just like the title says, if you notice that the icon on your dash is blinking twice as fast as normal when you try your turn signal, take a quick visual inspection of your taillights and your from turn signal bulb, because you are sure to have a burnt out or malfunctioning bulb.
+
+url:https://reddit.com/r/YouShouldKnow/comments/i3kdvw/
+author:DiosMioMan2
+subreddit:YouShouldKnow
+score:1069
+numComments:39
+isOver18:False
+hasPostBody:True

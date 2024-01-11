@@ -1,0 +1,23 @@
+title:
+YSK that you should always look at your poop before you flush.
+
+content:
+Why YSK: I know, it's nasty and it smells and you just wanna see it gone, but even a person with no medical training at all can easily notice some early signs of very serious health problems by just taking a second to look at their own poop.
+
+Certain unusual smells, consistencies and most importantly colors can be strong indicators that something is off, the most outstanding ones being if your poo is red or black.
+
+Both these colors usually indicate strong bleeding in the digestive system, black poo indicates a bleeding in the upper part of the digestive system while red is a bleeding in the final part. The difference in color is due to the fact that if the bleeding happens higher up the blood gets digested before ending up in your poop, getting a very peculiar blackish color, a jelly like consistency and a very strong horrible smell, while in rectal bleeding the blood wont have the time to be digested and will stay a vivid red, mostly liquid and won't smell that strongly.
+
+In both these cases, if you know you are actively pooping blood, you should immediately go to the hospital.
+
+GI (gastrointestinal) bleedings can be very dangerous on their own, and can also be strong indicators of other illnesses, such as Crohn disease, diverticulitis and intestinal cancer.
+
+[A nice read about this topic.](https://www.medicinenet.com/stool_color_changes/article.htm#what_does_it_mean_when_your_stool_color_changes_in_color_texture_or_form)
+
+url:https://reddit.com/r/YouShouldKnow/comments/pqqi3y/
+author:TheFfrog
+subreddit:YouShouldKnow
+score:1844
+numComments:221
+isOver18:False
+hasPostBody:True

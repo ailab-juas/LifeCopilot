@@ -1,0 +1,13 @@
+title:
+LPT: Always apply with a PDF of your resume when applying for jobs.
+
+content:
+Never use a word document or another format. Always use a PDF.
+
+url:https://reddit.com/r/LifeProTips/comments/tj3jdj/
+author:gillygal
+subreddit:LifeProTips
+score:1253
+numComments:156
+isOver18:False
+hasPostBody:True

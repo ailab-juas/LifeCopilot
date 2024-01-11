@@ -1,0 +1,14 @@
+title:
+LPT: Take clear photos of important receipts after purchasing
+
+content:
+This means that you don't have to keep track of every different receipt, you can simply create an album and name the photos.  
+It also means that you do not have to worry about the physical receipts fading after a period of time
+
+url:https://reddit.com/r/LifeProTips/comments/6eei32/
+author:ColdBeersies
+subreddit:LifeProTips
+score:1838
+numComments:161
+isOver18:False
+hasPostBody:True

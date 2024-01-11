@@ -1,0 +1,13 @@
+title:
+LPT: If you need to calculate the monthly cost of weekly payments, multiply by 4.345, don't fall into the 4 weeks month trap.
+
+content:
+Also, a year is 52.1429 weeks not 52, but here the difference is not as important, so don't worry as much about it. (I wrote cost but it could be revenue or anything else! Back story in the comments)
+
+url:https://reddit.com/r/LifeProTips/comments/mtum14/
+author:21km
+subreddit:LifeProTips
+score:34102
+numComments:785
+isOver18:False
+hasPostBody:True

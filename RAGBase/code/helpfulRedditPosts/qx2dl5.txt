@@ -1,0 +1,13 @@
+title:
+LPT: If you're trying to delete your data with a company and they ever ask what region you're in, the correct answer is always California
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/qx2dl5/
+author:SuperiorOnions
+subreddit:LifeProTips
+score:42804
+numComments:844
+isOver18:False
+hasPostBody:False

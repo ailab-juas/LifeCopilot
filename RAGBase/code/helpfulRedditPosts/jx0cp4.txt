@@ -1,0 +1,13 @@
+title:
+LPT: If your online lectures/meetings are being recorded for later use, start a timer at the beginning of the lecture/meeting and write down the timecode in your notes when something important is said or explained. It makes online studying a lot easier!
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/jx0cp4/
+author:smikelmix
+subreddit:LifeProTips
+score:5120
+numComments:61
+isOver18:False
+hasPostBody:False

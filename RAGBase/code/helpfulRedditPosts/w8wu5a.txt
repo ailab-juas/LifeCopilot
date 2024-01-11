@@ -1,0 +1,17 @@
+title:
+YSK: you can get internet in the USA under 30 bucks or free if you make less than $18,647 per year by going to https://www.whitehouse.gov/getinternet/?utm_source=getinternet.gov
+
+content:
+Why YSK is because I just helped my little brother get it because he is disabled. He was paying over $100 a month for 25 mbps and now he is getting 100mbps for 29.99 a month. He lives in farm country so no high speed is available but this is way better for way less. When you are poor, every little bit helps. Especially now with the inflation and gas prices.
+
+Added: thank you to all those that added links to other programs or posted alternate methods! It’s nice to have other pitch in!
+
+Added: www.getinternet.gov
+
+url:https://reddit.com/r/YouShouldKnow/comments/w8wu5a/
+author:mrsmith2929
+subreddit:YouShouldKnow
+score:19526
+numComments:601
+isOver18:False
+hasPostBody:True

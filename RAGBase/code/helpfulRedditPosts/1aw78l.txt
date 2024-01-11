@@ -1,0 +1,13 @@
+title:
+LPT: Pressing the Windows button and the "D" key will minimize all windows and pause any sounds on your computer.
+
+content:
+If ever your parents are about to walk in on you watching Netflix past your bedtime (or other weird things), hold the windows and D key to minimize everything and it goes right to your desktop.
+
+url:https://reddit.com/r/LifeProTips/comments/1aw78l/
+author:[deleted]
+subreddit:LifeProTips
+score:1288
+numComments:407
+isOver18:False
+hasPostBody:True

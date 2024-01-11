@@ -1,0 +1,13 @@
+title:
+LPT: When you find a clothing item that you really like and fits you very well, buy a few more. Eventually the original will wear down/lose shape and it’ll be hard to find a replacement.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/o0i7md/
+author:foam_loaves
+subreddit:LifeProTips
+score:4907
+numComments:195
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: Always remember you are an asset to the company you work for. Nothing more nothing less. Never a part of the family!
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/t7gzza/
+author:saberprophecy
+subreddit:LifeProTips
+score:1265
+numComments:98
+isOver18:False
+hasPostBody:False

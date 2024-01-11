@@ -1,0 +1,17 @@
+title:
+YSK: NY Department of Labor is providing unemployed New Yorkers with FREE access to Coursera.org online training programs.
+
+content:
+Why YSK: Coursera is a leading online training provider where you can gain skills and certifications to help advance your career. New York State has partnered with Coursera to provide New Yorkers with full access for free. This is a great way to build and hone skills to add to your resume. The link below will walk you through requesting free access.
+
+https://dol.ny.gov/online-learning-coursera
+
+Edit: Wow a lot of people saw this. Hopefully it's useful for those that decide to try it.
+
+url:https://reddit.com/r/YouShouldKnow/comments/w9hlop/
+author:Flaccidspasm
+subreddit:YouShouldKnow
+score:6241
+numComments:64
+isOver18:False
+hasPostBody:True

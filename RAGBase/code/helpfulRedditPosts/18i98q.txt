@@ -1,0 +1,13 @@
+title:
+YSK about the yellow dog project
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/18i98q/
+author:[deleted]
+subreddit:YouShouldKnow
+score:3963
+numComments:479
+isOver18:False
+hasPostBody:False

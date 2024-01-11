@@ -1,0 +1,13 @@
+title:
+LPT: If you set an alarm to remember to do something (arm home alarm system, defrost dinner, etc) hit snooze until the task is actually complete, in case you get sidetracked
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/y0fcmk/
+author:Spence10873
+subreddit:LifeProTips
+score:3142
+numComments:62
+isOver18:False
+hasPostBody:False

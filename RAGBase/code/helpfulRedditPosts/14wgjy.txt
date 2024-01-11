@@ -1,0 +1,17 @@
+title:
+LPT: If you are ever caught in a structure fire - some don't / do's.
+
+content:
+If you are in a room with the door closed and the fire is "somewhere else" in the structure (i.e., you were asleep in the bedroom and the fire started in the living room), before you open your door, feel for heat with the back of your hand in a sweeping motion. If its hot, you'll know the fire is just outside your room, and by using the back of your hand, you'll instinctively flex away from the hot door and door knob, thereby reducing the chances of getting burned.
+Place towels, bed linens, etc., under the door to floor space keeping the smoke from coming into your room.
+Before opening any windows, make sure to check around your room (to include the ceiling) for signs of potential backdraft or flashover: very dark puffy smoke will be at the top of the ceiling, maybe banking it's way down towards you, puffing in and out from any cracks to where "air" may move (that's another reason to stuff under the door).
+Obviously you already called 911 and are staying as close to the floor as possible and remaining as calm as you can. 
+If you can break out a window, try to look first so you don't strike responders with debris. Then stay on the ground as close to the window as possible. Make sure we know you're there. The window frame area is a pretty strong space.
+
+url:https://reddit.com/r/LifeProTips/comments/14wgjy/
+author:ASSperationalHorizon
+subreddit:LifeProTips
+score:2037
+numComments:667
+isOver18:False
+hasPostBody:True

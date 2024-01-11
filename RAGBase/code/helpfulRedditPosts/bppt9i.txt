@@ -1,0 +1,13 @@
+title:
+YSK: Many fire departments will give you smoke detectors for free.
+
+content:
+As fire departments have a vested interest in keeping fires down, many municipal fire departments have free smoke detectors that they will provide you and give instructions on how to install. If you live in a home that doesn't have one or has too few, call your local fire department's nonemergency number and ask!
+
+url:https://reddit.com/r/YouShouldKnow/comments/bppt9i/
+author:baltinerdist
+subreddit:YouShouldKnow
+score:1939
+numComments:93
+isOver18:False
+hasPostBody:True

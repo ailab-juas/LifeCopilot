@@ -1,0 +1,67 @@
+title:
+YSK: About Open-Source information. It's free, highly accessible, and inexhaustibly detailed on almost any topic you can think of. [Resources in description].
+
+content:
+**Why YSK:**
+
+&amp;#x200B;
+
+**FREE OPEN-SOURCE RESOURCES BELOW &gt;&gt;**
+
+&amp;#x200B;
+
+The below is all free and completely legal. Most (not all) are from credible academic institutions or foundations with the aim of making all information free. **Plz message me if you cannot access something.**
+
+The deeper you dive, the more you will find.
+
+*\[Be info smart. Check your sources.\]*
+
+**OPEN EDUCATION**
+
+***Universities:***
+
+* [**https://www.edx.org/search?tab=course**](https://www.edx.org/search?tab=course)
+* [**https://ocw.mit.edu/search/**](https://ocw.mit.edu/search/)
+* [**https://learn.saylor.org/?redirect=0**](https://learn.saylor.org/?redirect=0)
+* [**https://www.khanacademy.org/profile/me/courses**](https://www.khanacademy.org/profile/me/courses)
+
+&amp;#x200B;
+
+***Textbooks:***
+
+* [**https://open.bccampus.ca/browse-our-collection/**](https://open.bccampus.ca/browse-our-collection/)
+* [**https://textbooks.open.tudelft.nl/textbooks/catalog**](https://textbooks.open.tudelft.nl/textbooks/catalog)
+* [**https://en.wikibooks.org/wiki/Main\_Page**](https://en.wikibooks.org/wiki/Main_Page)
+
+&amp;#x200B;
+
+**OPEN SCIENCE**
+
+***Journals:***
+
+* [**https://open.ieee.org/publishing-options/topical-journals/**](https://open.ieee.org/publishing-options/topical-journals/)
+* [**https://royalsocietypublishing.org/rsos/collection**](https://royalsocietypublishing.org/rsos/collection)
+* [**https://www.ncbi.nlm.nih.gov/pmc/**](https://www.ncbi.nlm.nih.gov/pmc/)
+
+&amp;#x200B;
+
+***More Open Resources:***
+
+* [**https://unl.libguides.com/c.php?g=51632&amp;p=333851**](https://unl.libguides.com/c.php?g=51632&amp;p=333851)
+* [**https://opensource.com/education/13/4/guide-open-source-education**](https://opensource.com/education/13/4/guide-open-source-education)
+* [**https://www.oercommons.org/oer**](https://www.oercommons.org/oer)
+* [**https://openstax.org/subjects/view-all**](https://openstax.org/subjects/view-all)
+
+&amp;#x200B;
+
+&amp;#x200B;
+
+*...Information should ALWAYS* *be free...*
+
+url:https://reddit.com/r/YouShouldKnow/comments/z8mqik/
+author:CaptainIsCooked
+subreddit:YouShouldKnow
+score:1052
+numComments:13
+isOver18:False
+hasPostBody:True

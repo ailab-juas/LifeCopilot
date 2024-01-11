@@ -1,0 +1,13 @@
+title:
+LPT: You can disable reddit's new annoying feature suggesting you new subreddits 'you visited before' or 'its trending now' by going to your account settings and disabling "Next generation recommendations"
+
+content:
+Srsly. Annoying as fuck.
+
+url:https://reddit.com/r/LifeProTips/comments/oaadz1/
+author:myredac
+subreddit:LifeProTips
+score:21734
+numComments:536
+isOver18:False
+hasPostBody:True

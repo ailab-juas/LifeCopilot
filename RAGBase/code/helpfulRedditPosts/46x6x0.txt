@@ -1,0 +1,13 @@
+title:
+LPT: When you drop a small item in the sink, don't try to catch it, just put your hand over the drain
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/46x6x0/
+author:mpcoughlan
+subreddit:LifeProTips
+score:2584
+numComments:162
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,20 @@
+title:
+YSK if you get a call reporting fraud on your credit card, and you are asked to put in your card # then it is the call that is the fraud
+
+content:
+I received one of these today. We have monitoring so it sounds legit. The call asks if you are the card holder for xxx card, or to have the card holder call. It then does the "espanol" question followed by a "transfer" where you have to put in your card number to get more information.
+
+The general rule for unsolicited calls or emails is that they should provide some sort of identifying information so you can confirm they are who they say they are. It should be more than name or address. If not, hang up, or delete the email.
+
+update: 
+the call was from a charter bank, it is an actual bank and they are aware of the scam
+
+http://i.imgur.com/1C4xmVs.png
+
+url:https://reddit.com/r/YouShouldKnow/comments/3cp983/
+author:xoxoyoyo
+subreddit:YouShouldKnow
+score:3116
+numComments:177
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: When a coworker emails you to say that they will take care of something today, instead of replying immediately, wait a couple hours to send "Thank you!", as it might serve as a reminder that the action is still with them without coming across as pushy.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/p88d40/
+author:Toastwaver
+subreddit:LifeProTips
+score:7697
+numComments:144
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: If you’re making a to do list, make sure to have one item that you can cross out immediately, such as showering, or reading your emails. It will make you committed to finishing the rest of the list.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/kpvcyg/
+author:KvotheOfTheHill
+subreddit:LifeProTips
+score:12762
+numComments:172
+isOver18:False
+hasPostBody:False

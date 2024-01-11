@@ -1,0 +1,13 @@
+title:
+LPT: If you have the unfortunate experience of having to put a pet down, find a vet that will make a house call. Don't let your pet's last moments be somewhere they are afraid of.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/86598f/
+author:uploadking
+subreddit:LifeProTips
+score:67513
+numComments:2697
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT when asked for a salary or salary range for a new job, you should check job postings in Colorado as they are required to post the salary.
+
+content:
+Colorado passed a law where the employer must disclose the wages or pay range for any job they post. It's a really easy way to compare your expectations to what companies are offering.
+
+url:https://reddit.com/r/LifeProTips/comments/p1fy3p/
+author:LooseLeaf24
+subreddit:LifeProTips
+score:4329
+numComments:226
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,25 @@
+title:
+LPT: When you're on a website requiring login and you get there from a hyperlink, always enter the wrong password first. Phishing sites won't reject the password.
+
+content:
+EDIT: Comments make it seem like this is all you should do. This is not meant to be a one-stop solution for phishing. You should ALSO be doing the following if you want to prevent phishing. 
+
+1. Check the address bar
+2. Look for a verified sign (Green on chrome)
+3. Try to enter the website by manually typing it in if you can
+4. Enable two-factor authentication
+
+This is just another way to prevent being phished and I've found effective against this recent example:
+http://fortune.com/2017/01/18/google-gmail-scam-phishing/
+
+Just ONE tip. Not a comprehensive guide to prevent being phished.
+
+EDIT 2: Looks like this may have been an unintentional repost. Someone posted the exact same LPT couple of weeks ago here. https://www.reddit.com/r/LifeProTips/comments/5vx4tv/lpt_if_you_have_any_doubt_when_entering_a/
+
+url:https://reddit.com/r/LifeProTips/comments/5yeua2/
+author:NoT-RexFatalities
+subreddit:LifeProTips
+score:1985
+numComments:73
+isOver18:False
+hasPostBody:True

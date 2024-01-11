@@ -1,0 +1,15 @@
+title:
+LPT: Beware of apps that help you to monitor your health oriented data because the company may be totally free to sell your data to insurance companies.
+
+content:
+Phone apps that help you to monitor your personal health oriented data (such as diet, blood sugar, blood pressure, sleep, exercise, etc) may not qualify as a “covered entity” under HIPAA and if so are totally free to sell your data to health insurance companies.
+
+In fact, this is probably the core of their revenue stream.
+
+url:https://reddit.com/r/LifeProTips/comments/xey1b0/
+author:Captain_Rational
+subreddit:LifeProTips
+score:1078
+numComments:99
+isOver18:False
+hasPostBody:True

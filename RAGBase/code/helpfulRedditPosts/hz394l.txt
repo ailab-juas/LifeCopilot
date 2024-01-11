@@ -1,0 +1,13 @@
+title:
+YSK That answering the 911 operators questions isn't delaying the responders.
+
+content:
+ Paramedic here. Too often we see that 911 callers refuse to answer the operator's questions, apparently thinking that they are causing a delay in response. "I don't have time for this, just send an ambulance!" is a too often response. The ambulance is dispatched while the caller is still on the line and all of that information is being relayed while we're responding. In fact, most services will alert crews that a call is coming in in their response area as soon as the call in starts. Every bit of information related to the responding crew is useful, so make sure to stay on the line!
+
+url:https://reddit.com/r/YouShouldKnow/comments/hz394l/
+author:LordOfKittehs
+subreddit:YouShouldKnow
+score:28994
+numComments:706
+isOver18:False
+hasPostBody:True

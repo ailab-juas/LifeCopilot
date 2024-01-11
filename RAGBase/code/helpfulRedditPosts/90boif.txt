@@ -1,0 +1,13 @@
+title:
+LPT: If you need help learning a language, try watching a TV show or movie you’ve seen many times with the audio on in that language. If you have many of the lines memorized by heart it can be a great way to practice listening skills.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/90boif/
+author:AJMcAARON
+subreddit:LifeProTips
+score:7398
+numComments:335
+isOver18:False
+hasPostBody:False

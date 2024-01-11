@@ -1,0 +1,13 @@
+title:
+LPT: Don't ask someone publicly if you are being invited to something they are hosting. They can't say no without humiliating you.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/3xp4j8/
+author:greysector
+subreddit:LifeProTips
+score:4159
+numComments:1532
+isOver18:False
+hasPostBody:False

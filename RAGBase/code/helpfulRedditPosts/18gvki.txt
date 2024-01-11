@@ -1,0 +1,26 @@
+title:
+LPT: If you are healthy, or cannot afford a good health insurance plan, buy the absolute cheapest one you can find. Details inside
+
+content:
+It is fairly easy to find a health plan that is very affordable because it has a giant deductible. I am talking $5000-$20,000 deductible for $50-$100 a month
+
+Even though you have a giant deductible, which means you will be paying for all your bills until you hit that deductible, you will still benefit from the HUGE discounts the insurance company has negotiated with the hospital/doctors.
+
+For example, I had a PET scan done. The retail charge, the amount billed to the insurance (and how much a non insured patient would be billed) was $8500. My insurance company's "Negotiated Rate" was $846. That was the amount applied to my deductible, and the only thing the hospital could bill me for.  
+
+So in short, even though you may be paying for most of your bills, you will benefit greatly from the giant discount insurance companies have, and as long as you go to an "in network" provider, they have to honor those discounts. And as a plus, if you do have a catastrophic illness, you will meet your giant deductible pretty quickly and then have the insurance kick in.
+
+*edit*
+You also benefit from having access to the insurance company "rules" that doctors have to follow. For example, if you walk into a Lab to have blood tested, you will get billed a charge for drawing the blood and a charge for each test done. Under most insurance, the blood draw fee is considered "incidental", meaning, its included in the cost of doing the  blood test, so the blood draw fee gets denied, and they cannot bill you for that.
+
+**EDIT**
+I just wanted to share a copy of a typical EOB (explanation of benefits) from some MRI's I had. As you can see, I had to pay the entire negotiated rate since my deductible was not met. If I did not have insurance, I would be responsible for the entire amount, or perhaps get a 10-20% discount for paying in full. My discount here is nearly 90%.
+http://imgur.com/Atk4BzM
+
+url:https://reddit.com/r/LifeProTips/comments/18gvki/
+author:thenewyorkgod
+subreddit:LifeProTips
+score:1571
+numComments:704
+isOver18:False
+hasPostBody:True

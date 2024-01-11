@@ -1,0 +1,13 @@
+title:
+YSK that there is a website that will turn your handwriting into a fully functioning font
+
+content:
+www.myscriptfont.com/
+
+url:https://reddit.com/r/YouShouldKnow/comments/1ua6ns/
+author:matt2709
+subreddit:YouShouldKnow
+score:2099
+numComments:258
+isOver18:False
+hasPostBody:True

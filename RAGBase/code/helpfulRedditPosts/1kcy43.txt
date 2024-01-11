@@ -1,0 +1,17 @@
+title:
+LPT: If someone is buying you a meal but you don't know what price-range to order in, ask them what they recommend.
+
+content:
+You know those situations when someone (like your boss) is taking you out to lunch but you don't know if what you want to order is too expensive? Ask them what they are thinking of ordering or if they recommend anything. 
+
+Not only is it a conversation starter, but it will give you an idea of the price range so you don't end up ordering the $50 lobster when they are getting a $12 burger.
+
+(Of course, if they preempt the meal with "order anything you like", feel free to risk the Lobster)
+
+url:https://reddit.com/r/LifeProTips/comments/1kcy43/
+author:bcrabbers
+subreddit:LifeProTips
+score:3113
+numComments:801
+isOver18:False
+hasPostBody:True

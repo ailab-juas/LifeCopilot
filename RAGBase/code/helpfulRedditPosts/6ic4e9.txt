@@ -1,0 +1,15 @@
+title:
+YSK about deadmansswitch.net, a tool that lets you send emails to your loved ones after you die
+
+content:
+From the [Dead Man's Switch](https://www.deadmansswitch.net/) website:
+
+*Bad things happen. Sometimes, they happen to you. If something does happen, you might wish there was something you had told the people around you. How you feel, what you regret, what you wish you had said. For this, you need a dead man's switch.*
+
+url:https://reddit.com/r/YouShouldKnow/comments/6ic4e9/
+author:SubZeroPlainZero
+subreddit:YouShouldKnow
+score:4722
+numComments:245
+isOver18:False
+hasPostBody:True

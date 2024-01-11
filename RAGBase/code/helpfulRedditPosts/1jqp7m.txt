@@ -1,0 +1,13 @@
+title:
+YSK the entire list of keyboard shortcuts so you can post an obscure shortcut to /r/YSK on a slow-reddit-day.
+
+content:
+https://en.wikipedia.org/wiki/Table_of_keyboard_shortcuts
+
+url:https://reddit.com/r/YouShouldKnow/comments/1jqp7m/
+author:TreyWalker
+subreddit:YouShouldKnow
+score:1698
+numComments:83
+isOver18:False
+hasPostBody:True

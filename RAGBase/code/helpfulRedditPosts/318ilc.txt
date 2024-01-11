@@ -1,0 +1,13 @@
+title:
+LPT: When reviewing something you've written, change it to a font that you don't like. You will read it more critically.
+
+content:
+courtesy of "How to do Everything" podcast.
+
+url:https://reddit.com/r/LifeProTips/comments/318ilc/
+author:zamboswamp
+subreddit:LifeProTips
+score:3899
+numComments:335
+isOver18:False
+hasPostBody:True

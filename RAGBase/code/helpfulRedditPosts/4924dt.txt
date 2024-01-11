@@ -1,0 +1,13 @@
+title:
+LPT: if somebody else is going to review a document you've written, include a mistake.
+
+content:
+The person/people reviewing will tend to want to change something to feel like they've contributed, this means they'll change the mistake instead of messing with something quality that you've deveolped. 
+
+url:https://reddit.com/r/LifeProTips/comments/4924dt/
+author:drill_voice
+subreddit:LifeProTips
+score:3373
+numComments:630
+isOver18:False
+hasPostBody:True

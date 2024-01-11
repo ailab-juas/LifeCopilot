@@ -1,0 +1,15 @@
+title:
+YSK that if you're driving a boat, you should try to stay far from boats that are stationary
+
+content:
+Especially at high speeds, your boat can create big waves that rock boats that are still. This can really irritate boat-owners and is also dangerous.
+
+Please be courteous to others. You've got the whole lake/ocean/body of water to drive your boat. Use it.
+
+url:https://reddit.com/r/YouShouldKnow/comments/hlt4yu/
+author:Nazdack
+subreddit:YouShouldKnow
+score:1516
+numComments:64
+isOver18:False
+hasPostBody:True

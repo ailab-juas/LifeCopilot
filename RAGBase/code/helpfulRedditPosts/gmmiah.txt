@@ -1,0 +1,13 @@
+title:
+YSK That there is a Youtuber called "Dad, how do I?" that explains everyday things that might need a father-figure to help you with. His Dad walked out on him when he was 12, he makes maintenance vides for people with no Dad.
+
+content:
+It's just basic stuff but I know friends of mine that have watched his videos in the last couple of weeks and it has made a real positive difference to their life. He does videos from how to tie a tie to even how to check your car's oil. Very helpful stuff that everyone who doesn't have a dad or just wants some DIY tips should know.
+
+url:https://reddit.com/r/YouShouldKnow/comments/gmmiah/
+author:AlphaSyncz
+subreddit:YouShouldKnow
+score:120038
+numComments:1532
+isOver18:False
+hasPostBody:True

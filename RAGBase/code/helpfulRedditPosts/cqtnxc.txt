@@ -1,0 +1,13 @@
+title:
+LPT: When you are handed a claim ticket for anything (dry cleaning, luggage, valet parking, etc.) immediately take a picture of it with your phone. That way, if it becomes lost you can still claim your property without a hassle.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/cqtnxc/
+author:Usual_Scratch
+subreddit:LifeProTips
+score:15800
+numComments:242
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+Semi-LPT: Cook your fried eggs inside an onion ring. 
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/y8v7z/
+author:seekbalance
+subreddit:LifeProTips
+score:1453
+numComments:488
+isOver18:False
+hasPostBody:False

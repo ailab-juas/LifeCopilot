@@ -1,0 +1,13 @@
+title:
+LPT: If someone introduces themselves to you, and their name makes you think of a funny joke, they've already heard it. A thousand times.
+
+content:
+No, your joke isn't creative.  Yes, they know the reference.  They've heard it many times before. And a good chance that even if they say "haha, that's a new one" it probably isn't and they just want to spare your feelings.  In fact, not acknowledging the low hanging fruit and simply responding with your own name will probably be more appreciated by them and they will think of you as more mature and likable.
+
+url:https://reddit.com/r/LifeProTips/comments/qr2z7w/
+author:cwutididthar
+subreddit:LifeProTips
+score:54049
+numComments:4434
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+YSK that putting anything on the airbag of your steering wheel will become a projectile if you crash and can seriously harm or kill you or a passenger.
+
+content:
+**Why YSK**: An airbag typically deploys at 100-200 MPH and if your phone is sitting there it will be launched towards you and probably impale you. Don't put your phone on your steering wheel over your airbag. Don't put any alternate logos or bedazzling on your airbag. Basically don't do anything to or put anything on your airbag because anything you put on it will launch on impact.
+
+url:https://reddit.com/r/YouShouldKnow/comments/wox4tn/
+author:tkchumly
+subreddit:YouShouldKnow
+score:6948
+numComments:305
+isOver18:False
+hasPostBody:True

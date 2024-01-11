@@ -1,0 +1,13 @@
+title:
+LPT Want to leave a message, but don't want to talk to someone?
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/28dc8b/
+author:rufireproof
+subreddit:LifeProTips
+score:3075
+numComments:975
+isOver18:False
+hasPostBody:False

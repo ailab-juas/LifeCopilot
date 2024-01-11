@@ -1,0 +1,15 @@
+title:
+LPT: When searching for a job, regularly re-upload your CV to the various job search sites, even if nothing on it has changed.
+
+content:
+The refreshed date makes it more likely HR types will see it when they scan for prospective candidates to put forward.
+
+**edit**  [for those who don't know what a CV is](https://en.m.wikipedia.org/wiki/Curriculum_vitae)
+
+url:https://reddit.com/r/LifeProTips/comments/4tbcbg/
+author:lopolow
+subreddit:LifeProTips
+score:4886
+numComments:913
+isOver18:False
+hasPostBody:True

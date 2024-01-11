@@ -1,0 +1,32 @@
+title:
+YSK about these practical website tools
+
+content:
+1. [calm.com](https://www.calm.com/) - offers peaceful scenery and meditation exercises to help you relax
+
+2. [iruler.net](http://www.iruler.net/) - detects the size of your screen and provides an accurate ruler to use
+
+3. [start.me](https://start.me/en/your-personal-start-page) - turns your browser start page into a personalized dashboard
+
+4. [instapaper.com](https://www.instapaper.com/) - save interesting content you come across while browsing and access it later on any device
+
+5. [unfurlr.com](http://unfurlr.com/) - finds the original URL of shortened links
+
+6. [privnote.com](https://privnote.com/) - send a note that will destroy itself once it has been read
+
+7. [gifprint.com](http://gifprint.com/) - a tool to convert animated gifs into printable flipbooks
+
+8. [myfax.com](http://www.myfax.com/free/) - send up to 2 free faxes every 24 hours
+
+9. [scr.im](http://scr.im/) – converts your email address into a safe link to protect it from spam
+
+10. [youpoll.me](https://youpoll.me/) - strawpoll like polling tool with extra features, such as the ability to let users add their own answers
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/4tfoma/
+author:mcep5f2009
+subreddit:YouShouldKnow
+score:2369
+numComments:105
+isOver18:False
+hasPostBody:True

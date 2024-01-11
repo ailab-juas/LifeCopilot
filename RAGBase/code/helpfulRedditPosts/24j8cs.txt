@@ -1,0 +1,17 @@
+title:
+LPT: Use a marker to write the date of installation on the base of new light bulbs so you can tell how long they last.
+
+content:
+I just started putting the date on my light bulbs, it should be interesting to see the lifespan of some of these new models.
+
+EDIT:
+A number of people have asked why would someone do this. The answer is to compare the lifespan of different types of bulbs and of different manufacturers. I've had some bulbs last much longer than others. LEDs are supposed to last 50,000 hours, CFLs 10,000 hours, and incandescents 1,200 hours, if you know when you installed it then you can quickly figure out if the manufacturer is making accurate claims about the product's lifespan.
+
+
+url:https://reddit.com/r/LifeProTips/comments/24j8cs/
+author:derricksone
+subreddit:LifeProTips
+score:1281
+numComments:209
+isOver18:False
+hasPostBody:True

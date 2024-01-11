@@ -1,0 +1,23 @@
+title:
+YSK: Amazon is notorious for selling expired and useless Carbon Monoxide Detectors. Read the reviews and know what to look for.
+
+content:
+Why YSK : Carbon Monoxide detectors expire, on average, after 7 years.
+
+Expired detectors will fail to alarm when carbon monoxide levels are deadly, and will also go off at ridiculous times for something that is no danger. This creates a secondary danger as it creates the "boy who cries wolf" effect.
+
+Amazon is notorious of selling very expired carbon monoxide detectors that will waste your money, your time, and not save your life in the event of high levels of carbon monoxide in your home.
+
+Here's is a great example of something to NEVER buy, that is shown as the top recommended on Amazon, sold by Amazon:
+
+https://www.amazon.com/dp/B002GP7CZS/ref=cm_sw_em_r_mt_dp_dl_GK3039N6GJWWJGX8WWSS?_encoding=UTF8&amp;psc=1
+
+Always check the manufacture date on the back of a carbon monoxide detector. Replace after 7 years
+
+url:https://reddit.com/r/YouShouldKnow/comments/qeg5ro/
+author:Met76
+subreddit:YouShouldKnow
+score:2373
+numComments:66
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+YSK about whfoods.com, a detailed catalogue of the worlds healthiest foods' nutritional contents.
+
+content:
+[Whfoods.com](http://whfoods.com/foodstoc.php) is like an ingredients (micronutrients) [list](http://whfoods.com/genpage.php?tname=foodspice&amp;dbid=7) for vegetables, meat, grains, fruit, etc. that comes with detailed paragraphs on each foods' health benefits. I love this website, it helped me become a major health nut in highschool.
+
+url:https://reddit.com/r/YouShouldKnow/comments/48d4v6/
+author:shaggy913
+subreddit:YouShouldKnow
+score:2488
+numComments:62
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: When introducing two people to each other, make a point of using both of their names a few times in the ensuing conversation.
+
+content:
+I can't tell you how many times I've been introduced to somebody and immediately forgotten their name. I'm always hoping desperately to hear it again in the conversation to avoid awkwardness down the road--help your friends/acquaintances out a little!
+
+url:https://reddit.com/r/LifeProTips/comments/3us2ce/
+author:namename77
+subreddit:LifeProTips
+score:5116
+numComments:436
+isOver18:False
+hasPostBody:True

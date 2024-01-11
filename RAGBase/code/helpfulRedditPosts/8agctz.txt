@@ -1,0 +1,13 @@
+title:
+[LPT] If it's the same price, buy the hard copy rather than the online streamed version. You can lose access to what you've purchased if the streaming service decide to change their terms and conditions.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/8agctz/
+author:all4reddit
+subreddit:LifeProTips
+score:15944
+numComments:884
+isOver18:False
+hasPostBody:False

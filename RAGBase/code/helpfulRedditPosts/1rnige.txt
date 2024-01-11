@@ -1,0 +1,19 @@
+title:
+YSK about the restricted list on Facebook
+
+content:
+I have one person who likes and comments on EVERYTHING I POST. This has become very annoying, but I can't exactly unfriend him, because I see him regularly at school. I went and looked at lists.
+
+**How to do it**
+
+Go to the person's page, and hover over where it says "Friends" with a check mark. Then click on "Add to another list..." You'll get a drop-down menu of lists: close friends, acquaintances, your networks such as "_____ University" or "(city), (State)," etc. Near the bottom of all that will be "Restricted." Uncheck any category they are already in on the drop-down menu, and then click "Restricted." [They can now only see your public posts, or things you tag them in.](https://www.facebook.com/help/www/206571136073851)
+
+Edit: I don't see the problem with wanting to avoid conflict.
+
+url:https://reddit.com/r/YouShouldKnow/comments/1rnige/
+author:sonalis1092
+subreddit:YouShouldKnow
+score:1116
+numComments:212
+isOver18:False
+hasPostBody:True

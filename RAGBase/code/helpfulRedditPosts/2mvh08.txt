@@ -1,0 +1,19 @@
+title:
+[LPT] Stuck at an airport and all the charging ports are occupied? Use a TV!
+
+content:
+I've been in and out of China a couple of times now, and each time I've had flights delayed. This has resulted in tons of people piling up to charge their soon-to-die electronics.
+Sockets are typically few in number at airports, but newer TV's have started including USB ports on the backside. I've been lucky enough to find a free TV to linger by the last couple of times too, and the best part is the limited competition.
+Obviously this tip isn't restricted to only TVs and only airports
+
+[Here's a USB port on the back of a TV](http://i.kinja-img.com/gawker-media/image/upload/s--CjPr9P9E--/c_fit,fl_progressive,q_80,w_636/17td8a2jtudp5jpg.jpg)
+
+Edit 2:  It also seems as though I have to mention, plugging your phone into something isn't the best for device security.  Just as much as you should be aware of what your phone can use, be aware of what can use your phone.  
+
+url:https://reddit.com/r/LifeProTips/comments/2mvh08/
+author:ASCII_27
+subreddit:LifeProTips
+score:1074
+numComments:243
+isOver18:False
+hasPostBody:True

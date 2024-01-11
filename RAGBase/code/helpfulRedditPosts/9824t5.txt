@@ -1,0 +1,39 @@
+title:
+YSK this hack to easily save 5-10% on all your Uber/Lyft rides
+
+content:
+Rideshare driver here. I'm gonna share a well-kept secret with you all if you promise not to abuse it. This hack revolves around Uber and Lyft's upfront pricing scheme. **Skip the next few paragraphs if you don't want the long-winded explanation.**
+
+---
+
+You see, back in the day when you requested an Uber/Lyft, a driver would show up and you would tell them where you want to go or even just give them turn by turn directions. After reaching the destination, the passenger was charged a rate based on time and mileage driven and multiplied by a "surge" rate depending on demand. Then Uber took a 20% cut of that fare and the rest went to the driver. Pretty simple system.
+
+The problem is that if the driver accidentally misses a turn or purposely takes a long route then the passenger is on the hook for those miles and minutes, so you could never really depend on your ride to be a reliable, predictable price or if you'll even be able to afford it by the time it's all added up. And since drivers are independent contractors and not employees, Uber/Lyft aren't allowed to tell them they have to take the passenger down a particular route or do it under a time limit.
+
+So Uber and Lyft implemented upfront pricing. Using live traffic data and their algorithmic wizardry, they estimate the trip's time and mileage beforehand to calculate an upfront fare and that's what you as the passenger pay. Problems solved! Brilliant, right?
+
+Well, that's where they got greedy.
+
+You see, estimates aren't always correct; conditions can change en route causing the prepaid amount to be too low and forcing Uber/Lyft take a loss. Even if there's no traffic, the driver might have the option to go directly there on surface streets and arrive in 20 minutes or drive three times more distance on the highway and but get there 5 minutes sooner, producing wildly different fares in each scenario. To cover all these situations without the possibility of a loss, Uber/Lyft have decided to *always* charge *every* passenger for the longest possible route that the driver could conceivably choose, plus an extra amount as a buffer in case there are unexpected delays.
+
+Bottom line is that under this upfront pricing system, you are getting slightly screwed on every ride to make sure that Uber and Lyft come out ahead on the transaction.
+
+---
+
+**So what's the hack?** How do you get around the upfront prices and revert to the old system of just paying by the mile/minute that's actually driven instead of paying for the longest possible route?
+
+##Pretty simple really. Just change your destination from a shorter trip to a longer trip after your ride is quoted! Obviously Uber/Lyft will recalculate the fare when you get there since it will be higher than the smaller upfront price you were quoted. When they recalculate it at the end of the ride, it will be done based on the actual route taken :) cheers!
+
+As to the "not abusing it" part, just don't make things harder for us drivers. We somewhat rely on the destinations you enter when you request the ride to be accurate so that our "destination filter" will work properly to sort out rides going in the direction that we're trying to go. So when you put in the fake shorter destination, make sure it's in the same general direction you want to go and maybe 70-80% of the way there so we won't be too far away from our own target destination once we finish taking you to your actual further destination. Also, try to save this trick to use on longer rides like $20-$30+ so it will actually save you a buck or two. It'll only save you a few cents on a shorter $5 ride so it's probably not worth the hassle on those.
+
+Hopefully my explanation wasn't too convoluted. Enjoy your savings, fellow redditors!
+
+#TLDR; When initially inputting your destination into the Uber or Lyft app, enter an address that's about 70% of the way towards where you actually want to go. Then once you're quoted a price and assigned a driver, use the app to change your destination to where you actually want to go. When you get there, the price you were quoted will be recalculated and will be slightly higher, but it will be a few bucks lower than you would have paid if you put in your actual destination initially to generate the price quote. This works because Uber and Lyft have been slightly cheating you on upfront pricing all this time.
+
+url:https://reddit.com/r/YouShouldKnow/comments/9824t5/
+author:Everbanned
+subreddit:YouShouldKnow
+score:2716
+numComments:166
+isOver18:False
+hasPostBody:True

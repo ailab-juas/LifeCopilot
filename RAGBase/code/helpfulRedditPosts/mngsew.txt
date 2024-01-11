@@ -1,0 +1,15 @@
+title:
+YSK: All "Name A Star" or "Buy A Star" companies offering you to name a celestial body are a scam.
+
+content:
+Why YSK: Only the International Astronomical Union (IAU) has the authority of naming stars. They address it here:  https://www.iau.org/public/themes/buying_star_names/
+
+All you're buying is an entry in a private database but the name you gave will not appear in any official database used by scientists.
+
+url:https://reddit.com/r/YouShouldKnow/comments/mngsew/
+author:Antouziast
+subreddit:YouShouldKnow
+score:15860
+numComments:375
+isOver18:False
+hasPostBody:True

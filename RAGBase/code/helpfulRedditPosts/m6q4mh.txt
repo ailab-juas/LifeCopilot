@@ -1,0 +1,13 @@
+title:
+LPT: If you find yourself in a conversation, and you can tell the other person doesn’t know your name, drop your name in a third-person anecdote for them.
+
+content:
+Work your name into a conversation seamlessly. For example, you can say: My wife is always yelling at me - “Joe, bring out the garbage.” This will help them remember your name in future too.
+
+url:https://reddit.com/r/LifeProTips/comments/m6q4mh/
+author:SenorMachoMcBrosef
+subreddit:LifeProTips
+score:39599
+numComments:799
+isOver18:False
+hasPostBody:True

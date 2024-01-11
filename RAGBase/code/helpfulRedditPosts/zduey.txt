@@ -1,0 +1,13 @@
+title:
+LPT: No binder around? Hold pages together with this!
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/zduey/
+author:blacksharpie
+subreddit:LifeProTips
+score:1298
+numComments:105
+isOver18:False
+hasPostBody:False

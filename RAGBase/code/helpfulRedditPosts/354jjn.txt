@@ -1,0 +1,13 @@
+title:
+LPT: When out to eat, if the food was good...
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/354jjn/
+author:danny0wnz
+subreddit:LifeProTips
+score:1002
+numComments:630
+isOver18:False
+hasPostBody:False

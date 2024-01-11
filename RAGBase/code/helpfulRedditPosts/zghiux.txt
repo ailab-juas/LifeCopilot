@@ -1,0 +1,21 @@
+title:
+YSK not all salt is the same, and using the wrong type can cause your food to come out over or under salted
+
+content:
+**Why YSK**: Now, I'm not saying that there is a "right" type of salt, that much is personal preference, but if you are not using the same type of salt that the recipe is calling for (assuming the recipe uses volumetric measurements), you can end up with undesired results.
+
+"But isn't it all just NaCl?"
+
+Yes, it is (although some salts have iodine in them), however [different varieties of salt have different sizes and crystal structures](https://i.ytimg.com/vi/4_PbEfWMq_s/maxresdefault.jpg). Because of this, they also take up different volumes. 1 tablespoon of a fine table salt has significantly more NaCl molecules than 1 table spoon of a rougher sea salt.
+
+Most recipes (but not all) I come across these days use kosher salt, so that is what I would recommend as a one size fits all salt. And if your recipe uses weight, then you can basically ignore all of this. Salting to taste is also a very important part of learning to cook, I rarely follow a recipes salt amounts anymore, but for newer cooks it is still a good reference.
+
+TL;DR Buy kosher salt, and salt to taste
+
+url:https://reddit.com/r/YouShouldKnow/comments/zghiux/
+author:PostYourSinks
+subreddit:YouShouldKnow
+score:2074
+numComments:113
+isOver18:False
+hasPostBody:True

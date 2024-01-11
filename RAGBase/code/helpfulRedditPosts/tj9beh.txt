@@ -1,0 +1,23 @@
+title:
+YSK: Spring is here! Friendly reminder that some plants and flowers are toxic to pets and they can even kill them. If you buy flowers or plants, or if someone offers you some, check online if they are safe for your pets before bringing them inside your home.
+
+content:
+Why YSK:
+
+There are many plants and flowers to look out for.
+
+Here's a list for cats: [https://www.aspca.org/pet-care/animal-poison-control/cats-plant-list](https://www.aspca.org/pet-care/animal-poison-control/cats-plant-list)
+
+Here's a list for dogs: [https://www.aspca.org/pet-care/animal-poison-control/dogs-plant-list](https://www.aspca.org/pet-care/animal-poison-control/dogs-plant-list)
+
+17 plants poisonous to pets: [https://www.aspcapro.org/resource/17-plants-poisonous-pets](https://www.aspcapro.org/resource/17-plants-poisonous-pets)
+
+One of my family members lost their cat last year because someone had offered them [Lilies](https://www.google.com/search?q=Lilies&amp;sxsrf=APq-WBuHmhipByXuJiCuQ5cHQrY1uM4zSg:1647859817350&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=2ahUKEwi91bWYhNf2AhXbIMUKHRWSBHIQ_AUoAXoECAIQAw&amp;biw=1680&amp;bih=914&amp;dpr=2https://www.google.com/search?q=Lilies&amp;sxsrf=APq-WBuHmhipByXuJiCuQ5cHQrY1uM4zSg:1647859817350&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=2ahUKEwi91bWYhNf2AhXbIMUKHRWSBHIQ_AUoAXoECAIQAw&amp;biw=1680&amp;bih=914&amp;dpr=2)... According to the vet, the cat was in a lot of pain as the flower caused kidney failure. The cat had to be put down...
+
+url:https://reddit.com/r/YouShouldKnow/comments/tj9beh/
+author:jaceapoc
+subreddit:YouShouldKnow
+score:6516
+numComments:108
+isOver18:False
+hasPostBody:True

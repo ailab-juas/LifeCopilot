@@ -1,0 +1,13 @@
+title:
+LPT: When an app asks you if you want to leave a review on the apps' store, instead of tapping no, choose yes, wait for it to send you to the review page, then close it: it will think you left a review and won't bother you anymore.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/7uzakw/
+author:alex2003super
+subreddit:LifeProTips
+score:53588
+numComments:1485
+isOver18:False
+hasPostBody:False

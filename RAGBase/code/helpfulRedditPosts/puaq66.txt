@@ -1,0 +1,15 @@
+title:
+YSK that you should not rinse your mouth out after you brush your teeth.
+
+content:
+Why YSK: in movies and tv people always rinse their mouth out after brushing their teeth. But rinsing your mouth after you brush rinses away all the good stuff that protects them like fluoride. If you must rinse, take a small sip of water and swish it around your teeth like mouthwash and spit.
+
+Source: https://www.oralanswers.com/rinse-after-brushing/
+
+url:https://reddit.com/r/YouShouldKnow/comments/puaq66/
+author:purpleistolavendar
+subreddit:YouShouldKnow
+score:1562
+numComments:312
+isOver18:False
+hasPostBody:True

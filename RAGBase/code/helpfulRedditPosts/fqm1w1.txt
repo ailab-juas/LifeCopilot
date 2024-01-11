@@ -1,0 +1,39 @@
+title:
+YSK: Many states consider a significant reduction in pay a "constructive dismissal" - if your employer reduces your wages due to the stimulus, you may be able to file under unemployment insurance.
+
+content:
+Some sources!
+
+[Constructive dismissal](https://en.wikipedia.org/wiki/Constructive_dismsal)
+
+**EDIT #3: I originally left this section out because I didn't want to flood the OP with state-specific information, but there's concern about the wiki link. Unfortunately, there is no one-size-fits-all source. Different localities approach this differently.**
+
+
+https://www.twc.texas.gov/jobseekers/eligibility-benefit-amounts
+
+&gt;Working Reduced Hours
+&gt;If you are working but your employer reduced your hours, you may be eligible for benefits. Your reduction in hours must not be the result of a disciplinary action or due to your request.
+
+So if your hours are reduced, you can claim. 
+
+Next, if your pay rate is reduced here:
+
+https://www.twc.texas.gov/news/efte/pay_agreements.html
+
+&gt;Reductions in the pay rate are legal, but should never be retroactive (see below). Remember that pay cuts of 20% or more may give an employee good cause connected with the work to **quit and qualify for unemployment benefits**. Notice of any changes in the pay rate should always be in writing, for the company's own protection, in order to minimize disputes over the rate of pay.
+
+**YOUR STATE MIGHT BE DIFFERENT IN CERTAIN WAYS**
+
+Obviously, check your local laws to confirm. It's also worth noting that the stimulus package adds a static $600 to your unemployment benefits. You may be eligible to claim *more* than your typical wages for the next few months.
+
+Edit to mention: also worth noting that employers cannot reduce wages for hours already worked (in the US, at least). This is only if they try reducing your future rate.
+
+Edit #2: There are a lot of specific questions in the comments, but everyone would be better off contacting their own state's unemployment office for more information. I am not a lawyer, and generally advice taken from the internet needs to be followed up by professionals *in your locality*. I know it's a stressful time and the phones are overloaded there, but that's really your best shot. This "YSK" is only to spread awareness of a little-known unemployment reason that covers you in case of your employer being shady.
+
+url:https://reddit.com/r/YouShouldKnow/comments/fqm1w1/
+author:AcctingNer
+subreddit:YouShouldKnow
+score:10261
+numComments:116
+isOver18:False
+hasPostBody:True

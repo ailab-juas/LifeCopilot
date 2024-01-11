@@ -1,0 +1,13 @@
+title:
+LPT: if you tell a friend with a significant other a secret, there’s a very good chance that your friend will tell their significant other.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/p1bw5l/
+author:Checkmynewsong
+subreddit:LifeProTips
+score:3174
+numComments:207
+isOver18:False
+hasPostBody:False

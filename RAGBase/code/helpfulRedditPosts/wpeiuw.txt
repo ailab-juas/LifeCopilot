@@ -1,0 +1,55 @@
+title:
+YSK: If you or someone you know uses a ISP or cable company email they should stop.
+
+content:
+**YSK: Free television cable or ISP provided emails exist to lock you in.** 
+
+**Why YSK:** **These emails exist for ONE reason only: To lock you in the service of television cable.**  
+Don't use them.   
+
+
+When you sign up for a cable company you may have the option to use a free email address by the company. These emails are given out for ONE reason.   
+
+
+**The more you use the email: the harder it becomes to separate yourself from their brand.**   
+Every single email you send is a marketing for their company that they paid nothing. On the flip-side the more you use their email the more you get entrenched in their product. You will very quickly find out that if you cancel your service, your access to the email also ends : side note: in the past few years due to lawsuits some of these companies will still allow access to your inbox if you are not paying them for services  
+
+
+**The email carrier has the terms to scan, sell, redistribute and spam you.**   
+Emails provided by a cable company should be treated as scummy as they are. These email accounts do not have your privacy in mind and any data sent into them can be distributed, bought, or printed out and put on a billboard if the company so chooses. 
+
+**Customer service for these inboxes hardly exist**  
+Customer facing support has almost no clue how do anything related to the email services aside from direct a customer to the login. Password resets generally have little to no support, and any other problems are ignored.  
+
+
+**Using a cable provided email makes you look stupid: and susceptible to scams**
+
+There are very few reasons a customer would use a cable provide email. they include that the person does not know how to use a computer, that they are lazy or that they have no self control.   
+Regardless of the true reason for using one (convenience? requirement to collect a deal 30 years ago?)  
+When a website is breached and username and passwords are reviewed for people to scam, those with ISP and Cable provided emails will go to the top of the list- because if they are silly enough to use those emails they may be gullible enough to fall for a scam  
+
+
+**Many of these services will auto-delete themselves**   
+inactivity on the email account means it will be deleted. While retention policies change across services, the general theme is that if a email is allowed to expire it cannot be re-opened.   
+
+
+**They are slow- clunky and outdated**  
+Cable network email inboxes receive NO support. Aside from a admin somewhere keeping them *running* they do not receive anything aside from critical security updates- which are sporadic. Most of these interfaces are still chugging along on outdated scripts that the company will not update because it would cost money. They are also slow because the servers running them have only the minimum resources to allow email to come in and send out. : your toaster is far more powerful  
+
+
+**You get spam because they don't care**
+
+Spam is a constant war between people creating it and people fighting it. Gigantic lists exist with email addresses and domains that are tagged to combat or prevent spam from hitting your inbox. the issue is that this takes maintenance, and the company running your shitbox 2.0 email server could not care less. They don't pay for the upkeep to keep spam combated, and so you have thousands of crap emails. Add to the problem of using a cable provided email in the first place is more liable to receive spam and you have a fostering of clusterfuckery soup. 
+
+&amp;#x200B;
+
+If you use a ISP or Cable provided email address, it's time to stop.   
+Because the longer you use it the more entrenched in that company you will become.
+
+url:https://reddit.com/r/YouShouldKnow/comments/wpeiuw/
+author:DeusExRobotics
+subreddit:YouShouldKnow
+score:4876
+numComments:231
+isOver18:False
+hasPostBody:True

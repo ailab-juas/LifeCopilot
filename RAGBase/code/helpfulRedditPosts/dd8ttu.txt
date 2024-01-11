@@ -1,0 +1,13 @@
+title:
+YSK that amazon’s reviews are no longer average of all the reviews, they use ML models which elevate the rating of products. Better to read few reviews to make your purchase decisions( hassle free purchases saves a lot of time and stress)
+
+content:
+It states on their website that “Amazon calculates a product's star ratings based on a machine learned model instead of a raw data average. The model takes into account factors including the age of a rating, whether the ratings are from verified purchasers and factors that establish reviewer trustworthiness”
+
+url:https://reddit.com/r/YouShouldKnow/comments/dd8ttu/
+author:Chill_mama
+subreddit:YouShouldKnow
+score:18081
+numComments:556
+isOver18:False
+hasPostBody:True

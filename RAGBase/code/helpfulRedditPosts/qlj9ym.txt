@@ -1,0 +1,13 @@
+title:
+LPT: Remember, if the police leave you a voicemail saying you "must" call them, or if they call you saying you "must talk to them" you're are not obligated to co-operate. Their words don't matter unless they have a warrant for your arrest.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/qlj9ym/
+author:intodesign
+subreddit:LifeProTips
+score:4356
+numComments:209
+isOver18:False
+hasPostBody:False

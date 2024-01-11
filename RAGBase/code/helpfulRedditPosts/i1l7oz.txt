@@ -1,0 +1,13 @@
+title:
+LPT: Save USPS by opening all your mail and if there are any postage paid envelopes, send them in. That company will then have to pay for the postage.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/i1l7oz/
+author:[deleted]
+subreddit:LifeProTips
+score:5899
+numComments:427
+isOver18:False
+hasPostBody:True

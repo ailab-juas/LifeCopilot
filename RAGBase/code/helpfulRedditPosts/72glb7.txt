@@ -1,0 +1,13 @@
+title:
+LPT: when walking your dogs, make them sit and wait before crossing streets. This will make them hesitate about running into roads if they ever get loose.
+
+content:
+This was taught to us long ago and we've implemented with all of our dogs since. Recently one got out of the side fence and we saw her run to the street, stop, look around, then run back. It's not foolproof but it is good instilled behavior in case of an unfortunate incident. 
+
+url:https://reddit.com/r/LifeProTips/comments/72glb7/
+author:MaxwellVador
+subreddit:LifeProTips
+score:39011
+numComments:743
+isOver18:False
+hasPostBody:True

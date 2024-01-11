@@ -1,0 +1,13 @@
+title:
+LPT: If you live in the US and are sick of dealing with NBC's tape delays and abysmal coverage, watch CBC or BBC's coverage. Many cable and satellite packages include these channels.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/4wu0pl/
+author:zagduck
+subreddit:LifeProTips
+score:5084
+numComments:1030
+isOver18:False
+hasPostBody:False

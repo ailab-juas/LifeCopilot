@@ -1,0 +1,13 @@
+title:
+YSK: How to configure your own VPN server
+
+content:
+I thought I ll share this considering the current Privacy concerns. OpenVPN is  free opensource software that you can install on any remote machine and turn it into a your own private VPN server.  Here is a small guide to help you http://techarena51.com/index.php/how-to-install-an-opensource-vpn-server-on-linux/
+
+url:https://reddit.com/r/YouShouldKnow/comments/3xkbb5/
+author:LeoG7
+subreddit:YouShouldKnow
+score:1949
+numComments:154
+isOver18:False
+hasPostBody:True

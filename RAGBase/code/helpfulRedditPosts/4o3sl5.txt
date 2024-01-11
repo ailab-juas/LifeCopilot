@@ -1,0 +1,13 @@
+title:
+LPT: When your car is paid off, keep making your car payment into a savings account every month, until you have enough saved to cover regular maintenance, eventual repairs, and your next car, in cash.
+
+content:
+Note: it may actually net you more money to accept a low interest rate on a new car and invest your saved sum instead, but that's a bridge to cross when you come to it.
+
+url:https://reddit.com/r/LifeProTips/comments/4o3sl5/
+author:SenorPuff
+subreddit:LifeProTips
+score:5066
+numComments:605
+isOver18:False
+hasPostBody:True

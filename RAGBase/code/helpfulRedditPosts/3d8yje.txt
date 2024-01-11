@@ -1,0 +1,18 @@
+title:
+YSK about tripdelta, a travel website that combines unconnected airlines to provide savings up to 50-60% of the regular price.
+
+content:
+For example, a regular price ticket from  San Francisco to London on September 23rd is $574 (Kayak and Skypicker Price) on Aeroflot  connecting through Los Angeles and Moscow (duration 24h00m). However, on tripdelta.com, a flight from San Franciso to London is only $399 ! The improved itinieary is actually connecting in Stockholm and departing from Oakland (just a few miles away from SFO – total duration 19h25m)
+
+
+https://tripdelta.com/results/SFO/LON/23-09-15/ vs 
+
+https://www.kayak.de/flights/SFO-LON/2015-09-23
+
+url:https://reddit.com/r/YouShouldKnow/comments/3d8yje/
+author:HairyRunt
+subreddit:YouShouldKnow
+score:1293
+numComments:106
+isOver18:False
+hasPostBody:True

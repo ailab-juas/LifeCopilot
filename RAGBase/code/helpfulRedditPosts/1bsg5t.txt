@@ -1,0 +1,13 @@
+title:
+LPT: Brush your hair before you go into the shower to avoid a clogged drain.
+
+content:
+Seems like every long-haired roommate I've ever had was unaware of this tip.
+
+url:https://reddit.com/r/LifeProTips/comments/1bsg5t/
+author:crystalj
+subreddit:LifeProTips
+score:1140
+numComments:158
+isOver18:False
+hasPostBody:True

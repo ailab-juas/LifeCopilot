@@ -1,0 +1,15 @@
+title:
+LPT - If you have a micro-managing boss, dedicate a percentage of your day to overwhelm them with updates and info. Eventually they will grow weary and back off.
+
+content:
+EDIT - This LPT assumes you've tried to discuss and/or build processes to handle the micro-managing with little effect.  If that doesn't work, try this but also look for a new job.
+
+Report on everything unimportant alongside your responsibilities, and do so more way often than you are asked to.  They want updates on a report?  Give them an update on where you are every few hours with questions related to the task and overwhelming additional and slightly relevant info.  Tracked by activity and need to step away to use the restroom?  Let them know 2-3 times a day.  Create meetings to clarify endless details or to "debrief" after a successful project completion. Micromanagement is born from either laziness or need for control.  Doing this will make laziness painful or create an overwhelming sense of chaos and forcing them to opt for your independence.
+
+url:https://reddit.com/r/LifeProTips/comments/qh2osb/
+author:terminusagent
+subreddit:LifeProTips
+score:2855
+numComments:152
+isOver18:False
+hasPostBody:True

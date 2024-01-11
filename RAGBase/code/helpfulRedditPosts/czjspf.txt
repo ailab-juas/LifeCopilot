@@ -1,0 +1,13 @@
+title:
+YSK If you intend to leave electronics in the car for any reason while you are away from it, make sure to turn off all devices. Criminals are using radio and Bluetooth signal detectors to determine which car to hit.
+
+content:
+One of my friend landed in Houston, went straight to dinner from the airport and left his luggage and laptop case in the car. His laptop was not powered down completely. When he returned, the back window of only his car was broken. The security video showed a guy walking the parking lot while aiming a signal detector at the cars and choosing his to break into.
+
+url:https://reddit.com/r/YouShouldKnow/comments/czjspf/
+author:dips009
+subreddit:YouShouldKnow
+score:21262
+numComments:550
+isOver18:False
+hasPostBody:True

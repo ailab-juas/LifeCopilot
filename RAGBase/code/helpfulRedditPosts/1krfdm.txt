@@ -1,0 +1,13 @@
+title:
+LPT: If you are away from news for a while and want to catch up search "[month] [year]" in Wikipedia. This will give you all the major world news for that month.
+
+content:
+For example, typing "August 2013" will give you the latest on Snowden or the Syrian civil war. This also works for the year.
+
+url:https://reddit.com/r/LifeProTips/comments/1krfdm/
+author:blueridgemountain
+subreddit:LifeProTips
+score:5536
+numComments:154
+isOver18:False
+hasPostBody:True

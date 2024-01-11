@@ -1,0 +1,31 @@
+title:
+LPT: If the audio is out of sync with your video in VLC you can tweak the audio track manually by pressing F and G.
+
+content:
+Also, to tweak the subtitles you can press H and J.
+
+Fullscreen is Command (⌘) F.
+
+Edit: As it turns out this is for the **Mac version** of VLC. 
+
+**For Windows 7:**
+
+F - Fullscreen
+
+G,H- Subtitle sync
+
+J,K-Audio Sync
+
+(Thanks to glassfrog for pointing this out, amongst others.)
+
+I don't see why they would change the hotkeys for different operating systems though.
+
+
+
+url:https://reddit.com/r/LifeProTips/comments/1eb3o0/
+author:AestheticEntactogen
+subreddit:LifeProTips
+score:2238
+numComments:111
+isOver18:False
+hasPostBody:True

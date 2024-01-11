@@ -1,0 +1,13 @@
+title:
+LPT: When you're sick, an empty tissue box makes a great receptacle for dirty tissues. Keeps you from being surrounded by mountains of dirty tissues and is easy to throw away.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5oxrdj/
+author:Meshugugget
+subreddit:LifeProTips
+score:1350
+numComments:97
+isOver18:False
+hasPostBody:False

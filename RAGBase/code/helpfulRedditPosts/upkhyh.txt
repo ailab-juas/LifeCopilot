@@ -1,0 +1,59 @@
+title:
+LPT: It’s essential to remove yourself from all of the major background check websites, even if you don’t have a criminal history.
+
+content:
+There are lots of major background check sites out there that sell your information to any interested party. This includes your cell phone number, address (current and previous), social media information, email, criminal records, relatives, known associates, etc.
+
+Anyone who is interested can find it out very easily. Such as someone you match with on a dating app who searches through Facebook using your name and location until they find you, then use that information on one of the background sites (i.e. stalkers). Also, potential employers are not *supposed* to look at this sort of information when making hiring decisions, but it wouldn’t surprise me if some do. 
+
+If you want to make sure you are as safe as possible on the Internet, you should spend a few minutes removing yourself.
+
+I did it for myself over the last 30 minutes or so and put together a list of the biggest players and their Opt-Out web addresses.
+
+*edit: From what someone else commented, apparently the smaller background check websites pull their information from the bigger background check sites, so the ones I linked to **should** get rid of almost all of your information from sites like these.* Although some people have mentioned your information might reappear after a year or so on some of these sites, so it’s probably a good idea to set a calendar event to check it each year. At least, that’s what I’m doing. 
+
+[InfoTracer Opt-Out](https://infotracer.com/optout/)
+
+[TruthFinder Opt-Out](https://www.truthfinder.com/opt-out/) (if it doesn’t work on mobile, try it on a laptop/desktop)
+
+[BeenVerified Opt-Out](http://www.beenverified.com/optout)
+
+[InstantCheckmate Opt-Out](https://www.instantcheckmate.com/opt-out/)
+
+[Spokeo People Search Opt-Out](https://www.spokeo.com/optout)
+
+[Smart Background Checks Opt-Out](https://www.smartbackgroundchecks.com/optout)
+
+[Fast People Search Opt-Out](https://www.fastpeoplesearch.com/removal)
+
+[WhitePages Opt-Out](https://www.whitepages.com/suppression-requests) (requires them calling you with an automated removal code)
+
+[Nuwber Opt-Out](https://nuwber.com/removal/link)
+
+[ThatsThem Opt-Out](https://thatsthem.com/optout)
+
+[True People Search Opt-Out](https://www.truepeoplesearch.com/removal)
+
+[USPhoneBook Opt-Out](https://www.usphonebook.com/opt-out)
+
+[MyLife Opt-Out](https://www.mylife.com/ccpa/index.pubview)
+
+[BackgroundAlert Opt-Out](https://backgroundalert.com/optout/) (requires photo ID)
+
+If I left any big ones out, please let me know and I will try to add them to the list.
+
+Oh yeah, you might want to make a [free ProtonMail email](https://protonmail.com/signup) for the sole purpose of sending the email confirmations for removal to, that way you reduce the chances of post-removal spam from these companies.
+
+*Edit: This is a US-specific LPT, although your country may have something similar that it might be worth looking into.*
+
+*edit 2: yes, there are websites out there like [Removaly](https://removaly.com) or [EasyOptOuts](https://easyoptouts.com) (amongst many, many more) that will do all of the work for you on a constant basis, but those all require a paid subscription. For some people that might make sense, but you absolutely don’t have to pay to get it done if you’re willing to put in the time and effort yourself.*
+
+*edit 3: there’s also a free guide with a list of other websites that may have your data that [can be found here](https://inteltechniques.com/data/workbook.pdf)…*
+
+url:https://reddit.com/r/LifeProTips/comments/upkhyh/
+author:diverareyouok
+subreddit:LifeProTips
+score:17600
+numComments:950
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+YSK that if you're an essential worker, now may be a good time to start a Union.
+
+content:
+As a result of the state of the world, a lot of folks are realizing that most companies do in fact care more about profits than people. Likewise, more than ever, Essential workers have a lot of leverage, and could use it to get better pay and protections. There are plenty of guides online to do this ( https://www.ueunion.org/org_steps.html is an example) and you do not need to be in any special position to get started.
+
+url:https://reddit.com/r/YouShouldKnow/comments/gigvh2/
+author:Flannel-Beard
+subreddit:YouShouldKnow
+score:2023
+numComments:101
+isOver18:False
+hasPostBody:True

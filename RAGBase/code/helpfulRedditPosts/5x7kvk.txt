@@ -1,0 +1,13 @@
+title:
+LPT: Playing chess against a little kid but don't want to go easy? Give them the option to switch sides with you during the game. It makes it more fun for both sides.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5x7kvk/
+author:bennyboy82
+subreddit:LifeProTips
+score:15318
+numComments:560
+isOver18:False
+hasPostBody:False

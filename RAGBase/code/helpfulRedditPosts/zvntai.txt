@@ -1,0 +1,13 @@
+title:
+LPT: If driving in a snowstorm and your GPS suggests taking a faster route, don’t do it if it takes you off the Highway. Backroads are usually last to be cleared of snow and you could get stuck!
+
+content:
+If there’s traffic building up on the highway during a snow storm you’re GPS could automatically update to taking a backroad. This could get you stuck in a random spot off the highway and help may not be able to get to you for some time. Stay on the Highway during snow storms, since the plows treat those roads first.
+
+url:https://reddit.com/r/LifeProTips/comments/zvntai/
+author:Bradiator34
+subreddit:LifeProTips
+score:8740
+numComments:172
+isOver18:False
+hasPostBody:True

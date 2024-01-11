@@ -1,0 +1,15 @@
+title:
+YSK there is a Chrome/Firefox extension that let's you use Netflix (among other services) from outside of the U.S
+
+content:
+http://proxmate.dave.cx/
+
+I've been using this for a few months from N.Z and it works great. It also lets you view U.S only content on YouTube and Comedy Central.
+
+url:https://reddit.com/r/YouShouldKnow/comments/1kzzz8/
+author:xvertigox
+subreddit:YouShouldKnow
+score:1012
+numComments:140
+isOver18:False
+hasPostBody:True

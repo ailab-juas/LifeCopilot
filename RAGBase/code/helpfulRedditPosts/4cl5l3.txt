@@ -1,0 +1,13 @@
+title:
+LPT: How to choose the correct who/whom pronoun: If the question is answered with he/she then use who. If it is answered with him/her then use whom.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/4cl5l3/
+author:jimngo
+subreddit:LifeProTips
+score:4871
+numComments:1257
+isOver18:False
+hasPostBody:False

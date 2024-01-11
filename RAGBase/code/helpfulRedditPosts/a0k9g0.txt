@@ -1,0 +1,15 @@
+title:
+YSK You can re-record a voicemail you're leaving on almost any phone by pressing # at any time
+
+content:
+This helps me a lot at work. If you record a voicemail for someone that you messed up, just hit the # button. You'll immediately get the option to send your voicemail, listen to the message you recorded, or re-record it.
+
+It helps a lot when I'm leaving a voicemail for someone important and stumble over my words.
+
+url:https://reddit.com/r/YouShouldKnow/comments/a0k9g0/
+author:Japjer
+subreddit:YouShouldKnow
+score:2525
+numComments:71
+isOver18:False
+hasPostBody:True

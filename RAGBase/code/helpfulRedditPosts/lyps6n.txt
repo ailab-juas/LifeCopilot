@@ -1,0 +1,19 @@
+title:
+YSK: Therapists will often offer a sliding scale when charging their clients, and will adjust how much it costs depending on your income
+
+content:
+Why YSK: 
+
+Therapy seems like a luxury because the rates for people without insurance are crazy high, but a lot of therapists recognize this and will offer you a heavily discounted rate if you talk to them about it. 
+
+I know with everything that’s happening in the world a lot more people are realizing they need extra support, and it can be daunting to explore therapy for the first time as an option. 
+
+And I also know even discounted for a lot of people it can still be inaccessible. There are also free therapists and therapy programs online that you can contact—if you need someone to talk to, this is still a great option.
+
+url:https://reddit.com/r/YouShouldKnow/comments/lyps6n/
+author:WhySeaSalt
+subreddit:YouShouldKnow
+score:6868
+numComments:271
+isOver18:False
+hasPostBody:True

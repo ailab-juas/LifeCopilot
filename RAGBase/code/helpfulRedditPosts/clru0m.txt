@@ -1,0 +1,13 @@
+title:
+LPT: At Taco Bell, 4 mini quesadillas is cheaper than 1 regular one and is nearly twice as much food
+
+content:
+Each mini quesadilla is almost twice as big as one slice of a regular quesadilla, which has four slices. Where I live, a regular is $4.30 and a mini is $1
+
+url:https://reddit.com/r/LifeProTips/comments/clru0m/
+author:afromagic808
+subreddit:LifeProTips
+score:33224
+numComments:1278
+isOver18:False
+hasPostBody:True

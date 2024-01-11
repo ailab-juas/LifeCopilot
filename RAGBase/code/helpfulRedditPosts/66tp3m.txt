@@ -1,0 +1,13 @@
+title:
+LPT: Anonymous 800 numbers are never anonymous even if you block your caller ID. Caller ID is always delivered to 800 numbers.
+
+content:
+Unfortunately most people believe that if they block their caller ID and make a call to an Anonymous hotline their identity is safe. That is not the case. The person / company paying for the 800 calls also receives the details of who was calling them.
+
+url:https://reddit.com/r/LifeProTips/comments/66tp3m/
+author:throwawayi88477
+subreddit:LifeProTips
+score:1385
+numComments:101
+isOver18:False
+hasPostBody:True

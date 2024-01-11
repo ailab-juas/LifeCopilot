@@ -1,0 +1,13 @@
+title:
+LPT: If you have a fake security camera around your house and if for whatever reason a neighbor comes asking for the footage, avoid saying it's a fake one (especially out loud), just say that it doesn't record if someone is home, or only if you travel, so you don't reveal it's a dummy camera.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/jjzali/
+author:yoyoze
+subreddit:LifeProTips
+score:1558
+numComments:105
+isOver18:False
+hasPostBody:False

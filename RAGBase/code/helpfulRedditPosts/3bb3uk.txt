@@ -1,0 +1,13 @@
+title:
+YSK That the good online IQ test does exist. One of them can be taken for free on mensa.dk (flash)
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/3bb3uk/
+author:JurijFedorov
+subreddit:YouShouldKnow
+score:1441
+numComments:464
+isOver18:False
+hasPostBody:False

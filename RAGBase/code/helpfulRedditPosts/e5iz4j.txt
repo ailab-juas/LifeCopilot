@@ -1,0 +1,31 @@
+title:
+LPT: Teach yourself to not touch your face throughout the day - you’ll get sick less, as hand to face/mouth contact is one of the most common routes for microbial transmission.
+
+content:
+EDIT: Some information to prevent myself from having to facepalm in response to some of these comments.
+
+For a complete overview of the pathogenesis of the rhinovirus (a virus responsible for the majority of cold and flu-like illnesses) check out [this article](https://www.atsjournals.org/doi/pdf/10.1513/pats.201006-039RN). Some key excerpts are:
+- “The most common way to ‘‘catch a cold’’ is to pick up a rhinovirus with the fingertip and introduce it into the eye or nose.”
+- “It is possible to avoid catching a new cold by paying close attention to the hands. Not touching the eyes or nose with the fingers will decrease the risk of infection.”
+
+Hence, this LPT. It’s based on the well documented phenomenon of self-inoculation. Washing one’s hands is still the gold standard. However, the vast majority of people are not washing their hands especially often. Conversely, people are constantly touching their faces, essentially subconsciously. Therefore, to reduce the risk of transmission/self-inoculation, stop touching your face (particularly around your eyes). 
+
+The study "Protective Effect of Hand-Washing and Good Hygienic Habits Against Seasonal Influenza: A Case-Control Study." specifically concludes that "infrequent touching [of] the eyes, nose, or mouth with ones hands" led to a "substantially lower risk of community-acquired influenza infection" (frequent hand washing and getting the flu vaccine were also associated with substantially lower risk). 
+
+In the article "Medical myth busting: Separating fact from fiction about colds and flu" from the Fred Hutch, Dr. Steve Pergam (member of the Vaccine an Infectious Disease Division there) says things like:
+- "To infect someone, these particles don’t have to be breathed in, they just have to get into any mucosal surface — eyes, mouth or nose. . . Stop touching your face!"
+- "Your hands touch elevator buttons, public transport rails, all the different places you go on a daily basis, then you touch your face hundreds of times a day. I have a bottle of hand gel with me at all times.  You can’t stop yourself all the time, but be more aware of whether your hands are clean before you start rubbing your eyes."
+
+A 1982 study published in the American Journal of Epidemiology titled "TRANSMISSION OF EXPERIMENTAL RHINOVIRUS INFECTION BY CONTAMINATED SURFACES" found that in a controlled setting, when healthy adults touched a surface contaminated with rhinovirus and then touched their face, up to 56% of them became infected. 
+
+The 2015 study "Survival of rhinoviruses on human fingers" states "person-to-person transmission is most likely due to the contamination of hands by the nasal secretions of the infected person passed to a susceptible individual, either directly to the fingers or via an environmental intermediary; infection then follows from self-inoculation to the upper nasal airways or eyes." and subsequently cites four more studies as supporting evidence.
+
+I could go on and on but I think at this point it's on the Redditor to do their own reading.
+
+url:https://reddit.com/r/LifeProTips/comments/e5iz4j/
+author:starbuilt
+subreddit:LifeProTips
+score:46318
+numComments:1725
+isOver18:False
+hasPostBody:True

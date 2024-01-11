@@ -1,0 +1,15 @@
+title:
+YSK if a road is set up for zipper merging, the people skipping ahead on the other lane aren’t being jerks and we should all be doing it. Research supports it, sources inside.
+
+content:
+https://uknowledge.uky.edu/cgi/viewcontent.cgi?article=2602&amp;context=ktc_researchreports
+
+Really good read, and a key element from the conclusion: “Public awareness is one of the most important aspects of implementing a zipper merge. This includes the use of clear signage and public education campaigns. All drivers (including truck drivers) must know how a zipper merge operates and understand that it is utilized to benefit them.”
+
+url:https://reddit.com/r/YouShouldKnow/comments/e3a7mu/
+author:qwoodmansee
+subreddit:YouShouldKnow
+score:8205
+numComments:480
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,19 @@
+title:
+YSK: TEDX is not the same as TED. TEDX is produced independently of TED and talks can be given by anyone, regardless of their education or experience.
+
+content:
+After watching an infuriatingly misinformed women speak about health issues, I thought wait, who allowed her to speak at TED with no credentials? So be careful to note if it's TEDX when you watch a talk, and take it with a grain of salt, because literally anyone can give a talk.
+
+
+
+
+
+ https://youtu.be/d0NHOpeczUU
+
+url:https://reddit.com/r/YouShouldKnow/comments/4x823y/
+author:notadalmation
+subreddit:YouShouldKnow
+score:5988
+numComments:562
+isOver18:False
+hasPostBody:True

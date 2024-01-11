@@ -1,0 +1,20 @@
+title:
+YSK that the US Postal Service offers a free service called "Informed Delivery" that emails you alerts including images of envelopes you'll be receiving that day.
+
+content:
+https://informeddelivery.usps.com/
+
+from the web site:
+
+Informed Delivery® by USPS®
+Digitally preview your mail and manage your packages scheduled to arrive soon! Informed Delivery allows you to view greyscale images of the exterior, address side of letter-sized mailpieces and track packages in one convenient location.
+
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/9bgu4l/
+author:conditerite
+subreddit:YouShouldKnow
+score:2683
+numComments:199
+isOver18:False
+hasPostBody:True

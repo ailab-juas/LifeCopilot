@@ -1,0 +1,17 @@
+title:
+YSK that cancer is not a single disease, but rather a wide range of various diseases, and you should be sceptical of catchall claims to "cure cancer".
+
+content:
+Tumors are incredibly varied and complex, with a massive range of causes, forms, sites, and responses to various treatment options. The internet and print media are rife with uninformed and dangerous claims that a magic bullet solution has been found, but to date, not a single one of these has been demonstrated to be effective in a useful way. 
+
+If you or somebody you know is considering treating their cancer exclusively with homeopathic remedies, tumeric, reiki, prayer, veganism, carnivorous diets, crystals, etc., please be respectful of their wishes and beliefs, but consider discussing it carefully with them and referring them to an oncologist. Ultimately, it is their choice, but it should be an informed one.
+
+Source: I am a professional cancer epidemiologist and have read and analysed over 15.000 cases. I have never received a single penny from any for-profit company.
+
+url:https://reddit.com/r/YouShouldKnow/comments/dknsdr/
+author:keel_up
+subreddit:YouShouldKnow
+score:8201
+numComments:161
+isOver18:False
+hasPostBody:True

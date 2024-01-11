@@ -1,0 +1,13 @@
+title:
+LPT: Use "Windows Key + M" to minimize all windows.
+
+content:
+Since it appears obscure windows shortcuts are trending on LPT, I'd like to share this one that will save you a lot of time when your desktop gets cluttered with lots of windows.
+
+url:https://reddit.com/r/LifeProTips/comments/2hw6hj/
+author:eliteturbo
+subreddit:LifeProTips
+score:1190
+numComments:222
+isOver18:False
+hasPostBody:True

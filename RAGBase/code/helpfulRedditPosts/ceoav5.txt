@@ -1,0 +1,15 @@
+title:
+LPT: Always keep a CYA folder at work
+
+content:
+ Sorry if this has been posted before. I keep a “Cover your ass” folder in my work email. Inside I keep all emails from people giving me shady orders such as telling me to do something I know is wrong or frankly anything I think is questionable. Also, if my boss/someone from another department tells me verbally to do something that I know is questionable/wrong I will tell them to give me that direction via email before I will complete it. This has saved me many times where I’ve been blamed for something I did “wrong” when a boss actually told me to do it that way.
+
+This has also changed people's minds before when giving me a questionable direction. They’re happy to let you take the fall for something they told you to do but when they realize they have it in writing and they’d be to blame, they’re more likely to do things the right way.
+
+url:https://reddit.com/r/LifeProTips/comments/ceoav5/
+author:EnragedCIown
+subreddit:LifeProTips
+score:1428
+numComments:119
+isOver18:False
+hasPostBody:True

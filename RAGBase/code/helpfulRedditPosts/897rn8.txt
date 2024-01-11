@@ -1,0 +1,13 @@
+title:
+YSK that there’s a way to redo voicemails
+
+content:
+I didn’t know until I started working as a receptionist that the majority of cell phones will allow you to press the # key and then give you the option to erase and re record your voicemail. Just continue talking as you press the key in case it’s one of the rare instances that it isn’t offered.
+
+url:https://reddit.com/r/YouShouldKnow/comments/897rn8/
+author:forgottenusername95
+subreddit:YouShouldKnow
+score:1025
+numComments:24
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+YSK: Wolfram Alpha exists. Wolfram Alpha is an advanced mathematics that shows step by step solutions.
+
+content:
+WHY YSK:. I used it in college to double check my work in stats 1 and 2.  I use it to this day to relearn different formula solutions to help my kids with homework.  It helps refresh the long forgotten by going through how Wolfram Alpha Calculator got the solution. It will even graph a line.
+
+url:https://reddit.com/r/YouShouldKnow/comments/mcanaw/
+author:hereforpopcornru
+subreddit:YouShouldKnow
+score:11835
+numComments:269
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: you can use Windows key + period ( . ) to use emojis on PC
+
+content:
+🤦‍♀️
+
+url:https://reddit.com/r/LifeProTips/comments/9uxdfh/
+author:Feminist-Gamer
+subreddit:LifeProTips
+score:2586
+numComments:300
+isOver18:False
+hasPostBody:True

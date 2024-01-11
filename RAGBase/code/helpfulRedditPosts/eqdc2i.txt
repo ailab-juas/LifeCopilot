@@ -1,0 +1,15 @@
+title:
+LPT: If you live alone, make sure you can access and open your first aid kit one-handed
+
+content:
+Hands and fingers are very easily accidentally burnt, cut, or otherwise injured. You want to be able to get to your supplies! 
+
+I hadn't realised how difficult it was to get into my danish-cookie-tin homemade kit without both my hands until I *really* needed it open.
+
+url:https://reddit.com/r/LifeProTips/comments/eqdc2i/
+author:FrancisBfoy
+subreddit:LifeProTips
+score:1904
+numComments:114
+isOver18:False
+hasPostBody:True

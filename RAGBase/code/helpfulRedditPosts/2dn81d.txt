@@ -1,0 +1,13 @@
+title:
+YSK: Websites you can legally watch movies for free
+
+content:
+Good information and list of sites where you can [watch movies legally for free](http://www.wiztechie.com/7-websites-can-legally-watch-movies-free/).
+
+url:https://reddit.com/r/YouShouldKnow/comments/2dn81d/
+author:knowledgeninja
+subreddit:YouShouldKnow
+score:1681
+numComments:234
+isOver18:False
+hasPostBody:True

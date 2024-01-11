@@ -1,0 +1,13 @@
+title:
+LPT: When selecting a text with your mouse, double-click on the first word, hold down the mouse on the second click and then select your text. It will now select text by words, not characters.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/4fzk5s/
+author:instantcol
+subreddit:LifeProTips
+score:5126
+numComments:703
+isOver18:False
+hasPostBody:False

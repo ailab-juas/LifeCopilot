@@ -1,0 +1,13 @@
+title:
+YSK that koalas have a 20% chance of being infected with Chlamydia with many more carrying the disease. If you are harboring koala refugees from the Australian bushfires, please take the proper precautions to keep yourself clean and try to limit the spread of the disease.
+
+content:
+Koalas are cute and fuzzy, but please be careful when harboring any if you are sheltering some.  Avoid their urine and other bodily waste such as feces and any blood.  Use disinfectant and make sure to clean your hands and cloths thoroughly after interacting with them.
+
+url:https://reddit.com/r/YouShouldKnow/comments/emyez1/
+author:i_forget_what_i_do
+subreddit:YouShouldKnow
+score:17424
+numComments:382
+isOver18:False
+hasPostBody:True

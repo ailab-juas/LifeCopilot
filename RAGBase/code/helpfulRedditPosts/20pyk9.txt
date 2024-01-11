@@ -1,0 +1,15 @@
+title:
+LPT: present with PDF instead of PPT
+
+content:
+Have a presentation to do on someone else's conputer? Unsure of the software environment? Can you live without animated slides? (The answer is usually yes - ppt animation is vastly overused.)
+
+The PDF format is purpose built to preserve consistency across platforms. Readers can run full screen. Versioning and fonts are far smaller issues with acrobat or reader than PowerPoint.
+
+url:https://reddit.com/r/LifeProTips/comments/20pyk9/
+author:sutiibu
+subreddit:LifeProTips
+score:2166
+numComments:542
+isOver18:False
+hasPostBody:True

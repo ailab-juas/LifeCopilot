@@ -1,0 +1,13 @@
+title:
+LPT: The Windows Snipper Tool Is Much Faster Than Hitting the 'Print Screen' Key and Then Editing Your Screen Capture In Image Editing Software!
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/30zr52/
+author:occupybourbonst
+subreddit:LifeProTips
+score:1206
+numComments:222
+isOver18:False
+hasPostBody:False

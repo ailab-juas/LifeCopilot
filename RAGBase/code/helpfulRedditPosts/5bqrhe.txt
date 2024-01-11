@@ -1,0 +1,13 @@
+title:
+LPT: If you are in line when the polls close, they are legally required to let you vote.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5bqrhe/
+author:skibbydbop
+subreddit:LifeProTips
+score:63155
+numComments:3692
+isOver18:False
+hasPostBody:False

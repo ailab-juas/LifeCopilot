@@ -1,0 +1,29 @@
+title:
+LPT: If you’re a professional (or aspire to be), use direct language. Do not be ambiguous or apologetic.
+
+content:
+I work in a professional and confrontational field (very large construction projects) and the number of newcomers (and surprisingly some long-timers) who try to appease all parties by being diplomatic or inoffensive blows my mind.
+
+“No” is an incomplete sentence in business, but “No, we won’t do that because X, Y, Z” is indeed a complete sentence. Framing a “No” with “Unfortunately we can’t do that” or “That shouldn’t be a problem” or “We don’t usually do that” is a door left open. If the answer is no, close the door all the way.
+
+If you *don’t know the answer*, the *best* answer is “I don’t know, I can find out and follow up.” In and out, no formulating a guess or stumbling over your words.
+
+You will not sound like an asshole. When you know something, you know it. When you don’t, you don’t. Higher-ups and colleagues will come to you with questions/problems when they know that you will give them a straight, honest answer.
+
+In case you’re wondering, this is also how confidence-men (and women - ahem, Elizabeth Holmes) set up their big cons. Be confident and direct.
+
+EDIT: Look at everyone being direct without mincing words or being apologetic. The worst tip ever on the LPT sub? Beautifully confident and unambiguous. 
+
+EDIT2: Why did I mention con-artists? Because that's all business is. Whether you're awarding a $500m contract to a legitimate company or a con remains to be seen until you get that first invoice. 
+
+EDIT3: I am literally watching an email chain go off the rails right now because of this very issue. You can tell me I'm wrong, but I'm watching a sinking ship in real time, folks.
+
+**FINAL EDIT: Yes, this is actually how I approach my job. Today I've been in C-suite meetings, director meetings, department meetings, subcontractor meetings, all day long I've been specific and direct. I have never gotten negative feedback on my approach. I have been in my industry 10 years and I would say the first 5 were constantly trying to appease and the second 5 have been 'this is how it is.' I am much happier as a result of the direct approach.**
+
+url:https://reddit.com/r/LifeProTips/comments/viwhjc/
+author:Chemistry-Least
+subreddit:LifeProTips
+score:4085
+numComments:308
+isOver18:False
+hasPostBody:True

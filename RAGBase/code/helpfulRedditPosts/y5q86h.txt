@@ -1,0 +1,13 @@
+title:
+YSK: If you subscribe to a streaming service through Apple (formerly iTunes) you can cancel it at any time with one click without having to talk to the provider
+
+content:
+Why YSK: Whether you like Apple or not, cancelling a subscription via an Apple account is the easiest anyone has ever made it. You can even subscribe and cancel immediately after to just do one month no strings attached.
+
+url:https://reddit.com/r/YouShouldKnow/comments/y5q86h/
+author:cringefinder3000
+subreddit:YouShouldKnow
+score:5262
+numComments:83
+isOver18:False
+hasPostBody:True

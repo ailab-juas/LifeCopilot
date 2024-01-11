@@ -1,0 +1,24 @@
+title:
+YSK: Most advertising is not intended to make you immediately want to buy the product. The vast majority is "brand marketing", which is simply intended to make you familiar with the product, which makes you more likely to purchase it in the future.
+
+content:
+Have you ever seen an ad and wondered, "Who's going to want to go buy a bag of Doritos after watching _that?_"
+
+As a consumer, it's important to understand the difference between **brand** and **direct** marketing, so you're aware of how marketing is influencing your consumer behavior and help you make informed choices.
+
+Direct marketing is something like an infomercial, or a podcast ad with a promo code.  There is a very clear call to action in the ad, (_"Use our promo code to get 15% off"_ or _"Call now and try yours today!"_).  The ad attempts to be persuasive, so you're actually likely to immediately go and buy the thing.
+
+But, the _vast majority_ of all marketing is "brand marketing", whose purpose is simply to make you aware of and familiar with the product.  The idea is that the next time you need to buy that type of thing (maybe you're at the store in the paper towel aisle), you'll instinctively and subconsciously start with a brand you're familiar with.  You probably won't even recall seeing an ad for it, but you might look at the options and think, "I've never even heard of PaperPal, it can't be good. Oh look, Bounty! I know them".  You might think it's because you saw them at a friend's house, but you probably just saw them in an ad.  This sounds crazy, and you might be thinking "I'd never fall for that", but _it works_.  It works so well that billions of dollars a year are spent on brand advertising alone.
+
+So, the next time you're wondering how on earth an ad about an ostrich playing cricket could possibly make you want to buy life insurance, remember that it's probably brand advertising.  And later, when you're evaluating life insurance options, make sure you're actually choosing the best value, not just the one with the name you recognize.  You probably recognize it because because you've seen ads for it.
+
+
+**EDIT:** To all the people claiming advertising doesn’t work on them, please be advised: thinking this way will only make brand advertising more effective on you.  If you’re convinced you’re never buying something because of advertising, you’ll be falsely attributing that familiar feeling to a different source (a friend, a review, an imagined experience), when it was in fact probably just an ad campaign.  This is a brand marketer’s _dream_.  Just accept that advertising (in all its forms, shelf placement, billboards, online, etc) is indeed having some effect and adjust accordingly.
+
+url:https://reddit.com/r/YouShouldKnow/comments/f2bdyv/
+author:Fredifrum
+subreddit:YouShouldKnow
+score:16621
+numComments:637
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,17 @@
+title:
+LPT: When reading a company's Glassdoor pay attention to the date of the review. If you notice a lot of good reviews in a short time frame then that means that HR sent out a bulletin for employees to write reviews for the company.
+
+content:
+My company's HR recently sent out a memo to all employees and left up many flyers to tell us to review our company on Glassdoor. This is allowed by Glassdoor and a tactic they advocate for companies wishing to combat their negative reviews or low rating. Though the memo/flyer say to leave "honest" reviews theres an implication that they want us to leave good/positive reviews.
+
+When I had initially started working for my company the rating was in the low 3's and the reviews were pretty sporadic in terms of the date. After the memo I saw a huge amount of positive reviews in a short time frame and their rating went up to 4.6. This overshadowed the negative reviews which I found to be accurate.
+
+edit: Some have asked what does it mean if there are a lot of bad reviews in a short time frame. That usually means that theres been a layoff or a [negative] restructure in management.
+
+url:https://reddit.com/r/LifeProTips/comments/dk6pz2/
+author:laibusahi
+subreddit:LifeProTips
+score:27853
+numComments:474
+isOver18:False
+hasPostBody:True

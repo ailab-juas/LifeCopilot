@@ -1,0 +1,13 @@
+title:
+I'll never lose my office supplies again thanks to magnets.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/xu9ie/
+author:Dr_Emmet_Brown
+subreddit:LifeProTips
+score:1516
+numComments:272
+isOver18:False
+hasPostBody:False

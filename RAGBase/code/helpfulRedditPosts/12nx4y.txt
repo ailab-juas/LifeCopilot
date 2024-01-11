@@ -1,0 +1,15 @@
+title:
+LPT: Use /r/example+example2 to view multiple subreddits in one page
+
+content:
+For example: [/r/gaming+games](http://www.reddit.com/r/gaming+games)
+
+This works with more than just two subreddits as well.
+
+url:https://reddit.com/r/LifeProTips/comments/12nx4y/
+author:phyt0xic
+subreddit:LifeProTips
+score:1380
+numComments:119
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: If you haven't expressed your discomfort with a situation then you can't expect that dynamic to change.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/juk987/
+author:Cheesums
+subreddit:LifeProTips
+score:24595
+numComments:396
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,41 @@
+title:
+MAC users - alt/option + shift + volume = smaller increment adjustment
+
+content:
+The following are for smaller increment adjustments, which may not work on 10.7.3
+
+* alt/option + shift + volume
+
+* alt/option + shift + screen
+
+* alt/option + shift + keyboard light
+
+* may not work on 10.7.3
+
+Inverts Screen Colors:
+
+* control + alt/option + command + 8
+
+Prevents loud "plok plok plok" noise:
+
+* shift + volume
+
+Screenshot fullscreen:
+
+* shift + command + 3
+
+Screenshot partscreen:
+
+* shift + command + 4
+
+Screenshot application window:
+
+* shift + command + 4 + spacebar
+
+url:https://reddit.com/r/LifeProTips/comments/wnb6t/
+author:Zenos
+subreddit:LifeProTips
+score:1654
+numComments:326
+isOver18:False
+hasPostBody:True

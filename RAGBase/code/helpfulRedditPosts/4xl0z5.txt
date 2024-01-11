@@ -1,0 +1,13 @@
+title:
+LPT: when you get to choose your seat on a flight try to pick the row just before the wings of the plane begin. Plane stability is based on center of gravity so close to the wing will almost always be the smoothest flight.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/4xl0z5/
+author:Creepygroovy
+subreddit:LifeProTips
+score:4672
+numComments:1443
+isOver18:False
+hasPostBody:False

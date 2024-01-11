@@ -1,0 +1,13 @@
+title:
+LPT: Never assume that someone won't be able to go to an event, it's always better to invite them anyway, that way they know they haven't purposefully been left out. It'll avoid a lot of negativity.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/9fg9sv/
+author:StormsEye
+subreddit:LifeProTips
+score:37000
+numComments:836
+isOver18:False
+hasPostBody:False

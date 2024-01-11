@@ -1,0 +1,13 @@
+title:
+LPT: Leaving home for the holidays? Need to monitor what's going on when you're out of the house? Here's how to set up a free motion detection surveillance system using just a computer and a webcam.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/2n2gs7/
+author:nastyasty
+subreddit:LifeProTips
+score:1891
+numComments:107
+isOver18:False
+hasPostBody:False

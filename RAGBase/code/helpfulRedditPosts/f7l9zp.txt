@@ -1,0 +1,13 @@
+title:
+YSK before purchasing an item on Amazon that you're interested in, you can use a website called camelcamelcamel.com and see what the highest and lowest price had been.
+
+content:
+As the title states, I use this site to see if the price of something I am purchasing goes down in price any time of the year, especially computer components. If it's something I don't need right away, it saves me a good amount of money to be patient. You can also set price threshold alerts as well for yourself. [Camelcamelcamel](https://camelcamelcamel.com/)
+
+url:https://reddit.com/r/YouShouldKnow/comments/f7l9zp/
+author:eucatastrophed
+subreddit:YouShouldKnow
+score:1325
+numComments:26
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Before booking any overseas travel, check your passports expiry date. Some countries need your passport to have a minimum of 6 months left of validity before arriving. Some countries also will NOT accept an emergency passport. Check those dates people! (reposted)
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/6wqclz/
+author:baccgirl
+subreddit:LifeProTips
+score:25155
+numComments:763
+isOver18:False
+hasPostBody:False

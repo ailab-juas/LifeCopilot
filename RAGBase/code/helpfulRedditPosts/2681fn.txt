@@ -1,0 +1,15 @@
+title:
+YSK that eBay suffered a massive data breach earlier this week, and is encouraging all of their users to change their passwords immediately.
+
+content:
+http://www.pcworld.com/article/2157604/ebay-users-change-your-passwords-the-auction-site-was-breached.html
+
+And by "immediately" they'll get around to emailing those users eventually. Probably. Maybe. But you should change your password now.
+
+url:https://reddit.com/r/YouShouldKnow/comments/2681fn/
+author:TheCheshireCody
+subreddit:YouShouldKnow
+score:1339
+numComments:79
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Never scan random QR codes just left in public places. It may seem fun and you might be curious of where it leads, but you are essentially clicking an unknown link that could very easily contain malware or spyware that will infect your device
+
+content:
+Same reason you wouldn't click on a link sent by a "Nigerian prince". But at least with a Nigerian prince there are obvious red flags from the start but a random QR code, especially made to look official, may be treated by many more like a game quest than a real link. Only scan QR codes when you are sure of who placed them there and understand the potential consequences of doing so
+
+url:https://reddit.com/r/LifeProTips/comments/sumz7f/
+author:MartianArmadillo
+subreddit:LifeProTips
+score:12014
+numComments:420
+isOver18:False
+hasPostBody:True

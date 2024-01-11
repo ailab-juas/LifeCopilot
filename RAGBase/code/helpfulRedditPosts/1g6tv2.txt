@@ -1,0 +1,13 @@
+title:
+When small talking with a taxi drive. LIE
+
+content:
+Sometimes Taxi drivers will ask you if you're from "around the area?" Always say yes because some drivers tend to take the longer routes if you dont know the place so they can charge you more money
+
+url:https://reddit.com/r/LifeProTips/comments/1g6tv2/
+author:JustAverageJake
+subreddit:LifeProTips
+score:2329
+numComments:970
+isOver18:False
+hasPostBody:True

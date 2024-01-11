@@ -1,0 +1,13 @@
+title:
+YSK not to play in flood waters even if they are not fast moving.
+
+content:
+Why YSK; Flood waters typically involve overflow from sewage systems and can contain chemicals from passing through houses, waste sites, etc. In addition, depending on where you live there can be dangerous animals in the water that have been swept away such as venomous snakes. Many people, young children in particular, are not aware of these risks and will play or boat in the water which can make you ill or cause death.
+
+url:https://reddit.com/r/YouShouldKnow/comments/u80i75/
+author:soulfire_swordsman
+subreddit:YouShouldKnow
+score:1200
+numComments:39
+isOver18:False
+hasPostBody:True

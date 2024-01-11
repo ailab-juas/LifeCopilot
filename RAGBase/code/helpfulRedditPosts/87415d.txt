@@ -1,0 +1,15 @@
+title:
+LPT: The water from your cold tap is cleaner than the water from your warm tap. Don’t use the warm tap water for cooking or drinking.
+
+content:
+Advice from a plumber as he fixed my boiler.
+
+Edit: Yes guys, not “always” true, for a **minority** of modern housing with on-demand heating systems, filtration and pipes that have yet to corrode. Make no mistake though, that is the minority, most people do not share those luxuries!
+
+url:https://reddit.com/r/LifeProTips/comments/87415d/
+author:TerrySimp
+subreddit:LifeProTips
+score:1194
+numComments:269
+isOver18:False
+hasPostBody:True

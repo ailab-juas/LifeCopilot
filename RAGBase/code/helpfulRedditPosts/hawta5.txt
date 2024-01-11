@@ -1,0 +1,13 @@
+title:
+LPT: Every time you learn it is someone’s birthday, take 2 seconds to pull out your phone and add a recurring yearly calendar reminder. It’s a simple seed to plant, and in one year you will look like an extra considerate friend when you reach out early to ask them about their birthday plans.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/hawta5/
+author:lazybear90
+subreddit:LifeProTips
+score:2357
+numComments:74
+isOver18:False
+hasPostBody:False

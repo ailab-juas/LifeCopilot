@@ -1,0 +1,13 @@
+title:
+LPT: Don't assume that everyone loves dogs. Leash your dog and take up less space than you might think you're entitled to
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/u67kpj/
+author:stream_me
+subreddit:LifeProTips
+score:7179
+numComments:896
+isOver18:False
+hasPostBody:False

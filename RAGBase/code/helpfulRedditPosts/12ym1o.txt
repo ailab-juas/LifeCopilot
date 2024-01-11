@@ -1,0 +1,13 @@
+title:
+LPT: use a mason jar instead if a blender pitcher to make smoothies you can drink without a glass. Many blender attachments will fit on mason jars.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/12ym1o/
+author:Polloco
+subreddit:LifeProTips
+score:1722
+numComments:331
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: When starting a new job, listen more than you talk. Even if you already know how to perform the tasks, it can help you get along better with your coworkers.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/cvicp8/
+author:Praha3
+subreddit:LifeProTips
+score:1571
+numComments:39
+isOver18:False
+hasPostBody:False

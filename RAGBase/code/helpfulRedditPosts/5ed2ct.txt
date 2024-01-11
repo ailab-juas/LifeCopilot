@@ -1,0 +1,13 @@
+title:
+YSK of an extension for Youtube which permanently turns off the autoplay feature by removing it
+
+content:
+Note that I don't think this works for playlists, but if you're like me and sick of Youtube's bullshit someone wrote an extension: https://gist.github.com/Yonezpt/51adf278a24488f75ff0
+
+url:https://reddit.com/r/YouShouldKnow/comments/5ed2ct/
+author:annadane
+subreddit:YouShouldKnow
+score:1772
+numComments:69
+isOver18:False
+hasPostBody:True

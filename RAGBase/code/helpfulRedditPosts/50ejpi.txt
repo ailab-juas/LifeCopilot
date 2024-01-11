@@ -1,0 +1,27 @@
+title:
+LPT: When working retail, replace "Sorry for the wait/trouble" with "Thank you for your patience"
+
+content:
+A few months ago I started working for a coffee shop in a rich neighborhood.  A lot of customers get upset if they don't get their drink right away, and it doesn't help that we're often very busy.  I've found that switching "Sorry about the wait" with "Thank you for your patience" makes quite the difference.
+
+"Sorry for the wait" is a very negative phrase.  "Sorry" implies that the listener has to deal with something unpleasant due to a fault of the speaker.  "Wait" implies frustration and impatience.
+
+"Thank you for your patience," on the other hand, is much more positive.  "Thank you" is flattering to the customer.  People feel good when they're thanked.  "Patience" implies calm and understanding.  On top of this, it's easy to say with a smile.  People tend to not feel as comfortable getting upset at somebody who is smiling.  It's a lot harder to say a negative statement like "sorry for the wait" with a smile, as saying "sorry" means you are expressing sympathy or admitting fault.
+
+Of course it's not going to work 100% of the time.  Some people are just irrational and impatient.  But I'd say a good 90% of the time when I use "thank you for your patience," the customer responds with "no problem" or "don't worry about it."
+
+**EDIT**: Okay, so a few things to mention here.
+
+A lot of people are saying "Thank you for your patience" is condescending.  Tone is a very important thing here.  If you say it in a tone like an elementary school teacher speaking to 10 year olds, then yes it is condescending.  When using this phrase, you have to use a tone that shows the customer that you genuinely are grateful that they have been patient.  And the key here is being genuine.  If you don't give a shit about their wait, then no matter how you say it it's going to come off as condescending.  If you genuinely appreciate that they are waiting, your tone is going to come off much more friendly and appreciative.  This LPT won't really work if you just use your generic "retail voice."
+
+Some people are saying that the apology is better because you are taking responsibility for it.  The thing I've learned about retail is that if you take responsibility for every thing that goes wrong, you're going to have a miserable time.  If it is your own mistake, such as ringing in an order wrong, an apology usually won't hurt.  But there's no need for you to apologize if somebody else made the mistake, or if a customer came in with a large order, or if you can't do something due to company policy, or really for anything that happens outside of your control.  Saying "sorry" in those situations only makes you a target for the customer's anger.
+
+People are inclined to mimic the behaviors of those around them.  If you act in a very positive manner with a smile and positive words, most people will act positively in return.  If you speak with many negative words, it makes it more likely that the person will react more negatively in return.  It's not going to work 100% of the time.  Play it by ear.  Some situations may work better if you apologize.  Some people would rather have their ego stroked with a "thank you," while other would rather hear you apologize.  But I've found in my experience working with a large number of customers every day, people tend to react more positively to "thank you for your patience" simply because it is a more positive sounding statement.
+
+url:https://reddit.com/r/LifeProTips/comments/50ejpi/
+author:godzillalikespie
+subreddit:LifeProTips
+score:4369
+numComments:2333
+isOver18:False
+hasPostBody:True

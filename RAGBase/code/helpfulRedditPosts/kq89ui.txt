@@ -1,0 +1,29 @@
+title:
+LPT: When unsure about how long your reply should be, try roughly mirroring the word count of the message you are replying to. This keeps the dialogue at about 50/50, which is a healthy balance for most types of conversation.
+
+content:
+Consider the first of Grice's maxims of conversation, which are widely accepted by linguists and professional communicators as critical tools to have functional conversations. Grice's maxims apply to spoken conversations as well as email exchanges and text messages.
+
+His first maxim: The Maxim of Quantity
+
+"A good communicator must provide the most helpful amount of information. A speaker must not bombard the listener with too much detail nor must she give insufficient information. For instance, when someone is lost and asking for directions, too much information may confuse the listener but too little information would not get him where he is supposed to go." https://www.elcomblus.com/paul-grices-maxims-of-communication/
+
+As an easy shorthand, the 50/50 rule is a good place to start.
+
+In power-mismatched conversations (a mentor teaching a skill, for example), the 50/50 rule doesn't generally apply (though 99/1 is a bad ratio: engaged students tend to retain more and learn faster). But even then, the mentor shouldn't overload the listener with extraneous information.
+
+This principle is especially helpful in non-professional interpersonal relationships. If one person wants to talk at length, but the other doesn't, it will strain the relationship. Pay attention to the manner, length, quality and relevance of the conversation, and do your best to keep the conversation active.
+
+People violate this to social peril if they reply with one-word answers to longer, sincere questions. People also run into social danger if they reply to casual questions with too much information.
+
+Another area of application is your birthday. If a friend texts you "hbd" ("happy birthday"), it's appropriate to reply along the lines of "ty!" or "thx!" If you reply with a long paragraph about how meaningful they are in your life, you may be very disappointed to see that they won't respond in kind.
+
+Alternately, if someone takes the time to write a long letter or email to you, thanking you or expressing concerns, it's appropriate to reply with a similarly-thoughtful response of a roughly similar length. This encourages the relationship to continue by communicating your respect for them, and your willingness to find a middle ground of discourse.
+
+url:https://reddit.com/r/LifeProTips/comments/kq89ui/
+author:garrettgibbons
+subreddit:LifeProTips
+score:19609
+numComments:570
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: If you are having trouble with your phone charger, use a toothpick to clean out the phones charging port. More often than not, it’s filled with lint from being in your pocket. Pull it out and it will work like new again.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/7ay0qq/
+author:christhechronic
+subreddit:LifeProTips
+score:27153
+numComments:1054
+isOver18:False
+hasPostBody:False

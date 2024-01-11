@@ -1,0 +1,13 @@
+title:
+LPT: When travelling abroad, take just one travel adapter and a power strip.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/wrq42/
+author:oodley
+subreddit:LifeProTips
+score:1829
+numComments:477
+isOver18:False
+hasPostBody:False

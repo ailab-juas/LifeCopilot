@@ -1,0 +1,13 @@
+title:
+YSK: When walking down the road, walk towards traffic rather than with it.
+
+content:
+Why YSK: Facing traffic allows you to see oncoming cars and avoid being injured.  I know it might seem obvious, but I see people walking with their backs to oncoming traffic nearly every time I'm out.  Be safe out there!
+
+url:https://reddit.com/r/YouShouldKnow/comments/ucek9n/
+author:beerswithbears
+subreddit:YouShouldKnow
+score:8709
+numComments:508
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+YSK about TraffickCam, an app designed to help fight human trafficking by having users upload pictures of their hotel rooms.
+
+content:
+Why YSK: An estimated 24.9 million people are trafficked worldwide annually with many of these people being forced into the sex trade. Traffickers often rent hotel rooms and post online ads that include pictures of the victim(s) posed in the hotel room. TraffickCam asks users to select their hotel and room number, and then upload pictures of specific areas and items within the room. The pictures are uploaded to a database that law enforcement can use as clues when investigating hotel rooms that are suspected of being used for sex trafficking. 
+
+Please download the app and the next time you travel, take the time to snap a few pictures of your hotel room. Your pictures could be the key piece of evidence that investigators need to take down sec traffickers and rescue their victims. Thank you for trading.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ydlxm4/
+author:NeuroticNurse
+subreddit:YouShouldKnow
+score:19638
+numComments:460
+isOver18:False
+hasPostBody:True

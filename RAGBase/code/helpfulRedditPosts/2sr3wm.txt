@@ -1,0 +1,13 @@
+title:
+LPT: To get a bird or an animal out of your house.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/2sr3wm/
+author:gladeyes
+subreddit:LifeProTips
+score:1788
+numComments:359
+isOver18:False
+hasPostBody:False

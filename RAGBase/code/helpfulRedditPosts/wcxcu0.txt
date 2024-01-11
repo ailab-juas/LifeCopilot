@@ -1,0 +1,13 @@
+title:
+LPT: To make a can of tomato soup good, don't add water or milk, add beef broth or beef bone broth!
+
+content:
+This adds a ton of flavor without the heaviness of cream. Plus, tomato and beef? Perfect match.
+
+url:https://reddit.com/r/LifeProTips/comments/wcxcu0/
+author:Sorceress683
+subreddit:LifeProTips
+score:7025
+numComments:639
+isOver18:False
+hasPostBody:True

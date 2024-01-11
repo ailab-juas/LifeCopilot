@@ -1,0 +1,15 @@
+title:
+YSK: that your google searches can be seriously improved by including what you DONT want it to find. Eg. searching BBQ recipes -beef will take out beef results.
+
+content:
+Why YSK: often the hardest part of finding the information you want is getting rid of the information you don’t want. Knowing this trick can get you to that information a lot quicker and customise what is shown.
+
+Edit: for clarity, adding the minus sign will exclude that word from results.
+
+url:https://reddit.com/r/YouShouldKnow/comments/rrleto/
+author:dandan_56
+subreddit:YouShouldKnow
+score:2897
+numComments:87
+isOver18:False
+hasPostBody:True

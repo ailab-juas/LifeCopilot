@@ -1,0 +1,13 @@
+title:
+LPT: Save time in tying your laces with the Ian Knot (world's fastest shoelace knot)
+
+content:
+This video explains how to do it: https://www.youtube.com/watch?v=WgSwvDkJVxE
+
+url:https://reddit.com/r/LifeProTips/comments/3hp5ds/
+author:alimongo
+subreddit:LifeProTips
+score:3938
+numComments:709
+isOver18:False
+hasPostBody:True

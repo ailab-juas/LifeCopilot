@@ -1,0 +1,13 @@
+title:
+LPT: Pay more attention to two-star user reviews online more than one-star reviews
+
+content:
+A lot of people tend to use one-star reviews without proper justification. They could be complaining about the courier service, just be generally irrationally angry, or have something against the company that doesn't have anything to do with the product in question. **Generally speaking**, two-star reviews tend to be far more genuine, less spammy, and weigh up the pros and cons. I find it works best on Google reviews and Amazon.
+
+url:https://reddit.com/r/LifeProTips/comments/5v4ra1/
+author:fingu
+subreddit:LifeProTips
+score:4604
+numComments:206
+isOver18:False
+hasPostBody:True

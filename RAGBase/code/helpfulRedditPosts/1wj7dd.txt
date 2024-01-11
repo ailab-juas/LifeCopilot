@@ -1,0 +1,13 @@
+title:
+LPT: When using Hulu, refresh the page at every ad-break. You'll only have to watch a 30 second ad compared to the usual longer length.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1wj7dd/
+author:Camper33
+subreddit:LifeProTips
+score:1596
+numComments:363
+isOver18:False
+hasPostBody:False

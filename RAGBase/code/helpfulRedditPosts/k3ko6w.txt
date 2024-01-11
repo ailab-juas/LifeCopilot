@@ -1,0 +1,13 @@
+title:
+LPT: You can rent common heavy duty tools at Home Depot. If you rent a tool for 4 hrs less than 3 hrs before they close, it won't be due until the next morning so you can get it for 12+ hrs
+
+content:
+Anything from commercial carpet shampooers to nail guns
+
+url:https://reddit.com/r/LifeProTips/comments/k3ko6w/
+author:TheHackfish
+subreddit:LifeProTips
+score:5266
+numComments:222
+isOver18:False
+hasPostBody:True

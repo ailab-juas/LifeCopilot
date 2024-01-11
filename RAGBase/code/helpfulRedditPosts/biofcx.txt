@@ -1,0 +1,13 @@
+title:
+LPT: If you want to offer a deep and memorable compliment, ask someone how they did something. It gives them the opportunity to tell their story, and shows your genuine interest.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/biofcx/
+author:AlphaWhiskeyHotel
+subreddit:LifeProTips
+score:44184
+numComments:507
+isOver18:False
+hasPostBody:False

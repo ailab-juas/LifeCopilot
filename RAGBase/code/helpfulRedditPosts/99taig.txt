@@ -1,0 +1,13 @@
+title:
+LPT: Learn to do -- and enjoy -- things by yourself. You're going to miss out on a lot of fun if you keep waiting for someone else to accompany you.
+
+content:
+Yes, bring on the inevitable and endless masturbation comments. 
+
+url:https://reddit.com/r/LifeProTips/comments/99taig/
+author:enfanta
+subreddit:LifeProTips
+score:63883
+numComments:2297
+isOver18:False
+hasPostBody:True

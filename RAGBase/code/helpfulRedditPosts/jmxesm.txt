@@ -1,0 +1,13 @@
+title:
+LPT: If someone recommends a movie/tv show to you, write it down and write their name next to it so if you do end up liking what they recommended, you can thank them.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/jmxesm/
+author:JARVllS
+subreddit:LifeProTips
+score:1213
+numComments:46
+isOver18:False
+hasPostBody:False

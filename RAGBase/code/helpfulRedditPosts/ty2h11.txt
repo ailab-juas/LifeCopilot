@@ -1,0 +1,21 @@
+title:
+YSK: Sudden worst headache of your life? Go to the ER before 6 hours.
+
+content:
+
+The majority of headaches are benign. But should you experience a sudden onset (max pain within 2-3 minutes) headache that’s truly “worst pain of you life” this could be a subarachnoid hemorrhage. Basically a burst blood vessel in your head. Head CT done within 6 hours is nearly 99% accurate and able to safely rule out bleeding in the skull. Waiting longer than that can cause the bleed to reabsorb. Also important as often devastating SAH bleeds usually have a precursor bleed where the patient’s Headache eventually improved but was a warning sign. 
+
+Why YSK: it could save your life. 
+Source: am ER doctor. 
+https://rebelem.com/does-a-normal-head-ct-within-6-hours-of-onset-of-headache-rule-out-sah/
+
+
+Edit: a lot of people had a similar question and I couldn’t respond to them all.—- you only have to worry if it’s a thunderclap, or gunshot to the head headache. It has to be both nearly instantaneous/sudden in starting and also start at the highest/maximum pain level of the headache.  It should be as if lightening struck you with a big boom of thunder right after. If you feel it coming on, or if it starts bad but then gets worse over a few minutes/ hours etc then that’s not SAH. Also if you have the occasional bad headache that comes and goes, or a history of migraines/ similar headaches you probably shouldn’t worry.The VAST majority of headaches are benign. When in doubt go visit your primary care doctor. They can get you an mri if you haven’t had one or neurologist appointment. If you’ve had a clean mri you are good. And as my tip original mentioned get to the ER for a head ct within 6 hours of a true “gunshot”/ “thunderclap” headache.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ty2h11/
+author:FartsLikeWine
+subreddit:YouShouldKnow
+score:9344
+numComments:673
+isOver18:False
+hasPostBody:True

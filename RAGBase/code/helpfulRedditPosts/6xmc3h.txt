@@ -1,0 +1,13 @@
+title:
+LPT: A pillow case is a quick pet carrier if you need to escape a house fire.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/6xmc3h/
+author:TryingToKeepItSimple
+subreddit:LifeProTips
+score:1691
+numComments:133
+isOver18:False
+hasPostBody:False

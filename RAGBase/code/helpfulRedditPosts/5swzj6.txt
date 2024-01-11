@@ -1,0 +1,13 @@
+title:
+LPT: If someone randomly brings up something in a conversation, pay good attention to them because they probably had it on there mind for a while.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5swzj6/
+author:Marading
+subreddit:LifeProTips
+score:32346
+numComments:1265
+isOver18:False
+hasPostBody:False

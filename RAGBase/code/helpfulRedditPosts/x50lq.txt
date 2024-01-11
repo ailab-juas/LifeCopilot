@@ -1,0 +1,13 @@
+title:
+LPT:  Hang on to those silica packets for drying out your wet phone.  Works better than rice.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/x50lq/
+author:physep
+subreddit:LifeProTips
+score:1669
+numComments:155
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: To heat yourself during the winter, have a hot water bottle on your legs while sitting down doing your work, it will conduct through the rest of your body and will heat you almost the same as a heater would do at a small fraction of the cost. Energy prices are far too much, be safe this winter
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/z12bds/
+author:LightConquersDark_
+subreddit:LifeProTips
+score:2230
+numComments:100
+isOver18:False
+hasPostBody:False

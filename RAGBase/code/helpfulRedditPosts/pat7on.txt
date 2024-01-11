@@ -1,0 +1,13 @@
+title:
+LPT get your pizza toppings at a salad bar like whole foods
+
+content:
+Instead of buying a large quantity of any pizza topping you can get a small portion at the salad bar in a Whole Foods or similar. This makes making homemade pizza a lot easier and more economical.
+
+url:https://reddit.com/r/LifeProTips/comments/pat7on/
+author:Ajlaursen
+subreddit:LifeProTips
+score:2324
+numComments:174
+isOver18:False
+hasPostBody:True

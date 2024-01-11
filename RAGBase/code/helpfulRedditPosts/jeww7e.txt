@@ -1,0 +1,13 @@
+title:
+LPT: If you get a gut instinct or someone makes you feel uncomfortable, follow it. Even if that person is super popular or “liked”.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/jeww7e/
+author:kouignie
+subreddit:LifeProTips
+score:47707
+numComments:1608
+isOver18:False
+hasPostBody:False

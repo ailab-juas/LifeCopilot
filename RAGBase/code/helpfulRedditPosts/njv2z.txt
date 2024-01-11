@@ -1,0 +1,13 @@
+title:
+LPT: Bread tags make the good cord labels.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/njv2z/
+author:Tre_64
+subreddit:LifeProTips
+score:1637
+numComments:88
+isOver18:False
+hasPostBody:False

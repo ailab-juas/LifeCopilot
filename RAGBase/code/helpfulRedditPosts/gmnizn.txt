@@ -1,0 +1,13 @@
+title:
+LPT: The only person you need to be concerned with impressing is yourself in 10 years.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/gmnizn/
+author:TheFlightlessPenguin
+subreddit:LifeProTips
+score:35820
+numComments:509
+isOver18:False
+hasPostBody:False

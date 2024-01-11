@@ -1,0 +1,13 @@
+title:
+LPT: Employees are often asked to complete tasks a certain way. If you know a better way to do something; demonstrate that you can complete the task the way you've been asked to before you suggest your way to do it. People are more willing to learn your way once they see that you understand theirs
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/daipr8/
+author:Jedi_Lucky
+subreddit:LifeProTips
+score:3974
+numComments:55
+isOver18:False
+hasPostBody:False

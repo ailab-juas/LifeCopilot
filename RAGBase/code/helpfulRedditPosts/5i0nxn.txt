@@ -1,0 +1,15 @@
+title:
+YSK how to quickly rebut most common climate change denial myths.
+
+content:
+This is a helpful summary of global warming and climate change denial myths, sorted by recent popularity, with detailed scientific rebuttals. Click the response for a more detailed response. You can also view them sorted by taxonomy, by popularity, in a print-friendly version, with short URLs or with fixed numbers you can use for permanent references.
+
+[Global Warming &amp; Climate Change Myths with rebuttals](https://www.skepticalscience.com/argument.php)
+
+url:https://reddit.com/r/YouShouldKnow/comments/5i0nxn/
+author:naufrag
+subreddit:YouShouldKnow
+score:9299
+numComments:1495
+isOver18:False
+hasPostBody:True

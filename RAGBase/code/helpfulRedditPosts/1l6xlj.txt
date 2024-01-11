@@ -1,0 +1,25 @@
+title:
+YSK How To Delete Your Accounts On Amazon, Skype, etc. (And Which Accounts Are Impossible To Delete)
+
+content:
+Slate posted [this article](http://www.slate.com/blogs/future_tense/2013/08/26/just_delete_me_how_to_delete_your_account_on_amazon_netflix_skype_et_al.html) today about Just Delete Me, "a directory of direct links to delete your account from web services".
+
+Ever spent twenty minutes clicking aimlessly through a site trying to find a way to delete your account, only to find that it is really complicated or seemingly impossible to do?
+
+1. Go to [justdelete.me](http://justdelete.me) and find the service from which you want to delete your account.
+2. Click on the service’s name and it will bring you to that service's account deactivation page, where you can simply follow the instructions on the screen.
+
+In cases where the process is more involved or if the website's instructions aren't clear, you can click “show info” on the Just Delete Me page to learn in simple terms exactly how to delete your account.
+
+Another feature of justdelete.me, aside from providing instructions, is that it color-codes each service in terms of how difficult it is to delete that account. Green = easy, yellow = medium, red= hard, black = impossible. This allows you to see at a glance which websites are stubbornly reluctant to release your data back to you.
+
+(By the way, a few of those websites rated "Impossible" include Netflix, Craigslist, Pinterest, Evernote, and Wikipedia.)
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/1l6xlj/
+author:LRN
+subreddit:YouShouldKnow
+score:2262
+numComments:142
+isOver18:False
+hasPostBody:True

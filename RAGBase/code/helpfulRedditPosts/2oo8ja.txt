@@ -1,0 +1,17 @@
+title:
+LPT: Stop letting Java updates bundle themselves with "bonus" offers
+
+content:
+https://www.java.com/en/download/faq/disable_offers.xml
+
+No more Ask Toolbar for your parents' computers.
+
+Edit: Stop telling me I don't need Java.
+
+url:https://reddit.com/r/LifeProTips/comments/2oo8ja/
+author:PlushSandyoso
+subreddit:LifeProTips
+score:3148
+numComments:556
+isOver18:False
+hasPostBody:True

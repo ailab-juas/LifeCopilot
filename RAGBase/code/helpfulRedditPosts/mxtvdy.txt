@@ -1,0 +1,15 @@
+title:
+LPT: Don't throw your old phone away. Use it as a dedicated media player.
+
+content:
+Take the sim out, remove all apps except kindle and media player, switch to airplane mode, and load up the memory with all your movies, e-books, podcasts, music and audiobooks and use it just for media. Without any comms or other background processes, the battery will last for ages and its ideal for long journeys and days on the beach.  You could also turn the screen brilliance down and animations off.
+
+Save your new phone for power hungry internet, social media, calls and messages.
+
+url:https://reddit.com/r/LifeProTips/comments/mxtvdy/
+author:prustage
+subreddit:LifeProTips
+score:1018
+numComments:112
+isOver18:False
+hasPostBody:True

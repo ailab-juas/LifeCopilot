@@ -1,0 +1,13 @@
+title:
+LPT: When traveling, bring your packing list on the trip with you; that way you have an easy checklist when you're leaving to make sure you don't leave anything behind.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/284jmd/
+author:IfIWasATuna
+subreddit:LifeProTips
+score:1998
+numComments:161
+isOver18:False
+hasPostBody:False

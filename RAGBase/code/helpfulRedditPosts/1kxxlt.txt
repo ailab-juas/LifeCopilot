@@ -1,0 +1,14 @@
+title:
+LPT: Set your homepage to Wikipedia's 'Random Article' button to learn something new every time you open a browser window.
+
+content:
+Just to make it easier here's the link:
+http://en.wikipedia.org/wiki/Special:Random
+
+url:https://reddit.com/r/LifeProTips/comments/1kxxlt/
+author:Mezby
+subreddit:LifeProTips
+score:1785
+numComments:277
+isOver18:False
+hasPostBody:True

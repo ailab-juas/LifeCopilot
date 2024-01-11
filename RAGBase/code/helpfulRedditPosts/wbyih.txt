@@ -1,0 +1,13 @@
+title:
+LPT: Turn a few wooden pallets into patio furniture!
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/wbyih/
+author:torontoitguy
+subreddit:LifeProTips
+score:1095
+numComments:108
+isOver18:False
+hasPostBody:False

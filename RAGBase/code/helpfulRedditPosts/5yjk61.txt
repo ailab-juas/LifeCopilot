@@ -1,0 +1,13 @@
+title:
+LPT: If the emotional reaction of the person you're talking to seems out of proportion to the situation, they're probably upset about something other than the current topic of conversation.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5yjk61/
+author:Kat-xith
+subreddit:LifeProTips
+score:19146
+numComments:1122
+isOver18:False
+hasPostBody:False

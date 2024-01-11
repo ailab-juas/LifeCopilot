@@ -1,0 +1,13 @@
+title:
+LPT: When inspecting a new house or flat to rent, check whether you have good reception on your cell phone
+
+content:
+They often only give you 15 minutes to inspect a rental, and living somewhere with bad reception is a nightmare in the long run.
+
+url:https://reddit.com/r/LifeProTips/comments/1mtnm8/
+author:mhoop
+subreddit:LifeProTips
+score:1764
+numComments:271
+isOver18:False
+hasPostBody:True

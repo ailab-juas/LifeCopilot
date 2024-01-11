@@ -1,0 +1,13 @@
+title:
+LPT: We wanted our kids to memorize our cell phone numbers so that they could reach us in case of emergency. We made the passcode on the iPad our cell phone numbers. They had them memorized in days.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/brwiyt/
+author:pumpernickelback2the
+subreddit:LifeProTips
+score:5736
+numComments:184
+isOver18:False
+hasPostBody:False

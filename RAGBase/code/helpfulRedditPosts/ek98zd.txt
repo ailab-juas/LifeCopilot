@@ -1,0 +1,13 @@
+title:
+LPT: If you struggle with productivity, create a checklist of quick and simple tasks and complete it right before each work session. This will create a trigger that tricks your brain into "work mode" which gets stronger with time.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ek98zd/
+author:Dad_Quest
+subreddit:LifeProTips
+score:2580
+numComments:74
+isOver18:False
+hasPostBody:False

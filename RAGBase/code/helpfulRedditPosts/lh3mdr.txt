@@ -1,0 +1,13 @@
+title:
+LPT: if you want to read a book, or need a book for a class but don’t want to spend a bunch of money, go to archive.org, about 95% of the titles I’ve ever searched are there, in their entirety, for free.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/lh3mdr/
+author:Maximum_Pass
+subreddit:LifeProTips
+score:54081
+numComments:874
+isOver18:False
+hasPostBody:False

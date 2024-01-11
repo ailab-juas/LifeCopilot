@@ -1,0 +1,15 @@
+title:
+YSK - October 1 is the first day to file the Free Application for Student Aid (FAFSA)
+
+content:
+The form for the 2020/21 academic year is available [here](https://studentaid.ed.gov/sa/sites/default/files/2020-21-fafsa.pdf)
+
+EDIT: the title should have included that this is for the US only. Also, if you applied previously, you need to apply again for every academic year you are enrolled as a student. If you are graduating HS this coming spring, apply now, even if you are not sure if you will be attending college in the fall. If you only got loans as an option last time, apply again! You never know!
+
+url:https://reddit.com/r/YouShouldKnow/comments/dbwyyq/
+author:sunkid
+subreddit:YouShouldKnow
+score:5639
+numComments:237
+isOver18:False
+hasPostBody:True

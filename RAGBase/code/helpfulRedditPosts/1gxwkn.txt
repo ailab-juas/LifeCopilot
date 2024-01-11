@@ -1,0 +1,13 @@
+title:
+LPT: When meeting new people, instead of asking "what do you do?" or "what's your line of work?" ask "what's keeping you busy?"
+
+content:
+When you're meeting new people you inevitably ask questions like "where are you from" "how do you know {mutual_friend}" and "where do you work?" To avoid that awkward moment where someone says "I'm at a stay at home mom" or "I'm unemployed" instead ask "what's keeping you busy?" Someone might say "my work is keeping me busy" or "the kids at home are a handful." You are then free to ask follow up questions about their work, hobby and passions that keep them busy. 
+
+url:https://reddit.com/r/LifeProTips/comments/1gxwkn/
+author:xavier86
+subreddit:LifeProTips
+score:1990
+numComments:536
+isOver18:False
+hasPostBody:True

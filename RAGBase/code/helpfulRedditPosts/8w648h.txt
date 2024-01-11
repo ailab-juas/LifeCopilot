@@ -1,0 +1,13 @@
+title:
+LPT: If you have an essay due and no one to revise it, copy and paste it into a text to speech reader to assist you in finding your errors.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/8w648h/
+author:BravoBet
+subreddit:LifeProTips
+score:2228
+numComments:74
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,21 @@
+title:
+LPT: Going to the hospital just because you have COVID and aren’t feeling well or to get checked on is not a good reason to go to the hospital. Go to the ER if you’re having a legitimate medical emergency!
+
+content:
+I work in healthcare and work in rather busy 911 system. In my region, and across the country, hospitals are operating under crisis conditions. Staffing shortage in hospitals, in fire departments, and in EMS agencies has stretched the healthcare system to the absolute max. COVID has only made this worse, compounded with mismanagement across multiple levels. Unfortunately, fear generated among the general public regarding COVID, especially around the holidays, has lead to a huge increase in 911 calls and ERs getting absolutely destroyed. 
+
+Many of these patients that are calling 911 are doing so because they have COVID and are sick, but not critically ill. Many of these patients are being sent to the waiting room for hours on end (some waiting on average nearly 12 hours to be seen by a provider) and has tied up resources in an already crippled system away from people that are legitimately sick or injured. Many hospitals are going on diversion for they have no more beds or they don’t have enough staff to cover the huge patient load. 
+
+If you have COVID and are not critically sick, PLEASE stay home and self monitor! Going to the hospital to get tested or to get a check up is NOT the best idea, especially considering how the waiting room is only causing more people to get sick. Hospitals are so full right now that we have patients that literally die out in the waiting room. The system is falling apart, and there’s not really a light at the end of the tunnel, at least not in the US. 
+
+Sorry for the rambling. Probably an unpopular opinion but the system is in need of a serious overhaul.
+
+Edit: To clarify, I’m not saying to not go to the hospital if you need medical attention. If you are having a medical emergency, please do! What I’m saying is that going to the hospital with mild or no symptoms is not going to be beneficial for you or the providers at the hospital, for you will have to wait to receive care. If you need medical attention, PLEASE SEEK IT!
+
+url:https://reddit.com/r/LifeProTips/comments/rxjpmu/
+author:literallyforthememes
+subreddit:LifeProTips
+score:5000
+numComments:433
+isOver18:False
+hasPostBody:True

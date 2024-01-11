@@ -1,0 +1,47 @@
+title:
+LPT: Create a contact in your phone named "Car" and fill in it's information in the "Notes" section
+
+content:
+[I used my car as an example.](http://i.imgur.com/FBsegmo.jpg)
+
+Create a contact in your phone called either "Car" or whatever your Make and Model is.  I used "Hyundai Veloster" because that's what I drive.
+
+On Android (I assume iOS has something similar), all the way at the bottom of the Contact's info, there is a section for "Notes".  I use that space to enter all the information I may need at a moment's notice for my car.  
+
+I have a terrible memory and will likely not remember my license plate, or what type of oil my car takes, or my VIN, etc.  **This really helps me if I have a headlight go out and need to get one at the store on the way home, or any number of scenarios where this information may not be readily available otherwise.**
+
+Here's a quick template that you can modify as needed:
+
+VIN:
+
+PLATE:
+
+HEADLIGHT:
+
+BRAKELIGHT:
+
+OIL TYPE:
+
+OIL AMOUNT:
+
+OIL INTERVAL:
+
+TIRE SIZE:
+
+TIRE PSI:
+
+WIPER (FRONT, DRIVER)
+
+WIPER (FRONT, PASS.):
+
+It may seem a little silly, but it's definitely helped me before.
+
+**EDIT:**  Several people have pointed out that there are other, perhaps more effective, methods of keeping this information handy.  Use whatever works best for you.  People so far have mentioned [**Google Keep**](http://www.google.com/keep/), [**Evernote**](https://evernote.com/), and [**OneNote**](https://www.onenote.com/).
+
+url:https://reddit.com/r/LifeProTips/comments/3m2wt3/
+author:ebonythunder
+subreddit:LifeProTips
+score:3052
+numComments:371
+isOver18:False
+hasPostBody:True

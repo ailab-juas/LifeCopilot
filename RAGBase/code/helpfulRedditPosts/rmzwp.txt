@@ -1,0 +1,13 @@
+title:
+The boys won't wash their hands?  Just add Lego!
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/rmzwp/
+author:actonesceneone
+subreddit:LifeProTips
+score:2375
+numComments:221
+isOver18:False
+hasPostBody:False

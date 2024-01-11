@@ -1,0 +1,13 @@
+title:
+LPT: if you zone out during a conversation and want to make it seem like you were paying attention the whole time just repeat the last thing that was said back in the form of a question.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/a12c4l/
+author:scottamus_prime
+subreddit:LifeProTips
+score:6947
+numComments:555
+isOver18:False
+hasPostBody:False

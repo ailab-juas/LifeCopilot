@@ -1,0 +1,13 @@
+title:
+LPT: When wearing a tie on a windy day, slip a coin down the inside of the hem to keep the tie from blowing around.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/j2xnwq/
+author:raviji22
+subreddit:LifeProTips
+score:52404
+numComments:1194
+isOver18:False
+hasPostBody:False

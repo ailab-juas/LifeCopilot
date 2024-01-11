@@ -1,0 +1,13 @@
+title:
+LPT: Read everything you write before posting it. It sounds obvious but a surprising number of us undermine our own credibility with careless mistakes. Even a quick read-over once you’re finished writing will catch a high percentage of errors.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/i1vbb5/
+author:kevbosearle
+subreddit:LifeProTips
+score:2737
+numComments:118
+isOver18:False
+hasPostBody:False

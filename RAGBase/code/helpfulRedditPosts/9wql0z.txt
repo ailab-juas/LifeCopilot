@@ -1,0 +1,13 @@
+title:
+LPT: When you're editing a paper, change the font to something unfamiliar. Then change the font size. When you're familiar with a piece, your eyes gulp whole passages and miss typos and other grammatical errors. New fonts focus your eyes on each word and letter.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/9wql0z/
+author:gangbangkang
+subreddit:LifeProTips
+score:30360
+numComments:351
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,101 @@
+title:
+YSK: Assume that the company you work for can see (and hear!) everything you do when you WFH.
+
+content:
+**Why YSK:** This information can be used to fire you, and to deny your raise/promotion.  Shortsighted HR departments are increasingly using this software as the leading indicator of your value to the company *above all else.*
+
+See the bottom of this post for things you can do to protect yourself from this idiocy.
+
+**Why I wrote this:**
+
+I was shocked at the response when I mentioned this concept in a prior comment.  Many people this affects are wholly unaware.
+
+Recently, someone I know was fired FOR CAUSE due to their "lack of engagement, and unprofessional conduct."
+
+I have a little insight into what that means by way of some work buddies, and personal review of the software that was used because her boss is a narcissistic assclown who was so proud of himself that he showed me the tools that were used.
+
+This all began because the software on her computer flagged a word in a "private" Teams chat with a colleague which started the boss down a vindictive road of parallel construction - eventually lead to her termination.  That word was "ass."
+
+**A quick summary:**
+
+"Bossware" has been something companies could use for over a decade, but the bastards have integrated other Orwellian stuff like facial recognition to monitor your mood.
+
+* [Here is an in-depth article about it from EFF.](https://www.eff.org/deeplinks/2020/06/inside-invasive-secretive-bossware-tracking-workers)
+* [This is a one-pager about it.](https://www.theladders.com/wp-content/uploads/02-How-Employers-Monitor-Employees.png)
+* [This is a comparison of a handful of bossware's features.](https://i.imgur.com/5JiyAfT.png)
+
+[Source](https://www.theladders.com/career-advice/bossware-report-when-wfh-means-the-boss-is-watching-what-bosses-see-how-to-prevent-it)
+
+&gt;12% of all firms have already installed it (16% at larger firms), and 8% already plan to implement it (11% at larger firms). Tracking software like this has an ominously William Gibson-esque nickname: bossware.  
+&gt;  
+&gt;For example, bosses may use unpublicized features of their corporate email package to look out for trigger words in your emails. Or they may use dedicated bossware to check that you’re actually at your computer when you say you are.  
+&gt;  
+&gt;Employers can install hidden software on your device that tracks your movements via GPS, all SMS messages and other messaging app usage, and can even record calls and Skype interactions.
+
+**There is a nonzero chance that:**
+
+* Your webcam is taking periodic screenshots, or even video of you and your surroundings.
+* Your mic is *always* "hot."
+* Your calls are *always* recorded.
+* Your chats and emails are *always* scraped for keywords.
+* Your keystrokes, and mouse movements are *always* tracked.
+* Your "engagement" is *always* monitored to the millisecond.
+
+I emphasize the word always because software doesn't sleep.  Humans don't see everything at all times.  The key here is that a human is flagged for nonsensical things by the software, and that human can really pick you apart from there.
+
+**Some basic stuff you can do to protec' ya' neck:**
+
+* Shut your computer down after work.  A device that's off has very low risk of snooping during time you don't even get paid for 
+* Reconsider having personal sidechats with your coworkers on company hardware.
+* Cover your webcam when not in use.
+* Get your own headset with a hardware mute button and leave it muted until you need to speak.
+* Alternatively, buy shitty headphones with a mic and cut the cable.  Plug that in to your laptop instead.  The idea is to tell the software that a mic is connected, but use a physical switch between the computer and mic to deactivate it.
+* Move your mouse if you are idle during a listening task like an all hands call.
+* Type things frequently.
+* Don't browse anything that isn't 100% work related on company hardware.
+* If your router has a “guest” network option activate it and ONLY connect your work computer to that guest network. A guest network essentially just lets said machine access the internet and blocks them seeing other machines and devices on your network.  Do NOT use an Ethernet cord for your work computer. 
+* All else fails - get another job, and let your boss know why after the new contract is signed.
+
+---------
+
+Additionally, I want to dispell any notion that humans (especially from IT) are looking at this data AT ALL TIMES.  IT doesn't give a shit about it unless they're told to.
+
+**HOWEVER...**
+
+This information is often used to retroactively find a reason to shitcan you if the company needs money, or your boss flat out doesn't like you.
+
+Consider this scenario:
+
+**CEO**:  Gosh times are tough at Megacorp Inc!  Profits are down, and we're going to need to tighten our belts for Q4!  Who can we cut?
+
+**CFO**:  I'll reach out to the directors for estimates.
+
+**Director**:  All of my team is great!  We always have our work done on time and it is perfectly to spec.  Let me discuss this with my managers.
+
+**Managers**:  We agree that we have no bad employees.  They are friendly, helpful, and are all equally talented workers with identical output.
+
+**Director**:  We have to cut SOMEBODY.  *Find me a reason* so that my  morals arent compromised.
+
+**Managers**:  The spyware says that employee #1 works naked, and takes frequent breaks, and that employee #2 called you a doodoo head in a conversation with employee #3.
+
+**Director**:  Excellent.  That's $120,000 we can give back to the company.  Let HR know they'll need packets.
+
+\**Edited to add something.
+
+--------------
+
+#PLEASE DONT GIVE ME GOLD
+
+I appreciate the sentiment.  I do.  But I feel like that money is better spent helping the folks who figure this shit out for us, and fight for our digital rights.
+
+If you feel like handing over your money, please consider [donating to the Electronic Frontier Foundation (EFF).](https://supporters.eff.org/donate/join-eff-m--m)  
+
+You can also have [Amazon donate for you using their Smile program.](https://smile.amazon.com)
+
+url:https://reddit.com/r/YouShouldKnow/comments/pxtjse/
+author:Bovinius__Cudd
+subreddit:YouShouldKnow
+score:17833
+numComments:1102
+isOver18:False
+hasPostBody:True

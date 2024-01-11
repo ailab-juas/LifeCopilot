@@ -1,0 +1,17 @@
+title:
+YSK that nearly every headlamp in the world is required by law to be able to be aimed. This is especially important for lifted truck owners.
+
+content:
+Every vehicle is different, but most of them look like [this](https://trail4runner.com/wp-content/uploads/2018/02/aiming_headlights_5th_gen_4runner_passenger_full.jpg) or [this](https://www.f150forum.com/attachments/f118/538364d1511541476-2017-headlamp-vertical-adjustment-2017-11-24_11-34-52.jpg). They are rarely obvious as soon as you open your hood, but you should be able to find it somewhere on the back of your headlamps.
+
+This is required by law in all of North America, Europe, Russia, China, Middle East, and many more countries. In Europe and many Asian countries, they actually require both a vertical and horizontal adjustment screw.
+
+Bonus: YSK that switches that look like [this](https://ae01.alicdn.com/kf/HTB1IMyjXsfrK1Rjy1Xdq6yemFXa3/Suitable-for-Kia-Sportage-Headlight-adjustment-switch-Light-level-adjustment-switch-Sportage-Switch-assy-Headlamp-level.jpg_640x640.jpg) are to temporarily lower the aim of your headlamp if you have cargo in the back or are towing heavy loads. Usually the lowest number is factory aim and the higher numbers drop your aim, but consult your owner's manual to confirm. Also, make sure this switch is at its highest setting when you aim.
+
+url:https://reddit.com/r/YouShouldKnow/comments/b4w6a4/
+author:Revenge_of_the_Khaki
+subreddit:YouShouldKnow
+score:3554
+numComments:228
+isOver18:False
+hasPostBody:True

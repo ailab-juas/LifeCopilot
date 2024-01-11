@@ -1,0 +1,13 @@
+title:
+LPT: Store cans of wet dog food on their side, as it settles it will create an air passage to the bottom, now empty with a slight shake.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1rsym1/
+author:h34th3n
+subreddit:LifeProTips
+score:1444
+numComments:104
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: when making food that contain nuts for other people, throw some loose nuts on it so you don't have to answer if it contains nuts all day.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/2u2lqo/
+author:Demthings
+subreddit:LifeProTips
+score:1231
+numComments:310
+isOver18:False
+hasPostBody:False

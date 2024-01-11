@@ -1,0 +1,13 @@
+title:
+LPT: When you start a new job, write down everyone's name and titles right after you meet them. Quiz yourself and learn that list.
+
+content:
+Knowing people's names helps you be more social and assertive. It also helps you learn the company's official and unofficial org charts -- who does what and why.
+
+url:https://reddit.com/r/LifeProTips/comments/6oavlq/
+author:Grant_EB
+subreddit:LifeProTips
+score:1462
+numComments:68
+isOver18:False
+hasPostBody:True

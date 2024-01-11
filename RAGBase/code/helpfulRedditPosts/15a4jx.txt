@@ -1,0 +1,13 @@
+title:
+LPT: A plethora of great life pro tips from 110 years of Popular Mechanics. 
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/15a4jx/
+author:CANA2
+subreddit:LifeProTips
+score:1516
+numComments:93
+isOver18:False
+hasPostBody:False

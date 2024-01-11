@@ -1,0 +1,13 @@
+title:
+LPT: Save non-emergency police telephone numbers in your telephone. You will be much more likely to report minor accidents/suspicious activity/lost dogs/etc.
+
+content:
+Edit: For people saying "It all goes to the same place anyway..." This LPT is aimed at the caller. A lot of people, myself included, might feel it unnecessary to call an emergency number for a non-emergency situation. Some people might feel awkward about doing it. Calling 911 puts your cell phone into "emergency mode." Some people might think it's too much a of a hassle. There's a whole host of reasons why people don't want to call 911 over fairly minor situations. Having a non-emergency number increases the odds that I will report something.
+
+url:https://reddit.com/r/LifeProTips/comments/1vr7ex/
+author:deadvolcanoes
+subreddit:LifeProTips
+score:1994
+numComments:341
+isOver18:False
+hasPostBody:True

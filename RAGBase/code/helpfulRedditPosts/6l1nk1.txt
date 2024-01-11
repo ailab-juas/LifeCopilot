@@ -1,0 +1,13 @@
+title:
+LPT: If you forget to take your clothes out of the dryer and they get wrinkly, just wet a hand towel and throw it in on high. It will quickly steam your clothes, eliminating wrinkles
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/6l1nk1/
+author:RickGrimesLol
+subreddit:LifeProTips
+score:21232
+numComments:637
+isOver18:False
+hasPostBody:False

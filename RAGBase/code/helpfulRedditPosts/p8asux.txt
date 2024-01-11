@@ -1,0 +1,78 @@
+title:
+YSK grapefruit (juice or whole) interacts with many medications and can cause side effects or completely nullify the intended effects of the medication
+
+content:
+There are more than 85 drugs that interact with grapefruit ^[1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3589309/)
+
+Here is an **incomplete** list of medications that interact with grapefruit^[2](https://www.drugs.com/article/grapefruit-drug-interactions.html) :
+
+* aliskiren (Tekturna) - also apple juice, orange juice
+* alprazolam (Xanax)
+* amiodarone (Pacerone)
+* atorvastatin (Lipitor)
+* carbamazepine (Tegretol)
+* cilostazol (Pletal)
+* citalopram (Celexa)
+* clarithromycin (Biaxin)
+* cyclosporine (Gengraf, Neoral)
+* colchicine 
+* dronedarone (Multaq)
+* erythromycin (E.E.S., Eryped)
+* escitalopram (Lexapro
+* felodipine (Plendil)
+* fentanyl  
+* fentanyl transdermal system (Duragesic Skin Patch)
+* fexofenadine (Allegra)
+* flibanserin (Addyi)
+* indinavir (Crixivan)
+* loratadine (Claritin)
+* losartan (Cozaar)
+* lovastatin 
+* nilotinib (Tasigna)
+* naloxegol (Movantik)
+* palbociclib (Ibrance)
+* pazopanib (Votrient)
+* pimozide (Orap)
+* ranolazine (Ranexa)
+* saquinavir (Invirase, Fortovase)
+* sildenafil (Revatio, Viagra)
+* simvastatin (Zocor)
+* tadalafil (Adcirca, Cialis)
+* vardenafil (Levitra, Staxyn)
+* verapamil (Calan, Calan SR)
+* warfarin
+
+Grapefruit generally changes how these drugs are metabolized, and can alter how much medication is entering your bloodstream. It has the ability to increase or decrease the dose you’re receiving, which can cause the medication to lose efficacy or intensify side effects. 
+
+Drugs like statin cholesterol drugs, calcium channel blockers, immunosuppressants, and SSRIs may be affected by grapefruit. 
+
+In some cases, this interaction can severely damage kidneys or lead to depressed breathing, both of which can lead to life-threatening conditions. 
+
+If you take any medications, [you can check to see if there are any other food or drug interactions that may affect your dose.](https://www.drugs.com/drug_interactions.html) Generally, pharmacists and general practitioners can also tell you if there are certain foods or OTC medicines you should avoid while taking certain medications. 
+
+Other interactions to note^[3](https://paltc.org/top-10-particularly-dangerous-drug-interactions-paltc) :
+
+* Sudafed and other nasal decongestants can increase your heart rate and shouldn’t be mixed with any beta blockers, blood pressure medications, or ADHD medications
+* ACE Inhibitors-Potassium Supplements
+* ACE Inhibitors-Spironolactone
+* Digoxin-Amiodarone
+* Digoxin-Verapamil
+* Theophylline-Quinolones
+* Warfarin-Macrolides
+* Warfarin-NSAIDs
+* Warfarin-Phenytoin
+* Warfarin-Quinolones
+* Warfarin-Sulfa Drugs
+* there is some evidence that ibuprofen can lower an immune response, so there may be reason to avoid taking ibuprofen after a vaccine. Instead, take naproxen or acetaminophen
+* st. John’s wort can interact with many SSRIs and other mood stabilizers
+* alcohol can also greatly interact with medications, and should be avoided when taking meds including antihistamines, allergy medications, cough and cold medications, and antibiotics. 
+
+Just a note: i am not a doctor, nor in the medical field. I just happen to take a lot of meds that mean I can’t have grapefruit. One day… maybe one day I’ll have that taste of bitter sweet citrus on my lips again…
+
+url:https://reddit.com/r/YouShouldKnow/comments/p8asux/
+author:unknowncinch
+subreddit:YouShouldKnow
+score:2050
+numComments:92
+isOver18:False
+hasPostBody:True

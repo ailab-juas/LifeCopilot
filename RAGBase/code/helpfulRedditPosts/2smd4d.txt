@@ -1,0 +1,18 @@
+title:
+LPT: Got a stainless steel pot or pan with scorched/burned food on the bottom? Put a half inch of water in it and freeze it to minimize harsh scrubbing and chipping away at the burned parts.
+
+content:
+Explanation: as the water freezes, it bonds to the burnt parts and detaches them from the metal as it expands. Then all you have to do is take the pan out of the freezer and let it sit for ten minutes or so, the sheet of ice which falls out will take most of the burnt matter with it. There may be a few residual traces of the burnt matter and the process may need to be repeated once or twice for particularly stubborn burnt-on food. It may also be helpful to let the water soak in for a couple hours or so before freezing as that gives it a chance to further penetrate the burnt stuff.
+
+I live in an area with cold winters and during the winter, I just put the pan outside instead of in the freezer.
+
+Caution: DO NOT do this with seasoned cast iron or pans which have non-stick coatings as the same process which removes the burnt stuff can also remove the coatings. Also, a half inch of water is generally all that is necessary and will freeze much faster. DO NOT fill the pan all the way up as the ice can actually warp or break your pan as it expands.
+
+
+url:https://reddit.com/r/LifeProTips/comments/2smd4d/
+author:Defenestrationism
+subreddit:LifeProTips
+score:2218
+numComments:392
+isOver18:False
+hasPostBody:True

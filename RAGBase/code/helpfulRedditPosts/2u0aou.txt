@@ -1,0 +1,13 @@
+title:
+LPT: When scheduling a meeting with a superior, don't say "I'm free all day." Say "I have no meetings yet."
+
+content:
+Don't want to sound lazy...
+
+url:https://reddit.com/r/LifeProTips/comments/2u0aou/
+author:Serpent1189
+subreddit:LifeProTips
+score:2763
+numComments:302
+isOver18:False
+hasPostBody:True

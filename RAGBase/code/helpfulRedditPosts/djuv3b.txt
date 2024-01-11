@@ -1,0 +1,13 @@
+title:
+LPT: Find a pair of socks you REALLY like and only buy the same pair so you always get a matching pair of socks from the basket after washing them.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/djuv3b/
+author:iglig
+subreddit:LifeProTips
+score:38418
+numComments:1470
+isOver18:False
+hasPostBody:False

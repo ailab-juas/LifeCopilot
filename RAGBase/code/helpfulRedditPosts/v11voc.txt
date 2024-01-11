@@ -1,0 +1,15 @@
+title:
+LPT: holding down the 0 on your phone keyboard will give you the ° sign
+
+content:
+obviously, this can vary by phone.
+
+edit: may ONLY apply to iphones based on some comments
+
+url:https://reddit.com/r/LifeProTips/comments/v11voc/
+author:Double-Corner-5323
+subreddit:LifeProTips
+score:2396
+numComments:497
+isOver18:False
+hasPostBody:True

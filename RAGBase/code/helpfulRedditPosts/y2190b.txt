@@ -1,0 +1,13 @@
+title:
+Lpt: One conversation can change your whole world, so listen to what others have to say.
+
+content:
+This is by far the most valuable advice my dad ever gave me, and just like it changed my life I hope it will help someone who reads this.
+
+url:https://reddit.com/r/LifeProTips/comments/y2190b/
+author:name19xx
+subreddit:LifeProTips
+score:1983
+numComments:71
+isOver18:False
+hasPostBody:True

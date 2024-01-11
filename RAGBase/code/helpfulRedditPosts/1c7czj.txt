@@ -1,0 +1,13 @@
+title:
+LPT: Going camping? Hit up a laundry mat for dryer lint, it makes great kindling!
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1c7czj/
+author:SGT_Crunch
+subreddit:LifeProTips
+score:1671
+numComments:392
+isOver18:False
+hasPostBody:False

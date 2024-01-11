@@ -1,0 +1,25 @@
+title:
+YSK that if you use an Apple device (e.g. iPhone, iPad, MacBook Pro, etc.), you may be getting charged more when online shopping (this includes airline and hotel rates)
+
+content:
+YSK that companies may charge you more if you use an Apple device to visit their website or use their app. The *idea* behind it is that owners of Apple devices (such as an iPhone, MacBook Pro, etc.) are wealthier and have more disposable income, than say someone who uses Windows or an Android cell phone.
+
+How do they know what device you're using? Because it's easily obtainable when you're using their app or visiting their website.
+
+I've personally experienced this myself. I have Windows desktop at home, an LG V20, and a MacBook Pro. On numerous occasions (but not always), I've seen higher airline and hotel rates when browsing on my MacBook Pro than on my V20 or desktop.
+
+&gt; Travel websites also customize hotel and airfare prices. On Delta, Kennesaw State grad students found a PC user got more low-price options on a flight from Atlanta to Denver than a Mac user.
+
+&gt; The statement we received from the airlines states, "Delta does not treat searches differently based on the device or browser customers use when they shop for tickets." Delta admits they get complaints about this issue but say they can't control the results your computer shows.
+
+&gt; When we used mobile devices for hotels on Orbitz and Travelocity, both the cell phone and tablet came up with better deals than a desktop. Where you shop physically can also affect the price.
+
+http://www.cbs46.com/story/27923981/cbs-investigates-online-shopping-disparities
+
+url:https://reddit.com/r/YouShouldKnow/comments/8kid3w/
+author:deutsch-technik
+subreddit:YouShouldKnow
+score:5422
+numComments:351
+isOver18:False
+hasPostBody:True

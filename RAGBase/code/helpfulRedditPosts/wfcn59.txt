@@ -1,0 +1,15 @@
+title:
+YSK you can stream Seinfeld 24/7 at watchseinfeld.net for free and without having to sign up.
+
+content:
+Why YSK: You can stream Seinfeld 24/7 without needing to pay or sign up and without ads. Only thing is it's like turning on the TV - you can't choose the episode or restart.
+
+[watchseinfeld.net](https://watchseinfeld.net/)
+
+url:https://reddit.com/r/YouShouldKnow/comments/wfcn59/
+author:throwaway_user_1994
+subreddit:YouShouldKnow
+score:2768
+numComments:129
+isOver18:False
+hasPostBody:True

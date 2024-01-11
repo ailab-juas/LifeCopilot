@@ -1,0 +1,19 @@
+title:
+LPT: When receiving an invitation to a private social event, send an acceptance to the whole group, but if you are not going, RSVP privately.
+
+content:
+This is more important the larger the invite list is.  
+
+As a matter of human psychology, the "reply all" responses can be (rightly or wrongly) perceived like a public vote on whether the party is going to be good or not.  
+
+There can be a snowball effect if more and more people are saying "yes, I'm going" that creates excitement around the event and a knowledge of friends you might see.  Conversely, if the first 5-10 responses are blasts of "no, I'm not going to go" then people can start to wonder if anyone will be there at all, even if privately, many have said yes.
+
+Using this tip works in everyone's favor -- if you're planning to go, announcing that you are will help push your friends into going, too.  If you are not planning to go, you don't risk bad feelings with the host for having inadvertently discouraged others.
+
+url:https://reddit.com/r/LifeProTips/comments/usfd8x/
+author:meltingintoice
+subreddit:LifeProTips
+score:2685
+numComments:70
+isOver18:False
+hasPostBody:True

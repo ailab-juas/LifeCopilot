@@ -1,0 +1,13 @@
+title:
+YSK that if you are new to public speaking or making presentations, never apologize for being nervous or that it is your first time giving a presentation. It takes away from your credibility as a speaker.
+
+content:
+There are a lot of other very helpful tips. [You can find the article here.](https://datahero.com/blog/2014/08/12/presentation-tips-from-the-pros/)
+
+url:https://reddit.com/r/YouShouldKnow/comments/2e7205/
+author:boby86
+subreddit:YouShouldKnow
+score:1882
+numComments:152
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+YSK: When buying something online, always try 10OFF, 15OFF, 20OFF, 25OFF, 30OFF, etc... as a coupon code, even if you’ve already tried searching coupon sites.
+
+content:
+Why YSK: a lot of online venders set these generic coupon codes with no expiration date, and it’s an easy way to save some money. 
+
+This has worked **a lot** for me recently, and just thought the rest of you might be able to benefit (with a little luck). Cheers!
+
+url:https://reddit.com/r/YouShouldKnow/comments/iv8fl4/
+author:BoogersMcD
+subreddit:YouShouldKnow
+score:1065
+numComments:47
+isOver18:False
+hasPostBody:True

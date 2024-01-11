@@ -1,0 +1,21 @@
+title:
+LPT: Attach files, review forwarded content, write email, review email, then add in email recipients. In that order. Every. Single. Time.
+
+content:
+Use this 5 step process for every single email you ever write. Even if you rarely forward or attach files - you still should make a note that nothing is being forwarded and nothing is being attached before you begin writing your email.
+
+If you do not follow this exact process and you have to write emails for work, eventually you WILL:
+
+* Forget the attachment
+* Accidentally forward something you shouldn't have
+* Accidentally send the email before you're finished
+
+Everyone does it, and depending on the context it can be disastrous. If you follow the five steps in the order they are listed you can minimize the amount of times you'll make these embarrassing mistakes.
+
+url:https://reddit.com/r/LifeProTips/comments/pz3bh9/
+author:WDfx2EU
+subreddit:LifeProTips
+score:2612
+numComments:74
+isOver18:False
+hasPostBody:True

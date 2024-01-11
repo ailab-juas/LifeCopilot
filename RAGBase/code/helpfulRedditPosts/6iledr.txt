@@ -1,0 +1,13 @@
+title:
+LPT - When at a pub in the U.K., if they serve food but the table has no cutlery or napkins set then you need to order at the bar.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/6iledr/
+author:OntoSomethingWitty
+subreddit:LifeProTips
+score:31079
+numComments:2019
+isOver18:False
+hasPostBody:False

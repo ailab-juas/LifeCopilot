@@ -1,0 +1,15 @@
+title:
+LPT Win key + shift + s = snipping tool
+
+content:
+Then just paste into mail, document etc.  
+
+EDIT: A lot recommend Greenshot, lightshoot and ShareX. I have not tried any of these, but I will give them a try next week.  But for everyone not wanting to download a program, this shortcut still cuts a lot of time.
+
+url:https://reddit.com/r/LifeProTips/comments/et9lz3/
+author:kongjarl
+subreddit:LifeProTips
+score:6218
+numComments:260
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,21 @@
+title:
+LPT: If your electricity bills is still high after swapping bulbs and lowering use, you may be a victim of electricity theft.
+
+content:
+One of the easiest ways to see if someone else has tapped into your power (common in multi unit dwellings) is to look at your electricity meter before and after you shut everything off using your units circuit breaker. If the dial is still spinning at a significant speed, you could be a victim of electricity theft.
+
+This could be malicious or it could be as simple as your unit paying for the lights in the staircase. Either way, you should know what you're paying for.
+
+EDIT: Amazing comments, everyone. A few additional thoughts:
+
+This post was really meant for anyone who has a hard time understanding why their electric bills were so high despite lowered usage (not just swapping light bulbs). If you haven't lived in your apartment for a month and you bill is almost the same, you should probably investigate. From the stories, it definitely looks like this happens a lot more than even I expected. While it looks like coming to a resolution depends largely on where you are and your situation but, as I said originally, at least you should know what you're paying for.
+
+I definitely learned some new things reading all your comments! Thank you!
+
+url:https://reddit.com/r/LifeProTips/comments/2kl0zr/
+author:TrojanBunny
+subreddit:LifeProTips
+score:3425
+numComments:931
+isOver18:False
+hasPostBody:True

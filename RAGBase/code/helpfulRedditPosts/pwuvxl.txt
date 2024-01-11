@@ -1,0 +1,28 @@
+title:
+YSK that the Chrome browser now tracks if you're idle, and how to disable it.
+
+content:
+Why YSK: 
+This is a setting that is enabled by default with the latest release. The concern here is that knowing you're not looking at a particular screen is a signal that sites can use on you, for good (pausing a video when you're not watching), or bad (your job using it to track your activity).  
+
+If you use Chrome or Brave, here's how to disable it:
+
+`chrome://settings/content/idleDetection`
+
+Look for "Don’t allow sites to know when you’re actively using your device"
+
+EDIT:
+
+1. This applies to Chrome version 94 (the latest version)
+
+2. Firefox with add-ons like 'uBlock Origin' or one of the container Add-ons ("Facebook Container" or "Google Container") are much better than using Chrome or Brave. But it's not an option for everyone. This is for people who use Chrome. Especially for work.
+
+3. Remove the quotes when copy/pasting the URL
+
+url:https://reddit.com/r/YouShouldKnow/comments/pwuvxl/
+author:PoppaB13
+subreddit:YouShouldKnow
+score:10466
+numComments:588
+isOver18:False
+hasPostBody:True

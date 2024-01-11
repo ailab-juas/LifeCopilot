@@ -1,0 +1,15 @@
+title:
+YSK: When searching discount codes on the web, use a different browser or private browsing. Discount codes websites force you to click on affiliate links before revealing the code, earning them a commission from your purchase whether the code was legit or not.
+
+content:
+Using a different browser will isolate the affiliate tracking cookie on that browser. Private browsing does not save any tracking cookies so that works too.
+
+If you're on Firefox then just use a different container tab from the one you plan on making your purchase on.
+
+url:https://reddit.com/r/YouShouldKnow/comments/98b51o/
+author:Mr-Klaus
+subreddit:YouShouldKnow
+score:1637
+numComments:59
+isOver18:False
+hasPostBody:True

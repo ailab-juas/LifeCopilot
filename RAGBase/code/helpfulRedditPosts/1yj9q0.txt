@@ -1,0 +1,13 @@
+title:
+LPT: Feeling a sneeze coming but don't want to sneeze? Tickle the roof of your mouth with your tongue.
+
+content:
+Say you're a server and don't want to sneeze in your customers' food or you've got food in your mouth and you don't want it sprayed all over the place. Then it's really useful to be able to surpress the reflex (although you shouldn't do it in general because sneezing is good for you).
+
+url:https://reddit.com/r/LifeProTips/comments/1yj9q0/
+author:kattmedtass
+subreddit:LifeProTips
+score:1261
+numComments:268
+isOver18:False
+hasPostBody:True

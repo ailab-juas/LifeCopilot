@@ -1,0 +1,13 @@
+title:
+YSK: Amazon will add Prime to your cart without permission
+
+content:
+Why ysk: this free trial will then auto bill you after 30 days.  Remove it from your cart before checking out or check your subscriptions if you've already bought their sh**.  They figured out how to make an opt-out system legal, and they'll make a ton of money doing it.  Don't let them get you too.
+
+url:https://reddit.com/r/YouShouldKnow/comments/zpyf5a/
+author:hippychemist
+subreddit:YouShouldKnow
+score:1094
+numComments:133
+isOver18:False
+hasPostBody:True

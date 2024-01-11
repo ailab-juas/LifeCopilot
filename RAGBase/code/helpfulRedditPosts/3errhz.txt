@@ -1,0 +1,13 @@
+title:
+LPT: If you use the combination locks with 3 or 4 numbered wheels, always zero them out.
+
+content:
+I used to mix up the numbers on these locks but never left the wheel on the correct number. I figured it would make it easier for someone to break in (??). A few months ago though I was thinking if I had a record of the numbers I left my locks on, I could find my code based on the numbers I DIDN'T use for each wheel. So for the past few weeks I tried this out with my neighbors work trailer...and it worked. It took a couple tries but I was able to unlock the lock. We're friends and although he didn't know I was doing this, I would never steal from the guy. But imagine if it was anyone else, or if he used the same 4 numbers to shut off his ADT or for his ATM pin. If you don't zero it out I would recommend leaving a wheel correct every once in a while (although he did that once and I still managed to get his code). Or leave it on the same random number all the time, so you'll know if someone tried your lock.
+
+url:https://reddit.com/r/LifeProTips/comments/3errhz/
+author:calmdownprincess
+subreddit:LifeProTips
+score:2159
+numComments:403
+isOver18:False
+hasPostBody:True

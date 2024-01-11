@@ -1,0 +1,20 @@
+title:
+YSK: You can get naloxone (Narcan), the drug of choice for opioid overdose, at CVS without a written prescription and it’s usually covered by insurance.
+
+content:
+With so many deaths from opioids in the US, I think it’s important for people to know, especially those who know someone who struggles with opioid addictions, that you can get a lifesaving drug without a prescription. Most states have laws protecting you from getting in trouble with police for owning/possessing Narcan, which is a really safe drug with few side effects, so it’s essentially risk free and it could potentially save somebody’s life. 
+
+source: https://www.cvs.com/content/prescription-drug-abuse/save-a-life
+
+edit: i saw some people asking about signs and symptoms of an opioid overdose, so here’s some good info from the CDC about it. 
+https://www.cdc.gov/drugoverdose/pdf/patients/Preventing-an-Opioid-Overdose-Tip-Card-a.pdf
+
+edit2: this drug is for helping overdoses, not causing them
+
+url:https://reddit.com/r/YouShouldKnow/comments/9vph3j/
+author:bobblyflat
+subreddit:YouShouldKnow
+score:5333
+numComments:306
+isOver18:False
+hasPostBody:True

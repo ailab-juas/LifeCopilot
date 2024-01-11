@@ -1,0 +1,13 @@
+title:
+YSK that there is a free library app that lets you borrow e-books and audiobooks
+
+content:
+It's called Overdrive.  After downloading it, you need to choose your library and enter your library card information (Step 1: get library card).  Any e-book or audiobook your library has on file, you can borrow for free.  The app is a little clunky, but hey, free books!
+
+url:https://reddit.com/r/YouShouldKnow/comments/5tfuvy/
+author:accio_snitch
+subreddit:YouShouldKnow
+score:2854
+numComments:109
+isOver18:False
+hasPostBody:True

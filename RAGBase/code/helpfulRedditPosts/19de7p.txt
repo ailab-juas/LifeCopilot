@@ -1,0 +1,13 @@
+title:
+YSK (and participate) that the FDA is accepting public comments about a Dairy Industry proposal to remove labeling requirements from artificially sweetened (aspartame) milk.  Link to public commenting system at bottom of article.
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/19de7p/
+author:essmac
+subreddit:YouShouldKnow
+score:1512
+numComments:265
+isOver18:False
+hasPostBody:False

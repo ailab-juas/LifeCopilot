@@ -1,0 +1,48 @@
+title:
+YSK 911 for emergencies is not the only "-11" number. There are 8 "N11" numbers you should know.
+
+content:
+Why YSK: There are 8 numbers established in the US by the FCC to access special services. These numbers can provide you with essential services, are easy to remember, and all (but one) are free! These numbers, known as N11 codes, are:
+
+**211—Community services and information**
+
+211 services provide free and confidential services that help people across North America. Questions about human trafficking, disaster assistance, food, health, housing utilities, as well as jobs and support for veterans are some of the services offered. Often 211 services are operated by the United Way of America. 
+ 
+**311—Municipal government services**
+
+Many cities and towns in the US have deployed 311 services in an attempt to offload non-emergency requests from citizens. Under existing networks, these calls are sent to already over-burdened 911 centers. With 311 centers, residents can inquire about anything- from trash collection, to a municipal utility bill issue, to reporting non-active crime or other non-emergencies to the city/town government. 
+
+**411— Reserved (directory assistance)**
+
+Historically, 411 information services were often established to provide directory assistance or local information. However, their use has declined (because everyone has the internet now). Technically, the 411 number is reserved by the FCC and do not have a formal designation. Watch out though, most phone carriers charge for this service (usually $1-2 per call). This is the only N11 number that is NOT free.
+
+**511—Traffic information**
+
+511 has been established for road and weather information as the transportation and traffic information telephone hotline, and is typically administered by state or region. You can call this number to get information about traffic in your immediate area. 
+
+**611— Reserved (Phone company repair)**
+
+This is another one of those numbers that doesn't really have a formal use any more. In some areas, 611 was used as a test code for linemen on the street or was used to report troubles to the central office from a subscriber. Many phone and cable providers still use this number as a way for customers to report problems with their service or to make inquiries.
+
+**711—TDD and Relay for the Deaf**
+
+Every telephone company is required to connect persons who dial 711 to a Telephone Relay Service (TRS) from a device on a working number. This rule was extended to include all VoIP telephones in July 2007 by the FCC. 
+
+
+**811—Underground public utility location**
+
+In March of 2005, the FCC established 811 as the universal number that would coordinate location services for underground public utilities. This safety measure not only helps prevents damage that interrupts telecommunications, but also the cutting of subterranean power lines, water mains and natural gas pipes. Call before you dig!
+
+**911—Emergency services (police, fire, EMS)**
+
+The one we all know! Single-number access for all emergency services, including police, fire and medical.
+
+In addition to these numbers, **988** is currently in the process of being adopted as the number for the **National Suicide Prevention Hotline**. The change will fully go into effect on July 16, 2022.
+
+url:https://reddit.com/r/YouShouldKnow/comments/qqaska/
+author:BagOnuts
+subreddit:YouShouldKnow
+score:3212
+numComments:140
+isOver18:False
+hasPostBody:True

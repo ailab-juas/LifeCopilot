@@ -1,0 +1,29 @@
+title:
+YSK that shaming people for being fat actually worsens health outcomes. If you care about a heavier person's health, the last thing you should do is make negative comments about their weight or health behaviors.
+
+content:
+ **Why YSK:**
+
+A lot of well-intentioned people stigmatize being fat, believing that it will help encourage healthy weight loss. Many people justify fat shaming by saying it's for the person's health. People perpetuate stereotypes that fat people are ["lazy, weak-willed, unsuccessful, unintelligent, lack self-discipline, have poor willpower, and are noncompliant with weight loss treatment](https://ajph.aphapublications.org/doi/pdfplus/10.2105/AJPH.2009.159491)." **Research shows that these things do more harm than good**. 
+
+**The research:**
+
+Stigma and bias against fat people is [pervasive](https://pubmed.ncbi.nlm.nih.gov/25294247/).  It's not something that only a handful of people experience.
+
+Studies have found that experiencing weight discrimination actually [increases the risk for obesity and weight gain over time](https://psycnet.apa.org/record/2020-09435-012). This holds true even over the span of *years*: "a... study examining 1,830 adolescents... found that weight-based teasing in adolescence was associated with higher BMI and obesity *15 years later* when participants were in their 30s, even after adjusting for their age, race/ethnicity, socioeconomic status (SES), and baseline weight status. (Puhl et al., 2017)" ([source](https://psycnet.apa.org/record/2020-09435-012), italics added).
+
+Body weight dissatisfaction, *independent of BMI,* has also been found to predict type 2 diabetes, cancer, high cholesterol, lower activity level, higher alcohol consumption, higher blood pressure, and more ([Source](https://www.researchgate.net/profile/Joan-Chrisler/publication/306331614_Sizeism_is_a_health_hazard/links/599ae94145851574f4ac553a/Sizeism-is-a-health-hazard.pdf)).  
+
+**Basically?** **Making someone feel bad about their weight will negatively impact their health.**
+
+There are several theories as to why, but [one suggests](https://onlinelibrary.wiley.com/doi/full/10.1111/spc3.12172?casa_token=Gh1VzH7FpIIAAAAA%3AbImWMbwg3mhkEJqjXrF7u58aJFKVCVizGLGKvKXkN9F42rW0idDZQq-ei6GuTYsfGRScO8f4GOkzdKDB2w) that this is because experiencing stigma leads to stress and feelings of threat, which can make it harder for people to regulate their emotions and behaviors and can lead people to avoid sources of stigma, like the gym.  This makes controlling diet and exercise more difficult. For people who struggle to cope with negative emotions in healthy ways, weight stigma has been linked to [worse physical health outcomes, greater depressive symptoms and lower self-esteem](https://psycnet.apa.org/fulltext/2017-50269-001.pdf).
+
+**If you really want to help an overweight loved one, YSK that** ***combating*** **weight stigma is more helpful than perpetuating it.**
+
+url:https://reddit.com/r/YouShouldKnow/comments/lum5hv/
+author:Phaesporic
+subreddit:YouShouldKnow
+score:2457
+numComments:302
+isOver18:False
+hasPostBody:True

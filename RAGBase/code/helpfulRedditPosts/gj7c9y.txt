@@ -1,0 +1,13 @@
+title:
+LPT: If you’re ever given a speeding ticket, go to court to dispute it. Always ask when the radar gun was last calibrated. Most cops do not calibrate their radar guns as often as they are supposed to and the ticket is dropped. Worked every time for me and people I’ve known.
+
+content:
+EDIT:This tip works regionally. There are police, lawyers, prosecutors, and people who have been ticketed on both sides confirming this will or will not work. Check the comments before going to court.
+
+url:https://reddit.com/r/LifeProTips/comments/gj7c9y/
+author:podotash
+subreddit:LifeProTips
+score:24973
+numComments:1385
+isOver18:False
+hasPostBody:True

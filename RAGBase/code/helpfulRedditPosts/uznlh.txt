@@ -1,0 +1,39 @@
+title:
+YSK the following about 911 services
+
+content:
+Hey there, I'm new to reddit and thought I'd share some information with y'all. 
+
+A little background on me: I've been a 911 operator for 4 years for a large agency that services approximately 750,000 people in an urban area in California. We answer all incoming 911 calls but only handle police issues, fire and medical get transferred directly to the fire department. 
+
+Of course every agency is different and what I say here might not be exactly how it works for other agencies but I'll try to keep it as broad as possible.
+
+So here are a few tips in no particular order that might prove helpful to you if you ever have to dial 911, and some general 911 information:
+
+* The most important thing to give the 911 operator is your location, especially if you're calling from a cell phone. Despite what you see on tv and in the movies, you do **not** show up as a blinking red dot on my screen pinpointing your exact location! Sometimes the location of the cell tower your call is bouncing off of will show up but your location could be anywhere within, say, a 500 meter radius of the tower. Not very helpful if we're trying to locate you. Sometimes I will get a general area of where your actual phone is, but again, I've seen calls with a radius of up to 1700 meters. Pretty useless. Sometimes I can retransmit the signal and get those meters down to about 10 but that is hit or miss, plus if you're in an apartment complex it will not tell me which exact apartment you're in. Doing an actual cell "ping" or "trace" through the cell company can take anywhere between 10 and 30 minutes. Again, not helpful if you need the cops ASAP. If you really have no idea where you're at, look around for landmarks, numbers on buildings, business names, anything that will help us figure out where you are so we can get you help.
+
+* Calling 911 from a land line will result in your exact address popping up on my screen. If you have a choice between calling 911 from a cell or a land line, go with the land line. If you dial 911 from a land line, even if you don't say a word a cop will respond to your house to make sure everything is ok (at least this is how it works for the agency I work for, as stated above policies vary by agency but this seems to be a fairly common one across agencies). 
+
+* Even if you dial 911 and hang up before you think it went through, it probably still went through. If you dial 911 and immediately change your mind, or dial on accident, do your operator a favor and just stay on the line and tell them it was a false alarm. Otherwise  we have to call back and make sure you're ok, and if you don't answer we have to send the cops to make sure you're ok (assuming it was as land line call and we have an address).
+
+* Answer the questions the operator is asking you. I understand that if you're dialing 911 you're probably in stressful situation and it may be difficult for you, but the quicker you can answer the operator's questions the quicker we can get help to you. I've had people ask me "Why are you asking me all these stupid questions??" They may seem inane to you, but there is a specific purpose to all of our questions and chances are, providing us the information we're asking for is going to keep you safer (and the officer safe too).
+
+* Cell phones that have no active service **can** still dial 911, so don't give them to your babies as toys! I can't tell you how often we will get dozens of 911 calls from a disconnected cell phone and it's obvious it's a baby playing on the other end. And since it's disconnected we can't call back to alert whoever gave the kid the phone to the problem.
+
+* Dialing 911 with a non-emergency is a serious issue. Keep in mind there are only so many operators answering calls at a given time and if you dial 911 because you're upset that the neighbor's sprinklers are getting your car wet (yep this is an actual 911 call I've taken), someone with a real emergency may have to wait for me to deal with your non-emergency before getting to them and their real emergency. As I stated above, my agency services approximately 750,000 people and on a **good** staffing day we may have 7 people answering phones. So if only 7 people out of those 750,000 people call 911 because their neighbor's wind chimes are disturbing their peace (again, yes that is a real call one of my partners has taken) someone calling because their baby isn't breathing is going to have to wait. Please limit 911 calls to true emergencies, and if you need non-emergency police assistance call 411 or use google or use a phone book or or or or anything that doesn't tie up a 911 line unnecessarily. 
+
+* When you dial 911 from your cell phone, you get connected to the local law enforcement agency (or basically the law enforcement agency that covers the city where the cell tower your phone hits off of is located). I don't know how common this misconception is but I've received several calls over the years from people who have out of state area codes and think that they connect to the law enforcement agency that covers whatever city their area code is in, so I thought it might be worth mentioning.
+
+* As with 911 operators like I mentioned above, there are only so many cops on duty at a given time. Especially with recent budget cuts, many departments are sorely understaffed which means the response time may increase. Agencies prioritize their calls, which means the cops are going to respond to something like a fight before they're going to respond to something like a noisy party or an illegally parked vehicle. This might seem like a given but I receive countless calls from people complaining about the response time for non-emergencies (especially when it's a noise disturbance) even after they've been told the local units are tied up on an emergency and the response time is going to be extended. Sorry, but we have to deal with the people trying to beat each other to death before we come tell your neighbor to quiet their music down. That's just the way it is.
+
+* EDIT Me continuing to ask you questions doesn't necessarily mean help isn't already on the way. Oftentimes I get your location and basic nature of the emergency, send the call over to get help on the way and then update the existing call with the additional information. Just because you're still on the phone with me answering questions doesn't mean help isn't already on the way.
+
+That's all I can think of right now, if I think of anything else I'll edit with updates. And feel free to ask any questions, I'll do my best to answer if possible.
+
+url:https://reddit.com/r/YouShouldKnow/comments/uznlh/
+author:FunInTheSun85
+subreddit:YouShouldKnow
+score:1222
+numComments:409
+isOver18:False
+hasPostBody:True

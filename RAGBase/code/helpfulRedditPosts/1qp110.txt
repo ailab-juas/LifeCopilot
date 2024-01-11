@@ -1,0 +1,13 @@
+title:
+LPT: You can use '-site:example.com' to avoid a specific site from your Google search results.
+
+content:
+This saved me a lot of time today. Can also be used multiple times in a query.
+
+url:https://reddit.com/r/LifeProTips/comments/1qp110/
+author:fazilfazfaz
+subreddit:LifeProTips
+score:1790
+numComments:162
+isOver18:False
+hasPostBody:True

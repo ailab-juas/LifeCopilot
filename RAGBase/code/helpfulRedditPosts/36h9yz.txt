@@ -1,0 +1,13 @@
+title:
+LPT: When you get a haircut you like, take a picture of it from the front, back and sides
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/36h9yz/
+author:passthehaterade
+subreddit:LifeProTips
+score:2464
+numComments:420
+isOver18:False
+hasPostBody:False

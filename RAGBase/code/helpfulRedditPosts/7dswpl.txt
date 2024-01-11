@@ -1,0 +1,13 @@
+title:
+LPT - Search on Craigslist in the weeks after Black Friday. Everyone will be selling the things they just upgraded from.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/7dswpl/
+author:dowhatchafeel
+subreddit:LifeProTips
+score:7629
+numComments:165
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,17 @@
+title:
+YSK: There are websites that can assess true and fake reviews when purchasing a product on Amazon. Use a site such as ReviewMeta.com to assess whether the product reviews are fake or real.
+
+content:
+Why YSK: I have purchase inferior products many times based mainly on rating alone until I wised up. Internet literacy (the ability to discern between truth and falsehood, gossip and vital information \[I'll leave this for another post\]) is going to play a critical part in humanity for decades to come.
+
+One aspect of this is to determine if you are getting ripped off, or purchasing a legitimate quality product. I don't work for [reviewmeta.com](https://reviewmeta.com). I heard them mentioned on NPR and I imagine there are other websites you can use. But I use it every time I buy something from Amazon in order to know if of the 1,000 reviews a product has, 30% are fake. 
+
+Unscrupulous sellers hire people to create accounts and post reviews of their product, often giving people some basic text to use. The website I mentioned analyzes reviews to see how many use similar language, or how many are unique. This site filters out the questionable reviews.
+
+url:https://reddit.com/r/YouShouldKnow/comments/lzitlj/
+author:gomi-panda
+subreddit:YouShouldKnow
+score:18391
+numComments:309
+isOver18:False
+hasPostBody:True

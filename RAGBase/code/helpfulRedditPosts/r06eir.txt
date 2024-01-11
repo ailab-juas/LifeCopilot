@@ -1,0 +1,19 @@
+title:
+LPT the quality of a restaurant’s food is inversely proportional to its menu size
+
+content:
+Edit: I’m glad y’all have diners nearby that serve good food. This is a rule of thumb, to clarify I’m not saying that any menu that is more than one page is garbage. 
+
+This is one that I assume anyone who works in food service or just watches Kitchen Nightmares knows but that still leaves out a lot of people so here goes; 
+
+It is natural to gravitate towards more choices, but more often than not you will receive sub-par food. This is due to the complications massive menus create. More options means more ingredients, means each ingredient is being used less. The stress this creates compromises the storage and restock procedures. 
+
+It also requires much more knowledge and ability on the part of the cooks to inconsistently cook so many dishes, not just making it edible but making it *good* is hard, moldy ingredients notwithstanding.
+
+url:https://reddit.com/r/LifeProTips/comments/r06eir/
+author:PancakeParty98
+subreddit:LifeProTips
+score:1102
+numComments:174
+isOver18:False
+hasPostBody:True

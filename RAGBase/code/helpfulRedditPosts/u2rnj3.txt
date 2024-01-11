@@ -1,0 +1,15 @@
+title:
+YSK that over 850 museums in the United States participate in a program that offers free or reduced admission for those on food stamps
+
+content:
+Why YSK: My girlfriend and I have been struggling a lot lately. I was looking at the admission prices for a local museum, wondering if we could save up the money to go to it in a few weeks, only to find the mention of the [Museums for All program](https://museums4all.org/participating-museums/). You can search for participating museums in your area, and typically all you have to do is present a photo ID and your EBT card. 
+
+I thought this was an amazing thing to know about, because museums are terrific resources and the information they contain should be accessible to everybody. Many botanical gardens also participate in the program - I hope some of you who are also struggling can get to experience the spring flowers this year.
+
+url:https://reddit.com/r/YouShouldKnow/comments/u2rnj3/
+author:zerocanine
+subreddit:YouShouldKnow
+score:12957
+numComments:227
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: When working with your boss or supervisor never ask "Can you do this for me?", always ask "Can you show me how to do this?"
+
+content:
+This shows that you're eager to learn and that maybe the next time you have to do said thing, you can do it without help.
+
+url:https://reddit.com/r/LifeProTips/comments/1ex0o5/
+author:HyperHadouken
+subreddit:LifeProTips
+score:1926
+numComments:311
+isOver18:False
+hasPostBody:True

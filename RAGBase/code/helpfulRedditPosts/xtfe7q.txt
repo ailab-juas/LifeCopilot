@@ -1,0 +1,15 @@
+title:
+YSK that using a sauna 4-7 times a week can reduce the risk of death significantly.
+
+content:
+Why YSK: A 20-yr study of over 2000 people found that using the sauna 4-7 times a week was associated with a 40% decrease in death from all causes. This is a low effort way to vastly improve your health. 
+
+https://www.usatoday.com/story/life/health-wellness/2022/02/10/sauna-heart-health-life-expectancy/6733339001/
+
+url:https://reddit.com/r/YouShouldKnow/comments/xtfe7q/
+author:cherrybounce
+subreddit:YouShouldKnow
+score:7661
+numComments:1208
+isOver18:False
+hasPostBody:True

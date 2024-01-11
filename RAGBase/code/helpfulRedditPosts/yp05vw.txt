@@ -1,0 +1,13 @@
+title:
+LPT: Change your Netflix audio settings from "English [Original] (5.1)" to "English [Original]" if you don't actually have a 6 speaker surround sound setup. That's why the dialogue is so hard to hear and you keep having to use captions. Also, you have to do this every time because the default is 5.1
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/yp05vw/
+author:l_l-l__l-l__l-l_l
+subreddit:LifeProTips
+score:11728
+numComments:446
+isOver18:False
+hasPostBody:False

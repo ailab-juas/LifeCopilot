@@ -1,0 +1,13 @@
+title:
+LPT: When you're newly qualified or just starting to do something solo that you'd previously done supervised, pretend you're teaching someone.
+
+content:
+It works for pretty much anything from IT to cooking to menial tasks with a knack to them. It forces you to logically think about what you are doing and helps reinforce your own knowledge.
+
+url:https://reddit.com/r/LifeProTips/comments/5949na/
+author:the_fot88
+subreddit:LifeProTips
+score:5775
+numComments:268
+isOver18:False
+hasPostBody:True

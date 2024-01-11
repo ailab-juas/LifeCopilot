@@ -1,0 +1,38 @@
+title:
+LPT: Get comfortable using your CTRL key. It’ll save you so much time.
+
+content:
+To preface, I’m in a graduate business class taught by a professor who’s at least 35 years older than me. He’s trying to teach us how to use Excel. In his lecture, a student asked how to select two columns of data which are not right next to each other, and he told us to copy all of the information in one column and paste it in such a way that it is next to the other column of data and select them both that way. The easier way is to just select one column and hold down the CTRL key while selecting the other column of data wherever it is, no adding columns, copying, or pasting.
+
+Need to select multiple items from a list that are not in order, so you can’t click and drag? Click on the first one and hold CTRL as you click each item after.
+
+Need to undo something? CTRL Z
+
+Need to copy something? CTRL C
+
+Need to cut something? CTRL X
+
+Need to paste something? CTRL V
+
+Need to print something? CTRL P
+
+
+Some Excel specific ones:
+
+Need to add a column before column J? Highlight the entire column J, CTRL +
+
+Need to delete column F? Highlight the entire column F, CTRL -
+
+(These also work for adding/deleting rows)
+
+
+
+TL/DR: Don’t waste time right clicking if there’s a CTRL shortcut you can use
+
+url:https://reddit.com/r/LifeProTips/comments/vty1fn/
+author:Fabulous_Level_494
+subreddit:LifeProTips
+score:8597
+numComments:749
+isOver18:False
+hasPostBody:True

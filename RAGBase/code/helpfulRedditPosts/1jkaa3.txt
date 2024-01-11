@@ -1,0 +1,24 @@
+title:
+YSK there are 6000 active subreddits, here are all of them.
+
+content:
+I never knew that reddit community is such a vast. I wanted to see how many subreddits are there in reddit which are active and ended up making this long list of 6000 subreddits. It took me about days to complete this long list and i'm sure it'll take a lot of your time to visit those.
+*(Reddit doesn't allow me to add more than 40,000 characters and it contains 90,000 characters so i shared it used google document.)*
+
+Here's the Link: https://docs.google.com/document/d/1Wop0fPUomSff7nogA9AaRFHi1EmSqhcffdot67gKoVQ/
+
+**If i've made a spelling mistake of any subreddit please kindly correct it in below comment. I tried my best to make it error free, but error happens specially when we're making a big list like this.**
+
+-----------
+**Update**
+/u/Nivuahc made a clean list.
+Here: https://docs.google.com/spreadsheet/ccc?key=0Agpb7THmQnOtdGRzcnNZSGVZcmlQVUM5aXVQS2NPUWc#gid=0
+I Appreciate!
+
+url:https://reddit.com/r/YouShouldKnow/comments/1jkaa3/
+author:arijitdas
+subreddit:YouShouldKnow
+score:1901
+numComments:331
+isOver18:False
+hasPostBody:True

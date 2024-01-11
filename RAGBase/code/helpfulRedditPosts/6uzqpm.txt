@@ -1,0 +1,13 @@
+title:
+LPT: If you can see ordinary household lights through your eclipse glasses or handheld viewer, it's no good.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/6uzqpm/
+author:Alchemist2121
+subreddit:LifeProTips
+score:28242
+numComments:1824
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,19 @@
+title:
+YSK that BBC Radio3 is doing a trial of high quality lossless internet broadcasting
+
+content:
+[Here's the explanation](http://www.bbc.co.uk/rd/blog/2017-04-radio-3-high-quality-flac-dash) and [here's the link to the stream](http://www.bbc.co.uk/taster/projects/radio-3-concert-sound2/try). The BBC are looking for your feedback.
+
+You'll need Firefox to experience it.
+
+Edit: If Classical music is not your thing then maybe tune in for [this Thursday's John Williams night at the Proms](https://www.bbc.co.uk/events/enfmbp).
+
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/6nnqzm/
+author:nick9000
+subreddit:YouShouldKnow
+score:1863
+numComments:40
+isOver18:False
+hasPostBody:True

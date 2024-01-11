@@ -1,0 +1,13 @@
+title:
+LPT Don't post pictures of yourself on vacation. Wait until you get home. Posting them on vacation alerts people that your house is empty. Perfect for burglars.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5pxc72/
+author:lalafriday
+subreddit:LifeProTips
+score:13975
+numComments:985
+isOver18:False
+hasPostBody:False

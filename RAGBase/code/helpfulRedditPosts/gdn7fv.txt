@@ -1,0 +1,13 @@
+title:
+YSK that the only reason that your goldfish die so fast (assuming they’re in bowls rather than tanks) is because they’re in stagnant water. They suffocate when the oxygen is used up. Be sure to put something in that stirs up the water and re-oxygenates it.
+
+content:
+Some solutions are a filter or a decoration with an air pump. The latter might be more expensive, but it works AND it looks cool! Also, just because the bubbles are sitting on top doesn’t mean the water isn’t getting oxygen.
+
+url:https://reddit.com/r/YouShouldKnow/comments/gdn7fv/
+author:GiggityMerf
+subreddit:YouShouldKnow
+score:1858
+numComments:102
+isOver18:False
+hasPostBody:True

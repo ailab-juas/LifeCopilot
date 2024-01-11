@@ -1,0 +1,13 @@
+title:
+YSK about Ninite.com, a website to safely, quickly, and easily download programs without bloatware.
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/2u54b9/
+author:FiveAlarmDogParty
+subreddit:YouShouldKnow
+score:1784
+numComments:121
+isOver18:False
+hasPostBody:False

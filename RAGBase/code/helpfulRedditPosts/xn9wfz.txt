@@ -1,0 +1,13 @@
+title:
+YSK: If you want a discount but aren't a member of the store's loyalty program, use Jenny's number (867-5309). Add the local area code and it works everywhere.
+
+content:
+Why YSK: You can use this trick to get a member discount even if you're not a member. The reason this works is because many people use a fake phone number when they sign up for those programs, and lots of people remember the song. At many stores there will be dozens of accounts with this same phone number.
+
+url:https://reddit.com/r/YouShouldKnow/comments/xn9wfz/
+author:PortlyCloudy
+subreddit:YouShouldKnow
+score:20717
+numComments:781
+isOver18:False
+hasPostBody:True

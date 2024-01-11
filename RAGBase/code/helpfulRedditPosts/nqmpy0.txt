@@ -1,0 +1,15 @@
+title:
+YSK: Never leave an exam task empty
+
+content:
+I noticed that even at a higher level of education, some just don't do this, and it's bothering me. 
+
+Why YSK: In a scenario where you have time left for an exam after doing all tasks that you know how to do, don't return your exam too rash. It may seem to you that you did your best and want to get over it quickly, while those partial points can be quite valuable. There's a chance that you'll understand the question after reading it once again, or that you possibly misread it the first time. Even making things up and writing literal crap is better than leaving the task empty, they can make the difference in the end. And even if the things you write are completely wrong, you'll show the teacher that you at least tried and that you're an encouraged learner. Why bother, you won't lose points for wrong answers anyway
+
+url:https://reddit.com/r/YouShouldKnow/comments/nqmpy0/
+author:ZieII
+subreddit:YouShouldKnow
+score:10024
+numComments:477
+isOver18:False
+hasPostBody:True

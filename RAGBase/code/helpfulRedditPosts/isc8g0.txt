@@ -1,0 +1,17 @@
+title:
+YSK: Blind people don't always have the same facial expressions as sighted people
+
+content:
+Why YSK:
+
+If you know a person who was born blind or visually impaired and they don't smile as much, or have unusual facial expression, it may just be because they weren't able to see other people's faces at a young age and didn't pick up on when to have certain expressions and when not to. Facial expression can be very hard or next to impossible to see with a vision problem, there isn't a class on how to learn them, they are just learned by observing others, so if you can't see others at a young age it can be much harder to learn that.
+
+https://health.howstuffworks.com/mental-health/human-nature/blind-people-facial-expressions-sighted.htm
+
+url:https://reddit.com/r/YouShouldKnow/comments/isc8g0/
+author:PittsburghJon
+subreddit:YouShouldKnow
+score:6666
+numComments:76
+isOver18:False
+hasPostBody:True

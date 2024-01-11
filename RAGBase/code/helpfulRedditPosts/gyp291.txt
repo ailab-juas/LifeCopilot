@@ -1,0 +1,13 @@
+title:
+LPT: Use PDF format for sending resumes. This guarantees the layout, structure, typography to be 100% consistent for all viewers, and everyone can open it without issue.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/gyp291/
+author:[deleted]
+subreddit:LifeProTips
+score:1651
+numComments:79
+isOver18:False
+hasPostBody:True

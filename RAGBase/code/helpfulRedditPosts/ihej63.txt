@@ -1,0 +1,19 @@
+title:
+LPT: Don’t say, ‘Someone call 911!’ Point to someone specific, make eye contact and say, ‘You, call 911!’
+
+content:
+This is taught in CPR and wanted to put it out there:
+
+If you find yourself in a situation where you are helping someone who needs medical attention and you cannot call 911 yourself (and there are other people around you), try not to yell ‘Someone call 911!’ Everyone might be expecting someone else to call, leading to 911 never getting called.
+
+If you single out someone specific - someone who hopefully has a phone in hand already - and directly tell that person to call 911, they will know that’s their job. Seeing as most people are generally willing to help (and they don’t want to look like a jerk), they’ll most likely make the call or, if they’re not able to, take it upon themselves to find someone who can.
+
+Everyone involved in this situation might be a bit panicked, including you, so it’s not the end of the world if you make the general statement - but it can really help speed things up if you call out someone specific.
+
+url:https://reddit.com/r/LifeProTips/comments/ihej63/
+author:[deleted]
+subreddit:LifeProTips
+score:26247
+numComments:590
+isOver18:False
+hasPostBody:True

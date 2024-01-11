@@ -1,0 +1,13 @@
+title:
+LPT: If street is collapsing, stand on a manhole. Modern manholes are strong concrete.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/vcooa/
+author:xxLurker
+subreddit:LifeProTips
+score:1349
+numComments:237
+isOver18:False
+hasPostBody:False

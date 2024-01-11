@@ -1,0 +1,15 @@
+title:
+YSK the auditory threshold of pain is higher than the threshold at which hearing damage is incurred
+
+content:
+For example, if when listening to music, it begins to get slightly uncomfortable due to the loudness of the audio, then you are almost certainly putting yourself at risk to hearing loss. The threshold of hearing pain is about 120dB, whereas hearing damage can occur at levels around 85dB (with prolonged exposure, but the risk increases as the loudness increases). You only get one set of ears, and tinnitus is something nobody wants. I feel this is something everybody should know
+
+[Source](https://www.nidcd.nih.gov/health/noise-induced-hearing-loss)
+
+url:https://reddit.com/r/YouShouldKnow/comments/bu10mo/
+author:Vicinity613
+subreddit:YouShouldKnow
+score:2287
+numComments:115
+isOver18:False
+hasPostBody:True

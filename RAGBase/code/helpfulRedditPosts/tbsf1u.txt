@@ -1,0 +1,13 @@
+title:
+LPT: If you are worried about gas prices, try doing a few things to help fuel economy like: change air filter, adding a fuel system cleaner next time you fill up, change your driving habits, remove unnecessary items from your car, get that check engine light figured out.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/tbsf1u/
+author:[deleted]
+subreddit:LifeProTips
+score:2281
+numComments:567
+isOver18:False
+hasPostBody:True

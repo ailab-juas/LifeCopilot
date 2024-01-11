@@ -1,0 +1,13 @@
+title:
+LPT: if you are buying something high quality, prefer material over brand. For example, a good merino wool pair of sock will be almost certainly better than a fancy cotton one. Or a good full grain leather belt will be almost certainly better than a fancy genuine leather one.
+
+content:
+Of course, if budget allows, you can choose both material and brand for maximum quality.
+
+url:https://reddit.com/r/LifeProTips/comments/a9qj7u/
+author:shouldnotexist
+subreddit:LifeProTips
+score:35056
+numComments:1229
+isOver18:False
+hasPostBody:True

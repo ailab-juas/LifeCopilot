@@ -1,0 +1,13 @@
+title:
+YSK that translate.google.com can serve as a web proxy. Simply paste your URL into the translate field and then click on the result and view the page in the original language. This way you can navigate any web-page via google.com. Google is almost never blocked so this trick works on most occasions.
+
+content:
+Web filters in the workplace, schools libraries etc. can be pretty strict. But Google.com is almost never banned. So proxying traffic through google.com can effectively allow to most websites in virtually any network.
+
+url:https://reddit.com/r/YouShouldKnow/comments/fawkjy/
+author:kamenoccc
+subreddit:YouShouldKnow
+score:17526
+numComments:265
+isOver18:False
+hasPostBody:True

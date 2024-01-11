@@ -1,0 +1,13 @@
+title:
+YSK Your local animal shelters will take your old stuffed animals and rugs and be put to great use!
+
+content:
+Cleaning out your kids treasure chest of old stuffed animals? Donate them to your local animal shelters, because the dogs love something to cuddle with in their kennels. Rugs are great as well!
+
+url:https://reddit.com/r/YouShouldKnow/comments/eopcpm/
+author:man_im_livin
+subreddit:YouShouldKnow
+score:11868
+numComments:161
+isOver18:False
+hasPostBody:True

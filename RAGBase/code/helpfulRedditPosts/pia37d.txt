@@ -1,0 +1,31 @@
+title:
+YSK that Plan B is not a pill that causes abortions, it’s a pill that prevents pregnancies
+
+content:
+Why YSK: In light of recent events in Texas, I’ve seen a lot of people here on Reddit confusing Plan B with abortion pills. They are not one and the same.
+
+Plan B, or Levonorgestrel, is a dose of hormonal birth control taken within 72 hours of unprotected sex to prevent pregnancy, which is why it’s known as the “morning after pill.” It does this in two possible ways: by stopping an egg from being released from the ovary, or preventing a fertilized egg from implanting in the uterine wall.
+
+Mifepristone and Misoprostol are the most commonly used drugs in medical abortions, or what is colloquially referred to as the “abortion pill.” This regimen is used to terminate pregnancy, and is considered in the United States to be safe through 12 weeks gestation, though it is usually only prescribed up to 10 weeks. The Mifepristone blocks the body from producing progesterone, and the Misoprostol causes cramping and bleeding, eventually resulting in the uterus emptying. 
+
+Plan B pills prevent pregnancy. Abortion pills, then, can be thought of as Plan C pills. Got it? Good. 
+
+Citations:
+
+[Levonorgestrel](https://medlineplus.gov/druginfo/meds/a610021.html)
+
+[The Abortion Pill](https://www.plannedparenthood.org/learn/abortion/the-abortion-pill)
+
+Edit: Fixed an improperly formatted link.
+
+Edit #2: Copying and pasting a comment so I don’t have to keep repeating myself:
+
+&gt;The goal of this post is to highlight that these are two (or really three) different drugs that do very different things to the body. Extremists may not like either of them, but that’s not the point here. A man in another thread who was clearly sympathetic to the cause was advising women in Texas to “pop a Plan B just in case” if they had a missed period. Another person was referring to a ban on the mailing of abortion pills in Texas as a “ban on Plan B.” There is widespread confusion out there even amongst the pro-choice crowd, and I’m trying to help combat that.
+
+url:https://reddit.com/r/YouShouldKnow/comments/pia37d/
+author:throwawaylol666666
+subreddit:YouShouldKnow
+score:20974
+numComments:642
+isOver18:False
+hasPostBody:True

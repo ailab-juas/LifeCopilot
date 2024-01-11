@@ -1,0 +1,17 @@
+title:
+YSK: How to remove Norton AntiVirus, Norton Internet Security, Norton 360, and Norton SystemWorks from your computer (FOR GOOD)
+
+content:
+Download and run the Norton Removal Tool to uninstall your Norton product
+
+Norton Removal Tool uninstalls all the Norton products from your computer. You can use Norton Removal Tool to remove a failed installation or a damaged Norton product.
+
+https://support.norton.com/sp/en/us/home/current/solutions/kb20080710133834EN_EndUserProfile_en_us
+
+url:https://reddit.com/r/YouShouldKnow/comments/1u0p6l/
+author:iamstephen
+subreddit:YouShouldKnow
+score:1958
+numComments:283
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: The Christmas work party is more 'work' than 'party'. You won't get paid for going but can get fired for acting a fool at the party. Drink less and be on your best behaviour.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/zk949l/
+author:seanmashitoshi
+subreddit:LifeProTips
+score:37939
+numComments:1938
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,17 @@
+title:
+YSK: A lot of newer cars have a ‘soft’ turn signal for lane switching and other short term direction change notifications
+
+content:
+The ‘soft’ signal is when you pull the turn signal before it clicks and it blinks just a few times (versus when you pull the lever fully you need to turn for it to stop).
+
+Why YSK: Signals are really helpful to alert other cars and pedestrians that you’re going to change direction, which helps mitigate accidents.
+
+Bumped into a few people recently with cars that had this feature, but they weren’t aware. If awareness of this feature can increase signal usage, that’d be cool.
+
+url:https://reddit.com/r/YouShouldKnow/comments/pkoady/
+author:dauntedbox376
+subreddit:YouShouldKnow
+score:1810
+numComments:186
+isOver18:False
+hasPostBody:True

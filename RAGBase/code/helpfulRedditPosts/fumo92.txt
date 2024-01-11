@@ -1,0 +1,15 @@
+title:
+YSK You can save a lot of money on phone calls with inmates you know by getting a secondary phone number through google voice that is in a different state than the one where they are locked up.
+
+content:
+Fees for phone calls within the same state are not regulated by the FCC, but calls between states are capped at 21 cents per minute prepaid, or 25 cents per minute collect. Calling from prison to my house 15 miles away was 70 cents per minute. Fortunately another inmate told me about this and I was able to have my family get secondary phone numbers (on their same phones) in another state using google voice, and could talk for 3x as long on the same money. I searched ysk for "prison phone" before I posted this and did not find anything, so if it is a repost, my bad.
+
+Here is a link that explains it more, including relevant laws and appellate court case [https://securustech.net/fcc-fact-sheet/index.html](https://securustech.net/fcc-fact-sheet/index.html)
+
+url:https://reddit.com/r/YouShouldKnow/comments/fumo92/
+author:waduhekdisis
+subreddit:YouShouldKnow
+score:2879
+numComments:87
+isOver18:False
+hasPostBody:True

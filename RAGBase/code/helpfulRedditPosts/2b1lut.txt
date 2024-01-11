@@ -1,0 +1,25 @@
+title:
+YSK about these websites that help you learn (just about) anything Online
+
+content:
+This is a list of resources which I have used (and liked) over the past few years. So feel free to add to the list in the comments!
+
+ *Across all subjects and skills*  
+1. [SlideRule](http://www.mysliderule.com/) - A search engine for over 17,000 Online Courses, also has Learning Paths (sequence of Online Courses and other resources) curated by experts, to learn specific skills  
+2. [Gibbon.co](https://gibbon.co/) - Playlists for learning - simpler paths, containing a string of pdfs, Youtube videos etc. to help expand your knowledge  
+
+*Specific skills*  
+1. [Chefsteps](http://www.chefsteps.com/) - Designed for cooks at all levels of proficiency to help you get more creative in your kitchen  
+2. [Dash - From General Assembly](http://dash.generalassemb.ly/) - aims to give anyone with an Internet connection the power to build websites with HTML, CSS and JavaScript. For free.  
+3. [Chandoo.org](http://chandoo.org/) - Takes you from amateur to awesome in all things Excel  
+4. [Dave Conservatoire](http://www.daveconservatoire.org) - With a focus on Theory rather than practice, this is a music school for everyone  
+5. [Hack Design](https://hackdesign.org/) - A brilliant intro to good design, curated by some of the best designers on the web, delivered to your inbox  
+6. For Foreign Languages, try one of the following - [Duolingo](https://www.duolingo.com/), [Memrise](http://www.memrise.com/), [Babbel](http://uk.babbel.com/), or [Livemocha](http://livemocha.com/) - although I'm a little partial to the Duolingo app.
+
+url:https://reddit.com/r/YouShouldKnow/comments/2b1lut/
+author:edwiz
+subreddit:YouShouldKnow
+score:1801
+numComments:103
+isOver18:False
+hasPostBody:True

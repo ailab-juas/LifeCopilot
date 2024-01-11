@@ -1,0 +1,23 @@
+title:
+LPT: When writing ALWAYS say what the acronym is/means before you use the acronym.
+
+content:
+Title Edit: Also abbreviation. 
+
+Many people when writing don't know what you know and if you start spewing acronyms about your job that is easy to you, many people don't know them and it throws them out of the story. 
+
+For example, if I'm talking about being a doctor doing doctor things and talk about treating a patient with a PE. People in the medical field would know that's a pulmonary embolism. Others who aren't medically savvy wouldn't know that term or that it's a blood clot in the lungs. 
+
+How to write the right way? In the sentence if I was using the pulmonary embolism example, I would write: 
+
+"Today, we had a patient come into the emergency room (ER) with a pulmonary embolism (PE)..."
+
+This is very helpful with stories when you are talking about people over and over. If their job title is Medical Director but you only use MD without telling us what the MD stands for, the reader gets lost and is taken out of the story trying to figure out what MD means.
+
+url:https://reddit.com/r/LifeProTips/comments/oz4atx/
+author:Clamidiaa
+subreddit:LifeProTips
+score:1943
+numComments:187
+isOver18:False
+hasPostBody:True

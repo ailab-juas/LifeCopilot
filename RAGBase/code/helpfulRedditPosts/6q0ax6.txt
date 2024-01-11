@@ -1,0 +1,13 @@
+title:
+LPT: When trying to find a small fly in a room, don't keep looking around. Instead go to the corner of the room and stare at the opposite corner. Your brain can spot even the most minuscule changes to its surroundings and will see the fly instantly.
+
+content:
+If anyone has a LPT on how to catch them once you find them, I would really appreciate it.
+
+url:https://reddit.com/r/LifeProTips/comments/6q0ax6/
+author:bantabot
+subreddit:LifeProTips
+score:22010
+numComments:759
+isOver18:False
+hasPostBody:True

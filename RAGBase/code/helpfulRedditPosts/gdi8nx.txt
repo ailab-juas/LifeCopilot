@@ -1,0 +1,29 @@
+title:
+YSK: Sleep apnea and other serious sleep disorders can be linked to a list of mental disorders that can be overlooked because fatigue is a common symptom of most of the disorders.
+
+content:
+  **Disclaimer: Always seek the advice of your mental health professional or other qualified health providers with any questions you may have regarding your conditions. Do not try to self diagnose your own mental health, this is intended for awareness and not a diagnosis.**
+
+ Psychiatric disorders often are developed with obstructive sleep apnea and other serious sleep disorders. These include depression, anxiety, bipolar disorder, schizophrenia, posttraumatic stress disorder (PTSD), panic disorder, and substance use disorder. 
+
+Why this is important? In clinical studies, patients reported a decline in their pre-existing mental conditions and a significant increase in overall mental health when compared to people with similar treatments not including effective treatment of a sleep disorder. Many patients reported fatigue as a symptom during the preliminary diagnosis of the mental disorder and the possibility of a sleep disorder was overlooked by their primary care physician.
+
+&amp;#x200B;
+
+ [https://www.mdedge.com/psychiatry/article/79840/depression/awakening-dangers-obstructive-sleep-apnea](https://www.mdedge.com/psychiatry/article/79840/depression/awakening-dangers-obstructive-sleep-apnea) 
+
+&amp;#x200B;
+
+ [https://www.health.harvard.edu/newsletter\_article/sleep-and-mental-health](https://www.health.harvard.edu/newsletter_article/sleep-and-mental-health) 
+
+&amp;#x200B;
+
+ [https://www.mentalhealth.org.uk/publications/sleep-report](https://www.mentalhealth.org.uk/publications/sleep-report)
+
+url:https://reddit.com/r/YouShouldKnow/comments/gdi8nx/
+author:forgot_username1
+subreddit:YouShouldKnow
+score:2425
+numComments:129
+isOver18:False
+hasPostBody:True

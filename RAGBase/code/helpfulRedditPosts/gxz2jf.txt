@@ -1,0 +1,14 @@
+title:
+YSK about Super Cook, a site where you input your various ingredients and are given recipes you can create with what you have.
+
+content:
+There are even several filters to help narrow down what you are looking for in a dish.
+https://www.supercook.com
+
+url:https://reddit.com/r/YouShouldKnow/comments/gxz2jf/
+author:cruellyspuriouspiles
+subreddit:YouShouldKnow
+score:2200
+numComments:34
+isOver18:False
+hasPostBody:True

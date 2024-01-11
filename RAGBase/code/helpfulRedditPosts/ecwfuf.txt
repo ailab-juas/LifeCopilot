@@ -1,0 +1,13 @@
+title:
+LPT: Many smart phones have a feature that allow medical providers to access your medical information from a locked screen. However, many people don’t realize it exists so don’t fill it in. I’m a paramedic, and can assure you filling out that info can and has saved lives.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ecwfuf/
+author:Scribblebonx
+subreddit:LifeProTips
+score:49890
+numComments:1530
+isOver18:False
+hasPostBody:False

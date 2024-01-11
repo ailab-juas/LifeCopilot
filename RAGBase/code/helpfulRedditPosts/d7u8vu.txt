@@ -1,0 +1,13 @@
+title:
+LPT: Listen. Don't wait to talk. This is simple but effective (not some cliche).
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/d7u8vu/
+author:world_citizen7
+subreddit:LifeProTips
+score:10802
+numComments:302
+isOver18:False
+hasPostBody:False

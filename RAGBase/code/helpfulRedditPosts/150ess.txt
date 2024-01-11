@@ -1,0 +1,45 @@
+title:
+LPT: A few things mechanics value over all else when it comes to their customers.
+
+content:
+As a former mechanic, here are some repair shop tips:
+
+If you don't know what you're talking about, don't try to pretend that you do. We'll know. 
+
+If you **do** know what you're talking about, don't talk our ears off, and don't stalk our bay like a vulture. Use your knowledge to tell us exactly what we need to know, stand back, and let us do our job. I'm not saying you shouldn't keep a watchful eye on your technician if you have the ability to do so, I'm just saying that you shouldn't hang over their shoulders trying to, for lack of a better phrase, "talk shop" with them. 9 times out of 10, as long as the shop doesn't have a rule against it, if you ask if you can watch and promise to be quiet, mechanics will gladly let you. Gaining their permission to do so is generally a solid indicator of how confident the shop is in their work, but turning you down does **not**, on its own, mean they're running a shady operation. Shops are dangerous as all hell, and something bad can happen before you even realize it.
+
+**Call us out**. If for any reason you aren't comfortable with what we're telling you needs to be done, ask us to show you exactly what we're talking about. Trustworthy mechanics will practically fall over themselves to give you proof to back up what they're saying, because earning your trust is their top priority. They will also be **extremely** hesitant to do any work before they're 100% sure you understand what they're talking about. The shops you need to stay away from will fight you tooth and nail, and will do everything in their power to divert you away from their bullshit (and, in some extreme cases, will actively push you to authorize the work knowing full well you have no clue what they're telling you.)
+
+Nearly every mechanic out there has an eidetic memory when it comes to cars and their owners. If you treat us like trash even when we're being patient and polite, we **will** remember. That goes the other way as well; if you're nice to us, we'll go out of our way to ensure your next experience is as smooth as possible, and if we're allowed to, will often give you a small discount.
+
+There are **very** few truly shady shops out there. From my experience, most of the places that seem like they're trying to rip you off are actually just piss-poor operations that don't have people skilled in the delicate art of customer service. No time are people more testy and more defensive than they are with their vehicles. Combine that with a general lack of customer service, and honest ignorance can easily look like a willful act of fraud. That said, trusting mechanics with the life of you and your family yet treating them all like moronic swindlers is not a polite thing to do. Assume that they **are** trustworthy, until they give you a reason to believe otherwise.
+
+With that in mind, you know how I said that we remember if you're a jerk or not? Shady places also remember if you're gullible or not. They'll essentially outright lie to you, and if you buy what they're selling, shablam...they've got a stooge for life. Given the nature of shady shops, they don't require a large number of customers, just a cadre of very gullible ones. As other posters have mentioned in the comments though, it's extremely rare to find a shady person working in an otherwise squeaky-clean shop, as they get run out pretty quickly. As a general rule, either the whole shop is crooked, or the whole shop is on the up and up.
+
+Very unfortunately, the stereotype that women often get higher bills than men is true to some extent, but it's not due to sexism or anything like that. In general, women are more willing to get work done on their vehicles precisely because they don't understand what is being told to them (I know there are some incredibly kick-ass female technicians out there, but generally, this is the case.) As a result, women are given bigger writeups/less discounts in the hopes that they'll just say "screw it" and agree to have things done. Highly reputable shops will **never** do this, but even relatively decent ones sometimes will. It's an unfortunate pock mark on the industry.
+
+A shop that has a competent, well-liked shop foreman is likely to be a competent, well-run shop. Just like a head chef does far more than just cook, a shop foreman is responsible for things like inventory, customer service issues, and in really smartly run places, things like ticket allocation for specific repair needs. For example, if Josh can do magical things with a welder and a Huth pipe bender, and Arnie can properly align the rear camber of a riced-out Civic, it doesn't make any sense for Arnie to break out the Bend Cards and for Josh to struggle with the Civic just because of the ticket order. I know that's getting into the nitty-gritty details of things, but the point is that a skilled foreman (**with both cars AND people**) usually means a solid operation.
+
+People are often miffed about going in for a simple oil change, and then leaving with a $1000 estimate for a bunch of work on their car that they might not necessarily need right then and there. It's important to remember that an estimate is exactly that: an estimate. It's just a way of informing you of things they found wrong (or things that could *potentially* be wrong.) Why would they look if they're just doing a simple oil change, and why would they mention something if you don't actually need it yet? Well, say something looks like there's even a 10% chance of being bad (or going bad in the near future), and a shop doesn't tell you about it, and then two days later it breaks. Who are you likely to blame: the car, or the shop you just went to? Liability and ass-coverage is the name of the game, dear poster. I assure you that their goal isn't to piss you off. Most of the reputable places will wince at doing it, but will still do it all the same. 
+
+If you want to give your mechanic a little treat (which, just like a customer's attitude, is something mechanics ALWAYS remember), any kind of food or drink that fits with the time of year is a solid bet. Soup, coffee, etc in the winter, or super-cold drinks or sandwiches in the summer. Something that isn't too sugary or soda-like is actually preferred...they might tell you they would prefer soda, but trust me, they don't. Hydration is what they want. Mechanics are also known to be fond of gifted six-packs, regardless of the weather :)
+
+There are many issues that can honestly seem like they're coming from one part in the vehicle, when in fact they're coming from a different part. Some of us refer to these issues as "phantom problems", although I've always been partial to the phrase "ventriloquist bastard".
+
+Here's a basic example: your check engine light comes on. You take it to the shop, they hook up an OBD2 scanner to it, and the code says that your downstream O2 sensor is bad. The mechanic replaces the sensor, and sends you on your way. Three days later, the light comes back on, and the same code is tripped. Turns out that, yes, the sensor was indeed bad, but so was your catalytic converter. Since the sensor was downstream of the converter, it's the **converter** that caused the **sensor** to fail in the first place. The sensor was indeed bad and needed to be changed, but that wasn't necessarily the root cause of the problem.
+
+This doesn't mean the mechanic is dumb or bad at their job! It just means they might not have a lot of experience, or they might not have ever encountered a converter fouling out a downstream oxygen sensor. Remember, cars are insanely complicated, and there are a near infinite number of things that can go wrong. Everyone screws up sometimes.
+
+It's also important to remember that being a mechanic is **brutal**. This can vary depending what shop you work in, but we're talking temps in the winter so cold you can't even hold on to your tools, and then in the summer temps so hot you can drink 2 gallons of water a day and STILL be dehydrated at the end of it all. Even if you work in an air conditioned/heated shop, you're still essentially weight-lifting and doing cardio for 8-12 hours a day, 5-6 days a week.
+
+It's a very tough but very rewarding job. Knowing that someone is able to get their kid to daycare and then get to their job safely all because of the work that **you personally do** is immensely satisfying. Likewise, every mistake you make has high visibility on it, so the job requires you to be very humble and to quickly grok what you did wrong. Making a mistake happens to everyone, but all good mechanics never make the same mistake twice.
+
+EDIT: Added a couple more tips, and updated the wording to reflect the inclusion of things beyond customers. I'll keep adding as the night goes on and I think of more/people provide more in the comments.
+
+url:https://reddit.com/r/LifeProTips/comments/150ess/
+author:pojut
+subreddit:LifeProTips
+score:2261
+numComments:623
+isOver18:False
+hasPostBody:True

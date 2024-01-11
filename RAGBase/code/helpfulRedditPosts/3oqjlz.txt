@@ -1,0 +1,13 @@
+title:
+LPT - Don't spend $100+ for a new chip key for your car.
+
+content:
+I bought the exact blank (GM) key for $20.00 on Ebay, had a local locksmith cut it for $20.00.  This key came with simple instructions on how to code it, I googled the process first and there was lots of information on how to do it yourself. [EDIT] For people asking me, the place I got my OEM key is http://stores.ebay.com/qualityautostuff/ [EDIT2] from /u/wmccluskey http://www.properchannel.co/chart/don-t-spend-100+-for-a-new-smart-key/
+
+url:https://reddit.com/r/LifeProTips/comments/3oqjlz/
+author:maestro89
+subreddit:LifeProTips
+score:4548
+numComments:1121
+isOver18:False
+hasPostBody:True

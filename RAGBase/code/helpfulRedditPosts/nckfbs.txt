@@ -1,0 +1,13 @@
+title:
+LPT: If you live alone, be sure to have a non-slip mat on the floor of your shower.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/nckfbs/
+author:DonSol0
+subreddit:LifeProTips
+score:3373
+numComments:203
+isOver18:False
+hasPostBody:False

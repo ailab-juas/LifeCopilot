@@ -1,0 +1,31 @@
+title:
+YSK that alcoholic drinks are freakishly caloric. Even spirits that don't taste sweet at all.
+
+content:
+Why YSK: Because if you want to stay healthy you have to be doubly careful about alcohol. Not only because of it's intoxicating and because drinking to excess can damage organs. But it can also make you fat. So if you care about your weight, watch out how much you drink.
+
+I kind of always knew that alcoholic drinks, like beer or wine, are somewhat caloric. But I assumed that spirits, like vodka, gin or whiskey are not. They do not taste sweet at all, and are just water, alcohol and some flavors, right? Surely then, in cocktails, the only thing that adds calories are the non-alcoholic additives, like sodas or syrup. So if I get a dark'n'stormy with a diet ginger beer, that's nothing, right?
+
+Oh boy, was I wrong.
+
+* beer has a "normal" amount of calories (40 kcal / 100 ml, or 200 kcal / pint)
+* wine is more caloric (75 kcal / 100 ml, or 130 kcal / glass)
+
+but here comes the real kicker:
+
+* gin, vodka, whiskey or virtually any other strong spirit (200 kcal / 100 ml, or 90 kcal / shot)
+
+So when you have your favorite rum and coke (say, 50 ml or rum, 150 ml non-diet coke, and ice), coke is actually the less caloric part...
+
+Sources:
+
+* [NHS (UK National Health Service)](https://www.nhs.uk/live-well/alcohol-support/calories-in-alcohol/)
+* [Medline (US national library of medicine)](https://medlineplus.gov/ency/patientinstructions/000886.htm)
+
+url:https://reddit.com/r/YouShouldKnow/comments/prtvle/
+author:Oficjalny_Krwiopijca
+subreddit:YouShouldKnow
+score:10851
+numComments:659
+isOver18:False
+hasPostBody:True

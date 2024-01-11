@@ -1,0 +1,13 @@
+title:
+the site "nick reboot" streams old nickelodeon shows 24/7. On halloween, it's all Goosebumps and Are You Afraid of the Dark?
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/1pmveg/
+author:Aerik
+subreddit:YouShouldKnow
+score:1231
+numComments:72
+isOver18:False
+hasPostBody:False

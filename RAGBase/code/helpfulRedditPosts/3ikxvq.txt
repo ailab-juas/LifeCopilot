@@ -1,0 +1,66 @@
+title:
+YSK 7 Cognitive Biases That Are Holding You Back
+
+content:
+I found this awesome information about 7 cognitive biases, which play a significant role in our life:
+
+
+**1. Confirmation Bias.** This occurs when you warp data to fit or support your existing beliefs or expectations. The effects are often found in religion, politics, and even science.
+
+Why does that matter? Because an inability to look outside of your existing belief systems will vastly limit your ability to grow and improve, both in business and in life. We need to consider more possibilities, and be more open to alternatives.
+
+**2. Loss Aversion.** Also known as the endowment effect, loss aversion is a principle in behavioral economics whereby someone will work harder to keep something than they will to acquire it in the first place. This is also closely related to the sunk cost fallacy, where one is inclined to pump more resources into something based solely on the resources already expended.
+
+If you need an example, being hesitant to fire a bad employee is a common one. You might think, "Well, I've already put so much time into training them, paying them, insuring them, and their performance isn't really THAT bad...I should see if I can salvage this."
+
+Don't make this mistake. When time or money is gone, it's gone, and you need to consider the future without attachment to the past. Speaking of past and future...
+
+**3. Gambler's Fallacy.** The human brain has difficulty understanding probability and large numbers, so you are naturally inclined to believe that past events can somehow change or impact future probabilities.
+
+For example, there are many people who try to analyze the past performance of the stock market in order to pick future stocks that should be winners, usually with terrible results (there's a reason why very few money managers outperform the S&amp;P 500). This is a product of the Gambler's Fallacy, and it can get you, your clients, and your businesses into a great deal of trouble.
+
+How does this hold you back? In most cases, past events don't change the future unless you let them, so you need to take great care when attempting to learn from the past. It's fine to look to the past for insights, but don't fall into the "past performance dictates future performance" trap.
+
+**4. Availability Cascade.** Just because you hear something frequently does not make it true, though the brain sure likes to believe otherwise. For example:
+
+You don't use just 10 percent of your brains (you actually use 100 percent).
+Gum doesn't take seven years to digest (it doesn't digest at all; it just passes right through in about the same time as everything else).
+Bats aren't blind (they see quite well, and have amazing hearing to boot).
+Surprised? Bad information seems to spread as fast, if not faster, than the truth, so you need to fact-check frequently before you make decisions based on bad information. If you notice something coming up again and again, dig into the facts and determine for yourself what is or isn't true.
+
+**5. Framing Effect.** This one is fascinating, and I take advantage of it regularly as a marketer. In a nutshell, how something is framed, positively or negatively, has an enormous impact on how the information is processed...even if the information is fundamentally identical.
+
+For example, let's say you've been diagnosed with a terminal illness, and two different doctors come to tell you what happens next:
+
+* Doctor A: "With proper treatment, you have an 80 percent chance of a full recovery."
+* Doctor B: "There's a 20 percent chance that you'll die after being treated for this illness."
+
+Which doctor would you want to work with? Even though both are exactly the same, most people will pick Doctor A, because an 80 percent chance of recovery sounds way better than a 20 percent chance of death.
+
+It's important to carefully consider how you present information in all walks of life, because your method of presentation can make or break the outcome.
+
+**6. Bandwagon Effect.** Just because many people believe something doesn't make it true...though it does make it much easier for the brain to accept. In many ways, humans behave like herd animals, blindly accepting whatever they encounter as long as there seems to be some social proof.
+
+One of my favorite quotes is attributed to Mark Twain, and says:
+
+"Whenever you find yourself on the side of the majority, it is time to pause and reflect."
+
+It's important not to allow the beliefs of others to sway you without careful thought and research on your part. Don't accept things at face value.
+
+**7. Dunning-Kruger Effect.** Last but not least, this cognitive bias is at play behind arrogance and egotism. People have a psychological tendency to assess their abilities as much greater than they really are.
+
+How do you conquer this? I personally have a four-step approach:
+
+* Keep a journal
+* Meditate
+* Pause before you act
+* Self-analyze
+As you go through this process, you'll find yourself better equipped to assess your skills without bias. I've written a more detailed blog post about self-awareness, if you want to check it out.
+
+url:https://reddit.com/r/YouShouldKnow/comments/3ikxvq/
+author:NoahHarris
+subreddit:YouShouldKnow
+score:2939
+numComments:165
+isOver18:False
+hasPostBody:True

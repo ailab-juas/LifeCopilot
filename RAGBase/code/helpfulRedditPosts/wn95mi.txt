@@ -1,0 +1,13 @@
+title:
+LPT: Try to Calibrate your Monitor
+
+content:
+For a long time I thought that my monitor's colors and contrast where bad due to it being relative cheap. But, after calibrating it with the windows built in tool, I saw a huge improvement from before. Might not be a great solution for everyone especially those with more expensive monitors, but it takes 2 minutes and can improve your viewing experience by a lot!
+
+url:https://reddit.com/r/LifeProTips/comments/wn95mi/
+author:Shiryous
+subreddit:LifeProTips
+score:2571
+numComments:170
+isOver18:False
+hasPostBody:True

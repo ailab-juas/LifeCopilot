@@ -1,0 +1,13 @@
+title:
+LPT: if you go on a plane with a camelbak drink bottle, unscrew the lid to relieve pressure before drinking, otherwise it turns into a water gun and soaks everybody nearby
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/cfzdug/
+author:kindregime
+subreddit:LifeProTips
+score:5995
+numComments:231
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,15 @@
+title:
+YSK to take frequent breaks whilst shoveling snow because it raises your risk for heart attacks and cardiovascular problems due to the cold weather and extended period of physical exertion.
+
+content:
+https://www.google.com/amp/s/www.washingtonpost.com/health/the-big-number-snow-shoveling-results-in-about-11500-injuries--including-100-fatalities/2019/12/06/10c46858-178a-11ea-8406-df3c54b3253e_story.html%3FoutputType%3Damp
+
+Why YSK: This will help people be aware of the risks while shoveling snow, and therefore help prevent injury and even death during the winter season.
+
+url:https://reddit.com/r/YouShouldKnow/comments/kk7c2i/
+author:LesFruitsSecs
+subreddit:YouShouldKnow
+score:18187
+numComments:431
+isOver18:False
+hasPostBody:True

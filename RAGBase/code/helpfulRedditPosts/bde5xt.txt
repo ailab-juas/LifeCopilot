@@ -1,0 +1,13 @@
+title:
+LPT: if you want to give something away online, still add a price. Even if it's very low for that item it will scare away 90% of those who will just relist the item immediately. Plus it'll pleasant surprise for someone when you give them it free.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/bde5xt/
+author:setiyeti93
+subreddit:LifeProTips
+score:30233
+numComments:723
+isOver18:False
+hasPostBody:False

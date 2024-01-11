@@ -1,0 +1,13 @@
+title:
+Reusing an old rake (x-post from /r/pics)
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/qzbl8/
+author:Namwen69
+subreddit:LifeProTips
+score:2055
+numComments:81
+isOver18:False
+hasPostBody:False

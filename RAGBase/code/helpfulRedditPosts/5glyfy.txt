@@ -1,0 +1,19 @@
+title:
+LPT: Can't get to the wifi login page? Browse to 192.168.1.1!
+
+content:
+Sometimes (all the time) when I connect to my office wifi network or a public hotspot I end up failing to retrieve the login page for one reason or another. Sometimes my browser's auto-redirect tries to hit the internet for instruction on how to handle the new network and fail miserably.
+
+By browsing to "192.168.1.1" I just about always get redirected to the network's login page. Since I'm not trying to hit something outside the network the redirect happens inmediately. Then I'm free to look at all the porn I need to!
+
+Note that if you go to 192.168.1.1 and it brings you to an insecure router control panel you probably don't want to be on that public network.
+
+Edit: This post is not meant to be any kind of lesson in networking or encryption. This is just a shortcut that's worked for me in all scenarios I've encountered. Read the top few posts for better info from guys who know networking. 😂👌
+
+url:https://reddit.com/r/LifeProTips/comments/5glyfy/
+author:deanykg
+subreddit:LifeProTips
+score:12566
+numComments:984
+isOver18:False
+hasPostBody:True

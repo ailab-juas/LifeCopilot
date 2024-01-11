@@ -1,0 +1,13 @@
+title:
+YSK that, if you call 911, all your blocked call numbers will automatically be unblocked for 2 hours.
+
+content:
+Why YSK: This popped up on my Android after I called 911 for a guy at work having a suspected heart attack.  Not sure if this is a Pennsylvania only rule or not.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ihj4w6/
+author:AmishElectrician
+subreddit:YouShouldKnow
+score:23059
+numComments:605
+isOver18:False
+hasPostBody:True

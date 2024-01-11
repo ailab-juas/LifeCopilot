@@ -1,0 +1,13 @@
+title:
+LPT: In California, you are entitled to free air at gas stations
+
+content:
+There is, of course, a vending device on the air pump, but you can go inside and ask an employee to turn on the air compressor. They are legally required to provide this free of charge.
+
+url:https://reddit.com/r/LifeProTips/comments/u4z88l/
+author:Quote_Living
+subreddit:LifeProTips
+score:6990
+numComments:637
+isOver18:False
+hasPostBody:True

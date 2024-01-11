@@ -1,0 +1,15 @@
+title:
+YSK that sharp knives are safer than dull knives.
+
+content:
+When using a dull knife, you have to put more force on the knife the cut through the object. Cutting yourself with a dull knife in most cases will lead to a much more serious injury if the same situation happened with a sharp knife.
+
+Edit: Sorry for all of the missing details. You can find more information in the comments.
+
+url:https://reddit.com/r/YouShouldKnow/comments/e62e20/
+author:LxzyCone
+subreddit:YouShouldKnow
+score:8825
+numComments:361
+isOver18:False
+hasPostBody:True

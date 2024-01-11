@@ -1,0 +1,15 @@
+title:
+LPT: DO NOT use TurboTax to do your taxes. The platform has lobbied the Federal government to make doing your own taxes harder and the government complies because TurboTax refunds are smaller than those given by more comprehensive platforms. This is especially true if you own a small business.
+
+content:
+For the past 2 years I have used another cheaper platform for doing my taxes and have found my refunds to be 10-20% higher than in the past when using TurboTax. And not because of income or business changes. But because the other platform is much more comprehensive is its coverage of business expenses and credits, as well as other tax forms which are never covered in TurboTax.
+
+edit: Forgot to say this: I also believe you would be better off giving a small fee to a local CPA (~$100?, not sure on that) if you don't want to use an online platform.
+
+url:https://reddit.com/r/LifeProTips/comments/ttq091/
+author:phathiker
+subreddit:LifeProTips
+score:16670
+numComments:784
+isOver18:False
+hasPostBody:True

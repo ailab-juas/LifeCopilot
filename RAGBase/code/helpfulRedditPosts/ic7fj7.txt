@@ -1,0 +1,23 @@
+title:
+YSK That True Air Temperature Is Always Measured In The Shade, Not In Direct Sunlight
+
+content:
+There is a lot of talk lately about the temperature in Death Valley hitting 130 degrees Fahrenheit, the hottest temperature recorded on earth in over 100 years (The hottest temperature ever recorded was 134 degrees Fahrenheit in 1913, also in Death Valley).
+
+After this news came out, I've seen a bunch of people online showing pictures of themselves with thermometers reading in the 130s, even 140s and higher yelling about how much hotter it is where THEY are, so what's the big deal...
+
+What so many people fail to realize is that they are standing in direct sunlight, hence they are not getting an accurate temperature reading. When you place a thermometer in direct sunlight it will register the heat energy of the sunlight, not the true air temperature. 
+
+For an accurate reading of the air temperature, the thermometer must be placed in the shade, roughly 5 feet above the ground, with decent air flow around the thermometer. Lastly, it must be placed over dirt or grass, not concrete or asphalt which attract heat.
+
+That's it. Stay hydrated and stay in the shade!
+
+[Citation](https://weatherworksinc.com/news/temperature-measurement)
+
+url:https://reddit.com/r/YouShouldKnow/comments/ic7fj7/
+author:G-Safety
+subreddit:YouShouldKnow
+score:1033
+numComments:44
+isOver18:False
+hasPostBody:True

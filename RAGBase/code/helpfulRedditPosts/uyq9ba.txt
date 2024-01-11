@@ -1,0 +1,17 @@
+title:
+YSK: Coping with lifelong depression is about prevention more than anything else.
+
+content:
+Why YSK: We often don't pay attention to depression until we're in the thick of it, and this can often be the worst time to develop healthy habits because you're simple not motivated to do so. You're just in survival mode.
+
+When your mood is lifted, that's when you introduce healthy habits little by little. This includes good nutrition, hydration, exercise, meditation, medication management, and therapy.
+
+Unfortunately, there's a good chance you'll still get depressed at some point, but these habits will lengthen the amount of time between episodes, shorten the length of the episodes, and reduce their severity.
+
+url:https://reddit.com/r/YouShouldKnow/comments/uyq9ba/
+author:theoptionexplicit
+subreddit:YouShouldKnow
+score:8432
+numComments:207
+isOver18:False
+hasPostBody:True

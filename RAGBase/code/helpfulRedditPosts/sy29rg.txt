@@ -1,0 +1,13 @@
+title:
+LPT: Whenever you feel like you're too old to start something; remember that time will still pass anyway, regardless of you doing or not doing the thing you wanted to do.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/sy29rg/
+author:the_orca_jungle
+subreddit:LifeProTips
+score:25769
+numComments:518
+isOver18:False
+hasPostBody:False

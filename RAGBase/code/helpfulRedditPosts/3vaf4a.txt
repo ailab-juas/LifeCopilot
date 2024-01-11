@@ -1,0 +1,26 @@
+title:
+LPT How to avoid GPS-stalking on Tinder, Lovoo, …
+
+content:
+As these services provide your location to other users practically in real time (Lovoo is especially precise/troubling here), it is no problem for anyone to figure out where you are and track down your location fairly precise. This can be easily done by Stalkers using a fake gps location on their phone and altering it until they are virtually next to the person they are tracking. Thus they can work out your patterns of movement and follow your every step without you physically noticing it. 
+
+Tinder is not as precise as other services, only providing a radius in which the other Person is located, but here are a few tricks you should consider anyway:
+
+Use their own trick against them – set a fake gps location for your Phone in the area where you want to use the service anyway – minimal drawbacks and full security. For instructions simply google: “set fake gps location”
+
+Consider turning off your GPS in the area around you home, so people won´t be able to figure out where you live.
+
+
+Most people here won´t need it, but if it just helps one person my job here is done.
+
+
+Edit: (u/kulmbach: Also, turn off GPS tagging on your photos. Take a picture at home and upload it somewhere and you might be giving not only your home location away, but which side of the house your room is on.)
+
+
+url:https://reddit.com/r/LifeProTips/comments/3vaf4a/
+author:Mapsle
+subreddit:LifeProTips
+score:1515
+numComments:216
+isOver18:False
+hasPostBody:True

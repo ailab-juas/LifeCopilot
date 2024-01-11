@@ -1,0 +1,14 @@
+title:
+LPT: If you’re a college student (or high school student) write down every single extracurricular, volunteer activity, internship you have over your college career, so you can later customize any resume without worrying about forgetting useful information
+
+content:
+
+Keeping an ongoing google doc where you put every activity, NO MATTER HOW INSIGNIFICANT you feel it may be. This, along with a “generic” resume template can help you to easily customize to the job you are specifically applying for. Also, looking over the list before an interview can help you remember interesting anecdotes/ what you learned in each position for any interview.
+
+url:https://reddit.com/r/LifeProTips/comments/f8rpu8/
+author:daddys_little_fcktoy
+subreddit:LifeProTips
+score:2999
+numComments:73
+isOver18:False
+hasPostBody:True

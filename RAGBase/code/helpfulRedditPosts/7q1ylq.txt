@@ -1,0 +1,13 @@
+title:
+LPT: When flying, if the first leg of your flight is delayed and lands late, and you know there is little to no chance of making your next flight. Call the airline's 800 number as soon as the wheels touch the ground. Don't run to your gate, and try to rebook at the desk.
+
+content:
+Doing this today allowed me to beat everyone else who was also delayed on my flight, and as a result I caught the last flight out to my destination.  Im on the beach,  while everyone else is spending the night in Atlanta.
+
+url:https://reddit.com/r/LifeProTips/comments/7q1ylq/
+author:skibblez_n_zits
+subreddit:LifeProTips
+score:3508
+numComments:134
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: If you are doing a workout that calls for a specific number of reps, count down instead of up. Psychologically it will be tougher to give up if you are counting how many reps you have left instead of how many you have already completed.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/jxwc18/
+author:millennialdude
+subreddit:LifeProTips
+score:5059
+numComments:111
+isOver18:False
+hasPostBody:False

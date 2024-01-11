@@ -1,0 +1,27 @@
+title:
+LPT: When a problem arises, skip blame and go straight to, "How can we resolve it?" Accountability comes after, never first.
+
+content:
+Example:
+
+Your team is about to give an important presentation at an event. Ten minutes before go-time, you discover you're missing the slideshow. You're 100% sure it was Joe's job to bring the slideshow.
+
+DON'T:
+
+Ask Joe why he didn't bring the slideshow, remind him it was his job, or get into a lengthy discussion about where the miscommunication happened.
+
+DO: 
+
+Go straight to the actual problem: getting the slideshow. Can Joe call someone near his desk to email it? Does Joe have time to run back and grab it?
+
+Basically-
+
+Keep the air energized, positive, and solution-oriented until the problem has been resolved. Only *after* you've solved the issue do you ask, "Okay, how did this happen, and how can we do better in the future?" This may include holding someone accountable. But until the problem is resolved? No blame.
+
+url:https://reddit.com/r/LifeProTips/comments/jpiw8o/
+author:[deleted]
+subreddit:LifeProTips
+score:35677
+numComments:500
+isOver18:False
+hasPostBody:True

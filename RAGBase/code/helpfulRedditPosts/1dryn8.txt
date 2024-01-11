@@ -1,0 +1,13 @@
+title:
+YSK you can right click any youtube video to copy the url 'At Current Time' to share. PLEASE do this when uploading videos that reference only a specific part of a video.
+
+content:
+YSK you can right click any youtube video to copy the url 'At Current Time' to share.  PLEASE do this when uploading videos that reference only a specific part of a video.
+
+url:https://reddit.com/r/YouShouldKnow/comments/1dryn8/
+author:everyoneisme
+subreddit:YouShouldKnow
+score:1114
+numComments:22
+isOver18:False
+hasPostBody:True

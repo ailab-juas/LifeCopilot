@@ -1,0 +1,15 @@
+title:
+YSK that codecademy.com is an AMAZING interactive site for beginners to learn how to code
+
+content:
+The interface is just SUPERB: explanation and lessons on the left, code in the middle-ish, and preview of the finished work on the far right. Hands down the best "learn to code" site I've seen. This way your interaction with the site is front and center!
+
+Edit: [link](http://codecademy.com)
+
+url:https://reddit.com/r/YouShouldKnow/comments/1q6iuk/
+author:johnny_pilgrim
+subreddit:YouShouldKnow
+score:1840
+numComments:157
+isOver18:False
+hasPostBody:True

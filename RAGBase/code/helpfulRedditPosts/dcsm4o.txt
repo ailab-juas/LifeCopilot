@@ -1,0 +1,13 @@
+title:
+YSK homeless shelters are asked for socks over any other items by the homeless. If your looking to help, dropping of a fresh pack will go along way for relatively cheap.
+
+content:
+Also helps prevent against frostbite, bacterial infection, and provides good warmth.
+
+url:https://reddit.com/r/YouShouldKnow/comments/dcsm4o/
+author:Bernardhopkins
+subreddit:YouShouldKnow
+score:13776
+numComments:208
+isOver18:False
+hasPostBody:True

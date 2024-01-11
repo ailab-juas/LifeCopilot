@@ -1,0 +1,25 @@
+title:
+YSK that m.imgur.com links don't load on most mobile devices. Use i.imgur.com instead.
+
+content:
+Most mobile devices give a 404 error for m.imgur.com links. i.imgur.com links don't have this problem.
+
+**See this photo for reference:**
+
+http://i.imgur.com/wzbRkoth.jpg
+
+**Now try to load the same photo as an m.imgur.com link:**
+
+http://m.imgur.com/wzbRkoth.jpg
+
+
+
+**EDIT: Apparently some people from imgur saw this post and fixed the bug. That's why they both are working for everyone now. They both work for me now, too. Thanks, imgur!**
+
+url:https://reddit.com/r/YouShouldKnow/comments/1tr6qk/
+author:clr257
+subreddit:YouShouldKnow
+score:1219
+numComments:66
+isOver18:False
+hasPostBody:True

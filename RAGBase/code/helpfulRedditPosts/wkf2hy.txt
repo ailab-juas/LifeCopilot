@@ -1,0 +1,13 @@
+title:
+LPT: Learn Excel, even if the primary function of your job doesn’t require it or isn’t numbers related. Excel can give you shortcuts that will help you with your job substantially, including working with text or lists at scale.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/wkf2hy/
+author:skidniks
+subreddit:LifeProTips
+score:36710
+numComments:1867
+isOver18:False
+hasPostBody:False

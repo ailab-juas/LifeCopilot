@@ -1,0 +1,13 @@
+title:
+LPT: When you start a new job because you didn't like your old one, change the melody of your morning alarm. It'll likely prevent some negative feelings.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/fqjowu/
+author:nnargun
+subreddit:LifeProTips
+score:1267
+numComments:26
+isOver18:False
+hasPostBody:False

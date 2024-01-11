@@ -1,0 +1,13 @@
+title:
+YSK you can reopen an accidentally closed tab in Google Chrome, by pressing Ctrl+Shift+T
+
+content:
+You should know this, because it could become handy, or if you are too lazy (or scared) to open your history... You're welcome! 
+
+url:https://reddit.com/r/YouShouldKnow/comments/1x3lyr/
+author:Bricksh
+subreddit:YouShouldKnow
+score:1292
+numComments:153
+isOver18:False
+hasPostBody:True

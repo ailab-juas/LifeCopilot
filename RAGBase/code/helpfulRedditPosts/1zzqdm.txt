@@ -1,0 +1,13 @@
+title:
+YSK MacRumors has a page that tells you whether you should buy an Apple product or not based on the likelihood of a new model coming out.
+
+content:
+http://buyersguide.macrumors.com/
+
+url:https://reddit.com/r/YouShouldKnow/comments/1zzqdm/
+author:10009_
+subreddit:YouShouldKnow
+score:1219
+numComments:211
+isOver18:False
+hasPostBody:True

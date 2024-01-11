@@ -1,0 +1,13 @@
+title:
+LPT: enclose nail clipper with tape to prevent clippings from flying everywhere. 
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/rqtqp/
+author:cecikierk
+subreddit:LifeProTips
+score:1111
+numComments:82
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: When applying for a job online, save the job description in an email or pdf. You'll be able to prepare well for the interview even if the posting has been taken down.
+
+content:
+Good luck, fellow job seekers!
+
+url:https://reddit.com/r/LifeProTips/comments/1mxz8h/
+author:imadinosaurAMA
+subreddit:LifeProTips
+score:2192
+numComments:129
+isOver18:False
+hasPostBody:True

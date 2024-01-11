@@ -1,0 +1,15 @@
+title:
+LPT: Look at the profiles of people posting political stuff on Reddit. More often than not it's a power user and blocking those makes Reddit a much more pleasant place.
+
+content:
+I've started doing this and it's kind of crazy how many accounts there are that just post news articles everywhere or make inflammatory political posts in non-political subs. Nine times out of ten these people will have hundreds of thousands, if not millions of karma points and all they do is spam popular subs all day long. As soon as I started blocking those I noticed how much more pleasant r/all and all the default subs had become.
+
+I highly recommend doing this if you're fed up with politics everywhere and also reposts and general karmawhoring.
+
+url:https://reddit.com/r/LifeProTips/comments/g7yn6o/
+author:SufficientlyHumorous
+subreddit:LifeProTips
+score:6724
+numComments:328
+isOver18:False
+hasPostBody:True

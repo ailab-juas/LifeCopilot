@@ -1,0 +1,15 @@
+title:
+YSK You should look into living wills, DNR's, and other advance directives before it is too late. By planning ahead, you can get the medical care you want, avoid unnecessary suffering and relieve caregivers of decision-making burdens during moments of crisis or grief. Make your wishes known.
+
+content:
+Why YSK:  Living wills and other advance directives are written, legal instructions regarding your preferences for medical care if you are unable to make decisions for yourself. Advance directives guide choices for doctors and caregivers if you're terminally ill, seriously injured, in a coma, in the late stages of dementia or near the end of life. 
+
+[https://www.mayoclinic.org/healthy-lifestyle/consumer-health/in-depth/living-wills/art-20046303](https://www.mayoclinic.org/healthy-lifestyle/consumer-health/in-depth/living-wills/art-20046303)
+
+url:https://reddit.com/r/YouShouldKnow/comments/pq5tn4/
+author:grandlewis
+subreddit:YouShouldKnow
+score:2555
+numComments:65
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+YSK: Installing a bidet attachment to your toilet is super easy and probably cheaper than stockpiling a ton of toilet paper.
+
+content:
+And it feels cleaner too!
+
+url:https://reddit.com/r/YouShouldKnow/comments/fi1pfi/
+author:Velexria
+subreddit:YouShouldKnow
+score:50532
+numComments:2716
+isOver18:False
+hasPostBody:True

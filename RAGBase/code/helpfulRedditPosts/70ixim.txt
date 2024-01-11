@@ -1,0 +1,14 @@
+title:
+YSK: If you have an old, or just idle laptop lying around you can "donate" the processing power to help cure diseases, study global warming, discover pulsars, and do many other types of scientific research
+
+content:
+[Link](https://boinc.berkeley.edu/)
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/70ixim/
+author:TripleKNotToday
+subreddit:YouShouldKnow
+score:5155
+numComments:238
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,21 @@
+title:
+LPT: Looking for a product's closest competitors? Search their name followed by 'vs' in Google to get a list of products considered to be similar.
+
+content:
+I've been using this trick for years, and most times I mention it to people, they had never heard of it. 
+
+E.G. Looking for a DLSR camera, and your friend has a Canon 5D and you'd like to know what other cameras in the market are considered similar?
+
+Boom. [instant list](http://www.glowingrectangles.com/wp-content/uploads/2014/05/canon5d.jpg).
+
+Here are some more examples: [Google &amp; the power of 'vs'](http://www.glowingrectangles.com/2014/05/vs-2-letter-secret-quick-effective-product-comparison-using-google/)
+
+I use this about 5-10x per day when researching stuff online. Great time saver.
+
+url:https://reddit.com/r/LifeProTips/comments/26aztf/
+author:afxjzs
+subreddit:LifeProTips
+score:2464
+numComments:193
+isOver18:False
+hasPostBody:True

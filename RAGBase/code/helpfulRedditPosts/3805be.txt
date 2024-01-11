@@ -1,0 +1,29 @@
+title:
+LPT: GMAIL Inbox tips.
+
+content:
+Hi, I searched previously tips posted here, but there are a few tips which were,IMHO, missing.
+
+* **Stars**
+
+Under the *General* tab is *Settings* you can choose the no. of stars you want to apply to your emails. There are 12 different kind of options available,which can be used for different purposes.
+For example: A red star for emails that need your attention, yellow which needs discussion, blue ones are waiting for your reply and so on..
+
+* **Right Side Chat**
+
+This is the second best feature (*After UNDO, of course*) which will magically create space on the left side of your inbox, giving better visibility to your Labels and stuff. 
+
+Also, now, your chat is shifted to RHS and thus can display contacts in a larger window. Better and larger view.
+
+* You're all aware about the Undo thing, and to add it, you can generalise the sending cancellation time in **GENERAL** tab.
+
+
+* The *Shift+?* will show you all the keyboard short-cuts, which are there and if they are enabled or disabled.
+
+url:https://reddit.com/r/LifeProTips/comments/3805be/
+author:recycledbrainworm
+subreddit:LifeProTips
+score:2789
+numComments:574
+isOver18:False
+hasPostBody:True

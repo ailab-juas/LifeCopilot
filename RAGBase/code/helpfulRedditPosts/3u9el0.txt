@@ -1,0 +1,126 @@
+title:
+LPT: Staying warm and safe this winter (advice from a Canadian).
+
+content:
+Recent cold snaps have motivated me to type this out. Hopefully some of you find this helpful. 
+
+---------
+
+**Clothing:**
+*edit: /u/kanadakid19 posted some [great background](https://www.reddit.com/r/LifeProTips/comments/3u9el0/lpt_staying_warm_and_safe_this_winter_advice_from/cxdam9o) info in regards to clothing and fabric choices.* 
+
+**Layers**. Always dress in layers (and bring layers with you). Not only do layers create more pockets of air (which help insulate), but also allow you to avoiding sweating (which will cool you off the fastest). This also goes for your legs. It might not be sexy, but long underwear or tights underneath your pants will make an enormous difference. High end winter gear creates this by design (down/fur),  try to mimic this functionality with your layers. 
+
+*Edit: Generally you will have three:*
+
+1. Baselayer (thermals/long underwear). Merino wool is go to here, but there are many high-performing synthetics should you find it too pricey. This layer should be quite tight and extremely soft/comfortable, and breathable. It also needs to maintain warmth when wet because this is the one that's going to get sweaty (which is bad, but prepare for it anyway). Semi-related tip: make sure that the combination of your socks/thermals doesn't cut into your skin (you often see this with ski and hiking boots). If you have high quality socks, consider getting thermals that only go down to mid-calf.  
+2. Midlayer. On super cold days this can actually be two layers. A breathable fleece/synthetic sweatshirt type layer (see the Arcteryx shirt I linked in the cotton section), and an insulation layer (which is not really breathable). The insulation layer will almost always be some form of down (and will be integrated into heavy parkas). [For this layer I'm really loving the new "synthetic down"](http://www.patagonia.com/us/shop/womens-insulation-synthetic-insulation?k=1E-6V-aY). It's so light and squishy and easy to store when you need to (which is awesome, because this is likely the first layer that you'll want to store). 
+3. The wind/waterproof layer (AKA, the shitty weather layer... OK it's actually called the "outer layer" or "shell"). This is where you'll spend the big bucks, but in a pinch, **a goddamn plastic bag is better than nothing**. This layer is stopping windchill and rain **only**. And often, you'll keep the lighter midlayer + this one after you get halfway down your run. Or to work. Or whatever.  
+
+**Loose**. Do **not** restrict your circulation. Especially on your appendages (feet/fingers). Yes, that extra pair of socks might seem like a great idea, but if you have to squish into your boots, I promise that your feet will be colder. Same goes for gloves (mitts are usually better for that reason). But /u/LeoNemean reminds us to make sure you tuck in your long underwear... You are trying to create little sealed bubbles of air between you an the cold (kind of like a thermos).  
+
+**Cotton is the worst**. Jeans, shirts, dress pants whatever. If it isn't wool or synthetic, it will get wet, stay wet, and provide very little insulation even when dry and zero protection from the wind. Avoid at all costs. *Edit: Smartwool and Merino wool are the latest go to (especially for baselayers), but my favourite midlayer is [this hoodie](http://arcteryx.com/product.aspx?language=EN&amp;gender=womens&amp;category=Mid_Layer_and_Fleece&amp;subcat=Athletic&amp;model=Thaleia-Hoody-W). I wear it almost every day, especially after working out. It's great because it still lets the sweat evaporate, but without letting you get cold.*
+
+--------
+
+**Behaviour:**
+
+1. **Protect yourself from the wind**. Yes, cover your ears/face/exposed skin with clothing (toque/scarf/mitts), but also stand in whatever shelter available and walk next to buildings to avoid the wind. It's a myth that you lose more heat from your head than any other body part... but that doesn't mean that you shouldn't cover it like you would any other body part. My father always told me: *You don't need to cover all your extremities, just the ones you want to keep.*
+2. **Make the most of the heat you have**. Get dressed inside and wait for all the little pockets of air to warm up before you go outside. 
+3. **Do not get wet**. Either from sweat or anything else. Getting wet will give you hypothermia/frostbite in minutes vs hours. If you feel yourself starting to sweat, immediately take off a layer... Or two. Whatever it takes. If it's slushy you're usually better off with $20 gumboots and a good pair of socks, rather than non-waterproof boots. 
+
+*Edit: I'm seeing a lot of posts saying* ***"but but I sweat when I wear.... and then I'm cold".*** 
+
+Sweating is caused by two things:
+
+1. **The breathability of the fabric(s) you're wearing.** This can be rectified largely by spending more money on slightly looser/physically lighter, more insulating, items that wick away moisture. And yes, it is possible to get breathable waterproof winter boots if you spend enough money. And do not cheap out on your socks either. Try cheap alternatives first, but the technology is there if you need an "extreme" solution. 
+2. **You aren't removing (or wearing) your layers appropriately.** In order to stay warm your toes, fingers and arms should all be able to move/rest freely and comfortably. If that movement is hampered (say you can't reach in front of you or over your head), likely you have the wrong clothing on. When you step outside you should feel a slight chill that goes away when you start moving. Once you get moving, it's very normal to only have your wind/waterproof shell and your long underwear on... And there have definitely been times where I skied in long underwear and snowpants and removed my coat completely.  
+
+-----------
+
+**Frostbite**
+
+Recognize the symptoms: 
+
+* Stages: [Lethargy in your joints](https://www.reddit.com/r/LifeProTips/comments/3u9el0/lpt_staying_warm_and_safe_this_winter_advice_from/cxd6bun), pain, and numbness. And you'll notice some freaky colour changes. Pain is good... Numbness is not.... but likely you'll have a tough time noticing which parts are numb and which just hurt. If you start feeling pain, you should do something about it. If you see blue, there is likely some tissue damage. **You need to get out of the cold immediately.**  
+
+* Treatment: Understand that while you feel pain, the surface area of your skin is completely numb. You will have no reliable feedback as to what is *actually* hurting you. You can try rubbing the area, but you will not be able to tell if you're damaging the skin. You can try to warm it up with water, but you likely will not be able to tell what temperature the water is. **It is very easy to burn or damage your skin further while it is in the early stages of frostbite and are trying to warm up.** 
+
+And it will hurt a **lot**.  Just be patient and wait. 
+
+**Hypothermia**
+
+Understand that most cases of hypothermia happen without and snow or frost (because people are not prepared). Pouring rain at 45F/8C can be just as deadly. 
+
+Recognize the Symptoms: 
+
+* The shivering/teeth chattering stops. 
+* You start to feel sluggish/slow. 
+* It's hard to think (you almost feel drunk). 
+* And then you feel very very sleepy and not really cold at all...
+
+Treatment: Obviously, get out of the cold and get warm. If this isn't immediately easily available, do the following:
+
+* Get dry (change your clothes and try to dry the wet ones)
+* Get out of the wind (build a shelter, crawl under to the base of a tree) and the elements
+* Find a source of heat (even a candle in a small shelter [or your car!] can make a huge difference). Do **not** leave your car running (because you won't notice if your exhaust becomes blocked and starts filling your car up with carbon monoxide). 
+
+----------
+**Emergency Preparedness**
+
+First and foremost: **Always tell people where you are going --your anticipated route-- and when you'll arrive.** Obviously unnecessary in busy city centres, but for those commuting long distances or taking trips over winter, this is a good [lifesaving] habit to get into. 
+
+Keep this * minimal * emergency kit in your car at all times and all seasons:
+
+* Windproof/insulated gloves + toque
+* Rain ponchos
+* Plastic bags/garbage bags (they are windproof and decent for keeping your feet and core dry in a pinch)
+* Emergency blanket (and sleeping bag if possible)
+* Candle + matches/means to light it
+* Reflective cones (and glowsticks or flares if possible)
+* Multi-tool (letherman) 
+* First aid kit
+* Energy bars
+* An ~~old school~~ accurate paper map of the area
+
+*Edit: /u/8654 reminded me of [a few I missed](https://www.reddit.com/r/LifeProTips/comments/3u9el0/lpt_staying_warm_and_safe_this_winter_advice_from/cxd9og3?context=3). But keep in mind this is a* ***basic*** *kit. If you live in more remote/extreme areas, you need a lot more than what I've listed*.  
+
+* A tow rope
+* Salt or sand or kitty litter
+
+And when the worst happens, understand that not all survival/emergency situations are created equal. 
+
+* It may or may not be safest to stay in your vehicle. Generally speaking, you will survive the elements longer if you wait in your car...
+* But if your car is anywhere near a major highway, you're also more likely to get hit...
+* But even then it's still safer to get hit while in your vehicle, rather than crossing the road on foot ([this recently ended in a terrible tragedy for a canadian politician trying to help a stranded motorist](http://www.cbc.ca/news/canada/calgary/manmeet-bhullar-remembered-prentice-fawcett-nenshi-1.3334178)).
+ 
+**Stay warm, stay safe!**
+------
+------
+**NEW!Useful Tips**
+
+*I added this section in an edit because a lot have come through.*
+
+* /u/Mcfearsom has some absolutely [awesome tips](https://www.reddit.com/r/LifeProTips/comments/3u9el0/lpt_staying_warm_and_safe_this_winter_advice_from/cxd1meu) (I learned a few).
+* /u/diabolicaldebacle brought up how the 3rd (but less well known/common) way of losing heat [is simply by conduction](https://www.reddit.com/r/LifeProTips/comments/3u9el0/lpt_staying_warm_and_safe_this_winter_advice_from/cxd47n3). This can come from cold benches at a football stadium/hockey arena, or simply from standing on cement for a long period of time. 
+* /u/winterisforhome also reminded me that [pets get cold too!](https://www.reddit.com/r/LifeProTips/comments/3u9el0/lpt_staying_warm_and_safe_this_winter_advice_from/cxd336x?context=3) Yes, some breeds have fur that is built to handle the elements, but their feet aren't usually so tough. And I found that [these booties](http://pawzdogboots.com/) are the best way to protect my huskyX's feet from the salt and ice. 
+* /u/_kingtut_ reminds us to be aware of the [effect that alcohol can have on the system](https://www.reddit.com/r/LifeProTips/comments/3u9el0/lpt_staying_warm_and_safe_this_winter_advice_from/cxd75zo?context=3) (don't worry, you can still drink, just know what's happening). 
+
+-----
+*edited some formatting for legibility.*
+
+*Edit#2 Holy balls. Obligatory RIP inbox. Trying to respond to all is getting to be impossible, so I'll edit with some more advice themes and gear suggestions.*
+
+*Edit#9234083 Gah. Front page is a scary place.*
+
+*Edit: Shout out to all Australians, Californians, Texans... Floridians...  that keep reminding us how warm they are:* **WE FUCKING GET IT.** *kthanxbai. &lt;3*
+
+*Edit again: Some people have made some comments alluding to the fact that I may be some sort of product shill and I promise I'm not (other than disclose the fact that I used to work part time for Mark's Work Wearhouse like 10 years ago while I was in uni). All products/stores that I've recommended are just ones that I have experience with... I have absolutely zero financial affiliation in any capacity to any of them.*
+
+url:https://reddit.com/r/LifeProTips/comments/3u9el0/
+author:kimb00
+subreddit:LifeProTips
+score:5241
+numComments:1748
+isOver18:False
+hasPostBody:True

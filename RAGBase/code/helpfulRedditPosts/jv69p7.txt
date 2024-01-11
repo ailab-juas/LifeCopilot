@@ -1,0 +1,13 @@
+title:
+LPT: if you're unable to fall asleep at night instead of closing your eyes do the opposite. Keep your eyes wide open. You'll feel drowsy and will automatically close your eyes. If your mind starts racing again open your eyes again. Keep repeating this process and you'll fall asleep quickly.
+
+content:
+I sometimes have trouble falling asleep and this works like a charm everytime.
+
+url:https://reddit.com/r/LifeProTips/comments/jv69p7/
+author:Anci3ntMarin3r
+subreddit:LifeProTips
+score:68508
+numComments:1502
+isOver18:False
+hasPostBody:True

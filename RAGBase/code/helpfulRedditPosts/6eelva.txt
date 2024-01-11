@@ -1,0 +1,13 @@
+title:
+LPT: Keep your resume up to date even when you are not looking for a job.
+
+content:
+Keep your resume up to date even when you are not in the job market and it will limit stress when you need to use your resume.
+
+url:https://reddit.com/r/LifeProTips/comments/6eelva/
+author:-_-k
+subreddit:LifeProTips
+score:1307
+numComments:52
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+LPT - Know the difference between state parks and state forests. It's often free to camp in a state forest, but not in a state park.
+
+content:
+Particularly good to know for those in the East, without access to BLM land.
+
+National forests are a thing, as well.
+
+url:https://reddit.com/r/LifeProTips/comments/8ytj6l/
+author:[deleted]
+subreddit:LifeProTips
+score:33420
+numComments:794
+isOver18:False
+hasPostBody:True

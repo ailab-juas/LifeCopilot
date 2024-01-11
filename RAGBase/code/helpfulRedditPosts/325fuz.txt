@@ -1,0 +1,50 @@
+title:
+LPT: Place a cup of frozen water upside down in your deep freezer
+
+content:
+* Fill a cup with water
+* Put cup in your regular freezer and turn the water to ice
+* [Put that frozen cup of ice upside down in your deep freezer.](http://i.stack.imgur.com/PjfiJ.jpg)
+
+Now when you get back from your 1, 2, or *x-week* vacation and the cup is empty, you know the power went out and then cut back on.
+
+Food poisoning avoided. 
+
+**Note:** Sorry for the over-explanation of clearly simple steps; couldn't figure how to say "put a cup of ice upside in your freezer."  
+
+**EDIT 1:**  If freezer goes out and food does spoil, most Homeowner's Insurances cover food spoilage.  I have USAA and when I lost my food to spoilage, they covered all of it without a deductible.
+
+**EDIT 2:**  Clarification for the comments:
+
+* **Why not put water in bottle?**  If my food has thawed, spoiled and refrozen, I want a definite sign of spoilage.  An empty cup + weird ice all over my food (or frozen at the bottom) will 100% notify me something is wrong
+* **Why not put an object (penny, button, tic tac) on top of cup?**  Because I move the food around in my freezer; ESP. when I get new meat.  I take the older meat out and lay on top of the new meat.  "first-in; first-out" policy.  I don't want to worry about an object staying on top of frozen cup of water and check for said object when I open the freezer.  I need an obvious sign as stated in bullet-point above
+* **Why not freeze the water, then put the object on top of the ice with some water and freeze it?**  That includes more steps than my above process and does not accomplish the mission of the first bullet-point  
+* **Just check your microwave clock man!**  Ok, but if I'm gone for two weeks, the power might blip and reset the clocks.  Clocks will need setting but the is food still good. 
+* **Just X to see if the power went out (where X is your idea to see if the power went out and stayed out):**  Knowing me, I need the frozen cup method
+* **Just do X instead of the frozen cup to avoid a mess:**  The best method for me is the empty cup and ice all over (or under) my spoiled food. Not really worried about the ice at that point.  My bigger problem is that I have a  bunch of spoiled meat in my freezer
+* **Just eat the food before you go**  There may be up to 200lbs of food in my freezer; not a viable option.
+* **You think you're so smart with that frozen water cup, don't you?**  no.  I was only trying to help :(
+
+
+**EDIT 3:**  Further clarification:
+
+* **Don't file on insurance, it's not worth paying the deductible.**  When the food spoiled in my freezer my policy covered food spoilage.  It did not cost me a dime.
+* **Don't file on insurance, your premium will go up.**  I filed two years ago, premium did not go up.  
+* **You realize you are going to have to clean that up that cup of water if it ever melts, right?**  It's a very small cup. It's something that would clean up with a towel. Father of three here.  I have cleaned up enough vomit and feces to fill a dumpster.  All kinds of horrible things expel from kids and pets over the years.  Pregnant wife too sometimes.  A cup of water doesn't even register on my scale of gross things to clean up.  
+* **Why would someone use a deep freezer**  Five mouths to feed.  We believe in getting our food from local farmers.  The best one we found lives about two hours away.  He does local drops to my [hometown](http://www.reddit.com/r/Birmingham/) on occasion.  We buy in bulk and most of that meat goes in the deep freezer.
+* **Why don't you just call the frozen water by its original name that everyone's familiar with: ice**  The reason I didn't do this is because when I say frozen cup of ice, I think of something [like this](http://inquiryproject.terc.edu/curriculum/curriculum5/img/5C_2_iceandwater_prep_2_258px.jpg). I racked my brain for about 30 seconds trying to figure out a way to simplify the explanation that would make sense to the masses:  frozen cup of water was the best I could come up with.  I did add a small apology for that lame description.
+* **Go technical dude.  Use a arduino/raspberry pi to email you temps if they spike**  The most technical solution doesn't necessarily mean it's the best one.  It's simplest for me  to freeze a cup water and turn it upside down.
+* **Where do you live that power could go out for such a long time?**  Imagine a scenario where the power could just go out on a part of your house; rather than your whole house or neighborhood.  Then imagine the power coming back on in that portion of the house without your knowledge and then refreezing your food.
+* **How come you won't relent to the better ideas suggested?**  I do recognize [this solution](http://www.reddit.com/r/LifeProTips/comments/325fuz/lpt_place_a_cup_of_frozen_water_upside_down_in/cq8af1m) as a really good one.  There are others like this one in the thread, but this one was the first.
+* **Just go by the smell** The food could thaw completely, go lukewarm for a couple of hours and then freeze back.  It would not smell but I would not want to eat refrozen meat.
+* **Ice accumulated in the freezer would melt too**  Periodic cleaning the ice around the freezer would make this not applicable at times.  Plus, I have become accustomed to the cup.
+* **You're going to be able to tell the food thawed because of the bloody mess at the bottom of the freezer** If the freezer is full, I won't see the bottom.  Also, my farmer tightly seals all the meat so there is very little seepage upon thawing
+* **I LOATHE YOU AND YOUR STUPID FROZEN UPSIDE DOWN CUP**  :*(
+
+url:https://reddit.com/r/LifeProTips/comments/325fuz/
+author:ray023
+subreddit:LifeProTips
+score:3169
+numComments:799
+isOver18:False
+hasPostBody:True

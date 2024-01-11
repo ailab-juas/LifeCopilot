@@ -1,0 +1,63 @@
+title:
+YSK that cast iron pans are a lot easier to use and maintain than is commonly believed, are nonstick, and last literally centuries.
+
+content:
+So with the new year, there are probably a lot of people resolving to cook more, cook healthier stuff, or just generally step up their kitchen game. 
+
+Part of this might involve new cookware. If you're in the market, you may want to consider cast iron. Cast iron is fairly inexpensive, and is good because properly maintained, it will last forever (no really, like "pass down to your great-grandkids in perfect condition" forever) and is about 80-90% as nonstick as "real" nonstick pans. Because cast iron retains a lot of heat, it also makes cooking certain things a lot better / easier. It can also go in the oven, on a grill, or even a campfire, so it's versatile. 
+
+Cast iron is great, but pretty much every time it comes up on Reddit, and ESPECIALLY on other websites, a lot of misinformation about cast iron and how difficult it is to use / maintain gets thrown around. 
+
+This article gets it pretty much right, however: https://www.seriouseats.com/2014/11/the-truth-about-cast-iron.html
+
+Still, the myths and misinformation persist.  Even fans of cast iron seem to be putting in too much effort, if you ask me. 
+
+People say: Cast iron is hard to clean, you need a chainmail thing, or you have to scrub it with salt, or you can't use soap, etc.  None of this is true. (don't use steel wool, though.)
+
+People say: Can't cook acidic things like tomato sauce in cast iron.  Not even remotely true. I make tomato sauce like, weekly in mine. 
+
+People say: You have to keep oil in it or re-season it every time you clean it.  Nope. Maybe every few months.
+
+People say: you can't use metal utensils with it, it will damage the seasoning.  WRONG. 
+
+Rather than go through each one and try to debunk it in detail, I'll just describe how I use cast iron.  I've been doing most of my cooking in a cast iron pan for about 8 years now and I'm still a huge fan of it, even though I have a handful of "nonstick" pans at my disposal. 
+
+How to be good at cast iron: 
+
+1. Get the biggest pan you feel works for your arm strength.  One bad (?) thing that IS true about cast iron is it's heavier.  Some places today are making nicer, thinner pans - worth a look.  
+
+2. Read this: http://sherylcanter.com/wordpress/2010/01/a-science-based-technique-for-seasoning-cast-iron/ - it's mostly right about how to season the pan.  One thing not covered in there is how to avoid getting bits of lint from paper towels, cloths, etc stuck in the seasoning.  If you figure it out, please let me know.  It doesn't ruin it but it bugs me. 
+
+3. Add one or two layers of seasoning to the new pan.  (NOTE: one thing Cantor's article doesn't cover is 'breaking in' the pan after seasoning.  I don't understand the chemistry very well, but for whatever reason, trying to fry an egg on a freshly seasoned pan goes HORRIBLY for me every time.  Like it bonds to the seasoning and just wrecks it.  Sticks worse than if you just tried to cook on bare metal. Cook a few not-very-sticky things with lots of oil before going back to eggs.)
+
+4. Cook some stuff. As long as you use a decent amount of oil or other fat to cook (which you should do anyway) you won't have problems with sticking, even fish can be cooked in cast iron if you're careful.  If your food is sticking there is something wrong with your seasoning, or the pan is dirty. 
+
+5. Using a flat-edged metal spatula, scrape off as much stuck-on food as you can while you're cooking. (This should only be a little bit here and there depending on what you cooked.)
+
+6. After you're done cooking (you can do this any time, doesn't have to be right away) heat up the pan on the stove, pretty hot but not smoking or burning the remaining food.  While it's still hot, spray the pan with water in the sink or run water over it in the sink.  This steams off stuck-on food.  While it's still hot, use a scrubbing brush to remove any remaining stuck-on food.  Should take about 30 seconds.  About 2/3 of the time, this is enough to get the pan clean enough to use again. If any stuck-on food remains, just scrub the pan with a sponge and soap like you would anything else. 
+
+7. Dry the pan off thoroughly. (another thing that's true about cast iron - it's a bad idea to leave it wet). 
+
+8. Go back to step 4. 
+
+9. If you find that the pan is starting to stick more, make sure it's *thoroughly* clean and go back to step 3.  For an extra clean, I use a magic eraser after the coarse scrubber, and lots of soap.  (NB: You can kind of cheat by seasoning on the stove for a few minutes.  What I do for a half-assed seasoning layer is put on a nice thin coat of oil, heat until it starts smoking, wipe it AGAIN to remove excess, then turn off the heat and put a lid on the pan. I do this maybe once every 2-3 months. )
+
+10. If the pan is well and truly fucked for some reason, soak it in lye (pure potassium or sodium hydroxide) overnight to remove all of the seasoning, and start over at step 3, except do 5-6 layers intead of 1-2. If it has major rust you may also need to soak in a vinegar solution.  (Note: lye is dangerous, don't fuck with it without goggles and shit)
+
+This is the general SOP I've come up with to make use of cast iron with a minimum of effort.  If you think about it, the only thing that varies from a 'nonstick' or steel pan is that you have to fix up the seasoning once in a while. The fact that you CAN do this is really the whole advantage of cast iron.  Rather than replace the pan when the nonstick properties fade, you can fix it yourself using regular-ass vegetable oil and a paper towel. (they say flaxseed oil is the best, but I haven't found that it matters very much.  Just use a very pure / refined oil, olive oil with lots of bits of olive floating in it is not good, for example)  Not exactly rocket science. 
+
+I find that this is an easy trade-off for a pan that doesn't involve PTFE or similar crap, and isn't going in the trash if the nonstick coating gets scratched.  Cast iron seasoning is actually a lot tougher than teflon or similar coatings. 
+
+I've cooked most of my food in cast iron for years.  My $20 pan from Aldi has outlasted the fancy Scanpan nonstick I got as a gift by several years and shows no sign of slowing down. 
+
+Anyway, hope this is helpful if anyone is planning to upgrade their kitchen gear this year. 
+
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/ac7j0m/
+author:the-incredible-ape
+subreddit:YouShouldKnow
+score:5260
+numComments:532
+isOver18:False
+hasPostBody:True

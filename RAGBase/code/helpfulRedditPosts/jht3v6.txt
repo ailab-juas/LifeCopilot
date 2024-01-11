@@ -1,0 +1,15 @@
+title:
+YSK: The best time to buy a fire extinguisher was yesterday
+
+content:
+Why YSK: Started a kitchen fire yesterday after our kitchen towels caught on fire and it quickly escalated into something that we were unable to deal with on our own. Had we not had a fire extinguisher, I’m pretty sure our kitchen if not our whole apartment would have burned.
+
+Do yourself a huge favor and buy a fire extinguisher now if you don’t have one.
+
+url:https://reddit.com/r/YouShouldKnow/comments/jht3v6/
+author:gurugurug
+subreddit:YouShouldKnow
+score:19686
+numComments:514
+isOver18:False
+hasPostBody:True

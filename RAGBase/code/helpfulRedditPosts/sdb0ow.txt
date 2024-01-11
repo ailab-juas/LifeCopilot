@@ -1,0 +1,13 @@
+title:
+YSK if you rent a truck from Penske and drive through tolls you will be charged an "admin fee" that they will refund immediately if you call.
+
+content:
+Why YSK:  I rented a Penske truck and drove through tolls.  I was charged for the $20 in tolls and then also for a $25 "administrative fee for Penske's cost incurred in resolving this matter".  I received a letter explaining this with a number to call.  I called and in the first 5 seconds of me just bringing up the extra fee and asking for clarification the rep immediately suggested she would refund the admin fee.  It's clear they are just charging this and betting that most people won't call.  Shady corporate greed.
+
+url:https://reddit.com/r/YouShouldKnow/comments/sdb0ow/
+author:umyninja
+subreddit:YouShouldKnow
+score:8825
+numComments:127
+isOver18:False
+hasPostBody:True

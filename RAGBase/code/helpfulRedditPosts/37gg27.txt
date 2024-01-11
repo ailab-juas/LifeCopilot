@@ -1,0 +1,13 @@
+title:
+LPT: If you suffer from panic attacks, sing or rap (rapping works better) a fast song. It will force you to control your breathing.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/37gg27/
+author:themolotovginger
+subreddit:LifeProTips
+score:1450
+numComments:434
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,20 @@
+title:
+LPT: Do not post anonymous images of your mail online with only the street address redacted.
+
+content:
+I've seen this a lot lately, [sample image](http://imgur.com/Da0NTAU)
+
+The USPS has coded exact address information into the new barcodes used on mail, which can be deciphered using an [app similar to this one](https://play.google.com/store/apps/details?id=us.avimobile.mailscan.activity&amp;hl=en). If you must post the image, black out the barcode also.
+
+
+DO NOT UNKNOWINGLY GIVE YOUR ADDRESS INFORMATION ON THE INTERWEBS!!!
+
+Leave^that^to^the^NSA.
+
+url:https://reddit.com/r/LifeProTips/comments/1iyf9r/
+author:solebluesoul
+subreddit:LifeProTips
+score:2273
+numComments:233
+isOver18:False
+hasPostBody:True

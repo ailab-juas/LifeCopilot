@@ -1,0 +1,13 @@
+title:
+LPT: When reheating pizza, use the frying pan- it's quick and won't get soggy like in the microwave!
+
+content:
+I just did this now from frozen, took less than a minute and is crispy goodness!
+
+url:https://reddit.com/r/LifeProTips/comments/49q4nt/
+author:mzungulife
+subreddit:LifeProTips
+score:4383
+numComments:1544
+isOver18:False
+hasPostBody:True

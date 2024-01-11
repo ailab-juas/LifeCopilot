@@ -1,0 +1,13 @@
+title:
+YSK that if you pause a video on YouTube, you can advance it a single frame with the period and rewind it a single frame with the comma.
+
+content:
+YouTube actually has a whole lot of functions people aren't aware of...
+
+url:https://reddit.com/r/YouShouldKnow/comments/ct2ira/
+author:Subduction
+subreddit:YouShouldKnow
+score:20432
+numComments:213
+isOver18:False
+hasPostBody:True

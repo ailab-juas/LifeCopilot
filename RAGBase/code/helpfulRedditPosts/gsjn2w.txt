@@ -1,0 +1,13 @@
+title:
+LPT: When you’re the first at an intersection and the light turns green, always wait a couple seconds before driving off. It can save your life.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/gsjn2w/
+author:[deleted]
+subreddit:LifeProTips
+score:1343
+numComments:179
+isOver18:False
+hasPostBody:True

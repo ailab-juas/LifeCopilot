@@ -1,0 +1,18 @@
+title:
+YSK that TurboTax has lowered their tax free file limit for 2020 from $68,000 to $39,000, but the IRS free file threshold still remains at $66,000.
+
+content:
+Do not fall for Intuit's attempts to make you pay to file your taxes. The federally mandated minimum still rests with the IRS, who has made it $69,000 and below for 2020.
+
+Since the IRS no longer allows TurboTax to have the monopoly on free filing, TurboTax has now lowered their limit to make people think that they have to pay to file. Intuit is already sending out emails to people prompting them to "check if they qualify."The free file link for the IRS is below.[https://www.irs.gov/filing/free-file-do-your-federal-taxes-for-free](https://www.irs.gov/filing/free-file-do-your-federal-taxes-for-free)  
+
+
+Edit: $69,000 not $66,000
+
+url:https://reddit.com/r/YouShouldKnow/comments/esbskj/
+author:that_bermudian
+subreddit:YouShouldKnow
+score:13689
+numComments:581
+isOver18:False
+hasPostBody:True

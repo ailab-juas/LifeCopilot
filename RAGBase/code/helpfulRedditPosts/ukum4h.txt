@@ -1,0 +1,13 @@
+title:
+LPT: Always write down the date you start taking a new medication, supplement, or vitamin. Later on, this can be useful to trace symptoms and side effects so you don’t self-diagnose something horrible.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/ukum4h/
+author:[deleted]
+subreddit:LifeProTips
+score:3227
+numComments:47
+isOver18:False
+hasPostBody:True

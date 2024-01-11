@@ -1,0 +1,15 @@
+title:
+YSK: Amazon doesn’t police their 3rd party sellers
+
+content:
+Don’t assume good ratings are for the item listed. It’s very common for sellers to take a high rated item and change the listing to another item. You won’t know this unless you read the reviews. 
+
+Why YSK: you may place an order for for an item that has ratings associated with a completely different item.
+
+url:https://reddit.com/r/YouShouldKnow/comments/xfest5/
+author:Talented_Fartist
+subreddit:YouShouldKnow
+score:1449
+numComments:86
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+YSK - Search Engine results with an "Ad" tag cost the site owner money when you click on them.
+
+content:
+Google most anything and at the top of the results will be several listings with "Ad" next to them.  Clicking on these will cost the person running the ad money (also known as "Pay Per Click" advertising).
+
+Why YSK: If it's someone you want to support, like a local restaurant or artist, be sure to click on the non-ad links as this will save them money in advertising costs.
+
+url:https://reddit.com/r/YouShouldKnow/comments/j6xg14/
+author:PaperCrane828
+subreddit:YouShouldKnow
+score:2173
+numComments:171
+isOver18:False
+hasPostBody:True

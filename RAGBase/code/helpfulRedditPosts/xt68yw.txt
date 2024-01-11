@@ -1,0 +1,19 @@
+title:
+YSK, if you have an iPhone, you can identify plants by taking a photo. All you have to do is go to the photo and “swipe up” and you will see the best guess at what type of plant it is. Same thing for dog breeds.
+
+content:
+Why YSK: I see people posting questions on here asking what plant is in a photo and it’s something you can easily find out if you have iOS. Also if you’re on a walk and see a cool plant, you can snap a picture and find out more about about it. 
+
+Again, same idea for dog breeds. This is especially useful if you have a question mark dog like I do. 
+
+It’s a fun feature and most people I’ve come across in the wild haven’t heard of it.
+
+Edit: I realized I forgot a step in the instructions in this post. You will have to click on the “plant” or “dog” tag that appears after swiping up to get more information. As others have pointed out, this apparently works on other things too - cats, art, and buildings, to name a few. I haven’t experimented too much with those though.
+
+url:https://reddit.com/r/YouShouldKnow/comments/xt68yw/
+author:dundundununun
+subreddit:YouShouldKnow
+score:4575
+numComments:231
+isOver18:False
+hasPostBody:True

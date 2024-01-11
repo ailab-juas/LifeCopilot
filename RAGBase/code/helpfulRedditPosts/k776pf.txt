@@ -1,0 +1,13 @@
+title:
+YSK that most young babies can’t fall asleep on their own. They often need at least one of: rhythmic movements, sucking, and snuggles. Darkness, white noise and swaddling can help.
+
+content:
+Why YSK: babies need to sleep a lot, but sleep in small chunks of time. You’ll be putting your baby to sleep many times per day. An overtired baby is no fun!
+
+url:https://reddit.com/r/YouShouldKnow/comments/k776pf/
+author:[deleted]
+subreddit:YouShouldKnow
+score:13812
+numComments:322
+isOver18:False
+hasPostBody:True

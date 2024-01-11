@@ -1,0 +1,15 @@
+title:
+YSK: The IRS has a list of free tax filing software you can use depending on your income. Paying TurboTax is for suckers!
+
+content:
+Just realized I've been paying TurboTax for two years to file when it can be free since I make less than $62k/yr.
+
+[The IRS Free File Software List](https://apps.irs.gov/app/freeFile/)
+
+url:https://reddit.com/r/YouShouldKnow/comments/5pkr07/
+author:itsDANdeeMAN
+subreddit:YouShouldKnow
+score:6290
+numComments:303
+isOver18:False
+hasPostBody:True

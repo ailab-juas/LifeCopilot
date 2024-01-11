@@ -1,0 +1,13 @@
+title:
+YSK Apple are now limiting iPhone’s AirDrop feature to “Everyone for 10 minutes”
+
+content:
+ Why YSK: The option to receive AirDrops from anyone has now been removed from iOS 16.2 globally. Don't update to 16.2 if you wish to keep this functionality, but it won't be much use as most other people will. This is a huge step backwards and features should not be removed or restricted by manufacturer software updates, users should decide themselves if they want to receive AirDrops from anyone or not.
+
+url:https://reddit.com/r/YouShouldKnow/comments/zlnre8/
+author:lieutenantcigarette
+subreddit:YouShouldKnow
+score:1650
+numComments:148
+isOver18:False
+hasPostBody:True

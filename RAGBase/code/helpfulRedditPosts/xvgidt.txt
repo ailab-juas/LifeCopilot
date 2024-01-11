@@ -1,0 +1,15 @@
+title:
+YSK That you can request Google to blur images of your home from street views.
+
+content:
+Why YSK:  Some street view photos can look directly into a person's home.  It's easier for someone to find, stalk, or harass you.  Government agencies have also used it to spy on people for tax audits, or bylaw infractions.  Keep in mind that street view has all of the past photos of your home and may have several images stored for people to look up.
+
+To do this, pull up your house on Google map and click "report a problem" in the bottom right corner of the screen.  Place your home in the red square and fill out the reason for the request and your email address.
+
+url:https://reddit.com/r/YouShouldKnow/comments/xvgidt/
+author:WeathervaneJesus1
+subreddit:YouShouldKnow
+score:7537
+numComments:336
+isOver18:False
+hasPostBody:True

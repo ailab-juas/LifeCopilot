@@ -1,0 +1,17 @@
+title:
+LPT: when opening a car door, twist a bit and use the hand that is furthest away from the door. This is called the "Dutch reach," and forces you to look behind the car before opening the door, making it less likely your door will hit a bicycle or another car.
+
+content:
+https://www.pri.org/stories/2016-09-27/easy-maneuver-borrowed-dutch-could-be-life-saving-cyclists
+
+EDIT: To all those saying to simply check the mirror, remember that mirrors are usually only available those in the front seats (and often only the driver's seat), while this trick works for ANY seat in the car. 
+
+Another benefit of this method over 'just look behind you' or 'check your mirrors' is that it ingrains the process of checking for cyclists/cars/whatever into the process of physically leaving the car, making it much harder to forget. 
+
+url:https://reddit.com/r/LifeProTips/comments/6ryh81/
+author:epoch_100
+subreddit:LifeProTips
+score:14615
+numComments:894
+isOver18:False
+hasPostBody:True

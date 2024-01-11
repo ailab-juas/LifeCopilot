@@ -1,0 +1,15 @@
+title:
+YSK that you can stream almost all World Cup matches in HD online without membership from a Swedish free TV website SVT (with Swedish commentary)
+
+content:
+http://www.svt.se/
+
+EDIT: Apparently this is just for Swedish IP's but Hola Unblocker for chrome and firefox bypasses the issue as informed by u/Tiggarenstal, thanks!
+
+url:https://reddit.com/r/YouShouldKnow/comments/28g2om/
+author:s3165760
+subreddit:YouShouldKnow
+score:1509
+numComments:134
+isOver18:False
+hasPostBody:True

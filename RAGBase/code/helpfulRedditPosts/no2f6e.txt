@@ -1,0 +1,17 @@
+title:
+YSK: if you are on ANY company website that sells you a product or service, or has any vested interest (will make money on) that products promotion then the reviews displayed on their website are likely "curated" or filtered.
+
+content:
+I work in SEO/Digital Marketing and a huge part of my job is online reputation management, it's an incredibly depressing, frustrating and complex task that often leads to my only working with smaller companies/brands. Almost every large, national/international brand filters reviews and if they are a retailer/manufacturer it's practically guaranteed that they are. There are even companies whose entire business model is filtering reviews to display on your site and you can set limits for how many of each star rating to display.
+
+I am against review filtering but here's the truth - If two companies carry a product and all other factors are equal (purchase history, location, proximity, price, etc) then the item that has 4.6 stars on site A will likely place higher in search results than the exact same item with 4.2 stars on site B. In almost all TOS for reviews they include the right to delete or alter your review for any/no reason.
+
+Why YSK: Most consumers trust and use online reviews to evaluate their purchases but if the company can make money by selling the product it's in their best interest to not show all negative reviews so you're likely not getting the actual recommendation you might think.
+
+url:https://reddit.com/r/YouShouldKnow/comments/no2f6e/
+author:AnxietyDepressedFun
+subreddit:YouShouldKnow
+score:13070
+numComments:409
+isOver18:False
+hasPostBody:True

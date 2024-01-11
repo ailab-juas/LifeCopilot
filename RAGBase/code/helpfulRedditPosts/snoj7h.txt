@@ -1,0 +1,13 @@
+title:
+LPT: Start working out, it’ll change your life!
+
+content:
+I’m doing a research paper on the benefits of physical activity and I’ve found like 140 reasons so far. In summary though the main benefits are more discipline, it builds confidence, it can help you reach your goals, it increases your happiness, you’ll feel more accomplished through out the day, and you’ll get way better sleep.
+
+url:https://reddit.com/r/LifeProTips/comments/snoj7h/
+author:Nitrosaurouss
+subreddit:LifeProTips
+score:6039
+numComments:735
+isOver18:False
+hasPostBody:True

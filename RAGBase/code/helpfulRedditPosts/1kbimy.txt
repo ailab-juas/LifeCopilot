@@ -1,0 +1,13 @@
+title:
+LPT: If you're stranded with a flat tire and can't remove the lug nuts, use the jack to help you.
+
+content:
+Prior to jacking up the car, position the lug nut wrench such that the handle is parallel to the ground and facing toward the back of the car if on the driver side and toward the front of the car if on the passenger side. Put the jack under the handle and operate it until the lug nut breaks free. Do this for all lug nuts before raising the car and removing the wheel.
+
+url:https://reddit.com/r/LifeProTips/comments/1kbimy/
+author:downsey
+subreddit:LifeProTips
+score:1634
+numComments:496
+isOver18:False
+hasPostBody:True

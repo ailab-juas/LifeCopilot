@@ -1,0 +1,13 @@
+title:
+LPT When applying to a new job, Carefully read at least 5 job descriptions, collect the most common key words used in those job desc then try to customize your resume around those job description using the same key words. Nowadays companies are using AI that uses keywords to filter the candidates
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/bp1c5a/
+author:jaiga99
+subreddit:LifeProTips
+score:1352
+numComments:31
+isOver18:False
+hasPostBody:False

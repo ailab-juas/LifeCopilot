@@ -1,0 +1,13 @@
+title:
+YSK the difference between "everyday" and "every day"
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/12iry4/
+author:alina_314
+subreddit:YouShouldKnow
+score:1180
+numComments:82
+isOver18:False
+hasPostBody:False

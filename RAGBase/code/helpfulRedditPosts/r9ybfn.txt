@@ -1,0 +1,13 @@
+title:
+LPT: If you share a bed with another person, buy a blanket larger than the bed size.
+
+content:
+That way you always have enough blanket and don’t have to worry about being a hog or be resentful of someone not sharing the blanket enough.
+
+url:https://reddit.com/r/LifeProTips/comments/r9ybfn/
+author:mayonnaisegirl
+subreddit:LifeProTips
+score:2193
+numComments:157
+isOver18:False
+hasPostBody:True

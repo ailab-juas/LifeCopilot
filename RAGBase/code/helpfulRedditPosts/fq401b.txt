@@ -1,0 +1,13 @@
+title:
+LPT: If you manage a store, put a sign out front listing the current "hot" items that are out of stock. This will prevent unnecessary traffic in your store and reduce potential exposure for your employees and customers. Miscellaneous
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/fq401b/
+author:allthedifference
+subreddit:LifeProTips
+score:56847
+numComments:1337
+isOver18:False
+hasPostBody:False

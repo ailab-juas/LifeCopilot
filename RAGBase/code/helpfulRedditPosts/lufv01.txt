@@ -1,0 +1,13 @@
+title:
+LPT: if you’re stuck on an annoying call, put your phone on airplane mode instead of just hanging up. The other person will see “call failed” instead of “call ended”.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/lufv01/
+author:fifa_god_786
+subreddit:LifeProTips
+score:88786
+numComments:1861
+isOver18:False
+hasPostBody:False

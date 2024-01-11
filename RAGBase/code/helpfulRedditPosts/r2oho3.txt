@@ -1,0 +1,13 @@
+title:
+LPT: don’t assume people in the real world feel strongly one way or another about issues you see online. Social media platforms (this one as well) move hot button topics to the top of their platforms to create divisiveness. Don’t fall for it.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/r2oho3/
+author:RShneider
+subreddit:LifeProTips
+score:22249
+numComments:443
+isOver18:False
+hasPostBody:False

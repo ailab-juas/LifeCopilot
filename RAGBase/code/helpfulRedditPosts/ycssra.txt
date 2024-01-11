@@ -1,0 +1,13 @@
+title:
+LPT: Your vote for local races (elections) is more impactful/important than your vote for national races.
+
+content:
+Your mayoral, city council and even HOA or school board vote will impact your life more often than the national races.
+
+url:https://reddit.com/r/LifeProTips/comments/ycssra/
+author:twokgrad
+subreddit:LifeProTips
+score:1489
+numComments:70
+isOver18:False
+hasPostBody:True

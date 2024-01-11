@@ -1,0 +1,13 @@
+title:
+LPT: If you've heard only one side of an argument, it doesn't matter AT ALL how persuasive that side seems to be -- you do not yet have enough information to make an informed decision.
+
+content:
+Inb4 someone plops down a limp strawman like, "Someone said, 'murdering people is bad' but I hAvEn'T heard the oThEr side of the argument."  Please, just don't.
+
+url:https://reddit.com/r/LifeProTips/comments/q02jrq/
+author:ExNihiloAdInfinitum
+subreddit:LifeProTips
+score:1239
+numComments:92
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: It's cheaper to give yourself a platinum award every month than actually buying Reddit premium
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/e4sjvv/
+author:Lism_
+subreddit:LifeProTips
+score:57972
+numComments:2730
+isOver18:False
+hasPostBody:False

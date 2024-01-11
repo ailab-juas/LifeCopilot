@@ -1,0 +1,13 @@
+title:
+It's really quite simple guys
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/uu6er/
+author:Madiau
+subreddit:LifeProTips
+score:4662
+numComments:389
+isOver18:False
+hasPostBody:False

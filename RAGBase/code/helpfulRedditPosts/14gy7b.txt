@@ -1,0 +1,13 @@
+title:
+LPT: If you get in the habit of up voting and down voting every post you read, you will always know which ones you have read when you move from your mobile to PC 
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/14gy7b/
+author:cb98678
+subreddit:LifeProTips
+score:1002
+numComments:81
+isOver18:False
+hasPostBody:False

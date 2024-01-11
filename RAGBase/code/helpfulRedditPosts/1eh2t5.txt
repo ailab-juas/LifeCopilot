@@ -1,0 +1,19 @@
+title:
+LPT: Clear your browser history and cookies (or go incognito) before searching for airfare on sites like Kayak and Expedia. You'll get better fares as a result.
+
+content:
+Sources: 
+
+http://www.gadling.com/2010/02/15/airline-tip-clear-your-browsers-cookies-before-booking-flights/
+
+http://goasia.about.com/b/2011/09/05/book-flights-browser-cookies.htm
+
+
+
+url:https://reddit.com/r/LifeProTips/comments/1eh2t5/
+author:dvyhnz
+subreddit:LifeProTips
+score:1565
+numComments:481
+isOver18:False
+hasPostBody:True

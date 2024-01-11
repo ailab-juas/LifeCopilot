@@ -1,0 +1,13 @@
+title:
+LPT Whenever you take out a paid subscription, stick a recurring event in your calendar straight away that reminds you every month, a day before the payment will be taken. This gives you a chance to cancel any you aren't using and also gives visibility of how much money you are spending every month.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/qcnltx/
+author:johnnycorriander
+subreddit:LifeProTips
+score:1073
+numComments:27
+isOver18:False
+hasPostBody:False

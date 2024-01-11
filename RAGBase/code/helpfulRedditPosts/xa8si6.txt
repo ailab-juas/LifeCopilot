@@ -1,0 +1,13 @@
+title:
+LPT - Installing an SSD into your computer/laptop instead of your old rotating hard drive (HDD) is the best move you can make. Seriously it makes your machine so much faster and gives your old computers a second life!
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/xa8si6/
+author:adamk10O
+subreddit:LifeProTips
+score:9895
+numComments:598
+isOver18:False
+hasPostBody:False

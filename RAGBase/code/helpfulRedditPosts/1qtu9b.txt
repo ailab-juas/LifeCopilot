@@ -1,0 +1,13 @@
+title:
+LPT When installing free software, always make sure you check the advanced install box
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1qtu9b/
+author:jaw10
+subreddit:LifeProTips
+score:1383
+numComments:183
+isOver18:False
+hasPostBody:False

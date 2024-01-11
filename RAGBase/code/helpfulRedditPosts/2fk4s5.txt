@@ -1,0 +1,18 @@
+title:
+YSK How to fix Free Public WiFi's when your device connects but can't surf.
+
+content:
+Type 1.1.1.1 into a browser and this will bring you to the agreement page which will allow you to accept their terms of agreement for WiFi usage.
+
+
+
+
+Sometimes it doesn't always notify you to connect or redirect you're page to the login site and 95% of the time it's 1.1.1.1
+
+url:https://reddit.com/r/YouShouldKnow/comments/2fk4s5/
+author:xsmiley
+subreddit:YouShouldKnow
+score:1801
+numComments:123
+isOver18:False
+hasPostBody:True

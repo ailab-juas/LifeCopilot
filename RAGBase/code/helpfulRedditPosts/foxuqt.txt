@@ -1,0 +1,13 @@
+title:
+LPT: California law states that people must be able to cancel subscriptions online so simply download a VPN and set the location to a city in California to avoid having to call to cancel a subscription.
+
+content:
+Edit: I only tested this with an online course that had a free trail but wanted to charge me for $60 in course materials. I did not have to enter in my address so they have no way of knowing my actual location. Your experience may vary based on different factors that other users have helpfully provided in the comments below. Stay safe folks.
+
+url:https://reddit.com/r/LifeProTips/comments/foxuqt/
+author:TheLadyEileen
+subreddit:LifeProTips
+score:55274
+numComments:960
+isOver18:False
+hasPostBody:True

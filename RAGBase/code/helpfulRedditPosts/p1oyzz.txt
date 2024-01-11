@@ -1,0 +1,19 @@
+title:
+YSK: if you get something from amazon twice, just keep it. They don't want it back.
+
+content:
+If you order something, it gets delayed, but you already informed amazon that I got lost in the mail. Now they sent you the thing again, and you have it twice. At this point you should keep it.
+
+Why YSK: If you give it back, it will likely go to a landfill. Even if it gets sold again, it will cost amazon so much, they don't even want it.
+
+If you don't need it, give it to a friend or family member, or even sell it to someone close to you.
+
+Note: I don't know if this applies to third party sellers
+
+url:https://reddit.com/r/YouShouldKnow/comments/p1oyzz/
+author:ThicColt
+subreddit:YouShouldKnow
+score:16918
+numComments:622
+isOver18:False
+hasPostBody:True

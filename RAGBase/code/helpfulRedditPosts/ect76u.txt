@@ -1,0 +1,13 @@
+title:
+LPT: If you travel a lot and stay in hotels, the fitness rooms usually have purified water dispensers you can use to refill your empty water bottles. Save $$$ and plastic!
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ect76u/
+author:BeezAweez
+subreddit:LifeProTips
+score:3113
+numComments:173
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+YSK if you find a driver's license you can drop it in any mailbox as is. The Postal Service will mail it to the owner in an envelope with postage due.
+
+content:
+Ooh front page, thanks guys - some excellent info in the comments 
+
+url:https://reddit.com/r/YouShouldKnow/comments/1abow0/
+author:theyjustcallmeallie
+subreddit:YouShouldKnow
+score:1833
+numComments:116
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,43 @@
+title:
+LPT: Rather than make huge changes to your lifestyle annually (New Year's Resolutions), make them monthly, less aggressive, and more focused. Use this month to solve a problem you have or start working towards some goal and integrate a solution into your permanent routine.
+
+content:
+I like to give each of my monthly resolutions code-names and treat them like missions. Having a name for the resolution also gives me a mental handle for the goal and makes it easier to stay on track. Resolutions that have a daily quota have been especially effective for me. As examples, here are the monthly resolutions that I've integrated into my own routine thus far:
+
+# April was "Operation Motion"
+
+* **Problem**: I'm a programmer who has been working from home. I had recently quit my day-job, which was my last good source of physical exercise.
+* **Solution**: I started an incremental workout routine. On day one, I did one pushup, one sit-up, one squat, one jumping jack, ran in place for one second... etcetera. I then did two reps/seconds every day for two days, then three every day for three days, four for four, and so on. I'm currently at fourteen reps/seconds every day.
+* **Outcome**: Successful, but still ongoing. I have never been so physically fit. The main reason for this success can be explained in three points: **1**. No cheat days, ever. The workout cannot be waived unless I'm physically ill, which has only let me skip two days out of the currently elapsed 110 days. **2**. If I forget to do my workout one day, I have to catch up on the missed reps the next day, always. **3**. I have a repeating alert in Thunderbird on my desktop to do my workout once a day, and I am not allowed to dismiss it until I've done it.
+
+# May was "Operation Night-Light"
+
+* **Problem**: I've been staying up to 4-AM and beyond sometimes while working on projects or just watching videos. Consequentially, I was getting up as late as 1 PM since I no longer had a day-job to keep my sleep cycle in check.
+* **Solution**: When 4-AM hits, unless it's a work emergency or I physically can't, I must go to bed. I must also wake up no later than 11-AM.
+* **Outcome**: I'm wired to wake up late and stay up late. I've accepted that, but this has done a good job of keeping me in check and preventing me from going to bed after dawn. Having a program that dims your screens and emulates sunset colors helps. I also have a light-alarm that I wake up to in the morning which made the transition easier.
+
+# June was "Operation Reminder"
+
+* **Problem**: My job at home involves me manually checking up on a wide number of spreadsheets and sites to perform routines. For things I haven't found a way to automate yet, some of these tasks are often forgotten for a few days.
+* **Solution**: Every time I thought of a manual checkup routine that I needed to do, I'd add a repeating event with a reminder to my calendar in Thunderbird. I spent a fair bit of time that month figuring out what frequency the reminders should be set to so as to avoid doing excessive checks for things that don't change often or are low priority.
+* **Outcome**: Things have been better, but sometimes I check a thing or two that I've already dismissed reminders for and it wastes a bit of time.
+
+# July is "Operation Good Start"
+
+* **Problem**: My ADHD medication suppresses my hunger, but since it's extended release, I need to take it as soon as I wake up so that it wears off soon enough for me to get proper sleep. I've gotten into a bad habit of taking it with a glass of chocolate milk in the morning and not getting a proper breakfast.
+* **Solution**: Eat a proper breakfast every morning, dummy.
+* **Outcome**: Thus far I've been eating better but now I'm missing out on lunch. I should probably setup alarms to remind myself to eat since it just doesn't come to mind. ^(I'm going to do that right now, actually. Done.)
+
+I hope that these monthly resolutions of mine are a good example. What is it that plagues you the most right now? What change have you been thinking about making on occasion but haven't put into motion? Think of a solution for it right now and start on it right now, even if it's a partial solution. Bonus points if you give it a cool name.
+
+If you can think of a solution that involves a daily quota or goal, then definitely use that solution. Harness external tools such as calendars with automated reminders and make it a permanent part of your routine. Most importantly, respect the streak. If you do break the streak, un-break it if possible by catching up.
+
+However, whatever you do, **do not use breaking the streak as an excuse to break the streak again.** If you cheat once, and use that as justification to cheat again, then you lose. Don't make your solution so aggressive that you can't help but cheat. Understand your limits, plan around your flaws, and you will succeed.
+
+url:https://reddit.com/r/LifeProTips/comments/holf3f/
+author:Victuracor
+subreddit:LifeProTips
+score:1189
+numComments:17
+isOver18:False
+hasPostBody:True

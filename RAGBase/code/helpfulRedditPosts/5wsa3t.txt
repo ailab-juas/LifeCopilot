@@ -1,0 +1,13 @@
+title:
+LPT: When busy, thank customers for their patience, instead of apologizing for the delay
+
+content:
+If you work in a customer service field and are super busy, tell customers "thank you for your patience" instead of the typical "sorry about the wait time". The latter gives off the impression you did something wrong to cause the delay where as the other response sort of makes it seem your typically that busy and you will be right with them
+
+url:https://reddit.com/r/LifeProTips/comments/5wsa3t/
+author:sportznut1000
+subreddit:LifeProTips
+score:7515
+numComments:470
+isOver18:False
+hasPostBody:True

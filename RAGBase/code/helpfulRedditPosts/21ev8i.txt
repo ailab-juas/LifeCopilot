@@ -1,0 +1,13 @@
+title:
+YSK: It's 'I couldn't care less', not 'I could care less'. The latter makes no sense if you're trying to say you don't care.
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/21ev8i/
+author:boaber
+subreddit:YouShouldKnow
+score:1339
+numComments:572
+isOver18:False
+hasPostBody:False

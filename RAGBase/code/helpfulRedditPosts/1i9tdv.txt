@@ -1,0 +1,13 @@
+title:
+LPT: Before giving your kid your phone, put it in airplane mode. They can't buy or download anything that way.
+
+content:
+They also can't accidentally reply to a txt or email.
+
+url:https://reddit.com/r/LifeProTips/comments/1i9tdv/
+author:lippenhoffer
+subreddit:LifeProTips
+score:1853
+numComments:576
+isOver18:False
+hasPostBody:True

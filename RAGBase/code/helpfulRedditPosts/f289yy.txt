@@ -1,0 +1,17 @@
+title:
+YSK about Supercook, a site which you can add ingredients you have and turn them into recipes.
+
+content:
+It is a great way to see what can you cook with the ingredients you have or if you don't know what to prepare.
+
+It can even tell you if you need extra ingredients, if you don't have enough.
+
+ [https://www.supercook.com/#/recipes](https://www.supercook.com/#/recipes)
+
+url:https://reddit.com/r/YouShouldKnow/comments/f289yy/
+author:valivaly99
+subreddit:YouShouldKnow
+score:1827
+numComments:68
+isOver18:False
+hasPostBody:True

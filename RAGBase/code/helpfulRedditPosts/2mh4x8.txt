@@ -1,0 +1,15 @@
+title:
+YSK: How to rebuild civilization in the post technological world. How to build steam engines, how to navigate by stars, how to build simple airplanes
+
+content:
+[NPR story about it](http://www.onthemedia.org/story/survivor-library/)
+
+http://www.survivorlibrary.com
+
+url:https://reddit.com/r/YouShouldKnow/comments/2mh4x8/
+author:[deleted]
+subreddit:YouShouldKnow
+score:1599
+numComments:262
+isOver18:False
+hasPostBody:True

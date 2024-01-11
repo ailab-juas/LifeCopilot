@@ -1,0 +1,25 @@
+title:
+YSK Zelle does not report transactions to the IRS, regardless if over $600 or not.
+
+content:
+Recently there has been an uproar over the [IRS planning to send 1099-Ks to "gig economy" income earners who make &gt; $600 transactions](https://www.irs.gov/businesses/understanding-your-form-1099-k)
+
+Many were also concerned about proving to the IRS that transactions were personal or for reimbursement from friends and were therefore non-taxable in the event they were mistakenly sent a 1099-K
+
+**Why YSK: Zelle is not required to report any transactions to the IRS, and the law pertaining to 1099-Ks does not pertain to the Zelle network.**
+
+If you are concerned about getting 1099-K'd for personal transactions, consider using Zelle
+
+&gt; Does Zelle® report how much money I receive to the IRS?
+
+&gt; Zelle® does not report transactions made on the Zelle Network® to the IRS. The law requiring certain payment networks to provide forms 1099K for information reporting does not apply to the Zelle Network®.
+
+https://www.zellepay.com/faq/does-zelle-report-how-much-money-i-receive-irs
+
+url:https://reddit.com/r/YouShouldKnow/comments/z5nfs7/
+author:WhileEarly
+subreddit:YouShouldKnow
+score:8023
+numComments:369
+isOver18:False
+hasPostBody:True

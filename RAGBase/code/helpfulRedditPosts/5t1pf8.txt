@@ -1,0 +1,13 @@
+title:
+LPT: If you see a nail in a parking lot, pick it up and throw it away. You might save someone from a bad day.
+
+content:
+I just picked up a giant screw that was lying right behind someone's tire in a Petsmart parking lot. You never know when someone might do the same for you!
+
+url:https://reddit.com/r/LifeProTips/comments/5t1pf8/
+author:hotdogpocket
+subreddit:LifeProTips
+score:2075
+numComments:127
+isOver18:False
+hasPostBody:True

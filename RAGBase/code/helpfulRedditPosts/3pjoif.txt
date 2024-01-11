@@ -1,0 +1,27 @@
+title:
+YSK when to use 'who' vs. 'whom'. Questions asked with 'who' can be answered with the subjects He, She, or They. Questions asked with 'whom' can be answered with Him, Her, or Them.
+
+content:
+In the same vein as the "you and me" vs. "you and I" thread today. 
+
+This is one that is a little more on the pedantic side, but comes in handy for things like essays for people who write that sort of thing. 
+
+Example: 
+
+"**With** whom are you going to the movies ~~with~~?" - use whom here because you would answer 'I'm going with them/him/her' and not 'I'm going with he/she/they'.
+
+"Who made this big mess?!" - use who here because you would answer with "he/she/they did" and not "he/her/them did".
+
+The distinction here is that ~~whom~~ who is a subject pronoun and whom is an object pronoun. You can find more info on it [here](http://www.englishpage.com/minitutorials/who_whom.html)!
+
+**EDIT**: Turns out people are into grammar. Edited example sentence as /u/youcatscatz suggested to make it pedantic af, and fixed typo. Happy grammar nazi-ing. 
+
+**EDIT 2**: Trick to remember: who**m**, hi**m** and the**m** all have m's. Also, as /u/marpocky pointed out - these tricks are probably best used to prevent you from using 'whom' when you should use 'who'. Because that's a surefire way to make yourself sound like a dummy. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/3pjoif/
+author:gutterferret
+subreddit:YouShouldKnow
+score:1883
+numComments:232
+isOver18:False
+hasPostBody:True

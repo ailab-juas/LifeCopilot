@@ -1,0 +1,13 @@
+title:
+LPT: When showing someone a picture on your phone, slightly zoom in into the picture so they can't swipe to other pictures as easily.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/o77ixd/
+author:Asu01
+subreddit:LifeProTips
+score:1358
+numComments:71
+isOver18:False
+hasPostBody:False

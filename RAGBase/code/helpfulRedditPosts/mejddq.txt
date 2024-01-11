@@ -1,0 +1,13 @@
+title:
+YSK Storing your potatoes next to your onions will make them go bad faster
+
+content:
+Why YSK: I just recently learned that onions produce a gas that makes your potatoes sprout eyes and go bad much faster.  I had to get a new bag ever 2 weeks before I moved them, now that they are located elsewhere I'm going over a month and a half and they are still fine.  Don't waste your potatoes, locate them away from your onions.
+
+url:https://reddit.com/r/YouShouldKnow/comments/mejddq/
+author:1h8fulkat
+subreddit:YouShouldKnow
+score:9275
+numComments:206
+isOver18:False
+hasPostBody:True

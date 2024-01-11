@@ -1,0 +1,13 @@
+title:
+LPT: Find 3 hobbies, 1 to make you money, 1 to keep you in shape, and 1 that let you be creative.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/540i2n/
+author:YellowMehMeh
+subreddit:LifeProTips
+score:3740
+numComments:3358
+isOver18:False
+hasPostBody:False

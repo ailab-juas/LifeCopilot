@@ -1,0 +1,15 @@
+title:
+YSK: If you haven't changed the default password on your home security cameras the feed may be streaming live on the internet so you may be being watched by strangers around the world.
+
+content:
+For more info take a look at [this CBC Marketplace article](https://www.cbc.ca/marketplace/episodes/2018-2019/home-hack-how-safe-are-your-high-tech-security-devices) or [this Motherboard article](https://motherboard.vice.com/en_us/article/kb48aa/untold-numbers-of-canadians-are-streaming-live-online-without-their-knowledge) about the untold number of people streaming live online without their knowledge.
+
+[Tips on how to secure your smart home devices](https://www.cbc.ca/marketplace/blog/how-to-secure-your-smart-home-devices).
+
+url:https://reddit.com/r/YouShouldKnow/comments/9k13r4/
+author:248_RPA
+subreddit:YouShouldKnow
+score:1893
+numComments:80
+isOver18:False
+hasPostBody:True

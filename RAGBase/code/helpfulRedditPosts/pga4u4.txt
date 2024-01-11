@@ -1,0 +1,13 @@
+title:
+LPT: Don't call cancer treatment a fight/battle, many doctors have stopped calling cancer treatment a "fight" or "battle". They argue these terms misrepresent how treatment works and if treatments fail, the patient is left with guilt and a false belief they didn't "fight" hard enough.
+
+content:
+https://blogs.scientificamerican.com/observations/lets-stop-talking-about-battling-cancer/
+
+url:https://reddit.com/r/LifeProTips/comments/pga4u4/
+author:__Dawn__Amber__
+subreddit:LifeProTips
+score:8805
+numComments:176
+isOver18:False
+hasPostBody:True

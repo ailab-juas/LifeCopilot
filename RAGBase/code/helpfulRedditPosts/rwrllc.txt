@@ -1,0 +1,13 @@
+title:
+LPT: Store new jars of peanut butter upside down so that the oil goes to the bottom of the jar. It’s immensely easier to stir it afterwards.
+
+content:
+Stirring new jars of fresh peanut butter is always a huge mess.  The oil gets everywhere, and it takes forever.  Storing the jars upside down lets the oil go to the bottom of the jar, so the hardest part about stirring is already finished.
+
+url:https://reddit.com/r/LifeProTips/comments/rwrllc/
+author:WalkinSteveHawkin
+subreddit:LifeProTips
+score:3532
+numComments:240
+isOver18:False
+hasPostBody:True

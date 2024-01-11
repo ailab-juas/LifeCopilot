@@ -1,0 +1,39 @@
+title:
+YSK about these useful websites
+
+content:
+1. http://theblackvault.com -- Read declassified documents.
+
+2. http://favoriteandforget.com -- Useful and educational links. Set it as you homepage and forget about it.
+
+3. https://duckduckgo.com/ -- An anonymous search engine.
+
+4. http://howlongtoreadthis.com -- Find out how long it takes to read any book.
+
+5. http://shufflemylife.com -- Find something to do when you are bored.
+
+6. http://www.cheatography.com -- A database of cheatsheets for students.
+
+7. http://www.thepunctuationguide.com -- A quick punctuation reference guide.
+
+8. http://cameyo.com -- Use software without installing it.
+
+9. https://openstaxcollege.org -- Free textbooks.
+
+10. http://makeagif.com -- Convert videos and pictures into gifs.
+
+11. http://www.zenpen.io -- A distraction free writing tool.
+
+12. http://www.hemingwayapp.com -- Make your writing bolder and clearer.
+
+13. http://pineapple.io -- A central hub of tutorials, tools, and assets for developers and designers.
+
+14. http://file.pizza -- Transfer large files over the internet.
+
+url:https://reddit.com/r/YouShouldKnow/comments/3mcmdp/
+author:dandy__lions
+subreddit:YouShouldKnow
+score:3915
+numComments:147
+isOver18:False
+hasPostBody:True

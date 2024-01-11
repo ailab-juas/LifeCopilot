@@ -1,0 +1,13 @@
+title:
+LPT: If you get "posted in r/.." in bottom of every picture you save from reddit, just go to settings and turn off the "save image attribution" tab and it will go away.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/fxwbu0/
+author:Quarantinememes
+subreddit:LifeProTips
+score:1834
+numComments:88
+isOver18:False
+hasPostBody:False

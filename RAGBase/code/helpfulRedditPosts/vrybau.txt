@@ -1,0 +1,21 @@
+title:
+LPT: Easy negotiation tip anyone can do
+
+content:
+Everyone hates negotiating and want it to be over. 
+
+One of the easiest negotiation tactics anyone can do is to offer to agree today if they give you x,y,z
+
+"Joe, thanks for the job offer. I'm really excited. If you can give me a 10% in salary, I'll accept today"
+
+"I'm excited about this car. If you can drop the price by $1000, I'll purchase it right now."
+
+There's no conflict, there's no theatrics, and if that person takes it to their manager, then it's a pretty clear "if we do x, we close the deal" ask to the manager-- no annoying back and forth.
+
+url:https://reddit.com/r/LifeProTips/comments/vrybau/
+author:TallDarkandWitty
+subreddit:LifeProTips
+score:6638
+numComments:304
+isOver18:False
+hasPostBody:True

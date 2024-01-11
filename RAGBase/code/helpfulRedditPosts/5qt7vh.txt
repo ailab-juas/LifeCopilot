@@ -1,0 +1,13 @@
+title:
+LPT: If you are thinking of buying canned goods to give to a food bank, just donate the money instead. Food banks get unbelievable discounts on canned food, so buying it for them is actually a waste of your charitable money.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5qt7vh/
+author:fooduvluv
+subreddit:LifeProTips
+score:2307
+numComments:119
+isOver18:False
+hasPostBody:False

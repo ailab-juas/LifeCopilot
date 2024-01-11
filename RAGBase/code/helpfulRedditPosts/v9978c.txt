@@ -1,0 +1,17 @@
+title:
+LPT: When you’re leaving for a trip, plan to be packed and ready an hour before you need to leave, then spend that hour tidying up your house. This serves three purposes.
+
+content:
+1. If something goes wrong you can be delayed an hour and still leave on time. 
+
+2. You’ll get to return to a tidy house. 
+
+3. By walking around your house and thinking about something else, you’ll have a much better chance of suddenly remembering something you forgot to pack.
+
+url:https://reddit.com/r/LifeProTips/comments/v9978c/
+author:BrittleCoyote
+subreddit:LifeProTips
+score:34206
+numComments:579
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+YSK: If someone you know got scammed or robbed it's not helpful to imply that they were not "careful" enough.
+
+content:
+Why YSK: Compassion and understanding can go a long way. At the time the person doesn't want to hear that it was their fault. They are probably already beating themselves up about that already. Saying what you believe to be "good advice" is not constructive and probably will just make them more angry or sad. An example would be if someone didn't lock their bike and claiming "they're just asking for that bike to get stolen". No one wants their bike to be stolen. No one is asking for it. You aren't more intelligent for pointing this out. Don't blame the victim. Instead of saying it's their fault for not locking their bike how about we just think the person who stole it is an asshole. It is true that we should always important to be prepared and diligent, but sometimes compassion is better.
+
+url:https://reddit.com/r/YouShouldKnow/comments/nbqyfv/
+author:Ryner921
+subreddit:YouShouldKnow
+score:4212
+numComments:195
+isOver18:False
+hasPostBody:True

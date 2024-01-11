@@ -1,0 +1,13 @@
+title:
+LPT: If you're in search of a reliable mechanic, ask your local auto parts store. Most of us have commercial accounts and know who the best shops around are and who specializes in what.
+
+content:
+Edit: Also, on a related but separate note, certain states (like California) have laws that prohibit auto stores from scanning vehicles. 
+
+url:https://reddit.com/r/LifeProTips/comments/26tg5s/
+author:nofknwayy
+subreddit:LifeProTips
+score:2249
+numComments:201
+isOver18:False
+hasPostBody:True

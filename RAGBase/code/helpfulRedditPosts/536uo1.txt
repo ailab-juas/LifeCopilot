@@ -1,0 +1,13 @@
+title:
+LPT: When packing a cooler and need to maximize space, freeze water bottles to use as ice packs.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/536uo1/
+author:steveninnewton
+subreddit:LifeProTips
+score:4966
+numComments:624
+isOver18:False
+hasPostBody:False

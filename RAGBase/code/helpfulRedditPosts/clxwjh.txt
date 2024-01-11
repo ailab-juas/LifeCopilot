@@ -1,0 +1,13 @@
+title:
+YSK a lot of fraudulent sellers on Amazon will change old listings with many positive reviews to make their bad product appear legit
+
+content:
+Make sure you read the questions and a few reviews before buying.
+
+url:https://reddit.com/r/YouShouldKnow/comments/clxwjh/
+author:MattJaccino
+subreddit:YouShouldKnow
+score:7687
+numComments:177
+isOver18:False
+hasPostBody:True

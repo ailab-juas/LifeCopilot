@@ -1,0 +1,13 @@
+title:
+LPT : A simple way to bypass the infuriating "create an account". In order to continue browsing a website, hit F12 and click on the dim area, this would select it and you can delete it with DEL key, hit F12 again and resume your browsing.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/jvkilu/
+author:RichMindHappyLife
+subreddit:LifeProTips
+score:2485
+numComments:73
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: Company loyalty only goes one way. Don't expect your company to be loyal to you just because you're loyal to them. If you secure a better offer elsewhere, take it.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/qg4l0f/
+author:seanmashitoshi
+subreddit:LifeProTips
+score:2606
+numComments:122
+isOver18:False
+hasPostBody:False

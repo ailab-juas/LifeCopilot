@@ -1,0 +1,13 @@
+title:
+LPT: Make brownies in 2 mins in a mug.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/wxy7f/
+author:akacheese
+subreddit:LifeProTips
+score:2527
+numComments:714
+isOver18:False
+hasPostBody:False

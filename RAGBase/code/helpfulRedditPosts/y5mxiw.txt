@@ -1,0 +1,15 @@
+title:
+YSK that you can open any difficult jar with a corkscrew
+
+content:
+No one of my acquaintances seems to do this, and the internet is full of complicated methods involving hot water, tapping on lids, and even specialized tools. So I must assume this could turn useful to some. Take a corkscrew. Insert the metal tip under the lid. The shape of that is ideal (the tip naturally rotates in place), but, using more strenght, I suppose you could try other tools. Just lift the wall of the jar's lid a little bit, so that the air flows underneath. The lid pops. You are done. Most people get crazy because they only see the lid from above and only think in terms of strenght vs. strenght. If you don't, it's much more easier.
+
+Why YSK: this tip will let you perform in a few seconds a routine task that people struggle with.
+
+url:https://reddit.com/r/YouShouldKnow/comments/y5mxiw/
+author:Chats-de-L-Atalante
+subreddit:YouShouldKnow
+score:1534
+numComments:235
+isOver18:False
+hasPostBody:True

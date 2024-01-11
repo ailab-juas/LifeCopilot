@@ -1,0 +1,35 @@
+title:
+YSK that using tap water in your Neti Pot can kill you.
+
+content:
+http://www.forbes.com/sites/daviddisalvo/2012/08/27/how-not-to-die-using-a-neti-pot/
+
+http://www.fda.gov/ForConsumers/ConsumerUpdates/ucm316375.htm?source=govdelivery
+
+(CBS News) Researchers believe that two people who died from the "brain-eating" amoeba known as Naegleria fowleri in 2011 contracted the infection after using neti pots with tap water to clear their sinuses.
+Typically, people contract the amoeba from swimming in warm freshwater lakes and rivers since the organism thrives in warm temperatures. However, the victims - a 28-year-old man and a 51-year-old woman from Louisiana - had not been near freshwater. The only thing they had in common was that they both routinely used the tap water with neti pots. Further tests on their home plumbing came back positive for the amoeba, although the city's water distribution systems' tests came back negative. The bacteria was found in a tankless water heater in the man's home and in the bathroom sink and faucet tub of the woman's home.
+
+Brain-eating amoeba suspected as cause of 9-year-old's death 
+Pictures: Brain-eating amoeba: How to stay safe from Naegleria fowleri
+
+The investigation was published in the Aug. 22 issue of Clinical Infectious Diseases.
+
+According to the Centers for Disease Control and Prevention, Naegleria fowleri causes brain swelling and death. Symptoms of infection start about five days after the amoeba is ingested. First symptoms may include headache, fever, nausea or vomiting, followed by stiff neck, confusion, lack of attention to people and surroundings, loss of balance, seizures and hallucinations.
+
+Death - which occurs in 99 percent of cases - happens within five days. Only one person out of the 123 infected individuals in the U.S. from 1962 to 2011 has ever survived, according to the CDC. While drugs have been successful in treating the disease in the laboratory, there has been limited to no success in treating people who have been infected. The CDC says it is also important to note that contracting the bacteria is rare: Only 32 reported infections have happened in the decade between 2002 and 2011 despite millions of people being exposed to sources of water where the amoeba could survive, the agency said.
+
+What makes using the neti pot use and swimming in fresh water especially dangerous is that while stomach acid can kill the organism if it is swallowed, the amoeba can stay alive in nasal passages.
+
+The Food and Drug Administration (FDA) has issued warnings about rinsing sinuses with tap water due to the improper use of neti pots. While Dr. Steven Osborne, a medical officer in FDA's Center for Devices and Radiological Health (CDRH), said that usually neti pots are safe and useful, the water that goes in the device can be contaminated. Using distilled or sterile water, water passed through a filter with an absolute pore size of 1 micron or smaller or boiling the water for three to five minutes and then cooling it until it is lukewarm can help get rid of unwanted organisms. Making sure the neti pot is completely dry and cleaning it with the safe water listed above can also help prevent infection.
+
+"Most important is the source of water. Some tap water contains low levels of organisms, such as bacteria and protozoa, including amoebas, which may be safe to swallow because stomach acid kills them," the FDA said in a statement
+
+http://www.cbsnews.com/news/tap-water-in-neti-pots-behind-two-brain-eating-amoeba-deaths-in-2011-investigation-finds/
+
+url:https://reddit.com/r/YouShouldKnow/comments/3daji4/
+author:fireforfear
+subreddit:YouShouldKnow
+score:1295
+numComments:230
+isOver18:False
+hasPostBody:True

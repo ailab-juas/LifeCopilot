@@ -1,0 +1,13 @@
+title:
+YSK Chrome now has a built in YouTube mini player!
+
+content:
+Simply double-right-click on any YouTube video and click "Picture in Picture", then you have a little resizable window you can move around even if Chrome is minimized!
+
+url:https://reddit.com/r/YouShouldKnow/comments/9x1j12/
+author:thatonegamer999
+subreddit:YouShouldKnow
+score:3584
+numComments:144
+isOver18:False
+hasPostBody:True

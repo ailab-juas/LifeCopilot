@@ -1,0 +1,15 @@
+title:
+YSK there is a giant library inside Minecraft which contains journals and articles, banned in several countries.
+
+content:
+As freedom as the press gets more and more restricted a company has created a way to ensure information is available to as many people as possible in areas that would not normally be able to read the articles.
+
+https://www.blockworks.uk/the-uncensored-library
+
+url:https://reddit.com/r/YouShouldKnow/comments/ic6mf3/
+author:improbablydrunknlw
+subreddit:YouShouldKnow
+score:12511
+numComments:250
+isOver18:False
+hasPostBody:True

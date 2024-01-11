@@ -1,0 +1,15 @@
+title:
+LPT: Get rid of ants with cinnamon. 
+
+content:
+http://www.ehow.com/how_2310653_get-rid-ants-cinnamon.html#page=0
+
+Works like a charm at my house.
+
+url:https://reddit.com/r/LifeProTips/comments/14qcm6/
+author:daidandyy
+subreddit:LifeProTips
+score:1345
+numComments:293
+isOver18:False
+hasPostBody:True

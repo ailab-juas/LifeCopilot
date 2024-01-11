@@ -1,0 +1,13 @@
+title:
+YSK: A quick search of your state's unclaimed property office might be worth your time!
+
+content:
+Why YSK: Every US state has an unclaimed property division or office that holds on to property when they can't find its legal owner. Google *&lt;&lt;your state&gt;&gt; unclaimed propert*y to find the web site and enter your info. I just spent 5 minutes searching several states that I've lived in and found a few hundred dollars that I had no idea about.
+
+url:https://reddit.com/r/YouShouldKnow/comments/yecj8h/
+author:Edward_the_Dog
+subreddit:YouShouldKnow
+score:5161
+numComments:328
+isOver18:False
+hasPostBody:True

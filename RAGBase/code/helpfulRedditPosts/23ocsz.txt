@@ -1,0 +1,15 @@
+title:
+LPT: got ios7? Battery life abysmal? Turn off motion parallax. It'll save you shit loads of battery life
+
+content:
+Settings}General}Accessibility}Reduce Motion (turn this **on**)
+
+Motion parallax is that thing where if you move your phone, the background moves too. It's stupid and eats your battery life like crazy, and it's pretty much *always* running. If you turn it on, your phone should be able to make it a whole day again. 
+
+url:https://reddit.com/r/LifeProTips/comments/23ocsz/
+author:willrahjuh
+subreddit:LifeProTips
+score:2513
+numComments:711
+isOver18:False
+hasPostBody:True

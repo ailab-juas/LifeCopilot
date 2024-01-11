@@ -1,0 +1,15 @@
+title:
+YSK: A large number of your emails are tracked
+
+content:
+Why YSK: From what time you opened them, to how many times you opened them, a lot of emails are sent with trackers that notify the sender when you open them. The sender can also have access to a dashboard that shows them the specifics of your email viewing habits.
+
+What you can do about it: there's several chrome extensions, for instance, that show a symbol next to an email's title that pops up if the email is being tracked. Ugly Emails for chrome is what I use. Its just another example of how your privacy is being breached and also if you've ever noticed a boss or coworker seems particularly aware that you haven't responded to an email, this could be why.
+
+url:https://reddit.com/r/YouShouldKnow/comments/r0f5zq/
+author:[deleted]
+subreddit:YouShouldKnow
+score:3525
+numComments:172
+isOver18:False
+hasPostBody:True

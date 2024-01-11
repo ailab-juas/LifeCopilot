@@ -1,0 +1,29 @@
+title:
+YSK that the two main types of images, JPG and PNG, are better for different things, and if you use the right one you can save a lot of memory.
+
+content:
+**TLDR: Use PNG if your image contains solid colors (e.g. simple graphics, logos, text) and JPG if it contains gradients (e.g. photos, most screenshots).**
+
+Why YSK: In general PNG looks better, but JPG uses much less memory. You can reduce the size of emails, texts, etc. by using the right kind of image.
+
+When JPG is better:
+
+[Here is a photo of a burger](https://i.imgur.com/XPsTnBD.jpg). As a JPG it is 0.3 megabytes. As a PNG it takes up almost _5 times the space_ at 1.4 megabytes.
+
+When PNG is better:
+
+[Here is a webcomic](https://www.smbc-comics.com/comics/1617723630-20210406.png). Unlike the burger photo, it doesn't have any gradients. It's just simple blocks of solid color and text. As a PNG it takes up 86 kilboytes.
+
+Unlike PNG, you can reduce the quality of a JPG to change how much space it takes up. As a full-quality JPG, that comic takes up a nearly twice the space at 136 kilobytes. As a low-quality JPG it takes up only 22 kilobytes... [but it's a little grainy and pixelated](https://i.imgur.com/PZLIwU1.jpg) if you look up close.
+
+The image-viewing software that came with your computer (Photos on Windows, Preview on Mac) can convert PNGs to JPGs and vice-versa. Just look for the "Save as" or "Export" functions.
+
+Edit: Source for the delicious burger picture: https://www.reddit.com/r/food/comments/m9xok9/homemade_bacon_cheeseburger
+
+url:https://reddit.com/r/YouShouldKnow/comments/mljvb5/
+author:robertgfthomas
+subreddit:YouShouldKnow
+score:4604
+numComments:188
+isOver18:False
+hasPostBody:True

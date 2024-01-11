@@ -1,0 +1,15 @@
+title:
+YSK that PayPal charges much more than your bank to automatically convert currencies during purchases
+
+content:
+During checkout, there's a little menu button off to the side where "Convert using Paypal" is selected by default, if you switch it over to "Convert using the bank to which my card is from" you'll save ~$2-$4 on every transaction.
+
+Seriously wtf, this is literally stealing.
+
+url:https://reddit.com/r/YouShouldKnow/comments/7bjvbv/
+author:ulterior-motives
+subreddit:YouShouldKnow
+score:2271
+numComments:76
+isOver18:False
+hasPostBody:True

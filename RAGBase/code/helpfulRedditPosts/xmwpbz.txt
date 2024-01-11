@@ -1,0 +1,20 @@
+title:
+YSK: In the USA, calling the phone number “211” contacts basic human needs resources.
+
+content:
+Why YSK: **Calling 211 can help you if you’re suddenly homeless or need to help someone else who’s in need and yet almost no one seems to be aware of 211.**
+
+“211 acts as a quick connection to resources in your area. 211 centers are housed with referral specialists that listen to your needs and connect you with those who can help. The types of referrals offered include **basic human needs resources, physical and mental health resources, work support, translation services for non-English speakers, support for the elderly and the disabled, children and family support, and suicide prevention.**
+
+211 centers cover 94.6 percent of the U.S., and most TDS communities are included. To see if your area has established a center, visit 211.org.”
+
+Source: https://blog.hellotds.com/get-the-411-on-4-1-1-and-other-3-digit-phone-numbers/ 
+There are 7 other n-1-1 phone numbers. You can read about at this source.
+
+url:https://reddit.com/r/YouShouldKnow/comments/xmwpbz/
+author:rci22
+subreddit:YouShouldKnow
+score:1131
+numComments:44
+isOver18:False
+hasPostBody:True

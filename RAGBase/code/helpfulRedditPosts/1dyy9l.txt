@@ -1,0 +1,17 @@
+title:
+LPT: Sending a resume by email? Name it "YourName.pdf" instead of "resume.pdf", so the person downloading and reading resumes can tell which is yours.
+
+content:
+For someone downloading and reading resumes, it can get a little frustrating to have a bunch of files all named "resume.pdf" or "resume.docx".  So make the file name your full name, or something like "YourNameResume.pdf" or "YourName-Position.pdf" so whoever is reading them doesn't have to rename yours.  It's a nice touch, and shows you're thinking of the needs of the company you're applying to.
+
+Also, use the body of the email for your cover letter, (so it's more likely to be read) then have the resume as an attachment.  If you want to send a properly-formatted cover letter along with your resume, make it a two-page document with the cover letter as the first page and the resume as the second page.  And if you have a choice, pdf is better than doc or docx, because you can be absolutely sure it looks like you want it to.
+
+edit: For anyone having trouble saving a document as a PDF, [CutePDF](http://www.cutepdf.com/) is a nice piece of free software that will work with any Windows software that has a "Print" function.  It shows up like a printer, so all you have to do is print the document out, (even if you're not connected to a printer) and it will automatically save it as a PDF on your computer.
+
+url:https://reddit.com/r/LifeProTips/comments/1dyy9l/
+author:virnovus
+subreddit:LifeProTips
+score:2193
+numComments:351
+isOver18:False
+hasPostBody:True

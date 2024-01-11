@@ -1,0 +1,15 @@
+title:
+YSK: If one or more of your toilets randomly starts to gurgle, call a plumber or septic service ASAP.
+
+content:
+Why YSK: This means that your plumbing is backed up somewhere, either from a blocked pipe or a full septic tank. 
+
+Source: Just paid $325 to have my septic tank pumped this morning. A day or two prior to this my wife and I kept hearing a mysterious gurgling coming from the toilet. Last night to our horror, the toilet overflowed with nasty water when the washing machine drained.
+
+url:https://reddit.com/r/YouShouldKnow/comments/s72z3q/
+author:[deleted]
+subreddit:YouShouldKnow
+score:2848
+numComments:145
+isOver18:False
+hasPostBody:True

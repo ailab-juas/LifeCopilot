@@ -1,0 +1,13 @@
+title:
+Use + and . so you won't have to make new emails
+
+content:
+If you've ever needed to use a different email for some website but didn't want to make an entirely new email, you can use both pluses and periods. Anything you put after a plus will be disregarded, so emails sent to lifepro+tips@gmail.com will actually be sent to lifepro@gmail.com. They will *also* be tagged with whatever is after the plus, so you can easily find them in their respective folders. Similarly, you can insert a period anywhere in an email and it will be completely disregarded. lifepro@gmail.com = l.ifepro@gmail.com = l.if.e.p.r.o@gmail.com
+
+url:https://reddit.com/r/LifeProTips/comments/5b9yt8/
+author:temsik1587
+subreddit:LifeProTips
+score:1001
+numComments:115
+isOver18:False
+hasPostBody:True

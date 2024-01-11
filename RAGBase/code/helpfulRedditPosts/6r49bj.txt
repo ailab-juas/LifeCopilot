@@ -1,0 +1,13 @@
+title:
+LPT: if you're trying to choose the fastest line between many similarly long lines at an amusement park/airport customs/stadium/etc, choose the line with the most children. Groups with children usually go through as one transaction so the line will move faster.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/6r49bj/
+author:BluthCompanyBanana
+subreddit:LifeProTips
+score:20196
+numComments:830
+isOver18:False
+hasPostBody:False

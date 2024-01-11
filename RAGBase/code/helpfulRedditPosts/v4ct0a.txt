@@ -1,0 +1,25 @@
+title:
+LPT: If your employer puts you on a performance improvement plan or suddenly starts asking for daily reports out of the blue, start looking for a job
+
+content:
+In most U.S. states, the amount an employer pays toward unemployment insurance is affected by various factors, and one of them is how many employees have collected unemployment insurance in the past.
+
+And in most states, if an employee is fired for cause, and the employer states the firing happened because the employee didn't meet the job requirements or didn't do their job correctly, the former employee might not be eligible for unemployment insurance.
+
+The result is that in a lot of toxic corporations, management will sometimes set up some of their employees for failure. They will for instance put them on a so-called [performance improvement plan](https://www.shrm.org/resourcesandtools/tools-and-samples/exreq/pages/details.aspx?erid=586), or start micromanaging them to death, documenting anything that can be perceived as failures or mistakes using brand new standards. It can also be implemented as part of a [vitality curve](https://en.wikipedia.org/wiki/Vitality_curve), where bottom performers are regularly purged from the organization, regardless of the company's results.
+
+It's also sometimes implemented in perverse manners when a company is looking to lay off a percentage of their workforce, and managers are instructed to meet a number within their reports. Some employees, identified as financial liabilities because they might work in a support quality but not directly generate revenues, suddenly see their performance reviews peppered with what were in fact minor issues, but that were inflated to turn them into causes for firing.
+
+And if the employee is fired for cause, they might not be eligible for unemployment insurance, reducing the unemployment insurance tax the employer will have to pay in the future.
+
+Bottomline is this: if an employer suddenly starts playing this trick on you, where you were performing just fine but are now having to jump through hoops, it means your ass has been put on the chopping block. You've been set up to fail, and you will almost certainly be fired soon. Start looking for a job. The good news is that unemployment rates has rarely been this low.
+
+EDIT: Some people in here rightfully pointing that a PIP is not some evil tool and that it can be used to help a struggling employee to succeed. This is not the scenario this LPT is about. This is about the all-too-common toxic workplaces where PIPs and other processes are used to push out employees who were performing well simply because a manager or the company wants to reduce expenses, avoid a lengthy or costly separation, or downright discriminate.
+
+url:https://reddit.com/r/LifeProTips/comments/v4ct0a/
+author:SpaceJackRabbit
+subreddit:LifeProTips
+score:50514
+numComments:2224
+isOver18:False
+hasPostBody:True

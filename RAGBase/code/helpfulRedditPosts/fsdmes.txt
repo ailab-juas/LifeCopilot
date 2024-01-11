@@ -1,0 +1,13 @@
+title:
+LPT Train your pets by having them associate the fire alarm with getting treats. In an actual fire they will come seek you out, instead of hiding.
+
+content:
+You can cover the alarm speaker with your hand and press the test button so the first few times it will be much quieter and won't startle them.  Eventually they'll get used to it and when you press it normally they'll come running to you to get their treats.
+
+url:https://reddit.com/r/LifeProTips/comments/fsdmes/
+author:rexmons
+subreddit:LifeProTips
+score:2632
+numComments:86
+isOver18:False
+hasPostBody:True

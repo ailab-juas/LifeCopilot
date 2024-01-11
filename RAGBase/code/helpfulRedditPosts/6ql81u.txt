@@ -1,0 +1,13 @@
+title:
+LPT: Almost everyone who is 'good with money' shares a common trait: they make a detailed budget for the next month and stick to it. If you've never done so, tomorrow (the 31st) is a perfect day to start.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/6ql81u/
+author:Frashizzle
+subreddit:LifeProTips
+score:53728
+numComments:3238
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: Knowing when to say nothing is an important skill. Don't feel the need to fill every silence.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/uidprh/
+author:fantalemon
+subreddit:LifeProTips
+score:4323
+numComments:116
+isOver18:False
+hasPostBody:False

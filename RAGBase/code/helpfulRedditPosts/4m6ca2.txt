@@ -1,0 +1,21 @@
+title:
+LPT: Set a shutdown timer in windows with no external software
+
+content:
+Open command prompt and type:
+
+    shutdown -s -t XXXXX
+
+Where XXXXX is the number of seconds until shutdown (eg. 3600 for 1 hour).
+
+Can also be used to restart or force shutdown with -r and -f
+
+Great for downloading stuff over night or when you're leaving the house and don't want to leave the computer on all day/night.
+
+url:https://reddit.com/r/LifeProTips/comments/4m6ca2/
+author:excelhelpneeded111
+subreddit:LifeProTips
+score:2617
+numComments:344
+isOver18:False
+hasPostBody:True

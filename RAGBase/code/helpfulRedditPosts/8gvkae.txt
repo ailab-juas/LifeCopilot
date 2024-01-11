@@ -1,0 +1,13 @@
+title:
+LPT: If you ever visit somewhere beautiful, stop and have a snack. Take a moment to really focus on the taste and smell of the food, then focus on your surroundings. Anytime you have that food or drink again you can close your eyes and it will take you back there. (e.g. an espresso in venice)
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/8gvkae/
+author:ras9687
+subreddit:LifeProTips
+score:9383
+numComments:306
+isOver18:False
+hasPostBody:False

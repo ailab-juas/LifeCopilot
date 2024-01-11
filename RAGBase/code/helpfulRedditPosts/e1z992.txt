@@ -1,0 +1,24 @@
+title:
+YSK: Google maps has a feature that alerts you if a taxi driver goes off route
+
+content:
+This is useful to avoid the common taxi scam where the driver takes a much longer route with many unnecessary turns. It only notifies you if the taxi driver takes a route, more than 500 meters away from the fastest route it found.
+
+Edit: Here is [how](https://www.androidpolice.com/2019/10/21/google-maps-keeps-you-safe-by-alerting-you-if-your-taxi-goes-off-route/):
+To get Maps to track your ride, look for navigation directions to your destination, and tap the Stay safer button in the menu at the bottom. You'll find the off-route alerts there. Enable them then start the navigation.
+
+Edit 2:
+
+[This feature saved me a lot of money today](https://www.reddit.com/r/instantkarma/comments/e2gh4o/taxi_driver_took_a_much_longer_route_than_we/?utm_medium=android_app&amp;utm_source=share)
+
+
+
+Thanks to u/firemanjoe911 for finding the link.
+
+url:https://reddit.com/r/YouShouldKnow/comments/e1z992/
+author:walkq
+subreddit:YouShouldKnow
+score:28472
+numComments:356
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Assume everyone in the comments is a 13 year old kid
+
+content:
+This saves you a lot of anger. A lot of dumb comments or posts are just kids messing about. People take each comment so seriously and assume a full grown adult wrote them. So next time you are tempted to reply, you may be arguing with a 13 year old.
+
+url:https://reddit.com/r/LifeProTips/comments/s3rm1q/
+author:DoctorImpressive5877
+subreddit:LifeProTips
+score:40617
+numComments:1727
+isOver18:False
+hasPostBody:True

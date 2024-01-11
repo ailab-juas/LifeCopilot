@@ -1,0 +1,13 @@
+title:
+YSK about a bill sponsored by Garey Bies (R) and Chris Taylor (D) that would "require all police-related deaths in the State of Wisconsin to also be investigated and reviewed by law enforcement experts who have nothing to gain or lose from the outcome of the investigation."
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/1o33c7/
+author:coffeedude7
+subreddit:YouShouldKnow
+score:2738
+numComments:166
+isOver18:False
+hasPostBody:False

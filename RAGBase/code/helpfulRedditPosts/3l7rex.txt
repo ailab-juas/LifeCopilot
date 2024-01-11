@@ -1,0 +1,17 @@
+title:
+YSK that if your house was built prior to the 1950s, the wiring and anything that required fireproofing (stoves, etc.) may contain asbestos.
+
+content:
+A very important heads-up! Here are some resources to check out if you're concerned:
+A detailed [infographic](http://i.imgur.com/2mHvKL9.png) on potential asbestos "hotspots" and other historical facts.
+What to do if you [suspect asbestos](http://www2.epa.gov/asbestos/protect-your-family).
+I've had a few requests for the original source of the infographic. [Here it is!](http://www.mesotheliomatreatmentcenters.org/asbestos-2/)
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/3l7rex/
+author:JoytotheUniverse
+subreddit:YouShouldKnow
+score:1396
+numComments:155
+isOver18:False
+hasPostBody:True

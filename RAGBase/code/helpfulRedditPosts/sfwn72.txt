@@ -1,0 +1,13 @@
+title:
+LPT: Instead of buying new Swiffer WetJet bottles every time, you can simply submerse the empty bottle’s cap in boiling water for 20-30 seconds and the glue will soften up. Twist it open, refill it with whatever you’d like, and you’re all set!
+
+content:
+Saves space in the landfill and saves money!
+
+url:https://reddit.com/r/LifeProTips/comments/sfwn72/
+author:yeahyouguessedit
+subreddit:LifeProTips
+score:33123
+numComments:736
+isOver18:False
+hasPostBody:True

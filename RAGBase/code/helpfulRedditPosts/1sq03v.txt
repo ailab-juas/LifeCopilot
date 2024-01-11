@@ -1,0 +1,17 @@
+title:
+YSK how to unsend an email from your gmail account.
+
+content:
+Settings &gt; Labs &gt; 'Undo Send' &gt; Enable
+
+This gives you 30 seconds to 'unsend' an email after you hit send, if you've forgotten an attachment, sent it to the wrong recipient or realized a spelling error.
+
+Edit: Some of the other things in 'Labs' might be useful to you too, so it is worth checking out. You can have a preview panel (like in hotmail) and customize your google chat. I found the undo to be the most useful though :)
+
+url:https://reddit.com/r/YouShouldKnow/comments/1sq03v/
+author:A-Promise
+subreddit:YouShouldKnow
+score:1941
+numComments:153
+isOver18:False
+hasPostBody:True

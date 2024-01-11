@@ -1,0 +1,13 @@
+title:
+LPT : If someone comes to your door selling a home security system and asks if you have one, always say Yes.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ico920/
+author:Heisenberg_991
+subreddit:LifeProTips
+score:2898
+numComments:205
+isOver18:False
+hasPostBody:False

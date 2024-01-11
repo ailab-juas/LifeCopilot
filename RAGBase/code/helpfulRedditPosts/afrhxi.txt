@@ -1,0 +1,13 @@
+title:
+LPT: Have you ever tried clicked on a search result for answers about a book or other literature for school, only to find blurred text and the site forcing you to make an account? Simply highlight the blurred text, right click to inspect element, and uncheck the blur filters of the text.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/afrhxi/
+author:IronManConnoisseur
+subreddit:LifeProTips
+score:2483
+numComments:69
+isOver18:False
+hasPostBody:False

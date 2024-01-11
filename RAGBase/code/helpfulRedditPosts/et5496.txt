@@ -1,0 +1,15 @@
+title:
+YSK that printfriendly.com can bypass just about any news website's paywall, including the ones that have wised up to incognito like WaPo and NYT!
+
+content:
+printfriendly.com
+
+no go forth and cite, comrades
+
+url:https://reddit.com/r/YouShouldKnow/comments/et5496/
+author:psychotwilight
+subreddit:YouShouldKnow
+score:4191
+numComments:231
+isOver18:False
+hasPostBody:True

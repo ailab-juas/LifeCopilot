@@ -1,0 +1,13 @@
+title:
+YSK that there's an app called RunPee that tells you the best times to take a pee break at the movie theater (and gives you a summary of what you missed)
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/18uqvg/
+author:Bradm77
+subreddit:YouShouldKnow
+score:1581
+numComments:167
+isOver18:False
+hasPostBody:False

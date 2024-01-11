@@ -1,0 +1,13 @@
+title:
+LPT: If you have a food allergy and are traveling to a country where English is not the native language, print out business cards in the native language of the country stating the allergy and it’s effects on you.
+
+content:
+This is method I have seen my best friend and colleagues use for business trips and leisure. Whether it’s peanuts, shellfish or any food allergy; it’s best to have the staff understand your allergy then take a risk of your request being lost in translation.
+
+url:https://reddit.com/r/LifeProTips/comments/f3ogsw/
+author:Bogshow
+subreddit:LifeProTips
+score:2059
+numComments:101
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: If someone you have not met in person asks you to “verify you’re ‘real’” by texting them a code that was sent to your phone number or email- it is definitely a scam and they are trying to gain access to your accounts
+
+content:
+Someone tried pulling this earlier when my boyfriend listed a bicycle for sale on Craigslist. They wanted to be sure they “weren’t being scammed themselves” By verifying I was a real person via a “Google code”
+
+url:https://reddit.com/r/LifeProTips/comments/p2t7aw/
+author:Knittedpouf
+subreddit:LifeProTips
+score:2825
+numComments:139
+isOver18:False
+hasPostBody:True

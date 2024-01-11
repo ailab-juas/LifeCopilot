@@ -1,0 +1,36 @@
+title:
+LPT: NEVER let anyone remote into your home computer. If someone says they need to get “onto” your computer for ANY reason, then unless you specifically know them DO NOT let them into your computer. Also the internet will never tell you to call it.
+
+content:
+If you’re like “well duhh” then this post isn’t for you. 
+
+I’ve had three clients in the last two weeks lose a total of $116,000 because they called a number their computer told them to call and let some asshole remote onto their computers. 
+
+So for those of you out there that need this advice please:
+
+1) Understand that any interaction on the internet MUST originate from YOU. No single ad, words, email, or big flashy warning has your interests in mind. If you didn’t specifically solicit whatever contact from the world that you get then it is a scam, disengage immediately. 
+
+2) No company on the internet will call you without you having initiated the contact. NO COMPANY YOU CAN THINK OF WILL CONTACT YOU. Microsoft will never contact you, Trend Micro or Google or Wells Fargo Online will never call or contact you. If someone says they are contacting you from a company you have or haven’t heard of they are not. They are an asshole disengage immediately. For example, a client will contacted by “Microsoft support” saying their computer is infected. This is common and bullshit. I just cannot stress it enough: if you didn’t initiate the contact, if the communication from the world isn’t a direct response to YOUR initial communication then it is a scam or an ad or sales 100% of the time. 
+
+3) Never, ever, ever let someone onto your computer through something called a “remote session” or anything that sounds like they want to get onto or into your computer to “help” you. No one is allowed on your computer other than someone who is physically there, OR if it’s someone you actually know and trust like your local IT guy or something. IF YOU DO NOT SPECIFICALLY know this person do not let them on your computer. 
+
+4) Anything within a web browser like chrome or edge or explorer that is on a page and tells you your computer is infected is bullshit. No legitimate company will ever display this on a web page. Never click on a “Fix this now” or “click here to contact us immediately” link it’s all horseshit. Some plugins can alert to viruses or malware. 
+
+5) The internet will never legitimately ask you to call it.  If someone or something that you aren’t aware of is telling you you have to call them to fix some problem with your computer it is 100% of the time a scam. There is no situation I have ever seen where a webpage told a person they needed to call them right away and it wasn’t a scam. 
+
+6) If you have ever had a nefarious or unknown characters on your computer you should consider it permanently compromised and have a professional back up your data and format your hard drive and reinstall Windows. That is the only realistic way to be 100% positive any compromise has been mitigated. A program that logs your every keystroke can be installed invisibly in five seconds. That’s no exaggeration. 
+
+
+My customer last week, he got a call from Trend Micro, which he doesn’t even have installed, telling him his computer was infected. They initiated a remote session and he let them onto his computer. They then proceeded to steal his credit card information by making him “renew” his subscription. THEN they say “whoops, you overpaid by $400, we need to refund you” so they refund him $7000 instead then call him in a panic saying “oh shit holy shit we accidentally refunded you $7000 instead of $400. Then in another remote session they have him log into his bank, capture his credentials, and show him that sure enough there is an extra $7000 in his bank account. So he sees it there, it wasn’t there before, and says “ok” and they walk him through wiring the difference back to them of $6600. Here’s the catch: The over-deposit was FROM HIS OWN CREDIT CARD. So not only is he put the $6600 he wired them, he is also out $7000 on his credit card bill, $13,400 total in about an hour and a half. 
+
+Let me be crystal clear that THE CLIENT IS THE WEAKEST LINK. You are the weakest link in the chain of security so you HAVE to have strong, inherent distrust of the internet and consider that you have tendrils that reach out for things on the internet, and that is fine. But tendrils are never EVER to come the other direction, from the internet to you.
+
+Edit: Thanks for the kind words and awards guys it’s really sweet.
+
+url:https://reddit.com/r/LifeProTips/comments/k6gqqq/
+author:pewnanner
+subreddit:LifeProTips
+score:2870
+numComments:181
+isOver18:False
+hasPostBody:True

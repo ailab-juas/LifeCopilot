@@ -1,0 +1,33 @@
+title:
+YSK about wage theft. American workers lose billions each year because employers steal the earnings they are entitled to. Wage theft is a crime, and is punishable by law.
+
+content:
+Why YSK. All workers are entitled to receive the pay and compensation agreed to between them and their employer. An employer who fails to provide the compensation the employee is legally entitled to, this is [wage theft](https://www.forbes.com/advisor/personal-finance/wage-theft-what-to-do/). There are many different forms. For example:
+
+* Failing to pay overtime.
+* Failing to pay the agreed upon salary.
+* Requiring workers to work off the clock.
+* Requiring workers to work during lunch or break times without additional compensation.
+* Forcing workers to pay for a uniform instead of taking uniform costs out of wages.
+* Failing to pay a final paycheck to a worker who has left.
+
+Wage theft affects [millions of people every year](https://www.epi.org/publication/employers-steal-billions-from-workers-paychecks-each-year/), and results in billions in wages kept from workers who earned it, and much of it goes unreported.
+
+If you suspect you've had your wages stolen, there are several steps you can take.
+
+1. **Talk to your employer.** The pay loss might have been inadvertent or as the result of an error. Regardless, you should talk to your employer and takes notes about the conversation immediately after. Sending an email or written communication scheduling the meeting or summarizing the conversation after is also prudent.
+2. **Contact your state's Department of Labor.** State labor laws differ, but all states have the power to enforce wage theft violations for employers in their state. Find your state's labor department and file a complaint with them.
+3. **Contact the state's licensing bodies.** Some businesses require specific state licensure to be in business, and may impose additional requirements on the licenses business owners. Real estate, medical practices, law offices, and other professional businesses have to abide by specific rules or face suspension of their licenses. Contact the state governing body that provides these licenses if your employer has one.
+4. **Contact the Department of Labor.** You can [file a complaint](https://www.dol.gov/agencies/whd/contact/complaints) with the Department of Labor for suspected wage theft. The DOL can investigate and prosecute, either civilly or criminally, wage theft cases.
+5. **Contact an attorney.** You may have a private case against an employer who withheld your wages. Contact your state's bar association for a referral to an attorney who works with employment law cases.
+6. **Contact the police**. Wage theft is a crime, and can be reported to the police. Contact your local police's non-emergency line and ask how to file a complaint.
+
+No matter what you do, it's always best to have as much evidence as possible. Keep records of what you were paid, what you were owed, notes on conversations you had with managers, and any and all written communications between you and the company.
+
+url:https://reddit.com/r/YouShouldKnow/comments/vsr5re/
+author:ButtholeBanquets
+subreddit:YouShouldKnow
+score:21593
+numComments:376
+isOver18:False
+hasPostBody:True

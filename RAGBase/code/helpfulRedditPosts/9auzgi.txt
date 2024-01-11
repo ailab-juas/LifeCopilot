@@ -1,0 +1,13 @@
+title:
+LPT: As a manager, don't let your pride cloud your judgement when someone has a better idea than you on a decision. It's an improvement on a course of action, not your character.
+
+content:
+&amp;#x200B;
+
+url:https://reddit.com/r/LifeProTips/comments/9auzgi/
+author:ejaytee
+subreddit:LifeProTips
+score:36218
+numComments:679
+isOver18:False
+hasPostBody:True

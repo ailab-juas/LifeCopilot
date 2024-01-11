@@ -1,0 +1,13 @@
+title:
+LPT When online shopping, If you have a choice between a free shipping discount or an item discount of roughly the same amount, Use free shipping to get all your money back if you return
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/e3edk3/
+author:pearl_pluto
+subreddit:LifeProTips
+score:27160
+numComments:370
+isOver18:False
+hasPostBody:False

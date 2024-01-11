@@ -1,0 +1,15 @@
+title:
+YSK that you can download a copy of all of the data that you share with Google - It is called "Google Takeout."
+
+content:
+Go to [Google Takeout](https://www.google.com/takeout) where you will see a graph of all of the services that you subscribe to. 
+
+From there, you can download a zip file of everything. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/1fgqir/
+author:english_major
+subreddit:YouShouldKnow
+score:1231
+numComments:90
+isOver18:False
+hasPostBody:True

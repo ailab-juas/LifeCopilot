@@ -1,0 +1,13 @@
+title:
+LPT: If you’re worried you’ll forget to do something later, put an object where it really doesn’t belong, like a shoe on a doorknob. When you come across it later the sight of it will remind you of what you were supposed to do.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/k0k5r6/
+author:MisterAlaska
+subreddit:LifeProTips
+score:1796
+numComments:123
+isOver18:False
+hasPostBody:False

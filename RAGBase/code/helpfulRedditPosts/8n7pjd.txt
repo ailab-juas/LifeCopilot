@@ -1,0 +1,13 @@
+title:
+LPT: Locking your travel bag with a padlock is mostly useless, as most bags can be easily opened by breaking the zipper using anything moderately sharp like a pen, and then closed back by running the puller over it. Use a suitcase with concealed zippers or wrap it in travel film.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/8n7pjd/
+author:az9393
+subreddit:LifeProTips
+score:2037
+numComments:204
+isOver18:False
+hasPostBody:False

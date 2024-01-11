@@ -1,0 +1,17 @@
+title:
+LPT: use 'tk' when you're writing but you know you need to edit later
+
+content:
+In written English, practically zero words have the letters tk next to each other.
+
+This means is you're in the flow and need to double check a fact, or change the name of a character or something, just put tk in and carry on writing.
+
+Then later, you can search the document for 'tk' and find all the things that you didn't want to stop and think about at the time.
+
+url:https://reddit.com/r/LifeProTips/comments/tsveex/
+author:RubbishVegan
+subreddit:LifeProTips
+score:2142
+numComments:290
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT for you students out there studying content heavy subjects. Instead of blindly reading and memorising, explain the concept out loud to an imaginary audience. This helps you understand the concept better while also testing yourself.
+
+content:
+For bonus memory, wait a short while (5-10mins) before reading to check if you were correct. Some studies have showed that testing yourself with delayed feedback leads to better memory than immediate feedback 
+
+url:https://reddit.com/r/LifeProTips/comments/a2ykdw/
+author:mavyapsy
+subreddit:LifeProTips
+score:22589
+numComments:408
+isOver18:False
+hasPostBody:True

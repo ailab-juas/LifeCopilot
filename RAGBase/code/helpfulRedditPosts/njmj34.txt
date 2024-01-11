@@ -1,0 +1,17 @@
+title:
+LPT: For those who don't know how to respond when receiving a compliment: the simplest response is to say thank you, followed by an interesting fact on the subject or your feelings on the matter.
+
+content:
+For example: if someone says they like your shirt
+
+"Thank you! I found it at a thrift store for $5." Or "Thank you, it always makes me feel pretty/confident/handsome!"
+
+You can even say thank you and return a compliment in kind if you're up for it. Everyone needs a compliment every now and then.
+
+url:https://reddit.com/r/LifeProTips/comments/njmj34/
+author:BucketSauce
+subreddit:LifeProTips
+score:1613
+numComments:117
+isOver18:False
+hasPostBody:True

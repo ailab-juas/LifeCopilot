@@ -1,0 +1,13 @@
+title:
+YSK in the United States, you can put a lost ID in any mailbox and the postal service will deliver it to the mailing address on the card
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/2qmsqf/
+author:The51stState
+subreddit:YouShouldKnow
+score:4235
+numComments:343
+isOver18:False
+hasPostBody:False

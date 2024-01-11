@@ -1,0 +1,17 @@
+title:
+YSK that DEFCON 1 is the highest danger and 5 is the lowest
+
+content:
+I have seen people sometimes say things like, "Things went up to DEFCON 5", when in fact DEFCON 5 is the lowest, safest level. (DEFCON stands for Defense Condition).
+
+DEFCON 1, in defense terms, means Nuclear war is happening or imminent. This has never happened. The highest we've ever been at is DEFCON 2, during the Cuban Missile Crisis. Post 9/11 was DEFCON 3. And so forth down to 5, which is normal peacetime defense readiness.
+
+So even if you're just using it as a figure of speech, know that it goes from 5 up to 1, not the other way around.
+
+url:https://reddit.com/r/YouShouldKnow/comments/e6psip/
+author:solojones1138
+subreddit:YouShouldKnow
+score:7781
+numComments:276
+isOver18:False
+hasPostBody:True

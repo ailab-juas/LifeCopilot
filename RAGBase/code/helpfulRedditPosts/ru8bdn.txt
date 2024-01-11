@@ -1,0 +1,15 @@
+title:
+YSK A Hotel’s free-cancellation policy has nothing to do with a possible refund, and you should always familiarize yourself with their refund policy when traveling. Just in case.
+
+content:
+Why YSK: If you’re not used to traveling, you may not know that the term “free-cancellation” just means you won’t be charged a fee to cancel your booking. It doesn’t mean you’ll be refunded if your paid for your room in advanced. In fact, most hotels have a strict refund policy you should be aware of when booking. Otherwise you may be blindsided by the lack of a refund, and cause an unwanted impact on your budget.
+
+It should also be noted that some hotels will provide a “booking insurance” of sorts. Where, for a small fee, they will guarantee a refund should you not be able to make it. But always read the fine print! Missing a booking can be devastating to your travel budget.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ru8bdn/
+author:[deleted]
+subreddit:YouShouldKnow
+score:5679
+numComments:126
+isOver18:False
+hasPostBody:True

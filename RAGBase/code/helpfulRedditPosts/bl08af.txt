@@ -1,0 +1,15 @@
+title:
+YSK that Cinco de Mayo isn't Mexico's Independence Day, but a commemoration of Mexico's victory of France at the battle of Puebla in 1862.
+
+content:
+Outside of Puebla itself, Cinco de Mayo is really not that much of a big deal. September 16th is Mexico's Independence day and mark the day "El Grito de Dolores" started their Independence war - that day, much like July 4th, is a big deal.
+
+EDIT: In the title I meant "victory *over* France"
+
+url:https://reddit.com/r/YouShouldKnow/comments/bl08af/
+author:ACuriousFrenchie
+subreddit:YouShouldKnow
+score:6449
+numComments:214
+isOver18:False
+hasPostBody:True

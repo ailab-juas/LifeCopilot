@@ -1,0 +1,13 @@
+title:
+LPT: Children won’t say “I’ve lost my sense of smell,” instead they’ll say something like “this taste funny.”
+
+content:
+Most small children who can talk won’t be able to articulate they’ve lost their sense of smell. The loss is usually gradual enough that most adults don’t even notice right away. While not foolproof, to test a kid’s sense of smell give them something to eat they usually really love. They will tell you if it taste funny. This is better than giving them something gross (which they probably will say is gross, even if they can’t smell or taste).
+
+url:https://reddit.com/r/LifeProTips/comments/kgy2a8/
+author:GordonJones2002
+subreddit:LifeProTips
+score:3208
+numComments:106
+isOver18:False
+hasPostBody:True

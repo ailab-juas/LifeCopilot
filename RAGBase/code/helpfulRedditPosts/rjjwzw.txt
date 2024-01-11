@@ -1,0 +1,13 @@
+title:
+LPT: When a Nurse asks you to rate your pain on a scale of 1-10, never say 10+.
+
+content:
+The pain scale isn't necessarily used only to tell us how bad your pain is, it's supposed to be used to tell us whether your pain is getting better or worse. If a patient says their pain is a 7 in triage, and later says it's pushing a 9, that X-Ray or CT scan might get expedited.  But if your constantly barking 10 or 1,000 your comments aren't going to be taken seriously. A (good) nurse knows a 10 when they see it, and if you walked in, you are not in 10/10 pain. That guy from Saving Private Ryan with his legs blown off on Normandy beach screaming for his momma, that dude is in 10/10 pain. Also, Kidney Stones.
+
+url:https://reddit.com/r/LifeProTips/comments/rjjwzw/
+author:Good_Kid_Mad_City
+subreddit:LifeProTips
+score:69651
+numComments:6381
+isOver18:False
+hasPostBody:True

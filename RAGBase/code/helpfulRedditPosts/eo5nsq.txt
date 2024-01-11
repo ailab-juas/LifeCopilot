@@ -1,0 +1,13 @@
+title:
+LPT: If you don't have a good teacher at school, learn what you need to from YouTube. Thousands of teachers producing high quality content that you can rewind and relisten to if you need further understanding.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/eo5nsq/
+author:Tecr
+subreddit:LifeProTips
+score:5817
+numComments:167
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+YSK: Trailer chains need to be crossed when towing
+
+content:
+Trailer chains are designed to be crossed.  If the hitch comes off of the ball while driving the crossed chains create a cradle that holds the tongue of the trailer off of the ground.  Straight chains let the tongue hit the pavement at speed and that is a bad thing.
+
+url:https://reddit.com/r/YouShouldKnow/comments/crc2p4/
+author:popcornfart
+subreddit:YouShouldKnow
+score:5870
+numComments:181
+isOver18:False
+hasPostBody:True

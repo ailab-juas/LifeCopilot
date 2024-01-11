@@ -1,0 +1,13 @@
+title:
+LPT. If you want to endear someone to you quickly, ask them for advice. Doesn't matter what on; just asking for their opinion on anything shows that you respect them and value their input.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5szs88/
+author:Evileeina
+subreddit:LifeProTips
+score:1365
+numComments:59
+isOver18:False
+hasPostBody:False

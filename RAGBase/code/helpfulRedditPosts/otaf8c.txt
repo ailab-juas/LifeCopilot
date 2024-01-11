@@ -1,0 +1,13 @@
+title:
+YSK that Head and Shoulders shampoo clears up adult acne.
+
+content:
+WHY YSK : Anti-dandruff shampoos with pyrithione zinc are very effective against persistent adult acne. [anti dandruff acne remedy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4120804/)
+
+url:https://reddit.com/r/YouShouldKnow/comments/otaf8c/
+author:Heavymuseum22
+subreddit:YouShouldKnow
+score:4941
+numComments:379
+isOver18:False
+hasPostBody:True

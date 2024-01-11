@@ -1,0 +1,17 @@
+title:
+YSK Reddit only allows you to view the last 1000 posts that you've saved.
+
+content:
+I've been using reddit over 7yrs and I only learned this today so I imagine there's many of you out there that also don't know. In that 7yrs I've used the convinient "save" button on thousands and thousands of posts.
+
+In the back of my mind I always assumed I'd export those posts at some point and categorise them. However I learned today that you can only see the last 1000 posts that you've saved - which for me might only be a couple weeks/months worth. Truly devastating.
+
+If anyone knows of a solution I'd be forever in your debt.
+
+url:https://reddit.com/r/YouShouldKnow/comments/90v2bn/
+author:taboo_
+subreddit:YouShouldKnow
+score:2075
+numComments:180
+isOver18:False
+hasPostBody:True

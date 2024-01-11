@@ -1,0 +1,19 @@
+title:
+YSK that Hyundai Customer Service can tell you if your car has an immobilizer.
+
+content:
+Why YSK: Due to this trend going around of Kia’s and Hyundai’s being stolen, there seems to be no articles that specifically help you tell if you have an immobilizer in your car besides the key visual.
+
+But in Hyundai’s case, you can call the customer service at 1-800-633-5151, and provide info like VIN number and all the verifying info they need to see if the car you have has an immobilizer.
+
+I found out my 2013 Elantra actually doesn’t have one, which is outside Hyundai’s claims of only 2015-2019 models being compromised.
+
+Edit: Should clarify what an immobilizer is. It's a part of the car that prevents the engine from starting unless you have the right key. Push to start cars have them, but sometimes cars with ignition keys don't.
+
+url:https://reddit.com/r/YouShouldKnow/comments/zmv6yf/
+author:VaritasAequitas
+subreddit:YouShouldKnow
+score:4847
+numComments:254
+isOver18:False
+hasPostBody:True

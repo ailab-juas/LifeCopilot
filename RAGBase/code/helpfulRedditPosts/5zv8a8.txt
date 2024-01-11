@@ -1,0 +1,15 @@
+title:
+LPT: Tonight if offered a choice between locally-made Guinness and imported-from-Ireland Guinness, drink the locally made stuff.
+
+content:
+Guinness doesn't travel well and the taste changes significantly while in transit from Ireland.
+
+The locally-made version will actually taste more authentic because it is made to the same recipe, but has not had to endure weeks on the high seas.
+
+url:https://reddit.com/r/LifeProTips/comments/5zv8a8/
+author:bitawareaustralia
+subreddit:LifeProTips
+score:2658
+numComments:396
+isOver18:False
+hasPostBody:True

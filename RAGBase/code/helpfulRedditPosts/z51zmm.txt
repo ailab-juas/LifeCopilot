@@ -1,0 +1,29 @@
+title:
+YSK there is a great website tool that helps you calculate the cost of fuel for any trip using your chosen vehicle
+
+content:
+The website is: https://fueleconomy.gov/trip/#
+
+Why YSK: especially if you're carpooling and want to fairly split the cost without asking for some arbitrary number, this is the tool for you. I'm currently using it to calculate the cost of a carpool to a concert and it's been an indespensable tool. Now I feel more confident in ballparking a contribution request. Also works for determining how much gas you spend driving to/for work for taxes, budgeting, etc. Or maybe you want to buy a new vehicle and want to know how much in fuel youll be spending vs your current car?
+
+I wish I had found this sooner. It also automatically sets your combined mpg relative to the vehicle you pick out. 
+
+Protip: when you add your vehicle, go back and click on the pencil and edit the cost of gas, because it is set automatically to $3.80, which may not be accurate for your area! 
+
+Happy driving!
+
+**Edit**: though this isn't an exact calculator of course, it definitely helps to ballpark. I figured this would go without saying but it seems I have to put the disclaimer out there lol.
+
+What's also great is it seems to calculate the percentage of city driving stop-and-go you'll be doing on your whole trip, which then gets factored in to the fuel calculation, which I thought was neat. A rough estimate of this percentage seems to be helpful enough though I agree, it should be automatically determined based on the trip you're taking (I overestimate it a bit just so I stay on the safe side).
+
+Again, having a couple bucks added to the total cost should be a good move as again, this is probably best taken as a ballpark for fuel cost, not wear and tear. If you know your combined mpg now as it has changed, the option to change it is there too :)
+
+I'm getting mixed comments saying also their vehicle isn't available but it doesn't seem to wholly be a US specific thing as it seems to work for someone in Australia for instance. I apologize if you can't find your vehicle in any case :/
+
+url:https://reddit.com/r/YouShouldKnow/comments/z51zmm/
+author:ramenmangaka
+subreddit:YouShouldKnow
+score:6727
+numComments:174
+isOver18:False
+hasPostBody:True

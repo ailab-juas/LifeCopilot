@@ -1,0 +1,13 @@
+title:
+LPT: if you don’t care about football, go see a movie during the super bowl, there will be no lines and you might have the whole theater to yourself.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/9oo5kf/
+author:jeremiah_f14
+subreddit:LifeProTips
+score:25229
+numComments:903
+isOver18:False
+hasPostBody:False

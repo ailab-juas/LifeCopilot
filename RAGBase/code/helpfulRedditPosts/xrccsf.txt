@@ -1,0 +1,15 @@
+title:
+YSK: Not to go into the attic of a flooding house
+
+content:
+WHY YSK: It may get to a point where you need to access higher ground and cannot. 
+
+I saw a post of someone doing this, so I figured with everything going on with hurricane Ian this would be a good time to let people know if they didn’t already. Do not go in the attic of a flooding house, and if you must, bring a ladder and an axe in case you need to go higher. If the water rises too much, you will be unable to get out and you will drown. Sit on the roof.
+
+url:https://reddit.com/r/YouShouldKnow/comments/xrccsf/
+author:No_Cryptographer5870
+subreddit:YouShouldKnow
+score:19777
+numComments:1213
+isOver18:False
+hasPostBody:True

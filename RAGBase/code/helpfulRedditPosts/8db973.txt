@@ -1,0 +1,19 @@
+title:
+LPT: When it is unclear whether you should use"who" or "whom" in a question, pay attention to the potential answer. If "he" sounds right in the answer then "who" is usually correct. If "him" sounds right in the answer then "whom" is usually correct.
+
+content:
+Examples: 
+"Whom is our leader?"  --&gt;  "Him is our leader"  :/
+"Who is our leader?"  --&gt;  "He is our leader"   :)
+"Who should we follow?"  --&gt;  "We should follow he"  :/
+"Whom should we follow?"  --&gt;  "We should follow him"  :)
+
+Edit: also works with who/they and whom/them. "Who is next? They are next." "Whom do we admire? Hmm, definitely not them" 
+
+url:https://reddit.com/r/LifeProTips/comments/8db973/
+author:SDP_Love
+subreddit:LifeProTips
+score:38286
+numComments:1523
+isOver18:False
+hasPostBody:True

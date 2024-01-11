@@ -1,0 +1,13 @@
+title:
+YSK that many phones, including iPhones, save GPS data to picture files by default. So if you take a picture at your home and send it to someone, you are potentially giving them your exact address without even knowing it.
+
+content:
+Although I'm sure a good portion of people on reddit know this, I know there are many people who don't and it's a pretty big security risk that I think should be made more aware to the average person. Many people may also think that the location data they see when looking through their phone pics is stored on their phone separately from the images themselves, but in reality it's stored in the actual image files as Exif metadata. Many phones have the option to turn off this feature, but keep in mind the photos you've taken before shutting it off still have the GPS data in them. There are also apps you can download to view and strip this data from individual photos.
+
+url:https://reddit.com/r/YouShouldKnow/comments/795lc7/
+author:SnailHunter
+subreddit:YouShouldKnow
+score:6125
+numComments:237
+isOver18:False
+hasPostBody:True

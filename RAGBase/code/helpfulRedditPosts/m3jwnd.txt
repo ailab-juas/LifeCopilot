@@ -1,0 +1,13 @@
+title:
+LPT: when an app asks you to rate them, click the rate now app, and go leave the app store. They will stop asking because it believes you rated when you left the app to go to the app store.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/m3jwnd/
+author:screw_all_the_names
+subreddit:LifeProTips
+score:16207
+numComments:342
+isOver18:False
+hasPostBody:False

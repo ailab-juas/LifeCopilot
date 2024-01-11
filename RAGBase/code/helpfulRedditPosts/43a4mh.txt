@@ -1,0 +1,15 @@
+title:
+YSK One bad apple actually ruins the whole bunch
+
+content:
+[Apple emit a gas that causes other fruits around them to ripen. The riper the apple, the more gas released. A single over-ripe apple can cause a chain reaction of over-ripening thus spoiling the whole bunch.](http://mentalfloss.com/article/31666/does-one-bad-apple-really-spoil-whole-bunch)
+
+So pick out those bad apples from your bunches! Especially if you are cellaring them for the winter in your cold, snow covered home state.
+
+url:https://reddit.com/r/YouShouldKnow/comments/43a4mh/
+author:gradi3nt
+subreddit:YouShouldKnow
+score:1884
+numComments:110
+isOver18:False
+hasPostBody:True

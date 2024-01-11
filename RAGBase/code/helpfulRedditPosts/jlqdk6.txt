@@ -1,0 +1,13 @@
+title:
+LPT: If you are in your 20s, study Personal Finance like your life depended on it (Investing, 401 (k), Roth IRA (RRSP and TFSA in Canada), credit score, credit and debit cards, debts, loans, bankruptcy, etc.) It's a travesty that it's not mandatory learning in school.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/jlqdk6/
+author:CircleBox2
+subreddit:LifeProTips
+score:61980
+numComments:1982
+isOver18:False
+hasPostBody:False

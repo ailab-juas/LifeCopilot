@@ -1,0 +1,15 @@
+title:
+LPT : 10 minutes of exercise is better than no exercise
+
+content:
+I've always made excuses like "I don't have time" for not exercising but over the last year's I've made small changes.
+
+A 10 minute walk to pick up my favourite take away is better than a 2 minute car ride.
+
+url:https://reddit.com/r/LifeProTips/comments/7aynu0/
+author:DamnYouRohan
+subreddit:LifeProTips
+score:2058
+numComments:218
+isOver18:False
+hasPostBody:True

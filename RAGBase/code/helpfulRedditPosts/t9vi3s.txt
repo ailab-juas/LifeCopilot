@@ -1,0 +1,13 @@
+title:
+LPT: If you’re out hiking alone bring water. If your water reaches 50% during the hike it’s time to turn around.
+
+content:
+LPT: Anything can happen along the hike and getting lost is easier than it seems. You don’t want to be dehydrated in any tough situation. Stay safe and prepared.
+
+url:https://reddit.com/r/LifeProTips/comments/t9vi3s/
+author:WakandaBrother
+subreddit:LifeProTips
+score:1827
+numComments:100
+isOver18:False
+hasPostBody:True

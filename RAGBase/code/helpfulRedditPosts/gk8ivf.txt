@@ -1,0 +1,18 @@
+title:
+LPT: If you are ever digging in your garden or yard and you suddenly hit sand, there is a high chance that there is a cable buried underneath.
+
+content:
+Sand is like a universal «Be careful, there is something underneath.» warning message, so if you suddenly stumble upon sand while digging in your garden/yard, you should proceed with extreme caution.
+
+Edit:  
+It seems like people are misunderstanding what I am saying. I am not saying that if there is a cable under the ground it will be covered in sand. I am saying that if you hit sand whilst digging (and it's out of place) then there is likely something underneath it.
+
+You should **always** check for cables *before* digging.
+
+url:https://reddit.com/r/LifeProTips/comments/gk8ivf/
+author:Tommy_vr
+subreddit:LifeProTips
+score:44995
+numComments:815
+isOver18:False
+hasPostBody:True

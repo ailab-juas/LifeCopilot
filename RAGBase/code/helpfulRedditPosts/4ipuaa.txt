@@ -1,0 +1,13 @@
+title:
+YSK: recalls of frozen vegetables at Costco, and Kroger-affiliated stores
+
+content:
+I recently received notifications that frozen vegetables sold at Costco (CRF and Watts Bros brands) and Kroger brand frozen vegetables are being recalled due to listeria contamination.  Listeria is nothing to screw around with.  If you have these frozen vegetables, return them!
+
+url:https://reddit.com/r/YouShouldKnow/comments/4ipuaa/
+author:tgeliot
+subreddit:YouShouldKnow
+score:1706
+numComments:144
+isOver18:False
+hasPostBody:True

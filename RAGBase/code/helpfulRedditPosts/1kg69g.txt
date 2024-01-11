@@ -1,0 +1,14 @@
+title:
+YSK that the ISS is visible from earth, and this site tells you when you can see it in your area
+
+content:
+[Find your location here](http://spotthestation.nasa.gov/)
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/1kg69g/
+author:micromoth
+subreddit:YouShouldKnow
+score:1448
+numComments:138
+isOver18:False
+hasPostBody:True

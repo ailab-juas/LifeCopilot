@@ -1,0 +1,21 @@
+title:
+YSK You can put the entirety of Wikipedia on your Android device for offline use.
+
+content:
+[Kiwix.org/m](http://kiwix.org/m) Requires 12GB free space
+
+It works great on my wifi-only Android. It's good for reading and looking things up when you don't have a connection. 
+
+The SD card needs to be formatted as NTFS to accept the whole file. Mine was FAT32 so I had to split them up. The [FAQ](http://kiwix.org/wiki/FAQ) shows you how. I downloaded the big file to my PC and split it *there before* transferring it to my Android.
+
+If you go that route there's a little bit of difficulty involved but I'm happy to answer any questions in the comments.
+
+EDIT: A few people asked about syncing/updating and unfortunately you can only re-download the file.
+
+url:https://reddit.com/r/YouShouldKnow/comments/20kakn/
+author:ishantbeashamed
+subreddit:YouShouldKnow
+score:1550
+numComments:205
+isOver18:False
+hasPostBody:True

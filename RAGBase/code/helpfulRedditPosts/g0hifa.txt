@@ -1,0 +1,38 @@
+title:
+YSK: person X and I isn't always correct. Removing person X or yourself from the sentences makes it much easier to determine, me vs I, she vs her, etc. Many examples inside.
+
+content:
+As some who reads a lot of student papers for my job this is a fairly difficult concept.  My English is not very good, but this one concept was difficult for me, and not a lot of people know this secret.
+
+
+My father and me / I went to the store.
+
+Remove father from the sentence. 
+
+
+Me went to the store?! No, I went to the store.
+
+
+
+My mother bought a wonderfult gift for my brother and I / me.
+
+My mother bought a gift for I?! No, my mother bought a gift for me. 
+
+
+She and me went to the store? Her and I went to the store?
+
+Remove both! 
+
+Her went to the store? No, she went to the store.  Me went to the store? No, I went to the store.
+
+So 
+
+She and I went to the store.
+
+url:https://reddit.com/r/YouShouldKnow/comments/g0hifa/
+author:CommaHoarder
+subreddit:YouShouldKnow
+score:15004
+numComments:382
+isOver18:False
+hasPostBody:True

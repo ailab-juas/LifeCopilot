@@ -1,0 +1,13 @@
+title:
+LPT/PSA if you are in an area that is going to be affected by the blizzard on the east coast this weekend, and you have outdoor vents that let carbon monoxide out of the house, make sure to clear them of snow once it starts piling up!!
+
+content:
+I know this is common sense to most people, but during a recent storm here in my area, a couple people died because of this. I had to wake up at 3am myself one night to clear my own vents because the snow drifted right over them.
+
+url:https://reddit.com/r/LifeProTips/comments/2tqlj4/
+author:stepupyogamesun
+subreddit:LifeProTips
+score:4114
+numComments:529
+isOver18:False
+hasPostBody:True

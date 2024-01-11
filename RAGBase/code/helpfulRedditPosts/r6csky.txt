@@ -1,0 +1,13 @@
+title:
+LPT: Don't get angry at people for making mistakes. This doesn't teach this to not make mistakes, it only teaches them to hide their mistakes.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/r6csky/
+author:7Genius
+subreddit:LifeProTips
+score:2004
+numComments:54
+isOver18:False
+hasPostBody:False

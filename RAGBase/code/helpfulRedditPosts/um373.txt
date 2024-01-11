@@ -1,0 +1,27 @@
+title:
+LPT: All the Windows 7 tools you'll ever need, in one place. Great for those who are always called upon to "fix my computer for me."
+
+content:
+EDIT: WARNING!!! THIS IS WINDOWS 7 ONLY -- DO NOT use it for Vista or XP.
+
+Some machines seem to have a problem if you create this on the desktop, so you should probably put it somewhere else that is handy, such as a folder or a USB drive.
+
+You can put this folder on a USB drive so you have it wherever you go. It puts every tool that Windows 7 has in one place, so you can just change settings and fix stuff with ease. And it takes up basically no space.
+
+1) Create a new empty folder wherever you want (probably not on the desktop...see caution above)(e.g. nested inside another folder or on a USB drive)
+
+2) Name the folder whatever you want, but ADD a dot (period) and THIS sequence as the last part of the folder name:
+
+{ED7BA470-8E54-465E-825C-99712043E01C}
+
+That's it. Open that "folder" and you'll find everything you need right there.  I call my folder: "Windows 7 Tools.{ED7BA470-8E54-465E-825C-99712043E01C}"
+
+
+
+url:https://reddit.com/r/LifeProTips/comments/um373/
+author:GSnow
+subreddit:LifeProTips
+score:1246
+numComments:262
+isOver18:False
+hasPostBody:True

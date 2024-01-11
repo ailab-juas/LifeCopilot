@@ -1,0 +1,13 @@
+title:
+LPT: Make a list of all the bills on autopay, so that none become overdue if your card number changes
+
+content:
+If your card on file expires/is stolen, and you don't remember to update it with every company who regularly bills it, you can end up paying late fees or losing service
+
+url:https://reddit.com/r/LifeProTips/comments/34y3xx/
+author:PM_Me_TittiesOrBeer
+subreddit:LifeProTips
+score:2673
+numComments:388
+isOver18:False
+hasPostBody:True

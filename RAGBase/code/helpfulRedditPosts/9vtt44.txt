@@ -1,0 +1,13 @@
+title:
+LPT: With California Fires spreading, take a video/photos of your home. This will help with any insurance claims you may have.
+
+content:
+With California fires spreading, if you have time, take a video/photos of your possession. This will make any insurance claims much easier to process. 
+
+url:https://reddit.com/r/LifeProTips/comments/9vtt44/
+author:epicstruggle
+subreddit:LifeProTips
+score:17176
+numComments:356
+isOver18:False
+hasPostBody:True

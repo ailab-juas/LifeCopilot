@@ -1,0 +1,13 @@
+title:
+LPT: If you have a busy day and need to make a “To-Do List”, write it in your notes on your phone and take a screen shot of it and make it your background of your phone. That way you see it every time you look at your phone, and you lessen the chance of losing your list.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/dqzwf2/
+author:RaymondGrizzly
+subreddit:LifeProTips
+score:1980
+numComments:62
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: If your milk smells sour, pour a little into a cup/glass and smell it again, often it is the residue in the neck/opening that is sour and not the milk inside.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/66o5zm/
+author:JSHU16
+subreddit:LifeProTips
+score:18323
+numComments:1137
+isOver18:False
+hasPostBody:False

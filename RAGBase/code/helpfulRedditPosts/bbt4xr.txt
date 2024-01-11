@@ -1,0 +1,23 @@
+title:
+YSK: To reduce toner usage, print only after the last page is spooled.
+
+content:
+I don't recall my Brother printer's website or manuals apprising me of this life tip?
+
+https://www.cartridgeworld.com/how-to-reduce-toner-usage-with-your-laser-printer/
+
+&gt;###Reduce Stop/Start Cycles
+
+&gt;In addition to waiting to change your toner cartridge, you can also avoid using stop/start cycles to further reduce your usage. During the stop/start cycle, toner will accumulate on the drum even if you are not printing anything. This is a wasteful practice that many people do not even realize their printers are doing. To avoid this, go into your “Printer Properties” tab on your computer and adjust the settings so that your pages will only start printing after the last page is spooled. This will reduce the number of times your printer will stop and start up again, saving you a lot of toner.
+
+https://www.islandoffice.ca/blog/2015/12/03/tips-reduce-toner-usage
+
+&gt;To reduce stop/start cycles use the Printer Properties | Advanced tab and tell the computer to start printing after the last page is spooled.  Typically this setting is set to start printing immediately to improve user experience and reduce the perceived wait.  When you change this setting, your document will start printing when the computer is done generating the entire document, so there will be an initial delay between the time you start your print job and the time the print job starts printing on the printer.
+
+url:https://reddit.com/r/YouShouldKnow/comments/bbt4xr/
+author:vice_immanent
+subreddit:YouShouldKnow
+score:2022
+numComments:95
+isOver18:False
+hasPostBody:True

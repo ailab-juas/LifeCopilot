@@ -1,0 +1,13 @@
+title:
+LPT: If you’re looking at a new apartment or home, turn off your phone’s WiFi and test the signal and cellular service in all rooms.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/fo5xx1/
+author:Passiveaggresiverock
+subreddit:LifeProTips
+score:1623
+numComments:118
+isOver18:False
+hasPostBody:False

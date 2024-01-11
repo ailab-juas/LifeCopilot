@@ -1,0 +1,13 @@
+title:
+LPT: To suppress laughter at inappropriate times, Exhale as much of the air as possible from your lungs and stay so for a few seconds.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/vssme/
+author:whisker17
+subreddit:LifeProTips
+score:1618
+numComments:255
+isOver18:False
+hasPostBody:False

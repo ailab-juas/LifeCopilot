@@ -1,0 +1,17 @@
+title:
+YSK: sudden, sharp pain in your testicles (sometimes paired with abdominal pain, dizziness, or fever) requires immediate medical attention
+
+content:
+**Why YSK:** Most people with testicles ignore this extreme pain and think it will go away, but spermatic chords can twist even if you’re just sitting in your car. This is called testicular torsion, it happens to about one in 4,000 people with testicles under the age of 25 and once it happens, you have [roughly six hours to get it fixed before the testicle dies and needs to be removed](https://my.clevelandclinic.org/health/diseases/15382-testicular-torsion). It is worth it go to urgent care and get an ultrasound before that happens.
+
+**Edit:** To the folks saying it’d be “impossible” to ignore this pain, [read this. ](https://melmagazine.com/en-us/story/what-testicular-torsion-feels-like). People who’ve lost one or both testicles from torsion would beg to differ. 
+
+Also, [ovarian torsion](https://en.m.wikipedia.org/wiki/Ovarian_torsion) exists too so be familiar w/ the symptoms and don’t ignore the pain!
+
+url:https://reddit.com/r/YouShouldKnow/comments/vaw5pf/
+author:Drive_Academic
+subreddit:YouShouldKnow
+score:2097
+numComments:163
+isOver18:False
+hasPostBody:True

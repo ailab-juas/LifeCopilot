@@ -1,0 +1,26 @@
+title:
+YSK debt collectors can't call reassigned numbers under fcc 15-72. This includes texts.
+
+content:
+http://mobile.nelsonmullins.com/newsletters/fcc-issues
+
+
+So basically if you are getting annoying collections calls for someone that isn't you, the collection agency is in violation of this rule.
+
+
+They have the leeway of being asked to remove the number once. If they don't remove the number after being asked every call after is a violation. If you record the calls you could lead to the company facing huge fines via a forfeiture order. 
+
+
+Here is an example of this.
+http://www.ballardspahr.com/alertspublications/legalalerts/2015-08-14-fcc-fines-companies-2-96-million-for-tcpa-robocall-violations-new-interpretations.aspx
+
+
+Edit: read /u/glaplaw comment for more/better info
+
+url:https://reddit.com/r/YouShouldKnow/comments/413jp2/
+author:felix45
+subreddit:YouShouldKnow
+score:1706
+numComments:129
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: If your cat loves to sit on/in front of your computer, flip the top of a board game box upside down and set it off to the side. Boxes are like magnets for cats.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/vowgx/
+author:rimcrimp
+subreddit:LifeProTips
+score:2314
+numComments:346
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,23 @@
+title:
+LPT: If you find yourself in the ER (US) you can negotiate your bill. Never pay the full bill.
+
+content:
+I’m on a trip with three doctors right now and they’re ranting about US ER procedures and prices. Apparently, ERs rarely receive payment. This means that you can call the hospital when you receive the bill and negotiate it down to a much lower price. For instance, my gf negotiated her ex’s bill from the ER from $10,000 to $4,000 by guaranteeing payment immediately.
+
+Other tips i’ve picked up from my gf’s parents:
+
+
+-never order tylenol, advil, anything a family member can bring you.
+
+
+-if you’re insured **do not sign the form that says you agree to pay what your insurance does not. the er can not turn you away.**
+
+**UPDATE** Let me be *very* clear: I’m not suggesting taking the medications without medical recommendation and clearance. I’m suggesting that you do not take the medication from the ER because the prices are inflated. Instead, have a family member bring you the medication.
+
+url:https://reddit.com/r/LifeProTips/comments/idekil/
+author:pineapples4lyfe
+subreddit:LifeProTips
+score:61116
+numComments:4849
+isOver18:False
+hasPostBody:True

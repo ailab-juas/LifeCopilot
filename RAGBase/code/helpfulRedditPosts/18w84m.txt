@@ -1,0 +1,13 @@
+title:
+LPT: If you're traveling in a foreign country and have no local language skills, make sure to take pictures of your hotel's name and its google map location to show cab drivers
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/18w84m/
+author:cadilag
+subreddit:LifeProTips
+score:2262
+numComments:228
+isOver18:False
+hasPostBody:False

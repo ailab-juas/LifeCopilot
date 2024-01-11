@@ -1,0 +1,18 @@
+title:
+YSK that under the Affordable Care Act (Obamacare) 30 hours per week is considered full time.
+
+content:
+There is a common misconception that is echoed by the media and politicians that if you drop your employees to 30 hours per week, they are no longer eligible for health benefits. They would be wrong. 
+
+
+Source: [§ 4980H\(4\)(A)](https://www.law.cornell.edu/uscode/text/26/4980H)
+
+&gt; The term “full-time employee” means, with respect to any month, an employee who is employed on average at least 30 hours of service per week.
+
+url:https://reddit.com/r/YouShouldKnow/comments/3v09ht/
+author:xolieo
+subreddit:YouShouldKnow
+score:3264
+numComments:660
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,17 @@
+title:
+YSK: Migraines can cause stroke-like symptoms such as paralysis of the left side of the body, slurred speech and troubling knowing where you are.
+
+content:
+My girlfriend has migraines and was admitted to the ER because we thought she was having a stroke. The neurologist informed us that migraines can cause those symptoms in patients and the best way to prevent that is to take prescribed migraine medicine *at the start of migraines, not during one*.
+
+https://www.migrainetrust.org/about-migraine/types-of-migraine/hemiplegic-migraine/
+
+Edit: that said, **ALWAYS GO TO THE ER IF YOU PRESENT ANY OF THESE SYMPTOMS AS IT CAN BE LIFE-THREATENING**
+
+url:https://reddit.com/r/YouShouldKnow/comments/8082lb/
+author:smasters908
+subreddit:YouShouldKnow
+score:9119
+numComments:586
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Use half of a pistachio shell to pry apart hard to open ones
+
+content:
+The shell is hard enough to force apart an unopened pistachio but also pointed at the tip so it fits into shells with small openings you can't get your fingers into.
+
+url:https://reddit.com/r/LifeProTips/comments/37gww3/
+author:ArcadeMan
+subreddit:LifeProTips
+score:1443
+numComments:144
+isOver18:False
+hasPostBody:True

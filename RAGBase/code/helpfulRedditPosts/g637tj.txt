@@ -1,0 +1,13 @@
+title:
+LPT: If you like to make bets, make $5 bets with yourself. If you lose, put the $5 in a savings account. It's an easy and fun way to build up savings if you're not good with saving.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/g637tj/
+author:bunkerguy
+subreddit:LifeProTips
+score:1023
+numComments:60
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,37 @@
+title:
+YSK Reminder: Always finish your ENTIRE course of antibiotics or risk even worse health dangers
+
+content:
+I was reminded again about this due to a recent influx of strep in my area. A friend of mine phoned me and mentioned she had just started antibiotics a few days ago for *S. pneumo*, but was "probably going to stop tomorrow because [she] felt a lot better." Cue 10 minutes of me explaining how antibiotics are NOT cough drops, and that she would finish all of the pills if I had to come over and shove them down her throat myself.
+
+PLEASE remember that if you have a confirmed bacterial infection and are given antibiotics, **complete the course of treatment even if if you don't feel sick anymore!** If you don't, it can lead to:
+
+1. **residual bacteria** - just because your symptoms start to go away doesn't mean all of the bacteria have been killed. In serious cases, the infection can reoccur or travel to different parts of the body. 
+2. **resistance** - when you don't kill everything off, it induces drug-resistant strains which continue to cause huge problems for the world (see EDIT)
+3. **secondary immune reactions** - in certain infections, the immune system may launch another assault on the remaining few shreds of bacteria, causing inflammation, fever, and possibly making you even sicker after your supposed recovery
+
+Also, if you haven't followed this advice in the past and have stockpiled antibiotics for that "rainy day" when you have a cold - **THROW THEM AWAY** (see EDIT). Chances are good that you'll try taking them when you have a virus, which is both useless and again contributes to antibiotic resistance. 
+
+Being in the health field, I often forget that this isn't common sense, but clearly thought it warranted another PSA as cold/flu season continues. Don't forget, Reddit!
+
+**GIANT EDIT**: I'm torn between being glad that this was newly brought to the attention for some people and disappointment that our health industry's education efforts still aren't fully effective/the general public's insistence on noncompliance. In any case, a couple of points for elaboration:
+
+* **re: antibiotic resistance** - as /u/civilizedanimal and others have said, **not finishing your meds does not CREATE resistance**. I was trying to condense the explanation because the post was already getting too long, but may have been misleading. Resistance is a spectrum, not an "on vs. off" scenario. When you have an infection, the bacteria have a wide range of susceptibility to any particular drug. The first few doses usually kill off the majority of the bacteria because these are the least resistant - however, what's left are the strains with the strongest resistance. Even though you might start feeling better, by stopping treatment you're allowing these heartier bacteria to survive inside of you and increases chances of transmission to others. This increases the numbers of these tough guys in the population, eventually leading to the development of a situation where previously effective abx are rendered ineffective against supposedly docile bacterial strains (MRSA, VRSA, VRE, etc.) Natural selection at its best (see [this comment thread](http://www.reddit.com/r/YouShouldKnow/comments/202eon/ysk_reminder_always_finish_your_entire_course_of/cfz84h5) for more).
+* on a **population level**, massive abx use in livestock feed and rampant improper distribution in developing countries is contributing more to global-scale pervasive resistance than individual-level misuse (see /u/WhiteZoneShitAgain's [comment](http://www.reddit.com/r/YouShouldKnow/comments/202eon/ysk_reminder_always_finish_your_entire_course_of/cfzb1sa). However, as an individual, completion of treatment is still always the best bet for preventing further health concerns in yourself and adding to the growing burden of resistance.
+* **drug disposal methods** if you have leftover abx (which you shouldn't if you've been using them properly!) - many countries have programs to return unused medication to pharmacies. If you don't, you can still relatively safely get rid of small amounts of abx by mixing them with coffee grounds/kitty litter and throwing them away in a tied bag. **Consult a pharmacy/GP for disposal of non-abx, especially more toxic ones like cancer treatments.** (see: [FDA Drug Disposal guidelines (US)](http://www.fda.gov/forconsumers/consumerupdates/ucm101653.htm), [NHS feature (UK](http://www.nhslocal.nhs.uk/story/features/storing-and-disposing-medicines-safely)). Also be careful about donating to NPOs for use in underdeveloped areas or developing countries - most don't distribute them correctly. Your best bet is to ask your doctor, sometimes they can use them if participating in Doctors without Borders or other legitimate organizations. 
+
+Using this info, when you start feeling sick, please **don't go to the doctor and demand abx/medication**. Most of the time you may just have a virus or a easy self-clearing bug against which abx will be ineffective or overkill. Too many doctors are pressured into overprescribing when patients demand treatment because they think the doctor is withholding treatment or they think taking a pill is a panacea. Don't get me wrong, there is also physician error in giving abx without proper bacterial confirmation and such, but we walk a fine line between overbearing patients and underperforming doctors. (see /u/Futchkuk's [comment thread](http://www.reddit.com/r/YouShouldKnow/comments/202eon/ysk_reminder_always_finish_your_entire_course_of/cfz5izq)). **Ask the right questions and get the correct information - do the best YOU can to prevent these problems.**
+
+Thanks to those already mentioned and others for contributing to the conversation - once again, when in doubt **ask your doctor.** References:
+
+* [CDC Get Smart campaign resources] (http://www.cdc.gov/getsmart/resources/references.html)
+* [CDC Abx resistance, 2013 Threat Report] (http://www.cdc.gov/drugresistance/)
+* [Royal Pharmaceutical Society medicine optimization] (http://www.rpharms.com/what-we-re-working-on/medicines-optimisation.asp)
+
+url:https://reddit.com/r/YouShouldKnow/comments/202eon/
+author:craftservices
+subreddit:YouShouldKnow
+score:2668
+numComments:270
+isOver18:False
+hasPostBody:True

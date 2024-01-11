@@ -1,0 +1,18 @@
+title:
+YSK in English, you can read an ELI5 version of almost any Wikipedia article by changing "en" to "simple" in the URL
+
+content:
+Example:
+
+
+[http://**en**.wikipedia.org/wiki/Quantum_mechanics](http://en.wikipedia.org/wiki/Quantum_mechanics)
+
+[http://**simple**.wikipedia.org/wiki/Quantum_mechanics](http://simple.wikipedia.org/wiki/Quantum_mechanics)
+
+url:https://reddit.com/r/YouShouldKnow/comments/344v0h/
+author:solarbabies
+subreddit:YouShouldKnow
+score:2209
+numComments:102
+isOver18:False
+hasPostBody:True

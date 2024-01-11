@@ -1,0 +1,13 @@
+title:
+YSK Healthiest Sleeping Positions
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/15z65n/
+author:jedispyder
+subreddit:YouShouldKnow
+score:1148
+numComments:257
+isOver18:False
+hasPostBody:False

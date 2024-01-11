@@ -1,0 +1,13 @@
+title:
+YSK: Phone scammers are calling people asking for bank info to deposit stimulus checks. Never supply your info.
+
+content:
+They are targeting the elderly.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ftfqb6/
+author:GraceHarperMoth
+subreddit:YouShouldKnow
+score:10371
+numComments:165
+isOver18:False
+hasPostBody:True

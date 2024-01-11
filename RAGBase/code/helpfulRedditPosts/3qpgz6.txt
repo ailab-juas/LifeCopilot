@@ -1,0 +1,13 @@
+title:
+LPT: When having someone follow you in their car, let them lane change after you start signaling. That way, they can let you in and you don’t risk getting separated.
+
+content:
+Had to follow someone for about thirty minutes yesterday during rush hour. It was easy to follow him because when we needed to change lanes on the highway, he would signal, then I would change lanes, and then I would let him get in front of me.
+
+url:https://reddit.com/r/LifeProTips/comments/3qpgz6/
+author:slooots
+subreddit:LifeProTips
+score:4398
+numComments:635
+isOver18:False
+hasPostBody:True

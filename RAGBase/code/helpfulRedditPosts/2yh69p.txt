@@ -1,0 +1,13 @@
+title:
+LPT: If you need to figure out the first name of someone when you should clearly already know it, ask them what their full name is.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/2yh69p/
+author:TaylorGang19
+subreddit:LifeProTips
+score:1949
+numComments:512
+isOver18:False
+hasPostBody:False

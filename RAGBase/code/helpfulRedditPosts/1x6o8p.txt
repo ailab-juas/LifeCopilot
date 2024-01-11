@@ -1,0 +1,13 @@
+title:
+LPT: If you're having customer service issues with a company, try tweeting at them. The response time is usually fast and they generally point you in the right direction
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1x6o8p/
+author:parmsisreal
+subreddit:LifeProTips
+score:2351
+numComments:619
+isOver18:False
+hasPostBody:False

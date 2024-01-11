@@ -1,0 +1,27 @@
+title:
+YSK that you should never ever wash raw meat
+
+content:
+I'm a professional chef and have done multiple courses on food hygiene and safety and one of the first things you learn is that you should never way raw meat. It goes for red meat, poultry, fish; all the meats.
+
+Raw meat is highly likely to contain pathogens (harmful microbes such as bacteria and viruses). They generally need the same things to survive as we do: food, water and oxygen. Adding water to raw meat by washing can help bacteria multiply faster. Particular when raw meat is left in the sink or bowl full of water (this is very bad to do).
+
+Additionally, washing raw meat under a running sink will cause water to splash all over the room. Even if it's a gentle running water stream, it WILL splash all over, possibly bouncing these microbes all over the room. On your phone, your couch, your cup of coffee etc.
+
+There is no point in washing raw meat when you're just going to cook it. High temperature is the most effective microbe killer.
+
+As a friendly bonus reminder, sanitiser, antibacterial spray/cleaner/soap will only kill bacteria. Viruses or fungi/mould will not be harmed by these. But high temperature from cooking will kill all of them.
+
+Hot water from the tap is not hot enough to kill anything. Tap water can reach about 50c, but it requires 72c to kill any pathogens and the official safe temperature is 75c. In fact, hot water can help bacteria GROW FASTER as it speeds up their metabolism, causing them to feed faster.
+
+Bonus fact: only about 5% of moulds are harmful to us but it shouldn't make a difference. I'd take the same safety precautions as always because you don't exactly know which type of mould might be on your food.
+
+Have a good holiday season folks.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ecpms8/
+author:bullerick
+subreddit:YouShouldKnow
+score:1715
+numComments:248
+isOver18:False
+hasPostBody:True

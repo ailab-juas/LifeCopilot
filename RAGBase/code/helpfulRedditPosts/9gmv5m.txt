@@ -1,0 +1,13 @@
+title:
+LPT: Maths trick: A% of B = B% of A. So 8% of 25 is equal to 25% of 8. 25% of 8 = 2
+
+content:
+ex post from life hacks
+
+url:https://reddit.com/r/LifeProTips/comments/9gmv5m/
+author:MagicCards_youtube
+subreddit:LifeProTips
+score:35839
+numComments:979
+isOver18:False
+hasPostBody:True

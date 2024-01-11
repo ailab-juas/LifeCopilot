@@ -1,0 +1,13 @@
+title:
+LPT: Getting bored of the same old stuff on Netflix? Switch your account to UK settings; it has different movies and shows (and vice versa if you live in the UK).
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1sr9ke/
+author:bridget992
+subreddit:LifeProTips
+score:1314
+numComments:174
+isOver18:False
+hasPostBody:False

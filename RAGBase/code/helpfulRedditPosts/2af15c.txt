@@ -1,0 +1,13 @@
+title:
+LPT: Putting the @ symbol before searching the username of a YouTube account will shows results of videos from that user alone
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/2af15c/
+author:KiwiKevin
+subreddit:LifeProTips
+score:2600
+numComments:92
+isOver18:False
+hasPostBody:False

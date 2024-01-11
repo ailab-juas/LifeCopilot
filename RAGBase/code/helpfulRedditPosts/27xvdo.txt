@@ -1,0 +1,13 @@
+title:
+LPT: Watching a movie or TV show on your PC that's out of sync? Use the keys "J" and "K" to adjust audio delay in VLC Player
+
+content:
+I watch a lot of TV and movies on my computer, and when an episode was out of sync, it practically ruined the video file for me. Just play it in VLC and press "K" to increase audio delay and "J" to decrease audio delay. It even goes negative if the audio needs to be more ahead of the video, and it works in 50ms increments.
+
+url:https://reddit.com/r/LifeProTips/comments/27xvdo/
+author:tbonanno
+subreddit:LifeProTips
+score:3771
+numComments:320
+isOver18:False
+hasPostBody:True

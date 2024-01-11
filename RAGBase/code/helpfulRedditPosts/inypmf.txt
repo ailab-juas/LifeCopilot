@@ -1,0 +1,19 @@
+title:
+YSK using a dishwasher will help you save time, money, and the environment.
+
+content:
+Why YSK: Dishwashers manufactured after 2013 only use up to 5 gallons of water per load and can save you up to 5000 gallons of water a year. 
+
+Additionally, it will save you electricity as it takes a lot more energy to heat all the extra water you need to use with your hand washing. 
+
+With the newer models, no need to rinse every dish before sticking it in the washer either - the newer washers should be able to handle the extra food debris (to an extent...).
+
+Edit: this post is US specific.
+
+url:https://reddit.com/r/YouShouldKnow/comments/inypmf/
+author:riinbow
+subreddit:YouShouldKnow
+score:26527
+numComments:1437
+isOver18:False
+hasPostBody:True

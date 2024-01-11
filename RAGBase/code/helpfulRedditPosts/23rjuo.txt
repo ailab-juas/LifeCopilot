@@ -1,0 +1,13 @@
+title:
+LPT: Name your flash drives, cameras and other devices as your phone number so someone can contact you if it's lost.
+
+content:
+You could even have a README.txt or READ ME IF FOUND.txt on there if you want to have more contact information or offer a reward for them to return it to you.
+
+url:https://reddit.com/r/LifeProTips/comments/23rjuo/
+author:matthew412
+subreddit:LifeProTips
+score:1656
+numComments:257
+isOver18:False
+hasPostBody:True

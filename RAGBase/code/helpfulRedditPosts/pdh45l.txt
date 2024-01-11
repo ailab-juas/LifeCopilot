@@ -1,0 +1,26 @@
+title:
+YSK: Boom barriers at railway crossings and parking lots are designed to be driven through in emergencies
+
+content:
+Why YSK: I saw a post earlier where someone got stuck in between the barriers at a railway crossing, and they let their car get hit. This is tragic, because if they'd only known a little about the design of these barriers they would have been okay.
+
+The arms are _designed_ to be driven through. They're typically made of easily broken wood or flexible plastic, and are considered a consumable part as this happens (by accident or on purpose) all the time. Some are made of metal, but with a breakaway joint at the base so that they can be reused in areas where they're broken especially often. Counterweighted designs will automatically lift and stay up if broken. Some of the best designs can even log the event for security and electronically self reset!
+
+In all cases, all damage to your vehicle will range from none to cosmetic scratches. I can imagine a freak scenario where you could end up with a cracked windshield, but that's still better than getting hit by a train or being trapped in a parking structure in a fire. It costs a maximum of a couple hundred bucks to fix one of these arms, but in a real emergency you shouldn't be worried about that and hopefully wouldn't be charged for it. Expect steep fines if you do it to avoid paying for parking or to beat a train though.
+
+Some video sources (no injuries or anything):
+
+* [Demo of a couple breakaway designs](https://www.youtube.com/watch?v=AM00gZ1PP2U)
+* [Van vs heavy duty aluminum reusable arm](https://www.youtube.com/watch?v=GJklQZ8y9XI)
+* [Florida man demonstrates his technique](https://www.youtube.com/watch?v=GheJGLkKMs0)
+* [A guy breaks one by hand and falls down](https://www.youtube.com/watch?v=_yBTmGMG-Wc)
+
+Related mini YSK: This is NOT TRUE for height clearance bars, many can cause severe damage stopping your vehicle from hitting whatever they're protecting.
+
+url:https://reddit.com/r/YouShouldKnow/comments/pdh45l/
+author:IM_OK_AMA
+subreddit:YouShouldKnow
+score:3154
+numComments:50
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: When putting in time for vacation, always take the day after you get back off. This will give you a safety net in case your flight is cancelled. Otherwise you get a day to unpack and relax.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/7j2yvd/
+author:NoMoreSyntaxErrors
+subreddit:LifeProTips
+score:31939
+numComments:1209
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: Storing spinach or other leafed lettuce in a plastic bag with a paper towel will keep the veggie nice a crisp much longer.
+
+content:
+Started doing this a couple weeks ago because my spinach kept going bad after a week. Now it lasts at least twice as long and I can actually finish it.
+
+url:https://reddit.com/r/LifeProTips/comments/3ecjhh/
+author:blakeight
+subreddit:LifeProTips
+score:3500
+numComments:256
+isOver18:False
+hasPostBody:True

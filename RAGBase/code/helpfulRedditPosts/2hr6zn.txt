@@ -1,0 +1,15 @@
+title:
+LPT: Disconnect your center channel speaker to mute the commentary when watching a football game.
+
+content:
+I may just be late to discovering this gem.  For sports and other broadcasts in proper 5.1 audio, the dialog (in this case game commentary) is sent to the center channel speaker.  So if you set up your receiver for 5.1 (or 7.1 or 1,000,080p) speakers and just disconnect or mute or don't have a center channel, you get to experience the game in eerie (and enjoyable) silence, like you're actually there.
+
+I was moving some speakers around today and this happened, and now I don't really want to go back to the full audio.  I don't know why it took me this long to actually figure this out, but...now you can know, too.
+
+url:https://reddit.com/r/LifeProTips/comments/2hr6zn/
+author:meatmacho
+subreddit:LifeProTips
+score:3580
+numComments:528
+isOver18:False
+hasPostBody:True

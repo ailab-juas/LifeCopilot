@@ -1,0 +1,13 @@
+title:
+LPT: When you start living on your own, try to be considerate about your routines and habits. These will be likely to become embedded and will be hard to change later on.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/fdscz7/
+author:davidyew
+subreddit:LifeProTips
+score:3537
+numComments:95
+isOver18:False
+hasPostBody:False

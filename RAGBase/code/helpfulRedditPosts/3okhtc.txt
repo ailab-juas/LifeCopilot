@@ -1,0 +1,15 @@
+title:
+LPT: When parking your vehicle for long periods, back into your space to shorten the necessary length for jumper cables
+
+content:
+Was parked at an airport for several weeks and my car died there today which, if you'll pardon the pun, *sparked* this thought. 
+
+Also, most airports have maintenance teams to help with dead cars and other common problems. Call the central airport number and they'll connect you.
+
+url:https://reddit.com/r/LifeProTips/comments/3okhtc/
+author:SurfsideSmoothy
+subreddit:LifeProTips
+score:3776
+numComments:897
+isOver18:False
+hasPostBody:True

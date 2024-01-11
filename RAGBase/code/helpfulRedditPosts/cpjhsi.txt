@@ -1,0 +1,29 @@
+title:
+YSK that Chronic Lyme Disease doesn't exist.
+
+content:
+**Edit:** Didn’t expect this to blow up over night. I just want to be clear that I am **not** saying symptoms of malaise, chronic fatigue, and chronic pain are not real. They’re very real, and I understand that can make life unbearable.
+
+**tl;dr** Residual symptoms after Lyme treatment **do not** improve with continued Lyme therapy, and a diagnosis of “Lyme disease” despite negative blood tests is fraudulent—yet both are increasingly common practices in the alternative medicine community, leading to huge out-of-pocket costs and missed true diagnoses. 
+
+___
+
+If you or a member of your family is being treated for "Chronic Lyme disease," you are being conned out of your money, and you may be delaying treatment for a real, [potentially serious](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/1921752) disease that may actually be causing your symptoms.
+
+Chronic Lyme has gotten a lot of attention recently. Several celebrities, like [Avril Lavigne](https://www.womenshealthmag.com/health/a23931642/avril-lavigne-lyme-disease-billboard/), have been "diagnosed" by charlatans with Lyme, and now many people are seeking quack "specialists" to be treated with long courses of serious antibiotics (or other drugs) for huge profit.
+
+Further reading:
+
+A general critique of "Chronic Lyme" (https://www.nejm.org/doi/full/10.1056/NEJMra072023)
+
+Evidence-based diagnostic and treatment guidelines for Lyme (https://academic.oup.com/cid/article/43/9/1089/422463)
+
+Evidence that treating post-Lyme chronic neurological symptoms with antibiotics has no benefit (https://n.neurology.org/content/69/1/91)
+
+url:https://reddit.com/r/YouShouldKnow/comments/cpjhsi/
+author:BottledCans
+subreddit:YouShouldKnow
+score:4406
+numComments:761
+isOver18:False
+hasPostBody:True

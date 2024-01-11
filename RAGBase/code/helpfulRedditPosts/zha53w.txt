@@ -1,0 +1,13 @@
+title:
+YSK SSDs are not suitable for long-term shelf storage, they should be powered up every year and every bit should be read. Otherwise you may lose your data.
+
+content:
+Why YSK: Not many folks appear to know this and I painfully found out: Portable SSDs are marketed as a good backup option, e.g. for photos or important documents. SSDs are also contained in many PCs and some people extract and archive them on the shelf for long-time storage. This is very risky. SSDs need a frequent power supply and all bits should be read once a year. In case you have an SSD on your shelf that was last plugged in, say, 5 years ago, there is a significant chance your data is gone or corrupted.
+
+url:https://reddit.com/r/YouShouldKnow/comments/zha53w/
+author:r3dtr
+subreddit:YouShouldKnow
+score:14728
+numComments:1017
+isOver18:False
+hasPostBody:True

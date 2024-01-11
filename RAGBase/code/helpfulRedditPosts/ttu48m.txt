@@ -1,0 +1,125 @@
+title:
+YSK: With Easter fast approaching, rabbits live 10-15 years, and require quite a bit of time, effort, and most importantly, space. If one is abandoned, most die within 24 hours. Please do your research before getting one as a pet.
+
+content:
+Why YSK:  Lots of people get rabbits on/around Easter and think they are low maintenance, easy pets that they can just cram in a tiny cage and forget about. When they realize rabbits are not as cuddly as cats and their medical care is far more expensive than they thought it would be (rabbits need to go to exotic vets), they abandon them. Pet rabbit breeds left to fend for themselves outside normally *die* within 24 hours. 
+
+It pains me that there are next to no resources for abandoned bunnies. Most shelters will not accept them in due to their specific care needs, so even when "saved", they often end up being put down. There are a few national house rabbit society chapters in most states, and there are some amazing individually operated establishments out there, but for the most part... it is all about cats and dogs. Please, please do your research if you or anyone you know is thinking about getting a bunny. They are wonderful, caring creatures with huge personalities and make great companions. Problem is, most people do not know the proper way to take care of a bun. Which is not necessarily anyone's fault, but at the end of the day, if a rabbit dies due to neglect, it does not matter if it was on purpose or not. 
+
+Full disclosure: I posted this last year, but I have updated information and edited it a bit to post this year as well. Hopefully I this can help at least one person make a more informed decision when seeking out a bunny this year.
+
+#Food
+
+##Timothy/grass hay (70%-80% of diet)
+Fairly straight forward. Basically any high quality **GRASS**^* hay you could feed a horse can be fed to a bunny. They should have access to a fresh, unlimited quantity in an easy to reach place 24 hours a day. Without having food constantly moving around in their gut, a rabbit is GI health rapidly deteriorates, leading to [GI stasis](https://rabbit.org/gastrointestinal-stasis-the-silent-killer-2/). If left untreated, GI stasis almost always results in the death of a rabbit.
+
+**IF YOUR PET BUNNY HAS NOT EATEN/DRANK WATER IN ~12 HOURS CONTACT YOUR RABBIT SAVY VET IMMEDIATELY, THIS IS A MEDICAL EMERGENCY**
+
+* Do make sure it is grass hay, though, as other hays, such a legume hay (alfalfa) are very protein heavy/calorie dense and can disrupt a bunny's fragile digestive system.
+
+NOTE: Hay should be easily accessible. There are several results on google/amazon of poorly designed feeders that are either too small or poorly designed, making it far too difficult for a bunny to get their food. There is no danger of overfeeding hay, so providing more than they can eat is recommended. When I feed my rabbits at night, I simply mix the remaining day's hay into their fresh hay and pop it back into the feeder.
+
+A few examples of improper feeders:
+
+[Too small](https://i.imgur.com/pFqlHhC.png)
+
+[Too small/not the greatest design](https://i.imgur.com/dlA26NL.png)
+
+[Everything is wrong with this](https://i.imgur.com/X27kMym.png)
+
+[Too hard to use](https://i.imgur.com/EZnwThC.png)
+
+I personally [this](https://i.imgur.com/048MEvc.png) and a simple [bus tub](https://i.imgur.com/9S1rd5M.png) as a little box. The hay is easily accessible from all angles, and there are a few large holes in it so my buns can fit their head/feet in there to "forage". Every so often I'll drop some pellets in there or put a few bits of papaya so they can dig around in it :)
+
+If all else fails, a simple [cardboard box](https://i.imgur.com/EzQzz7G.png) can work great! Just make sure you do not use any shiny cardboard, as they are sometimes treated with harsh chemicals. Just be prepared to replace it frequently, as some buns looooove to chew on cardboard.
+
+##Fresh veggies (10%-15% of diet)
+Although not completely necessary for a healthy diet, fresh greens are very healthy for rabbits. They provide many micronutrients as well as fiber and hydration. [Here is a great list](https://rabbit.org/suggested-vegetables-and-fruits-for-a-rabbit-diet/) of rabbit safe veggies. Please be aware that some rabbits do not tolerate certain veggies as well as others, so it is recommended to introduce new veggies to rabbits in small quantities to ensure it will not cause runny stool.
+
+It should also be noted that rabbits are incapable of expelling excess gas (farting/burping), so any veggies that cause gas in humans should be fed in extreme moderation, or avoided entirely.
+
+##Pellets (&lt;5% of diet)
+Pellets are fairly high calorie, nutrient dense foods that rabbits love. They should be fed in very limited quantities if your rabbit is a healthy adult, or senior bunny who is maintaining weight well. it is very easy to overfeed pellets if not measured, so ensure that you are keeping track of how much you are feeding as well as the weight of your bun at their regular vet visits.
+
+Be careful where you buy the pellets, as there are some less than scrupulous feed suppliers who sell rabbit feed that is not only unhealthy, but can be dangerous to feed. Many of these come in high fat, high sugar formulations and prey on well meaning families who are simply shopping at a big box pet store.
+
+Two brands that I stand by are [Small Pet Select](https://shop.smallpetselect.com/collections/pelleted-food-for-rabbits/products/premium-rabbit-food-pellets) and [Oxbow](https://www.oxbowanimalhealth.com/our-products/fortified-food/essentials-adult-rabbit-food). When searching for rabbit pellets yourself, always ensure they are high fiber, low protein/fat.
+
+##Sweet treats/treats in general (0%-5% of diet)
+Rabbits have a voracious sweet tooth, and will go absolutely bonkers for treats. Fresh fruits, such as bananas, blueberries, strawberries and apples are favorites of my buns. There are also a plethora of manufactured dry treats available to buy.
+
+As stated before, rabbits have a very sensitive gut, so make sure you keep these to a minimum. Overfeeding sweets/treats can offset the gut biome of a rabbit and ultimately lead to GI stasis. 
+
+[Small Pet Select](https://shop.smallpetselect.com/collections/healthy-snacks-and-treats-for-rabbits) has a great variety of treats.
+
+**Never feed your bunny yogurt drops, pop-corn, bread, crackers, nuts or seeds.**
+
+-----
+
+#Water
+
+Rabbits require [~50-150 mL/kg of fresh, cold water per day](http://wabbitwiki.com/wiki/Diet#Water), meaning a 2kg rabbit can drink about as much water per day as an 8-10kg dog. They can little picky, so providing them with fresh water twice per day increases water intake, which is important for GI health. 
+
+Sipper bottles are "okay" but not recommended. Heavy bottomed ceramic bowls are preferable, as rabbits "slurp" water like a horse, and anything that can be done to increase water intake is recommended.
+
+NOTE: I personally like to give my rabbits filtered water, as their bladders/kidneys are pretty sensitive. Sediment buildup can cause several health issues and if left untreated will lead to death.
+
+-----
+
+#Habitat (or Rabbitat, if you will)
+
+It is difficult to understate how much space rabbits need to ensure their health and wellbeing. At a minimum, they should be provided with a space about four times the size of their body, assuming they are allowed several hours of unrestricted free time outside of their enclosure. If primarily confined, the bigger the better. Something along the lines of an exercise pen [designed for medium to large dogs](https://i.imgur.com/nvAOhMr.png) would work well.
+
+If confined to a cage, the flooring should **always** be either hard plastic or other hard surface. Wire grate/metal cage bottoms will damage a bunny's sensitive paws, and left untreated, can lead to infection requiring amputation.
+
+Rabbits enjoy playing/hiding/bounding about, so if space permits, creating a jungle gym of cardboard boxes will provide hours of fun and enrichment for your little friend. If they get "bored" of it, I have never met a rabbit that is not immediately enthralled with the exact same boxes, just shifted around in a new configuration.
+
+Rabbits do not tolerate heat well, and should also be kept inside the majority of the time at comfy 70-75 degrees F(21-24c)^*. Ideally they should be kept inside all the time, as modern house rabbits have lost their ability to tell poisonous/dangerous plants apart from safe ones and will happily eat something that will kill them. Predators, parasites and disease are also obviously a major concern.
+
+[And they can be potty trained!](https://rabbit.org/faq-litter-training-2/) My buns all use a litter box to do the deed. There are a few accidents, and sometimes they kick the poo out of there when they are frolicking about, but they are exceptionally clean animals for the most part. **ABSOLUTELY DO NOT USE KITTY LITTER, CLUMPING LITTER, CORN COB LITTER, SWHEAT SCOOP LITTER, CLAY LITTER OR PINE/CEDAR SHAVINGS. THEY ARE DEADLY!!!**. 
+
+* The exception to the rule on temperature is if your bunny is sick. When rabbits get sick, they can sometimes cool down too much (I am not a vet so I unfortunately do not understand this super well), but in this case they should be kept warm. My vet recommended anything from 75-80 degrees the last time my rabbit was ill.
+
+-----
+
+#General wellbeing
+
+Rabbits are social creatures, and as much as they will undoubtedly enjoy frolicking around your legs and getting their ear scratches, they are going to do much better with another bonded rabbit. Even if you can dedicate large amounts of time to your little friend, they can become lonely or depressed, and much like humans, loneliness and depression cause a number of negative health effects. The bonding process is not as easy as simply putting two rabbits in a room, and can be fairly [long and difficult process](https://rabbit.org/articles/wp-content/uploads/2016/06/Bonding-Bunnies-PPforrabbit.org_.pdf). Much like not everyone in the world gets along, some buns just are not meant to be friends. However, when it is successful, and it will be give enough time, your bunnies will be much happier for it.
+
+Rabbits are also naturally energetic, playful and curious. In order to remain stimulated and happy, they are going to need some toys. They love to knock down toilet paper/paper towel rolls, throw around [baby stacking cups](https://i.imgur.com/6DucPcr.png), or [baby keys](https://i.imgur.com/82fhdHL.png). They will dart in and out of cardboard tunnels or navigate mini mazes made from them.
+
+If they get bored, however, they are probably going top look for something to chew. Not only is it an engaging/enriching task for them, it helps keep their teeth filed as a rabbit is teeth never stop growing. The best thing you could give them is soft, untreated wood that _WILL NOT SPLINTER_. Treated wood can poison a bun, and splintered wood can injure them. In the worst case, a splintered piece of wood could cause an abscess to form, which are very dangerous for rabbits.
+
+[Small pet select](https://shop.smallpetselect.com/collections/natural-toys-and-chews-for-rabbits) has a wide variety of chew toys that are safe for Rabbits. it is a bit of a guessing game on what they will like, so you might find yourself buying several toys they never touch. It is, however, very important for them to feel stimulated, otherwise they will find other outlets for their chewing. This includes your carpet, base boards, tv remotes, gaming controllers, keyboards, and your power cables. Power cables being particularly dangerous, as chewing live power cables will likely burn your poor little friend's mouth. So make sure you have [bunny proofed your home](https://myhouserabbit.com/rabbit-care/bunny-proofing-your-house/)).
+
+In 99.999% of cases, rabbits absolutely do not like being picked up. If you pick them up they will not see the giant who brings them banana. They will start going into "prey" mode, and try to get away, so make sure you've got a [firm, safe grasp](https://m.youtube.com/watch?v=KD9jQtzLBbc) of your bunny before you lift them. If their legs are left hanging, their strong back legs can break their backs, and they will have to be euthanized.
+
+Rabbits should also ALWAYS be neutered. Male rabbits can become aggressive and will mark territory with a rancid smelling musk. Female rabbits can also become aggressive, and if not neutered, will almost certainly develop fatal uterine cancer before the age of four. So please please please get your friend fixed asap. Most vets would recommend any time after six months of age.
+
+**NEVER EVER BATHE YOUR BUNNY**, their fur makes it very difficult for them to get completely dry and they will become hypothermic. The only time it is ever appropriate to bathe them is if they have severe diarrhea and have made a mess. In that case you MUST be very sure they are completely dry.
+
+p.s. Please do not *buy* your rabbit from a breeder. More often than not, they are kept in squalid conditions and horrendously abused. There are plenty of [buns available who would not otherwise have a home](https://www.petfinder.com/search/rabbits-for-adoption/).
+
+#further reading
+
+https://myhouserabbit.com/ - tons of great information
+
+https://wabbitwiki.com/wiki/Main_Page - community run page with lots of information on how to take care of your pet bun.
+
+https://rabbit.org/ - The house rabbit society is AMAZING!!! They're run by people who are not paid and only help because they want rabbits to be happy and healthy :)
+
+https://www.reddit.com/r/Rabbits/ - reddit community of people who are more than willing to help you with _anything_ you could possibly ask.
+
+https://rabbit.org/vet-listings/ - a list of rabbit savvy vets. If your vet is not specifically trained in rabbits, they can very easily miss common health concerns that can lead to death.
+
+There's loads more I didn't cover here, but hopefully this is enough to help anyone get started.
+
+edit: [Almost forgot my Rabbit Tax](https://imgur.com/a/gRr5z96)
+
+url:https://reddit.com/r/YouShouldKnow/comments/ttu48m/
+author:IRefuseToGiveAName
+subreddit:YouShouldKnow
+score:10049
+numComments:178
+isOver18:False
+hasPostBody:True

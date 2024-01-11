@@ -1,0 +1,21 @@
+title:
+YSK about the September 10 Internet-Wide protest for Net Neutrality
+
+content:
+So in just less than two days there's going to be a web wide protest in the form of loading symbols on all of your favourite websites including Reddit. If you have your own website you can have a loading symbol to show your support for it as well on the 10th. 
+
+The loading animations symbolize what the internet would feel like if net neutrality goes away. Please support this protest by joining in it and spreading the word. Note that no one is actually slowing down any website, this is just symbolic!
+
+Here's [a nice summary](http://www.bestvpnservice.com/blog/are-protests-such-as-the-internet-slowdown-effective/) of it.
+
+ And [here's where you can get the loading symbols](https://www.battleforthenet.com/sept10th/) and images to post yourselves. 
+
+[Homepage of the protest site.](https://www.battleforthenet.com) 
+
+url:https://reddit.com/r/YouShouldKnow/comments/2fw3rj/
+author:kintsukr0i
+subreddit:YouShouldKnow
+score:1067
+numComments:77
+isOver18:False
+hasPostBody:True

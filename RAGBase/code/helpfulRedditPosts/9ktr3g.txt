@@ -1,0 +1,20 @@
+title:
+YSK: How and when to use "affect" vs. "effect".
+
+content:
+Nobody likes people who misuse to/two/too or there/their/they're.  Affect/effect is another tricky pair of words, and it's made worse because their meanings are similar.
+
+Edit: Apparently having the top-left cell of a table empty leads to formatting errors on mobile.  Fixed.
+
+x|Noun|Verb
+:--|:--|:--
+Affect|**Less common**.  Means an emotional presentation/feeling.  Example: "She had a flat *affect*."|**More common**.  Means to have an impact.  Example: "The weather can *affect* your mood."
+Effect|**More common**.  Essentially means the same thing as "consequence".  Example: "One *effect* of the rain was flooding."|**Less common**.  Means "to bring about".  Example: "The students wanted to *effect* change on campus."
+
+url:https://reddit.com/r/YouShouldKnow/comments/9ktr3g/
+author:amos_burton
+subreddit:YouShouldKnow
+score:2524
+numComments:174
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: If you're struggling to understand a skill, don't be afraid to buy a "_____ for Dummies" book. The books break things down into manageable, understandable chunks 99% of the time. Plus, they have a book for almost everything you can think of.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/jai6vj/
+author:[deleted]
+subreddit:LifeProTips
+score:3186
+numComments:160
+isOver18:False
+hasPostBody:True

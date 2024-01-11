@@ -1,0 +1,13 @@
+title:
+LPT: Cut your pack of bacon in half for easier baking, cleaner storage, and better size for sandwich filling.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1nxu6r/
+author:plutoniumpandamonium
+subreddit:LifeProTips
+score:1879
+numComments:349
+isOver18:False
+hasPostBody:False

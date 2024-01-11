@@ -1,0 +1,15 @@
+title:
+LPT - sort out all automated emails by adding a filter to your inbox using the word “unsubscribe.” Have them sent to a folder of your choosing and watch your inbox clear up quickly. Also try phrases like “opt out” or “donotreply” to continue eliminating volume.
+
+content:
+Not my idea but wow it’s been helpful. I recommend putting them all marked as “read” and into a single folder, which you then still check periodically. I’m sure there are better ways too, this is just what has helped me keep my inbox meaningful.
+
+Edit: tons of great advice that filtering out “donotreply” could hide important emails for debt service or other important information, so please be careful there.
+
+url:https://reddit.com/r/LifeProTips/comments/ifnh66/
+author:FloridaMan32225
+subreddit:LifeProTips
+score:1759
+numComments:73
+isOver18:False
+hasPostBody:True

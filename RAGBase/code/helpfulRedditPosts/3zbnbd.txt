@@ -1,0 +1,20 @@
+title:
+YSK that there are a lot of DisplayPort cables on the market that can seriously harm your electronics
+
+content:
+There are a ton of DisplayPort cables out there that are not VESA-compliant (thus not certified by DisplayPort) and have the potential of damaging your electronics. This is because some manufacturers incorrectly connect the 20th pin on the cable and doing this allows 3.3v of electricity to flow back into whatever's connected. A lot of product descriptions do not mention this fact.
+
+Use this list from the official website to find a certified cable:
+http://www.displayport.org/products-database/
+
+I always heard that a $5 HDMI cable can perform just as well as a $100 cable. I applied that logic when I was shopping around for a DisplayPort cable. I decided to save a few bucks and instead of buying a $20 certified cable, I bought an $8 cable that was on sale and immediately regretted it after using it. The fact that an $8 cable can potentially ruin a $1000 computer is scary. I returned the cable and bought a VESA-compliant for $20.
+
+**TL;DR** Don't be a cheap bastard and buy a VESA-compliant DisplayPort cable so you don't accidentally blow up your precious electronics. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/3zbnbd/
+author:strykeraid
+subreddit:YouShouldKnow
+score:1367
+numComments:106
+isOver18:False
+hasPostBody:True

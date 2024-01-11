@@ -1,0 +1,13 @@
+title:
+LPT: When you're falling asleep during a lecture or a meeting, hold your breath.
+
+content:
+There's a point at which you've held your breath for a while, where you feel a spike of alertness. Probably due to your brain not getting enough oxygen, and thus putting you on alert. 
+
+url:https://reddit.com/r/LifeProTips/comments/6zvi0j/
+author:Cryptiikal
+subreddit:LifeProTips
+score:3326
+numComments:241
+isOver18:False
+hasPostBody:True

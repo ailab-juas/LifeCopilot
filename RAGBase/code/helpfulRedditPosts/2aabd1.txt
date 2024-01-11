@@ -1,0 +1,13 @@
+title:
+LPT: Do online shopping in a private window so you don't get ad spammed into oblivion when browsing later on
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/2aabd1/
+author:thecardboardman
+subreddit:LifeProTips
+score:2031
+numComments:355
+isOver18:False
+hasPostBody:False

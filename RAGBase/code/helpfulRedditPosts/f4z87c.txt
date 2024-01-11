@@ -1,0 +1,13 @@
+title:
+LPT: If you have a hard time sleeping well, give this a try: Right before you go to bed think about the funniest thing that happened to you today (could also be a joke someone told you or even a tv show you've watched). You'll be more relaxed, fall asleep easier, and have fewer bad dreams.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/f4z87c/
+author:liminalmornings
+subreddit:LifeProTips
+score:1686
+numComments:82
+isOver18:False
+hasPostBody:False

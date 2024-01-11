@@ -1,0 +1,15 @@
+title:
+YSK: CNN &amp; NPR have low-bandwidth sites designed for limited-connectivity situations like hurricanes.
+
+content:
+[thin.npr.org](http://thin.npr.org) and [lite.cnn.io](http://lite.cnn.io)  both strip their respective full websites down to bare bones, just text files so that you can load them and get news with minimal data/connectivity. 
+
+[You can find out more about sites like these in this article.](https://www.poynter.org/news/text-only-news-sites-are-slowly-making-comeback-heres-why)
+
+url:https://reddit.com/r/YouShouldKnow/comments/9fd381/
+author:PhillipBrandon
+subreddit:YouShouldKnow
+score:1358
+numComments:24
+isOver18:False
+hasPostBody:True

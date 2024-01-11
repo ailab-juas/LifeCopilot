@@ -1,0 +1,25 @@
+title:
+YSK that if you or someone around you experiences sudden hearing loss, you should rush to the ER
+
+content:
+My dad experienced sudden hearing loss in one ear after a common cold. Today, 3 weeks later, the ENT told him that the damage is likely permanent. She gave him oral steroids, but this is probably useless, because it’s only useful in the first few days. Had we known this earlier, his hearing would likely have been saved a significant amount. I am pissed and devastated that we didn’t know this. But maybe this message can save someone reading this in the future.
+
+If this happens to you or someone around you, make sure you get to the ER ASAP. ask for an oral steroid like prednison.
+
+This is not secret information, but in my opinion is not "common sense" enough. At least I didn't know.
+
+Source:
+
+[https://www.masseyeandear.org/for-patients/patient-guide/patient-education/diseases-and-conditions/sudden-deafness](https://www.masseyeandear.org/for-patients/patient-guide/patient-education/diseases-and-conditions/sudden-deafness)
+
+&gt;Since there is only a two to four week window of opportunity for treating SSNHL, it is essential to initiate therapy as soon as possible, even if a complete diagnostic work-up has not been completed. Ideally, an audiogram should be performed before starting treatment, but if it is performed within 24 - 48 hours, this an acceptable alternative. One should never postpone treatment for days or weeks to await results of imaging studies.
+
+&amp;#x200B;
+
+url:https://reddit.com/r/YouShouldKnow/comments/at6hru/
+author:Gadsie
+subreddit:YouShouldKnow
+score:3884
+numComments:217
+isOver18:False
+hasPostBody:True

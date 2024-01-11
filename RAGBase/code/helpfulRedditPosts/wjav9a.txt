@@ -1,0 +1,26 @@
+title:
+YSK about super-tasters, non-tasters, and medium tasters. Everyone has a different number of taste buds. The density of these determine whether you are sensitive to certain tastes or not. Knowing what category you are in can help you avoid, or choose, foods that better suit your palate.
+
+content:
+**Why YSK.** Everyone has taste buds, but your ability to taste is partially determined by the density of those buds on your tongue, and that density is genetically determined. Taste buds are located on fungiform papillae--those little bumps on your tongue--and each bump has up to 150 or so taste buds. The more taste buds you have, the more sensitive you will be to some flavors, especially bitter ones. 
+
+As a population, people fall into [one of three categories](https://www.nidcd.nih.gov/health/statistics/quick-statistics-taste-smell) of taste sensitivity: super tasters, non-tasters, and medium or average tasters. 
+
+**Super tasters** (about 25% of the population) are very sensitive to the presence of bitter substances. They typically hate foods such as broccoli, grapefruit, spinach, and brussel sprouts, and do not enjoy spicy food. Also, many super-tasters compensate for their bitterness sensitivity by adding a lot of salt to their food as salt reduces the presence of bitterness. This can lead to health problems such as high blood pressure. Avoiding the bitter foods in the first place is often an easy way for super-tasters to cut back on sodium intake.  Super tasters tend to be picky eaters, and have lower BMIs than the other groups. 
+
+**Non-tasters.** A non-taster has the lowest density of fungiform papillae. About 25% of the population is comprised of non-tasters, and these people tend to be more adventurous eaters. A non-taster has a very high tolerance for bitter food, and may not be able to detect bitterness in many foods that other people avoid because of it. Many non-tasters enjoy very spicy or heavily seasoned food, as well as sweet and high-fat foods. Non-tasters tend to have higher BMIs than the other groups. 
+
+**Middle-tasters.** Middle tasters are generalists. They can enjoy a wide range of food (though they are not generally as adventurous as non-tasters) and make up about 50% of the population. 
+
+[How to tell if you are a super-taster, non-taster, or middle-taster.](https://www.healthline.com/health/food-nutrition/supertaster#at-home-test) 
+
+1. **Count your taste buds.** Get a piece of paper and cut a hole in it with a paper hole punch. Then place a drop of blue food coloring on the front of your tongue. Using a mirror, or a friend, place the paper over your tongue and count the number of bumps.  If you have 35 or more bumps, you're likely a super-taster. If you have 15 or fewer, you're probably a non-taster. Everything else means you're a middle-taster. 
+2. **Use N-Propylthiouracil Test Paper**. You can buy these small paper strips on Amazon. They contain a small amount of N-Propylthiouracil, a chemical that has a bitter taste. Super-tasters who place the strip on their tongue will get an immediate and strong bitter flavor, almost overwhelming. Middle-tasters will start tasting bitterness slowly but will taste it get stronger over time. Non-tasters will not taste any bitterness at all.
+
+url:https://reddit.com/r/YouShouldKnow/comments/wjav9a/
+author:ButtholeBanquets
+subreddit:YouShouldKnow
+score:1770
+numComments:178
+isOver18:False
+hasPostBody:True

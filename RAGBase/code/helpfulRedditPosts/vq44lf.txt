@@ -1,0 +1,13 @@
+title:
+YSK: Safety Razors Are the Cheapest and Best Way to Shave.
+
+content:
+ Why YSK: You can buy a safety razor that uses disposable razors for 15$. The disposable razors cost 10$ for 100. This means you're paying 10 cents per super close shave. All of this is available at Walmart or Amazon. I won't post any links because the brand doesn't really matter, and this isn't an advertisement.
+
+url:https://reddit.com/r/YouShouldKnow/comments/vq44lf/
+author:adelb26
+subreddit:YouShouldKnow
+score:4243
+numComments:422
+isOver18:False
+hasPostBody:True

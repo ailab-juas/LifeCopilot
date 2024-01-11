@@ -1,0 +1,13 @@
+title:
+YSK How to estimate remaining daylight.
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/x57xa/
+author:taozero
+subreddit:YouShouldKnow
+score:1470
+numComments:104
+isOver18:False
+hasPostBody:False

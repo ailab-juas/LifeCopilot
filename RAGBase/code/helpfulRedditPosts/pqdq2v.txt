@@ -1,0 +1,13 @@
+title:
+LPT: Get a haircut several days before an event, not the day before
+
+content:
+If you want to get a haircut for an event/occasion, giving the hair a little bit of time to "settle in" will make the cut look much more natural.
+
+url:https://reddit.com/r/LifeProTips/comments/pqdq2v/
+author:kongslayer
+subreddit:LifeProTips
+score:3143
+numComments:97
+isOver18:False
+hasPostBody:True

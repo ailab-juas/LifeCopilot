@@ -1,0 +1,13 @@
+title:
+LPT: Use a pistachio shell to help you open a pistachio. It’s much quicker and easier on your fingers.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/b7wnja/
+author:TheFormulaS
+subreddit:LifeProTips
+score:12522
+numComments:512
+isOver18:False
+hasPostBody:False

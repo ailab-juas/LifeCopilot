@@ -1,0 +1,13 @@
+title:
+LPT: Crystal Clear Ice
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/wm9ch/
+author:igotahugedick
+subreddit:LifeProTips
+score:1828
+numComments:440
+isOver18:False
+hasPostBody:False

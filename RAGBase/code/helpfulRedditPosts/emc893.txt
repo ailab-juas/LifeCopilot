@@ -1,0 +1,27 @@
+title:
+LPT: You can ask any company to produce or delete any data they have on you directly from the footer of their website by clicking "Do Not Sell My Personal Information." This link is required by law under the new CCPA.
+
+content:
+The CCPA is the California Consumer Privacy Act. Like the European GDPR that came before it, it guarantees certain individuals rights around the use and sale of their data. More specifically, California residents can force companies to produce any data they have on them, and delete it on request. 
+
+By law, these companies must follow through with deletion, **and reach out to any 3rd parties** to whom they sold the data, and have them delete it as well.
+
+As an example, here's [Vizio's website](https://www.vizio.com/en/home). You'll see that "Do Not Sell My Personal Information" is listed in the footer. This specific language is required by law.
+
+**If you don't live in California, you can still benefit from this law**. It's too expensive and resource intensive to figure out where a person lives and see whether the law applies to them, so companies are adhering to most requests regardless. Companies are rightly assuming that more states will enact such laws, so it's not worth splitting hairs over where you live.
+
+The CCPA went into effect on 1/1/2020, so the footer links are starting to go live on many sites. By mid-year, enforcement begins, and you will have the ability to sue any company that fails to comply.
+
+EDIT: LOTS of people asking about Facebook. Their footer link isn't published yet, but here's a direct link from a Google search: https://m.facebook.com/help/contact/784491318687824
+
+EDIT 2: Please be careful when doing this. If you're using a service, and you want to keep that service, deleting your data might mean deleting your account. Some companies have data on you without an account, which is where this is very effective
+
+EDIT 3: Yes, this is for California residents. Yes, some companies will ask where you reside. Some companies will not, because they know more and more states will enact legislation. It's coming, so it's good for business to honor it more broadly. So even if you're not from CA, in many cases you CAN use this for yourself, no questions asked.
+
+url:https://reddit.com/r/LifeProTips/comments/emc893/
+author:rodneyjesus
+subreddit:LifeProTips
+score:20722
+numComments:707
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Everyone is winging it in life to some degree. People may seem to have everything aligned perfectly for them. Even if they do, unsuspected things arise every single day. An easy life is a misconception. Nobody is too large for the small stresses of everyday life.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ynwdpx/
+author:incredibleinkpen
+subreddit:LifeProTips
+score:1494
+numComments:28
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+YSK "Your first street name + First pet name = pornstar name" is a trick people use to find out the answers to default Secret Questions on email accounts
+
+content:
+It also makes you look like an immature child but the security thing is key.
+
+url:https://reddit.com/r/YouShouldKnow/comments/t6otd/
+author:FreeAsInFreedoooooom
+subreddit:YouShouldKnow
+score:1147
+numComments:239
+isOver18:False
+hasPostBody:True

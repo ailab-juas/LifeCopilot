@@ -1,0 +1,15 @@
+title:
+YSK: how to opt out of Netflix test ads.
+
+content:
+Accounts, test participation, OFF!
+
+Or follow this link. https://www.netflix.com/Login?nextpage=https%3A%2F%2Fwww.netflix.com%2FDoNotTest
+
+url:https://reddit.com/r/YouShouldKnow/comments/98e0wr/
+author:jeep_devil_1775
+subreddit:YouShouldKnow
+score:2065
+numComments:93
+isOver18:False
+hasPostBody:True

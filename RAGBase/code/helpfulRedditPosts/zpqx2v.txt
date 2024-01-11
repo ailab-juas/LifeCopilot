@@ -1,0 +1,13 @@
+title:
+LPT: If you're going to donate a toy, donate a toy that doesn't need batteries. If a family cannot afford toys, they probably can't afford batteries.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/zpqx2v/
+author:BootyWhiteMan
+subreddit:LifeProTips
+score:31269
+numComments:507
+isOver18:False
+hasPostBody:False

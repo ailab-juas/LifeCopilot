@@ -1,0 +1,21 @@
+title:
+YSK that signing up for a "free" credit report with experian.com will charge you a monthly fee
+
+content:
+Experian.com claims this is free and charges you a $1 credit card charge to verify your credit card info. However, if you read the fine print you'll see that this also signs you up for a monthly $20 charge if you don't cancel the trial period. 
+
+Apparently cancelling over the phone is a huge pain, so here's an easy way to do it (learned this from Andrew Dennis on Quora):
+
+1. Go to https://usa.experian.com/#/profile/myMembership/reason after signing in
+2. Choose a reason from the dropdown menu
+3. Click "confirm cancellation"
+
+This cancels your membership without having to get on the phone.
+
+url:https://reddit.com/r/YouShouldKnow/comments/8l9l5q/
+author:Vietname
+subreddit:YouShouldKnow
+score:11610
+numComments:343
+isOver18:False
+hasPostBody:True

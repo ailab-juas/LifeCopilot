@@ -1,0 +1,15 @@
+title:
+YSK if you have unlimited data on T-Mobile and have been experiencing slower than normal data recently, you need to turn off a setting on your mytmobile profile.
+
+content:
+Log in to my T-Mobile, go to profile, media settings, and turn off "binge on."
+
+This drove me nuts the past few weeks. Videos now load normally.
+
+url:https://reddit.com/r/YouShouldKnow/comments/3vswl5/
+author:longhorns2422
+subreddit:YouShouldKnow
+score:1931
+numComments:163
+isOver18:False
+hasPostBody:True

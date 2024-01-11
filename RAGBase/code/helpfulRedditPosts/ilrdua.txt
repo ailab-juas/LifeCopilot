@@ -1,0 +1,27 @@
+title:
+LPT: When negotiating a salary for a new job, always ask them what their range is. If they tell you 'we don't have a range' they're almost always lying. HR and finance will almost never sign off hiring a new employee without a budget being in place.
+
+content:
+As a first point, you should always push back on discussing salary as close to an offer being made as possible. The more they are imagining you being a part of their team, the better the negotiating position you have.
+
+Once you're at that point, ask them what their range is. Your goal is to understand where you fit within the range. The more of the essential and desirable points in the job spec you meet, the higher up the range you'll be able to negotiate.
+
+However – and this is the important bit – if they come back and say 'they don't have a range', then it's almost always a lie (I'll come back to when it isn't in a minute). As someone who has either directly hired, or been involved in hiring over 40 employees across different industries, there's one constant. If you don't have sign off from HR and finance (potentially via a senior manager), then there isn't a position to hire for.
+
+To get sign off from those two crucial departments, you need a budget (the range) so the company can ensure that they will be able to afford the new hire, and that the salary is less than the ROI they will bring to the company.
+
+(It's also good to know that it can sometimes be worth pushing for a little over the defined range. I once had a company come back with a £6k offer above the top end of their budget because they hadn't expected to find someone at my level. They'd under budgeted and were competing against three other solid offers – all above the original top end of their budget).
+
+Now the only time that this might not apply is if they are hiring for a highly specialised position (either technical, or executive/c-suite level) where they need to pay whatever the market is demanding. But the chances are with those positions, you'll have a recruiter handling the negotiations who knows standard market rates and will be pushing for as high a salary as possible without going over what's reasonable, because their commission is usually a percentage of the accepted offer.
+
+If the job you're interviewing for doesn't fall into those above categories, then be very careful – especially when there's a deliverable involved in the interview process. Sometimes unscrupolous companies have been known to use fake jobs to farm ideas from highly qualified candidates without having to pay them for them.
+
+And even if that isn't the case, consider carefully whether you really want to work for a company where there is a culture of lying to you before you've even been hired.
+
+url:https://reddit.com/r/LifeProTips/comments/ilrdua/
+author:frontendben
+subreddit:LifeProTips
+score:48723
+numComments:1567
+isOver18:False
+hasPostBody:True

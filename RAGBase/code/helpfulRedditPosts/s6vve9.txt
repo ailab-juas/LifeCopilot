@@ -1,0 +1,13 @@
+title:
+LPT: The ability to discipline yourself to delay gratification in the short term in order to enjoy greater rewards in the long term, is the indispensable prerequisite for achievement.
+
+content:
+Delayed gratification means resisting the temptation of an immediate reward, in anticipation that there will be a greater reward later. A growing body of literature has linked the ability to delay gratification to a host of other positive outcomes, including academic success, physical health, psychological health, and social competence.
+
+url:https://reddit.com/r/LifeProTips/comments/s6vve9/
+author:humanmandude
+subreddit:LifeProTips
+score:16951
+numComments:418
+isOver18:False
+hasPostBody:True

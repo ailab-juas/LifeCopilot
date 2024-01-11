@@ -1,0 +1,15 @@
+title:
+YSK: if a rock comes off of a truck and damages your windshield, the truck driver will be held responsible for damages
+
+content:
+A lot of gravel trucks have decals that read “stay back 200ft” or “not responsible for damages” to deter people into thinking the company/driver isn’t liable for damages, but that isn’t true. Decals are not legally binding.
+
+All drivers are responsible for securing their load. In the event that an unsecured load damages your vehicle, you should always take the driver’s license plate number.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ghy5vg/
+author:JamieMadRocks
+subreddit:YouShouldKnow
+score:32826
+numComments:1173
+isOver18:False
+hasPostBody:True

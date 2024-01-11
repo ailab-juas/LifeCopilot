@@ -1,0 +1,15 @@
+title:
+YSK: if you raise the height of your vehicle you need to adjust the angle your headlights down.
+
+content:
+Why YSK: a lot of raised vehicles do not adjust their headlight position. The height adjustment ends up shining into other drivers’ eyes at an angle similar to high-beams, which is dangerous (and/or sucks to be on the receiving end). 
+
+The reason high-beams are called high beams is because they are angled to illuminate the road about twice as far as low-beams. When a vehicle is raised, low-beams can turn into high-beams.
+
+url:https://reddit.com/r/YouShouldKnow/comments/y1kozf/
+author:Bigringcycling
+subreddit:YouShouldKnow
+score:13342
+numComments:608
+isOver18:False
+hasPostBody:True

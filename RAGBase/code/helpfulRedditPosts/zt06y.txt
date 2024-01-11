@@ -1,0 +1,13 @@
+title:
+Get ice cube tray, pour chocolate, drop strawberries in, refrigerate.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/zt06y/
+author:Shelbaloo
+subreddit:LifeProTips
+score:1745
+numComments:145
+isOver18:False
+hasPostBody:False

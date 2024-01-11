@@ -1,0 +1,38 @@
+title:
+YSK: the contact lens company Hubble is fulfilling you prescription illegally with old and out dated materials not fully supported by the FDA
+
+content:
+EDIT: aww s**t 1.1k upvotes and I just now saw the typo in the title. My bad guys. I'm in grad school for math, not english.
+
+You should know more about the major company Hubble, which is currently advertising ALL over insta and fb.
+
+For those who don't know what they are, they are contact industry company whose biggest draw is how budget conscious they are. The contacts they offer are daily disposable, which traditionally are one of the most expensive wearing schedule options available in contacts because of the quantity manufactured compared to a 2-week or monthly lens. They offer a cancel-anytime membership at only $33 a month. Sounds like a steal right?
+
+Heres the facts.
+
+"Hubble daily disposable contact lenses are made from methafilcon A material by St. Shine Optical Co. with powers ranging from -0.75 D to -8.00D, a base curve of 8.6 mm, and a diameter of 14.2 mm"- taken from Optometry Times
+
+This means their contacts only come in one shape and size, and will only work if you dont use toric lenses. This eliminates a LARGE population of contact wearers. But, as many optometrists have filed complaints against Hubble, this doesnt stop them from sending you their contacts. In most states, companies like Hubble, 1-800-contacts or Sightbox, are legally required to contact your OD to verify that the prescription you provided the company is actually the correct prescription. What 1-800 contacts does, is they call your eye doctor, and an automated message with all your information plays, and they simply have to fax back a yes or no if the information is correct. But with Hubble, they call, but they dont let the doctors have any way of stopping an incorrect rx. No phone number, no fax number, no live agents. Our office is constantly flooded with calls from hubble fulfilling prescriptions that are completely inaccurate. Hubble is not verifying your information with your doctor before giving you their product. If they can't get your rx, they have been caught just fudging your rx to a non-toric fit and to the only size they offer, and sending you the contacts anyway hoping you don't notice.
+
+https://qz.com/1154306/hubble-sold-contact-lenses-with-a-fake-prescription-from-a-made-up-doctor/
+
+The material they use, Methafilcon A, is not recommended by most reputable optometrists. "One very important property of a lens material is oxygen transmissibility (Dk/t). This is a measure of how much oxygen can pass through to reach your cornea, while taking into account the thickness of the lens. Hubble contacts are made with an old material called methafilcon A, which has a Dk/t of 18.8. Research shows that a Dk/t of 24 is necessary to maintain cornea integrity and avoid swelling." Taken from drclaudialee.com. so not only will you have an increased risk of swelling, but the amount of oxygen allowed to pass through the lens is that much lower than other name-brand contacts. 
+
+I have seen more than my fair share of patients coming in from wearing hubble contacts coming in with corneal neovascularization/ulcers or kerataconus due too these poorly fitting contacts.
+
+Please please please, understand that as awesome as contacts are, they are a privilege not a right, and if you use terrible contacts, that privilege could be quickly stripped away. Doctors know contacts aren't cheap. If you need a more cost effective option, talk to you doctor. There are safer options than Hubble contacts. Plenty of brands offer a year supply of contacts for less than $33 a month.
+
+
+https://drclaudialee.com/2017/02/the-truth-about-hubble-contact-lenses/
+
+http://www.optometrytimes.com/modern-medicine-feature-articles/low-cost-contact-lens-site-looks-improve-compliance-drive-exams
+
+Tldr; hubble uses incredibly old and out-dated material to get their prices so low, and if they dont offer contacts in your prescription they've been caught just fudging the rx to work for their product without telling the consumer.
+
+url:https://reddit.com/r/YouShouldKnow/comments/9o6a0h/
+author:jessysav
+subreddit:YouShouldKnow
+score:7577
+numComments:252
+isOver18:False
+hasPostBody:True

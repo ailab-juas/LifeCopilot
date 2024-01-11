@@ -1,0 +1,13 @@
+title:
+LPT: If you're tempted to upgrade your phone but yours works just fine, try buying a new case, changing the background and download a theme that will change your icons and fonts. It will appear as a different device and may scratch that itch and buy you a couple more months.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/d4ugud/
+author:[deleted]
+subreddit:LifeProTips
+score:42667
+numComments:2060
+isOver18:False
+hasPostBody:False

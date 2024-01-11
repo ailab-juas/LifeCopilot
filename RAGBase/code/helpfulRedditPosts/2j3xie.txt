@@ -1,0 +1,21 @@
+title:
+LPT: When telling someone the date of something like an upcoming event, include the day of the week alongside the date.
+
+content:
+For example, instead of asking:
+
+*"Hey! Want to come to this party on 1st November?!"*
+
+ask:
+
+*"Hey! Want to come to this party on* **Saturday**, *1st November?"*
+
+It makes it way easier for people to determine if they'll be free, and in most cases will avoid having to make them check their calendar to see what day of the week it lands on. Most people have rough weekly routines that don't change much (work Mon-Fri, extra class Wed evenings, yoga on Sundays, etc.) so this extra piece of information is often very helpful.
+
+url:https://reddit.com/r/LifeProTips/comments/2j3xie/
+author:Ryphor
+subreddit:LifeProTips
+score:1719
+numComments:134
+isOver18:False
+hasPostBody:True

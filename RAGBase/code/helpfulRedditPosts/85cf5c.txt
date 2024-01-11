@@ -1,0 +1,15 @@
+title:
+YSK that in the US, you must add your newborn baby to your health insurance within 30 days of birth. If you wait even 31 days, you could be denied coverage until the next open enrollment, which could be up to a year.
+
+content:
+A friend from work had a baby 2 months ago. He just got his first medical bill, and his insurance company denied it despite him being enrolled in a family plan. After calling HR and the insurance company, he's SOL. He's going to have to buy extra insurance until open enrollment at the end of the year.
+
+More info here: [Protections for Newborns, Adopted Children, and New Parents](https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/publications/protections-for-newborns)
+
+url:https://reddit.com/r/YouShouldKnow/comments/85cf5c/
+author:adamdavenport
+subreddit:YouShouldKnow
+score:14360
+numComments:649
+isOver18:False
+hasPostBody:True

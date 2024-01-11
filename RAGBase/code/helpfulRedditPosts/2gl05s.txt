@@ -1,0 +1,13 @@
+title:
+LPT: Don't build custom computers for anyone.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/2gl05s/
+author:IsrarK
+subreddit:LifeProTips
+score:2174
+numComments:1078
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: At work, keep an ongoing document and update it every time you accomplish something that is noteworthy. Preparing for your reviews will be a breeze and you will increase your chances of getting raises.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/6nwjd3/
+author:genocideofnoobs
+subreddit:LifeProTips
+score:2283
+numComments:84
+isOver18:False
+hasPostBody:False

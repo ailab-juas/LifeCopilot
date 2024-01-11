@@ -1,0 +1,26 @@
+title:
+YSK An easy way to know whether to use "who" or "whom"
+
+content:
+An easy trick someone taught me a while back:  Use he/him.  When you're unsure, switch "who" with either "he" or "him".  If "he" fits in the sentence, then use "who". If "him" fits in the sentence, use "whom".  Remember this by associating the m at the end of "him" with the m at the end of "whom"
+
+Example:
+
+He is from California.
+Who is from California?
+
+Give him a high-five.
+Give whom a high-five?
+
+A pretty easy rule to remember, and soon it'll come pretty naturally!
+
+
+*edit - wow! top post all time on YSK...didn't see that coming, but I'm glad I could help out!
+
+url:https://reddit.com/r/YouShouldKnow/comments/jme5e/
+author:collinisballn
+subreddit:YouShouldKnow
+score:1514
+numComments:230
+isOver18:False
+hasPostBody:True

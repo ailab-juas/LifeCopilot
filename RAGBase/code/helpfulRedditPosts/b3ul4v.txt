@@ -1,0 +1,19 @@
+title:
+YSK about Dark Reader a browser add-on that inverts black and white on a website and effectively creating a "night mode" for every website you visit, which protects your eyes by inhibiting your shortsightedness!
+
+content:
+My eye sight was getting worse everytime I had to hardcore-study for exams (12h/day for min. 2 months). I read that scientists found out that black text on white ground was causing your eyeballs to grow and develop shortsightedness, while white text on black ground stops this process.
+
+I only use it for a week and I don't know if that actually works, but it defenitely protects me from headaches. I also inverted Microsoft Word by changing the MS-office Theme to grey and doing the same for the paper color. Be aware that it's a change and you sometimes want to revert, but do you eyes a favor and try to get used to it.
+
+&amp;#x200B;
+
+Source:  Aleman, A. C., Wang, M. and Schaeffel, F. (2018) ‘Reading and Myopia: Contrast Polarity Matters’, Scientific reports, vol. 8, no. 1, p. 10840. https://*doi*.org/*10.1038*/*s41598*\-*018-28904*\-*x*  
+
+url:https://reddit.com/r/YouShouldKnow/comments/b3ul4v/
+author:snowqt
+subreddit:YouShouldKnow
+score:2912
+numComments:117
+isOver18:False
+hasPostBody:True

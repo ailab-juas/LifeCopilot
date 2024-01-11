@@ -1,0 +1,13 @@
+title:
+LPT: At a restaurant, always wash your hands after ordering. Menus are generally the dirtiest thing you touch in a restaurant.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ci5114/
+author:paagalpieasian
+subreddit:LifeProTips
+score:31412
+numComments:1235
+isOver18:False
+hasPostBody:False

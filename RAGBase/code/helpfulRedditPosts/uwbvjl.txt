@@ -1,0 +1,13 @@
+title:
+LPT: Want to help someone who has trouble accepting help? Ask them for their permission for you to do a task, not if they would like your help. "Hey Greg, would you mind if I carry these boxes upstairs, too?" instead of "Hey Greg, want any help with those boxes?"
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/uwbvjl/
+author:JonOfNoTrades
+subreddit:LifeProTips
+score:1397
+numComments:39
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,24 @@
+title:
+YSK how to identify and avoid market manipulation with collectibles (like WATA/Heritage Auctions is doing with retro video games)
+
+content:
+Periodically, certain collectible items experience the “tulip craze” phenomenon where prices spike to incredible levels, only to crash a short time later leaving people who bought in “holding the bag” after overpaying for near-worthless goods. We saw this with collectible coins in the 1980s, Pogs and beanie babies in the 1990s, and now it’s happening with retro video games and VHS tapes.
+
+Sometimes these crazes happen naturally, but they can also happen through deliberate market manipulation. For example, right now prices for sealed retro video games *appear* to be skyrocketing. Maybe you saw the [allegedly record-breaking $1.5 million auction of a copy of Mario 64](https://www.npr.org/2021/07/14/1016037499/super-mario-64-video-game-auction-million-dollars) or some other stunning sale of a game that seems to fetch incredibly high prices that were inconceivable just a few years ago. Well, they were inconceivable a few years ago because the entities fixing prices hadn’t yet started their ploy.
+
+In [this video, Karl Jobst lays out exactly how WATA and Heritage Auctions are colluding to manipulate video game prices for their own gain.](https://www.youtube.com/watch?v=rvLFEh7V18A) And he also shows how some of the same people did it for collectible coins in the 1980s. The steps are simple and recognizable:
+
+- set up an entity that grades a collectible, and have that entity take a cut for every product it grades
+- have the grading entity “slab” each collectible: putting it in a fancy plastic case with a certificate of grading
+- work with a less-reputable auction house to facilitate sales for record-breaking prices by anonymous (inside) buyers, thereby catching the attention of news outlets
+- keep reselling (internally) the same collectible periodically so that the price appears to keep going up and news outlets report what appears to be a trend
+
+**Why YSK:** innocent people get swept up in these crazes, buying and selling in order to make quick cash. Inevitably the market bubble bursts and the people who bought in expecting the value to continue skyrocketing are “left holding the bag” with items that are far less valuable than they paid. The only people who are guaranteed to profit are the ones who fixed the market, and know the real prices of the goods.
+
+url:https://reddit.com/r/YouShouldKnow/comments/syv2zc/
+author:Ghost_Portal
+subreddit:YouShouldKnow
+score:3156
+numComments:106
+isOver18:False
+hasPostBody:True

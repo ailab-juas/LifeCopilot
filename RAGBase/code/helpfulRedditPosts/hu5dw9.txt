@@ -1,0 +1,19 @@
+title:
+LPT: When buying a house, create a dedicated email address for the house and use it for everything (but only for things) related to the house. Mortgage, insurance, lawn person, contractors, etc. It's so much easier, having it all in one place.
+
+content:
+When I recently bought mynew house, dealing with the number of different people involved is insane and keeping everything under control can be overwhel,ing.
+
+Mortgage brokers, insurance people, contractors, inspectors, banks, movers, cable and internet, bills, loan servicers, plumbers... it's creating a whole other, significant aspect of your life that requires clear management.
+
+By creating a (123MainStreet at Gmail) account that is used specifically for the house, it has made organizing everything a lot easier. Not only are all your house related digital records in one place, but so are all your contacts for people who you may not need to talk to very often, but may need to get back in touch with 3 years from now. Be sure to use descriptive, searchable words in the title so if you need to find the "drywall" guy again at some point down the line, you don't have to try and remember his name...
+
+Edit: People suggesting that using the Google + hack instead, a lot of web forms don't accept + in the data field. It just doesn't work everywhere, the point of a dedicated email is for it to work, seamlesly, everywhere and be distinct from everything else. 
+
+url:https://reddit.com/r/LifeProTips/comments/hu5dw9/
+author:MuhLaws
+subreddit:LifeProTips
+score:19939
+numComments:362
+isOver18:False
+hasPostBody:True

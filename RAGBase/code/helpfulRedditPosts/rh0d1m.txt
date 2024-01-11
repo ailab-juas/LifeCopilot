@@ -1,0 +1,13 @@
+title:
+LPT: When bringing a dish to be eaten by people whom you are not well-informed about (e.g. coworkers), put a list of the ingredients or the recipe on the container lid. It allows people with dietary restrictions, allergies/sensitivities to be confident about what they're eating!
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/rh0d1m/
+author:EtOHMartini
+subreddit:LifeProTips
+score:3324
+numComments:146
+isOver18:False
+hasPostBody:False

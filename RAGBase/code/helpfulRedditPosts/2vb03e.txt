@@ -1,0 +1,13 @@
+title:
+LPT: If you're looking for something and it's not in the first place you look, put it there after you find it.
+
+content:
+Realized this yesterday as I was looking for a rarely-used thermometer in my house. It was in the fourth place I checked, so after I was done using it I put it in the first place I checked.
+
+url:https://reddit.com/r/LifeProTips/comments/2vb03e/
+author:AgentDL
+subreddit:LifeProTips
+score:4131
+numComments:409
+isOver18:False
+hasPostBody:True

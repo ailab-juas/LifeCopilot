@@ -1,0 +1,13 @@
+title:
+LPT: If you make a mistake, admit to the mistake, apologize, and explain what steps you'll take to prevent it from happening again in the future. It's very hard for people to yell at you if you've done that.
+
+content:
+Both professionally and in my personal life, I know a bunch of people that refuse to admit to having made a mistake. When I mess up (and we all do at some point,) I just own up to it right away. By accepting responsibility, apologizing, and saying what I'll do to keep it from happening again, I not only avoid getting a lecture about whatever I did wrong, I also get thanked by my boss/friend/whoever.
+
+url:https://reddit.com/r/LifeProTips/comments/9fb7hi/
+author:CyberneticPanda
+subreddit:LifeProTips
+score:56701
+numComments:1173
+isOver18:False
+hasPostBody:True

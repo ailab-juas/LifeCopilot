@@ -1,0 +1,40 @@
+title:
+YSK: In the wake of the Deloitte and Equifax hacks, there are a couple of things you can do to lower your chances of identity theft.
+
+content:
+**Deloitte** announced yesterday that they were hacked but that they think it was mainly limited to emails. That’s bad enough since people talk with accountants all the time about extremely private financial matters. They also said they think that it’s limited to their email infrastructure but that they are still investigating.
+
+
+**Equifax** has pretty much botched everything from security before the leak to giving people options after they announced it months later.
+
+
+Step one is to get your credit report from [AnnualCreditReport.com](http://annualcreditreport.com) which is completely free and it’s the site mandated by the government, which credit bureaus maintain, where you can get a copy of your report once a year from the big three bureaus.
+
+
+Step two is to sign up for a credit monitoring service. Something like [this service which sends you emails when new things appear on your credit](https://creditkarma.com) will let you know immediately if something is going on with your credit without your knowledge. It also shows your VantageScore, which is essentially your FICO 8 score.
+
+
+Step three, and perhaps most importantly, you need to freeze your credit. I know it’s been said before by plenty of people on here and on the news, but I haven’t heard them talk about the possibility of holding your credit ransom.
+
+
+143 million people had their information accessed, now let’s say the hacker decides to go in and pre-emptively set their own credit freeze on your account. When your credit is frozen, it goes into a total lockdown mode where nobody new can access your report. You want to finance a car, the dealer runs your credit and sees there’s a freeze on the account, and you have no idea what the PIN is, when the freeze was placed, anything. It’s going to take weeks at least to have it lifted since you weren’t the one who placed it. What’s stopping the hackers from sending you an email when they receive a notification telling you to send $200 BTC to their Bitcoin address in exchange for the PIN? It’s a ransomware attack that would be mildly annoying if you’re thinking about buying a new vehicle or it could ruin your life if your car was totaled or broke down and you needed a new vehicle in the next day or two.
+
+Edit: user pgvoorhees below added a few pertinent links and another possible option:
+
+Put a fraud alert on your credit report. This is always free to do and This will require any lending institution to call you before approving a loan. These will last for 90 days. Mark this day on your calendar, and call back and do it again. For myself, I'll keep the fraud alert alive on my account forever.
+
+You only need to do this at one site. Unlike credit freezes, the notice will propagate to the credit history vendors. Here are the websites you need to go to to make this happen (pick one):
+
+    https://www.alerts.equifax.com/AutoFraud_Online/jsp/fraudAlert.jsp
+    https://www.transunion.com/fraud-victim-resource/place-fraud-alert
+    https://www.experian.com/fraud/center.html
+
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/72kfqp/
+author:adrenaline4210
+subreddit:YouShouldKnow
+score:3142
+numComments:228
+isOver18:False
+hasPostBody:True

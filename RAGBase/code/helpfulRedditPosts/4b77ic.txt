@@ -1,0 +1,29 @@
+title:
+LPT: Use LaTeX math formatting in Word, even outside Equation Editor!
+
+content:
+In Word's *Equation Editor* you can use LaTeX formatting to make things quite a bit easier. So type out your equations as:
+&gt;A_circle = \pi r^2
+Much better than clicking through ribbons and icons!
+
+Another useful tip, is that you can use some LaTeX formatting outside of *Equation Editor* as well. This is particularly useful if you type out Greek letters (\alpha, \beta, \pi...)
+
+To activate this functionality:
+
+* Go to Options
+* Select the Proofing tab
+* Click on the 'Autocorrect Options...' icon
+* Select the 'Math AutoCorrect' tab
+* Check the box 'Use Math AutoCorrect rules outside of math regions'
+
+And voila! You can now type Greek letters and other symbols (\degree, \degc, \int, etc) directly into your document.
+
+edit: wow front page! this has blown up since I posted it this morning. Anyway, fixed formatting. And...I didn't really want this to be a Latex vs Word thing. Yeah...Latex is superior (I wrote my PhD dissertation, a book, and loads of papers with it) but it can be a pain at times (using a managed pc? collaborating with a bunch of people?). So this is really just aimed at making life a bit easier with Word. 
+
+url:https://reddit.com/r/LifeProTips/comments/4b77ic/
+author:bu_J
+subreddit:LifeProTips
+score:3134
+numComments:444
+isOver18:False
+hasPostBody:True

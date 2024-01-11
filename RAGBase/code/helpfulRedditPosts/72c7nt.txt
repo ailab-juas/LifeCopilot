@@ -1,0 +1,25 @@
+title:
+YSK about a website called stolencamerafinder.com, which uses the unique serial number from the exif data of photos to help you locate your stolen camera
+
+content:
+[Link to the website](http://www.stolencamerafinder.com)
+
+From their description:^^^# Every photo you take with your digital camera contains hidden information about both the image and the camera such as the make, model and date. This information, called exif data, can also include a unique serial number which identifies your camera.
+
+This website crawls the internet searching for photos, collecting the serial numbers of the cameras that took them.
+
+When you use the drag &amp; drop feature, stolencamerafinder reads the unique serial number from the exif data of your photo and uses it to match against serial numbers it has stored. 
+
+
+
+---
+
+^^***#:*** ***^^I ^^am ^^not ^^affiliated ^^with ^^them***
+
+url:https://reddit.com/r/YouShouldKnow/comments/72c7nt/
+author:doorbellguy
+subreddit:YouShouldKnow
+score:14145
+numComments:230
+isOver18:False
+hasPostBody:True

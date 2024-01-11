@@ -1,0 +1,22 @@
+title:
+YSK Microsoft will make the Windows 10 upgrade a "recommended" update starting next year; making it install automatically.
+
+content:
+*What this means for you*: If your Windows box is setup for automatic updates an installer will run when it receives the new recommended update; upgrading your machine to Windows 10.
+
+*Work around*: Unfortunately several of the recommendations people give do not work in the long run, either Microsoft releases a new version of the update which will negate hiding the update, or Microsoft could ignore any change you make to the registry. The only way to 100% be sure that this doesn't happen is to turn off automatic updates and manually shift through any new updates.
+
+It may be that Microsoft will choose to ask confirmation before the installer actually runs, but they've already chosen to not do this, and there's no reason to believe they won't again. Even if they do ask for a final confirmation before installing it's still going to download 8GB of data, which depending on what ISP you have could be a significant portion of your allotted monthly bandwidth for something you may not want.
+
+*source*: 
+http://arstechnica.com/information-technology/2015/10/windows-10-will-be-made-an-automatic-recommended-update-early-next-year/
+
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/3xm7cy/
+author:Two_Coins
+subreddit:YouShouldKnow
+score:1632
+numComments:461
+isOver18:False
+hasPostBody:True

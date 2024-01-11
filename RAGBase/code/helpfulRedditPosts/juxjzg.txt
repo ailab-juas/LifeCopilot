@@ -1,0 +1,19 @@
+title:
+YSK that birth control failure rates may be higher than you think if you only look at the stats for "perfect use".
+
+content:
+This link shows failure rates for "perfect" vs. "typical" use for several contraceptive methods in the U.S. 
+
+[Contraceptive Effectiveness](https://www.guttmacher.org/fact-sheet/contraceptive-effectiveness-united-states)
+
+As one example, condoms have a 2% failure rate with perfect use, but 15% failure rate with typical use. You often hear that condoms are 98% effective, which sounds great, but this is only if they are used properly every time. 
+
+Why YSK: Thinking you are getting more protection than you actually are can lead to unplanned pregnancy. It's important to educate yourselves and your children (if applicable) on proper use, because humans are not perfect. Watch educational videos, visit educational websites, or talk to a doctor.
+
+url:https://reddit.com/r/YouShouldKnow/comments/juxjzg/
+author:yabunsandthighs
+subreddit:YouShouldKnow
+score:1773
+numComments:142
+isOver18:False
+hasPostBody:True

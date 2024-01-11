@@ -1,0 +1,15 @@
+title:
+YSK that if your captcha keeps making you identify objects (buses, crosswalks, etc.) endlessly then your connection is probably stuttered/dropped and you should refresh your page, login, whatever to check your connection. Should fix the problem right away.
+
+content:
+My dad has ended up spending 40 minutes identifying crosswalks non-stop because he didn't know his internet connection fell off mid-way. He was about to lose his shit when I came along and then he started ranting about how the internet is dumb and useless for making him waste so much of his time yada yada yada you get the idea.
+
+All I had to do was refresh the page for him and he got it literally on the next 2 clicks.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ibb6rf/
+author:duhbla
+subreddit:YouShouldKnow
+score:1151
+numComments:30
+isOver18:False
+hasPostBody:True

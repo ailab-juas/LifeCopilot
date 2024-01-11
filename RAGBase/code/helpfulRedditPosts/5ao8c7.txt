@@ -1,0 +1,13 @@
+title:
+YSK: You can listen to YouTube videos while your phone is locked with the Firefox app
+
+content:
+You just have to press play after locking you phone or switching apps. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/5ao8c7/
+author:Coffee_Grains
+subreddit:YouShouldKnow
+score:2154
+numComments:244
+isOver18:False
+hasPostBody:True

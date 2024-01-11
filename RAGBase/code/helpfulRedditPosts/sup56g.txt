@@ -1,0 +1,34 @@
+title:
+LPT: Don't accept a new job position with a salary that's lower than your expectations, hoping that it will balance out after a couple years.
+
+content:
+This is likely anecdotal, but I've seen this a few times with employees I've hired. They will undervalue their expected salary in hopes that they can prove themselves in a year or two and end up ahead. The problem with this approach is that they always end up behind. Typically, there's an internal salary range and as long as the person's expected salary is within that range, HR will not adjust it even if the person is overqualified. Note that this is in the corporate world and may not be true for everyone. 
+
+A real scenario that I've seen:
+
+-Role had a range of $80-90K
+
+-Applicant wanted $90K/yr, but felt pressure to get in the role and only asked for $80K
+
+-Now a 10% bonus is also $1K less
+
+-Employee performs really well over their first year
+
+-All increases are % based
+
+-I try to get the employee to $90K, but am blocked by red tape due to increase total being &gt;10%
+
+-Employee ends up with increase to $88K but is still behind what they could've been hired at
+
+-Employee is now even more unsatisfied since they thought they would be at the $90K amount after proving themselves
+
+
+I'm not saying the system is right, but it is a reality in the corporate world. When salaries are calculated based on percentage, upper management could be getting increases that are twice as high without being flagged, since it would still be below the thresholds. Make sure to negotiate salaries and that you're comfortable with the amount so that it doesn't haunt you later.
+
+url:https://reddit.com/r/LifeProTips/comments/sup56g/
+author:stubbzillaman
+subreddit:LifeProTips
+score:1925
+numComments:82
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+LPT: make banking and other document record keeping easy by downloading all previous years statements at the beginning of the year.
+
+content:
+While I know that ill probably never-ever look at my checking statements in the future, I also know that keeping good records is important. I hate filing papers though, and its a pain to try and keep track of every statement. So every year in January, I log onto all my accounts that have something important that should be filed (banking, investments, insurance, etc) and download all the previous years paperwork in PDF then save it to a folder (i.e.: Records&gt;Checking&gt;2013&gt;2013 Statements)
+
+Easy! Takes maybe an hour once a year and might make all the difference in the world if you ever need those records in the future. Or you'll never look at them again, but it only takes a few MB of space rather than boxes of old papers. 
+
+url:https://reddit.com/r/LifeProTips/comments/2s0uh8/
+author:galbury
+subreddit:LifeProTips
+score:1602
+numComments:110
+isOver18:False
+hasPostBody:True

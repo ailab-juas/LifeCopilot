@@ -1,0 +1,21 @@
+title:
+YSK that when requesting customer service of any kind, use gentle terms to convey your problem and avoid writing in all caps or swearing. When customer service representatives know they won't be rated poorly and won't have to deal with a lot of back and forth, you'll get help much faster.
+
+content:
+Why YSK: I am a CSR and as all CSRs will attest to, it's a numbers game. Working as a customer service representative is an ungrateful job, the companies mostly want CSRs to do more numbers and the most important KPI is the customer satisfaction score and average handling time.
+
+You do more numbers at the same time keep the customer satisfied no matter how big the issue is.
+
+If a customer writes in a ticket with swear words or writes in anger, most agents avoid it and only deal with it if necessary in order to avoid getting their KPIs getting messed up, as it also affects their bonuses most of the time.
+
+To beat this and get help faster, use gentle words, as CSRs don't really get paid enough to care if you stop using their services or not, as it doesn't affect them.
+
+The moment a client becomes rude, you'll be thrown around a number of agents without getting help, as no one wants to deal with them.
+
+url:https://reddit.com/r/YouShouldKnow/comments/v68llw/
+author:cknyakina
+subreddit:YouShouldKnow
+score:13584
+numComments:316
+isOver18:False
+hasPostBody:True

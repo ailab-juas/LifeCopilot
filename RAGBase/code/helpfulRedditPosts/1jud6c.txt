@@ -1,0 +1,15 @@
+title:
+LPT: Make a Google number specifically for meeting new people at bars, clubs, etc. This allows you to quickly end abusive and belligerent callers.
+
+content:
+I'm surprised at how few people, especially girls, do this. When you're out meeting people and give them your number you do not know what kind of person they will become. By making a Google number you are protecting yourself by having a number you can delete when one person becomes too much to bear. This way you don't have to delete your personal number, can create a new number for future people, and are protected from people who become to overbearing.
+
+Edit: just so you know, Google Voice (which is the service you get a Google number through) does not affect your monthly minutes or text limit. 
+
+url:https://reddit.com/r/LifeProTips/comments/1jud6c/
+author:SalsBrain
+subreddit:LifeProTips
+score:1773
+numComments:314
+isOver18:False
+hasPostBody:True

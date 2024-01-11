@@ -1,0 +1,13 @@
+title:
+LPT: When learning a new language, just speak, don't be afraid. It's ok to make mistakes, go on different Apps and find people to talk to in the language you're learning. It's free and will help a lot.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ff7rlw/
+author:liuhh00
+subreddit:LifeProTips
+score:2131
+numComments:113
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,17 @@
+title:
+LPT: Muting annoying tabs on Google Chrome.
+
+content:
+You already know that Google Chrome browser shows that tabs are making noise (represented by the speaker on the right of the tab). But there is a hidden option in Chrome to make this speaker do more than just show the tab makes noise. This function makes the icon becomes a button, and clicking on it you can mute the tab.
+
+To enable this feature go to *chrome://flags/#enable-tab-audio-muting* and click **Enable**. 
+
+Have a nice day :)
+
+url:https://reddit.com/r/LifeProTips/comments/2unj6o/
+author:netocavalcanti
+subreddit:LifeProTips
+score:1023
+numComments:39
+isOver18:False
+hasPostBody:True

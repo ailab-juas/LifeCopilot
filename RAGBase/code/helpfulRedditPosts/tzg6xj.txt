@@ -1,0 +1,21 @@
+title:
+LPT: If you work in a callcentre and keep hearing a high pitched beep, ask the oldy on the line to check their smoke detector's battery.
+
+content:
+Back when I worked tech support, the number of times a day I'd be on the line with an older person and hear this beep on the line was so confusing. It took me visiting my gran and hearing the exact same beep to do the math. Her smoke detector battery was dying and being an oldy herself, she just couldn't hear it.
+
+[The older you get the worse your hearing range is](https://www.youtube.com/results?search_query=age+hearing+test) and smoke detectors are all high pitched.
+
+From then on I'd interupt the call and tell people their smoke alarm was dying. They were generally way more appreciative than the call QA people were for me wasting company time talking about things for which said company was not responsible.
+
+Screw them. Given the number of times it happened in a day, statistically I like to think maybe I saved a life.
+
+Edit: The callcentre thing is not important. Any communication on an open mic. Phone, zoom/skype/teams/google-whatever-it's-called-now, multiplayer games on xbox, PS, VR, etc...
+
+url:https://reddit.com/r/LifeProTips/comments/tzg6xj/
+author:paegus
+subreddit:LifeProTips
+score:2070
+numComments:156
+isOver18:False
+hasPostBody:True

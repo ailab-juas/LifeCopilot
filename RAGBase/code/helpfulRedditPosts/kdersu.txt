@@ -1,0 +1,13 @@
+title:
+LPT: Wait a day or two before posting about a persons passing
+
+content:
+If you know someone who passed away recently please wait at least a day before posting on social media. My grandpa passed away recently and a cousin posted as soon as they heard. This meant that a lot of people found out through social media before family members could even call them.
+
+url:https://reddit.com/r/LifeProTips/comments/kdersu/
+author:mockg
+subreddit:LifeProTips
+score:19436
+numComments:809
+isOver18:False
+hasPostBody:True

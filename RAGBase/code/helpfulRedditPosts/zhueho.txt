@@ -1,0 +1,15 @@
+title:
+YSK: If you want to store any kind of digital media for long term safe keeping, CD's/DVD's have the longest shelf life and in ideal conditions can achieve data storage for 100-200 years.
+
+content:
+Why YSK: Because unlike hard drives which store the data magnetically or SSD's which store the state electrically - CD's and DVD's physically burn the 1's and 0's with a laser and are virtually impervious to magnetic fields, physical impact like dropping,etc. The discs must be physically eroded away (e.g. scratched disks) to result in days loss. Generally, it is best to keep ROM discs in a dry, cool environment for maximum shelf life
+
+Edit: I'm not suggesting to use DVD over cloud storage and keeping multiple copies. But if you need to have a physical media copy of something, DVD ROM is ideal. For example, if you want to keep a physical backup of master decryption keys or passwords and keep in a safe - that would be another prime example.
+
+url:https://reddit.com/r/YouShouldKnow/comments/zhueho/
+author:xarzilla
+subreddit:YouShouldKnow
+score:10825
+numComments:415
+isOver18:False
+hasPostBody:True

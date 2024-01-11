@@ -1,0 +1,13 @@
+title:
+LPT: Always use the custom installation option when installing software.
+
+content:
+If they give you a custom installation vs recommended or w/e option, use custom because chances are they are trying to trick you to install third party addons, programs, or tool bars (...the worst of them all). By clicking custom installation you can uncheck these unwanted installations only leaving you with your originally intended software installation. Cheers.
+
+url:https://reddit.com/r/LifeProTips/comments/1kwkgl/
+author:gangbangzhang
+subreddit:LifeProTips
+score:1676
+numComments:200
+isOver18:False
+hasPostBody:True

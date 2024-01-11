@@ -1,0 +1,13 @@
+title:
+LPT: When looking to switch jobs, google the name of your company and look at all the companies in 'People also search for' section. These are the top targets for your search.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/3kp398/
+author:Jgrnaut_vibe
+subreddit:LifeProTips
+score:4307
+numComments:293
+isOver18:False
+hasPostBody:False

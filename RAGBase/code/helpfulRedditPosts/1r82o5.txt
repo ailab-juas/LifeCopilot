@@ -1,0 +1,25 @@
+title:
+YSK: These six myths about vaccinations and why they are wrong
+
+content:
+[The myths](http://theconversation.com/six-myths-about-vaccination-and-why-theyre-wrong-13556):
+
+1. Vaccines cause autism
+
+2. Smallpox and polio have disappeared so there’s no need to vaccinate anymore
+
+3. More vaccinated people get the disease than the unvaccinated
+
+4. My unvaccinated child should be of no concern to your vaccinated one
+
+5. Vaccines contain toxins
+
+6. Vaccines will overwhelm kids’ undeveloped immune systems
+
+url:https://reddit.com/r/YouShouldKnow/comments/1r82o5/
+author:Notmyrealname
+subreddit:YouShouldKnow
+score:1203
+numComments:475
+isOver18:False
+hasPostBody:True

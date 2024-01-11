@@ -1,0 +1,13 @@
+title:
+LPT: Remember that five minutes of daily exercise is infinitely better than zero minutes.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/zn02ol/
+author:ramboStallone965
+subreddit:LifeProTips
+score:2443
+numComments:71
+isOver18:False
+hasPostBody:False

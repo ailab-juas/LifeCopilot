@@ -1,0 +1,15 @@
+title:
+LPT: Use Wikipedia's 'Nearby' to find interesting attractions to visit when you're traveling or looking for a new adventure.
+
+content:
+Link: http://en.wikipedia.org/wiki/Special:Nearby
+
+Although mobile and desktop versions of Wikipedia support this type of search, you may have not have seen this feature if you don't access the site from your phone.
+
+url:https://reddit.com/r/LifeProTips/comments/1ydvds/
+author:octopustoe
+subreddit:LifeProTips
+score:2667
+numComments:157
+isOver18:False
+hasPostBody:True

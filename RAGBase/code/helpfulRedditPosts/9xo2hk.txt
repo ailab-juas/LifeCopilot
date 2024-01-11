@@ -1,0 +1,13 @@
+title:
+LPT: If you need to keep records of digital letters/files in a folder chronologically, use a 'YearMonthDate+Filename' naming format. '20171128 Letter_IRS' is easy to find, and will be arranged chronologically when you sort by name.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/9xo2hk/
+author:babydoll_bd
+subreddit:LifeProTips
+score:2502
+numComments:189
+isOver18:False
+hasPostBody:False

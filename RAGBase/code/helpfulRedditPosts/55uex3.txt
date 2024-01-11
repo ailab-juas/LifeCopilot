@@ -1,0 +1,17 @@
+title:
+YSK: LPT: If you or someone you know is below the 200% poverty level or currently enrolled in an income-based government assistance program, you can get unlimited Sprint 4g LTE wifi data for $120 a year.
+
+content:
+A friend of mine is having a hard time with internet because he can't afford it, and it hampers his job searches and other things that he could do online. For example, he has to hitch a ride down to the water department just to pay his bill every month. Same for electric and gas bills. It's costing him more money because he'll have to take the bus or pay someone for gas to get there. I did a bunch of searching and googling and ended up finding this
+
+http://pcsforpeople.com/recipients/low-cost-internet
+
+I helped him sign up for this and so far it's been really good for him. Of course, Sprint is terrible in rural areas when you're more than 5 miles from a major highway, but it's pretty good in town. He's getting about 9mbps down during the day and upwards of 40 during the nights. You have to buy the hotspot, so the first year is $195 technically, but the cost of the data is $120 for 12 months.
+
+url:https://reddit.com/r/YouShouldKnow/comments/55uex3/
+author:Rawtashk
+subreddit:YouShouldKnow
+score:2441
+numComments:254
+isOver18:False
+hasPostBody:True

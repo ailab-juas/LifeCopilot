@@ -1,0 +1,13 @@
+title:
+LPT: When picking someone up from the airport, bring some food and water
+
+content:
+I know, not really a common occurrence these days. But plane trips are long and the air is dry. When someone lands they may not have had anything to eat or drink in several hours, and they'll very much appreciate it. Especially since buying food or drink in the airport is very expensive.
+
+url:https://reddit.com/r/LifeProTips/comments/i30k5o/
+author:DebtUpToMyEyeballs
+subreddit:LifeProTips
+score:6471
+numComments:273
+isOver18:False
+hasPostBody:True

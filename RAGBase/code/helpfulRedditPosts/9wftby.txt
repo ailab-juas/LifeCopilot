@@ -1,0 +1,13 @@
+title:
+LPT: Do not talk about things at work that can later backfire, even if you think your co-worker is a good friend of yours.
+
+content:
+For example, "I lied on resume about this to get the job" or "I am going to work here for a little while and go somewhere else...". 
+
+url:https://reddit.com/r/LifeProTips/comments/9wftby/
+author:StuntmanK
+subreddit:LifeProTips
+score:2950
+numComments:246
+isOver18:False
+hasPostBody:True

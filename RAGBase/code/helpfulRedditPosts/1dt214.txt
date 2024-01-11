@@ -1,0 +1,13 @@
+title:
+YSK - there is a free, easy and fun way to learn languages and other facts online in just minutes a day, and at your own pace - Memrise [repost because it's awesome]
+
+content:
+www.memrise.com
+
+url:https://reddit.com/r/YouShouldKnow/comments/1dt214/
+author:sunzitaow
+subreddit:YouShouldKnow
+score:2282
+numComments:275
+isOver18:False
+hasPostBody:True

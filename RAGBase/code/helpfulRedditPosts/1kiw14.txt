@@ -1,0 +1,44 @@
+title:
+You should know when a verb turns into a noun, for example the difference between "set up" and "setup".
+
+content:
+English has this thing called "phrasal verbs" (verbs are "doing words") where one or more words are added to a verb to make a different meaning. You can *call* your mother, but you can also *call for* your mother and *call on* your mother, or even *call out to* your mother. You can *send* your assistant somewhere, but also *send for* your assistant, which is essentially the opposite. 
+
+That's all well and good, but people frequently get something wrong—when one of those verbs changes into a noun. 
+
+A common example is "set up". We all know what it means to *set up* a new computer. That's the verb, made up of two words:
+
+* I set up my computer
+* she sets up her computer
+* we were setting up our computer
+* your computer has been set up
+
+So what's "setup" or "set-up"?
+
+Those are *nouns*, or naming words. A setup is a *thing* (an abstract noun). It's the noun that means "the process or activity of setting up something". 
+
+It is **never** correct to write "I setup my computer", any more than it would be correct to write "I fixedup my computer". 
+
+It is however correct to write:
+
+* I  did the setup of my computer
+* she did the setup of her computer
+* we were working on the setup of our computer
+* we have completed the setup of your computer
+
+And also to write things like "here are the setup details for your computer", because again, it's not a verb. It's like "here are the monitor details for your computer". 
+
+
+
+
+
+
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/1kiw14/
+author:twentythree-nineteen
+subreddit:YouShouldKnow
+score:1007
+numComments:205
+isOver18:False
+hasPostBody:True

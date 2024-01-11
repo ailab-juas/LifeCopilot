@@ -1,0 +1,13 @@
+title:
+LPT: Get a custom domain name for your business, don't publish your ISP email account or web mail service. You risk losing your lifeline to your customers and it looks shady!
+
+content:
+Far too often I see people posting their gmail, hotmail or ISP email address on signage, business cards, vehicles, etc.  This locks you in to a potentially costly and compromising situation if you decide to move, change ISPs or your service provider goes out of business.  For a relatively low yearly fee you can get your own domain name and have it forwarded to any provider you like.  Boost your company profile!
+
+url:https://reddit.com/r/LifeProTips/comments/25j9kk/
+author:realrube
+subreddit:LifeProTips
+score:1896
+numComments:458
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: if money is tight, buy a big bag of rice, it is cheap and will last for ages and is incredibly versatile
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/i8vcfk/
+author:saitosoul
+subreddit:LifeProTips
+score:1156
+numComments:172
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,23 @@
+title:
+LPT: When you have a laptop for college, make sure you make two accounts. One for studying and one for all other things.
+
+content:
+A clean desktop and lack of games (you can remove them per user) can really limit distractions. Put a website blocker on the browser of the account for studying, this will prevent you even more from procrastinating.  
+
+Taking this to the extreme: bonus points for everyone who dualboots Windows and Linux or uses VMs!
+
+If you found the above too extreme, you can also try [multiple virtual desktops in Windows 10](http://www.howtogeek.com/197625/how-to-use-virtual-desktops-in-windows-10/) as some of you have suggested.
+
+**Edit:** This could also apply to a work environment, call it a presentation account.
+
+**Edit 2:** If you have a Mac, download the *SelfControl* app. You can block any sites that you mindlessly type in when you are trying to distract yourself from studying. /u/glazzies
+
+**Edit 3:** Use *leechblock* to block websites on Firefox and *StayFocusd* on Chrome.
+
+url:https://reddit.com/r/LifeProTips/comments/50nfex/
+author:haxgone
+subreddit:LifeProTips
+score:4303
+numComments:1380
+isOver18:False
+hasPostBody:True

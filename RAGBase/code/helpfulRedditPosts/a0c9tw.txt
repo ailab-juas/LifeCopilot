@@ -1,0 +1,19 @@
+title:
+YSK that you don't actually need to share your email when signing up for things
+
+content:
+instead of giving away this information and having your inbox flooded with spam and scam emails
+
+you can go to [www.guerrillamail.com](https://www.guerrillamail.com/) where they will hook you up with a temporary, disposable email address!
+
+just don't let the freedom go to your head..
+
+&amp;#x200B;
+
+url:https://reddit.com/r/YouShouldKnow/comments/a0c9tw/
+author:aflockofdoves1
+subreddit:YouShouldKnow
+score:3512
+numComments:211
+isOver18:False
+hasPostBody:True

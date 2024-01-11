@@ -1,0 +1,17 @@
+title:
+LPT: Whenever you are having work done on the house, always insist on being told the supplier of all the materials/parts (windows, doors, blinds, tiles etc. etc.) - when you need spares 5 years down the line, there is no guarantee your contractor will still be around to tell you.
+
+content:
+I have rewritten the title to make it slightly clearer, since some people were having trouble with it (and my pride as a linguist can't take it):
+
+**Whenever you have any work done on the house, always insist that the contractor tell you where all the materials and parts they have used were sourced from. If you ever need spare/replacement parts in the future, you might not be able to find out where to get them from because your contractor might not be around any more.**
+
+I have followed my own advice sometimes (e.g. writing down paint colour codes) but I have a roller blind that has been broken for two years now because I can't find the place where the contractor got them from (they are unbranded) and he won't return my calls.
+
+url:https://reddit.com/r/LifeProTips/comments/6ygidu/
+author:dob_bobbs
+subreddit:LifeProTips
+score:30734
+numComments:484
+isOver18:False
+hasPostBody:True

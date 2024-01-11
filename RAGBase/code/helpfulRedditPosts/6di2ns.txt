@@ -1,0 +1,13 @@
+title:
+LPT - Don't say "I'm sorry" when what you mean to say is "Thank you". As in "Thank you for going to the mall with me." Instead of "I'm sorry I dragged you to the mall."
+
+content:
+People will be more likely to do things like that in the future instead of feeling like it was a chore or burden on them.
+
+url:https://reddit.com/r/LifeProTips/comments/6di2ns/
+author:DavinKye
+subreddit:LifeProTips
+score:6237
+numComments:147
+isOver18:False
+hasPostBody:True

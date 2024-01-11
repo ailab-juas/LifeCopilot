@@ -1,0 +1,13 @@
+title:
+LPT: Put wood glue over a splinter, let it dry then peel it off.
+
+content:
+This is how my grandfather dealt with splinters.
+
+url:https://reddit.com/r/LifeProTips/comments/1itgxu/
+author:aceat64
+subreddit:LifeProTips
+score:2150
+numComments:291
+isOver18:False
+hasPostBody:True

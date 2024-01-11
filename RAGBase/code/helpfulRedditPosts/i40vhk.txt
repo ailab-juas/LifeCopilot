@@ -1,0 +1,13 @@
+title:
+YSK: Service Dog etiquette is to leave them alone as to not distract the dog's focus. So if they come to you for attention, immediately locate their owner as they could be using a last ditch effort to get help.
+
+content:
+They will usually follow you, whine, bark, or otherwise try to grab your attention if this is the case.
+
+url:https://reddit.com/r/YouShouldKnow/comments/i40vhk/
+author:KissAndControlx
+subreddit:YouShouldKnow
+score:58636
+numComments:759
+isOver18:False
+hasPostBody:True

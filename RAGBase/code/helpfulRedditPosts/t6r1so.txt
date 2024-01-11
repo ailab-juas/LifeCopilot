@@ -1,0 +1,19 @@
+title:
+LPT: If your job requires you to make outbound calls, here is how to properly start a call.
+
+content:
+"Hi, my name is NAME, with COMPANY, and I'm trying to reach X about Y."
+
+
+This immediately tells the person on the phone what the call is about and who is trying to be reached. It is disarming, especially in our current age of scam/spam calls, and will get the people talking to you easier, with less delay in trying to figure out what the call is about. We're all on the defensive now when answering calls from numbers we don't recognize.
+
+
+Bonus Tip: Leave a voicemail if we don't answer. Don't expect a callback if we don't even know why you called.
+
+url:https://reddit.com/r/LifeProTips/comments/t6r1so/
+author:rabidelectron
+subreddit:LifeProTips
+score:7437
+numComments:387
+isOver18:False
+hasPostBody:True

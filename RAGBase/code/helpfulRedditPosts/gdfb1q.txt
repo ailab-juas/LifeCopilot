@@ -1,0 +1,13 @@
+title:
+YSK about Google Scholar (scholar.google.com) for research.
+
+content:
+It is incredibly useful for writing papers, especially ones that need cited work from trusted sources. While it is a search engine, and therefore not perfect, it narrows down your browsing for niche subjects and science studies especially.
+
+url:https://reddit.com/r/YouShouldKnow/comments/gdfb1q/
+author:bshred8
+subreddit:YouShouldKnow
+score:7442
+numComments:119
+isOver18:False
+hasPostBody:True

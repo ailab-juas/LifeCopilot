@@ -1,0 +1,13 @@
+title:
+LPT: if you don’t feel like doing anything in the morning, go for a 15-minute walk around the neighbourhood. By the time you return, you’ve accomplished something and started your day.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/r9njrw/
+author:whk1992
+subreddit:LifeProTips
+score:18385
+numComments:555
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,23 @@
+title:
+LPT: College professors often don't mention borderline or small cases of academic integrity violations, but they do note students who do this and may deal harshly with bigger violations that require official handling. I.e., don't assume your professors are idiots because they don't bust you.
+
+content:
+I'm speaking from experience here from both sides.
+
+As a student myself and a professor, I notice students can start small and then get bolder as they see they are not being called out. As a student, we all thought that professors just don't get it or notice. 
+
+As a professor myself now, and talking with all my colleagues about it, I see how much we do get (about 100X more than we comment on), and we gloss over the issues a lot of the time because we just don't have the time and mental space to handle an academic integrity violation report. 
+
+Also, professors are humans who like to avoid nasty interactions with students. Often, profs choose just to assume these things are honest mistakes, but when things get bigger, they can get pretty pissed and note a history of bad faith work.
+
+Many universities have mandatory reporting policies for professors, so they do not warn the students not to escalate because then they acknowledge that they know about the violations and are not reporting them.
+
+Lastly, even if you don't do anything bigger and get busted, professors note this in your work and when they tell you they "don't have time" to write you that recommendation or that they don't have room in the group/lab for you to work with them, what they may be telling you is that they don't think highly of you and don't want to support your work going forward.
+
+url:https://reddit.com/r/LifeProTips/comments/zk5mym/
+author:zazzlekdazzle
+subreddit:LifeProTips
+score:17131
+numComments:706
+isOver18:False
+hasPostBody:True

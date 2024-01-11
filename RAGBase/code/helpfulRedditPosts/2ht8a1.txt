@@ -1,0 +1,13 @@
+title:
+LPT: Use "Crtl + Backspace" to delete entire words at a time.
+
+content:
+This function will delete entire words instead of single characters, as well as stop at most punctuation.
+
+url:https://reddit.com/r/LifeProTips/comments/2ht8a1/
+author:the_lock
+subreddit:LifeProTips
+score:3223
+numComments:536
+isOver18:False
+hasPostBody:True

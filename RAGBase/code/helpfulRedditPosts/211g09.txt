@@ -1,0 +1,15 @@
+title:
+LPT: Google has a timer built into it. Simple type "timer" and the time you want and hit enter and away you go.
+
+content:
+Example:
+
+[Timer 15 min](https://www.google.com/search?q=timer+15+min&amp;oq=timer+15+min&amp;aqs=chrome..69i57j0l5.4690j0j7&amp;sourceid=chrome&amp;espv=210&amp;es_sm=122&amp;ie=UTF-8)
+
+url:https://reddit.com/r/LifeProTips/comments/211g09/
+author:dupurz
+subreddit:LifeProTips
+score:1615
+numComments:130
+isOver18:False
+hasPostBody:True

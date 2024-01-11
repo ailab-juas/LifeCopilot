@@ -1,0 +1,13 @@
+title:
+LPT: NEVER turn your wheel at an unprotected left turn, in case you are rear ended
+
+content:
+If you are hit from behind while waiting to make an unprotected left you will roll into oncoming traffic and could be T-boned.  This is an easy thing to do that could save your life and your passengers.  
+
+url:https://reddit.com/r/LifeProTips/comments/24se13/
+author:boomnigguh
+subreddit:LifeProTips
+score:1930
+numComments:404
+isOver18:False
+hasPostBody:True

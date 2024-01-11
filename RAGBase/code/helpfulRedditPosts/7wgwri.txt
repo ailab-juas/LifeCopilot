@@ -1,0 +1,21 @@
+title:
+YSK: Space Pinball 3D runs on Modern Windows so if you still have a Windows 2000 or XP installer and feeling nostalgic you can salvage it from a virtual machine.
+
+content:
+Space Pinball 3D or "3D Pinball for Windows - Space Cadet" was a game included with Windows NT, 2000 and XP. 
+
+Just make a VM, make a shared folder, copy "C:\Program Files\Windows NT\Pinball" into the shared folder, then copy it over to your host. and simply run it. No need for compatibility mode. 
+
+There are no compatibility issues as far as I noticed besides the ball taking longer to spawn and a lack of lights on some launches. The game is tiny. (the entire folder is 2.5MB). It is also much worse than I remember :)
+
+Edit: [proof](https://i.imgur.com/NUYp0Kh.png)
+
+Edit 2: Wow, this post blew up. Everyone is asking ["why not play it online"](https://classicreload.com/win9x-3d-pinball-space-cadet.html) or ["why not install it directly"](https://www.groovypost.com/howto/windows-7-3d-pinball-space-cadet-game/). Well first, I thought the game was hard to acquire because I heard a few jokes about that, I didn't know that it was avalible. Secondly, The copyright still belongs to Maxis Software (which is owned by EA, I didn't know that), A lot of people don't care, but a lot of people do. Thirdly, There is charm to running the original executable. It just feels right. Fourthly, Some paranoid people might not trust the installer and the website. Good luck finding a checksum for a game that never had an installer in the first place. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/7wgwri/
+author:oshaboy
+subreddit:YouShouldKnow
+score:2816
+numComments:71
+isOver18:False
+hasPostBody:True

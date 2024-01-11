@@ -1,0 +1,13 @@
+title:
+YSK: YouTube Vanced is a popular modded version of YouTube. It adds a number of features to the official YouTube app, including built-in adblocking, background playback, black/dark themes, and much more.
+
+content:
+You can head over to r/Vanced or https://vanced.app/
+
+url:https://reddit.com/r/YouShouldKnow/comments/gf0ivz/
+author:[deleted]
+subreddit:YouShouldKnow
+score:5655
+numComments:413
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+YSK that "Plan C", a very safe no-longer-pregnant pill, is widely available online.
+
+content:
+Why YSK: For people living in certain states, this is likely to be your safest method for not-being-pregnant-anymore. There are several well respected websites through which you can request and receive these pills, they are very safe and have been used in Europe for 35+ years.
+
+url:https://reddit.com/r/YouShouldKnow/comments/uhljiv/
+author:LavaSquid
+subreddit:YouShouldKnow
+score:5123
+numComments:350
+isOver18:False
+hasPostBody:True

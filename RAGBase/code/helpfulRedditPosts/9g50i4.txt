@@ -1,0 +1,13 @@
+title:
+YSK: Yelp filters non-recommended reviews &amp; has been accused of hiding good reviews for companies that refuse to pay them for advertising.
+
+content:
+Scroll down to the bottom of each business page and click on “reviews that are not recommended.” 
+
+url:https://reddit.com/r/YouShouldKnow/comments/9g50i4/
+author:protegehype
+subreddit:YouShouldKnow
+score:18509
+numComments:777
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: "Because that's the way we've always done it" alone is almost never a good reason to keep doing something he old way. A fresh set of eyes can be the best asset you have.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/u4ytii/
+author:naty__mendes
+subreddit:LifeProTips
+score:3403
+numComments:139
+isOver18:False
+hasPostBody:False

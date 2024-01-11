@@ -1,0 +1,13 @@
+title:
+Use the original eggshell to remove shards from the egg so it sticks
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/10tyat/
+author:oswaldow
+subreddit:LifeProTips
+score:1525
+numComments:233
+isOver18:False
+hasPostBody:False

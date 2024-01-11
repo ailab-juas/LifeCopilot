@@ -1,0 +1,13 @@
+title:
+LPT: When submitting essays, etc., post your document to r/GradeMe first. They'll check your essays and give you writing tips.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/wuaig/
+author:[deleted]
+subreddit:LifeProTips
+score:1169
+numComments:162
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,26 @@
+title:
+YSK about making comments on federal agency regulation changes (in the USA)
+
+content:
+YSK that every time a federal agency makes a change to a regulation, there is a mandatory open comment period. This is for changes made by an agency only (such as the EPA, for example), not congressional action or executive orders.
+
+Proposed actions are listed at www.regulations.gov.
+Any citizen is welcome to comment, for or against, on any topic of discussion. You may write as much or as little as you would like.
+
+After the comment period closes, all submitted comments are taken under review by the agency, and responded to (often in batch responses to similar comments). The response will often feature data that the agency has collected while preparing to issue the proposed rule. 
+
+The agency uses the submitted comments to help determine if they should enact the proposed rule change or not, and may publish well written comments that they leaned on when making the final decision.
+
+Many states also follow this process on their own website.
+
+Given how many rules are changed, big and small, that may impact your life as an American citizen, you should know about your right to voice your opinions on the issues.
+
+Edit: as a couple users have mentioned, thorough and original responses are better than form letters or un-supported opinions. But for most of us out there (including me), any involvement in this regard is better than what we are currently doing. Additionally, there are apparently some procedural benefits to stating resistance to these things in some cases. So go out and do the best you can! Every comment helps.
+
+url:https://reddit.com/r/YouShouldKnow/comments/5q9qqz/
+author:iowastatefan
+subreddit:YouShouldKnow
+score:3804
+numComments:69
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: When someone tells you something you already know, don’t say “I know.” Instead say “You’re right.” or "That's true." Serves the same purpose, but is a more generous saying.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/xo77pw/
+author:itsjustdifferent_
+subreddit:LifeProTips
+score:8526
+numComments:213
+isOver18:False
+hasPostBody:False

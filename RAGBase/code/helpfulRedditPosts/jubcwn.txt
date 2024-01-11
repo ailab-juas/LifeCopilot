@@ -1,0 +1,13 @@
+title:
+LPT: When you make pancakes, turn the oven on 200°f and use it to keep the ones you finished warm while you finish cooking the rest.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/jubcwn/
+author:cyrano-de-whee
+subreddit:LifeProTips
+score:7735
+numComments:328
+isOver18:False
+hasPostBody:False

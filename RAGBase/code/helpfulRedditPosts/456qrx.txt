@@ -1,0 +1,13 @@
+title:
+LPT: When showing someone a photo on your phone, zoom in the tiniest bit first. It'll keep them from being able to swipe to see other photos.
+
+content:
+Note: This is meant for accidental swipes. Sometimes the slightest thumb movement triggers the pic to slide. Obviously if the person intends on swiping, this trick won't deter them
+
+url:https://reddit.com/r/LifeProTips/comments/456qrx/
+author:ttyoung
+subreddit:LifeProTips
+score:3197
+numComments:312
+isOver18:False
+hasPostBody:True

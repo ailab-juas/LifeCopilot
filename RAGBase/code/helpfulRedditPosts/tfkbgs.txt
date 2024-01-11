@@ -1,0 +1,17 @@
+title:
+YSK Many Roomba's are now locked to a subscription, don't buy them secondhand, it's a scam
+
+content:
+iRobot, the makers of Roomba are selling some of their vacuums with no upfront cost but a $30 monthly subscription fee (for replacement parts and service). If you go to buy certain used Roombas (i7 or j7 model seems most common) you will find them for a good price but when you turn it on it will tell you it needs an active subscription. The subscription is $30 a month... to use your robot you just bought... and it will never work without a subscription. On top of that for free you could have signed up for the subscription service and they will send you a brand new, most up to date model Roomba. So essentially you just paid $200 for an older model Roomba on top of the $360 annual fee when you could have just paid the $360 annual fee for a new Roomba. 
+
+&amp;#x200B;
+
+Why YSK: if you find a good price on certain used Roombas you are likely being scammed into a mandatory subscription. You could instead sign up for the subscription for the same price and get a brand new model Roomba but you will never be able to resell it.
+
+url:https://reddit.com/r/YouShouldKnow/comments/tfkbgs/
+author:superua
+subreddit:YouShouldKnow
+score:25776
+numComments:1428
+isOver18:False
+hasPostBody:True

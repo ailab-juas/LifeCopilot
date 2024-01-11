@@ -1,0 +1,19 @@
+title:
+YSK that there's a US government website you can use to see payments your doctors and hospitals may have received from drug and medical device companies
+
+content:
+https://openpaymentsdata.cms.gov/
+
+You can look up doctors and hospitals in the US (and I think maybe Canada, not sure) and see how much money or other compensation they're making from drug and medical device companies. It'll also show you who they're getting the money from, and if it's more or less than the average doctor in their field receives.
+
+**Edit:** To reiterate what some commenters have said, this is not (usually) companies just giving money to doctors, I should have worded the title different. It's anything of value. Take them out to lunch? That's added in. Fly them somewhere to learn about new medical equipment? That's added in. And doctors do legitimately need to do this, learn about things out there.
+
+My advice would be to look and see the compensation received and, if it's higher than average for their specialty, look at the other tab to see where the money is coming from. I'd be concerned if the bulk of it was coming from only one company and they were prescribing drugs from that company, that could indicate that they're not considering other options of treatment and just getting wined and dined by that one company. If the payments are more spread out, I'd be less concerned, personally.
+
+url:https://reddit.com/r/YouShouldKnow/comments/cc51g6/
+author:rabidstoat
+subreddit:YouShouldKnow
+score:6217
+numComments:113
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: For those that have purchased a gaming console to gift for the holidays, try finding time to plug it in to update and install the games before gifting it. This could take several hours to do and something no-one would want to do(especially a child) after unwrapping their exciting new present.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/7fqsgq/
+author:Zeezyb
+subreddit:LifeProTips
+score:5193
+numComments:361
+isOver18:False
+hasPostBody:False

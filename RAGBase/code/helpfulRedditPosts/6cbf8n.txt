@@ -1,0 +1,19 @@
+title:
+YSK If you think your email account could be compromised you can check at haveibeenpwned.com
+
+content:
+We hear about data breaches so often, it can be a pain to figure out if you are vulnerable. You can use the site https://haveibeenpwned.com/ to find out if your email account may be compromised. You will have to submit your email address to check. Also the website can notify you if your email account may have been compromised. 
+
+Edit1: If you do find out you email account is compromised, see if you can still access the account, then change the password as soon as possible to something strong and use a password manager like [Last Pass](https://www.lastpass.com/) or [Keepass](https://www.lastpass.com/) to store you passwords. 
+
+Also if possible, [disable security questions](https://www.wired.com/2016/09/time-kill-security-questions-answer-lies/), they tend to be a weakness not a strength in many cases. 
+
+Edit2:Also it should be obvious but never tell anyone or any site your password, ever!
+
+url:https://reddit.com/r/YouShouldKnow/comments/6cbf8n/
+author:OgdruJahad
+subreddit:YouShouldKnow
+score:1856
+numComments:119
+isOver18:False
+hasPostBody:True

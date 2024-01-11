@@ -1,0 +1,13 @@
+title:
+LPT: When ordering Ryanair tickets with a foreign currency be sure to uncheck the hidden box of Ryanair's proposed currency exchange rate to avoid paying additional 6% on your flight
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/uxz92/
+author:RytisM
+subreddit:LifeProTips
+score:1338
+numComments:146
+isOver18:False
+hasPostBody:False

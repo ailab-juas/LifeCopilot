@@ -1,0 +1,13 @@
+title:
+LPT: after you’ve finished using the washing machine, leave the door and the detergent tray open until it’s dry. This prevents mold from forming inside your machine.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/8cagjj/
+author:reallylatetotheparty
+subreddit:LifeProTips
+score:6186
+numComments:258
+isOver18:False
+hasPostBody:False

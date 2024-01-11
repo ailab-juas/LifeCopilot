@@ -1,0 +1,15 @@
+title:
+LPT: You can let Google list all the flight times from your origin to the destination.
+
+content:
+Just search: *origin* to *destination* flight time
+
+Recently discovered this and it might be handy for some.
+
+url:https://reddit.com/r/LifeProTips/comments/4c1hr8/
+author:xzxluisxzx
+subreddit:LifeProTips
+score:3671
+numComments:220
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Use a heated blanket instead of a space heater. You’ll save a ton of money on your electricity bill.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/z735ny/
+author:Lastnv
+subreddit:LifeProTips
+score:6926
+numComments:487
+isOver18:False
+hasPostBody:False

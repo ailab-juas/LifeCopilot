@@ -1,0 +1,15 @@
+title:
+YSK you can adjust adjust your car's headlights so they don't blind oncoming traffic and maximize light coverage on the road.
+
+content:
+What a lot of people don't know is that many cars comes with knobs or screws that you can adjust the direction your headlights are pointing.  
+There's a bunch of videos that goes into how to properly adjust your headlights like [this one](https://youtu.be/qDudMM4J-ZE)  
+If your lights are properly adjusted, you won't shine directly into other cars' cabins and you can make sure you have good light coverage
+
+url:https://reddit.com/r/YouShouldKnow/comments/ds1mfd/
+author:WikipediaBurntSienna
+subreddit:YouShouldKnow
+score:5326
+numComments:184
+isOver18:False
+hasPostBody:True

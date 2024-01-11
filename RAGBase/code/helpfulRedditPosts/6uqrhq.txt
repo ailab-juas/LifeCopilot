@@ -1,0 +1,13 @@
+title:
+YSK that you don't have to worry about your pets looking at the sun during the eclipse. If you have chickens they might put themselves to bed though.
+
+content:
+I'm seeing a few posts warning people to put pets inside during the eclipse.  There is no reason to panic.  Animals won't stare into the sun.  Animals have lived millions of years without anyone putting them indoors during an eclipse.   Chickens will often put themselves back in their coops to roost.  Please don't spread pet panic!
+
+url:https://reddit.com/r/YouShouldKnow/comments/6uqrhq/
+author:exotics
+subreddit:YouShouldKnow
+score:9996
+numComments:596
+isOver18:False
+hasPostBody:True

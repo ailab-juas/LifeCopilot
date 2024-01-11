@@ -1,0 +1,15 @@
+title:
+YSK not everyone on reddit knows what they're talking about
+
+content:
+Especially on this site, it's important to critically examine everything you read. Upvotes and consensus don't mean much, so do yourself a favor and stay cautious. Don't be a conspiracy theorist, but at the same time don't go in blind.
+
+Trust me.
+
+url:https://reddit.com/r/YouShouldKnow/comments/1dodjf/
+author:anonymous123421
+subreddit:YouShouldKnow
+score:1860
+numComments:582
+isOver18:False
+hasPostBody:True

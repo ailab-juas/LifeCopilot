@@ -1,0 +1,13 @@
+title:
+YSK that cold weather doesn't prevent sunburns.
+
+content:
+With the cold weather and snow across North America, I feel like it's important to remember that heat =/= high sunburn chance. The UV rays can actually be easier to ignore due to the cold, but they can still burn your skin. Stay careful out there.
+
+url:https://reddit.com/r/YouShouldKnow/comments/amlo7k/
+author:CanadianLemur
+subreddit:YouShouldKnow
+score:1454
+numComments:60
+isOver18:False
+hasPostBody:True

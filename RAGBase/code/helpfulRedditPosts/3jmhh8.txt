@@ -1,0 +1,23 @@
+title:
+YSK about ransomware viruses!
+
+content:
+I work in IT as a consultant and have been seeing ransomware viruses for nearly 2 years now. Yesterday a client in a payroll setting was infected by cryptowall and had to pay the ransom to get their files back. They were not following proper file storage procedures or they could have simply restored from backups. 
+
+These viruses encrypt your data and then demand a ransom to unlock your files. I have had 2 customers lose important information when infected by cryptowall. It is important that you keep cold storage backups or use an online backup software that has versioning (previous versions). 
+
+Here is info on cryptowall which is one of the largest ongoing ransomware viruses at the moment: http://www.bleepingcomputer.com/virus-removal/cryptowall-ransomware-information
+
+Here is another example of a ransomware virus called Locker:
+http://www.techsknowall.com/topic/32-locker-ransomware/
+
+There are many other ransomware viruses... These are not going away, keep good backups!
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/3jmhh8/
+author:puckpou
+subreddit:YouShouldKnow
+score:1007
+numComments:176
+isOver18:False
+hasPostBody:True

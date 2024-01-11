@@ -1,0 +1,13 @@
+title:
+YSK NASA has a webpage that offers advice to those wanting to write convincing science-fiction.
+
+content:
+[https://er.jsc.nasa.gov/seh/SFTerms.html](https://er.jsc.nasa.gov/seh/SFTerms.html)
+
+url:https://reddit.com/r/YouShouldKnow/comments/eqys24/
+author:jbuk02
+subreddit:YouShouldKnow
+score:41019
+numComments:422
+isOver18:False
+hasPostBody:True

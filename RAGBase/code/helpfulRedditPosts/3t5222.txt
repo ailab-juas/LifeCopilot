@@ -1,0 +1,13 @@
+title:
+YSK that Google Music doesn't inform you when something becomes unavailable, the music just disappears from your library and playlists
+
+content:
+For anyone who cares about their music, this is a vital information. I found out the hard way. I'm in the process of moving to another service.
+
+url:https://reddit.com/r/YouShouldKnow/comments/3t5222/
+author:humanysta
+subreddit:YouShouldKnow
+score:3126
+numComments:445
+isOver18:False
+hasPostBody:True

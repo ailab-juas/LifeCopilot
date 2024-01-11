@@ -1,0 +1,15 @@
+title:
+YSK if you own a Samsung refrigerator with a malfunctioning ice maker, you can get a free replacement
+
+content:
+Why YSK: There has been a lot of issues with Samsung’s french door refrigerators and their ice makers. The ice maker will freeze over causing it to no longer make ice until force thawed and ice will melt in the storage holder. 
+
+If you contact Samsung with a model that has this issue, they’ll send a technician to fix it for free even if it’s outside the warranty period.
+
+url:https://reddit.com/r/YouShouldKnow/comments/oqo38u/
+author:islanders571
+subreddit:YouShouldKnow
+score:15275
+numComments:827
+isOver18:False
+hasPostBody:True

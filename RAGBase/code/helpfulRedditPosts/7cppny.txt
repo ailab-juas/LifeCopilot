@@ -1,0 +1,13 @@
+title:
+LPT: BCC your private email account on any correspondents with HR or on anything that can affect your career. If you are to lose your job and ability to access your emails it can save you.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/7cppny/
+author:[deleted]
+subreddit:LifeProTips
+score:19396
+numComments:1132
+isOver18:False
+hasPostBody:True

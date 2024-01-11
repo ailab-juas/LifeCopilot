@@ -1,0 +1,22 @@
+title:
+YSK: You can counter confirmation bias by always asking people to contradict rather than confirm your beliefs.
+
+content:
+Confirmation bias happens when we notice evidence that supports our beliefs and ignore evidence that challenges our beliefs. The process is subconscious but it leads to people developing more extreme views.  
+
+
+You can counter confirmation bias by asking people to confirm the opposite of what you believe.   
+
+
+For example, if you think that there aren't a lot of female bus drivers, ask a friend, "Have you ever noticed how there are a lot of female bus drivers?  
+
+
+If they say yes, it's likely you've just been confirming your biases. If they come back later and say "No, actually there aren't very many women driving buses," it's a lot more likely you were right in the first place. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/9vvsy8/
+author:gtheot
+subreddit:YouShouldKnow
+score:4726
+numComments:137
+isOver18:False
+hasPostBody:True

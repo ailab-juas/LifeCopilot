@@ -1,0 +1,21 @@
+title:
+YSK You Should Not Refinance Your Student Loans in the US Through a Private Loan At This Time In Most Cases
+
+content:
+Why YSK: You could lose the opportunity to have $10,000-$20,000 of your student loans forgiven through a program approved by the Biden Administration earlier this year if you refinance through a personal loan.
+
+I’ve seen this question asked on Reddit on a few different subs over the last few months. Today I signed up for email alerts concerning the student loan forgiveness program, because it is recommended that everyone apply for it when the application becomes available later this month. This was in the email I received after signing up:
+
+**“DON’T refinance your federal student loans unless you know the risks. If you refinance federal student loans eligible for debt relief into a private loan, you will lose out on important benefits like one-time debt relief and flexible payment plans for federal loans.”**
+
+If you currently have student loans and don’t qualify for other forgiveness programs, such as the PSLF forgiveness program (most don’t), I recommend reviewing this link to see if your eligible for the one-time forgiveness, how to log into your federal student aid account, and sign up for the alerts as well so you know when to apply for this new student loan forgiveness.
+
+https://studentaid.gov/debt-relief-announcement/one-time-cancellation
+
+url:https://reddit.com/r/YouShouldKnow/comments/xwqpoz/
+author:notmydepartment
+subreddit:YouShouldKnow
+score:3967
+numComments:136
+isOver18:False
+hasPostBody:True

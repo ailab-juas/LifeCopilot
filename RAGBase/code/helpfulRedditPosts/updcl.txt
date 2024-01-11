@@ -1,0 +1,13 @@
+title:
+Consanguinity Relations 
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/updcl/
+author:Freesoundjo
+subreddit:YouShouldKnow
+score:1386
+numComments:114
+isOver18:False
+hasPostBody:False

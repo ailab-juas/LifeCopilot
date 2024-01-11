@@ -1,0 +1,13 @@
+title:
+Fill plastic water bottles a quarter of the way full and lay on the sides and put into freezer. This way when frozen you can fill with water and have ice cold water on the go. 
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/zeotu/
+author:Testicle_Festival
+subreddit:LifeProTips
+score:3252
+numComments:500
+isOver18:False
+hasPostBody:False

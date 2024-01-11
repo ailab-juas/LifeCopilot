@@ -1,0 +1,27 @@
+title:
+LPT: How to help someone out without being taken advantage of
+
+content:
+I was just explaining this to a friend today; figured I should share it with a wider audience.
+
+There's the old saying, "You can't help someone who won't help themselves", well this tip takes that a bit further "Don't help someone who won't help themselves"
+
+If you're a helpful person, chances are you find yourself always with a promise to keep, and some people may in fact be taking advantage of the fact that you will always be available for them.
+
+**Protip: Whenever someone asks you for some kind of favour, create a little hurdle for them to do in order to redeem the favour.**  
+If they're not willing to cross the hurdle, then what they needed from you was clearly not important enough for them.
+
+For example, if a family member needs tech support for their computer, rather than drop everything and go around to help them - I'll ask them to deliver the computer to me at work. If it's not that important for them, they won't be bothered to bring it to me and I won't have spent my time and resources on it.  
+If it's really important enough for them, then they'll do it and I'll happily fix it for them at that point. 
+
+Sometimes it's as simple as 'Write me an email with all the details, and I will follow it up from there'.
+
+You get to continue to be that helpful person, and you won't end up wasting your time on things that aren't that necessary.
+
+url:https://reddit.com/r/LifeProTips/comments/13nefr/
+author:pelirrojo
+subreddit:LifeProTips
+score:1739
+numComments:208
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,23 @@
+title:
+LPT: Until you can acknowledge that you did something wrong without adding “but” you haven’t accepted responsibility.
+
+content:
+There’s a huge difference between saying:
+
+ “I am sorry I hurt you” 
+
+             &amp; 
+
+“I am sorry you feel hurt”
+
+On the first statement, you acknowledge what you did. You take ownership and responsibility. 
+
+In the second statement, you have recused yourself as the cause of the pain. You are almost mocking the person.
+
+url:https://reddit.com/r/LifeProTips/comments/stmxo2/
+author:d3vilmad3m3
+subreddit:LifeProTips
+score:15748
+numComments:769
+isOver18:False
+hasPostBody:True

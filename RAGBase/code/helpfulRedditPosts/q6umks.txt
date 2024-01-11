@@ -1,0 +1,13 @@
+title:
+LPT: when eating don't pick up or prepare your next mouthful until your mouth is empty of the current one. This means you'll eat slower which means you'll feel full with less food, and will eat less overall.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/q6umks/
+author:jaymar888
+subreddit:LifeProTips
+score:1237
+numComments:138
+isOver18:False
+hasPostBody:False

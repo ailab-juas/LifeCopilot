@@ -1,0 +1,13 @@
+title:
+YSK: Vendors like Seatgeek and even Ticketmaster will not show you the actual view of where you will sit.
+
+content:
+ Why YSK: It will give you the best view of that section, but will not show you other aspects you may overlook. Things like pillars or other aspects that could intervein with your viewing experience. Once you buy tickets, you are then responsible for selling them, no refunds. Before you buy tickets, go to a site like [aviewfrommyseat.com](https://aviewfrommyseat.com/) where purchasers are kind enough to take and upload actual photos of which section, row, and seat the view was from.
+
+url:https://reddit.com/r/YouShouldKnow/comments/xl6e5r/
+author:pinkyp23
+subreddit:YouShouldKnow
+score:9605
+numComments:117
+isOver18:False
+hasPostBody:True

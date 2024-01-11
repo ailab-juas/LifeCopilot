@@ -1,0 +1,13 @@
+title:
+YSK: Gas stations in California are not allowed to charge for air and water.
+
+content:
+Why ysk: The air and water machines at gas stations are coin operated. There is seemingly a charge for this service. If you read the fine print, they sometimes call it a donation. If you ask the attendant to turn it on, they will either give you a token, or they can turn it on for you. Voila! Free!
+
+url:https://reddit.com/r/YouShouldKnow/comments/nsjd58/
+author:1under50
+subreddit:YouShouldKnow
+score:6077
+numComments:212
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: If someone says they didn’t get your email, forward them the original one you sent instead of sending a new email. This ensures the other party has the timestamp and proof the original email was sent on time.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/j0wvhm/
+author:almightytuna
+subreddit:LifeProTips
+score:1974
+numComments:79
+isOver18:False
+hasPostBody:False

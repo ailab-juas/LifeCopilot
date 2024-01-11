@@ -1,0 +1,13 @@
+title:
+LPT: Tape measures have its length on the product so when you're measuring something that requires you to *bend* the tape, just include the length of the tape measure!
+
+content:
+A [picture](https://i.imgur.com/6NyGoZ0.jpg) is worth a thousand words.
+
+url:https://reddit.com/r/LifeProTips/comments/de79lj/
+author:F0MA
+subreddit:LifeProTips
+score:1373
+numComments:134
+isOver18:False
+hasPostBody:True

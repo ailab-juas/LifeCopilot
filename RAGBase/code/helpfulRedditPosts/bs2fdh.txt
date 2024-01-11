@@ -1,0 +1,19 @@
+title:
+YSK that a child’s body heat rises 3-5 times faster than adults, and can die in a hot vehicle within an hour.
+
+content:
+Its starting to warm up (at least here in the south). In 2018, 52 children died from being left in hot cars, mostly unintentionally. A vehicles temperature can rise to 125F within minutes of direct sunlight exposure on a warm day. 80% of this temperature increase can happen within the first 10 minutes, and children have died at temperatures as low as 60F. 
+
+I plead to you to remind your friends, family, and loved ones with children to always check the car before they lock the doors. It never hurts to double check. 
+
+If you see a child in a car by his/herself please call an emergency line for your location. 911, or whatever the numbers are in other countries. 
+Here’s a link to some facts about kids and cars for anyone looking for more information. 
+[Kids and Cars](http://www.kidsandcars.org/wp-content/uploads/2019/04/Heatstroke-fact-sheet-2019.pdf)
+
+url:https://reddit.com/r/YouShouldKnow/comments/bs2fdh/
+author:daobear
+subreddit:YouShouldKnow
+score:6020
+numComments:165
+isOver18:False
+hasPostBody:True

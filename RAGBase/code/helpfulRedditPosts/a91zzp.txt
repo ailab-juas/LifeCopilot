@@ -1,0 +1,19 @@
+title:
+YSK If you want to share someone a Youtube video but want it to start from a particular timestamp, you can append &amp;t=&lt;time_in_seconds&gt; to the URL and the video will skip to exactly that timestamp when they'll open it.
+
+content:
+Like if you're sharing a talk with someone but want the other person to look at something particular, you can add the timestamp to the URL. This AOA's kpop will start from 3:18 after appending &amp;t=198 to the URL.
+
+[https://www.youtube.com/watch?v=1pBgMBBsv4k&amp;t=198](https://www.youtube.com/watch?v=1pBgMBBsv4k&amp;t=198)
+
+&amp;#x200B;
+
+Use ? instead of &amp; if it's a [youtu.be](https://youtu.be) link on all platforms. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/a91zzp/
+author:awhitesong
+subreddit:YouShouldKnow
+score:1672
+numComments:57
+isOver18:False
+hasPostBody:True

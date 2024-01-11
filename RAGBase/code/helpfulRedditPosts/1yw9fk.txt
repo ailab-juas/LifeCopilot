@@ -1,0 +1,15 @@
+title:
+YSK about Ctrl+Space Bar
+
+content:
+In Windows, if you highlight text ant press Ctrl+Space, it removes all character and style formatting in Word, Outlook, etc.
+
+I use this mostly when I am copying/pasting text from other sources. Instead of trying to get the color, size and font of what you just pasted to match what you are already typing, just select it and Ctrl+Space. It will change it to the default formatting. Saves lots of time.
+
+url:https://reddit.com/r/YouShouldKnow/comments/1yw9fk/
+author:kaldrazidrim
+subreddit:YouShouldKnow
+score:2675
+numComments:161
+isOver18:False
+hasPostBody:True

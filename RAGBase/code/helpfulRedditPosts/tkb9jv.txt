@@ -1,0 +1,13 @@
+title:
+LPT: When you think about doing something, start doing it instead of talking yourself out of it. When you think of going on a run, put on your shoes and go, instead of trying to come up with an excuse. You’ll be done in no time, and feel good for following through with something.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/tkb9jv/
+author:neurowhitebread
+subreddit:LifeProTips
+score:18671
+numComments:636
+isOver18:False
+hasPostBody:False

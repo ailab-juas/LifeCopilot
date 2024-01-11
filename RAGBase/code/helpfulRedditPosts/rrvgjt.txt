@@ -1,0 +1,17 @@
+title:
+LPT: if you’re traveling to America and you’re asked for a zip code when you use your card, it’s 00000
+
+content:
+I live in a tourist town in Florida that sees lots of international clients. It’s standard that if you use a debit card, you enter a PIN. But if it’s a credit card, you’ll likely be asked for a zip code. Zip codes don’t exist outside of the US, so if you’re ever asked, the 5 digit “zip” is 00000.
+
+I’ve done this hundreds of times for Canadians and several Europeans. I helped a Greek gentleman today that was confused when I asked for a zip code, so I hope this helps fellow international travelers!
+
+Edit: my bad guys, zip codes do exist elsewhere. Every time I’ve asked a non-American for one they’ve look at me puzzled so I assumed incorrectly. My mistake! My job prompts for a zip code every time a credit card is used, but that’s likely not the case everywhere though.
+
+url:https://reddit.com/r/LifeProTips/comments/rrvgjt/
+author:BurkaBurrito
+subreddit:LifeProTips
+score:34937
+numComments:1656
+isOver18:False
+hasPostBody:True

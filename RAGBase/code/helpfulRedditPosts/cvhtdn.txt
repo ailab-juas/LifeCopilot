@@ -1,0 +1,13 @@
+title:
+LPT: "Who/whom" is the same as "he/him". If you use "who" in a sentence, mentally substitute "he". If you would say "him" instead, then "whom" is the correct pronoun in that case.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/cvhtdn/
+author:AnomalousAvocado
+subreddit:LifeProTips
+score:51747
+numComments:1543
+isOver18:False
+hasPostBody:False

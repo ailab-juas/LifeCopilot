@@ -1,0 +1,13 @@
+title:
+LPT: If someone is getting worked up and overexcited and frustrated about a topic, they're probably just venting and not asking for advice. Be there to listen, not to lecture.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/8g5v93/
+author:KneeDeep185
+subreddit:LifeProTips
+score:37308
+numComments:664
+isOver18:False
+hasPostBody:False

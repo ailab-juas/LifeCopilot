@@ -1,0 +1,13 @@
+title:
+LPT: Do NOT throw away steel wool cleaning supplies together with household batteries.
+
+content:
+You will complete an electrical circuit once the battery leads connect to the iron embedded within the wool, thus creating a fire within seconds inside your trash.
+
+url:https://reddit.com/r/LifeProTips/comments/wet36q/
+author:bhammond95
+subreddit:LifeProTips
+score:3038
+numComments:244
+isOver18:False
+hasPostBody:True

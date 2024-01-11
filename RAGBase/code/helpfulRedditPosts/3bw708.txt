@@ -1,0 +1,29 @@
+title:
+LPT: How to get free internet on US Airways/American Airlines on a Mac or iPad
+
+content:
+1. Connect to the gogo wifi network
+
+2. Browse the movie library and find a free movie
+
+3. Click on the free movie and it will bring you to a page to download the gogo app
+
+4. Enter the code to access to App Store to get to the gogo app
+
+5. You will be in the App Store 
+
+6. Go back to Safari and open a new tab
+
+7. Enjoy free wifi!
+
+*For this to work you must leave the App Store running in the background and keep open the safari tab that redirects you to the App Store
+
+I am currently writing this post from 30,000 feet in the air with free internet!
+
+url:https://reddit.com/r/LifeProTips/comments/3bw708/
+author:Walkingtalkinghawkin
+subreddit:LifeProTips
+score:4129
+numComments:662
+isOver18:False
+hasPostBody:True

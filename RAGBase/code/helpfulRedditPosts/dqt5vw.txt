@@ -1,0 +1,21 @@
+title:
+LPT: on ios if you hold down space bar you can go anywhere in the sentence to fix any mistakes instead of tapping and missing the letter.
+
+content:
+Apparently it works on other phones too!
+
+edit 2: it works on androids with gboard i believe!
+
+edit3: i’m glad i could help everyone, thank you all!
+
+edit 4: i’ve been asked to clarify, if you hold down on space bar on some android and most ios phones you can slide it to and part of what you’re typing to fix and typos, mistakes, etc.
+
+edit 5: if you have a phone with 3d touch it doesn’t matter where you press on the keyboard
+
+url:https://reddit.com/r/LifeProTips/comments/dqt5vw/
+author:AutobiographicalHam
+subreddit:LifeProTips
+score:17751
+numComments:854
+isOver18:False
+hasPostBody:True

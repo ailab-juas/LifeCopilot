@@ -1,0 +1,33 @@
+title:
+LPT: If you have to use a "but" avoid using it towards a negative statement. Do your wording to end upwards
+
+content:
+The way we seem to process the word "but" is like whatever is before is not important, but what come after it's the only truth that remains.
+
+When we say a sentence with "but" we usually put the good before and bad after. That's really harmful for the one who listen. And is more deep of what we think, like those parents who always put a but to their kids.....
+
+For example:
+
+"It's awesome that you had A+ in all subjects but you only had a B on maths"
+
+That will be processed internally to the listener only as "I am not good at math", the A+ are not even worthy....
+
+If you have to say it, it's much better to say
+
+"You only have a B on math but It's awesome that you had an A+ in all subjects"
+
+It also work for personal branding
+
+"Due to the sudden unexpected big difficulties, we got eight of our nine goals achieved but we couldn't develop last step" 
+
+way better to say
+
+"Due to the sudden unexpected big difficulties, we couldn't develop the last step but we eight of our nine goals achieved"
+
+url:https://reddit.com/r/LifeProTips/comments/xowx34/
+author:dukuel
+subreddit:LifeProTips
+score:2126
+numComments:130
+isOver18:False
+hasPostBody:True

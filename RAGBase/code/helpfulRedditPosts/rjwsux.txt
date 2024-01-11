@@ -1,0 +1,13 @@
+title:
+LPT: If you have parents/grandparents that aren't good with technology, take a picture of their remotes. That way, if you need to talk them through something over the phone, you can guide them to the correct button to press.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/rjwsux/
+author:DetectiveOfTime
+subreddit:LifeProTips
+score:48001
+numComments:686
+isOver18:False
+hasPostBody:False

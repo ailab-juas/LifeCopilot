@@ -1,0 +1,19 @@
+title:
+YSK that your above-range microwave likely contains a charcoal air filter at the top where the fan blows out recirculating air when the fan is on. Replacing this inexpensive filter can remove cooking odors from your kitchen.
+
+content:
+Why YSK: The purpose of the charcoal air filter is to remove odors from the air as you cook.  Most people know about the metallic grease filters on the bottom where the air gets sucked in, but not the charcoal filter inside the top-front panel where the air gets blown out.
+
+If you live in an apartment, your charcoal filter has likely never been changed and your cooking odors could be reduced. 
+
+Here’s a [video on changing a recent model GE filter](https://youtu.be/sQQWDG7znBk), but Google your model number for specific instructions. 
+
+Note: these filters are only important in recirculating air situations... if your microwave fan vents outside, you don’t need to worry about the charcoal filter.
+
+url:https://reddit.com/r/YouShouldKnow/comments/m7026q/
+author:Gtapex
+subreddit:YouShouldKnow
+score:11006
+numComments:246
+isOver18:False
+hasPostBody:True

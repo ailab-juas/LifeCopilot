@@ -1,0 +1,15 @@
+title:
+YSK: If you don't have access to Dramamine for motion sickness you can substitute Benadryl to reduce the symptoms.
+
+content:
+Dramamine is great for motion sickness but not always readily available. Benadryl is a very similar type of medication and more commonly on hand. Benadryl doesn't last as long, but should take effect more quickly. 
+
+https://health.clevelandclinic.org/2015/04/motion-sickness-best-fixes-if-traveling-makes-you-ill/
+
+url:https://reddit.com/r/YouShouldKnow/comments/6ko2do/
+author:rockstang
+subreddit:YouShouldKnow
+score:1799
+numComments:147
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,27 @@
+title:
+LPT: When using a WiFi only device (iPod, iPad, etc.) on the go, the Google Maps app will update your approximate location just by detecting nearby networks, even if you can't connect to them.
+
+content:
+You must have the general area loaded in the app beforehand to get any use out of this.  What I do is load a route of where I'm going, then during the trip I can see pretty much exactly where I am and when to get off the bus. It works without an internet connection, just by passing by WiFi networks. If you use this along with the map cache tool, you essentially have a shoddy GPS on your device (as long as there is a WiFi network around.)
+
+[Screenshot here!](http://i.imgur.com/zbuMB6z.png)
+
+**Edit:** Some more interesting/useful information
+
+
+- How to use the map cache tool on iOS: Search for an area you want to save.  Make sure you are zoomed out enough so that everything you want is present on screen.  Type "ok maps" into the search bar. This will save everything on your screen down to the lowest zoom level. There is no way to manage cached maps, just by navigating to that area it should load from the cache.
+
+- "Your device has a database with the WiFi hotspots nearby it is most likely to encounter and their GPS coordinates.  One of the earliest companies to do this, [Skyhook Wireless](http://en.wikipedia.org/wiki/Skyhook_Wireless) literally drove vans around with GPS and WiFi radios and marked the location of each.  Both Google and Apple used their data for some time, although Apple built up their own location database and switched to it back in the iOS 4 era.
+If you remember a couple years back, everyone freaked out because they thought Apple was tracking their location via their iPhones.  In actuality, people were misunderstanding the file— they were *actually* looking at the  database file that matched WiFi access points and GPS coordinates.  [Here is Apple's press release](http://www.apple.com/pr/library/2011/04/27Apple-Q-A-on-Location-Data.html) from that incident." - /u/bobsyourmonkeysuncle
+
+- "If your device has a GPS, you're travelling on public transport, and Google Transit is available in your area (like in your screenshot), enable the navigation mode when you get on the bus/train. It'll tell you when to get off the bus (both as you depart from the second-last stop and as you arrive to your stop). Very handy when moving to a new area and catching a bus or train you've never been on before." - /u/daniel15
+
+- "I've noticed that Life Pro Tips has become Life Fucking Obvious lately." - /u/shmameron
+
+url:https://reddit.com/r/LifeProTips/comments/1qi6bn/
+author:slizzler
+subreddit:LifeProTips
+score:2018
+numComments:186
+isOver18:False
+hasPostBody:True

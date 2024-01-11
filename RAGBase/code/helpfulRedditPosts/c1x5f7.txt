@@ -1,0 +1,43 @@
+title:
+LPT: If you get paid bi-weekly, break your installment loans (mortgage, etc) into accelerated bi-weekly payments to save on interest, reduce the length of your loans, and simplify your budget
+
+content:
+EDIT: Do not just change the way you pay your loan institution on your own without contacting your lender and ensuring that they provide the ability to modify your payment schedule and apply the payments in the manner described below; always ask for documentation as well. In addition, if you have high interest credit cards or other debt, you should pay that down first before paying down your lower interest debt. I took these two points for granted in writing up this LPT and I thank the posters that made it clear that I should have included them.
+
+If you're paid bi-weekly this could be a no-brainer for many, and the key to "simplifying your budget." If you time your accelerated bi-weekly payment to your paycheck, you have the same amount left over after each check instead of one large payment due roughly ever other paycheck; sometimes that can be a hassle when your checks don't fall right in line with those monthly due dates. Furthermore, and more importantly, you can drastically reduce the interest you pay over the course of the loan and you'll also reduce the length of the loan.
+
+What's an accelerated bi-weekly payment?
+
+Let's take this example:
+
+You just got a $250,000 mortgage at 4%, 30 year fixed. Your monthly payment on the mortgage (not including taxes, etc) would be $1,193.54. If you multiply that by twelve payments, you pay $14,322.88 a year in interest and principle. Divide $14,322.88 by 26, or the number of two week periods in the year, you get $550.86, a number I'll bring up in a moment.
+
+Now, if you take that $1,193.54 and divide it by two, you get $596.87. If you pay this amount every two weeks you'll be paying about $46 more every two weeks than if you were to pay semi-monthly (that $550.86 I mentioned above,) and that amounts to an extra full payment of $1,193.54 a year that goes directly to principle. Your total yearly payout is $15,518.62.
+
+What are the results?
+
+Here's the interest you'd pay over the life of the loan (360 months) with a standard monthly payment of $1,193.54:
+
+**$179,673.77**
+
+Here's the interest you'd pay over the life of the loan (now only 310 months) with an accelerated bi-weekly payment:
+
+**$151,482.12**
+
+Not only are you **saving $28,191.64** during the life of the loan, but **you are also** **paying the loan down faster, and will have paid off your house in just under 26 years instead of 30.**
+
+Some banking institutions allow you to make this change online in a couple of clicks; others you may need to call. Check your online account to see if there's an option for adjusting your payment schedule.
+
+Bonus: you can often do this with your car payment as well. Take the monthly amount you pay and divide it in half. Tell your loan institution that you'd like to move to an accelerated bi-weekly payment and that's the amount you'd like to pay every two weeks.
+
+Of course, you can do this even if you don't get paid bi-weekly, but for those juggling their largest bills every month without a fixed 1st and 15th or 15th and 30th paycheck, this has the added bonus of simplifying your budget.
+
+REPEAT EDIT: Do not just change the way you pay your loan institution on your own without contacting your lender and ensuring that they provide the ability to modify your payment schedule and apply the payments in the manner described above; always ask for documentation as well. In addition, if you have high interest credit cards or other debt, you should pay that down first before paying down your lower interest debt. I took these two points for granted in writing up this LPT and I thank the posters that made it clear that I should have included them.
+
+url:https://reddit.com/r/LifeProTips/comments/c1x5f7/
+author:thallwyn
+subreddit:LifeProTips
+score:4618
+numComments:287
+isOver18:False
+hasPostBody:True

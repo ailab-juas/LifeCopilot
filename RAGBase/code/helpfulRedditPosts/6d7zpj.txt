@@ -1,0 +1,15 @@
+title:
+YSK if your work uses Office365 for email and you add it to your phone, your phone(not just email) can be remotely wiped completely by the email administrator.
+
+content:
+Here's a [link](https://technet.microsoft.com/en-us/library/aa998614\(v=exchg.150\).aspx) for reference
+
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/6d7zpj/
+author:scraynes
+subreddit:YouShouldKnow
+score:7015
+numComments:745
+isOver18:False
+hasPostBody:True

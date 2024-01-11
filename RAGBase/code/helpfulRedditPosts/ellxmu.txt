@@ -1,0 +1,25 @@
+title:
+YSK that If you are a cord-cutter, there are various reputable free 24/7 news sources you can watch online (Eg. to follow developments on the Iran Situation)
+
+content:
+Examples:
+
+[CBS News](https://www.cbsnews.com/live/)
+
+[Al Jazeera English](https://www.aljazeera.com/live/)
+
+[ABC News](https://abcnews.go.com/Live)
+
+[Reddit Live Thread for this specific event](https://www.reddit.com/live/148v8ph1s69e7)
+
+[ABC Live In Australia](https://iview.abc.net.au/show/abc-news-24)
+
+[France 24 English via Youtube](https://www.youtube.com/user/france24english?app=desktop)
+
+url:https://reddit.com/r/YouShouldKnow/comments/ellxmu/
+author:phd_dude
+subreddit:YouShouldKnow
+score:3149
+numComments:176
+isOver18:False
+hasPostBody:True

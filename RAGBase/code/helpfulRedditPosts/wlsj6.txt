@@ -1,0 +1,13 @@
+title:
+Use Velcro strips on your common items to keep them where you want them!
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/wlsj6/
+author:DNDNDN0101
+subreddit:LifeProTips
+score:1416
+numComments:212
+isOver18:False
+hasPostBody:False

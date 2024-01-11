@@ -1,0 +1,15 @@
+title:
+YSK Amazon Warehouse's description of 'Used - Acceptable' products are usually exaggerated
+
+content:
+Amazon exaggerates the product descriptions (usually uses a template description) of items that have cosmetic imperfections or have been returned and sell them under their Amazon Warehouse seller account. Typically (not always) these are just products that don't include original packaging or have minor cosmetic flaws, yet they are heavily discounted. If Amazon is not the seller then this may not be the case. Expect the worst and hope for the best. You can return the item if it's worse than described. 
+
+Why YSK: You can sometimes get a 10-20% discount on products that have only been returned.
+
+url:https://reddit.com/r/YouShouldKnow/comments/s3v7te/
+author:databatinahat
+subreddit:YouShouldKnow
+score:5513
+numComments:264
+isOver18:False
+hasPostBody:True

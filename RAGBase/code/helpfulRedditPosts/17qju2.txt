@@ -1,0 +1,13 @@
+title:
+LPT: Keep a bottle of water next to your bed. Drink it first thing in the morning and it will help you wake up. 
+
+content:
+You don't have to down the entire bottle. A little less than half will do the trick. Especially if you need to motivate yourself to go to the gym if you use "too tired this AM" as an excuse.
+
+url:https://reddit.com/r/LifeProTips/comments/17qju2/
+author:bgallagher
+subreddit:LifeProTips
+score:1912
+numComments:453
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,17 @@
+title:
+YSK: that you can do more than captions with YouTube's transcriptions
+
+content:
+Why YSK: you can use the transcript to navigate through the video. 
+
+YouTube has full transcripts available for all videos (at least any video with captions available.) This means that you can use the transcript go back to a specific line rather than just scrubbing through and hoping for the best. (Btw, you can use YouTube  as a completely free basic transcription.)
+
+If you're on the app the transcript is very easy to access but on desktop it is in that extra buttons menu at the end of the button list below the video, but it really shouldn't be hidden away like that because it's fantastic.
+
+url:https://reddit.com/r/YouShouldKnow/comments/zvbqmd/
+author:Probably-Interesting
+subreddit:YouShouldKnow
+score:2968
+numComments:31
+isOver18:False
+hasPostBody:True

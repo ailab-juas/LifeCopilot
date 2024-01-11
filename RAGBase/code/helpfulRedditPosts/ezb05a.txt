@@ -1,0 +1,15 @@
+title:
+YSK when you call a support line and leave a survey it only affects the employee who answered
+
+content:
+When you leave a bad survey saying something like “the prices are to high” and leave a low score it doesn’t even get the company. The only person who usually sees it are the person you called and their supervisor. The company as a whole just sees a stat as a bad survey for that rep and it has a negative impact on them. Anything below perfect score is considered bad.
+
+Edit: I didn’t think I needed to specify that not all are like this just *most*. There are obviously exceptions.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ezb05a/
+author:JurassicissaruJ
+subreddit:YouShouldKnow
+score:12139
+numComments:334
+isOver18:False
+hasPostBody:True

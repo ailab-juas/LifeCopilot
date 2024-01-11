@@ -1,0 +1,15 @@
+title:
+YSK that if you're selling stuff online and people text your number asking for a 6 digit verification code, then they're trying to steal your phone number
+
+content:
+Happened not too long ago. Actually, just a few minutes ago. Trying to sell some stuff online. I put my phone number out there so it's easier for people to reach me and for me to reach them (I miss people's email time to time). Then a person immediately texts me asking me about the product I'm selling. That person then tells me that they've sent me a 6 digit verification code through Google Voice. Apparently... It's to verify if I'm a legitimate seller or not. 
+
+It's a scam. Feel free to Google it yourself. They're setting up a Google Voice under your phone number and they're trying to get it verified. Why is it important to know this? Because they can do whatever they want with your phone number, under your name. Stay safe!
+
+url:https://reddit.com/r/YouShouldKnow/comments/gpvs77/
+author:OhhMyyGott
+subreddit:YouShouldKnow
+score:29355
+numComments:559
+isOver18:False
+hasPostBody:True

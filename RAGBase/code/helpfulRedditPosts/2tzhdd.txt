@@ -1,0 +1,15 @@
+title:
+YSK that most Swiss Army Knives have a space for carrying a straight pin next to the corkscrew.
+
+content:
+If you open your Swiss Army Knife's corkscrew, you can find a small hole in the side. You can insert a straight pin in there.  
+Along with the tweezers, it's a great option for removing splinters.  
+Image for reference [here.](http://i.imgur.com/3CgMybT.jpg)
+
+url:https://reddit.com/r/YouShouldKnow/comments/2tzhdd/
+author:petesopete
+subreddit:YouShouldKnow
+score:1138
+numComments:108
+isOver18:False
+hasPostBody:True

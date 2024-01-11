@@ -1,0 +1,13 @@
+title:
+LPT: If you have trouble saving money, break prices into 'hours of work' instead of dollars. Think "If I worked X amount of hours, would it be okay if someone gave me this ( item) instead of money.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1ddrxc/
+author:NightFox819
+subreddit:LifeProTips
+score:1634
+numComments:284
+isOver18:False
+hasPostBody:False

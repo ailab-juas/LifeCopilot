@@ -1,0 +1,13 @@
+title:
+LPT if you’re struggling to fall asleep at night, try listening to a podcast. It might help to stop your mind from thinking and worrying about things.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/8w9hay/
+author:HankMoodyMaddafakaaa
+subreddit:LifeProTips
+score:1955
+numComments:252
+isOver18:False
+hasPostBody:False

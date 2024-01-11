@@ -1,0 +1,13 @@
+title:
+YSK about 'SumatraPDF' - a light-weight alternate to Adobe Reader which doesn't require daily annoying updates, is 10x faster and is only 3.9MB in size.
+
+content:
+[Download link](http://blog.kowalczyk.info/software/sumatrapdf/download-free-pdf-viewer.html)
+
+url:https://reddit.com/r/YouShouldKnow/comments/1ipfl2/
+author:crackguy
+subreddit:YouShouldKnow
+score:1737
+numComments:172
+isOver18:False
+hasPostBody:True

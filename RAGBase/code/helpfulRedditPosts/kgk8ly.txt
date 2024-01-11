@@ -1,0 +1,13 @@
+title:
+LPT: Your time is extremely valuable and once spent cannot be recovered. DIYing everything isn't always the best option, paying someone else to do it may be worth it if you can do something else that allows you to make more money than the cost of that DIY project.
+
+content:
+This principle also applies to subjective things as well such as spending time with your family. Is it worth it to spend extra hours at work that you could be spending with your family instead? It certainly might be, but **consider the true opportunity cost of something before you commit to it.**
+
+url:https://reddit.com/r/LifeProTips/comments/kgk8ly/
+author:APennyPinchersGuide
+subreddit:LifeProTips
+score:3028
+numComments:162
+isOver18:False
+hasPostBody:True

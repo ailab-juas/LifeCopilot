@@ -1,0 +1,13 @@
+title:
+LPT: Beware of lifestyle creep. As you start earning more, don’t let it influence your budget. Use the extra disposable income to save vs. allocating it against budget.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/s6ihl0/
+author:tysmily
+subreddit:LifeProTips
+score:2263
+numComments:155
+isOver18:False
+hasPostBody:False

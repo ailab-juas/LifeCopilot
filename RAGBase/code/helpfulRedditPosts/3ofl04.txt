@@ -1,0 +1,25 @@
+title:
+YSK that Microsoft Word has a massive built-in Math AutoCorrect library that lets you easily enter equations and symbols (eg. "\alpha" corrects to "α") without having to use drop-down menus or copy/paste
+
+content:
+This is incredibly useful if you do any sort of scientific documentation in Word. I've listed out the steps for Word 2010, but I imagine the process of activating Math AutoCorrect is similar for all versions of Word. 
+
+**Steps:**  
+1. Go to the File tab on the ribbon  
+2. Click Options along the left sidebar  
+3. In the popup window, select Proofing along the left sidebar  
+4. Click the button labeled "AutoCorrect Options..." to open another popup window  
+5. Select the Math AutoCorrect tab  
+6. Check the boxes labelled "Use Math AutoCorrect rules outside of math regions" and "Replace text as you type"  
+
+The built-in library is hugely comprehensive: it contains Greek, Hebrew, Fractur, mathematical operators, and a bunch of other miscellaneous symbols. Furthermore, you can manually edit entries by clicking on them in the table and editing them in the window. You can also add your own AutoCorrect rules by typing into the "Replace:" and "With:" text boxes above the table. 
+
+It's intuitive to use and is *so* much faster than googling, copying and pasting symbols from the internet, or using "insert symbol" for common symbols. 10/10, YSK
+
+url:https://reddit.com/r/YouShouldKnow/comments/3ofl04/
+author:DonMan8848
+subreddit:YouShouldKnow
+score:2604
+numComments:138
+isOver18:False
+hasPostBody:True

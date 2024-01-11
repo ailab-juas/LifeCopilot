@@ -1,0 +1,13 @@
+title:
+LPT: Before bed, get your clothes ready for the next day. This will help to prevent early-morning stress as you are getting ready and reduce the chances of being late for school/work.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/6uhwxd/
+author:Elbatroo
+subreddit:LifeProTips
+score:1029
+numComments:76
+isOver18:False
+hasPostBody:False

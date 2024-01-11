@@ -1,0 +1,27 @@
+title:
+YSK That if you are a Verizon Wireless customer in the US, a new program launched today called Verizon Custom Experience. It tracks every website you visit and every app you use. The program automatically enrolls all customers, who must specifically opt out if they don't want to be tracked.
+
+content:
+Why YSK: If you prefer to keep your browsing habits private, you should consider opting out. There is essentially no benefit to giving away your information to Verizon Wireless. Unlike with other sites, where one can at least argue targeted ads pay for free services, with this Verizon program, you are essentially receiving nothing in return for giving up your privacy.
+
+[This article provides instructions on how to opt out using the Verizon app](https://www.wired.com/story/verizon-user-privacy-settings/)
+
+[Try this link on the website](https://myvpostpay.verizon.com/ui/acct/secure/manageprivacysettings)
+
+[You can also try this link on their website to opt out.](https://myvpostpay.verizon.com/ui/acct/secure/profile/privacypreferences/customexperienceplus)
+
+EDIT:  Added another website link to try.
+
+EDIT 2: Appears to not apply to prepaid customers.
+
+If you are concerned about privacy in general, here is an amazing resource of tools related to privacy: [https://piracy.vercel.app/privacy](https://piracy.vercel.app/privacy)
+
+&amp;#x200B;
+
+url:https://reddit.com/r/YouShouldKnow/comments/rwc069/
+author:grandlewis
+subreddit:YouShouldKnow
+score:77326
+numComments:2467
+isOver18:False
+hasPostBody:True

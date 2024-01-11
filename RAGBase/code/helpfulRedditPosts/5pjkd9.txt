@@ -1,0 +1,15 @@
+title:
+LPT: cover your laptop's webcam with tape or a sticker while not in use. It's terrifyingly easy for strangers to watch and photograph you without your knowledge if your computer has been compromised by the right malware.
+
+content:
+[This article](https://www.engadget.com/2016/09/23/the-fbi-recommends-you-cover-your-laptops-webcam-good-reasons/) describes some of the creepy scenarios that have happened to real people.
+
+EDIT: a lot of people are making the point that this misses the much deeper problem that you have malware, and you should focus on good security practices to prevent infection in the first place. This is absolutely true, but malware is often very good at remaining undetected for long periods of time, so a sticker is a cheap, easy way to protect against spying while you're unaware you're infected.
+
+url:https://reddit.com/r/LifeProTips/comments/5pjkd9/
+author:PedanticPendant
+subreddit:LifeProTips
+score:1423
+numComments:292
+isOver18:False
+hasPostBody:True

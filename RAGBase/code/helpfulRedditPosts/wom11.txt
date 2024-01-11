@@ -1,0 +1,13 @@
+title:
+LPT: Use glue to remove even the smallest of splinters with ease. 
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/wom11/
+author:AgentDoubleM7
+subreddit:LifeProTips
+score:1585
+numComments:124
+isOver18:False
+hasPostBody:False

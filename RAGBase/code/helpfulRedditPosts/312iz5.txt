@@ -1,0 +1,15 @@
+title:
+LPT: Use Alt+PrntScr to capture just the active window, eliminating the need to crop your photo or go get the windows snipping tool
+
+content:
+In direct response [to this thread](http://www.reddit.com/r/LifeProTips/comments/30zr52/lpt_the_windows_snipper_tool_is_much_faster_than/). I have never used the snipping tool before because alt+prntscr works for me. But both are great alternatives to cropping a photo
+
+Edit - I really should start checking my submissions more than once a day. I really figured this post was gonna be ignored
+
+url:https://reddit.com/r/LifeProTips/comments/312iz5/
+author:BobHogan
+subreddit:LifeProTips
+score:4500
+numComments:566
+isOver18:False
+hasPostBody:True

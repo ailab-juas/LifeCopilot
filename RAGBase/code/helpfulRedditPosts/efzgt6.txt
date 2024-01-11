@@ -1,0 +1,13 @@
+title:
+LPT: Keep a diary. Even if you think your life is boring, jotting a few things down at the end of every day can benefit your mental health. More importantly, diaries can withstand most legal challenges in the courts as to admissibility.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/efzgt6/
+author:[deleted]
+subreddit:LifeProTips
+score:11089
+numComments:298
+isOver18:False
+hasPostBody:True

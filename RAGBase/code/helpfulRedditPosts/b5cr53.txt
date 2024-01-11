@@ -1,0 +1,13 @@
+title:
+LPT: If you figure something out yourself after getting frustrated that there are no YouTube videos about it, make a YouTube video.
+
+content:
+Chances are you're not the only one stuck. Even if it's not studio-quality, it might save someone hours of frustration down the road. Use keywords you would have searched for in your title and description, and show what you would have liked to see.
+
+url:https://reddit.com/r/LifeProTips/comments/b5cr53/
+author:wizard7926
+subreddit:LifeProTips
+score:1491
+numComments:48
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,37 @@
+title:
+YSK: Standard table salt (iodized salt) provides iodine—a mineral important to human health—while sea salt, kosher salt, and Himalayan salt does not.
+
+content:
+**Why YSK:** We're favoring fancier salt, and it's leading to iodine deficiencies. Iodine deficiency is a serious problem which can be easily avoided. Include iodized table salt or other sources of iodine in your diet.
+
+U.S.A. National Institute of Health [Iodine Fact Sheet](https://ods.od.nih.gov/factsheets/Iodine-Consumer/)
+
+Edit: 
+
+Thanks everyone! I learned a lot. Here's a few I want to highlight:
+
+&gt;"From [your link](https://ods.od.nih.gov/factsheets/Iodine-Consumer/#h3): [...] You can get recommended amounts of iodine by eating a variety of foods, including the following: [...] * Fish (such as cod and tuna), seaweed, shrimp, and other seafood, which are generally rich in iodine [...] * Dairy products (such as milk, yogurt, and cheese), which are major sources of iodine in American diets [...] * Iodized salt, which is readily available in the United States and many other countries* [...] *Processed foods, such as canned soups, almost never contain iodized salt. In addition, specialty salts, such as sea salt, kosher salt, Himalayan salt, and fleur de sel, are not usually iodized. Product labels will indicate if the salt is “iodized” or provides iodide." -u/the_future_is_wild
+
+&gt;"YSK: If you have a balanced diet you can ignore this "YSK". [...] Iodine is common in seafood(seaweed, fish and shellfish), dairy products and eggs." -u/hates_stupid_people
+
+&gt;"Here’s an article with 9 non salt sources of iodine [https://www.healthline.com/nutrition/iodine-rich-foods#TOC_TITLE_HDR_2](https://www.healthline.com/nutrition/iodine-rich-foods#TOC_TITLE_HDR_2)" -u/Re-Groot
+
+&gt;"Some other people in this thread have pointed out that iodized Himalayan/sea/kosher salt exists." -u/tous_die_yuyan
+
+&gt;"YSK; At the same time too much iodine can wreck your thyroid - should warn about that too [...] Also, high levels of iodine can show the same symptoms as a deficiency." -u/Typical_unique_user
+
+&gt;"This is false. Sea salt *does* contain iodine. However, this does not provide for a sufficient iodine intake." -u/sihaya-wiosnapustyni
+
+&gt;"[great recent video about this](https://youtu.be/B00K66HivcI) " -u/EddiOS42
+
+&gt;"you could also just take a supplement, which is a safer way to make sure you get enough iodine.  too much salt is not good of course" -u/Snuggly-Muffin
+
+&gt;"YSK this is true in the developed nations but iodized salt is not nearly universal in developing countries. [...] Adequate iodine nutrition is *highly* correlated to improved attention in children, and is casually linked to an increase in several IQ points over the course of their education. Adequate iodine also prevents a whole host of health problem, particularly hypothyroidism and goiters. [...] Working with the salt manufacturers, it can only cost 15-40 cents to iodize salt for a child's *entire lifetime*, making this one if the most cost-effective health improvements a dollar can buy. Unfortunately, the Global Alliance for Improved Nutrition may be shutting down it's salt iodization program as soon as next year due to lack of donations. [...] You can help address this and other highly cost-effective nutrition initiaves by donating here: [https://www.gainhealth.org/homepage](https://www.gainhealth.org/homepage) [...] More info: [https://www.thelifeyoucansave.org/best-charities/global-alliance-for-improved-nutrition/](https://www.thelifeyoucansave.org/best-charities/global-alliance-for-improved-nutrition/)" -u/kazoohero
+
+url:https://reddit.com/r/YouShouldKnow/comments/jclxn1/
+author:VioletInTheGlen
+subreddit:YouShouldKnow
+score:13822
+numComments:559
+isOver18:False
+hasPostBody:True

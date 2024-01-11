@@ -1,0 +1,17 @@
+title:
+LPT: Dryer lint is mostly your clothes gradually disintegrating. If you have a beloved shirt you'd like to wear forever, let it air dry.
+
+content:
+Well, not forever, but greatly extended lifespan.
+
+Update: Wow, so much passion for dryer lint. 
+
+Also, many competing theories about its cause: washing machine agitators, detergent, dryer heat, other abrasive clothing. Clearly more research is needed. 
+
+url:https://reddit.com/r/LifeProTips/comments/231gbd/
+author:darien_gap
+subreddit:LifeProTips
+score:2647
+numComments:366
+isOver18:False
+hasPostBody:True

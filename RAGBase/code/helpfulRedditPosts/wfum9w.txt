@@ -1,0 +1,17 @@
+title:
+LPT: If you arrive at the airport early and can’t find free parking while you wait, open Uber and check where on the map the drivers are parked waiting for a job.
+
+content:
+Uber drivers will often park within a 10 minute drive in a comfortable location that is free while they wait. You can see there will be a number of drivers in one location when you view the map in Uber.
+
+Edit: Seems this is a shitty life pro tip if you live in the states. Don’t do this in the states as they have Uber specific lots and satellite lots for this purpose.
+
+This doesn’t have to be for airports though, just any place that is busy and hard to find parking or places to stop.
+
+url:https://reddit.com/r/LifeProTips/comments/wfum9w/
+author:bigglett
+subreddit:LifeProTips
+score:1602
+numComments:100
+isOver18:False
+hasPostBody:True

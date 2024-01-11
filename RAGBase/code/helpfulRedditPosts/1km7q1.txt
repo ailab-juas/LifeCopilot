@@ -1,0 +1,15 @@
+title:
+Your laptop is overheating? Use 2 identical forks.
+
+content:
+http://imgur.com/a/WvZ81 
+
+edit: Yes, of course, it's especially recommended for people who have an HP!
+
+url:https://reddit.com/r/LifeProTips/comments/1km7q1/
+author:jacknappier
+subreddit:LifeProTips
+score:2093
+numComments:660
+isOver18:False
+hasPostBody:True

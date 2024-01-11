@@ -1,0 +1,17 @@
+title:
+LPT: Any time you successfully solve a problem, handle a difficult situation, etc., write it down and use it in future job interviews.
+
+content:
+This is for anyone who may job-hop to increase their salary. Or for those who are generally afraid of *"Tell me about a time when you..."*-style questions in job interviews.
+
+We all have those days where something out of the ordinary happens and you have to deal with it somehow some way. Instead of just doing it and talking about it later (or worse, forgetting it the next day), write down the entire scenario and how you successfully handled it on a Word document so you don't forget it.
+
+This way you'll be much more prepared and it'll give you a bit of a leg up against other job seekers.
+
+url:https://reddit.com/r/LifeProTips/comments/6b441t/
+author:PM_ME_VIDEOGAMES
+subreddit:LifeProTips
+score:3528
+numComments:84
+isOver18:False
+hasPostBody:True

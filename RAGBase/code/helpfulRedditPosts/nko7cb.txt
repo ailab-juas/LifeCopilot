@@ -1,0 +1,13 @@
+title:
+LPT: If you have a dishwasher, empty it before you start cooking so that you can put dirty dishes away as you cook. This will save loads of clean-up time after the meal as well as not take up countertop space.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/nko7cb/
+author:CommentShot3232
+subreddit:LifeProTips
+score:24681
+numComments:593
+isOver18:False
+hasPostBody:False

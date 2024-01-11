@@ -1,0 +1,17 @@
+title:
+LPT: If you want to help the environment, look for recycled packaging before recyclable packaging
+
+content:
+1. It's been recycled at least once, which that recyclable packaging probably won't be.
+
+2. It helps create demand for recycled packaging, which makes recycling more economical and may lead to more recycling in the future.
+
+Disclaimer: this won't save the world but one is better than the other.
+
+url:https://reddit.com/r/LifeProTips/comments/yhg9ee/
+author:SEND_INVENTION_IDEAS
+subreddit:LifeProTips
+score:1144
+numComments:87
+isOver18:False
+hasPostBody:True

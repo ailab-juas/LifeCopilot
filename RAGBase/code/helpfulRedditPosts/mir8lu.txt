@@ -1,0 +1,23 @@
+title:
+YSK the "chasing arrows" triangle symbol on plastic containers is NOT the recycling symbol. It just tells you what kind of plastic it is. And if it's not #1 or #2, it's probably not recyclable.
+
+content:
+Why YSK:
+
+Recycling used to be done by hand, and knowing the type of plastic helped sorters. Many states even required the "chasing arrows" triangle and still require it today. But now that it's largely done by machine, the symbol just confuses people, because it looks exactly like the recycling symbol. This leads to contaminated (25+%) recycling. But it helps the plastic industry by making people think their waste is getting recycled.
+
+Confused? That's kind of the point.
+
+Rule of thumb - if the number in the triangle ain't #1 or #2, it might be recyclable in a specialized facility, but probably doesn't belong in your recycling bin.
+
+EDIT: This is for the USA. Check your local recycling guidelines, they're online somewhere  
+
+EDIIT: For clarity: The chasing arrows triangle IS the [real recycling symbol](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Recycle001.svg/440px-Recycle001.svg.png) BUT with a number inside it becomes the [sneaky lying Resin Identification Code](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_Resin_Code_1_PETE.svg/440px-Symbol_Resin_Code_1_PETE.svg.png)
+
+url:https://reddit.com/r/YouShouldKnow/comments/mir8lu/
+author:Brinner
+subreddit:YouShouldKnow
+score:17647
+numComments:453
+isOver18:False
+hasPostBody:True

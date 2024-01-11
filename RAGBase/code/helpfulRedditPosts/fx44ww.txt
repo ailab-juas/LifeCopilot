@@ -1,0 +1,13 @@
+title:
+LPT: You can turn off all personalized ads on Reddit desktop or Mobile by going to: User Settings -&gt; Privacy and Security and unchecking the 6 data farming options.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/fx44ww/
+author:[deleted]
+subreddit:LifeProTips
+score:2999
+numComments:131
+isOver18:False
+hasPostBody:False

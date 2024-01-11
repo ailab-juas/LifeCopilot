@@ -1,0 +1,13 @@
+title:
+LPT: If you cut yourself, glue your skin back together with Superglue.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/2izu2w/
+author:RightOnTopOfThatRose
+subreddit:LifeProTips
+score:1005
+numComments:557
+isOver18:False
+hasPostBody:False

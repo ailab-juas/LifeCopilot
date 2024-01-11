@@ -1,0 +1,13 @@
+title:
+YSK "every day" refers to all days. "Everyday" is an adjective meaning commonplace.
+
+content:
+I see this mistake very often, even in stuff written by professionals.  It's tempting to cram the words together since we do it with so many similar words but in most cases it's not correct.
+
+url:https://reddit.com/r/YouShouldKnow/comments/dadhdk/
+author:sad_bad_fresh_boy
+subreddit:YouShouldKnow
+score:2688
+numComments:82
+isOver18:False
+hasPostBody:True

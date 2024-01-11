@@ -1,0 +1,13 @@
+title:
+LPT: If you use milk so infrequently that you buy a half gallon at a time, and it still spoils: buy lactose free milk. The reduced sugar means it can take up to 5 weeks before it spoils.
+
+content:
+EDIT: Apparently this is related to the ultra-pasteurization, not the sugar content. Tip still applies
+
+url:https://reddit.com/r/LifeProTips/comments/804ol9/
+author:Night_Duck
+subreddit:LifeProTips
+score:1729
+numComments:226
+isOver18:False
+hasPostBody:True

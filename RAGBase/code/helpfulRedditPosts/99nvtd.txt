@@ -1,0 +1,13 @@
+title:
+LPT: When looking for a new apartment, keep an eye on how many cars are parked on the curb/street. A lot of cars means parking will be major a pain point for you and your guests.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/99nvtd/
+author:jimmyelias
+subreddit:LifeProTips
+score:1545
+numComments:100
+isOver18:False
+hasPostBody:False

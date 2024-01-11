@@ -1,0 +1,23 @@
+title:
+YSK if you live north of the tropics, it’s probably time to inflate your car tires
+
+content:
+Why YSK: because it’s cold, and your tires are low.  
+
+Air - well, all gases really - expands with heat. Means the opposite when cold. Means when you last inflated your tires, air literally took up more space than it does now.  
+
+Cold weather can reduce tire pressure by a much as 15%. This reduces gas mileage. It’s not bad for tires to be under inflated by a couple PSI in snow for traction, but go lower than 30 and your chance of puncture on a pothole also increases significantly.   
+
+If you’re not dialing into every tire before and after every snow storm, it’s better to leave them properly inflated than slightly down, for the above stated reasons.   
+
+Accompanying LPT: whatever your car recommends for tire pressure (usually 35 PSI), that is the COLD pressure. By the time you make it to the gas station, your tires are HOT. Again, the pressure in your tire increases or decreases with temperature; this is true of temperature both inside and outside the tire. So what you should really do is drive for a couple miles, take it in to the gas station, and fill the tires about 15% above manufacturer’s cold pressure recommendation.   
+
+For most cars, this means 40 PSI hot for a 35 PSI cold recommendation. My car explicitly states that the recommendation is for cold tire pressure. In my own personal case, proper inflation is the difference between the EPA stated 31 city/40 highway, and my actualized 35 city/50 highway.
+
+url:https://reddit.com/r/YouShouldKnow/comments/xsue0e/
+author:RedsRaver
+subreddit:YouShouldKnow
+score:2111
+numComments:132
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,62 @@
+title:
+YSK: The Symptoms of Carbon Monoxide (CO) Poisoning
+
+content:
+Why YSK: Recognizing the symptoms could save lives and mitigate/prevent other serious permanent consequences such as brain damage.  You or someone you love could be suffering from CO poisoning right now and not even know it.
+
+My sister and her husband could've died.
+
+I overheard my sister telling our mom that she is still losing hair and can't figure out why - this is red flag #1, but it didn't click in my brain at that point.
+
+Several hours later, my sister was having a discussion with our dad.  For the sake of brevity, here are the important parts:
+
+Dad (joking): "It sounds like your house is haunted!"
+
+Sister: "It literally is haunted.  I see ghosts all the time."
+
+*click*
+
+Me: "Do you have a CO detector in your house?"
+
+Sister: "No.  Why?"
+
+Long story short, her house did indeed have a CO leak.
+
+Other symptoms her and her husband were experiencing:
+
+ - Dull headache
+ - Weakness
+ - Dizziness
+ - Nausea
+
+These symptoms had gone on for so long that they just accepted them as a normal part of life.
+
+Additional symptoms can be found [here](https://www.mayoclinic.org/diseases-conditions/carbon-monoxide/symptoms-causes/syc-20370642) and [here](https://whippleplumbing.com/low-exposure-carbon-monoxide-poisoning/)
+
+If you or someone you know are inexplicably experiencing any of these symptoms: get the hell out of the house IMMEDIATELY and pick up a CO detector, then call a plumber/Fire Department/utility company/HVAC professional if it goes off.  You could potentially save lives.
+
+Edit:  Forgot to mention - Symptoms go away after leaving the house for a while, such as visiting family.  My sister and her husband said they feel great when they aren't in the house.  This is another significant indicator of CO poisoning.
+
+Edit 2 - Additional Information:
+
+- [What Are the Carbon Monoxide Levels That Will Sound the Alarm?](https://www.kidde.com/home-safety/en/us/support/help-center/browse-articles/articles/what_are_the_carbon_monoxide_levels_that_will_sound_the_alarm_.html)
+
+- [Chronic and occult carbon monoxide poisoning: we don’t know what we’re missing](https://emj.bmj.com/content/19/5/386) 
+
+- &gt; [Friendly reminder to never put aluminum foil in the bottom of a gas oven](https://www.reddit.com/r/YouShouldKnow/comments/rn6dl3/ysk_the_symptoms_of_carbon_monoxide_co_poisoning/hpt2oon?utm_medium=android_app&amp;utm_source=share&amp;context=3)
+
+- Shout-out to u/Kakkerlak for [this comment](https://www.reddit.com/r/legaladvice/comments/34l7vo/ma_postit_notes_left_in_apartment/cqvrdz6?utm_medium=android_app&amp;utm_source=share&amp;context=3).  If I hadn't stumbled across your comment so many years ago, I never would've been properly equipped to recognize the symptoms.
+
+Edit 3 - FAQ:
+
+Q: I don't know if I need a CO detector.  Should I get one or more just to be safe?
+
+A: Yes
+
+url:https://reddit.com/r/YouShouldKnow/comments/rn6dl3/
+author:Vascular_D
+subreddit:YouShouldKnow
+score:9311
+numComments:448
+isOver18:False
+hasPostBody:True

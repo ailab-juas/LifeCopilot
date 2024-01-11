@@ -1,0 +1,13 @@
+title:
+LPT: If you're searching for a paper but getting paywalled, search the title on Google Scholar. Under the title, click "All x versions" and look for a link prefaced with "[PDF]". This will directly bring up a PDF of the article rather than a link to a host site.
+
+content:
+This is also a good way to skip a few clicks even if the article isn't paywalled, especially if you're in a research time crunch.
+
+url:https://reddit.com/r/LifeProTips/comments/ef1s40/
+author:hybridvoices
+subreddit:LifeProTips
+score:1935
+numComments:38
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT When cleaning a microwave, put a cup or a bowl (microwave friendly dish) with some water in, and heat for a couple of minutes. The water will steam and loosen dirt and grease on the walls and you'll be able to just wipe the inside with a paper towel or a cloth without any scrubbing.
+
+content:
+For particularly stubborn dirt, or messy microwaves the process can be repeated. Heat water, wipe inside, heat water gain.
+
+url:https://reddit.com/r/LifeProTips/comments/u2er6q/
+author:stemi08
+subreddit:LifeProTips
+score:2024
+numComments:107
+isOver18:False
+hasPostBody:True

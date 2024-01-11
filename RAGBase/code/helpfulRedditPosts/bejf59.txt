@@ -1,0 +1,13 @@
+title:
+LPT: If you see someone being interrupted in a conversation, acknowledge them.
+
+content:
+Don't let them be pushed to the side. A small gesture can mean a lot.
+
+url:https://reddit.com/r/LifeProTips/comments/bejf59/
+author:callmezoyu
+subreddit:LifeProTips
+score:1034
+numComments:66
+isOver18:False
+hasPostBody:True

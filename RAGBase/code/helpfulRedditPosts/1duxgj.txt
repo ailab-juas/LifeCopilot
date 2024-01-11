@@ -1,0 +1,13 @@
+title:
+LPT: In Windows 7 and above, you can shake a window with your mouse to quickly minimize every open window except the one you're shaking. You can then restore all of those windows by shaking the open window again.
+
+content:
+Here is a video demo: http://windows.microsoft.com/en-us/windows7/minimize-windows-on-the-desktop-using-shake
+
+url:https://reddit.com/r/LifeProTips/comments/1duxgj/
+author:irishamerican
+subreddit:LifeProTips
+score:2129
+numComments:377
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+YSK that turning on your heater will lower your car's oil and coolant temperatures
+
+content:
+Why YSK: With these record high temperatures, cars are more prone to overheating due to your radiator's struggle to dissipate heat into the surrounding environment. As environmental temperatures climb, so does your engine and transmission's fluid temperatures. If your car begins overheating, turning on your heater will help drop those temperatures to safer levels. 
+
+Also NEVER, NEVER, EVER open your radiator and/or coolant reservoir caps if the engine is warm. Pressurization will cause near-boiling fluid to shoot out, potentially badly burning you.
+
+url:https://reddit.com/r/YouShouldKnow/comments/vhpkh1/
+author:MoonLadd
+subreddit:YouShouldKnow
+score:7062
+numComments:269
+isOver18:False
+hasPostBody:True

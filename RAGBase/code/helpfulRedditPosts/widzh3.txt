@@ -1,0 +1,17 @@
+title:
+YSK that its always best to start at the highest point when cleaning
+
+content:
+Why YSK: By starting high, you don't risk making a new mess of the previously cleaned area. It seems like common sense, but you'd be surprised how easy it is to get ahead of yourself and end up doing more than you need to.
+ 
+This is particularly important for any mess involving liquid. If you have to mop anyway, its much easier to add from the puddle on the counter to the puddle on the floor than it will be to mop the floor, dry the counter, then go touch the floor up again. 
+ 
+This especially applies in a power washing context. Start high on the driveway. Or start on the fascia boards of your house instead of knocking out that bay window first. All that dirt and gross is going to find its way down and its a lot better to avoid having to give everything the twice-over.
+
+url:https://reddit.com/r/YouShouldKnow/comments/widzh3/
+author:hnxmn
+subreddit:YouShouldKnow
+score:4006
+numComments:139
+isOver18:False
+hasPostBody:True

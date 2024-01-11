@@ -1,0 +1,15 @@
+title:
+YSK: Maintaining food storage is a major help in keeping yourself above water in hard times.
+
+content:
+Why YSK: Everyone talks about having an emergency fund, but given the run on supermarkets that happened in early 2020 I think this is a topic worth discussing. Even if you are simply unemployed temporarily, having food storage will extend the life of your emergency fund because you can just draw from your pantry. This leaves the money you do have to help cover other expenses like for rent and vehicles for a longer period of time, which will give you more of a fighting chance if you end up experiencing longer term unemployment. You should think of your pantry as your own personal food bank, or as a physical type of savings account.
+
+You don't have to go get a huge pantry all at once, which can be prohibitively expensive. Start slow, and focus on shelf-stable staple food items. Make sure you are buying things you know you will eat, and make sure you rotate your stock by tracking expiration dates.
+
+url:https://reddit.com/r/YouShouldKnow/comments/lihvzp/
+author:Neon-Predator
+subreddit:YouShouldKnow
+score:17451
+numComments:766
+isOver18:False
+hasPostBody:True

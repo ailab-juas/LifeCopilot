@@ -1,0 +1,15 @@
+title:
+YSK about Just Watch, a streaming service search engine
+
+content:
+[Just Watch](https://justwatch.com) allows you to select what streaming services you have access to, and then you can search or browse by popular, new, etc. 
+
+They also have an app if you want it on your phone. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/9n05wp/
+author:hardward123
+subreddit:YouShouldKnow
+score:3676
+numComments:115
+isOver18:False
+hasPostBody:True

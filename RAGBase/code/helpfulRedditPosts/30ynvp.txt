@@ -1,0 +1,13 @@
+title:
+YSK that if you want to buy products which ship just to USA, but you are from somewhere else, you can use mail forwarding company which will give you your own US address and ship anything from USA to the rest of the world.
+
+content:
+I have always been jealous about Americans because the prices there are much cheaper than in the rest of the world, even now after dollar has been growing. And also the sales like Black Friday are something you can't find anywhere else. I was personally using http://shipito.com/, and I can only recommend. However there are of course more options
+
+url:https://reddit.com/r/YouShouldKnow/comments/30ynvp/
+author:marecko
+subreddit:YouShouldKnow
+score:2007
+numComments:170
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: If you work in a bar or in customer service of any kind put a mirror behind you at the counter.
+
+content:
+This is great, especially if you work in a bar and you need to face grumpy customers. Do this: Put a mirror behind you at the counter. When an angry customer approaches you, they will have their reflection in the mirror and will most probably calm down.
+
+url:https://reddit.com/r/LifeProTips/comments/70a5zi/
+author:Andrian-TQM
+subreddit:LifeProTips
+score:2298
+numComments:85
+isOver18:False
+hasPostBody:True

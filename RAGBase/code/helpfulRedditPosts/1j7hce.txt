@@ -1,0 +1,79 @@
+title:
+LPT: While watching Netflix (Instant Play) hold down Shift+Alt and click on the screen to access buffering settings, A/V sync compensation settings and other information.
+
+content:
+**PC = SHIFT + ALT**
+
+**MAC = SHIFT + OPT**
+
+/u/Ulaer 
+
+&gt;Yes, but its a little bit trickier. Launch Netflix and then wait a second or so. Then using the left stick on your Xbox controller click up, up, down, down, left, right, left, right, up, up, up, up. This may take a few tries to get it right. If you mess up just wait a second then try again. If performed correctly, it should open a menu showing some of the things mentioned above as well as a "Log out" option. 
+ /u/familydoubledare pointed out that you can use the D-pad for making this procedure easier.
+
+
+/u/growlingbear
+
+&gt;Its select on PS3 
+
+
+/u/sudosudont
+
+&gt;The Netflix movie player (Silverlight desktop version) has the following keyboard shortcuts:
+
+&gt;Space – Toggle Play/Pause
+
+&gt;Enter – Toggle Play/Pause
+
+&gt;PgUp – Play
+
+&gt;PgDn – Pause
+
+&gt;F – Full-screen
+
+&gt;Esc – Exit full-screen
+
+&gt;Shift+Left arrow – Rewind
+
+&gt;Shift+Right arrow – Fast Forward
+
+&gt;Up arrow - Volume Up
+
+&gt;Down arrow - Volume Down
+
+&gt;M – Mute toggle
+
+&gt;**In full-screen mode:**
+
+&gt;Ctrl+space – Frame forward/backward mode. 
+
+&gt;Ctrl+space pauses the movie and enters key frame mode (aka intra-frame or i-frame mode). The right and left arrow keys then move between key frames.
+
+&gt;The following 
+
+&gt;Ctrl+Shift+Alt+* shortcuts (Ctrl+Shift+Option+* in Mac OS X)  toggle information displays on/off when the player is NOT in full-screen mode. The displays will remain on, however, if full-screen mode is activated.
+
+&gt;Ctrl+Shift+Alt+M – Menu;  includes loading custom .dfxp sub-title files.
+
+&gt;Ctrl+Shift+Alt+C – Codes; frame rate plus other (unknown to me) info. 
+Also makes the other overlays green.
+
+&gt;Ctrl+Shift+Alt+D – Display A/V Stats on-screen
+
+&gt;Ctrl+Shift+Alt+L – Logging window
+
+&gt;Ctrl+Shift+Alt+P – Player info
+
+&gt;Ctrl+Shift+Alt+R – toggle color Rotation for overlays in Chrome; 
+probably a debugging feature.
+
+&gt;Ctrl+Shift+Alt+S – current Streaming bit-rate and manual bit-rate selection
+
+
+url:https://reddit.com/r/LifeProTips/comments/1j7hce/
+author:RidleyScotch
+subreddit:LifeProTips
+score:2915
+numComments:180
+isOver18:False
+hasPostBody:True

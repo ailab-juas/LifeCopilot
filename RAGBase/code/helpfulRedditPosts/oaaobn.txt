@@ -1,0 +1,13 @@
+title:
+LPT: If you're throwing away razor blades, knives or equivalent, put them in a cardboard box or tape the blades before throwing them in the garbage. This will prevent accidental lacerations that can become severely infected for our garbage personnel.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/oaaobn/
+author:heyitsdoza
+subreddit:LifeProTips
+score:3717
+numComments:107
+isOver18:False
+hasPostBody:False

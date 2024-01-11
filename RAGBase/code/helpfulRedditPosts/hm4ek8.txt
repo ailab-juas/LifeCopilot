@@ -1,0 +1,15 @@
+title:
+YSK that there are cases of bubonic plague every year around the world and the recent cases in the news are no reason to panic
+
+content:
+[you can see the data here ](https://www.cdc.gov/plague/maps/index.html)
+
+It's also not a death sentence and treatable with antibiotics, so please don't be terrified by what you see in the news.
+
+url:https://reddit.com/r/YouShouldKnow/comments/hm4ek8/
+author:lucifertangerine
+subreddit:YouShouldKnow
+score:39858
+numComments:750
+isOver18:False
+hasPostBody:True

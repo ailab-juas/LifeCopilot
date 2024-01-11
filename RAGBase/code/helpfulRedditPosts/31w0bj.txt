@@ -1,0 +1,15 @@
+title:
+YSK the difference between "antisocial" and "asocial"
+
+content:
+[Asocial](http://en.wikipedia.org/wiki/Asociality) refers to indifference to or a separation from society. An asocial person is able to socialize well if they choose to, but doesn't do so often simply out of lack of interest. It's common for introverts to be asocial
+
+[Antisocial](http://en.wikipedia.org/wiki/Anti-social_behaviour) is asociality to the extreme and is related to mental and personality disorders. An antisocial person lacks empathy or regard for the concerns or safety of others, and may actually be hostile towards society. Antisocial behaviour is typical with sociopaths 
+
+url:https://reddit.com/r/YouShouldKnow/comments/31w0bj/
+author:CaffeineFiend72
+subreddit:YouShouldKnow
+score:2404
+numComments:414
+isOver18:False
+hasPostBody:True

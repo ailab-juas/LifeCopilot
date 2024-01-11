@@ -1,0 +1,20 @@
+title:
+YSK you can save up to $40-45 on an Uber just by walking a couple of yards away from where you're standing
+
+content:
+Why YSK: Wanna save money?
+
+How? Uber's prices aren't just universally high on Friday nights. Uber drops a pin on your exact location every time you book an Uber, creating an algorithm to spike prices in highly requested areas. The weird con? These defined "areas" are extremely small, meaning that taking literal steps will change your phone's location, *possibly* changing the price of your Uber rates. Bars, stadium, and especially airports are the biggest spikers out there, and this method has had no fail for me or my friends so far. Went from $110 to $70 coming back from vacation the other week, and that probably wasn't even the best spot. Happy saving!  
+
+
+*Edit: Seeing a lot of back-and-forth in the replies. We're a controversial post now! Again, I've had no fail with this method, so a lot of this was a casual assumption with research on Uber's forum to understand how it works. Although, I did forget to mention another factor at play was how many drivers are in that area, obviously gauging how valuable they are. (ex. If you wait to book an Uber 20 mins after a baseball game ends, most drivers in the area would have picked up people that wanted to leave immediately)*
+
+*Nothing in this post mentions a guarantee, or at least it wasn't my intention considering the title; just wanted to share an interesting observation  ¯\\\_(ツ)\_/¯ For those sharing positive experiences, I'm happy to see it! For those unsatisfied with what was mentioned, feel free to drop more input to educate others interested.*
+
+url:https://reddit.com/r/YouShouldKnow/comments/yndnz5/
+author:papexilic
+subreddit:YouShouldKnow
+score:5153
+numComments:132
+isOver18:False
+hasPostBody:True

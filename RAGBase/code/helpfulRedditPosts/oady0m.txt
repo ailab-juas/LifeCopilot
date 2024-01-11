@@ -1,0 +1,13 @@
+title:
+LPT: “Can I give you my number?” instead of “Can I get your number?”
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/oady0m/
+author:[deleted]
+subreddit:LifeProTips
+score:13568
+numComments:970
+isOver18:False
+hasPostBody:True

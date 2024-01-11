@@ -1,0 +1,15 @@
+title:
+LPT: If you drop something small on the floor and can't find it, put a sock over the vacuum arm. There will be enough suction to pick up the thing you lost, but it won't be sucked into the vacuum itself.
+
+content:
+ Make sure the sock doesn't have holes.
+
+You can also stretch the sock and secure it with a rubber band.
+
+url:https://reddit.com/r/LifeProTips/comments/e1ffy4/
+author:Myst1kSkorpioN
+subreddit:LifeProTips
+score:23223
+numComments:502
+isOver18:False
+hasPostBody:True

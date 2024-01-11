@@ -1,0 +1,79 @@
+title:
+YSK That there is a US Federal loan program that helps people buy homes with no money down.
+
+content:
+I see an awful lot of posts on Reddit that complain about how difficult it is to buy a home. You should know about the USDA Guaranteed Loan Program, sometimes called the Rural Development Loan. 
+
+
+Basically, if you have halfway decent credit, have held your job longer than 2 years, and don't want to buy a house in the middle of a major metro area, the Federal Government will guarantee a home loan for you.
+
+
+There are two kinds of loans, guaranteed and subsidized. Your lender can help you choose the right one.
+
+
+I bought my home when I was 23 years old with this program. I had less than 1k in the bank and rent/student loan payments were killing me. I honestly didn't think I was going to be able to afford a home until I was in my 30s. My interest rate is 3.125 fixed. I pay a guarantee fee as part of my mortgage, but that's PMI by any other name.
+
+
+Here's the eligibility map: https://eligibility.sc.egov.usda.gov/eligibility/welcomeAction.do;jsessionid=NUG5oCfgb+rVW0XFXfyk6iM4
+
+
+Edit// This post is attracting a LOT of bad math and bad assumptions about home ownership. Tons of people saying that "If you can't afford a down payment, you can't afford a home." 
+
+
+That's not true as a blanket statement. There are plenty of people paying rent (which, in most markets, runs 130-150% of a mortgage on a rental property) for which saving 20-40k for a "traditional" down payment is a HUGE obstacle. Programs like the USDA loan eleminate that hurdle.
+
+
+Is owning a home all sunshine and rainbows? No, it's not. Do you have to sink 10k cash into home repairs every single year like some of the alarmists in the comments are saying? No.
+
+
+To put it in perspective (I covered this in the comments, but it's kinda buried), let's talk a bit about my situation.
+
+
+When I was 23, I had 2 years in at a job in the career field that I had gone to college for. Yes, I went to college on loans. There was no parental college fund. When I decided to buy a home, I went looking for loan options and found the USDA loan program. At the time, I was making okay money, a little below median for my area. At that time, after weeks of paperwork and investigation by the USDA, I was approved for a 140k loan.
+
+
+HERE'S THE RUB: I sat down, looked at the numbers, looked at the taxes in my area, considered my debt and cashflow, and came up with a number that I was comfortable paying each month on a mortgage. That number was about $650. 
+
+
+Considering the USDA gurarantee fee, insurance, everything, I worked out that payment to be a property in the neighborhood of $100k. That's 40k less than I was approved for, but it's what I was comfortable paying. So that's what I bought. A house built in 1975 in an established neighborhood, inside the town limits. It's a 3/1.5 that I paid $105k for. It was well maintained, and has a full basement garage. My mortgage is $640/mo, including taxes and insurance.
+
+
+So yeah, I did my homework. Not everybody will. But those same people are also likely to sign a lease for a home they can't really afford. 
+
+
+Three years in, I have had to make one major repair: the heat pump. The old unit lasted for 26 years. I got a couple quotes in the 5-6k range, and decided to do it myself with the help of a friend who's an HVAC tech. I purchased a 2.5 ton Rheem unit and helped him do the install. Total cost was just under 3k, so that saved me 2-3k right there. My home has a 5 year old metal roof, and I pumped the septic tank when we moved in ($400) and the system was inspected and got a clean bill of health then. 
+
+
+I also renovated the bathroom. Total cost was about $1,800. That's completely gutting it, replacing the one piece shower/tub, tile walls, new toilet, vanity, drywall, floor, etc. 
+
+
+Bottom line, you've gotta live somewhere. Might as well be somewhere that you have something when it's all said and done.
+
+
+There's also a lot of worry in this thread about financial uncertaintiy when owning a home. Sure, losing my job would be a blow, but guess what...banks aren't real estate companies. They don't want your house. Lenders will work with you on loan modification, payment deferral, etc., if you have a big problem, especially if your payment history is historically good. Miss a month of rent? Your ass is evicted.
+
+
+Also, people need to stop thinking of houses as investments. They're not. Do they appreciate in value? Generally speaking, yes. But most home values are doing very well to beat inflation. Take my parents...they bought their home in '95 at 95k. They just sold about a month ago for 149k. They were thrilled that their home "appreciated" by 54k, but that 95k matched to inflation would be about $156k today. It was a nice 3/2 in a decent part of town. This trend held true across the neighborhood. Every house that sold in the past year (yes, I checked property records) was selling for 5-10k less than the initial purchase price adjusted for inflation. Unless you do some amazing remodeling and/or buy in a super desirable area, your house isn't going to just magically triple in value. 
+
+
+Owning a home is stability and security, not an investment...at least not in the same vein as stocks and bonds.
+
+
+I'm not saying that home ownership is something EVERYONE should do. It's a huge step and a huge responsibility. But these down payment assistance programs are designed to help you get over the first huge obstacle to home ownership...not pass out free houses to everyone making 20k/yr with 30k in credit card debt.
+
+
+All I'm saying is it's a tool. 
+
+
+Buy early if possible. Buy conservative. Don't overextend. 
+
+
+Also, I'm not a financial advisor. Just a dude that bought a house without having to save for 10 years to do it.
+
+url:https://reddit.com/r/YouShouldKnow/comments/7u3d2w/
+author:propav8r
+subreddit:YouShouldKnow
+score:5539
+numComments:341
+isOver18:False
+hasPostBody:True

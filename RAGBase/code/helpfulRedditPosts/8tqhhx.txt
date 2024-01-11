@@ -1,0 +1,15 @@
+title:
+LPT: If you started college at a 2 year school, then transfer to a 4 year school and dropped out without a degree, contact the 2 year school about Reverse Transfer Programs, you may have already earned an Associates Degree that you are not getting credit for.
+
+content:
+For more information, check out ReverseTransfer.org(https://reversetransfer.org/)
+
+Also, if the 2 year college you attended is not listed on reversetransfer.org, that doesn't necessarily mean they cannot transfer your credits back, so contact them.
+
+url:https://reddit.com/r/LifeProTips/comments/8tqhhx/
+author:thisadviceisworthles
+subreddit:LifeProTips
+score:8221
+numComments:175
+isOver18:False
+hasPostBody:True

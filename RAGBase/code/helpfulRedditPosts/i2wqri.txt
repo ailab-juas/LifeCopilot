@@ -1,0 +1,15 @@
+title:
+LPT: If you have a terminal illness, make sure you record passwords, private information, and let your next-of-kin know where to find it
+
+content:
+My mom was diagnosed with pancreatic cancer and seemed to be recovering, and was too overwhelmed emotionally, financially, and physically to tell me any of her important information. By the time her health declined, it was so rapid that she couldn’t recognize me anymore, and when she passed away, I was left struggling to contact everyone and try to find important documents. I was 20 at the time. It’s been two and a half years and I’m still picking up the pieces. 
+
+I know it can be incredibly difficult to rationalize that your time may be ending soon, but it will make the lives of your loved ones and next-of-kin so much easier if you prepare ahead of time.
+
+url:https://reddit.com/r/LifeProTips/comments/i2wqri/
+author:misologous
+subreddit:LifeProTips
+score:1059
+numComments:80
+isOver18:False
+hasPostBody:True

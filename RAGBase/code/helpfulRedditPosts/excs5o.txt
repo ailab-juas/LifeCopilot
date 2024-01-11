@@ -1,0 +1,13 @@
+title:
+YSK not to chase your dog if it gets away.
+
+content:
+This will likely only cause your dog to run further away from you. Talking in a high-pitched playful voice and running the opposite way will entice your dog to chase after you.
+
+url:https://reddit.com/r/YouShouldKnow/comments/excs5o/
+author:belvitabite
+subreddit:YouShouldKnow
+score:15328
+numComments:348
+isOver18:False
+hasPostBody:True

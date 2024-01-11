@@ -1,0 +1,13 @@
+title:
+LPT: when buying bagged frozen foods, avoid bags whose contents are frozen into a solid block, and choose bags whose contents remain loose.
+
+content:
+Most bagged frozen foods have contents that are individually frozen before bagging (e.g. corn, peas, berries, etc.). If the bag is frozen into a solid block, it is likely the bag has thawed and then been refrozen.
+
+url:https://reddit.com/r/LifeProTips/comments/7ly79p/
+author:menzies
+subreddit:LifeProTips
+score:6775
+numComments:160
+isOver18:False
+hasPostBody:True

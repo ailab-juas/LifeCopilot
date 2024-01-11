@@ -1,0 +1,19 @@
+title:
+YSK about The Smithsonian Channel - hours and hours of great educational content for every taste.
+
+content:
+Link: https://www.youtube.com/user/smithsonianchannel/featured
+
+From their YT description:
+
+19 museums. 9 international research centers. 168 million artifacts. One channel. Infinite stories.
+
+The Smithsonian Channel explores the history of our planet, life and culture, with 100% original, family-friendly programming. From the origins of the universe to the deaths of civilizations, from upscale design awards to down-home chili cook-offs, we tackle subjects as diverse and limitless as the landscape we cover.
+
+url:https://reddit.com/r/YouShouldKnow/comments/2jd1yl/
+author:DasPhilosophist
+subreddit:YouShouldKnow
+score:1040
+numComments:34
+isOver18:False
+hasPostBody:True

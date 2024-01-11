@@ -1,0 +1,13 @@
+title:
+LPT: If she tells you that you don't need to wear a condom, you need to wear a condom.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/3s0r4l/
+author:flocko_
+subreddit:LifeProTips
+score:2334
+numComments:526
+isOver18:False
+hasPostBody:False

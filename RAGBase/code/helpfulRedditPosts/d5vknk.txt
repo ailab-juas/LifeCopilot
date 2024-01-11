@@ -1,0 +1,13 @@
+title:
+LPT If you ever forget your WiFi password or you want to get your school WiFi password etc. Just type this command into the command line of a computer already connected to that WiFi: netsh wlan show profile WiFi-name key=clear
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/d5vknk/
+author:DabIsBad1
+subreddit:LifeProTips
+score:97687
+numComments:2961
+isOver18:False
+hasPostBody:False

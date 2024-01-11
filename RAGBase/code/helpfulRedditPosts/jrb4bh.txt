@@ -1,0 +1,13 @@
+title:
+LPT: If you wear glasses while video conferencing, they may reflect your screen for all to see. I just saw more than I wanted on a colleagues glasses during a Zoom.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/jrb4bh/
+author:Me_so_corny_
+subreddit:LifeProTips
+score:32772
+numComments:824
+isOver18:False
+hasPostBody:False

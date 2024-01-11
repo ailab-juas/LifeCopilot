@@ -1,0 +1,13 @@
+title:
+LPT Google doesn't show ads when your query includes anything related to covid but it doesn't distinguish which part of the query. So if you use 'covid' as an excluded phrase (e.g. nvidia 3080 -covid), you get similar results but without ads.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/obnfvn/
+author:an27725
+subreddit:LifeProTips
+score:32247
+numComments:586
+isOver18:False
+hasPostBody:False

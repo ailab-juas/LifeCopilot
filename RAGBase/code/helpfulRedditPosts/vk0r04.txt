@@ -1,0 +1,13 @@
+title:
+LPT: When reading reviews of a product you are looking to buy make sure and sort the reviews by most recent. The quality of the item may have declined in the past year or two.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/vk0r04/
+author:jollytoes
+subreddit:LifeProTips
+score:5352
+numComments:103
+isOver18:False
+hasPostBody:False

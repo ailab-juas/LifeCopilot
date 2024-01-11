@@ -1,0 +1,13 @@
+title:
+LPT: if you can't easily figure out the percentage of a number, flip the number and the percentage and try that because the answer will be the same
+
+content:
+In other words, 6% of 50 is harder to calculate than 50% of 6, but the answer is the same.
+
+url:https://reddit.com/r/LifeProTips/comments/49uut7/
+author:jstohler
+subreddit:LifeProTips
+score:1020
+numComments:113
+isOver18:False
+hasPostBody:True

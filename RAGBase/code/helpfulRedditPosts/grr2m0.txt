@@ -1,0 +1,13 @@
+title:
+YSK: The purpose of turning your headlights on in heavy fog is not to see better, but to be seen from a greater distance by other drivers.
+
+content:
+The distance you are visible to other drivers can be as much as twice as far with your lights on, than not.  You should also roll down your windows when at an uncontrolled intersection, to listen for potential cross traffic, because you can hear a vehicle in dense fog, long before you will be able to see it.
+
+url:https://reddit.com/r/YouShouldKnow/comments/grr2m0/
+author:lazlounderhill
+subreddit:YouShouldKnow
+score:33566
+numComments:495
+isOver18:False
+hasPostBody:True

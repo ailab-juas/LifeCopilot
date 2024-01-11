@@ -1,0 +1,23 @@
+title:
+YSK that an 11 digit password that consists of just letters is over 100 times more secure than an 8 digit password with letters, numbers, and characters.
+
+content:
+It takes about 57 days for a computer to figure out your password if it’s 8 digits and has numbers, letters and characters. On the other side, it takes 16 years for a computer to crack an 11 digit password that consists of just letters.
+
+For other options:
+
+A 9 digit password with everything takes a computer 12 years
+
+Jumping from an 11 digit password to a 12 digit password that’s just letters gives you 600 years before a computer cracks your case.
+
+For other options and to know what the bad options are, look at [this chart](https://imgur.com/gallery/sBjbgTV)
+
+Edit: [Relevant XKCD comic](https://xkcd.com/936/)
+
+url:https://reddit.com/r/YouShouldKnow/comments/f89x0g/
+author:TOBIMIZER
+subreddit:YouShouldKnow
+score:18300
+numComments:998
+isOver18:False
+hasPostBody:True

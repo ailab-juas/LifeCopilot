@@ -1,0 +1,13 @@
+title:
+LPT: When applying for a job, save the job description. It’ll make adding it to your resume much easier.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/t1yumf/
+author:ianisrlycool
+subreddit:LifeProTips
+score:15961
+numComments:190
+isOver18:False
+hasPostBody:False

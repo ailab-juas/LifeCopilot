@@ -1,0 +1,17 @@
+title:
+YSK - You may have free tickets or discount codes in your Ticketmaster account as a result of a recent class action lawsuit.
+
+content:
+They just went out yesterday. If you bought tickets between 1999 and 2013 you should have some. I ended up having like 20 discount codes and 30 vouchers for 2 free tickets. They are apparently only good for a limited number of events though, and they haven't said which ones yet.
+
+Log in to your account, go to my account, then click on "Active Vouchers". (Or just [click here](https://www.ticketmaster.com/member/vouchers)) Note, this only works on the full site, doesn't seem to work on the app or mobile site.
+
+More info here: http://consequenceofsound.net/2016/06/ticketmaster-is-giving-you-and-everyone-else-a-bunch-of-free-tickets-as-part-of-settlement/
+
+url:https://reddit.com/r/YouShouldKnow/comments/4oto69/
+author:dustinyo_
+subreddit:YouShouldKnow
+score:2181
+numComments:259
+isOver18:False
+hasPostBody:True

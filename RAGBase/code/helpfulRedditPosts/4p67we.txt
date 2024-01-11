@@ -1,0 +1,29 @@
+title:
+LPT: Use Internet Explorer or Safari to stream Netflix. Other browsers such as firefox, opera and chrome are limited to 720p!
+
+content:
+Even though you can manually force the bitrate, Chrome, firefox and opera can't stream 1080p! Using IE or Safari will solve this. 
+
+~~[Source](https://help.netflix.com/en/node/237422)~~ [Source](http://uk.businessinsider.com/netflix-cant-stream-full-1080p-hd-in-chrome-or-firefox-2015-12)
+
+Edit: Its also worth pointing out if you're using windows 8 / 10 you can get the netflix app which not only supports 1080p but also 5.1 surround sound!
+
+Edit2: Loads of people asking about all different setups, so here's what people have generally been saying:
+
+Xbox one, PS4 and the native windows app will support aunt to 1080p and also support 5.1 surround sound.
+
+Microsoft Edge will do 1080p.
+
+No browsers will do surround sound.
+
+The cause is apparently Netflix DRM based and therefore won't affect other services unless they do the same.
+
+Apparently "Chrome on ChromeOS does not have this limitation and will do 1080p."
+
+url:https://reddit.com/r/LifeProTips/comments/4p67we/
+author:EdCChamberlain
+subreddit:LifeProTips
+score:5066
+numComments:1563
+isOver18:False
+hasPostBody:True

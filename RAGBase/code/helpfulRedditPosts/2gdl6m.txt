@@ -1,0 +1,13 @@
+title:
+LPT: Leave a book in your car or any other place you wait, and be productive while you wait for your lazy friends, etc.
+
+content:
+I've finished countless books waiting for girlfriends, lazy buddies etc when I'd otherwise be sitting on my phone aimlessly. 
+
+url:https://reddit.com/r/LifeProTips/comments/2gdl6m/
+author:J_Mik
+subreddit:LifeProTips
+score:2730
+numComments:404
+isOver18:False
+hasPostBody:True

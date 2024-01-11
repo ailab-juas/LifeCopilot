@@ -1,0 +1,19 @@
+title:
+YSK: The microwave isn’t ruining your food, you probably just don’t know how to use it properly.
+
+content:
+Why YSK: If you’re wondering why your food is always coming out of the microwave rubbery, tough, and otherwise gross, it’s probably because you reheated your food improperly.
+
+The “time cook” and “power level” settings are your best friend. If reheating something that you don’t want to ruin (like a steak, maybe some seafood, etc.) try microwaving for double the time at half the power (50% or power level 5). You can even do lower setting for longer periods of time if you’re being careful. Your food will be much less “microwaved” when it comes out.
+
+If you’re just trying to get something hot really fast (like a cup of coffee), just use the normal setting.
+
+TLDR: Learn to use your power setting on your microwave. This is truly divine knowledge.
+
+url:https://reddit.com/r/YouShouldKnow/comments/lw90hg/
+author:J2K_PhD
+subreddit:YouShouldKnow
+score:18194
+numComments:939
+isOver18:False
+hasPostBody:True

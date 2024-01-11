@@ -1,0 +1,21 @@
+title:
+LPT: If you're fixing something and you need to replace a tight fitting piece, stick it in the freezer. The cold will cause the part to contract making it easier to put in!
+
+content:
+If you're using this on something electronic, avoid leaving the part in the freezer for too long (45 min to an hour). This could potentially cause condensation and water damage. I've used this before on computers and never had any problems.
+
+EDIT: Thanks for all the responses! I'll address the most pressing one first
+
+DO NOT PUT ELECTRONICS IN THE FREEZER
+
+I took apart a newer computer after reading a whole bunch of comments and I have found that putting computer parts in the freezer is no longer necessary. They all fit together like a charm!
+
+Now for the second, for anybody interested thanks to /u/FarmerWolfie, /u/Octan3, and /u/darrellbear this process is called thermal fitting. Pretty interesting topic check it out!
+
+url:https://reddit.com/r/LifeProTips/comments/30pbww/
+author:thejokersshadow
+subreddit:LifeProTips
+score:3010
+numComments:348
+isOver18:False
+hasPostBody:True

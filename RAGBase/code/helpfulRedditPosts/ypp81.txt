@@ -1,0 +1,13 @@
+title:
+LPT: "Dumbphone" users can text Google (466453) for simple information like directions, address, weather, time, etc.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ypp81/
+author:kitten_suplex
+subreddit:LifeProTips
+score:1973
+numComments:254
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+postTitle
+
+content:
+postBody
+
+url:postUrl
+author:author
+subreddit:subreddit
+score:score
+numComments:numComments
+isOver18:isOver18
+hasPostBody:hasPostBody

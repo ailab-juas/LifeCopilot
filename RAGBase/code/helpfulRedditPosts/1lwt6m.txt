@@ -1,0 +1,15 @@
+title:
+LPT: At a fast food restaurant, if you want your burger hot and freshly made, order it without an ingredient (e.g. onion, sauce).
+
+content:
+Tired of the cold shit that sometime I was forced to eat, I once ordered my McDonald's cheeseburgers without pickles (yep, I don't like them). Now I always get them freshly made, hot and steamy.
+
+Edit: It seems that most fast-food places assembles burgers only when the order is on the screen (it doesn't happen in the restaurants I've been) and the meat is cooked previously and kept warm up to 10/20 mins. So if you want your patties made freshly just for you ask for them without seasoning. Or, you know, just say that you want them fresh.
+
+url:https://reddit.com/r/LifeProTips/comments/1lwt6m/
+author:calosauce
+subreddit:LifeProTips
+score:1010
+numComments:557
+isOver18:False
+hasPostBody:True

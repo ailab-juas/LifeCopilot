@@ -1,0 +1,13 @@
+title:
+LPT: dividing any number by 5 yields the exact same numerical digits as multiplying it by 2, you just need to shift the decimal point. useful when you're splitting a bill.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/k2mkc9/
+author:baconpancake99
+subreddit:LifeProTips
+score:2607
+numComments:180
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,17 @@
+title:
+LPT: When attempting to proofread your work, paste it into Google Translate and click on the speaker icon to have it read to you in order to notice mistakes.
+
+content:
+If you're alone or you're afraid of having mistakes in an email, essay, or post, simply paste it in Google Translate and click on the speaker icon to have it read to you. Listening to something allows you to get a flow of the words better and notice any grammatical mistakes.
+
+Edit: yes, reading aloud also works but here's something I agree with from the comments: 
+StickiStickman said:
+"When you read it out yourself you may misread or your brain may "auto-complete" some words." This causes you to not notice certain mistakes. 
+
+url:https://reddit.com/r/LifeProTips/comments/45ay84/
+author:basabeo
+subreddit:LifeProTips
+score:4947
+numComments:529
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Tip cash at a restaurant, even when you're paying with a credit card. Write "cash" across the tip line on the check, and leave the tip on the table, or give it directly to your server. This minimizes tip theft by management.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/rcvmxl/
+author:TrooperJohn
+subreddit:LifeProTips
+score:26392
+numComments:2362
+isOver18:False
+hasPostBody:False

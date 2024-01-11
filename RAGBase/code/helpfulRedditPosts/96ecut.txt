@@ -1,0 +1,13 @@
+title:
+YSK that if youre trying to find a school/college, look up its name along with 'Clery report'. By law, campuses have to disclose any crime and other useful information
+
+content:
+examples: security and access, law enforcement authority, alcohol and drug use, and the prevention of/response to sexual assault, domestic or dating violence, and stalking
+
+url:https://reddit.com/r/YouShouldKnow/comments/96ecut/
+author:TacticalHog
+subreddit:YouShouldKnow
+score:1160
+numComments:22
+isOver18:False
+hasPostBody:True

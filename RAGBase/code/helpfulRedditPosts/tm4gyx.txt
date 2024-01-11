@@ -1,0 +1,13 @@
+title:
+LPT: if you show up late for work/meeting never bring your coffee inside
+
+content:
+If you are late for work or a meeting do not bring a coffee inside especially if it from a place you had to stop and get it. If they see the coffee they will assume that you stopped and that is why your late.
+
+url:https://reddit.com/r/LifeProTips/comments/tm4gyx/
+author:johnwayneecasey
+subreddit:LifeProTips
+score:11011
+numComments:842
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: When looking up recipes online, the recipe doesn't stop at the recipe. Read the reviews to find slight alterations (and frankly sometimes improvements) that fit your taste.
+
+content:
+EDIT: So what I'm getting here is the recipes are all wrong, the reviews are worse, God doesnt exist, dogs and cats living together, mass hysteria?
+
+url:https://reddit.com/r/LifeProTips/comments/54alhl/
+author:lunarseed
+subreddit:LifeProTips
+score:4463
+numComments:746
+isOver18:False
+hasPostBody:True

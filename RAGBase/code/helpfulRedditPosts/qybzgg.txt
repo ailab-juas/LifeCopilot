@@ -1,0 +1,13 @@
+title:
+LPT If you want to order food to eat at home—use the delivery apps' streamlined menu to choose your dishes. Then call the restaurant to place your order for pickup or their in-house delivery service. You save money on fees and support local restaurants directly.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/qybzgg/
+author:TigerWing
+subreddit:LifeProTips
+score:3413
+numComments:149
+isOver18:False
+hasPostBody:False

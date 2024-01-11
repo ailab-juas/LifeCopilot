@@ -1,0 +1,13 @@
+title:
+LPT: If the oil becomes too hot while cooking and creates a grease fire, do not pour water on it. Water will make a grease fire much, much worse. Instead, starve the fire of oxygen by completely covering it and removing it from heat, if possible. Baking soda will also help put out a grease fire.
+
+content:
+Not sure if it’s an obvious fact but lately I’ve seen too many videos of people trying to pour water on a grease fire making the fire become worse!
+
+url:https://reddit.com/r/LifeProTips/comments/gno2mz/
+author:mall2324
+subreddit:LifeProTips
+score:2737
+numComments:221
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,31 @@
+title:
+YSK Avocado can taste either like butter, pistachio, coconut or like grass, soap or plastic. Every avocado seed you plant produces a tree with different tasting fruits. There is no "one type of avocado" and producers can often mix variants that are all sold as "avocado" but taste wildly different.
+
+content:
+Why YSK: Depending on where you live in the world, avocado is often sold as this one thing that is the same as any other avocado. It's not! Avocado has incredible an genetic diversity and does not grow true from seed.    
+
+
+
+Sometimes this "not showing what kind of avocado you're getting" is used maliciously to sell shit tasting avocado. Avocado can taste terribly even when perfectly ripe depending on the variant and growing process. I've seen this malicious type of labeling more prominent in Europe, where avocado can be extremely expensive and a complete gamble in terms of quality.                
+
+
+
+Every avocado plant grown from seed produces a new variant that may taste great, meh or terrible. What producers do to try to stabilize taste, is to essentially clone other avocado plants that are known to taste well (grafting). If you slap a label to your particular variety of avocado you get things like Hass, Fuerte, Reed, etc.     
+
+
+
+More info on this genetic variability: "[Reasons for the use of clonal avocado rootstocks around the world".](https://www.avocado.org.au/wp-content/uploads/2017/02/Reasons-for-the-Use-of-Clonal-Avocado-Rootstocks-Around-the-World-C-Fernandez-Noguera-et-al..pdf) and "[The unpleasant flavor hinders acceptability of some avocado varieties](https://ur.booksc.eu/book/44798127/9425c9)". And here's a list from 1915 that lists [86 different varieties of avocado and what are they notable for](http://avocadosource.com/CAS_Yearbooks/CAS_01_1915/CAS_1915_PG_44-69.pdf). Imagine how many varieties we have now!
+
+
+
+Some varieties taste great but spoil quickly or are hard to grow. Some are easy to grow but taste like shit. Two avocados might look similarly but taste wildly different.      
+
+To add to the genetic complexity, changes in the soil conditions, height, humidity, temperature, water, pests, location, season, etc. [can also affect taste.](https://www.growables.org/information/TropicalFruit/documents/AvocadoFruitUF.pdf) So some variability is possible even when using clone types like Hass!
+
+url:https://reddit.com/r/YouShouldKnow/comments/wmjqn2/
+author:space_iio
+subreddit:YouShouldKnow
+score:10701
+numComments:379
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Don't ask, "What's your favorite movie [or band, food, etc.]?" People tend to freeze from the pressure. Instead - ask, "What's a movie that you like?"
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/g6r3iz/
+author:jxcb345
+subreddit:LifeProTips
+score:9955
+numComments:214
+isOver18:False
+hasPostBody:False

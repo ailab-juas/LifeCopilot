@@ -1,0 +1,13 @@
+title:
+LPT: Before cleaning your microwave, run it for 5-10 minutes with a bowl of water in it to loosen up the dried out gunk
+
+content:
+EDIT: As /u/tisitwon points out, you'll probably want to let it sit for a few minutes after the cycle completes to make sure you don't scald yourself with [superheated water.](http://www.youtube.com/watch?v=1_OXM4mr_i0)
+
+url:https://reddit.com/r/LifeProTips/comments/1z8i4y/
+author:Flelk
+subreddit:LifeProTips
+score:2054
+numComments:209
+isOver18:False
+hasPostBody:True

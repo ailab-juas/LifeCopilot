@@ -1,0 +1,13 @@
+title:
+LPT: 6 Steps to Corn
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/xp6r3/
+author:oxsouls
+subreddit:LifeProTips
+score:1811
+numComments:336
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,17 @@
+title:
+LPT: If something claims to be free, YOU are the product.
+
+content:
+This is especially pervasive in the digital age, where most people have tiny laptops in their pockets with unlimited data plans.
+
+Anything that offers you points or discounts or anything of the sort, and you aren't paying any fees, you are what is being sold. Or more accurately, your privacy and your information.
+
+Data selling is more profitable now than ever before -- prime example is Facebook. It's technically free, and yet the company is worth billions. They data mine everyone who signs up and then sell off their info to the highest bidders.
+
+url:https://reddit.com/r/LifeProTips/comments/fewcb5/
+author:knightofdight
+subreddit:LifeProTips
+score:6794
+numComments:281
+isOver18:False
+hasPostBody:True

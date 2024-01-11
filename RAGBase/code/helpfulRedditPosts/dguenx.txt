@@ -1,0 +1,13 @@
+title:
+LPT: When teaching a child how to do something e.g. brush teeth, write, etc. first do on your own *with your less-used hand*. It'll help you understand better what it's like for the child, increase your patience and sympathy, and and help you notice good pointers.
+
+content:
+Plus, it's good for your own brain!
+
+url:https://reddit.com/r/LifeProTips/comments/dguenx/
+author:DiscipleOfYeshua
+subreddit:LifeProTips
+score:5614
+numComments:82
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Next time you find yourself thinking, "I do not have time for X." Instead think "I am not making X a priority." Then stop and see how it feels.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/25u73z/
+author:8023root
+subreddit:LifeProTips
+score:2162
+numComments:170
+isOver18:False
+hasPostBody:False

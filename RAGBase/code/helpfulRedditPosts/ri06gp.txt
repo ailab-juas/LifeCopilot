@@ -1,0 +1,16 @@
+title:
+LPT: Waiting 30-60 seconds to dry off after you turn off your shower significantly decreases the volume of water soaked up by your towel, thus your towel will need less time to dry by its next use.
+
+content:
+I used to have a damp towel by the next morning, and then I started just kind of drip drying after I turn off the water and I noticed that my towel was much drier on days when I did this.  After about 30-60 seconds it seems like not much more water is able to drip...so there you go.  
+
+
+Worked for me.
+
+url:https://reddit.com/r/LifeProTips/comments/ri06gp/
+author:Anadyne
+subreddit:LifeProTips
+score:3097
+numComments:457
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,34 @@
+title:
+YSK firefox is offering a service to check wether your data was breached or not. It checks databases in DarkWeb for your email. The service is free and you can check unlimited emails with the service.
+
+content:
+[Firefox Monitor](http://monitor.firefox.com)
+
+Edit: Since some people are asking what to do if my data is breached, here are what Firefox recommend to do:
+
+* **What to do after a data breach** You get an email, either from Firefox Monitor  or a company where you have an account. There’s been a security  incident. Your account has been compromised. Getting notified that you’ve been a victim of a data breach can be alarming. You have valid cause for concern, but there are a **few steps you can take immediately to protect your account and limit the damage.**
+* **Read the details about the breach.**   Read  closely to learn what happened. What personal data of yours was  included? Your next steps will depend on what information you need to  protect. When did the breach happen? You may receive the notice months  or even years after the data breach occurred. Sometimes it takes awhile  for companies to discover a breach. Sometimes breaches are not  immediately made public.
+* **If you haven’t yet, change your password.** Lock  down your account with a new password. If you can’t log in, contact the  website to ask how you can recover or shut down the account. See an  account you don’t recognize? The site may have changed names or someone  may have created an account for you.
+* **If you’ve used that password for other accounts, change those too**. Hackers  may try to reuse your exposed password to get into other accounts.  Create a different password for each website, especially for your  financial accounts, email account, and other websites where you save  personal information.
+* **Take extra steps if your financial data was breached.** Most  breaches only expose emails and passwords, but some do include  sensitive financial information. If your bank account or credit card  numbers were included in a breach, alert your your bank to possible  fraud. Monitor statements for charges you don't recognize.
+* **Review your credit reports to catch identity theft.** If  you have credit history in the United States, check your credit reports  for suspicious activity. Ensure that no new accounts, loans, or cards  have been opened in your name. By law, you’re permitted to one free  report from the three major credit reporting bureaus every year. Request  them through annualcreditreport.com. And don’t worry, checking your own  credit report never affects your score.
+
+**Here are some useful links to check:**
+
+[How hackers work](https://monitor.firefox.com/security-tips#how-hackers-work)
+
+[How to create strong passwords](https://monitor.firefox.com/security-tips#strong-passwords)
+
+[5 myths about password managers](https://monitor.firefox.com/security-tips#five-myths)
+
+[Steps to protect your identity online](https://monitor.firefox.com/security-tips#steps-to-protect)
+
+[Take further steps to protect your identity](https://monitor.firefox.com/security-tips#next-steps)
+
+url:https://reddit.com/r/YouShouldKnow/comments/dzq40p/
+author:amirsadeghi
+subreddit:YouShouldKnow
+score:17076
+numComments:400
+isOver18:False
+hasPostBody:True

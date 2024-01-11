@@ -1,0 +1,13 @@
+title:
+LPT: Percentages are reversible, so 6% of 50 is equal to 50% of 6; which is much easier to calculate.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/o7x4j9/
+author:tacothepugpuppy
+subreddit:LifeProTips
+score:21758
+numComments:551
+isOver18:False
+hasPostBody:False

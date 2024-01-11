@@ -1,0 +1,13 @@
+title:
+LPT: Love yourself first, because that's who you will be spending the rest of your life with.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/r0vmvj/
+author:lifesapancakeflipit
+subreddit:LifeProTips
+score:1397
+numComments:76
+isOver18:False
+hasPostBody:False

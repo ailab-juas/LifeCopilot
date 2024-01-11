@@ -1,0 +1,13 @@
+title:
+LPT: Don’t ever call into a company saying you want to cancel your services
+
+content:
+I just spent 30 minutes on hold with my car insurance company after I made the mistake of telling the automated voice that I wanted to cancel my policy. I hung up, called back, and said I wanted to add additional coverage. I was connected immediately…
+
+url:https://reddit.com/r/LifeProTips/comments/y6m79e/
+author:bkwilcox100
+subreddit:LifeProTips
+score:1335
+numComments:133
+isOver18:False
+hasPostBody:True

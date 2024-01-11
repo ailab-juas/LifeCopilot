@@ -1,0 +1,25 @@
+title:
+YSK: You don’t need use an app to track your period
+
+content:
+Why YSK: The general lack of privacy and ownership of your personal, sensitive data with your phone apps. Your period tracking app is really just an excel sheet with visually pleasing UI.  
+  
+
+Because of that, you can create your own within excel or sheets and you then own your own data. 
+  
+
+[Aliza Aufrichtig](https://www.alizaaufrichtig.com) is an editor at the NYTimes. Highly encourage you to read her but I digress. 
+  
+She took the time on a how-to create your own period tracking app, WITH calendar integrations.   
+  
+[You can find the how-to HERE](https://www.alizaaufrichtig.com/period-tracker)  
+  
+Excel is actually pretty tame and this won’t be a difficult project to take on!
+
+url:https://reddit.com/r/YouShouldKnow/comments/vnq3jo/
+author:dannyisaphantom_
+subreddit:YouShouldKnow
+score:6165
+numComments:534
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,16 @@
+title:
+LPT: If you have been using Netflix since it was just dvds check your account to make sure you're not subscribed to a dvd plan as well as a streaming one
+
+content:
+Checked my moms Netflix as she was complaining about the prices going up Turns out shes been paying $20 a month for DVDs. We haven't rented a DVD in years.
+
+
+Edit: To clarify she's paying this plus the streaming fee of $15
+
+url:https://reddit.com/r/LifeProTips/comments/ssvj9h/
+author:RESPEKTOR
+subreddit:LifeProTips
+score:13286
+numComments:428
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: if you like anchovies on your pizza do not get them as a topping. Buy a can and add them yourself. Anchovies is such a rarely ordered topping that the ones from the pizza shop won’t be very good
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/f3mr8t/
+author:mj5150
+subreddit:LifeProTips
+score:1674
+numComments:226
+isOver18:False
+hasPostBody:False

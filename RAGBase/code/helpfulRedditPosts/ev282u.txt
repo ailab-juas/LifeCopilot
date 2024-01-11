@@ -1,0 +1,13 @@
+title:
+LPT: Don't have time to read the Terms and Privacy policies? Try tosdr.org website; It will provide ratings for the Terms and Privacy policies and will also provide you an overview of some of the main points that we need to look into.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ev282u/
+author:un_real7
+subreddit:LifeProTips
+score:31850
+numComments:280
+isOver18:False
+hasPostBody:False

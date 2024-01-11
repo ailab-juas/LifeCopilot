@@ -1,0 +1,15 @@
+title:
+LPT : When you need to switch a word because there is a repetition don't change the second occurence but the first one.
+
+content:
+If you used this specific term twice the last one is usually more important
+
+It's a game changer, honestly
+
+url:https://reddit.com/r/LifeProTips/comments/oa51t0/
+author:the_twins75
+subreddit:LifeProTips
+score:1416
+numComments:57
+isOver18:False
+hasPostBody:True

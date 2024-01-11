@@ -1,0 +1,21 @@
+title:
+LPT: Fix Google Maps before selling your house
+
+content:
+I live outside London in a commuter town, so living close to the train station is *the* main thing people look for when buying.
+
+When we bought our house, Google (and so all of the major property portals) said it was 0.6 miles to the station. I noticed that a bunch of footpaths and shortcuts in my neighbourhood were missing from Google maps, so submitted changes which showed up about a week later.
+
+We're now selling our house, and the distance to the station has more than halved - the house is now listed as being 0.27 miles to the station! The agent thinks this has boosted the price of the house by a few %, and has resulted in strong interest from Londoners moving out to our town 
+
+Tl;dr: Fix Google maps to be closer to transport hubs
+
+Edit: we hit the front page! Lots of people saying that Google doesn't accept changes for most users, so it's probably worth pointing out that I am a level 6 local guide (did it years ago because I thought that maybe it could eventually be useful). You can become a high level local guide by searching for every ATM/cash machine in your area, and setting its opening hours to 24 hours, and/or reviewing it.
+
+url:https://reddit.com/r/LifeProTips/comments/fbsngf/
+author:kiwialec
+subreddit:LifeProTips
+score:47903
+numComments:1222
+isOver18:False
+hasPostBody:True

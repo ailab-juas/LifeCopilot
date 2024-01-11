@@ -1,0 +1,16 @@
+title:
+YSK that an ingredient in Dettol is highly poisonous to most pets, especially cats.
+
+content:
+Why Ysk: Dettol the popular antiseptic/cleaning product contains phenol chloroxylenol. Phenol chloroxylenol is highly poisonous to most pets
+but cats especially. If you clean a wound or surface with it and you pet licks it, it could be fatal. 
+
+https://i.stuff.co.nz/life-style/life/77412595/nine-things-you-didnt-know-could-poison-your-pet
+
+url:https://reddit.com/r/YouShouldKnow/comments/v61hqg/
+author:sheeple85
+subreddit:YouShouldKnow
+score:3163
+numComments:80
+isOver18:False
+hasPostBody:True

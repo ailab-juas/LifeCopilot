@@ -1,0 +1,27 @@
+title:
+YSK: US credit/debit cardholders are Federally entitled to compensation for unauthorized transactions
+
+content:
+Why YSK:Many countries have their own consumer protection laws. I am here to discuss the United States. Before my fellow banking veterans point out it is not just credit and debit cards, I am self aware.
+
+Commonly you will see commercials for various banks that list that "you're never responsible for fraudulent transactions". This is NOT a perk or done out of the goodness of their hearts. You as a cardholder (consumer not business) are entitled to Federal Regulation E. If you search out this in Google it has probably as many pages as a Bible on the CFPB's website, but if you shorten your search you will see that by law unauthorized transactions are the liability of the bank or merchant. This includes store cards, credit, and debit.
+
+Why this is useful:
+
+There are many exceptions to Reg E such as the broad paint brush of investigations. To make this short and sweet, if you do not have a relationship with the merchant and/or didn't initiate the transaction it should be an open shut case and YOU CAN ask for a provisional credit if debit based. A lot of scenarios actually call for credit to a customer in 10 days from opening.
+
+Source - Me(Fraud/Claims Manager)
+
+Edit - spelling errors
+
+Edit 2 - Wow, I didn't expect so many replies. There are banking, fraud, compliance analysts in r/banking for very specific questions.
+
+Second thing. Chargebacks are NOT a court order. If you have a contractual agreement the merchant can take you court and possibly win if you were credited back from a chargeback. This happens all the time with wedding vendors.
+
+url:https://reddit.com/r/YouShouldKnow/comments/mqw0id/
+author:RealMccoy13x
+subreddit:YouShouldKnow
+score:11486
+numComments:281
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Don't "Hi" your coworkers on Slack or Teams in an attempt to rope them into a synchronous conversation they may not have time for. If you have a work-related question, simply ask it up front. If you need to schedule a chat, provide context so they can prioritize their time.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/t48pfa/
+author:RockleyBob
+subreddit:LifeProTips
+score:51765
+numComments:2592
+isOver18:False
+hasPostBody:False

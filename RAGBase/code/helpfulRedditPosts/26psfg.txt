@@ -1,0 +1,13 @@
+title:
+LPT: When you decide to begin cooking breakfast or dinner, fill your sink with hot soapy dishwater to wash and rinse as you cook to avoid a repulsive and unsightly mess after your meal.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/26psfg/
+author:purplebowl
+subreddit:LifeProTips
+score:1873
+numComments:628
+isOver18:False
+hasPostBody:False

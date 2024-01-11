@@ -1,0 +1,21 @@
+title:
+LPT: If you need a textbook for college look for an international edition or instructor edition. They are incredibly cheap.
+
+content:
+International editions are USUALLY exactly the same content-wise, but have a different cover image and are paperback.  Instructor editions are usually hardcover with the same cover image, but are usually cheaper and have more answers in the back.  Go on ebay or sites like abebooks and search for the international edition.  Some of the newer books might not be available, but a large portion of them are.  You can get $150+ textbooks for ~$20! YMMV
+
+TL;DR same books for cheaper!
+
+edit: Apparently not all international editions have the exact same questions, so try to double check!  However, I've bought international editions for two years with no problems.
+
+edit2: Some people have also had issues with engineering books.  I personally have not had any issues(I'm a mechanical engineering student) as the books have been in SI units for everyone or had both, but it is definitely something to look for.
+
+edit3: Added "usually" and "ymmv" to the original post because some people have better luck than others.  Also, if you just want to find the PDF of the book I recommend using [this post](http://www.reddit.com/r/trackers/comments/hrgmv/tracker_with_pdfsebooks_of_college_textbooks/c1xrq44) to find it.
+
+url:https://reddit.com/r/LifeProTips/comments/2dvyk4/
+author:arakuto
+subreddit:LifeProTips
+score:2939
+numComments:501
+isOver18:False
+hasPostBody:True

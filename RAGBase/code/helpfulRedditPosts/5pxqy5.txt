@@ -1,0 +1,13 @@
+title:
+LPT: When you share something personally embarrassing or sad with another person and they respond with a similar story, don't think of it as one-upping. Focus on the fact that they made it through that tough time and so will you.
+
+content:
+People in my family have struggled with depression. My uncle killed himself because of it and my mother lost several years of her life to depression. No one in my family called it depression and always validated their 'sadness' instead of encouraging them to look to the future in an attempt to find happiness. It took my mother's pastor pleading with her to seek counseling for her to begin to heal. I only wish someone had done the same for my uncle. 
+
+url:https://reddit.com/r/LifeProTips/comments/5pxqy5/
+author:ruff_leader
+subreddit:LifeProTips
+score:5379
+numComments:132
+isOver18:False
+hasPostBody:True

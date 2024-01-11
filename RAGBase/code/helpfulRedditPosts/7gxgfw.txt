@@ -1,0 +1,13 @@
+title:
+LPT: Create a contact in your phone named Spam then block the contact. When a telemarketer calls add the number to that contact.
+
+content:
+I've added my number to the National Do Not Call Registry and asked them to remove me from the list more than I can count. Still trying to sell me for home improvements and the like. I live in an apartment. Best tip is not to pick up, but now you will know if that random number is likely spam.
+
+url:https://reddit.com/r/LifeProTips/comments/7gxgfw/
+author:bigfanverywindy
+subreddit:LifeProTips
+score:5303
+numComments:343
+isOver18:False
+hasPostBody:True

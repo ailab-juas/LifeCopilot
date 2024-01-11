@@ -1,0 +1,13 @@
+title:
+LPT Using Windows Key + V you can turn on Clipboard History, allowing you to access things you've previously Copy + Pasted. (Win 10 2018 Update+)
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/f815ob/
+author:joelkemu
+subreddit:LifeProTips
+score:9967
+numComments:231
+isOver18:False
+hasPostBody:False

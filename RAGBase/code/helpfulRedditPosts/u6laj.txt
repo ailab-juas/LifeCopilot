@@ -1,0 +1,13 @@
+title:
+YSK about the website erowid.org.  It lists many drugs, their effects, costs, dosages, lawful repercussions, etc. 
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/u6laj/
+author:jonbotwesley
+subreddit:YouShouldKnow
+score:1090
+numComments:82
+isOver18:False
+hasPostBody:False

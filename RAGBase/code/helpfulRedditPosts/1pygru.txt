@@ -1,0 +1,13 @@
+title:
+YSK that "V For Vendetta's" use of Guy Fawkes was meant to be ironic. Fawkes, a Catholic, wanted to kill hundreds of innocent people because the Crown refused to accept absolute Papal authority.
+
+content:
+http://en.wikipedia.org/wiki/Gunpowder_Plot#Initial_recruitment
+
+url:https://reddit.com/r/YouShouldKnow/comments/1pygru/
+author:[deleted]
+subreddit:YouShouldKnow
+score:2318
+numComments:360
+isOver18:False
+hasPostBody:True

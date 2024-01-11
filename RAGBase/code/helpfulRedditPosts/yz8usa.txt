@@ -1,0 +1,13 @@
+title:
+LPT: Write, draw, paint, take photographs. Permit yourself to be creative, because it allows you to build another world outside of our own, a world that doesn't carry the stresses of this one. Lose yourself in these pursuits, even if you can't make anything from them, just create.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/yz8usa/
+author:incredibleinkpen
+subreddit:LifeProTips
+score:10306
+numComments:151
+isOver18:False
+hasPostBody:False

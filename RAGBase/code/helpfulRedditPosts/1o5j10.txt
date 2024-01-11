@@ -1,0 +1,13 @@
+title:
+YSK today is National Depression Screening Day, visit www.HelpYourselfHelpOthers.org to take a free and anonymous self-assessment.
+
+content:
+http://www.HelpYourselfHelpOthers.org
+
+url:https://reddit.com/r/YouShouldKnow/comments/1o5j10/
+author:tt_frog
+subreddit:YouShouldKnow
+score:1201
+numComments:148
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,21 @@
+title:
+YSK there's a site that checks if your email may have been compromised by an illegal access to a database containing your login information.
+
+content:
+You can also subscribe to receive notifications in case of new database breaches that may contain your email/password. 
+
+Here: [Have I Been Pwned?](https://haveibeenpwned.com/)
+
+Needless to say, in case your information is at risk, consider changing your passwords for the more sensitive sites you use.
+
+Disclaimer: I'm in no way affiliated with the website, just stumbled upon it.
+
+EDIT: I can't personally vouch for how secure this site is, but there's enough credible sources to convince me. Draw your own conclusions - [Reddit Domain](https://www.reddit.com/domain/haveibeenpwned.com/), [PCWorld](http://www.pcworld.com/article/2070080/new-website-lets-users-check-if-their-online-credentials-were-exposed-in-large-data-leaks.html), [Troy Hunt's blog](http://www.troyhunt.com/2013/12/introducing-have-i-been-pwned.html), Microsoft MVP for Developer Security, and the man behind HIBP.
+
+url:https://reddit.com/r/YouShouldKnow/comments/3w4yjl/
+author:1ifemare
+subreddit:YouShouldKnow
+score:1472
+numComments:125
+isOver18:False
+hasPostBody:True

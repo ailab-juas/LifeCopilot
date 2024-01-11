@@ -1,0 +1,13 @@
+title:
+LPT: The most helpful thing you can do when leaving a review for clothes is tell people what size you got, how tall you are, and what you weigh.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/mvkg34/
+author:RockleyBob
+subreddit:LifeProTips
+score:43885
+numComments:830
+isOver18:False
+hasPostBody:False

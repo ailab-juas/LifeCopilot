@@ -1,0 +1,13 @@
+title:
+LPT:‘Swallow the frog’: Do the thing you are least looking forward to first and the whole day will seem brighter and easier.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/4lw0vb/
+author:AThinRedLine
+subreddit:LifeProTips
+score:6251
+numComments:1036
+isOver18:False
+hasPostBody:False

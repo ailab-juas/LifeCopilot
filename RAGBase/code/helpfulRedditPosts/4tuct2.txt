@@ -1,0 +1,17 @@
+title:
+LPT Use the Pomodoro Technique to be more productive. Work for 25 minutes, then a 5 minute break. After repeating 4 times, take a longer 30 minute break. Does wonders for productivity.
+
+content:
+I think the reason it works is because at the beginning of the 25 minute section, you think to yourself "it's only 25 minutes. Can't be that bad." Before you know it, you'll be halfway through your task.
+
+The 5 minute breaks keep you refreshed and before you know it, you'll be done with your task.
+
+[Link](https://en.wikipedia.org/wiki/Pomodoro_Technique)
+
+url:https://reddit.com/r/LifeProTips/comments/4tuct2/
+author:jimmykim9001
+subreddit:LifeProTips
+score:5545
+numComments:672
+isOver18:False
+hasPostBody:True

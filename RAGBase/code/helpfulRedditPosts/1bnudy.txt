@@ -1,0 +1,13 @@
+title:
+YSK common tips for efficiency around the home
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/1bnudy/
+author:KevenM
+subreddit:YouShouldKnow
+score:2818
+numComments:392
+isOver18:False
+hasPostBody:False

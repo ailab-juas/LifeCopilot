@@ -1,0 +1,13 @@
+title:
+LPT: If you approach a group of ATM machines and all but 1 is messy and unkempt, be careful using the only "clean" one. Thieves looking to skim your card will make other ATMs look unappealing so you'll use the 1 they have rigged.
+
+content:
+This was something I learned during security training for a previous job I had. It's actually a thing. 
+
+url:https://reddit.com/r/LifeProTips/comments/a7h3m4/
+author:Nomoreaccess
+subreddit:LifeProTips
+score:19752
+numComments:512
+isOver18:False
+hasPostBody:True

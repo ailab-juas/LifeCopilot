@@ -1,0 +1,17 @@
+title:
+YSK If you are among the thousands of Americans yet to receive the (earlier) stimulus money, you could claim and receive it as a refund with your 2020 Returns next year.
+
+content:
+Why YSK: I am in this situation. Althought the status online shows 'check was mailed on May 14th I haven't received it, nor did I see a direct deposit in my bank.
+
+After a few attempts, talked to an IRS Agent who explained that I could claim a 'refund' and receive it with my tax filing next year. 
+
+Also check [IRS FAQ](https://www.irs.gov/newsroom/economic-impact-payments-what-you-need-to-know)
+
+url:https://reddit.com/r/YouShouldKnow/comments/kjg9fo/
+author:desi_guy11
+subreddit:YouShouldKnow
+score:18884
+numComments:436
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+YSK that CreditKarma will file your taxes, including state taxes, for free.
+
+content:
+I don’t work for them, but every company I’ve ever used to file would always upcharge for state. [According to Credit Karma, they do not](https://www.creditkarma.com/tax). I know the founder has done AMAs before and I believe he was pretty well received. It’s tax time and there’s no sense in paying money you don’t need to!
+
+Edit to add: Just filed! Filed form 1099 and state taxes for free. I definitely think some other sites are more user-friendly with inputting information (previously used TaxAct, which was always super simple to input info), but this gets the job done if you know how to find your way around a website. I give it 8/10!
+
+url:https://reddit.com/r/YouShouldKnow/comments/amakir/
+author:bearskinrug
+subreddit:YouShouldKnow
+score:1400
+numComments:139
+isOver18:False
+hasPostBody:True

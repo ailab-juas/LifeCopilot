@@ -1,0 +1,13 @@
+title:
+LPT: If you're traveling and use e-ticket method on your phone, take a screenshot of your ticket barcode so you don't have to worry about Wi-Fi or phone service when boarding.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/e6toxv/
+author:LameNameUser
+subreddit:LifeProTips
+score:12528
+numComments:392
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+YSK that you can deposit a lost wallet in any U.S. post office box and they will return it to the address found on the wallet. Free of charge.
+
+content:
+Why YSK: losing a wallet is an absolute inconvenience and could hold a sentimental value to someone. found an interesting fun fact while watching Mark Rober's video [about lost wallets/honest cities](https://youtu.be/jnL7sJYblGY)
+
+url:https://reddit.com/r/YouShouldKnow/comments/mpf8zf/
+author:Grifter56
+subreddit:YouShouldKnow
+score:23274
+numComments:636
+isOver18:False
+hasPostBody:True

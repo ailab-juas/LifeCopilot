@@ -1,0 +1,21 @@
+title:
+YSK that when something with moving parts stops working, chances are it just needs to be taken apart and cleaned
+
+content:
+Why YSK: its always been a hobby of mine to take apart broken electronics to figure out how they work. ive learned that dust and other garbage can get inside of things and obstruct the moving parts. most of the time, broken things just need a little cleaning to get back in working order. i fixed my space heater that way and saved myself from spending money on a new one. and i repaired my original xbox for $6 by figuring out what part needed to be replaced
+
+kinda goes without saying, but of course make sure its unplugged before you start working on it. even if you cant find a way to fix it, whats the harm in taking it apart? youre gonna toss it anyway. maybe youll learn something about how things work! :)
+
+edit: i thought i should note some safety precautions brought to my attention in the comments:
+
+a mask and safety glasses would be a good idea. you never know what kind of spring-loaded mechanism is in there that will fly in unexpected directions when pressure is relieved. be careful not to kick up so much dust when cleaning that it agitates your allergies and/or gets in your eyes. do research on the device youre opening up, and dont take apart microwaves. make sure there are no charged capacitors in there. they can still cause electrical shock, even if the device is unplugged. 
+
+in fact- dont touch power supplies at all. just generally not a great idea. check the warranty validity before you take it apart! if the warranty is still good, its better to get it replaced. dont take apart hard drives! you will just destroy them. theyre well protected in there and wont collect dust!
+
+url:https://reddit.com/r/YouShouldKnow/comments/vvnqi0/
+author:neonglowputty
+subreddit:YouShouldKnow
+score:4893
+numComments:188
+isOver18:False
+hasPostBody:True

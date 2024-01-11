@@ -1,0 +1,13 @@
+title:
+LPT: If you own a GoPro, put a text file on the SD card about your contact info, like email. So if you lose it, people who find it can contact you.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/w3lcs6/
+author:ifhfim4L
+subreddit:LifeProTips
+score:30435
+numComments:538
+isOver18:False
+hasPostBody:False

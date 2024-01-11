@@ -1,0 +1,13 @@
+title:
+LPT: Stop your chopping board from moving around
+
+content:
+Lay a damp dishcloth/teatowel underneath your chopping board, it will stop it from moving around while you're using it, making the task far easier and safer.
+
+url:https://reddit.com/r/LifeProTips/comments/1lbn1n/
+author:awan001
+subreddit:LifeProTips
+score:1238
+numComments:238
+isOver18:False
+hasPostBody:True

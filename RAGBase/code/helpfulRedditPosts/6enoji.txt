@@ -1,0 +1,13 @@
+title:
+LPT: If you want to "vacuum seal" food, put it in a ziplock bag and submerge it in a bowl of water with the bag open above the water. The water will push the air out of the bag, and you can close it without any left inside.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/6enoji/
+author:SilverfireSage
+subreddit:LifeProTips
+score:48682
+numComments:2124
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: If you complete something that’s not on your to do list, put it on the list and then mark it out and give your self some love. It will help you to fully realize that you completed a task and your brain will release a little hit of dopamine. Which in turn encourages you to complete other tasks.
+
+content:
+If you don’t have a to do list, just stop and acknowledge the fact that you finished something and have a little celebration(if only for a few seconds)
+
+url:https://reddit.com/r/LifeProTips/comments/mngrvl/
+author:quasi_aesthetic
+subreddit:LifeProTips
+score:31291
+numComments:385
+isOver18:False
+hasPostBody:True

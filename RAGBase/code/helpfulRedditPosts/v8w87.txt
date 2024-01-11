@@ -1,0 +1,13 @@
+title:
+I basically drive for a living, this is the #1 LPT in my car.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/v8w87/
+author:nrgkart
+subreddit:LifeProTips
+score:2485
+numComments:430
+isOver18:False
+hasPostBody:False

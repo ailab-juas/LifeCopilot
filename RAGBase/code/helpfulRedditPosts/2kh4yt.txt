@@ -1,0 +1,18 @@
+title:
+LPT: Use google translate as a proxy to access blocked content.
+
+content:
+Paste your code in the textbox; choose language other than that of the site you want to access; enjoy.
+
+Edit:
+Kinda feared the language switching be confusing.
+
+[Regular](http://www.commentoid.com/article/2014-10-npr-gladiator-gatorade--ancient-athletes-had-a-recovery-drink%2C-too) vs [Google Translate](https://translate.google.com/translate?sl=auto&amp;tl=fr&amp;js=y&amp;prev=_t&amp;hl=en&amp;ie=UTF-8&amp;u=http%3A%2F%2Fwww.commentoid.com%2Farticle%2F2014-10-npr-gladiator-gatorade--ancient-athletes-had-a-recovery-drink%252C-too&amp;edit-text=) //notice the IP change
+
+url:https://reddit.com/r/LifeProTips/comments/2kh4yt/
+author:smoov3
+subreddit:LifeProTips
+score:2761
+numComments:390
+isOver18:False
+hasPostBody:True

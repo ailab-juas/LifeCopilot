@@ -1,0 +1,15 @@
+title:
+LPT: When you're about to offer advice to someone else, ask them what they've already tried first
+
+content:
+I'm pretty sure everyone can relate to both ends of the awkward exchange of suggesting someone try something because it worked for you, just for them to say that it didn't work for them. Nobody likes to feel like they're rejecting advice from a friend, and nobody likes to feel like their advice was rejected. 
+
+For example, as someone with really bad insomnia for a long time, it's so frustrating to hear "Have you tried Melatonin?" I get that it works for a lot of people, and I'm jealous for those who feel like it helps them fall asleep, but usually after explaining that it tends to make things worse for me, I just get an "oh, that must suck...." type of response before they change the subject. 
+
+url:https://reddit.com/r/LifeProTips/comments/6d91zh/
+author:Bryce333
+subreddit:LifeProTips
+score:1989
+numComments:50
+isOver18:False
+hasPostBody:True

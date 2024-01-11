@@ -1,0 +1,15 @@
+title:
+LPT: If you're helping someone with a computer problem and you both have Windows 10, you can use "Quick Assist" to quickly remote into their machine. Its a fast built in app in Windows that doesn't require any downloads or complicated configuration.
+
+content:
+Open the "Quick Assist" app on both machines (type "Quick Assist" in search, the app has a blue and white icon with 2 computer screens on it).  On your side, click "Assist Another Person" which will generate a 6 digit code.  Have the other people type in that 6 digit code on their machine in the field "code from assistant", and you'll be connected to their machine and have the ability to take it over.  This is the easiest way to help someone do something on the computer without fumbling through it over the phone.
+
+Edit:  This tip is intended for you (tech savvy person) helping a friend or family member who is non-tech savvy.  Obviously, you should never let someone unknown or untrusted remote into your computer, and you should tell your friends and family members to never let someone unknown or untrusted to remote into their computer..  I felt this was obvious, but many people seem to be confused in the comments.
+
+url:https://reddit.com/r/LifeProTips/comments/kv7wie/
+author:Paul_The_Builder
+subreddit:LifeProTips
+score:1759
+numComments:96
+isOver18:False
+hasPostBody:True

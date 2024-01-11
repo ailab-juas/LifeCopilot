@@ -1,0 +1,65 @@
+title:
+LPT: How to mange "needle phobia" and fainting when getting vaccines and blood tests.
+
+content:
+I'm a long time sufferer from this condition. Many people avoid getting flu shots and vaccines just because of "fear of needles". So, here are ways to manage the anxiety and adverse reactions. 
+
+My experience has also been that many medical professionals don't always know how to manage needlephobia, so it is up to you to be informed on the techniques to avoid fainting and anxiety. 
+
+Also, obviously you should discuss your symptoms with your doctor and seek medical care for frequent fainting. 
+
+**Why do some people faint before/during/after injections or drawing blood?**
+
+Many people who faint while getting needles report not feeling any anxiety at all about the procedure, but rather that their “Fear of needles” is centered around a fear of fainting or feeling sick while getting a needle. In fact, many people can get tattoos with no problem but still feel sick just at the thought of an injection or blood test. 
+
+It occurred to me today that taking the band aid off from a blood test is usually more painful than the test itself!
+
+So what exactly is going on? 
+
+Of course, no one likes to get needles, but many people are predisposed to a *physiological* overreaction from an inappropriate [vasovagal response]( http://en.wikipedia.org/wiki/Vasovagal_response). 
+
+[The vasovagal response works like this]( http://heartdisease.about.com/od/syncopefainting/a/Vasovagal-Cardioneurogenic-Syncope.htm): 
+
+&gt; First, a person is exposed to some stimulus (such as a painful needle stick in a finger) that triggers the reflex. The triggering event stimulates certain nerves (the pain nerves of the finger), which send an electrical signal to the vasomotor center in the brainstem, the portion of the brain that determines the body's vascular (blood vessel) tone. The vasomotor center, in response, sends signals to the blood vessels in the legs, causing them to dilate. This produces blood pooling, which leads to syncope. The same stimulation of the brainstem may also send signals to the heart to produce a drop in the heart rate.
+
+Symptoms just before fainting include: lightheadness, blurred vision, clamminess, sweating, and tinnitus. 
+
+Unfortunately, this condition is usually genetic and it also makes people prone to fainting in other situations such as, long periods of standing, and warm environments.
+
+**Before the Procedure:** 
+
+There are a few steps you can take prior to getting a needle to help limit the reaction.
+ 
+1.	Eat a good breakfast if you can (you must fast for many blood tests). Low blood sugar and fatigue exacerbates symptoms.
+
+2.	Drink lots of water, juice or Gatorade. [Many people who suffer from a “needle phobia” should be drinking much more fluids and much more salt than normal]( http://www.nwocc.com/Pt%20Education/neuro_syncope.pdf), especially when you are or will be symptomatic. 
+
+3.	For people who can’t even bring themselves to get to the doctor’s office, you may need to follow a brief desensitization program with a therapist first. 
+
+**During the Procedure:**
+
+1. Do the procedure lying down. Simply, if your legs are level with your head or above it, you are much less likely to suffer from the drop in blood pressure. Blood won’t pool in your legs if they are elevated, so your brain continues to receive adequate oxygen. I’ve personally found this to be the most important factor for managing fainting. 
+
+2.	Distract yourself. Focus on breathing, listening to music, talking to someone, or reading are good ways to try and take your mind of off the procedure and reduce anxiety. 
+
+3.	Use the [Applied Tension Technique]( http://www.anxietybc.com/sites/default/files/AppliedTension.pdf) and cross your legs. Flexing your legs and arm (not the one in which you are receiving the needle) will help raise blood pressure.
+
+**After the Procedure:** 
+
+1.	Sit for at least 15 minutes. Many people experience fainting episodes several minutes after getting a needle, so you need to remain seated until the possibility of a vasovagal response has passed. This is a good time to use the applied tension techniques.
+ 
+2.	If you do feel faint after getting a needle, immediately lie down and elevate your feet. If for some reason you can’t do that, do whatever you can to make yourself as prone as possible.
+ 
+3.	Drink after getting a needle.
+
+After a few successful procedures, many people start feel much less anxious about getting needles and their symptoms become less severe overtime. 
+
+P.S. Sorry if this is against the rule of "no medical advice" mods, but I noticed a couple of LPT Requests on the subject. 
+
+url:https://reddit.com/r/LifeProTips/comments/2ko9lu/
+author:lanks1
+subreddit:LifeProTips
+score:2150
+numComments:692
+isOver18:False
+hasPostBody:True

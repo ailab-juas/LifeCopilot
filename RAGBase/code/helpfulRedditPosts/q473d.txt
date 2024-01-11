@@ -1,0 +1,13 @@
+title:
+YSK how to Google properly [Fixed]
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/q473d/
+author:T11PES
+subreddit:YouShouldKnow
+score:1081
+numComments:80
+isOver18:False
+hasPostBody:False

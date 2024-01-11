@@ -1,0 +1,13 @@
+title:
+LPT: The bank error is never in your favor. If you find money was "accidentally" deposited into your account, it WILL be removed at some point. The bank error is never in your favor.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/cmk6lh/
+author:hawkeye_45
+subreddit:LifeProTips
+score:2617
+numComments:237
+isOver18:False
+hasPostBody:False

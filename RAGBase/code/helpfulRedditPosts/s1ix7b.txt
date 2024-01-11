@@ -1,0 +1,13 @@
+title:
+LPT: Go outside in the morning to get natural light. It sets your circadian rhythm for the day. You can combine this practice with a short jog, bike ride, or walk. Lateral eye movement caused by self-propelled motion is shown to reduce stress.
+
+content:
+I learned this from Andrew Huberman, Ph.D., a professor at Stanford who studies how vision and our brains are interconnected.
+
+url:https://reddit.com/r/LifeProTips/comments/s1ix7b/
+author:askoshbetter
+subreddit:LifeProTips
+score:52974
+numComments:2010
+isOver18:False
+hasPostBody:True

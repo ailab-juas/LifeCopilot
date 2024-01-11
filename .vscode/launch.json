@@ -1,0 +1,36 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "python": "${workspaceFolder}/RAGBase/.venv/Scripts/python",
+            "cwd": "${workspaceFolder}/RAGBase/code",
+            "envFile": "${workspaceFolder}/RAGBase/.env",
+            "justMyCode": true
+        },
+        {
+            "name": "debug streamlit",
+            "type": "python",
+            "request": "launch",
+            "module": "streamlit",
+            "console": "integratedTerminal",
+            "envFile": "${workspaceFolder}/RAGBase/.env",
+            "args": [
+                "run",
+                "${workspaceFolder}/RAGBase/code/OpenAI_Queries.py",
+                "--server.port",
+                "8501"
+            ],
+            "python": "${workspaceFolder}/RAGBase/.venv/Scripts/python",
+            "cwd": "${workspaceFolder}/RAGBase/code",
+            "justMyCode": true
+        },
+    ]
+}

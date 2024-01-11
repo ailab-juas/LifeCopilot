@@ -1,0 +1,13 @@
+title:
+LPT: If a local says something’s not safe and you’re a visitor, it’s probably twice as dangerous to you.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/hljifz/
+author:iShootPoop
+subreddit:LifeProTips
+score:15080
+numComments:1037
+isOver18:False
+hasPostBody:False

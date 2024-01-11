@@ -1,0 +1,13 @@
+title:
+LPT: If you ever spill laundry detergent, try cleaning it up first with laundry you already need to wash
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/dzt3fu/
+author:gaudiocomplex
+subreddit:LifeProTips
+score:21187
+numComments:504
+isOver18:False
+hasPostBody:False

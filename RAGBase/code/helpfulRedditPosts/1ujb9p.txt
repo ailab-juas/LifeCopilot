@@ -1,0 +1,13 @@
+title:
+LPT: Pro tip: if your heat isn't working, first make sure your air intake and exhaust are not iced over. My furnace wasn't blowing hot air this morning. Turns out, my air intake was iced over. Fortunately, I was able to pull out the metal rodent screen and now it's working again.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1ujb9p/
+author:superdownvotemaster
+subreddit:LifeProTips
+score:1455
+numComments:195
+isOver18:False
+hasPostBody:False

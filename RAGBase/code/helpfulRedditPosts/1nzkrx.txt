@@ -1,0 +1,13 @@
+title:
+LPT: How to fix a leaking hose
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1nzkrx/
+author:robmurphy82
+subreddit:LifeProTips
+score:2803
+numComments:327
+isOver18:False
+hasPostBody:False

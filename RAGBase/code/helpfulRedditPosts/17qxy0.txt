@@ -1,0 +1,13 @@
+title:
+YSK that Reddit users compiled a cookbook 2 1/2 years ago and it's full of tasty recipes
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/17qxy0/
+author:two-dee
+subreddit:YouShouldKnow
+score:1848
+numComments:49
+isOver18:False
+hasPostBody:False

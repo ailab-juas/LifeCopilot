@@ -1,0 +1,13 @@
+title:
+LPT: Embrace being proven wrong. In work and life if you are proven wrong you either learned something new, made something better, or discovered something doesn't work. Either way you are frequently in a better position to move forward than you were before.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/q6s1in/
+author:Spider_Genesis
+subreddit:LifeProTips
+score:3062
+numComments:50
+isOver18:False
+hasPostBody:False

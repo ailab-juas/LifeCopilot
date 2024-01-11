@@ -1,0 +1,21 @@
+title:
+YSK that there is a website (yourlogicalfallacyis.com) which has simple explanation about logical fallacies. Very useful as easy reference for your opponent to suggest that they are having a logical fallacy in their arguments.
+
+content:
+In an argument about something with someone and you notice that your opponent use of the logical fallacies? Just link them to [one](https://yourlogicalfallacyis.com/strawman) [of the](https://yourlogicalfallacyis.com/tu-quoque) [fallacies](https://yourlogicalfallacyis.com/burden-of-proof). 
+
+Very useful in topics like /r/DebateReligion or /r/DebateAnAtheist.
+
+Or /r/politics /r/news /r/worldnews and bashing bias news in general.
+
+And even /r/askscience , /r/AskReddit and /r/changemyview 
+
+Hope it helps!
+
+url:https://reddit.com/r/YouShouldKnow/comments/1zvc44/
+author:yogdogz
+subreddit:YouShouldKnow
+score:1251
+numComments:146
+isOver18:False
+hasPostBody:True

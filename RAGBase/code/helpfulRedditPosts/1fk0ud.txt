@@ -1,0 +1,13 @@
+title:
+LPT: Writing an essay? Copy and paste it into Google Translate, and listen to it.
+
+content:
+Hearing your essay spoken out loud gives it a fresh perspective, and helps with editing.
+
+url:https://reddit.com/r/LifeProTips/comments/1fk0ud/
+author:jpplayer1
+subreddit:LifeProTips
+score:1162
+numComments:53
+isOver18:False
+hasPostBody:True

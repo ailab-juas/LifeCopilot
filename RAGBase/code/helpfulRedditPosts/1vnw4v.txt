@@ -1,0 +1,13 @@
+title:
+YSK That when you buy a bag of Starbucks coffee and you return the bag when empty you get a free 12oz coffee.
+
+content:
+I bought a bag of starbucks whole beans today and was reading the bag and it turns out that once the bag is empty and you bring it in to a Starbucks you can get a free drink. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/1vnw4v/
+author:[deleted]
+subreddit:YouShouldKnow
+score:1794
+numComments:145
+isOver18:False
+hasPostBody:True

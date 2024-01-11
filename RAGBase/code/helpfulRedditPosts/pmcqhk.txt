@@ -1,0 +1,15 @@
+title:
+YSK don't use a highlighter to censor information on the internet.
+
+content:
+Why YSK: [It doesn't work.](https://www.reddit.com/r/ios/comments/e25b7h/here_is_why_you_shouldnt_censor_sensitive_info/)
+
+The opacity needs to be 100%, otherwise people can increase the contrast and see the information you are trying to obscure.
+
+url:https://reddit.com/r/YouShouldKnow/comments/pmcqhk/
+author:[deleted]
+subreddit:YouShouldKnow
+score:1460
+numComments:66
+isOver18:False
+hasPostBody:True

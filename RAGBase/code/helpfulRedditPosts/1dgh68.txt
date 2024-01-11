@@ -1,0 +1,13 @@
+title:
+YSK that you can directly open up the Task Manager with Ctrl+Shift+Esc rather than using Ctrl+Alt+Delete
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/1dgh68/
+author:InterwebCat
+subreddit:YouShouldKnow
+score:1055
+numComments:95
+isOver18:False
+hasPostBody:False

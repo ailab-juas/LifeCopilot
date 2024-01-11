@@ -1,0 +1,13 @@
+title:
+LPT: When Making A PowerPoint Presentation, Don't read whats on the slides you are presenting!
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/2l98ls/
+author:NavyBubblehead
+subreddit:LifeProTips
+score:2870
+numComments:692
+isOver18:False
+hasPostBody:False

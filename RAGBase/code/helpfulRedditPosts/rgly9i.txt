@@ -1,0 +1,19 @@
+title:
+YSK It's possible to wash your whites and colors in the same load.
+
+content:
+Why YSK: Many people wash their whites and darks in seperate loads to prevent coloring their whites, using up extra water and time.
+
+**If you use a whitening laundry powder labeled "Safe on colors" AND wash using cold water**, then most whites will stay white even when washing them with dark or colored clothes. I've done this many times using Oxi-clean White Revive and it's always worked. I believe there's other brands with similar products.
+
+Just be careful not to wash clothes with heavy ink (e.g. Tie-dye or sharpie) in the same load as whites.
+
+EDIT: To clarify, the whitening powder isn't strictly necessary unless you want to use a whitener. A lot of people do, but if you don't, then you can skip it.
+
+url:https://reddit.com/r/YouShouldKnow/comments/rgly9i/
+author:The9thBitYT
+subreddit:YouShouldKnow
+score:2021
+numComments:142
+isOver18:False
+hasPostBody:True

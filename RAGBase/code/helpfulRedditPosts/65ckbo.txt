@@ -1,0 +1,13 @@
+title:
+LPT: If you are disconnected during a call, the person who initiated the call should be the one who calls again. A simple way to avoid people calling over each other.
+
+content:
+Sadly, this does make it harder to pretend you were suddenly disconnected for no reason. I'm looking at you Dave!
+
+url:https://reddit.com/r/LifeProTips/comments/65ckbo/
+author:AcetylcholineAgonist
+subreddit:LifeProTips
+score:1453
+numComments:62
+isOver18:False
+hasPostBody:True

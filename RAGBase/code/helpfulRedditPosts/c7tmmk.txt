@@ -1,0 +1,13 @@
+title:
+YSK research clearly shows that in a house fire, closed doors dramatically decrease heat and CO levels, which provide trapped occupants more time for help to arrive
+
+content:
+Close your doors people! If you can't sleep with a closed door find a device to close it if there's a fire.
+
+url:https://reddit.com/r/YouShouldKnow/comments/c7tmmk/
+author:zewski11
+subreddit:YouShouldKnow
+score:1234
+numComments:42
+isOver18:False
+hasPostBody:True

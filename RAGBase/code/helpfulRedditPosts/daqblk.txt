@@ -1,0 +1,30 @@
+title:
+YSK that Naloxone, the opioid overdose reversal drug known commonly as *Narcan* is available to the public without a prescription, as an easy-to-use nasal spray, at pharmacies across the US
+
+content:
+Naloxone, commonly known by the brand name Narcan, is an acute opioid antagonist used to reverse the symptoms of an opioid overdose. 
+
+Narcan has been carried by emergency room doctors and paramedics for decades as an intravenous or intramuscular injection solution and more recently distributed to police officers and other first responders.  Since 2016 Narcan has been available without a prescription as a nasal spray in every US state but Hawaii.
+
+YSK that anyone who is an active or recovering opioid user themselves or has a loved one who uses opioids has access to easy-to-use Naloxone formulations.
+
+WHY - if someone you know overdoses, it takes first responders an average of 6-7 minutes to arrive at the scene, and 6-7 minutes can mean the difference between life and brain death.
+
+Citation: [The National Institute on Drug Abuse](https://www.drugabuse.gov/publications/drugfacts/naloxone) 
+[The FDA](https://www.fda.gov/news-events/press-announcements/fda-approves-first-generic-naloxone-nasal-spray-treat-opioid-overdose) 
+
+EDIT: Wow I didn’t expect this much of a response. A couple of things from the comments-
+
+1. *always* call 911. Always. They need medical assistance. Naloxone just buys them time for that assistance to get there. Narcan is just a temporary solution, lasts for 30-90 minutes (and apparently sometimes less). An individual can receive narcan and it can be effective and then they can fall back into overdose.  Dispatch may instruct you in CPR, etc, and emergency services may provide them with further help even if they refuse to go to the hospital (in my area a coalition instructs EMTs in giving treatment resources, etc to overdosers).
+
+2. Narcan is often, but not always, available for free. Without insurance at a pharmacy it is very expensive. If you don’t have applicable insurance, try looking into local resources in your area. There are non-profits, coalitions, etc. that will provide free Naloxone to those that need it. 
+
+3. Good Samaritan laws protect individuals reporting an overdose from prosecution for wrongful death, etc in 50 states. Similar laws protect those same people from prosecution for drug possession in 46 US states. The protection varies from state to state.
+
+url:https://reddit.com/r/YouShouldKnow/comments/daqblk/
+author:chloemug
+subreddit:YouShouldKnow
+score:7258
+numComments:313
+isOver18:False
+hasPostBody:True

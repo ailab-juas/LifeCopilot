@@ -1,0 +1,15 @@
+title:
+LPT: If you order delivery after dark, please turn on your porch lights.
+
+content:
+If you order delivery after dark often, it would also be a good idea to make sure your address numbers are illuminated and can easily be seen from the street.
+
+Had one of my drivers twist her foot pretty good today on someone's porch.
+
+url:https://reddit.com/r/LifeProTips/comments/i8890x/
+author:labenset
+subreddit:LifeProTips
+score:9788
+numComments:269
+isOver18:False
+hasPostBody:True

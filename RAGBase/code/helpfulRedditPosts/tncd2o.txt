@@ -1,0 +1,13 @@
+title:
+LPT: If your morning routine doesn't give you at least 5 -10 minutes to sit back and relax before heading out the door then you need to be waking up earlier. An extra 5 minutes spent using the restroom or finding a sock shouldn't make the difference between being on time and late.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/tncd2o/
+author:UnRenardRouge
+subreddit:LifeProTips
+score:13322
+numComments:742
+isOver18:False
+hasPostBody:False

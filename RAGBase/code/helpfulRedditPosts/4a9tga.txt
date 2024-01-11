@@ -1,0 +1,39 @@
+title:
+YSK there's a free web tool from Adobe to easily create harmonious color schemes.
+
+content:
+It's called [Adobe Color CC](https://color.adobe.com/). Registration is not required, but if you create an account you will be able to save your palettes.
+
+Some explanation and in-depth info:
+
+Occasionally, you might need to make a color scheme for some project, be it a PowerPoint presentation, a website or an app. However, this task can often turn out to be harder than it seems.  It's not surprising since there's a whole field of knowledge called color theory which deals with which colors combine well and which don't.
+
+Adobe Color CC simplifies this task greatly. First, you pick a desired "base" color. Then you select a "color rule", and then the tool will automatically fill in 4 other colors which will work well with yours. Also, you can simply upload a picture, and the tool will automatically pick a palette from it. 
+
+Another way to use it is when you don't want to open up a graphic editor like Photoshop and simply need a quick tool to work with color, get hex codes and so on.
+
+Some clarification regarding the color rules, with examples:
+
+* Analogous picks several similar colors to the one you select. The hue will vary, but just a little. Useful if you want to make a palette of similar, but slightly different colors.
+
+* Monochromatic picks different shades of the same color—e.g., dark green, light green and so on. The hue will stay exactly the same.
+
+* Triad picks a set of 3 colors which provide good contrast and look good together. Good for colorful projects.
+
+* Complementary is similar, but it will pick just 2 colors, which provide will provide even higher contrast. Good when you want some color to stand out on a set background.
+
+* Compound will pick 4 colors, 2 of which will have very high contrast, but the rest will just look decent with the others.
+
+* Shades is very much like Monochromatic.
+
+* And Custom allows you to adjust your palette as you wish, not sticking to any rules.
+
+Finally, this tool is integrated into Adobe Creative Cloud, which might prove useful if you have it.
+
+url:https://reddit.com/r/YouShouldKnow/comments/4a9tga/
+author:erythrocytes64
+subreddit:YouShouldKnow
+score:1108
+numComments:25
+isOver18:False
+hasPostBody:True

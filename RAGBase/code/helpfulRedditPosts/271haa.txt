@@ -1,0 +1,13 @@
+title:
+LPT: Use Google Drive mobile app to scan documents.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/271haa/
+author:ThatLarryDavidSwag
+subreddit:LifeProTips
+score:1265
+numComments:164
+isOver18:False
+hasPostBody:False

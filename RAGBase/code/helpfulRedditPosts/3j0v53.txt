@@ -1,0 +1,13 @@
+title:
+LPT: If you ride a pedal bike, raise the seat so that your legs are almost fully extended on the down pedal. Pedaling will require far less effort.
+
+content:
+Edit: I know this is common knowledge to many bike riders, but I see far too many people not doing this. So I thought I'd mention it for those who may not have known. 
+
+url:https://reddit.com/r/LifeProTips/comments/3j0v53/
+author:truth_artist
+subreddit:LifeProTips
+score:3688
+numComments:841
+isOver18:False
+hasPostBody:True

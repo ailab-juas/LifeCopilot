@@ -1,0 +1,13 @@
+title:
+LPT: When sending an important email, wait until you’re finished writing it to add email addresses. Hitting send too soon can cause huge problems.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/th3n0v/
+author:[deleted]
+subreddit:LifeProTips
+score:9437
+numComments:245
+isOver18:False
+hasPostBody:True

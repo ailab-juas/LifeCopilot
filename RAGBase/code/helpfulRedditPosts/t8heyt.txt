@@ -1,0 +1,13 @@
+title:
+LPT: Many people are burned out, frustrated, and very stressed, all over the world. The best thing anyone can do is try to not pile on more. Compliment someone. Merge over and let someone pass in traffic. Small things like this can add up to a less stressed world. We all need a break.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/t8heyt/
+author:NUMBerONEisFIRST
+subreddit:LifeProTips
+score:30524
+numComments:568
+isOver18:False
+hasPostBody:False

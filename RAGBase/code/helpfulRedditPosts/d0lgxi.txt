@@ -1,0 +1,13 @@
+title:
+LPT: Even if you carry enough water with you on a hike, bring and leave an extra supply in the car. It saves weight and guarantees you’ll have water if something happens on the trail.
+
+content:
+I’ll throw a couple filled bottles or a gallon jug in my trunk before heading out for a hike or fieldwork. It’s an easy step that ensures you have hydration even if something goes wrong (leaks, sharing, losing your bottle down a hill, etc).
+
+url:https://reddit.com/r/LifeProTips/comments/d0lgxi/
+author:Toastwich
+subreddit:LifeProTips
+score:4505
+numComments:158
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: If you buy pre-packaged greens like spring mix or spinach, adding a paper towel to the container prolongs the life by at least a week and prevents soggy and wilted leaves.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/k16ypy/
+author:dimicd
+subreddit:LifeProTips
+score:47383
+numComments:1079
+isOver18:False
+hasPostBody:False

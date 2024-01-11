@@ -1,0 +1,13 @@
+title:
+LPT: Learn to be concise and get to the point when speaking. Sometimes you never know when sharing too many details can come back to harm you.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/b5p1gd/
+author:BananaYana
+subreddit:LifeProTips
+score:20211
+numComments:641
+isOver18:False
+hasPostBody:False

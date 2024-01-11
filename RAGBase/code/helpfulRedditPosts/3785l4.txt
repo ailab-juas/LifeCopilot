@@ -1,0 +1,13 @@
+title:
+YSK how to actually get free wifi at airports.
+
+content:
+Most of the airports have a sort of opening page, where they show you the different wifi plans that they offer.  They typically also have some kind of 'market place' where you can shop with their partners.  Many of them will contain links to other sites in this section.  Click on one of those links, leave that tab open, and browse to your hearts content elsewhere :D
+
+url:https://reddit.com/r/YouShouldKnow/comments/3785l4/
+author:borromakot
+subreddit:YouShouldKnow
+score:1664
+numComments:153
+isOver18:False
+hasPostBody:True

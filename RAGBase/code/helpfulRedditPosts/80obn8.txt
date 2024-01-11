@@ -1,0 +1,13 @@
+title:
+YSK that IHOP is giving out free short stacks today for national pancake day.
+
+content:
+Just incase the ads weren't enough.
+
+url:https://reddit.com/r/YouShouldKnow/comments/80obn8/
+author:jasont424
+subreddit:YouShouldKnow
+score:1086
+numComments:43
+isOver18:False
+hasPostBody:True

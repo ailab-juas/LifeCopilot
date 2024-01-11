@@ -1,0 +1,15 @@
+title:
+YSK: If you feel helpless amongst these mass shootings in the US, donating blood is a small and relatively easy way to help.
+
+content:
+Why YSK: Blood banks are always in need of blood. Giving blood can help save many victims who are severely injured.
+
+https://www.redcrossblood.org/give.html/find-drive
+
+url:https://reddit.com/r/YouShouldKnow/comments/uxsbyr/
+author:cakelover33
+subreddit:YouShouldKnow
+score:5113
+numComments:194
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT if you are giving cash as a gift to a kid under 10, split it up into as many bills as you can.
+
+content:
+There’s nothing like getting a fat wad of cash, even if it’s not that much money in reality. A little kid who hasn’t fully grasped the concept of money will be much more enthralled with two $5’s and ten $1’s, as opposed to just one twenty dollar bill in their birthday card.
+
+url:https://reddit.com/r/LifeProTips/comments/d6hd4r/
+author:bradcompany
+subreddit:LifeProTips
+score:4731
+numComments:236
+isOver18:False
+hasPostBody:True

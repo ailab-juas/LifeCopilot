@@ -1,0 +1,19 @@
+title:
+YSK that a Russian student created sci-hub, a website that has made over 62 million scientific journal articles available online, for free, since 2011. Wikipedia keeps track of the current URL to her site.
+
+content:
+https://en.m.wikipedia.org/wiki/Sci-Hub
+
+It seems to be a tragedy that scientific knowledge is locked up, inaccessible by most.
+
+The creator and supporters and contributors of this site have undone that.
+
+Today too many people rely on terrible blog spam quality articles that don't even reference original sources. Hopefully sites like sci hub increase usage of original sources, or well cited secondary material.
+
+url:https://reddit.com/r/YouShouldKnow/comments/6f8ci5/
+author:anythingnoniding
+subreddit:YouShouldKnow
+score:8076
+numComments:243
+isOver18:False
+hasPostBody:True

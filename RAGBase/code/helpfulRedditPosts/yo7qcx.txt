@@ -1,0 +1,13 @@
+title:
+LPT: Don’t delete spam, junk it instead
+
+content:
+When you get spam emails to your inbox don’t delete it, mark it as spam. The more this is done individually it’ll let the system know a specific sender is spam, fraud and other negative things and will automatically start junking it for everyone.
+
+url:https://reddit.com/r/LifeProTips/comments/yo7qcx/
+author:Waste_Actuary_3290
+subreddit:LifeProTips
+score:1229
+numComments:77
+isOver18:False
+hasPostBody:True

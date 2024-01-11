@@ -1,0 +1,15 @@
+title:
+LPT: Be nice to customer service people. Being nice will solve your issue.
+
+content:
+Customer Service folks often deal with rude to extremely rude people. In addition, they also have to deal with non tech savvy people.  People calling the the customer service are also frustrated due to long wait times. 
+
+If you are nice to the customer service folks working at big corporations, they would often immediately solve your problem by taking extreme steps. I had a $1000 couch delivered at the wrong place by FedEx. The customer service gave me a replacement without any extra charge just after a 4 minute call. Most customer service folks are underpaid. It is most often a transitional job for them. In reality, they neither care about the company nor about the customer. They want to get rid of you as soon as possible and attend someone else as number of customers helped is an important metric for them. Being nice to them won't hurt you. Infact, your grievance will look believable and they will solve your problem faster.
+
+url:https://reddit.com/r/LifeProTips/comments/sr4ntj/
+author:angryWitness
+subreddit:LifeProTips
+score:3308
+numComments:190
+isOver18:False
+hasPostBody:True

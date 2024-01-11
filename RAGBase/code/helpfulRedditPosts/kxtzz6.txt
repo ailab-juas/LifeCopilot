@@ -1,0 +1,13 @@
+title:
+LPT: Ask permission, then record visits with doctors so you can re-listen to what they said later when you’re in a stress-free environment.
+
+content:
+Doctor visits can be stressful, the more serious the issue, the more stress for you. So it’s hard to remember everything that was said. Being able to listen to the appointment later is really helpful. This is especially true after surgery or any sort of invasive procedure. If you’ve had anesthesia, have your friend record the doctor’s summary of what occurred because you won’t remember it later.
+
+url:https://reddit.com/r/LifeProTips/comments/kxtzz6/
+author:dinan101
+subreddit:LifeProTips
+score:28116
+numComments:923
+isOver18:False
+hasPostBody:True

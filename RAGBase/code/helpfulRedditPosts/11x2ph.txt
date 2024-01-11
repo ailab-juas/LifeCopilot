@@ -1,0 +1,25 @@
+title:
+LPT Announcement: We'll be continuing with self-posts indefinitely (read more inside)
+
+content:
+[Original Thread](http://www.reddit.com/r/LifeProTips/comments/11ateq/lpt_announcement_on_monday_1015_well_be_doing_a/)
+
+Before reading any further please note that Indefinitely !== Forever!
+
+The trial of self-posts only for a week ended today and we have to say that it was rather successful. The discussion and submission quality drastically improved, the spam filter was way down, and lots of people wrote in to express their gratitude for trying something like this.
+
+As of now, we have no plans to switch the submissions back to also allow link posts, since the only thing that is really gained from it would be (link) karma. You can still submit images in self-posts and comment on the article to obtain that sweet karma that you may fiend for, but for now self-posts are in.
+
+**Please upvote this thread so it gets visibility (I get no karma for self-posts).**
+
+As always, we'll keep this thread open for additional discussion where you can express your opinion and myself as well as the other mods will be in here to answer your questions/concerns.
+
+**Update:** Some of you have mentioned of allowing link posts once per week. This is kind of a nice idea, so every Wednesday we'll open up the flood gates for linked posts.
+
+url:https://reddit.com/r/LifeProTips/comments/11x2ph/
+author:someprimetime
+subreddit:LifeProTips
+score:1896
+numComments:157
+isOver18:False
+hasPostBody:True

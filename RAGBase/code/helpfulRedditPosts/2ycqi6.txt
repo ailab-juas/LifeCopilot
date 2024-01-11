@@ -1,0 +1,13 @@
+title:
+LPT: If you have to iron a tie, iron it from the back to avoid a shiny front.
+
+content:
+From time to time in my travels I have had my ties wrinkled. Instead of "melting" the front if you are unsure of how hot to make your iron, flip the tie upside down. If the back gets messed up a bit you don't have to worry as much since it won't be visible.
+
+url:https://reddit.com/r/LifeProTips/comments/2ycqi6/
+author:cyclingdad
+subreddit:LifeProTips
+score:2608
+numComments:146
+isOver18:False
+hasPostBody:True

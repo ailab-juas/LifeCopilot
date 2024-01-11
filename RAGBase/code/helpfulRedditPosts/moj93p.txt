@@ -1,0 +1,13 @@
+title:
+LPT: Most maintenance tasks are much easier when the don’t need doing.
+
+content:
+The bathroom and kitchen are much easier to clean if you don’t leave them until they need to be cleaned. The grass is much easier to cut when it doesn’t really need it than if you leave it until it’s long (not even overgrown). Organising your photos is much easier when it’s one or two, or even ten, than if you wait until it’s a thousand. This rule applies to nearly everything.
+
+url:https://reddit.com/r/LifeProTips/comments/moj93p/
+author:Dr-Collossus
+subreddit:LifeProTips
+score:1481
+numComments:89
+isOver18:False
+hasPostBody:True

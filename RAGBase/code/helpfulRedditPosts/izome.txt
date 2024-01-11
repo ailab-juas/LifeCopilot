@@ -1,0 +1,13 @@
+title:
+YSK you can pretty much never have all three
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/izome/
+author:mehatch
+subreddit:YouShouldKnow
+score:1168
+numComments:228
+isOver18:False
+hasPostBody:False

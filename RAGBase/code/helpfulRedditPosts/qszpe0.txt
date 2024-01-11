@@ -1,0 +1,27 @@
+title:
+YSK: In Germany, you can legally and for free protect your bank account from blocking by a claim organization, court, or creditor
+
+content:
+**Why YSK:** Regardless if you are own alimony, you forgot to pay by credit card, or the German government did not receive a 10 EUR parking ticket payment because they lost the transaction in a jammed fax machine paper. For that, they can block your bank account with all your money through court, and you will not even be able to pay your creditor to unblock it. You would need to ask permission to pay from a different bank or ask your blocked bank to pay from your blocked account. All this procedure can be done by Post or fax (but only if the fax is outgoing from your number), or on rare occasions, you can use so-called "**Electronic mail" (**https://www.wikiwand.com/en/Email). This procedure could take from a week to a month.
+
+To prevent this, anyone who owns a bank account in Germany has a legal right to convert ONE bank account to a protected account. Also known as "Pfändungsschutzkonto" or "p-account." Here is an example from one of the Banks:  https://support.n26.com/en-de/account-and-personal-details/ganrishment-insolvency-p-account/p-account-how-to-get. 
+
+Remember, it's illegal to have more the one Protected account per person, even in different banks.
+
+The way it works is if a court sized your account, the bank gives you a monthly allowance minimum of  1.252,64 EUR. And maximum allowance depends on your situation. This money can be used, for example, to pay rent or food or anything you like. No matter how much your current account has money or does not have at all.
+
+Important. The fact of having a protected account will be reported to SCHUFA and may influence your credit score. However, if your account is blocked because of your debts, it by itself may affect your credit score.
+
+Application to convert to a p-account is simple as one email or whatever your bank is required.
+
+Disclaimer:
+
+I'm not a lawyer and don't have any professional knowledge about this. I am just an average Joe who got his account sized because they couldn't find a 10 EUR  payment transaction. And because of that, I could not pay rent regardless of having enough money to cover a year of rent.
+
+url:https://reddit.com/r/YouShouldKnow/comments/qszpe0/
+author:unglud
+subreddit:YouShouldKnow
+score:4905
+numComments:59
+isOver18:False
+hasPostBody:True

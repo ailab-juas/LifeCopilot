@@ -1,0 +1,13 @@
+title:
+LPT: Test your 'findmyphone' GPS functionality BEFORE you actually lose your phone to make sure its setup correctly.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5m764e/
+author:realdeal64
+subreddit:LifeProTips
+score:12464
+numComments:433
+isOver18:False
+hasPostBody:False

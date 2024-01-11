@@ -1,0 +1,19 @@
+title:
+YSK: you should set your ceiling fan to spin different directions based on the season.
+
+content:
+Why YSK: if (like me) you have ceiling fans AND a desire to more efficiently use your homes heating/cooling system, don’t forget to switch your fan rotation direction!  Fans should spin clockwise in cold months to push warm air down back into the room and away from the ceiling, and counterclockwise in the summer for a more breeze-like/cooling effect. You probably don’t want your fan on high in the winter, but keeping it on the lowest setting and adjusting the direction can make a difference in how much you feel the heat you’re  pumping into the room—especially if you have tall/vaulted ceilings.
+
+Quick guide for common fans:
+
+https://www.wikihow.com/Change-a-Ceiling-Fan%27s-Direction
+
+ETA: I have been informed I am exactly the opposite of correct about how the air flows, but the counterclockwise in warm months/clockwise in cold months still seems to be the case
+
+url:https://reddit.com/r/YouShouldKnow/comments/zrccde/
+author:pantoponrosey
+subreddit:YouShouldKnow
+score:4138
+numComments:160
+isOver18:False
+hasPostBody:True

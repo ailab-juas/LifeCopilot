@@ -1,0 +1,13 @@
+title:
+LPT: If you have an old cell phone, keep it charged and powered off in your glove compartment for an emergency. All cell phones are able to make free calls to 911 on any network they can connect to.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1zmb9s/
+author:soccermom000
+subreddit:LifeProTips
+score:2261
+numComments:193
+isOver18:False
+hasPostBody:False

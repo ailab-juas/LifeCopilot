@@ -1,0 +1,22 @@
+title:
+YSK: Google's translation app allows you to download the desired language beforehand to use offline therefore not having to rely on wifi.
+
+content:
+Google's free app "translate" allows you to download the language beforehand on wifi by pressing that download arrow beside the desired language in the app. 
+
+I've done this for Korean and Japanese while in Asia, and it works fast and flawlessly. 
+
+While offline, you can also:
+* use the app to scan a label/menu/item and it will translate it on the camera in real time 
+*translate conversations by the microphone 
+*write on the app's drawing pad for translation I.e. Asking a Korean local to write in hangul on the pad for directions to be translated in English 
+
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/6maohz/
+author:shiticantsleep
+subreddit:YouShouldKnow
+score:5235
+numComments:94
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: If you're curious about diving deeper into a topic, add the word "syllabus" to the end of your Google search
+
+content:
+Often, you can find a syllabus with required reading that will start you down a rabbit hole of resources that gives you lots of detailed information. Get lots of syllabi about the same subject from different types of schools, and you could have a wide variety of information!
+
+url:https://reddit.com/r/LifeProTips/comments/grzdys/
+author:psychdude007
+subreddit:LifeProTips
+score:1168
+numComments:24
+isOver18:False
+hasPostBody:True

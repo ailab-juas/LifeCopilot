@@ -1,0 +1,13 @@
+title:
+LPT: The comma and period keys move Youtube videos one frame backward and forward, respectively.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/pyfoul/
+author:Ill_Statistician_224
+subreddit:LifeProTips
+score:5981
+numComments:100
+isOver18:False
+hasPostBody:False

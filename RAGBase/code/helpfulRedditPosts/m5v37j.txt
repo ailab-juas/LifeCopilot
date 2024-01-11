@@ -1,0 +1,13 @@
+title:
+LPT: As we pass the one-year anniversary of the pandemic, make sure you're not at risk of losing various credits from canceled trips (airfare, hotels, etc.) that may expire one year from date of purchase or cancellation.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/m5v37j/
+author:Noolivesplease
+subreddit:LifeProTips
+score:6440
+numComments:83
+isOver18:False
+hasPostBody:False

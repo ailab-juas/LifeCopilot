@@ -1,0 +1,13 @@
+title:
+LPT: If you screw something into wood and the screw starts turning with little resistance, you've stripped the hole. Take the screw out, get a couple of toothpicks, place them in the hole, cut them flush with the wood face, and then try again.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/tfhq08/
+author:ButtholeBanquets
+subreddit:LifeProTips
+score:1016
+numComments:69
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+YSK if someone flashes their brights at you, they might be warning you of a cop they just passed up the road.
+
+content:
+If you’re cruising along and someone flashes their brights as they pass you, they might be trying to warn you of a speed trap. Save yourself the ticket and slow down a bit until you pass the cop or realize they were just trolling.
+
+url:https://reddit.com/r/YouShouldKnow/comments/hmix7u/
+author:Someone8MySoup
+subreddit:YouShouldKnow
+score:8534
+numComments:491
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,24 @@
+title:
+LPT: When seeking a new job, don't underestimate the value of the time you'll spend commuting. If you're full-time, a one-hour twice-a-day commute means you're "working" two more months each year!
+
+content:
+This LPT is sparked by a post in TIL (sorry, can't link to it here) that discusses the relationship between job happiness levels and length of commute. (See comments for a link.)
+
+Tips about the impact of long commute times won't apply to everyone. There are people that like to have some downtime before and decompression time after work, or maybe you carpool with friends. Perhaps that's your reading time on the go-train. Lots of people don't mind a commute at all.
+
+But if you are the type that would consider a commute to be "part of your work day", **here's the math**: 
+
+* A one hour morning and evening commute works out to 440 hours per year (for a 220-day work year). 
+* If you work an 8 hour day, that's another 55 days of your time spent commuting, or another 11 weeks of workdays, or two months of workdays.
+
+That might seem to be a big thing... but after a few years it can become really tiring, especially if kids come along or your personal circumstances change.
+
+So it's a good thing to really consider it carefully before taking a new job, if you are lucky enough that you might have any chance of an alternate job elsewhere that doesn't come with the extra time load. Sometimes there are choices for such jobs away from big cities where the commutes can be a lot gentler, if you'd be willing to move.
+
+url:https://reddit.com/r/LifeProTips/comments/e6mpa6/
+author:the_original_Retro
+subreddit:LifeProTips
+score:3182
+numComments:263
+isOver18:False
+hasPostBody:True

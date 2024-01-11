@@ -1,0 +1,14 @@
+title:
+YSK that encrypting all emails makes mass surveillance impossible and there is an easy way to do so.
+
+content:
+https://tutanota.com
+is a free and open source email service that encrypts your entire mailbox by default.
+
+url:https://reddit.com/r/YouShouldKnow/comments/36h2bk/
+author:milan_o
+subreddit:YouShouldKnow
+score:1107
+numComments:121
+isOver18:False
+hasPostBody:True

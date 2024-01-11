@@ -1,0 +1,13 @@
+title:
+LPT: If someone is telling you about their problems, they’re looking for empathy not advice. As hard as it is, take a breath and just listen even if you know the solution.
+
+content:
+The advice can always come later if there’s space and safety to share.
+
+url:https://reddit.com/r/LifeProTips/comments/qkkshw/
+author:just-a-simple-song
+subreddit:LifeProTips
+score:1341
+numComments:100
+isOver18:False
+hasPostBody:True

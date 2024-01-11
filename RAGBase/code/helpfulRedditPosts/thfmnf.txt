@@ -1,0 +1,21 @@
+title:
+YSK Anyone in the USA who flies ANY drone recreationally is legally required to take the FAA TRUST - The Recreational UAS Safety Test, and keep a copy of the certificate.
+
+content:
+ **Why YSK:**  If you or your kids fly any drone for fun or personal enjoyment, you and they are required to take the FAA TRUST, and print a copy of the certificate you get and keep it with you if you are flying a drone.  This includes drones that are under the .55lb/250g weight limit like the Ryze Tello or the Mavic Mini.  
+
+The test takes about 30 minutes, and will continue to allow you to answer questions till you get it right.  The basic purpose is basic drone education about what is allowed.   You personal information is not stored and there is no record of you taking the test other than the certificate you get at the end, so be sure to save it or print it. 
+
+[https://www.faa.gov/uas/recreational\_fliers/knowledge\_test\_updates/](https://www.faa.gov/uas/recreational_fliers/knowledge_test_updates/)
+
+&amp;#x200B;
+
+Additionally this ONLY covers you for recreational or personal flying and is considered an exception to the Part 107 rules.  If you fly a drone commercially, which may not include monetary compensation, you likely need to take and pass the much more extensive Part 107 test.
+
+url:https://reddit.com/r/YouShouldKnow/comments/thfmnf/
+author:Bob_Chris
+subreddit:YouShouldKnow
+score:1256
+numComments:71
+isOver18:False
+hasPostBody:True

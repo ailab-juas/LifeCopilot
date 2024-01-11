@@ -1,0 +1,13 @@
+title:
+LPT: If you're a college student, write ALL of your term paper assignments in Google Docs.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1inl4w/
+author:voodoopork
+subreddit:LifeProTips
+score:1457
+numComments:365
+isOver18:False
+hasPostBody:False

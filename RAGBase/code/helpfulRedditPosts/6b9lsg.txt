@@ -1,0 +1,13 @@
+title:
+LPT: When buying tennis balls for your dog, buy blue instead of the bright green. Dogs can see blue and will find a blue ball in the grass easier.
+
+content:
+Dogs actually can see color. However, they only have two vision cells in their retinas (for yellow and blue), meaning dogs can't tell the difference between green, yellow or red. That's why they can sometimes have trouble finding a tennis ball in grass. Blue tennis balls are a whole lot easier for them to see.
+
+url:https://reddit.com/r/LifeProTips/comments/6b9lsg/
+author:alabamacakelady
+subreddit:LifeProTips
+score:2028
+numComments:83
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT - If you work overnight, make sure you get paid for the extra hour on Nov 7th when the time changes @ 2:00 AM
+
+content:
+The clock rolls back to 2:00 AM when it hits 3:00 AM on November 7th. Make sure your employer pays you for the extra hour that you work.
+
+url:https://reddit.com/r/LifeProTips/comments/qjiyl2/
+author:zzxxccbbvn
+subreddit:LifeProTips
+score:1087
+numComments:102
+isOver18:False
+hasPostBody:True

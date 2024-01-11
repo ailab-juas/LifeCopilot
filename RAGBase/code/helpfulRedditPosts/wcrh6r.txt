@@ -1,0 +1,13 @@
+title:
+LPT: Do not let your dog swim in green water
+
+content:
+This is the time of the year that green cyanobacteria blooms can show up in small or shallow bodies of water.  Dogs that swallow water while swimming or playing fetch in the water can be poisoned within minutes by the toxin that the cyanobacteria produces. [According to the CDC](https://www.cdc.gov/habs/specific-groups/veterinarians-cyanobacteria.html), there are no known antidotes to this toxin, although activated charcoal may be helpful if given within an hour.  If you see greenish water in a pond or lake, keep your dog out even if they've been there before.
+
+url:https://reddit.com/r/LifeProTips/comments/wcrh6r/
+author:Waltzing_Mniotilta
+subreddit:LifeProTips
+score:1160
+numComments:46
+isOver18:False
+hasPostBody:True

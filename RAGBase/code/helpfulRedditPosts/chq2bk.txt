@@ -1,0 +1,13 @@
+title:
+LPT: If you use your laptop for work, create a separate user for presentations. This will prevent embarrassing pop-ups or web history showing up.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/chq2bk/
+author:AvailableHearing
+subreddit:LifeProTips
+score:34412
+numComments:827
+isOver18:False
+hasPostBody:False

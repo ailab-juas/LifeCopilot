@@ -1,0 +1,17 @@
+title:
+YSK: Subscribe to "difficult to cancel" services like the New York Times through the Google Play/Apple App stores whenever possible to be able to easily cancel later without speaking to a live agent.
+
+content:
+Why YSK: Services such the NY Times are notorious for making you speak to a live agent and go though an arduous process to cancel the service you easily signed up for online.
+
+Services like this are not rare and growing day by day, however many allow you to sign up through the Google Play/ Apple App Store if you do so via their mobile apps instead of the websites.
+
+If you do this, you can easily cancel these subscriptions on your phone in just a few clicks without having to bother with each service's customer care.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ro54uv/
+author:TheAvalonn
+subreddit:YouShouldKnow
+score:1168
+numComments:45
+isOver18:False
+hasPostBody:True

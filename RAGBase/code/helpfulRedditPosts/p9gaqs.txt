@@ -1,0 +1,13 @@
+title:
+LPT: When writing a check as a wedding gift, write it out using the couple's maiden or bachelor last names. You shouldn't assume a name change will take place. Even if a name change is going to happen, it takes a long time and the couple will likely ask you to rewrite the check.
+
+content:
+This can save everyone a lot of hassle and time.
+
+url:https://reddit.com/r/LifeProTips/comments/p9gaqs/
+author:nature1387
+subreddit:LifeProTips
+score:1125
+numComments:153
+isOver18:False
+hasPostBody:True

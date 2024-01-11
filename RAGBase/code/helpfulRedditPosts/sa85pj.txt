@@ -1,0 +1,22 @@
+title:
+YSK: One large 18” pizza is larger than two 12” mediums.
+
+content:
+Why YSK: because two mediums is typically more expensive and more crust. There’s the topping variety argument, but you can always do half and half. 
+
+π r ² = area
+
+[2 mediums] 3.14 x 6 ² x 2 = 226.08
+
+[1 large] 3.14 x 9 ²  = 254.34
+
+
+It’s blowing my mind and my world is upside down.
+
+url:https://reddit.com/r/YouShouldKnow/comments/sa85pj/
+author:EsteTre
+subreddit:YouShouldKnow
+score:23931
+numComments:857
+isOver18:False
+hasPostBody:True

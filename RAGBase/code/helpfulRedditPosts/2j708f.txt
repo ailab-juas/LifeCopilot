@@ -1,0 +1,13 @@
+title:
+LPT: Shift + F3 to capitalize/uncapitalize a word or entire sentence after mistakenly typing it out with Caps Lock on/off
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/2j708f/
+author:Jimmie0708
+subreddit:LifeProTips
+score:2610
+numComments:253
+isOver18:False
+hasPostBody:False

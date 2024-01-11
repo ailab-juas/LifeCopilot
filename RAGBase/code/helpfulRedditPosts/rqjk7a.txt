@@ -1,0 +1,13 @@
+title:
+LPT: The library is one of the most useful resources for your financial life if you’re young
+
+content:
+A lot of people complain that there is no comprehensive course work for financial literacy in the US. By going to the library and taking out books on topics you don’t really understand, you’re putting yourself way ahead of your peers. Don’t understand retirement savings? Take out a book about it and in a few days you’ll know what you need to. Have an interview coming up in a field you’re not an expert in? Take out a book about the field and you’ll learn the basics. You can even mention during your interview that you read an entire book to prepare. This is really useful when you’re young because most people don’t start thinking about savings and investments until a later on in their adult life
+
+url:https://reddit.com/r/LifeProTips/comments/rqjk7a/
+author:[deleted]
+subreddit:LifeProTips
+score:2056
+numComments:94
+isOver18:False
+hasPostBody:True

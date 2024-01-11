@@ -1,0 +1,21 @@
+title:
+YSK the difference between theft, robbery, and burglary.
+
+content:
+Theft is the taking of something of value from another person without their consent. For example, a person might steal your phone off the table at a coffee shop. 
+
+Burglary is a trespass crime where the trespasser has the intent to commit another crime (like theft or destruction of property). For example, a person might break into your car or house to steal valuables. 
+
+Robbery is the taking of something of value from another person by means of force, violence, or intimidation. For example, a person might hold you up at gun point and take your wallet. 
+
+Why YSK: these distinctions allow you to effectively communicate with personnel following a crime.
+
+Edit: i should have stated from the get-go that these are meant to be generic rules of thumb. These laws vary substantially from jurisdiction to jurisdiction. Local codifications of these crimes will certainly contain additional elements. Burglary often, but not always, pertains to dwellings or requires a breaking and entering or only occurs in the dead of night. A lot of places require that a thief have the intent to permanently deprive. Etc. Don’t lose the forest for the trees.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ziz87s/
+author:Jealous-Jacket6996
+subreddit:YouShouldKnow
+score:3413
+numComments:153
+isOver18:False
+hasPostBody:True

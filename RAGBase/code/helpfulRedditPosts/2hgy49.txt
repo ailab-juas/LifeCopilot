@@ -1,0 +1,15 @@
+title:
+YSK Jimmy John's had a security breach that could jepordize some people's credit card information.
+
+content:
+For more info, check out this link: https://www.jimmyjohns.com/datasecurityincident/
+
+Jimmy John's is taking calls and will help you with any problems.
+
+url:https://reddit.com/r/YouShouldKnow/comments/2hgy49/
+author:JefemanG
+subreddit:YouShouldKnow
+score:1350
+numComments:219
+isOver18:False
+hasPostBody:True

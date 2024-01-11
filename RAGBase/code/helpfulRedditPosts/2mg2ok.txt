@@ -1,0 +1,71 @@
+title:
+LPT: Use the extension "/html5" at the end of any youtube video to make it load as HTML5 instead of Flash! Much more efficient at loading videos and plays back more effectively! Or use "https://www.youtube.com/html5" to automatically make ALL videos HTLM5!
+
+content:
+---
+
+Last Updated: **February 17, 2015 | 11:00 P.M.**
+
+---
+
+(Note: Every video should automatically play in HTML5 format, however, the occasional video may slip through and play as Flash, that is why I provided the tip to make an individual video HTML5!)
+
+i.e.
+
+---
+
+**Flash**: https://www.youtube.com/watch?v=tmeOjFno6Do
+
+---
+
+**HTML5**: https://www.youtube.com/watch?v=tmeOjFno6Do/html5
+
+---
+
+####FUN FACTS ABOUT HTML5 ON YOUTUBE!
+
+- You can playback the video in 0.25x, 0.5x, 1x, 1.25x, 1.5x and 2x speed!
+
+- **Some users may experience an issue where you can't always get full HD videos; depending on the browsers.
+
+- Videos load more efficiently and will keep loading until the end! You can also go to any point in the video without having to wait for the video to reload! (Videos will load slower in the background to make room for other bandwidth activities, such as games, streaming, ect)
+
+- Going into fullscreen automatically sets the video to 720p! When minimized, it reverts back to what ever the previous resolution was WITHOUT having to reload it! (Meaning you can have an entire video loaded in 360p (or 240), go to fullscreen in 720p (it will have to load) and when you click out of fullscreen, the original 360p will continue playing without the need to reload the rest of the video! Also works if you are in fullscreen and select the previous resolution, that will play the fully loaded version in fullscreen without having to wait again!) --
+
+- Works with embedded videos on other non-youtube sites automatically! :D --
+
+- General use for both Flash and HTML5, press **M** to mute the audio!
+
+- The "Snake Game" easter egg does not work in HTML5.
+
+- With both Flash and HTML5, press **J** to rewind 10 seconds, **K** to pause/play, and **L** to skip ahead 10 seconds.
+
+- Press the left/right arrow keys to skim across the video by a few seconds dependant on the key direction.
+
+---
+
+Its essentially kinda like how its GIF to GFY! :D
+
+--- 
+
+Update: Since this has reached the front page of /r/All, and on the Top Posts page on this sub, I will try and update this post as often as I can when I have new news! :D
+
+I plan on adding: 
+
+- Browser Compatibility List
+
+- Device Compatibility List (Mobile Devices, Phones, Tablets, ect)
+
+- More Facts
+
+---
+
+&amp;gt;In 6 months, this post will become archived and will no longer have the ability to have new votes or comments! When that happens, please feel free to PM me about any cool features or things you'd like to know or add to this LPT! Thanks, Builder.
+
+url:https://reddit.com/r/LifeProTips/comments/2mg2ok/
+author:MCPE_Master_Builder
+subreddit:LifeProTips
+score:5531
+numComments:606
+isOver18:False
+hasPostBody:True

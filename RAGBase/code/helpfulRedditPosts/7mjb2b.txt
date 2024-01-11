@@ -1,0 +1,29 @@
+title:
+LPT: Laser printer tells you it's out of ink? Put in a new toner, print a page, put old toner back in, print 500 more pages
+
+content:
+This is for laser printers that won't let you print because they're supposedly out of ~~ink~~ toner. My Brother printer tells me this and pages are still coming out perfect quality. If you put in a new toner, print a page, and then put the old toner back in it thinks it has a new toner and lets you print all you want. You can easily squeeze out an extra 500 pages or so.
+
+EDIT: Copying /u/g2g079 comment here for visibility:
+
+This works ...sometimes. Other methods that may or may not work depending on your printer.
+
+* Override warnings
+* Tape over a sensor
+* Reset chip
+* Replace chip
+* Rotate with 3 other cartridges
+* Hard reset printer (the harder the better)
+
+I personally use the override option. Then run until it's out and the colors start bothering me.
+
+
+EDIT 2: Apparently shaking the toner cartridge worked for some people too.
+
+url:https://reddit.com/r/LifeProTips/comments/7mjb2b/
+author:yousaltybrah
+subreddit:LifeProTips
+score:3891
+numComments:231
+isOver18:False
+hasPostBody:True

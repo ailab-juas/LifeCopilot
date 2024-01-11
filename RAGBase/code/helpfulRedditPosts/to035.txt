@@ -1,0 +1,13 @@
+title:
+LPT: 30 year old redditor writes down 30 things he wish he knew 10 years ago.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/to035/
+author:runean
+subreddit:LifeProTips
+score:1223
+numComments:260
+isOver18:False
+hasPostBody:False

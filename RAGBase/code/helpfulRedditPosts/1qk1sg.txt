@@ -1,0 +1,13 @@
+title:
+YSK you are not untrackable on the internet. No one really is. Your browser's signature is very likely unique. Check it at EFF's Panopticlick.
+
+content:
+https://panopticlick.eff.org/
+
+url:https://reddit.com/r/YouShouldKnow/comments/1qk1sg/
+author:[deleted]
+subreddit:YouShouldKnow
+score:1349
+numComments:245
+isOver18:False
+hasPostBody:True

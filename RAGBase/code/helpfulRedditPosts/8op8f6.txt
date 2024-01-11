@@ -1,0 +1,13 @@
+title:
+YSK how to pick the best watermelon.
+
+content:
+I found [these five pictures](https://imgur.com/gallery/SN8jl) from a watermelon farmer that help us pick the best watermelon!  Mmm.
+
+url:https://reddit.com/r/YouShouldKnow/comments/8op8f6/
+author:H_G_Bells
+subreddit:YouShouldKnow
+score:9889
+numComments:313
+isOver18:False
+hasPostBody:True

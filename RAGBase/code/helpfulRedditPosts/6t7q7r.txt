@@ -1,0 +1,13 @@
+title:
+LPT: When using live chat to speak to a company, the agent can see what you type in the box before you click send.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/6t7q7r/
+author:[deleted]
+subreddit:LifeProTips
+score:1569
+numComments:174
+isOver18:False
+hasPostBody:True

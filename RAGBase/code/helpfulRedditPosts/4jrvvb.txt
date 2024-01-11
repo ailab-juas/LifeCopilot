@@ -1,0 +1,36 @@
+title:
+YSK about these useful websites
+
+content:
+**The original list is from here: http://svejk.co**  
+  
+    
+
+&gt;   
+&gt; * [Binge Clock](http://www.bingeclock.com/index) – This site tells you how much time it takes to binge-watch a TV show (with our without commercials).  
+&gt; * [Two Foods](http://www.twofoods.com/) – While on diet use this little tool to compare two foods.  
+&gt; * [Online Alarm Clock](http://onlineclock.net/) – In case you don’t have your mobile near to you.  
+&gt; * [How Long to Read](http://howlongtoreadthis.com/) – Find out how long it takes to read your next book. Search over 12 million books!  
+&gt; * [Fake Name Generator](http://www.fakenamegenerator.com/) – In case you need fake (but real looking) informations about yourself to register at a website.  
+&gt; * [Word Frequency Counter](http://www.writewords.org.uk/word_count.asp) – It is always a good idea to check if you don’t overuse a word while writing any kind of paper.  
+&gt; * [Online Proofreader](http://www.paperrater.com/free_paper_grader) – Another awesome site to use while writing an essay. It check for grammar and spelling errors also makes a plagiarism check. After the analysis it even assigns a grade.  
+&gt; * [Eat This Much](https://www.eatthismuch.com/) – This useful site automatically creates meal plans for you.  
+&gt; * [Print Friendly](http://www.printfriendly.com/) – Make websites printer friendly.  
+&gt; * [Compressor.io](https://compressor.io/) – Compress and optimize your images online. Reduce the size of images up to 90%!  
+&gt; * [Icon Finder](https://www.iconfinder.com/) – Search trough almost 1 million icons and use them for (mostly) free!  
+&gt; * [Trello](https://trello.com/) – Organize just about anything using cards.
+&gt; * [HTML to PDF](http://www.htmlpdf.com/) – Convert any website to PDF.  
+&gt; * [Fax Zero](http://faxzero.com/) – If you have to send fax this is a free solution, right in your browser! Free to send within the US and Canada, but for a little fee you can send fax worldwide.  
+&gt; * [Snopes](http://www.snopes.com/) – This site will tell you if the urban legend you just heard is true or false.  
+&gt; * [What The Font](https://www.myfonts.com/WhatTheFont/) – In case you want to know what kind of font a website or document is using.  
+&gt; * [Newsmap](http://newsmap.jp/) – Popular news from various websites.
+  
+Edit: Also feel free to add your favorite useful site.
+
+url:https://reddit.com/r/YouShouldKnow/comments/4jrvvb/
+author:Ewmm
+subreddit:YouShouldKnow
+score:3294
+numComments:158
+isOver18:False
+hasPostBody:True

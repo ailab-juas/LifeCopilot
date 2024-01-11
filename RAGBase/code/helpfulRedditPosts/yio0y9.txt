@@ -1,0 +1,13 @@
+title:
+LPT: If you can, Don't apply for a job that is complaining about "severe employee shortages" or the like. There's a reason they can't retain employees, and you don't want to have to find out what that reason is.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/yio0y9/
+author:Froggy_hop
+subreddit:LifeProTips
+score:5401
+numComments:123
+isOver18:False
+hasPostBody:False

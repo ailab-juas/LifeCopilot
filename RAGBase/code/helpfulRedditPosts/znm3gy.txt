@@ -1,0 +1,31 @@
+title:
+YSK about an abrupt onset Neuropsychiatric condition in children know as PANDAS
+
+content:
+PANDAS stand for: Pediatric Autoimmune Neuropsychiatric Disorders Associated with Streptococcal Infections. [https://www.nimh.nih.gov/health/publications/pandas](https://www.nimh.nih.gov/health/publications/pandas)
+
+It presents as acute onset OCD and/or tics following a Strep A infection.  It can easily be mistaken for other neurological disorders like Tourette Syndrome or even mental illness.
+
+**Children with PANDAS are at risk for being labeled as “behavioral” or “difficult”** when in fact they have no control over the way they are acting. They may appear anxious or moody.
+
+Why YSK: There is currently a surge in Strep A infections:[https://www.nbcnews.com/health/kids-health/rise-invasive-strep-a-infections-us-kids-rcna61507](https://www.nbcnews.com/health/kids-health/rise-invasive-strep-a-infections-us-kids-rcna61507) and many Strep A infections can go undetected. 
+
+You may not have even known your child had a Strep infection, but they can still develop PANDAS.
+
+Children who are misdiagnosed with a mood disorder risk having lifelong mental health and self-esteem issues.  YOU are the biggest advocate for your child.
+
+[https://pandasnetwork.org/understanding-pandas/diagnosis/](https://pandasnetwork.org/understanding-pandas/diagnosis/)
+
+**EDIT:** This [YouTube](https://youtu.be/n-g2NF6N8K8) episode of Mystery Diagnosis documents a 12 year old boy with pandas. 
+
+It has home footage of his behaviors before his treatment.  
+
+Video quality is crappy, but if you can stream the tv show Mystery Diagnosis it is season 9, episode 2
+
+url:https://reddit.com/r/YouShouldKnow/comments/znm3gy/
+author:cammykiki
+subreddit:YouShouldKnow
+score:1880
+numComments:83
+isOver18:False
+hasPostBody:True

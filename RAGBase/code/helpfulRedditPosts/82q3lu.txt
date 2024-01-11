@@ -1,0 +1,13 @@
+title:
+LPT: If you accidentally clicked "Don't Save" when closing a MS Word document, you can manually recover it by going to go to File&gt;Info&gt;Manage Versions&gt;Recover Unsaved Documents
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/82q3lu/
+author:nitram9390
+subreddit:LifeProTips
+score:23613
+numComments:325
+isOver18:False
+hasPostBody:False

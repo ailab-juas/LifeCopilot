@@ -1,0 +1,13 @@
+title:
+LPT - When you're going out of town for an extended time, place a bowl of ice cubes in your freezer. If you come back to a solid block, your freezer got warm enough to ruin your food.
+
+content:
+It could be because your power was out, or the compressor failed, or a host of other issues. But if the cubes melted enough to stick together, all your other food was warm enough to thaw as well. You should probably throw it away and buy new food instead of getting sick.
+
+url:https://reddit.com/r/LifeProTips/comments/nt7za8/
+author:morgen_benner
+subreddit:LifeProTips
+score:1025
+numComments:79
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,38 @@
+title:
+YSK: The Right To Repair Bill that Louis Rossmann fought valiantly for was just signed by Governor Hochul in NY. A bipartisan win for Americans that passed 147-2! But it was sabotaged by the Governor, rendering it effectively useless with one line of text.
+
+content:
+Why YSK: Corporations will continue to find ways to force you to overpay for simple repairs that a small shop could fix for much cheaper (sometimes for free). This was a bill that could have altered and protected the component market for the whole of the US, if not more.
+
+And now the news can celebrate how we have passed THE RIGHT TO REPAIR BILL! While our country continues to slide into a world where the ability to repair your own possessions withers away until it dies.
+
+
+The text in question:
+
+&gt; This agreement eliminates the bill's original requirement calling for original equipment manufacturers to provide the public any passwords, security codes, or materials to override security features, **and allows for original equipment manufacturers may provide assemblies of parts rather than individual components when the risk of improper installation heightens the risk of injury**
+
+
+https://pbs.twimg.com/media/FlHtbaRWAAEdwdv?format=jpg&amp;name=large
+
+
+
+
+That's right everybody. Because when Samsung glues the screens of the Galaxy S20's onto the battery, you can't hold them accountable for trying to stop you from replacing the battery on your own. You could hurt yourself on broken glass! Better to buy their Screen &amp; Battery Replacement Kit for $206.99, from their partnership with iFixit!
+
+
+That was a real thing that was removed from the iFixit website due to the heat of the Louis Rossmann video on the subject. Thankfully you can now buy the battery itself on their website (for twice as much as it costs on eBay).
+
+Here's Louis Rossmann's incredibly depressing video on the topic 
+
+- Governor Hochul sabotages NY right to repair bill, right on schedule https://www.youtube.com/watch?v=7xGBB-717AI
+
+
+Fuck New York.
+
+url:https://reddit.com/r/YouShouldKnow/comments/zye80x/
+author:monkeymadeit
+subreddit:YouShouldKnow
+score:29173
+numComments:756
+isOver18:False
+hasPostBody:True

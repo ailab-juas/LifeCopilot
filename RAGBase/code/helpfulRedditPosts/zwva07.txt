@@ -1,0 +1,44 @@
+title:
+YSK You are legally entitled to compensation from flights canceled &amp; delayed
+
+content:
+**Why YSK:  Thousands of flights are currently canceled &amp; delayed, but you are legally entitled to:** 
+
+• Refunds 
+
+• Alternate transportation 
+
+• Compensation for additional expenses 
+
+• Reimbursement for flight-related expenses 
+
+In the U.S., the Department of Transportation (DOT) requires airlines to compensate passengers for certain delays and cancellations.   The DOT's rules do not specify an amount, but they require airlines to provide meals, accommodations, and transportation to and from the airport. 
+
+Under European Union (EU) regulations, if your flight is canceled or significantly delayed, you may be entitled to compensation from the airline if the delay or cancellation was within the airline's control. 
+
+**Use this script:**
+
+ "*Hi, my name is \[Your Name\] and I'm reaching out to request compensation for my flight from \[Origin\] to \[Destination\] on \[Date\] which was \[delayed/canceled\].  I understand that flights can sometimes be delayed or canceled due to unforeseen circumstances, but  I believe I am entitled to compensation for the inconvenience caused by this \[delay/cancellation\].* 
+
+ *I have attached copies of my ticket and any relevant receipts or documentation, including expenses for meals, accommodations, and transportation, which were incurred as a result of the \[delay/cancellation\].*  
+
+*I would appreciate it if you could please review my case and provide me with a response as soon as possible.*  
+
+*Thank you for your attention to this matter*."   
+ 
+
+ If your flight has been canceled, the first thing you should do is contact the airline to determine your options.  Most airlines will offer to either reschedule your flight for a later date or provide a full refund for the ticket. 
+
+ If your flight has been delayed, the first thing you should do is contact the airline.  In some cases, the airline may offer compensation or assistance, such as meals or hotel accommodations, depending on the length of the delay and the circumstances. 
+
+ If you experienced a significant delay or other inconvenience, you may be able to receive additional compensation to cover any additional expenses you incurred as a result. 
+
+ If you are unable to find a satisfactory resolution through these channels, you may need to consider seeking legal advice or filing a complaint with a government agency, such as the Department of Transportation in the United States.
+
+url:https://reddit.com/r/YouShouldKnow/comments/zwva07/
+author:TonyLiberty
+subreddit:YouShouldKnow
+score:11732
+numComments:255
+isOver18:False
+hasPostBody:True

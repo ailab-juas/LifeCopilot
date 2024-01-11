@@ -1,0 +1,13 @@
+title:
+LPT: Don't have serious arguments via text (especially with your SO.) Tone does not translate, comments can be misunderstood, and if things really go south, the messages you send can be used against you. Calling them has a better chance to deescalate the problem.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5c44so/
+author:Brotipp
+subreddit:LifeProTips
+score:15086
+numComments:542
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: If a dry tickle in one side of your throat is making it hard to sleep (and water hasn't fixed it), lay on that side. Gravity will make your saliva flow to that side and reduce or eliminate the annoying tickle.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/jmcwgn/
+author:modestmolerat
+subreddit:LifeProTips
+score:2370
+numComments:74
+isOver18:False
+hasPostBody:False

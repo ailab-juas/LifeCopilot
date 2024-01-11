@@ -1,0 +1,24 @@
+title:
+YSK - You may have unclaimed money if you live in the USA
+
+content:
+[senatorskeletor](https://www.reddit.com/r/AskReddit/comments/4myp4v/what_is_surprisingly_not_bullshit/d3zit3m) pointed this out in an AskReddit thread, here is his text
+
+"Every U.S. state holds onto money that people are owed and haven't claimed. Including from third-parties. You just have to go to their website and look yourself up. I got $500 from a computer company I bought a laptop from once, and a few other small payments too... and don't forget to look at "Search by State." You may not have anything coming to you... but you might!"
+
+https://www.usa.gov/unclaimed-money
+
+I was able to find several listings for my family members. Total came out to ~$200, so it was a nice find.
+
+I suggest you only put your name and keep the rest blank because if you have moved a lot it may have a listing for you under a former address.
+
+
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/4n0qac/
+author:deviousdelight
+subreddit:YouShouldKnow
+score:1548
+numComments:167
+isOver18:False
+hasPostBody:True

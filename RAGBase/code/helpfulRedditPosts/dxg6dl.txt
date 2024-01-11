@@ -1,0 +1,13 @@
+title:
+LPT: If you have a kid in team sports like hockey where they’re in full gear, get them distinctly coloured gloves. They’ll be much easier to spot when they’re speeding down the ice and you can’t see their number.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/dxg6dl/
+author:ArcticPolaris
+subreddit:LifeProTips
+score:21260
+numComments:501
+isOver18:False
+hasPostBody:False

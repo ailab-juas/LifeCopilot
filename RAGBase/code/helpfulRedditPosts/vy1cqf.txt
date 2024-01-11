@@ -1,0 +1,23 @@
+title:
+LPT: When prompted by a website to accept or reject cookies, make sure to check the vendor list/legitimate interest section for cookies they automatically opt you in for
+
+content:
+Under GDPR, you can automatically be opted in for legitimate interest cookies. Most prompts will hide these away, either in a "Legitimate Interest" tab or at the bottom of a section with "View vendor details" or something similar.
+
+In this area you will sometimes find hundreds of third party sites with pre selected opt out cookies that you should turn off before continuing.
+
+Some sites won't have an option for "deselect all", and force you to scroll through and deselect each one individually, which can take 20 minutes to do manually.
+
+Some sites will detect that you've removed all legitimate interest cookies and then block you from accessing their site as a result.
+
+Does the reject all button turn these off? I'm not sure but somehow I doubt it, better to be sure and check manually, then do Save &amp; Exit.
+
+Edit: So I got the opener wrong, Legitimate Interest *cookies* aren't allowed to be preselected in the form under GDPR, but as I'm sure many of you know, that doesn't stop them from doing it. Legitimate Interest processing itself however doesn't require consent.
+
+url:https://reddit.com/r/LifeProTips/comments/vy1cqf/
+author:ThrowawayUk4200
+subreddit:LifeProTips
+score:1081
+numComments:114
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,14 @@
+title:
+LPT: If you're having trouble in your math class, you can plug any equation, derivative, function, etc. into wolframalpha.com and it will give you the right answer as well as showing you step-by-step how to work out the problem
+
+content:
+This thing has saved my ass so many times
+
+
+url:https://reddit.com/r/LifeProTips/comments/1ejgc7/
+author:dojosnail
+subreddit:LifeProTips
+score:2453
+numComments:440
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,56 @@
+title:
+[LPT] In a not-at-fault automobile accident, you are entitled to a check for the value that your car lost due to the collision. But you'll ONLY get it if you ask for it.
+
+content:
+A car that has been patched up is worth less than a car that is 'clean'. This is better known as "diminished value". Any damage to your vehicle is recorded under the VIN, and when it comes time to resell your car people will pay less for it. Insurance companies acknowledge this. **But they won't mention diminished value to you**. Your own insurance company probably won't mention it either since it isn't their responsibility to pay it out. You'll only get it by asking.
+
+Here's the process:
+
+1) Give your side of the story to the other person's insurance company like normal. But make a note of the name/number for the agent you spoke to.
+
+2) Wait until the insurance companies agree on who is at fault. That usually takes a couple of weeks and you can call your own insurance company for an update.
+
+3) Call up the agent for the other insurance company and tell him you are pursuing diminished value. Depending on the size of the office they'll either send you off to someone else, or they'll help you. It helps to have THEIR claim number as a reference.
+
+3) Be courteous. Nothing is more irritating than non-lawyers impressing their legal rights on a customer service agent.
+
+4) Answer their questions. Sometimes they'll send an agent to inspect the car after it's been fixed. Sometimes they won't. But in 3-10 days they'll provide you an offer.
+
+5) Accepting or declining the offer is up to you. But once you arrive at a figure that is amenable to both sides, you sign a document waiving your right to sue the insurance company for this collision. Once they have that, they mail you a check.
+
+
+One phone call. But guess what happens if you don't make that phone call? Nothing.
+
+**My personal examples:**
+
+Vehicle: Hyundai Tucson
+
+Estimated Value Before Collision: $17,650.00
+
+Damage: Rear ended. Most of the trunk had to be replaced.
+
+Cost to Repair: $1,765.00
+
+**Diminished Value Offer: $882.50**
+
+
+Vehicle: Hyundai Tucson
+
+Estimated Value Before Collision: $15,950.00
+
+Damage: T-boned in an intersection. Side of car replaced and frame had to be corrected.
+
+Cost to Repair: $3,275.00
+
+**Diminished Value Offer: $1,300.00**
+
+
+EDIT: I should really note that this has nothing to do with negotiating the value of a totaled car. Everyone knows you can do that and it wouldn't be much of a life pro tip. *This is about negotiating how much less your car is worth now that it has been in an accident* - and getting a check for that amount.
+
+url:https://reddit.com/r/LifeProTips/comments/4aiend/
+author:yalemartin
+subreddit:LifeProTips
+score:5886
+numComments:799
+isOver18:False
+hasPostBody:True

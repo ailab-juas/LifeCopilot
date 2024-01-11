@@ -1,0 +1,13 @@
+title:
+LPT: If you find a podcast that you like, restrain yourself to only listen to it while doing something you need to be motivated for, e. g. doing the dishes.
+
+content:
+By doing this, you actually want to do the things you usually postpone or avoid, because you get to do something you enjoy. For this to work you have to be strict about when you’re «allowed» to listen, which of course aquires some dicipline in the first place.
+
+url:https://reddit.com/r/LifeProTips/comments/csn914/
+author:hugvalley
+subreddit:LifeProTips
+score:1018
+numComments:102
+isOver18:False
+hasPostBody:True

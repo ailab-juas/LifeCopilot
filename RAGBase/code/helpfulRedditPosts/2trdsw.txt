@@ -1,0 +1,13 @@
+title:
+YSK that when returning a leased vehicle following the end of the contract, in most cases, you will have to pay a "disposition fee." This is not related to wear and tear or mileage. It is literally a fee for the car company to accept their own car.
+
+content:
+This just happened to me and I had never heard of it.  Nissan is charging me $400 simply for returning their vehicle back to them in perfect condition. Of course, if I were to lease another vehicle from them, they would wave this fee. How kind of them!
+
+url:https://reddit.com/r/YouShouldKnow/comments/2trdsw/
+author:amnowhere
+subreddit:YouShouldKnow
+score:1307
+numComments:239
+isOver18:False
+hasPostBody:True

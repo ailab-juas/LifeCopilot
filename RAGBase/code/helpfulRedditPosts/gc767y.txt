@@ -1,0 +1,33 @@
+title:
+YSK FedEx Express and FedEx Ground are two different companies that have almost zero interaction with each other.
+
+content:
+It seems like a lot of people don't realize the name FedEx by itself is the name of the corporation that owns several companies each bearing the name. As a FedEx Express driver, I have to clear up a lot of confusion for people who think I might have their package on board my truck, when in fact it's coming through FedEx Ground. Here's some insider info on the difference between a few FedEx companies to help you with tracking that elusive package you're waiting for:
+
+*FedEx Express: The OG FedEx company (and the one I work for). They ship packages by air to get you your stuff by a certain date and time, guaranteed. If you look in your tracking and see one of the services we offer (Priority Overnight, 2 Day, Express Saver, etc), then you know it's shipping through Express. Also, don't be surprised if you see it's going through a random big city before coming to you; that's just how the supply chain works. Google "hub and spoke" and you'll see what I mean.
+
+*FedEx Ground: Similar to FedEx Express, but instead of transporting packages by air, they're transported, well, by ground. These packages also aren't guaranteed by a certain date or time, so if you see a "scheduled delivery date" in your tracking, that's an estimate based on how long a package typically takes to get to you from wherever it's coming from. I wouldn't hold your breath until the package is actually near you and out for delivery. If your tracking details say it's being shipped "Ground" or "Home Delivery", those are both through the Ground network.
+
+*FedEx Office: This is the one that used to be Kinko's. You can ship Express or Ground packages here, as well as print lots of different stuff. They also handle the SameDay City service you may have heard of in a few certain big metro areas. 
+
+PRO TIP: If you know you won't be home to sign for a package that requires a signature or just don't want it left by your door, you can request to have it "Held at Location" at a FedEx Office. An Express or Ground driver will take it here, and then you can pick it up at your leisure later. This is also possible at a Walgreens or most Dollar General stores if you don't have a FedEx Office near you.
+
+These are the big three most folks will have experiences with, but there are several other FedEx companies that - you guessed it - almost never interact with each other. When you see a FedEx van or truck, always look under the FedEx logo to see which company it's from.
+
+EDIT: Some more differences to look out for that have been mentioned in the comments:
+
+Look at the shipping labels to know the difference. There are several things to look for on each different type of label that will help you easily identify which kind of shipment it is.
+Express: http://i.stack.imgur.com/RIjW7.gif
+Big E on the right hand side, date and time the package is due for delivery, type of service, routing letters above the big bar code
+Ground: https://cdn.shopify.com/s/files/1/0026/6377/6307/products/repair_shipping_label_1000x.jpeg?v=1560887275
+Big G (or H for Home Delivery) on the right side, no date or time, no routing info except for the zip code
+
+There are a few other types of labels for both Express and Ground, but these ones are the most common types you'll see.
+
+url:https://reddit.com/r/YouShouldKnow/comments/gc767y/
+author:degco44
+subreddit:YouShouldKnow
+score:18232
+numComments:629
+isOver18:False
+hasPostBody:True

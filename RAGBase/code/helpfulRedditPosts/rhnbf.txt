@@ -1,0 +1,13 @@
+title:
+Those hanging shoe racks are great for storing cleaning supplies (and keeps them away from the kids). 
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/rhnbf/
+author:icametodropbombs
+subreddit:LifeProTips
+score:2538
+numComments:251
+isOver18:False
+hasPostBody:False

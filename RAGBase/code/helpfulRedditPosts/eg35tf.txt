@@ -1,0 +1,23 @@
+title:
+LPT: When home for the holidays, check your Grandparents and older parents’ Verizon and Comcast bills
+
+content:
+If they are willing, it is smart to verify your Grandparents and older Parents’ Verizon and Comcast bills. There are a number of unnecessary services added to senior citizens’ bills that they typically don’t know about (or don’t understand). There is a good chance you can save them $25 - $30 a month.
+
+My story: we bought my wife’s parents a new television for Christmas. When installing it I noticed that the Verizon cable box they were using was over 15 years old (meaning they don’t have HDMI output). I asked to see how much they were paying for the rental and found some extra line items on their bill. 
+
+1. They are paying $12.99 a month for a 15+ year old cable box while still paying $90 a month for the “Ultimate HD“ package.
+
+2. They are paying $10.99 for the “Inside Wire Maintenance Plan”, even though Verizon did not install the cable in their house (they will just fix it if something goes wrong, but not replace wiring). They have been charging them for 10 years.
+
+3. Verizon only locally  operates under “Authorized Retailers” and cannot provide equipment or help with equipment without authorization from Verizon. We have waited on the phone for over an hour to get someone on the line to get an upgrade.
+
+This understandably is my in-laws‘ fault, but many people don’t know better and are signed up for services they don’t know about or don’t understand. Please review their bills, especially when it comes to phone, television, and internet.
+
+url:https://reddit.com/r/LifeProTips/comments/eg35tf/
+author:JohnWH
+subreddit:LifeProTips
+score:1702
+numComments:110
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Librarians aren't just random people who work at libraries they are professional researchers there to help you find a place to start researching on any topic.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/d8c11u/
+author:DurntoWebster
+subreddit:LifeProTips
+score:68686
+numComments:1612
+isOver18:False
+hasPostBody:False

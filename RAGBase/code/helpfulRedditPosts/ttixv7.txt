@@ -1,0 +1,15 @@
+title:
+LPT: Skipping advertisements on youtube without having their paid subscription service.
+
+content:
+I’m not sure how much you guys use youtube, but I figured even if it only helps one person it’s worth it. I absolutely despise ads.
+
+If an ad pops up for you while clicking on or watching a video you can click the small information symbol, ⓘ , in the bottom left corner where it says, “Ad • 1 of 2 • 0:15 ⓘ”. From here three options will pop up labelled: Why this ad?; Stop seeing this ad; and Control your ads. Select Stop seeing this ad and then select Yes when it asks if you are sure. A list of options will pop up for the reasoning you want to stop seeing this ad, and instead of selecting one just click close. Boom. Ad has been skipped. No more ads. This works on “ad will end in 15 seconds”, as well as double ads. Not every ad will be able to be skipped with this method as typically insurance and bigger companies don’t allow the option of Stop seeing this ad. Those are the only ads you will have to sit through. Using this method, it is faster to skip the ad rather than wait the five seconds for Youtube to let you skip them. That might be a little excessive, but it is possible. Enjoy skipping *most* of your ads for free!
+
+url:https://reddit.com/r/LifeProTips/comments/ttixv7/
+author:khunzeer
+subreddit:LifeProTips
+score:1003
+numComments:223
+isOver18:False
+hasPostBody:True

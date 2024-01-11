@@ -1,0 +1,13 @@
+title:
+LPT: If you feel like you're going to vomit in the near future but not immediately, take an antacid. It will neutralise your stomach acid so when you do vomit it won't burn your throat on the way out. If it's peppermint flavoured it will also make the experience taste less revolving.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/n3tyqn/
+author:Snappysnapsnapper
+subreddit:LifeProTips
+score:41538
+numComments:1445
+isOver18:False
+hasPostBody:False

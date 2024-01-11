@@ -1,0 +1,19 @@
+title:
+YSK Consumer grade magnetic tapes have an average lifespan of 15-25 years before they start to degrade. If you have any home VHS or HI8 tapes from the 80s and 90s consider transferring them to a digital medium.
+
+content:
+Many people have home videos on VHS, Video8, HI8, and Digital8 tapes. Many older tapes may show signs of degradation. Tapes that were stored improperly will be far worse.   
+The last HI8 camcorder was discontinued in 2007, so even the newest tapes will soon hit 10 years old. Video8 and it's derivatives face a problem where the cameras that can be used to view and transfer these tapes are becoming more expensive and harder to find.  
+If you have any tapes that you hope to preserve consider either sending them to a tape transfer service, which can get expensive with a lot of tapes, or investing in a capture setup to save them to your computer.   
+For the second option, at minimum you'll need a camera or player than can play the tapes and a capture card with component in to transfer them to a computer (not necessary if your camera is one of the few that can connect directly to the PC.) If you have tapes with a lot of blank spots or static you may find that the capture drops frames or prematurely stops. In this case you will need to either restart it manually (time consuming) or invest in more specialized equipment like a Time Base Corrector (expensive.)   
+If you opt to take this task on yourself check online for a dedicated video conversation forum. They'll be able to help you find what you need.  
+&amp;nbsp;  
+Edit: Yes I know the 80s were 36 years ago. Tapes don't just evaporate suddenly at 25. Degradation takes time.  There may still be time to save them.  
+
+url:https://reddit.com/r/YouShouldKnow/comments/5gt6we/
+author:LinkDude80
+subreddit:YouShouldKnow
+score:3983
+numComments:130
+isOver18:False
+hasPostBody:True

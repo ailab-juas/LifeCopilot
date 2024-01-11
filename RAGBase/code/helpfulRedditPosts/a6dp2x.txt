@@ -1,0 +1,19 @@
+title:
+YSK that Tylenol/ acetaminophen can cause liver failure and should not be taken long term or outside the recommended dose unless instructed by a doctor
+
+content:
+I've seen Tylenol/ acetaminophen popping up pretty frequently over the last few days and a lot of people are unaware that it can cause liver failure in adults and children if too much is taken. The recommended dose of acetaminophen in adults is 650 to 1,000 mg every 4 to 6 hours, not to exceed 4,000 mg in a 24-hour period; in children, the recommended dose is 10 to 15 mg/kg every 4 to 6 hours, not to exceed 50 to 70 mg/kg in 24 hours. Single doses of more than 150 mg/kg or 7.5 g in adults have been considered potentially toxic. Once ingested, there is only a 30-60 minute window to either pump the person's stomach or administer activated charcoal. A medication called Acetylcysteine can also be used, but it is most effective within only the first 8 hours. 
+
+Acetaminophen is in Actifed, Alka-Seltzer Plus, Benadryl, Co-Gesic, Contac, Excedrin, Fioricet, Lortab, Midrin, Norco, Percocet, Robitussin, Sedapap, Sinutab, Sudafed, TheraFlu, Tylenol, Unisom PM Pain, Vick's Nyquil and DayQuil, Vicodin, and Zydone. Being in so many medications that can be used in unison for colds, flu, sleep, and pain make accidental overdose extremely easy so please read the drug facts on the bottles/ box to make sure you don't do more harm than good!
+
+Also note that intentional overdose makes a person ineligible for organ transplants. This means a slow and extremely painful death with no escape as your liver fails. You'll have to go to the hospital anyway, so please skip this step and get the help you need!
+
+[For](https://www.webmd.com/a-to-z-guides/tylenol-acetaminophen-poisoning) [further](https://emedicine.medscape.com/article/820200-treatment) [reading](https://www.uspharmacist.com/article/acetaminophen-toxicity-what-pharmacists-need-to-know) [check](https://www.ncbi.nlm.nih.gov/books/NBK441917/) [these](https://www.nytimes.com/1994/10/21/us/liver-patient-wins-suit-against-maker-of-tylenol.html) [out](https://en.m.wikipedia.org/wiki/Paracetamol_poisoning)
+
+url:https://reddit.com/r/YouShouldKnow/comments/a6dp2x/
+author:ABadLocalCommercial
+subreddit:YouShouldKnow
+score:2948
+numComments:189
+isOver18:False
+hasPostBody:True

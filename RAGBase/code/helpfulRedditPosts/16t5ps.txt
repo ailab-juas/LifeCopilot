@@ -1,0 +1,13 @@
+title:
+LPT: Pulling an all-nighter? Drink Coffee then take a 15 minute nap.
+
+content:
+The effects of the caffeine take around 15 minutes to set in, and napping during those 15 minutes will let you wake up feeling completely rested. It's bizarre, but really works wonders. 
+
+url:https://reddit.com/r/LifeProTips/comments/16t5ps/
+author:highskyd
+subreddit:LifeProTips
+score:1489
+numComments:514
+isOver18:False
+hasPostBody:True

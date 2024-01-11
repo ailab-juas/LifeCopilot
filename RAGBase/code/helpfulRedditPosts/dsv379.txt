@@ -1,0 +1,13 @@
+title:
+LPT: never fill in those free raffles that you see in shopping centres giving away cool things like free holidays and free cars. These companies are data mining firms, and they pass on your information to call centres, marketing firms and even government agencies all without your permission.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/dsv379/
+author:Terri23
+subreddit:LifeProTips
+score:32608
+numComments:861
+isOver18:False
+hasPostBody:False

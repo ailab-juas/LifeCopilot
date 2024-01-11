@@ -1,0 +1,13 @@
+title:
+LPT: Every once in a while, drive with your windows down and listen for anything that sounds wrong
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/uslbmd/
+author:FeelsBckflipMan
+subreddit:LifeProTips
+score:2673
+numComments:135
+isOver18:False
+hasPostBody:False

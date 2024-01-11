@@ -1,0 +1,13 @@
+title:
+LPT: If you have ever had trouble pausing a youtube video on a specific frame or image in the video, use the "," and "." keys to skip frame-by-frame while the video is paused.
+
+content:
+I always see videos of people trying to pause youtube videos exactly on a certain frame, inevitably pausing too early or too late forcing them to do it again and again. But if you pause the video (you can use "k" to do so) you can skip frame by frame with the period and comma keys. Saves me a lot of time especially when trying to find hidden little messages/jokes editors put in and hope it helps you too!
+
+url:https://reddit.com/r/LifeProTips/comments/iu4ojj/
+author:TheAntiCliche
+subreddit:LifeProTips
+score:1840
+numComments:43
+isOver18:False
+hasPostBody:True

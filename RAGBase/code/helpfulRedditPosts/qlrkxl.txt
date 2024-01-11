@@ -1,0 +1,13 @@
+title:
+LPT: If you are in a management position, your duties go beyond holding team meetings and getting status updates from your subordinates. Your primary responsibility is to enable your subordinates to be successful in their own duties.
+
+content:
+Also: If a subordinate comes to you with an issue, they probably aren't just trying to keep you informed but are expecting you to exercise your authority to help them resolve it. It should be a bi-directional working relationship, not just a  passive report of status updates up the management chain.
+
+url:https://reddit.com/r/LifeProTips/comments/qlrkxl/
+author:ComCypher
+subreddit:LifeProTips
+score:41455
+numComments:997
+isOver18:False
+hasPostBody:True

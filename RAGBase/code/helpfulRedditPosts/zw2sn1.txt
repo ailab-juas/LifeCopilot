@@ -1,0 +1,13 @@
+title:
+LPT - If you're making a dish to bring to someone's house for Christmas dinner that needs to be refrigerated, either bring a cooler with you or confirm with the host ahead of time that there will be fridge space. Don't just show up and assume there is room in the fridge
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/zw2sn1/
+author:Sparky3400
+subreddit:LifeProTips
+score:4931
+numComments:243
+isOver18:False
+hasPostBody:False

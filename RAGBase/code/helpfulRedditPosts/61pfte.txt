@@ -1,0 +1,16 @@
+title:
+LPT: If you're ever called by your bank's fraud department hang up and call them back.
+
+content:
+I got a call from someone claiming to be from fraud department of my bank over the weekend. The call showed up on my caller ID as US Bank which is how I have it saved in my contacts. He said there was a fraudulent charge from American Airlines and I was on that their website booking a flight about an hour prior to the call. 
+For a moment I thought it was legit but then he asked for a pin #. 
+Just be careful because the caller ID makes it seem real. The actual fraud department said they have seen this multiple times with the caller ID showing as the bank. :/ 
+edit... Hey thanks to everyone that shared a story or gave advice! I appreciate everyone's input :)
+
+url:https://reddit.com/r/LifeProTips/comments/61pfte/
+author:othersuper
+subreddit:LifeProTips
+score:28225
+numComments:1339
+isOver18:False
+hasPostBody:True

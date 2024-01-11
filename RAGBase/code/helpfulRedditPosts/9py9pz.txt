@@ -1,0 +1,13 @@
+title:
+YSK that Kanopy is a free movie streaming service available to just about anybody with a library card or university ID in the US, UK, Canada, Australia, and New Zealand
+
+content:
+I get Kanopy through my library in the US.  There is an app available on multiple platforms.  I just watched the Ken Burns Vietnam War Documentary, which was mind blowing.  There is tons of stuff on there, including the popular Criterion movies.  
+
+url:https://reddit.com/r/YouShouldKnow/comments/9py9pz/
+author:grandlewis
+subreddit:YouShouldKnow
+score:3854
+numComments:86
+isOver18:False
+hasPostBody:True

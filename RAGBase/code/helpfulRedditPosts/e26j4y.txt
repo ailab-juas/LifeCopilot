@@ -1,0 +1,13 @@
+title:
+LPT: If you're making a salad for yourself, put the harder toppings on bottom. It's not much for presentation, but it's easier to stab through lettuce into a crouton than through a crouton into lettuce.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/e26j4y/
+author:hydralisk_hydrawife
+subreddit:LifeProTips
+score:28264
+numComments:640
+isOver18:False
+hasPostBody:False

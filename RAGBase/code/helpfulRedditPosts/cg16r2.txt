@@ -1,0 +1,13 @@
+title:
+LPT: When debating someone on a heated issue, start by looking for something to agree with them on. The rest of the conversation will be a lot less hostile if you establish common ground.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/cg16r2/
+author:AmarantCoral
+subreddit:LifeProTips
+score:6841
+numComments:202
+isOver18:False
+hasPostBody:False

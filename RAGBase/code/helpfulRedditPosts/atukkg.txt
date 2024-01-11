@@ -1,0 +1,15 @@
+title:
+YSK how to use an app in IOS without ads but without turning airplane mode on
+
+content:
+Under “Mobile”, find the app and toggle it off.
+Disconnect from wifi but leave mobile data on.
+You can use the app ad-free while still receiving calls/notifications or streaming music
+
+url:https://reddit.com/r/YouShouldKnow/comments/atukkg/
+author:Marcush-Loominati
+subreddit:YouShouldKnow
+score:1716
+numComments:58
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: One of the biggest reasons people have messy living spaces is that they don't have enough dedicated places for their stuff. Try to give everything a defined space to be in/on/under and you will be much less likely to just drop it wherever.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/9j1lis/
+author:Dota2TradeAccount
+subreddit:LifeProTips
+score:37609
+numComments:1579
+isOver18:False
+hasPostBody:False

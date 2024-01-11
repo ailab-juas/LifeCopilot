@@ -1,0 +1,13 @@
+title:
+YSK How to cook good cheap food
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/1a5g9i/
+author:cvl
+subreddit:YouShouldKnow
+score:1778
+numComments:169
+isOver18:False
+hasPostBody:False

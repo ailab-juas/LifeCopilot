@@ -1,0 +1,13 @@
+title:
+LPT: When you have a doctors appointment write down a list of everything you want addressed or want to ask during the appointment.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ixznmi/
+author:greenmachine11235
+subreddit:LifeProTips
+score:36968
+numComments:1125
+isOver18:False
+hasPostBody:False

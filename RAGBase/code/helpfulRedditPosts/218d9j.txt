@@ -1,0 +1,13 @@
+title:
+YSK that if you want a quick recharge on your phone, set it to airplane mode while charging.
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/218d9j/
+author:Anton2606
+subreddit:YouShouldKnow
+score:1613
+numComments:262
+isOver18:False
+hasPostBody:False

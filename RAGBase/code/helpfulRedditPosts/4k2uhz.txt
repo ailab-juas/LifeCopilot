@@ -1,0 +1,21 @@
+title:
+YSK there's a .gov website where you can OPT-OUT of nearly all unsolicited junk-mail (preapproved credit cards, insurance, etc) in less than 1 minute
+
+content:
+Thanks to the FTC:
+https://www.consumer.ftc.gov/articles/0262-stopping-unsolicited-mail-phone-calls-and-email
+
+They have you visit the consumer reporting site to OPT OUT:
+https://www.optoutprescreen.com/?rf=t
+
+EDIT:  Per comments below: 
+• you do not need to enter your SS# (it's just a scare tactic using red font)
+• this is only for the USA
+
+url:https://reddit.com/r/YouShouldKnow/comments/4k2uhz/
+author:theobrienrules
+subreddit:YouShouldKnow
+score:4982
+numComments:308
+isOver18:False
+hasPostBody:True

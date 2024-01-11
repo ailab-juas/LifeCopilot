@@ -1,0 +1,13 @@
+title:
+LPT: If you make a packing list before you go on a trip, review and edit the list when you return from your trip then save it. Over time, you'll be able to pack more efficiently.
+
+content:
+I've been doing this with business trips and vacations for a couple of years.  I now have a few different packing lists that I can pull up whenever needed.  Saves me time and space when packing.
+
+url:https://reddit.com/r/LifeProTips/comments/5uyyf3/
+author:MyUsernameDefinesMe
+subreddit:LifeProTips
+score:28658
+numComments:859
+isOver18:False
+hasPostBody:True

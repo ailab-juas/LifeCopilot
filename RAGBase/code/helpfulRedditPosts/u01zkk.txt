@@ -1,0 +1,13 @@
+title:
+LPT: When scheduling a vacation, plan your return on Saturday instead of Sunday (or whatever is two days before your return to work date) so that you have a full day to decompress and get back in the rhythm of being home again.
+
+content:
+While it's nice to stretch your vacation as long as possible, if your return trip is the day before returning to work you are going to be so miserable and exhausted your first few days back at work.  It's just not worth it.  That extra day is a vacation from your vacation to recharge your battery.
+
+url:https://reddit.com/r/LifeProTips/comments/u01zkk/
+author:tjh213
+subreddit:LifeProTips
+score:28441
+numComments:971
+isOver18:False
+hasPostBody:True

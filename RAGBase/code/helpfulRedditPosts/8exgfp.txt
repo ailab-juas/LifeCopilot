@@ -1,0 +1,33 @@
+title:
+YSK most cities have a Styrofoam dumpster to safely put Styrofoam for recycling
+
+content:
+The recyclers alliance is an offshoot of an industry alliance among styrofoam manufacturers.
+
+Here's a link: http://www.epspackaging.org/index.php?option=com_content&amp;view=article&amp;id=37&amp;Itemid=38
+
+The map of recyclers shows locations in many U.S. states and Canadian provinces and has filtering options for:
+
+Curbside pickup of transportation packaging,
+
+Curbside pickup of food packaging,
+
+Curbside pickup of both
+
+Drop-off transportation packaging,
+
+Drop-off food packaging, 
+
+Drop-off of both
+
+The site also includes guidelines for cleaning, packing, and otherwise prepping your styrofoam for recycling too: http://www.epspackaging.org/index.php?option=com_content&amp;view=article&amp;id=8&amp;Itemid=4
+
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/8exgfp/
+author:hazeust
+subreddit:YouShouldKnow
+score:2228
+numComments:118
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,17 @@
+title:
+YSK when installing applications to your PC you should ALWAYS select "Advanced" or "Custom" installation
+
+content:
+Many times programs will install add-ons or unnecessary plugins without permission through the "full" or "typical" installation (note that these installations usually say "recommended" and that's how they get you.)
+
+Edit: Because there have been so many people saying it - you must keep in mind that there are SOME advanced softwares that you should not use custom installations for unless you know what you don't need. 
+
+Generally, the unnecessary add-ons are pretty easy to spot, but if anything do a little googling while installing if you're unsure. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/40y014/
+author:Svargas05
+subreddit:YouShouldKnow
+score:2628
+numComments:201
+isOver18:False
+hasPostBody:True

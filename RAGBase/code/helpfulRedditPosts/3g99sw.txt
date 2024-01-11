@@ -1,0 +1,15 @@
+title:
+YSK If you signed up for DirecTV last year and got free Sunday Ticket, you are auto-enrolled this year and will be charged $250
+
+content:
+My wife and I got a DirecTV subscription last year which came with 3 months free HBO and free Sunday Ticket for the 2014 NFL season. We called and cancelled HBO after 3 months (back in late 2014), but just saw our DirecTV bill jump by $42/month. Apparently you have to cancel your Sunday Ticket subscription also, otherwise DirecTV assumes you want to continue with it!
+
+Edit: I should add that they did not even mention this service when I called to cancel HBO. They simply re-stated my current monthly amount at that time and asked if I was okay with it. I was not even aware I had Sunday Ticket in the first place.
+
+url:https://reddit.com/r/YouShouldKnow/comments/3g99sw/
+author:Actuarial
+subreddit:YouShouldKnow
+score:3826
+numComments:90
+isOver18:False
+hasPostBody:True

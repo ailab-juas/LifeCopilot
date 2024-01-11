@@ -1,0 +1,13 @@
+title:
+LPT: If you’re a graduating senior in college/university, you probably have an unused print allotment with the library or computer labs on campus that you can use to print anything.
+
+content:
+I found out I had $12.50 left of my print allotment at my school’s library today and I’m graduating on Sunday, so I used it to print 50 copies of my resume for my job hunt. It’s already paid for, but it goes away after you leave so make sure to use it while you can!
+
+url:https://reddit.com/r/LifeProTips/comments/a69dke/
+author:reflectorvest
+subreddit:LifeProTips
+score:3536
+numComments:221
+isOver18:False
+hasPostBody:True

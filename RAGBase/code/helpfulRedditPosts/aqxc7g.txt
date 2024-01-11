@@ -1,0 +1,22 @@
+title:
+YSK: You can permanently close the right pane when you open a PDF using Adobe Reader DC
+
+content:
+1. Go to Edit &gt; Preferences &gt; Documents, and then select Remember current state of Tools pane.
+
+2. Open a PDF document in Reader DC, and then collapse the Tools pane. Click OK. Relaunch Acrobat Reader DC.
+
+3. Voila! Acrobat Reader now remembers the state of your Tools pane. 
+If it was collapsed (or expanded) during the last launch, it remains collapsed (or expanded) when you launch again.
+
+Edit: I've never received so much love from reddit (and close to Valentine's at that)! I love you too!!
+
+And OMG my first gold! Thanks stranger! 
+
+url:https://reddit.com/r/YouShouldKnow/comments/aqxc7g/
+author:elmielmosong
+subreddit:YouShouldKnow
+score:2622
+numComments:102
+isOver18:False
+hasPostBody:True

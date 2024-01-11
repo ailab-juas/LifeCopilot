@@ -1,0 +1,13 @@
+title:
+YSK Airbnb’s are allowed to have cameras in “common” areas meaning living rooms,kitchens, etc. The host must mention the use of cameras under the “House Rules” section of the booking page.
+
+content:
+There are many cases of people finding cameras within their Airbnb’s. Sometimes, these are mentioned in the booking process, but other times they are not. Be careful when booking an Airbnb and always check for cameras upon entering your room.
+
+url:https://reddit.com/r/YouShouldKnow/comments/f5ot6v/
+author:girl834
+subreddit:YouShouldKnow
+score:23576
+numComments:933
+isOver18:False
+hasPostBody:True

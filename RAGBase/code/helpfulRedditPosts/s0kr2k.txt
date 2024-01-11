@@ -1,0 +1,13 @@
+title:
+LPT: Never wash rice down the sink.
+
+content:
+It will harden like concrete and eventually clog your pipes.
+
+url:https://reddit.com/r/LifeProTips/comments/s0kr2k/
+author:HumbleStumbled
+subreddit:LifeProTips
+score:24058
+numComments:2400
+isOver18:False
+hasPostBody:True

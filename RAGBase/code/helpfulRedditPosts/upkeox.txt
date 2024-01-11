@@ -1,0 +1,13 @@
+title:
+LPT: If you take medications daily, and are as forgetful as myself, a simple trick I've learned is to flip each bottle over once you've taken it, and flip them back before you go to bed.
+
+content:
+A very simple tip a friend suggested to me, has been a lifesaver since. Hope this helps someone :)
+
+url:https://reddit.com/r/LifeProTips/comments/upkeox/
+author:CMontyy
+subreddit:LifeProTips
+score:7542
+numComments:423
+isOver18:False
+hasPostBody:True

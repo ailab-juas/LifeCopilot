@@ -1,0 +1,13 @@
+title:
+Feeling "over it"? Tune into the Weather Channel. The hero's over there are airing an 8 hour show called "Escape the Election: clouds rainbows, autumn splendor and smooth jazz evoke tranquility." You're welcome.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5bxodt/
+author:Xtremeskierbfs
+subreddit:LifeProTips
+score:14327
+numComments:163
+isOver18:False
+hasPostBody:False

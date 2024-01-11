@@ -1,0 +1,13 @@
+title:
+LPT: If you’re not the host of a social gathering, do not extend invitations to people.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/yn5ai9/
+author:[deleted]
+subreddit:LifeProTips
+score:1544
+numComments:90
+isOver18:False
+hasPostBody:True

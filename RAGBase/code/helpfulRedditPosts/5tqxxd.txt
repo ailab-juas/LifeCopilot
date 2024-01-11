@@ -1,0 +1,13 @@
+title:
+YSK: Verizon Wireless will start offering unlimited data again, the first time since 2011, starting tomorrow Monday the 13th.
+
+content:
+If you are on a grandfathered unlimited plan now is the time to finally get a new number or pay next to nothing, in comparison, for your next phone.
+
+url:https://reddit.com/r/YouShouldKnow/comments/5tqxxd/
+author:acynicalanalytical
+subreddit:YouShouldKnow
+score:3060
+numComments:483
+isOver18:False
+hasPostBody:True

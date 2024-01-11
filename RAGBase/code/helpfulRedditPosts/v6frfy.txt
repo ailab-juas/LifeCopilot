@@ -1,0 +1,13 @@
+title:
+LPT: Don’t apply more than a pea-sized amount of toothpaste to the brush. That’s all you need for a deep, efficient brush. The toothpaste companies are intentionally lying to you in their ads when they show enough paste to cover every bristle.
+
+content:
+They want everyone to use more then they need per brush, so they go through the tube faster, so everyone buys more toothpaste.
+
+url:https://reddit.com/r/LifeProTips/comments/v6frfy/
+author:Ho2Me9
+subreddit:LifeProTips
+score:23540
+numComments:1157
+isOver18:False
+hasPostBody:True

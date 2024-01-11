@@ -1,0 +1,13 @@
+title:
+LPT: If you're buying a car from a dealership and know exactly what you want, tell the dealer you're torn between that and another car, but leaning towards the other car. The dealer, wanting to close the deal, will reveal the negative aspects of the car you actually want to get.
+
+content:
+This will let you know exactly what you're getting. 
+
+url:https://reddit.com/r/LifeProTips/comments/8o2cou/
+author:impulsiveindian26
+subreddit:LifeProTips
+score:21505
+numComments:784
+isOver18:False
+hasPostBody:True

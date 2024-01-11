@@ -1,0 +1,17 @@
+title:
+YSK: When an obviously angry person says they aren't mad, they are not trying to be difficult.
+
+content:
+Why YSK: I've been to therapy on and off over many years, and while I'm no expert, one of the big things I learned is that *anger is often a secondary emotion.* Anger often stems from some initial feeling of hurt, or fear.
+
+Learning this changed me in a big way, and I almost never stay angry anymore, because I can quickly see through the anger for what it really is. Someone who hasn't learned this, will be likely to say the phrase "I'm not mad." while they are actively angry, and this is because they are probably trying to communicate that initial feeling that caused the anger! When more people understand anger for what it really is, discussions can be had instead of arguments.
+
+[Notre Dame of Maryland University PDF that mentions this](https://ndm.edu/sites/default/files/SOP/Longitudinal-Care/managing_the_angry_patient_2009.pdf)
+
+url:https://reddit.com/r/YouShouldKnow/comments/z732y1/
+author:firfetir
+subreddit:YouShouldKnow
+score:30399
+numComments:699
+isOver18:False
+hasPostBody:True

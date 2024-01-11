@@ -1,0 +1,23 @@
+title:
+YSK that when you're mistreated by someone who is a licensed professional (attorney, doctor, real estate agent, engineer, contractor, therapist, etc), making a complaint to the state licensing body can be more effective than complaining to their employer.
+
+content:
+**Why YSK.** A lot of jobs require a state license to perform. The people in these jobs have to comply within specific legal, and often ethical, guidelines to maintain their license and keep their job. When they violate those rules they can face sanctions ranging from warnings, to fines, to even losing their right to perform their jobs.
+
+For example, if your attorney is not returning your phone calls, has overcharged you, or has not returned the rest of the retainer you paid, you can file a complaint with the state licensing body. They are independent organizations that can investigate, penalize, and even revoke the license of any attorney licensed to practice in that state. A letter from the state licensing body to the attorney is an immediate and unmistakeable danger they cannot afford to ignore.
+
+Filing a complaint with the licensing body is not always warranted, and trying to resolve the issue before you take that step is often your best option. But, if you have a disagreement that you can't resolve, are being ignored, or have been severely mistreated, a complaint to the licensing body (supported with convincing evidence) can be an option.
+
+To find the appropriate licensing body in your state that applies to the professional you're dealing with, a search for "profession + state + license + complaint" will usually get you in the right area.
+
+&amp;#x200B;
+
+EDIT. This applies in all states in the United State. I don't know what the process is in other nations. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/yl60hg/
+author:ButtholeBanquets
+subreddit:YouShouldKnow
+score:24728
+numComments:441
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Turn your radio off and listen to your car once in a while. Noises from the engine, tires, breaks, suspension, etc. can tell you a lot. You can catch many mechanical issues early, before they become expensive repairs.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/7qwvgo/
+author:WandererandtheWall19
+subreddit:LifeProTips
+score:14401
+numComments:779
+isOver18:False
+hasPostBody:False

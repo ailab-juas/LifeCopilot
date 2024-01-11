@@ -1,0 +1,13 @@
+title:
+Use sunglasses or a small convex mirror to avoid people sneaking up on you while wearing headphones at work
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/o436t/
+author:NattyBroh
+subreddit:LifeProTips
+score:1946
+numComments:148
+isOver18:False
+hasPostBody:False

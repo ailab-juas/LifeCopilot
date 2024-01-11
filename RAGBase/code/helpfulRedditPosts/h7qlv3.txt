@@ -1,0 +1,13 @@
+title:
+YSK you can block YouTube video ads just by adding a period after the dot com in the URL like this: www.youtube.com./watch...
+
+content:
+Desktop only, sorry!
+
+url:https://reddit.com/r/YouShouldKnow/comments/h7qlv3/
+author:DAT_DROP
+subreddit:YouShouldKnow
+score:20925
+numComments:727
+isOver18:False
+hasPostBody:True

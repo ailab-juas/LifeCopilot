@@ -1,0 +1,13 @@
+title:
+LPT: If you create a file in Notepad starting with .LOG, it will insert a timestamp automatically each time you open that file.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/66va4r/
+author:Para11axis
+subreddit:LifeProTips
+score:1219
+numComments:58
+isOver18:False
+hasPostBody:False

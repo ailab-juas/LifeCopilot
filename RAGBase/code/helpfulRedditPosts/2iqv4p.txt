@@ -1,0 +1,31 @@
+title:
+YSK how to prevent people from recovering your deleted files.
+
+content:
+Selling an old hard drive? Make sure people don't have the ability to bring back your deleted files with cipher.
+
+It essentially writes crap over everything so that it can't be retrieved because when you delete something from the recycle bin it doesn't actually get rid of it. It just says "If new files come in, they can write over this because i don't need it anymore"
+
+So without further ado...
+
+----------------
+
+1. Open 'Run'
+2. Run
+
+    cmd
+3. type
+
+    cipher /w:D:\ 
+
+(replace D with whatever drive you want ciphered.)
+
+4. Just wait for it to finish and hey presto... gone!
+
+url:https://reddit.com/r/YouShouldKnow/comments/2iqv4p/
+author:Dannyboi93
+subreddit:YouShouldKnow
+score:1190
+numComments:222
+isOver18:False
+hasPostBody:True

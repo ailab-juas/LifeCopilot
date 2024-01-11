@@ -1,0 +1,31 @@
+title:
+YSK that in the United States it is illegal for private sector employers to discourage or punish you for discussing your wages with coworkers
+
+content:
+Why YSK: Pursuant to 29 U.S.C. §§ 151-169 it illegal for your employer to:
+
+1. Discourage discussion between employees about their wages by saying things like “here’s your raise, don’t talk about it to anyone”
+2. Threaten to write an employee up for discussing their wages with coworkers
+3. Fire, demote, transfer you, cut your hours or otherwise change your shift, or take any adverse action against you in any way because of discussions with coworkers about wages and benefits or approaching your superiors about discussions regarding wages with your coworkers
+
+Violations of this law, known as the National Labor Relations Act of 1935, can be reported to the National Labor Relations Board by going to their website www.nlrb.gov or calling 1-844-762-NLRB (6572).
+
+Edit: this really exploded so let me add a few things in here. 
+
+If your employer allows non-work-related discussions while on the clock, [they must allow protected concerted activity as well.](https://www.nlrb.gov/about-nlrb/rights-we-protect/the-law/interfering-with-employee-rights-section-7-8a1) 
+
+[Here’s a more clear and concise listing of your rights under the Act outside of the scope of a union.](https://www.nlrb.gov/about-nlrb/rights-we-protect/your-rights/employee-rights) 
+
+[Here’s a more specific listing of what types of employers are subject to the Act.](https://www.nlrb.gov/about-nlrb/rights-we-protect/the-law/jurisdictional-standards) 
+
+[Here’s the NLRB’s FAQ page.](https://www.nlrb.gov/resources/faq/nlrb) 
+
+[And here’s a more general listing of other government agencies involved in protecting worker’s rights.](https://www.nlrb.gov/resources/related-agencies)
+
+url:https://reddit.com/r/YouShouldKnow/comments/pmzgrr/
+author:zkruse92
+subreddit:YouShouldKnow
+score:33414
+numComments:1056
+isOver18:False
+hasPostBody:True

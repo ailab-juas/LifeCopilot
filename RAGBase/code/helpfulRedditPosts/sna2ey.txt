@@ -1,0 +1,27 @@
+title:
+LPT: All Visa card numbers begin with 4 and all Mastercards begin with 5, and only a scammer will try to "verify your account" by giving the first number.
+
+content:
+I'm not some gullible granny, but I almost fell for a scam today, so I thought I'd pass along the little piece of knowledge that would have had the alarms going off right away had I known. 
+
+I'm sure everyone knows to be careful about receiving calls about bank accounts and credit cards, but today I learned that the scammers will tell you the first digit of your card number to seem more legit and gain your trust. The thing is though is that all the Visas start with 4, all the MasterCards start with 5, etc. So they are just doing what they usually do: playing the odds. Chances are relatively high that any given person has a Visa card, so it's an easy in. 
+
+So here's what happened: Someone called me about "suspicious charges to my account" and he referred to my Visa card beginning in 4. He gave me details on the specific suspicious charge (which I later confirmed was invented), and said that he needed to confirm my information so that he could cancel the card and send a new one. He tried to "confirm my address" and even told me a zip code where I used to live. He also tried to "confirm my account" by having me read the card number to him.
+
+He was a very good scammer, and I almost fell for it, especially because he knew the beginning of the card number and that it was a Visa. He asked if I had an account with Wells Fargo, Chase, or Bank of America, which made it sound sort of plausible, as if they were all part of a conglomerate and maybe he serviced all of them. After some back and forth he tried again to get me to read him my card number. The only reason that I caught him was that I asked him which account it was for, and pressed him on which institution and whether it was debit or credit.
+
+Thankfully, I remembered that if the bank actually calls for something like fraudulent activity, they will identify themselves by the institution not the card company, and they will give the last four digits of the card or account in question, not the beginning of it. If they call you, they don't need you to verify information, and you can instead ask them to confirm the card number.
+
+After calling the *actual* fraud department at my bank, I learned that the first digit of a card number identifies the card carrier, so it isn't proof of anything anyway. Basically all of the information he had was what's available through Google and lucky guessing. 
+
+[Here](https://www.lssmn.org/financialcounseling/tools-and-resources/avoid-scams/visa-mastercard-scam) is an article about the same sort of scam. And [Here](https://wallethub.com/edu/cc/what-is-a-credit-card-number/44066) is some info about how card numbers work. 
+
+Stay safe out there!
+
+url:https://reddit.com/r/LifeProTips/comments/sna2ey/
+author:kissbythebrooke
+subreddit:LifeProTips
+score:1580
+numComments:66
+isOver18:False
+hasPostBody:True

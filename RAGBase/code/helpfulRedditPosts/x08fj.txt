@@ -1,0 +1,15 @@
+title:
+LPT: If you ever need to stop and ask directions, skip the gas station and find a pizza delivery place.
+
+content:
+The drivers know the area better than anyone and they usually have a big honking map on the wall to show where they will and won't deliver too so you can avoid driving through the sketchy parts of towns you don't know.
+
+Also, pizza.
+
+url:https://reddit.com/r/LifeProTips/comments/x08fj/
+author:ohthatdave
+subreddit:LifeProTips
+score:1190
+numComments:129
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Life is not a competition. Once you realise that, you will stop comparing yourself with others, because you don't see them as adversaries in a race.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/lgbag9/
+author:dominorr
+subreddit:LifeProTips
+score:17492
+numComments:454
+isOver18:False
+hasPostBody:False

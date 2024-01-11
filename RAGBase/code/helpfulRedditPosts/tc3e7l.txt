@@ -1,0 +1,15 @@
+title:
+LPT: Ikea will send you spare parts for free
+
+content:
+This blew my mind today. I have an Ikea chair that lost a couple of screws. It turns out you can get these shipped to you for free if you know the part number (which you can get by looking the product up online). 
+
+Both a win for the wallet and the planet. :)
+
+url:https://reddit.com/r/LifeProTips/comments/tc3e7l/
+author:theblandestname
+subreddit:LifeProTips
+score:3242
+numComments:178
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+YSK If you're using Mint/TurboTax, they've been mining your job title and salary
+
+content:
+Why YSK: Their new compensation tool is taking your job title, salary, and maybe other compensation and making it public (albeit anonymously). They will sell this on to companies in the future for sure.
+
+https://mint.intuit.com/salary/
+
+url:https://reddit.com/r/YouShouldKnow/comments/sbzs2c/
+author:goodvibezone
+subreddit:YouShouldKnow
+score:9101
+numComments:384
+isOver18:False
+hasPostBody:True

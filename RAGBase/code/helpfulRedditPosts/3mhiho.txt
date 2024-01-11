@@ -1,0 +1,13 @@
+title:
+YSK that you can often get around a paywall on a news site by googling the headline and viewing the Google cached version.
+
+content:
+If you use Firefox you can highlight the headline and right click the text. There's a search Google menu option
+
+url:https://reddit.com/r/YouShouldKnow/comments/3mhiho/
+author:Milt_Torfelson
+subreddit:YouShouldKnow
+score:1927
+numComments:92
+isOver18:False
+hasPostBody:True

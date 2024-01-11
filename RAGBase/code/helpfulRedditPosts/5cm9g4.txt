@@ -1,0 +1,13 @@
+title:
+LPT: When hanging TV's on the wall, take a picture of the backside
+
+content:
+When you're hanging TV's, monitors or other things on the wall, where there are plugs and other connectors, take a picture of the backside before hanging it up, so you have an idea of what's going on, when you can't see it properly
+
+url:https://reddit.com/r/LifeProTips/comments/5cm9g4/
+author:SvampebobFirkant
+subreddit:LifeProTips
+score:8338
+numComments:496
+isOver18:False
+hasPostBody:True

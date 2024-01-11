@@ -1,0 +1,15 @@
+title:
+LPT: OSHA/MSHA Regulations are written in the blood of your predecessors
+
+content:
+Every small insignificant workplace safety rule they tell you to follow is because someone was killed or severely injured while performing your job.
+
+Follow those rules as if your life depends on it, because one day it just might.
+
+url:https://reddit.com/r/LifeProTips/comments/ud3lt4/
+author:KivogtaR
+subreddit:LifeProTips
+score:11096
+numComments:552
+isOver18:False
+hasPostBody:True

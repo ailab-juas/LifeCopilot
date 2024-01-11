@@ -1,0 +1,17 @@
+title:
+YSK: If you have an android phone and are worried about being tracked by Apple air tags, Apple has released an official app that can detect air tags and similar trackers on android devices.
+
+content:
+Why YSK: I know there's been a spike in the amount of [news stories featuring people being tracked](https://weartv.com/news/local/pace-woman-believes-stranger-used-apple-airtag-to-track-her) for nefarious purposes by sticking apple air tags to their vehicles and other places. If you have an iPhone, it'll alert you to the presence of these tags automatically. However, if you have an android phone, it will not automatically alert you.
+
+I read up on this trend and apparently [apple has released an official app that can detect air tags and other similar tracking devices.](https://www.cnet.com/tech/mobile/android-users-get-this-apple-app-if-you-dont-want-airtags-tracking-you/) This makes it so now even Android users can be sure they're not being tracked by these devices!
+
+Edit: [Here's the Google play store link for the app](https://play.google.com/store/apps/details?id=com.apple.trackerdetect&amp;hl=en_US&amp;gl=US)
+
+url:https://reddit.com/r/YouShouldKnow/comments/sb0u2n/
+author:infamous_moses
+subreddit:YouShouldKnow
+score:10229
+numComments:387
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,16 @@
+title:
+YSK that you can plan your commute in advance in Google maps by using the "Typical Traffic" feature, for any day or time of the week.
+
+content:
+[Screenshot of what I'm talking about](http://i.imgur.com/0F0j2c8.jpg)
+
+
+[Instructions on how to use it](https://support.google.com/maps/answer/3092439?hl=en)
+
+url:https://reddit.com/r/YouShouldKnow/comments/49qaf1/
+author:the3littlechemists
+subreddit:YouShouldKnow
+score:2077
+numComments:72
+isOver18:False
+hasPostBody:True

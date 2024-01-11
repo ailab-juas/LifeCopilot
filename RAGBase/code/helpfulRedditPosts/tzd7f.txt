@@ -1,0 +1,13 @@
+title:
+For pool lanterns, stick a glow stick in a balloon and blow it up!
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/tzd7f/
+author:actonesceneone
+subreddit:LifeProTips
+score:2238
+numComments:254
+isOver18:False
+hasPostBody:False

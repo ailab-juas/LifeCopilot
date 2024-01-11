@@ -1,0 +1,13 @@
+title:
+YSK (approximately) where all the 193+ countries in the world are, for a greater understanding of worldnews/geopolitics, and to be a more knowledgeable conversationalist.
+
+content:
+Learning all of the world's countries approximate location will only take you 10 minutes of quizzing for a few days. There are many good quiz games and other resources on the internet (just google "map quiz game" or something similar). You can do this while idling at work, or just before you go to bed (there are good map-quiz apps for Android/iOS). Knowing even just the general location and neighbouring countries on a world map will let you understand much of international news better, and will make you a much more knowledgeable conversationalist.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ep0qso/
+author:takethi
+subreddit:YouShouldKnow
+score:4743
+numComments:321
+isOver18:False
+hasPostBody:True

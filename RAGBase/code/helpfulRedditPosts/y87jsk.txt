@@ -1,0 +1,21 @@
+title:
+YSK: Grocery stores have to throw away food you return, even if it’s sealed and unopened.
+
+content:
+**Edit: I’ve been proven incorrect, some retailers do restock canned goods which I wasn’t aware of/couldn’t find reference to online. I’ll change my YSK stance to - if you do overbuy, check with your local retailer prior to making a return and consider donating it if they would otherwise destroy it, if you can afford to do so.**
+
+Original post for posterity’s sake:
+
+I’ve worked in grocery for a few years. Every holiday season, individuals and organizations will buy bulk amounts of nonperishable food (canned goods, baking staples, etc). When they overbuy, they’ll return what they didn’t use for a refund and insist it’s “still sealed”, asking us to either donate it or resell it. 
+
+~~We legally can’t do that, due to the potential for food tampering. If we were to donate it and get somebody sick or worse, the company would be liable for it.~~ EDIT: I WAS MISINFORMED! Please see [this comment](https://reddit.com/r/YouShouldKnow/comments/y87jsk/_/isyq6am/?context=1). When food is returned, it gets destroyed and thrown away, no matter the condition it’s in. 
+
+Why YSK: This holiday season, please be conscious of overbuying. If you do overbuy, instead of returning perfectly good food to a grocery store and contributing to food waste, consider giving it away or donating it to a food pantry.
+
+url:https://reddit.com/r/YouShouldKnow/comments/y87jsk/
+author:capo-johnson
+subreddit:YouShouldKnow
+score:1321
+numComments:72
+isOver18:False
+hasPostBody:True

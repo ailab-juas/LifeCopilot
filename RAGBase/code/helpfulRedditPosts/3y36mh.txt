@@ -1,0 +1,13 @@
+title:
+LPT: Carry a small pocket knife with you for the next few days. You will become the hero who can open all the new packages and boxes.
+
+content:
+(title)
+
+url:https://reddit.com/r/LifeProTips/comments/3y36mh/
+author:Mr-The-Plague
+subreddit:LifeProTips
+score:4568
+numComments:2585
+isOver18:False
+hasPostBody:True

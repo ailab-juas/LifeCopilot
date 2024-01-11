@@ -1,0 +1,13 @@
+title:
+YSK: You can start your key fob activated car when the fob battery is dead by pressing the fob into the start button
+
+content:
+Why YSK: Having a dead battery in the key fob has always been a fear for me. If it dies, you can still start your car by pressing the start button with the dead FOB.  I personally know this to work with Nissan, Toyota and GMC cars.
+
+url:https://reddit.com/r/YouShouldKnow/comments/oodo39/
+author:TheBigJiz
+subreddit:YouShouldKnow
+score:9704
+numComments:528
+isOver18:False
+hasPostBody:True

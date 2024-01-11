@@ -1,0 +1,13 @@
+title:
+LPT: If you struggle to get out of bed in the morning, leave your phone out of reach and make it impossible to turn off the alarm if you don't get up manually do it.
+
+content:
+Set it so the alarm music changes every time it rings too, otherwise you will get used to hearing the same tune again and again and again.
+
+url:https://reddit.com/r/LifeProTips/comments/yed789/
+author:ByLoKu
+subreddit:LifeProTips
+score:9309
+numComments:619
+isOver18:False
+hasPostBody:True

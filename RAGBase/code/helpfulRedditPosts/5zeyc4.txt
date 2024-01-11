@@ -1,0 +1,13 @@
+title:
+YSK to check the card reader that gives you access to ATM vestibules after bank hours for skimmers as well as ATMs.
+
+content:
+Skimmers can be put anywhere you swipe your card. One common place is on the outside of bank vestibules where you have to swipe your card to gain entry.
+
+url:https://reddit.com/r/YouShouldKnow/comments/5zeyc4/
+author:Sqwonk-Sqwonk
+subreddit:YouShouldKnow
+score:1906
+numComments:119
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Before you give your child a unique name, try it out first. Use it on food orders, reservations, appointments where applicable, etc. It’ll give you a glimpse of what they’ll deal with when they’re older and could prevent future issues.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ztousd/
+author:7evenSlots
+subreddit:LifeProTips
+score:59991
+numComments:4299
+isOver18:False
+hasPostBody:False

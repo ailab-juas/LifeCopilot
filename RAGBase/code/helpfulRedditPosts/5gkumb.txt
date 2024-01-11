@@ -1,0 +1,17 @@
+title:
+LPT: If you're staying up all night to write a paper and hit a wall, take a break from the paper itself and do your bibliography.
+
+content:
+Open a new word document and pull all your sources together -- formatting, alphabetizing, layout on the page (indenting every line after the first one), etc. I started using this trick in grad school to give my brain a break during crunch time while still managing to be (somewhat) productive.
+
+edit: removed a reference to a specific bibliography aid website because the post got flagged for recommending a product for its intended use. 
+
+edit 2: in response to everyone's suggestions of various apps / Word features that compile references as you go: http://i.imgur.com/VcSMtE0.jpg
+
+url:https://reddit.com/r/LifeProTips/comments/5gkumb/
+author:AlienCricket
+subreddit:LifeProTips
+score:11681
+numComments:587
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,16 @@
+title:
+YSK that Father's Day is five days from now, on june 21st.
+
+content:
+For the United States, U.K. and many other countries it's father's day next sunday! 
+Check if this is correct for your country as well on [this page](https://en.wikipedia.org/?title=Father%27s_Day#Dates_around_the_world).
+
+This is a good time to start thinking about gifts. Maybe sone good liquor? Or maybe a day out, just father with son/daughter?
+
+url:https://reddit.com/r/YouShouldKnow/comments/3a0rbj/
+author:Lawdee
+subreddit:YouShouldKnow
+score:1891
+numComments:62
+isOver18:False
+hasPostBody:True

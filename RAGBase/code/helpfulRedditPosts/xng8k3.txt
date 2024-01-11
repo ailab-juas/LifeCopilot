@@ -1,0 +1,24 @@
+title:
+YSK: Google's upcoming Manifest V3 which will cripple most adblockers doesn't just affect Chrome users, but ALL users of all Chromium-based browsers, including Brave, Opera, and Edge
+
+content:
+Why YSK: Many people have expressed on Reddit their desire to switch browsers away from Chrome to some other browser after hearing about Google's upcoming Manifest V3, an update to Google Chrome and Chromium which will cripple most adblockers and render them ineffective. Switching to another Chromium-based browser will likely not fix the issue, since the change will be made in Chromium and most browsers (including Google Chrome) are nothing more than fancy UIs on top of Chromium.
+
+The following browsers are unaffected by Manifest V3's changes:
+
+- Firefox
+- Safari
+- Any browser on iOS (Apple only allows browsers to be reskins of Safari on iOS)
+- Epiphany ("GNOME Web")
+
+This list is very short—that's just a side-effect of how uttering dominating Chromium is in the browser market and highlights the dangers of monopoly.
+
+Edit: Some of you all are commenting "lol the adblockers will get around this". It's not that simple. The browser controls everything. Anything that an extension does, it does only with the permission of the browser. An extension cannot do anything on its own, and it cannot see anything on its own. It can only ask the browser for information and it can ask the browser to do something. The way it does this is through the API—which is Manifest. In short, adblockers work by asking the browser for information on which domains it is connecting to and what it wants to load, deciding which ones serve adverts, and then asking the browser to not load them. If (when) Google decides they want to do away with any form of blocking of their adverts, they can do so, and there is no possible recourse for adblockers. The adblocker can say "don't load any content from ads.mydomain.com", but if the browser goes "piss off I'm loading it anyway", the extension can't do anything about it. The only solution as a user is to replace the browser.
+
+url:https://reddit.com/r/YouShouldKnow/comments/xng8k3/
+author:NateNate60
+subreddit:YouShouldKnow
+score:1490
+numComments:176
+isOver18:False
+hasPostBody:True

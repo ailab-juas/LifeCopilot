@@ -1,0 +1,16 @@
+title:
+You should know that Skype allows the government to monitor way more than just your calls and messages
+
+content:
+Skype also access your browser data such as bookmarks and plugins as well as other data on your computer. And this has been going on for a fairly long time. 
+
+http://web.archive.org/web/20070831152605/http://forum.skype.com/index.php?showtopic=95261     
+(This is an internet archive link because somehow the actual forum thread has been removed by Skype)
+
+url:https://reddit.com/r/YouShouldKnow/comments/1l4f3r/
+author:[deleted]
+subreddit:YouShouldKnow
+score:1955
+numComments:354
+isOver18:False
+hasPostBody:True

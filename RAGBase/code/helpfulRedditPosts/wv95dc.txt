@@ -1,0 +1,25 @@
+title:
+LPT: Set a keyboard text replacement on your phone to change "@@" to your email address.
+
+content:
+It makes signing into accounts much easier.  
+
+
+Edit: I forgot to put how, and only know iOS as an iPhone user.
+
+iOS: Settings-&gt;General-&gt;Keyboard-&gt;Text Replacement  
+Phrase=email address  
+Shortcut=@@
+
+My favourite (the real) LPT in the comments, "@1", "@2", "@3", etc for multiple email addresses.  
+
+
+And yes password managers are great but I lack commitment to services.
+
+url:https://reddit.com/r/LifeProTips/comments/wv95dc/
+author:toothygoose
+subreddit:LifeProTips
+score:7885
+numComments:335
+isOver18:False
+hasPostBody:True

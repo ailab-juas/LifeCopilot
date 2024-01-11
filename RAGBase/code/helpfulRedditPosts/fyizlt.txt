@@ -1,0 +1,13 @@
+title:
+LPT: If someone is mad at you, give them enough time to calm down before trying to talk with them. People often don’t think logically when they are upset so trying to solve a situation while they are still mad can make matters worse quickly.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/fyizlt/
+author:Racing_in_the_street
+subreddit:LifeProTips
+score:39571
+numComments:876
+isOver18:False
+hasPostBody:False

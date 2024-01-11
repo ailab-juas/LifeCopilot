@@ -1,0 +1,15 @@
+title:
+YSK that you can use your Google account settings find your Android phone--even on silent
+
+content:
+In account settings, Dashboard, Manage Devices, a popup will appear, showing where your phone is, and giving it the option to "Ring", or if it's been stolen, lock and erase the phone.
+
+Edit: To the redditor who gifted gold, thank you!!
+
+url:https://reddit.com/r/YouShouldKnow/comments/1qvycy/
+author:TyrannicalDuck
+subreddit:YouShouldKnow
+score:1620
+numComments:145
+isOver18:False
+hasPostBody:True

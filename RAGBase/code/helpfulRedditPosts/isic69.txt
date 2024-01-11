@@ -1,0 +1,13 @@
+title:
+LPT: When you call emergency services, always mention your address first if you are in dire need of help. This allows them to dispatch an unit immediately even if you get cut off.
+
+content:
+Unlike in the movies, the emergency services cannot actually pinpoint your location to the exact house , if you make a call from the cell phone. While they have a very good idea of the area from which you’re calling from, even searching in a span of 100 metres is very difficult and an exact address could be the difference between life and death.
+
+url:https://reddit.com/r/LifeProTips/comments/isic69/
+author:GuyWithDFacts
+subreddit:LifeProTips
+score:1105
+numComments:55
+isOver18:False
+hasPostBody:True

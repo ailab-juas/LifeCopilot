@@ -1,0 +1,18 @@
+title:
+YSK that Google’s $150 Nik Collection of Photo Editing Software is Now 100% Free
+
+content:
+The Nik Collection has 7 desktop plug-ins that provide a wide range of photo editing features, including mimicking the look of old cameras and films, retouching and correcting photos, darkroom retouching, adjusting color and tonality, HDR, image sharpening, and noise reduction.
+
+Starting March 24, 2016, the latest Nik Collection will be freely available to download: Analog Efex Pro, Color Efex Pro, Silver Efex Pro, Viveza, HDR Efex Pro, Sharpener Pro and Dfine. If you purchased the Nik Collection in 2016, you will receive a full refund, which we’ll automatically issue back to you in the coming days.
+
+
+[https://www.google.com/nikcollection/](https://www.google.com/nikcollection/)
+
+url:https://reddit.com/r/YouShouldKnow/comments/4bw7n2/
+author:Crimson_Six
+subreddit:YouShouldKnow
+score:1978
+numComments:64
+isOver18:False
+hasPostBody:True

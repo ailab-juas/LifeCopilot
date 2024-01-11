@@ -1,0 +1,14 @@
+title:
+YSK that just acknowledging the name of a photographer when you download then re-upload their work is still almost always a copyright violation.
+
+content:
+
+Why YSK: Unless the author/owner has explicitly tagged their work with a Creative Commons license or otherwise made it available to republish without a license and/or acknowlement only, they have not given you any permissions to republish their original work.
+
+url:https://reddit.com/r/YouShouldKnow/comments/uiwb6i/
+author:Tweetystraw
+subreddit:YouShouldKnow
+score:1552
+numComments:110
+isOver18:False
+hasPostBody:True

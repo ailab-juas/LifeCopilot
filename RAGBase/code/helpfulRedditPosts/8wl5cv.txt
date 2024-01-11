@@ -1,0 +1,13 @@
+title:
+LPT: 100% of the proceeds from a scientific journal go to the publisher, and none to the authors. If you contact an author they are allowed to give you their paper for free, and are delighted to do so.
+
+content:
+All credit for this Life Pro Tip goes to Dr. Holly Witteman, go check out the original tweet. https://twitter.com/hwitteman/status/1015049411276300289
+
+url:https://reddit.com/r/LifeProTips/comments/8wl5cv/
+author:mwthecool
+subreddit:LifeProTips
+score:9638
+numComments:212
+isOver18:False
+hasPostBody:True

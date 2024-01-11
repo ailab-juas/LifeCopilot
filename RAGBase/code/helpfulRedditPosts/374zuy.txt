@@ -1,0 +1,15 @@
+title:
+YSK that Third World countries are actually countries that did not participate in the Cold War
+
+content:
+http://en.wikipedia.org/wiki/Third_World
+
+As opposed to the traditional usage where people use it for more poverty / weak countries.
+
+url:https://reddit.com/r/YouShouldKnow/comments/374zuy/
+author:SexualPie
+subreddit:YouShouldKnow
+score:2582
+numComments:188
+isOver18:False
+hasPostBody:True

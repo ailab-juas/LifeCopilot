@@ -1,0 +1,15 @@
+title:
+YSK In the U.S. the day before Thanksgiving is one of the biggest drinking nights of the year. It is also one of the biggest travelled days of the year. Please be careful and stay off the roads if you can.
+
+content:
+[travel](http://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/publications/america_on_the_go/us_holiday_travel/html/entire.html)
+
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/3u9sto/
+author:konsickwence
+subreddit:YouShouldKnow
+score:2942
+numComments:200
+isOver18:False
+hasPostBody:True

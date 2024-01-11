@@ -1,0 +1,13 @@
+title:
+LPT: always put your shoes through the airport x-ray machine last, especially if you're in a rush. You won't be able to accidentally walk (or run) off without something that's still going though the scanner
+
+content:
+Learned this the hard way 
+
+url:https://reddit.com/r/LifeProTips/comments/46qpkm/
+author:publichobbyaccount
+subreddit:LifeProTips
+score:3123
+numComments:448
+isOver18:False
+hasPostBody:True

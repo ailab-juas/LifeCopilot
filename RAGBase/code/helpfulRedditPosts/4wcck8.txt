@@ -1,0 +1,13 @@
+title:
+LPT: If you're having a party/event, send invitations to far away friends even if you know they can't make it...
+
+content:
+...use the invitation as an opportunity to touch base with your friend. Let them know that you were thinking about them, wish they could attend, and they are always welcome. It's nice to be remembered.
+
+url:https://reddit.com/r/LifeProTips/comments/4wcck8/
+author:Rustic_Dragon
+subreddit:LifeProTips
+score:1864
+numComments:153
+isOver18:False
+hasPostBody:True

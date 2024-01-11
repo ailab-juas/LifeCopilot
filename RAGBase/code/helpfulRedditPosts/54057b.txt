@@ -1,0 +1,13 @@
+title:
+LPT: If you're on a simple tv (without a surround sound system), setup your audio to 2.0. This way music and voices will have an equal volume.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/54057b/
+author:mysexualityhurts
+subreddit:LifeProTips
+score:2671
+numComments:193
+isOver18:False
+hasPostBody:False

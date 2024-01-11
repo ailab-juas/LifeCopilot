@@ -1,0 +1,13 @@
+title:
+LPT: Fabric softener makes fabric more water-resistant. Don't use it on your towels, and they'll dry you better.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/w2qjo/
+author:clown_tornado
+subreddit:LifeProTips
+score:1040
+numComments:168
+isOver18:False
+hasPostBody:False

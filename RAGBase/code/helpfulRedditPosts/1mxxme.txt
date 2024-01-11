@@ -1,0 +1,13 @@
+title:
+You Should Know that any bacteria who survive your antibiotics can breed an immune strain. This is why you ALWAYS finish the course of pills your doc gives you.
+
+content:
+Don't stop when you "feel better". Don't save the rest for another illness. One day soon people will get sick and nothing will help. Maybe very soon.
+
+url:https://reddit.com/r/YouShouldKnow/comments/1mxxme/
+author:[deleted]
+subreddit:YouShouldKnow
+score:3083
+numComments:281
+isOver18:False
+hasPostBody:True

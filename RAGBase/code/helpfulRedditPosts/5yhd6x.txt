@@ -1,0 +1,13 @@
+title:
+LPT: Need to proofread a paper for spelling? Try reading it backwards starting at the end. It forces you to focus on each word rather than read it as flowing sentences.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5yhd6x/
+author:AngeloPappas
+subreddit:LifeProTips
+score:1389
+numComments:99
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,23 @@
+title:
+YSK: If a website is down and you need it right away, you can view the cached page online.
+
+content:
+Google stores a copy of just about every website to be used for indexing and fast search. Fortunately, this also allows anyone to view that site even if it isn't running.
+
+The easiest way to do this is to go on **CachedView.com** and enter your website.
+
+I would suggest using the **Google Web Cache**, as it is stored exactly like the website would be presented to you, rather than something like the WayBack Machine would give you.
+
+NOTE: This will not work with sending or uploading anything to the site because it isn't communicating with the real website when you are viewing the cached version. This only allows you to *view* the website.
+
+TL;DR If a website is down, put it in [CachedView](https://CachedView.com) and select "Google Web Cache"
+
+Edit: Grammar, Spelling
+
+url:https://reddit.com/r/YouShouldKnow/comments/bcmu7p/
+author:Adamkadaban
+subreddit:YouShouldKnow
+score:2375
+numComments:47
+isOver18:False
+hasPostBody:True

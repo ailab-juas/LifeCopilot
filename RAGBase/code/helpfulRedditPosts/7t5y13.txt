@@ -1,0 +1,13 @@
+title:
+LPT Many of us use i.e. incorrectly. i.e. means "in other words" and e.g. means "for example".
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/7t5y13/
+author:CRich19
+subreddit:LifeProTips
+score:28586
+numComments:976
+isOver18:False
+hasPostBody:False

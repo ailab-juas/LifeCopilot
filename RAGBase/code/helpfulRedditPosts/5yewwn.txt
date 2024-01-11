@@ -1,0 +1,13 @@
+title:
+YSK many (not all) paywalled links you can just copy/paste into a Chrome incognito mode window to view. Copy link, hit Ctrl+Shift+n, paste link and voila!
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/5yewwn/
+author:hazysummersky
+subreddit:YouShouldKnow
+score:1147
+numComments:49
+isOver18:False
+hasPostBody:False

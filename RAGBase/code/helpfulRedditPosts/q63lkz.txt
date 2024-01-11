@@ -1,0 +1,13 @@
+title:
+LPT: Artists, before you post your art online, crop the picture a little bit so if someone steals your work you will have the complete image as proof that it is your work
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/q63lkz/
+author:[deleted]
+subreddit:LifeProTips
+score:52126
+numComments:954
+isOver18:False
+hasPostBody:False

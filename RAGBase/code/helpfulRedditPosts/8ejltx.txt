@@ -1,0 +1,13 @@
+title:
+YSK that if you right click on your Spotify-playlist you can press 'Create Similar Playlist' to discover new music!
+
+content:
+I think this tip is pretty useful if you are tired of searching for new music. Just click 'Create Similar Playlist' and you will get the same amount of tracks in a brand new playlist.
+
+url:https://reddit.com/r/YouShouldKnow/comments/8ejltx/
+author:listentobellion
+subreddit:YouShouldKnow
+score:4796
+numComments:107
+isOver18:False
+hasPostBody:True

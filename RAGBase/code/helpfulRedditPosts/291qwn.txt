@@ -1,0 +1,20 @@
+title:
+LPT: If you receive a spam text message, forward it to 7726 (SPAM) to report them.
+
+content:
+Legal actions can be effective and remunerative.
+
+
+Many carriers (such as AT&amp;T, T-Mobile, Verizon, and Sprint in the US) allow subscribers to report spam by forwarding the spam messages to short code 7726 ( SPAM)
+
+Spam text messages are unsolicited and generally unwanted commercial advertisements sent to wireless phones via text or picture/video messaging. These unsolicited messages count against your text messaging plan, creating additional concerns.
+
+
+
+url:https://reddit.com/r/LifeProTips/comments/291qwn/
+author:Vkool
+subreddit:LifeProTips
+score:2399
+numComments:178
+isOver18:False
+hasPostBody:True

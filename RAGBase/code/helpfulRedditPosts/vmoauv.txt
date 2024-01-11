@@ -1,0 +1,13 @@
+title:
+LPT: Do not mix cotton with super glue. It can catch fire.
+
+content:
+I was trying to fix one of my shoes with a small dot of super glue when all of a sudden it got hot and started smoking. A quick Google search later, and it turns out that cotton and super glue create a chemical reaction that creates heat and fire. I feel this should be more well known, since both are extremely common household items and they spontaneously combust when mixed together. If you need to start a fire, like in a survival situation, you can start a fire quickly and easily with these.
+
+url:https://reddit.com/r/LifeProTips/comments/vmoauv/
+author:tyrantspell
+subreddit:LifeProTips
+score:7770
+numComments:428
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: If you have to do CPR, keep the beat by singing "Stayin' Alive" (exact rhythm of CPR)
+
+content:
+The link : http://www.msnbc.msn.com/id/27221281/ns/health-heart_health/t/keeping-beat-cpr-hum-stayin-alive/
+
+url:https://reddit.com/r/LifeProTips/comments/14g4od/
+author:drdeteck
+subreddit:LifeProTips
+score:1714
+numComments:628
+isOver18:False
+hasPostBody:True

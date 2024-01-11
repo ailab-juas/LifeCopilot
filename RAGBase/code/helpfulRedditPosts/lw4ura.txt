@@ -1,0 +1,13 @@
+title:
+LPT: If someone asks you an easily Googleable question, it's possible they just want to talk to someone about it.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/lw4ura/
+author:DanielHillSKW
+subreddit:LifeProTips
+score:31339
+numComments:723
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,21 @@
+title:
+YSK that you should NEVER select "recommended setup" when installing software. "Advanced setup" is always the superior option, and here's why.
+
+content:
+This mostly goes for installing software which you have downloaded from the internet. Although, it's beneficial to choose "advanced setup (not recommended)" 99 times out of 100.
+
+Software distributors and creators often get paid to include toolbars, default search engine changes and adware in their software. They essentially force you to install this malware by automatically including it in the "recommended setup."
+
+The term "advanced setup (not recommended)" is used as a ruse to get you to choose the "recommended setup" option, which is vastly inferior. 
+
+When you choose the "advanced setup (not recommended)" it will let you select what you want installed (the software) and what you don't (the malware.) Seems stupid simple, right? That's because it is. It's not an advanced setup. It's the *right* way to setup software. It requires no advanced knowledge, and anyone with half a brain could do it.  
+
+So next time you install software, do your computer and yourself a favor, pick "advanced setup (not recommended.)"
+
+url:https://reddit.com/r/YouShouldKnow/comments/1xk7s0/
+author:Heycallme
+subreddit:YouShouldKnow
+score:2408
+numComments:285
+isOver18:False
+hasPostBody:True

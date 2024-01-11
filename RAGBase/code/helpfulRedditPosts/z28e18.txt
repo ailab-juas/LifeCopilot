@@ -1,0 +1,13 @@
+title:
+YSK when you have contacted a call centre, be careful with what you say if you have been placed on hold, such as things that you do not want the call centre to hear, swear words, etc.
+
+content:
+Why YSK: Assuming the call is being recorded, there is a good chance that anything that you say while on hold is also being recorded.
+
+url:https://reddit.com/r/YouShouldKnow/comments/z28e18/
+author:The-Ant-Whisperer
+subreddit:YouShouldKnow
+score:1320
+numComments:205
+isOver18:False
+hasPostBody:True

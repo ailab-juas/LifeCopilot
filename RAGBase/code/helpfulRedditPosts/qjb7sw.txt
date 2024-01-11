@@ -1,0 +1,13 @@
+title:
+LPT - Nothing is more valuable than your own Health. If you feel your Health is getting affected by your Job, Relationship(s) or anything else, leave it ASAP.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/qjb7sw/
+author:flying_cofin
+subreddit:LifeProTips
+score:13456
+numComments:480
+isOver18:False
+hasPostBody:False

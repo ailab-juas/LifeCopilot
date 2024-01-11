@@ -1,0 +1,27 @@
+title:
+YSK That Your Modern Automobile is Gathering Data About You &amp; It Can Be Used Against You
+
+content:
+Cars made in this century (and a few in the last) have come a long way in terms of technology and capability. Unfortunately, they have also begun tracking you. So-called automobile "Black Boxes" (event data recorders) record and retain speed, braking, steering angle, and [more](https://www.law.cornell.edu/cfr/text/49/563.7) if you are in an accident. Most policing agencies and insurance companies have the tools to access this data. In the case of a civil or criminal court action, this data can be used against you. Unfortunately, it doesn't stop there.
+
+A 2016 white paper estimated that the potential value of the data your car collects about you has a value between $450 - $750 billion dollars.  The auto industry is *very* interested in collecting this money. 
+
+If you signed up for the "little stick" that reduces your auto insurance, you've already agreed to give your data to one company. This data is monetized by the insco already but could also be sold to others.
+
+The issue to decide who actually owns the data hasn't been totally decided, but one court's opinion stated,  “[A]utomobiles are justifiably the subject of pervasive regulation by the State [and e]very operator of a motor vehicle must expect the State, in enforcing its regulations, will intrude to some extent upon that operator’s privacy." (New York v. Class, (475 U.S. 106, 113 (1986))
+
+Just be aware and fight to keep this data private. Otherwise, your car will be like your television...you'll have to agree to THEIR terms (being tracked, monitored, and *sold*) to operate/use the item **you** purchased. 
+
+Read more [here](https://www.consumerreports.org/automotive-technology/who-owns-the-data-your-car-collects/)
+
+Check out the [Electronic Frontier Foundation](https://www.eff.org/about/history) to learn more about technology and privacy.
+
+Why YSK: Most people are not aware of this information and this knowledge could have a significant impact on your life now and even more in the future.
+
+url:https://reddit.com/r/YouShouldKnow/comments/kolv99/
+author:uDontInterestMe
+subreddit:YouShouldKnow
+score:21455
+numComments:1204
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: To save money on groceries, factor in waste. Waste is your largest cost. Don’t buy the large for $2 instead of the medium fir $1.75 if you routinely wind up throwing half away. The “better buy” isn’t better if you don’t routinely use it all.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/n66461/
+author:CaptainRelevant
+subreddit:LifeProTips
+score:1507
+numComments:114
+isOver18:False
+hasPostBody:False

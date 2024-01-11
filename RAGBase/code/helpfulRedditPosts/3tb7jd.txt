@@ -1,0 +1,13 @@
+title:
+LPT: If you have trouble concentrating, try counting words in a book with just your eyes. Treat it as exercise. Start easy, counting the words of just one paragraph. When that becomes easy, count two paragraphs - then a whole page. This will help improve focus and acuity.
+
+content:
+Anecdotal proof- This has helped me immensely
+
+url:https://reddit.com/r/LifeProTips/comments/3tb7jd/
+author:[deleted]
+subreddit:LifeProTips
+score:3601
+numComments:589
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+YSK turning off WiFi/Data before you load a phone game will prevent any advertisements from loading, letting you play without having ads appear every 10 seconds.
+
+content:
+You should know that you can get rid of those annoying game ads that seem to appear every 10 seconds on mobile apps. Many free games are fun, but the ads are ruthless. Forced 15 - 30 second ads, popups between restarts, etc... Sometimes you just want to be able to enjoy the damn game, and if you plan on sitting down for awhile and playing, make sure to turn off WiFi &amp; data.
+
+Edit: Thank you very much for the silver award, I am very grateful!
+
+url:https://reddit.com/r/YouShouldKnow/comments/bonyze/
+author:KingSulley
+subreddit:YouShouldKnow
+score:4011
+numComments:118
+isOver18:False
+hasPostBody:True

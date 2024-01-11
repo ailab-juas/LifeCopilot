@@ -1,0 +1,19 @@
+title:
+LPT: Step back and zoom in if your camera has mechanical optics, your portraits will look more professional.
+
+content:
+By zooming in with mechanical optics, proportions won't end up distorted and exaggerated.
+
+Here's an example of a handgun between a kit lense 18mm-55mm: http://imgur.com/VNUlygD
+
+In order to keep the pistol framed in the photo when using the 55mm end of the lense, I had to step about twice as far away.
+
+Your point and shoot can do similar changes; A Canon Powershot has a range of 6.2-24.8mm for it's built in lense, but with a 1/2.3-inch sensor, the lense has the effect of a ~35-140mm
+
+url:https://reddit.com/r/LifeProTips/comments/4w3pts/
+author:Automobilie
+subreddit:LifeProTips
+score:3393
+numComments:419
+isOver18:False
+hasPostBody:True

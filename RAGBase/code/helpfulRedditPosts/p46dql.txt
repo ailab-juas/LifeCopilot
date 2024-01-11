@@ -1,0 +1,13 @@
+title:
+LPT: If you use the Reddit app on mobile, there are these little arrows on the bottomright to skip straight to the next commentchain. LPT+: If you hold the arrows down, you can move them anywhere on your screen.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/p46dql/
+author:AemiliusH
+subreddit:LifeProTips
+score:36083
+numComments:1493
+isOver18:False
+hasPostBody:False

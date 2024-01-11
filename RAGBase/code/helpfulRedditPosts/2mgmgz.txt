@@ -1,0 +1,19 @@
+title:
+LPT: If two children are fighting over how to divide something, let one child split the thing and let the other choose which share they get.
+
+content:
+Teach them game theory while they learn to share.
+
+
+EDIT: For a general solution with n kids:
+
+The first kid cuts, then the rest take turns choosing a partition and the kid that cuts gets the last remaining partition. If there's an uneven cut then the cutter will always be left with the smallest partition, so the cut will always be in equal n parts.
+
+
+url:https://reddit.com/r/LifeProTips/comments/2mgmgz/
+author:blametheusername
+subreddit:LifeProTips
+score:3182
+numComments:449
+isOver18:False
+hasPostBody:True

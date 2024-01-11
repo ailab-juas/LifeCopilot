@@ -1,0 +1,19 @@
+title:
+YSK that even though it sounds right, "could of" is actually "could've" as in "could have"
+
+content:
+Could've, should've, and would've are the correct written forms of these words. 
+
+I think the confusion comes from the weird contraction "couldn't've" as in "could not have", leading people to "couldn't of".
+
+Why YSK: having good written communication is a huge leg up in the professional sphere, whether in business or academics.
+
+Edit: by "sounds right" I mean that in spoken English the pronunciations are so similar that the mistake isn't audible (at least in some American and Australian accents).
+
+url:https://reddit.com/r/YouShouldKnow/comments/ihakg7/
+author:humdrumdummydum
+subreddit:YouShouldKnow
+score:4458
+numComments:265
+isOver18:False
+hasPostBody:True

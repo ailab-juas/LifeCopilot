@@ -1,0 +1,13 @@
+title:
+LPT: If your roommate's cell phone alarm is going off and he is not in the room, call the phone. It will disable the alarm.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/8kqod1/
+author:mmmikaykay
+subreddit:LifeProTips
+score:9243
+numComments:235
+isOver18:False
+hasPostBody:False

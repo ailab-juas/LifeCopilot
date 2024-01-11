@@ -1,0 +1,13 @@
+title:
+LPT: To listen to music on your phone via YouTube in the background, use the Chrome browser, go to the video, and request desktop site. This will allow you to listen anywhere on the phone.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/93ct4v/
+author:Alpha_29
+subreddit:LifeProTips
+score:35609
+numComments:1434
+isOver18:False
+hasPostBody:False

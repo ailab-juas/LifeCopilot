@@ -1,0 +1,13 @@
+title:
+YSK: You can stop your yawn by placing your finger on your tongue.
+
+content:
+Warning: Only for those that like to live on the edge.
+
+url:https://reddit.com/r/YouShouldKnow/comments/60yusr/
+author:Servimus
+subreddit:YouShouldKnow
+score:1171
+numComments:206
+isOver18:False
+hasPostBody:True

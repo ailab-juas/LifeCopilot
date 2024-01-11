@@ -1,0 +1,13 @@
+title:
+LPT:Before putting your posters up on the wall with sticky tack put some transparent tape on the back of the poster where it will meet the poster to avoid tearing your awesomeness.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/85qycd/
+author:Space_Cadet_1990
+subreddit:LifeProTips
+score:1400
+numComments:30
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: If your drink is ever out of your sight at a party or outing, get a new drink.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/gu8s78/
+author:[deleted]
+subreddit:LifeProTips
+score:1666
+numComments:149
+isOver18:False
+hasPostBody:True

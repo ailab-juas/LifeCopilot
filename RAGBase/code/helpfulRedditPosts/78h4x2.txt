@@ -1,0 +1,29 @@
+title:
+YSK what to do if you witness or approach a vehicle accident involving hazardous materials (tanker trucks, chemical transports, etc.)
+
+content:
+Do you do a lot of driving? Live in a big city with lots of vehicle accidents? Are you someone who would consider helping if you witnessed an accident? YSK what to do if you witness or approach an accident involving hazardous materials. 
+
+**First, DO NOT APPROACH!** When in doubt, stay FAR away from the accident - e.g. several hundred feet. If possible, stay upwind. Do not stop your vehicle in visible vapor clouds. If you are in traffic and can't get away, turn off your a/c, keep your windows rolled up, and don't open your doors. If you are upwind and can't move your vehicle, exit the vehicle (IF IT IS SAFE TO DO SO) and get yourself as far away as possible. Your own safety is the first priority, even if you want to help.
+
+**Second, if first responders have not arrived, call the police and be sure to tell them a hazmat transport is involved.** Describe anything you see, smell, taste, hear, or feel that seems out of the ordinary, e.g. "A tanker truck just overturned in front of me. I smell rotten eggs, and I can see vapor in the air and liquid on the ground." FOLLOW ANY INSTRUCTIONS THEY GIVE YOU.
+
+**Third, attempt to identify the hazard present** (if you're on the phone with police, they will undoubtedly ask if you can see any labels or placards on the truck). Any vehicle carrying large quantities of hazmat will be clearly labeled with placards and numbers. If you google "blue placard 4" or "hazmat 3160," you can get a lot of helpful information about the material and what hazards it poses. 
+
+Also, consider getting the Emergency Response Guidebook, also known as the ERG or the Orange Book. There's also an app for the ERG now. This book is a quick reference guide to what placards and numbers on tanker trucks and other hazmat transports are carrying and what to do if you encounter an unexpected or potential discharge of hazardous materials. It has a very straight forward quick reference in front to identify the chemical(s) on board. Then you can flip to the page about that chemical for a simple, bulleted list of the associated hazards (explosion, ignition, skin damage, poisoning, etc.), what steps to take (including contacting authorities and other relevant agencies - phone numbers in book), and where you should be to keep yourself safe (stay upwind, stay at least 500 feet away, etc.). 
+
+**Fourth, if you are determined to act as a first responder while waiting for the authorities, make sure you are following all safety recommendations for the chemical involved.** When you enter the area of the accident, spend as little time there as possible. Pay careful attention to any new sensations you feel and don't ignore them. If you feel light-headed, sick, dizzy, suddenly stop smelling the chemical, feel lung irritation, or get any other sign the chemical is affecting you, LEAVE. Prioritize getting people out of the area _if they are able to move with assistance_, especially if there's a risk of ignition, explosion, or poisoning by inhalation. Do not stay in the area of the accident to tend unconscious or seriously injured victims. That is the job of police and EMTs. **edit**: As /u/epicog, a firefighter pointed out, trained first responders would all prefer that you simply stay out of the area rather than assisting. I'm leaving this section in the post simply because I think there will always be people who try to help even against sound advice. 
+
+[If you want an example of how quickly your attempt to help can go horribly wrong, here's a video of an officer responding to a hazmat accident without taking proper precautions.](https://youtu.be/lzObhHet9QM) **edit**: Thanks /u/MorphineBear for letting me know this video is staged for a training exercise. That's a big relief because I've been forced to watch it as part of hazmat training about 20 times, and no one has ever known it wasn't real. It's a great educational video just the same. :)
+
+**Finally, never assume that the threat has passed** until authorities say as much. For example, you might hearing gas leaking out of a truck. When the sounds stops and some time passes, you might think the gas has dissipated, but many chemicals are heavier than air and will stay sitting at ground level.  Hazardous materials are not things we should make any assumptions about really. It's best to treat them all with maximum caution. 
+
+**tl;dr** Respect and fear hazmat. Protect yourself first. Notify authorities and let them do their jobs. If you have to take risks, take smart, calculated risks and minimize your exposure.
+
+url:https://reddit.com/r/YouShouldKnow/comments/78h4x2/
+author:SJtheFox
+subreddit:YouShouldKnow
+score:2246
+numComments:90
+isOver18:False
+hasPostBody:True

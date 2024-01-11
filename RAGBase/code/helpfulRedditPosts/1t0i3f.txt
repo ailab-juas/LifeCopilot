@@ -1,0 +1,13 @@
+title:
+YSK that if you microwave dry rice it makes an excellent, reusable alternative to heat packets if put in a sock or mittens.
+
+content:
+[Link to instructions](http://www.yourfleece.com/blog/fleece-mittens-instructographic/)
+
+url:https://reddit.com/r/YouShouldKnow/comments/1t0i3f/
+author:readcommentbackwards
+subreddit:YouShouldKnow
+score:1286
+numComments:135
+isOver18:False
+hasPostBody:True

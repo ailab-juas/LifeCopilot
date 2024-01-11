@@ -1,0 +1,19 @@
+title:
+YSK: Google lens can copy handwritten text
+
+content:
+Why YSK: if you ever want to digitalise notes you've taken but don't want to type everything in or are afraid a scan would be hard to read you could use Google lens. It's not 100% accurate, but the few errors are easy enough to filter out.
+
+It has this function for a while now but it's getting at a level now where it's actually decent.
+
+Besides the copying handwritten text there are also the other functions like,
+
+You can also use it to translate an image really easy. (was really handy when I was fighting with an Croatian parking machine and the instructions were printed on in Croatian). Identify basically anything from a picture. Think plants, bugs, or stuff you see that you'd like to buy. Or look up manuals for machines you come across.
+
+url:https://reddit.com/r/YouShouldKnow/comments/whqony/
+author:patrickdm1998
+subreddit:YouShouldKnow
+score:1465
+numComments:49
+isOver18:False
+hasPostBody:True

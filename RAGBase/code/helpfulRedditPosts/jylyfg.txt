@@ -1,0 +1,19 @@
+title:
+YSK An easy way to remember which months have 31 days is to use your knuckles.
+
+content:
+Hold your fists out next to each other, so your knuckles are facing up and the sides of your hands are touching.
+
+Starting from the left, use your knuckle and the space between each knuckle to count the months. Each month that falls on a knuckle has 31 days. Each month that falls inbetween has 30 (or 29 for february).
+
+This also works if you only have one hand! Simply loop around to the first knuckle. July and August both have 31 days.
+
+Why YSK: I always had trouble remembering this, and the rhyming song never worked for me. But this really clicked and is much more logical.
+
+url:https://reddit.com/r/YouShouldKnow/comments/jylyfg/
+author:BenAdaephonDelat
+subreddit:YouShouldKnow
+score:1913
+numComments:144
+isOver18:False
+hasPostBody:True

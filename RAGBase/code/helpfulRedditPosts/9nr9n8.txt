@@ -1,0 +1,13 @@
+title:
+LPT: When downloading a PDF on Chrome that you only need a few pages of, use the Print option instead of the Save option. Print has a “Save to PDF” mode, and allows you to select only the relevant pages.
+
+content:
+Edit: First, to everybody saying that this converts the file to an image - thanks, I didn’t know this! Second, if you’re asking why one would do this, sometimes you need to send one page of a document to someone and don’t want to go through the process of downloading, finding a website to extract a page, reuploading, processing, then redownloading. Or downloading a massive PDF splitting program so you can split your one file.
+
+url:https://reddit.com/r/LifeProTips/comments/9nr9n8/
+author:Paralyzoid
+subreddit:LifeProTips
+score:19670
+numComments:227
+isOver18:False
+hasPostBody:True

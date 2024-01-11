@@ -1,0 +1,13 @@
+title:
+Make a CD case from a single piece of paper
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/v9up7/
+author:normalize
+subreddit:LifeProTips
+score:3828
+numComments:266
+isOver18:False
+hasPostBody:False

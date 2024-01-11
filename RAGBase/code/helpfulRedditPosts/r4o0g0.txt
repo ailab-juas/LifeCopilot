@@ -1,0 +1,15 @@
+title:
+LPT: Inkjet printers are a scam. Any printer that uses ink instead of toner is ripping you off and wasting your money. Investing in a laser printer will save you money in the long run.
+
+content:
+Printers using ink cartridges take your money in more ways than one. Some manufacturers even separate their ink into regular black, and photograph black. But even if you print in greyscale, it will use your color inks *and* your photograph black to print in black in white. Also ink cartridges are chipped to read empty even when their contents still contain ~20% of their ink. After which the printer will refuse to print. 
+
+Do yourselves the favor of investing in laser now. Toner will get you more pages per dollar in the long run, hands down.
+
+url:https://reddit.com/r/LifeProTips/comments/r4o0g0/
+author:Miamiborn
+subreddit:LifeProTips
+score:1291
+numComments:163
+isOver18:False
+hasPostBody:True

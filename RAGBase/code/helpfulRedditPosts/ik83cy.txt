@@ -1,0 +1,13 @@
+title:
+LPT: Whenever you take something apart to fix it, always take pictures before removing any fasteners or parts.
+
+content:
+These can prove invaluable when putting it back together.
+
+url:https://reddit.com/r/LifeProTips/comments/ik83cy/
+author:DonkeyTron42
+subreddit:LifeProTips
+score:1404
+numComments:40
+isOver18:False
+hasPostBody:True

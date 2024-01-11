@@ -1,0 +1,29 @@
+title:
+YSK: As a contractor, if you get a lead that says they will pay you to give them a quote on their property while they're out of town or the country, it's likely a scam.
+
+content:
+How it works is they will give you an address (usually of a vacant property) and say they need a quote to paint, or fix something.
+
+They will offer to pay you for your time. As most contractors give out free estimates, this is an alluring offer. You may be suspicious of it, so they will give you a card to run upfront. The money will go through. You go do the estimate.
+
+Then shortly after, they will request a refund of whatever they paid you; usually using some sob story, e.g. my mother passed away, house flooded, car broke down, etc.. as it wasn't all that much money to begin with, and you usually dont get paid for estimates, many will give the money back.
+
+If you refund them, that's when they got you.
+
+In a couple days, the bank will reverse the original charge to their card - identifying it as fraudulent - but your "refunded" money will also be gone.
+
+Now you may think that no one would fall for this. It happens *all the time*. Many contractors are older, and sole proprietors. This makes them a very easy target for this, and other scams. 
+
+My former business partner, a 30 year contractor, who retired at 77 years old, would constantly fall prey to these and other scams. We had to make sure he didn't answer the phone anymore. As they never go after more than a few hundred dollars, most people don't go through the effort of doing something about it; it would cost more than you'd ever get back.
+
+If you, or someone you know (particularly if they belong to the previous working generation) operate in this industry, educate them on these types of scams and how to not be taken advantage of.
+
+This may be a very small niche and not get much attention, but I feel it's important that people know about it. If one person can avoid a scam from reading this, I'll be happy.
+
+url:https://reddit.com/r/YouShouldKnow/comments/grk8nq/
+author:southwoodhunter
+subreddit:YouShouldKnow
+score:3921
+numComments:51
+isOver18:False
+hasPostBody:True

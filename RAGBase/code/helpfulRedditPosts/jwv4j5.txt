@@ -1,0 +1,23 @@
+title:
+LPT: If you have a foam mattress, check to see if it contains fiberglass. If it does, do not remove the cover under any circumstances as it will release shards/threads everywhere and possibly cause thousands of dollars in damages to your home and belongings
+
+content:
+Foam mattresses are popular for a reason but some of them use fiberglass as a fire retardant. I only found out while browsing LegalAdvice and came across multiple threads about people having their entire home/apartment covered in the sharp threads.
+
+[News article](https://www.kmov.com/news/news-4-investigates-the-danger-lurking-in-your-mattress/article_2bb77cc2-4eb7-11ea-b4c6-0319ba20d45f.html)
+
+https://np.reddit.com/r/legaladvice/comments/jwp02q/fiberglass_bed_cover_ruined_thousands_of_dollars/
+
+https://np.reddit.com/r/legaladvice/comments/jmapk5/ny_fiberglass_threads_from_mattress_cover_ruined/
+
+It also seems like mattresses can leak fiberglass without being damaged at all:
+
+https://np.reddit.com/r/Mattress/comments/a9ju7n/fiberglass_cover_real_issue_or_non/egzxlg1/
+
+url:https://reddit.com/r/LifeProTips/comments/jwv4j5/
+author:Erigion
+subreddit:LifeProTips
+score:16007
+numComments:766
+isOver18:False
+hasPostBody:True

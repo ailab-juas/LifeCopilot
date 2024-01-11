@@ -1,0 +1,13 @@
+title:
+LPT;If you're at a hotel and run out of chargers, the tv usually has a usb plugin.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/wtlq7/
+author:Mcahneriii
+subreddit:LifeProTips
+score:1272
+numComments:141
+isOver18:False
+hasPostBody:False

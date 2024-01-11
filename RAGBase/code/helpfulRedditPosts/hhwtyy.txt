@@ -1,0 +1,13 @@
+title:
+LPT: Never assume someone operating heavy equipment can see you.
+
+content:
+If someone is using something like a forklift to move large heavy don't walk in front of or around them. Just keep your distance, let them pass, or just move out of their way.
+
+url:https://reddit.com/r/LifeProTips/comments/hhwtyy/
+author:Scottyboy1214
+subreddit:LifeProTips
+score:1047
+numComments:77
+isOver18:False
+hasPostBody:True

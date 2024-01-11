@@ -1,0 +1,15 @@
+title:
+YSK when telling someone “let me know if you need anything”, it’s best to instead offer to do a specific thing you know would be helpful.
+
+content:
+Why YSK: Many people struggle to ask for help and if they’re already overwhelmed, they might not know where to start.
+
+I’ve tried to say things like, can I come over and help fold or hang up laundry, or can I bring you dinner tomorrow, I’ll pick you up a coffee in the morning, can I pick the kids up for school, etc.
+
+url:https://reddit.com/r/YouShouldKnow/comments/xmg3vf/
+author:cakelover33
+subreddit:YouShouldKnow
+score:5808
+numComments:127
+isOver18:False
+hasPostBody:True

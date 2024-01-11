@@ -1,0 +1,13 @@
+title:
+LPT: If you're in an unfamiliar area, take a photo of the street/car park you've parked in, that way you wont spend ages looking for it when you return.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5m126m/
+author:TheGeordieOne
+subreddit:LifeProTips
+score:1282
+numComments:89
+isOver18:False
+hasPostBody:False

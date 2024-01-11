@@ -1,0 +1,13 @@
+title:
+Drowning Doesn’t Look Like Drowning
+
+content:
+[Great article from Slate](http://www.slate.com/articles/health_and_science/family/2013/06/rescuing_drowning_children_how_to_know_when_someone_is_in_trouble_in_the.html), worth a read
+
+url:https://reddit.com/r/YouShouldKnow/comments/1fqfhg/
+author:asshat_backwards
+subreddit:YouShouldKnow
+score:1869
+numComments:204
+isOver18:False
+hasPostBody:True

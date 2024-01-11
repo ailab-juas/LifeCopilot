@@ -1,0 +1,23 @@
+title:
+LPT: If you shop frequently at Target, any clearance price that ends in $.08 will be marked down again. Prices that end in $.04 indicates the lowest it will be.
+
+content:
+Their markdown schedule:
+
+**Monday**: Baby and Kids Clothing and Electronics
+
+**Tuesday**: Decor, Women”s Apparel, Diapers and Pets
+
+**Wednesday**: Men’s Apparel, Food, Health &amp; Beauty, Lawn &amp; Garden
+
+**Thursday**: Shoes, Housewares, Lingerie and Toys
+
+**Friday**: Jewelry, Cosmetics and Home Improvement
+
+url:https://reddit.com/r/LifeProTips/comments/6lljjt/
+author:RivyGucci
+subreddit:LifeProTips
+score:3352
+numComments:104
+isOver18:False
+hasPostBody:True

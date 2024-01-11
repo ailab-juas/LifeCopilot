@@ -1,0 +1,13 @@
+title:
+YSK: The Windows calculator can also be used to perform unit conversions, calculate time, dates, and generate statistics.
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/1acujw/
+author:blasto06
+subreddit:YouShouldKnow
+score:1424
+numComments:65
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: When somebody is giving you a ride, you have to wait for them, not them for you.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/u50ile/
+author:wanf_777
+subreddit:LifeProTips
+score:8711
+numComments:328
+isOver18:False
+hasPostBody:False

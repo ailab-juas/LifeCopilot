@@ -1,0 +1,13 @@
+title:
+LPT: If your boss tells you off for something you've done wrong, don't make excuses. Say you're sorry and that you'll be more careful in the future.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/4gyvio/
+author:pdusky
+subreddit:LifeProTips
+score:3950
+numComments:1516
+isOver18:False
+hasPostBody:False

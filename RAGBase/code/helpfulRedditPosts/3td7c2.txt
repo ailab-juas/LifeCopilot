@@ -1,0 +1,38 @@
+title:
+YSK that many utility companies will give you hundreds of dollars worth of efficient lighting, shower heads, faucet aerators, and/or other technology for free
+
+content:
+The title pretty much says it. Most will also offer a free (or cheap, depending on the company) energy checkup, rebates for installing efficient appliances, and rebates for recycling old appliances, among other things. 
+
+I just signed up for a *free* "Energy Saver Kit" through the Energy Trust of Oregon that contained: 
+
+* 8 100w-equvalent standard LEDs
+* 4 recessed LEDs
+* 2 high-efficiency showerheads
+* 4 low-flow faucet aerators
+
+A single 100 watt equivalent LED will run you about $14 on Amazon, the recessed ones are even more expensive, and showerheads/aerators aren't exactly cheap either. You do the math. 
+
+Obviously promotions will very depending on where you live. Here are some of the obvious utilities/affiliates around the country. 
+
+* [Energy Trust of Oregon](https://energytrust.org/residential/free-your-home/) for the Portland/Vancouver area.
+* [Duke Energy](https://www.duke-energy.com/FreeCFLs/)
+* [PG&amp;E](http://www.pge.com/includes/docs/pdfs/myhome/edusafety/teach/energenius/HEES.pdf)
+* [DP&amp;L (discounts and rebates)](http://www.dpandl.com/save-money/residential/lighting-discounts-for-your-home/)
+* [Seattle City Light](http://www.seattle.gov/light/freebulb/)
+* [Fort Collins Utilities (I can only find rebates here)](http://www.fcgov.com/utilities/residential/conserve/rebates-programs/)
+
+The list goes on... I'm sure you get the idea. If your utility isn't listed, it's not because it doesn't offer this, it's just because I got lazy. 
+
+Try entering something like "[your utility] free light bulbs" into Google and see what comes up. Also try seeing if your area has an "energy trust" that administers this program, like the Energy Trust of Oregon for the Portland area. 
+
+And don't get discouraged if yours doesn't offer this right now. A lot of utilities do this on a rolling basis so they can run studies about adoption. Don't forget to check for rebates as well. 
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/3td7c2/
+author:twenafeesh
+subreddit:YouShouldKnow
+score:3460
+numComments:211
+isOver18:False
+hasPostBody:True

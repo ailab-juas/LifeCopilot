@@ -1,0 +1,13 @@
+title:
+LPT: recently, some automated customer service phone lines won’t let you speak to a person and insist you talk to the machine like a person instead. If you say nonsense words like “meep morp blerf norb” over and over it registers as you needing to talk to a person, and transfers you.
+
+content:
+I was in an infinite loop on a certain Bezos related help line, asking to speak to a representative numerous times and having the automation insist I ask it my questions as If it was a person, which I did, and it was unhelpful- the only way I figured out how to get a person on the line was to make robot noises with my mouth.
+
+url:https://reddit.com/r/LifeProTips/comments/p6dbc3/
+author:uphill_iceskating_mf
+subreddit:LifeProTips
+score:25411
+numComments:884
+isOver18:False
+hasPostBody:True

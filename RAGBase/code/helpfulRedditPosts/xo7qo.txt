@@ -1,0 +1,13 @@
+title:
+LPT: How to smell your own breath.
+
+content:
+Lick your wrist, wait 10 seconds, then smell it. That's what your breath smells like.
+
+url:https://reddit.com/r/LifeProTips/comments/xo7qo/
+author:Locktrap
+subreddit:LifeProTips
+score:1008
+numComments:519
+isOver18:False
+hasPostBody:True

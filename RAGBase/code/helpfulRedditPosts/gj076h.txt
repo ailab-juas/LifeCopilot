@@ -1,0 +1,13 @@
+title:
+YSK: Lots of youtubers swear and use copyrighted music and still get monetised, what they do is turn off captions. The algorithm never detects it..
+
+content:
+[deleted]
+
+url:https://reddit.com/r/YouShouldKnow/comments/gj076h/
+author:[deleted]
+subreddit:YouShouldKnow
+score:5436
+numComments:134
+isOver18:False
+hasPostBody:True

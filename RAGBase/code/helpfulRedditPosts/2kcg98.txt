@@ -1,0 +1,13 @@
+title:
+LPT: Vote early, if your state allows it. You can skip the line, many states have weekend hours, and if there are any issues (e.g. ID complications), you'll have time to address them. Check your local board of elections for details.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/2kcg98/
+author:pateras
+subreddit:LifeProTips
+score:1403
+numComments:271
+isOver18:False
+hasPostBody:False

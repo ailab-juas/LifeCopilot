@@ -1,0 +1,32 @@
+title:
+LPT: Slow loading Downloads folder in Windows even on a premium SSD, here's one quick fix that will save you a lot of frustrations
+
+content:
+**THIS FOR WINDOWS x64/x86 OS's ONLY**
+
+Steps:
+
+1. Right click on the Downloads folder
+2. You should see a dialog box pop out, go to the Customize tab on the said dialog box
+3. There should be a drop down box with a label "Optimize the folder for:", change the Setting of that drop down box to General Items
+4. Click Okay, enjoy the speed of the quick loading Downloads folder
+
+**NOTE:** Windows will re-categorize the Downloads folder to Pictures again (in some undetermined amount of time) so check that setting once in a while if you notice that your Downloads folder takes a long time to load.
+
+**EDIT:**
+Yep this is indeed just a quick "duct-tape-fix", a more formal or proper way of fixing it is to organize your files in separate folders as noted by /u/nontheistzero's [**comment**](https://www.reddit.com/r/LifeProTips/comments/3zuwcb/lpt_slow_loading_downloads_folder_in_windows_even/cyp9kqx)
+
+and a another LifeProTip to automatically organize your files in your Download folder is to get a 3rd party download manager like [IDM](https://www.internetdownloadmanager.com/) which saves recognized file types into its corresponding folder, you can also customize this setting to your own liking.
+
+**EDIT 2:**
+I have realized that the root of my Downloads folder has literally only 84 Files on it, **5 files which are Pictures** rest mostly executable and compressed files then very few text files, some downloaded files got organized by IDM (when I decided to start using it) I still don't see any reason why it has to load so slow, the only huge media file that requires generating of thumbnails is some 1 minute 1080p video, and on top of that I am using an ultrabook which has a fast SSD (480mb/s read) so I could say /u/nontheistzero's suggestion didn't work out for me after all
+
+I *think* it might have been the **executable files and Windows trying to get the highest possible quality icons ** (since it is set as optimized for Pictures) which is causing the huge slowdown.
+
+url:https://reddit.com/r/LifeProTips/comments/3zuwcb/
+author:trettet
+subreddit:LifeProTips
+score:2103
+numComments:340
+isOver18:False
+hasPostBody:True

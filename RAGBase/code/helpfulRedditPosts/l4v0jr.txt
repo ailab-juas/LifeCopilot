@@ -1,0 +1,13 @@
+title:
+LPT: Use a yard sign and window stickers for a different alarm system company than the one you have. This ensures burglars will not have the proper information to defeat your system.
+
+content:
+Full disclosure: I learned this from LockPickingLawyer.
+
+url:https://reddit.com/r/LifeProTips/comments/l4v0jr/
+author:Cupcake-Warrior
+subreddit:LifeProTips
+score:1340
+numComments:98
+isOver18:False
+hasPostBody:True

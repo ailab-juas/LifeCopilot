@@ -1,0 +1,13 @@
+title:
+YSK that unlimited phone plans aren't truly unlimited
+
+content:
+Why YSK this is so you can figure out what you need . while it may vary from provider lots of the big Phone service providers love using the term unlimited while technically it is its complete bs. Do you have a "Unlimited" data plan but after about 22gb, 45gb, or 90gb you seem to always get a text saying you've have used 90% of your data plan and after you reached 100% your speed will slow to 128kbps. If you don't know 128 kbps is roughly 2x the speed of dial up internet which is unusable for todays needs . So moral of the story if you use netflix, youtube, or any internet driven service on your phone for hours a day make sure you go for the highest gb "unlimited" plan so you don't get frustrated that you can't even load a YouTube video a week in a half after you paid your bill.
+
+url:https://reddit.com/r/YouShouldKnow/comments/vbrlbf/
+author:judahmumey89
+subreddit:YouShouldKnow
+score:1141
+numComments:200
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,20 @@
+title:
+LPT: Save your data plan by caching videos while on WiFi for offline viewing in the official Youtube app for Android.
+
+content:
+Go to settings &gt; 'preload watch later'
+
+You can then then 'add to &gt; watch later' to cache any video you want.
+Very useful if you have a limited data plan and want access to a few videos to watch\listen to while at work or traveling.
+
+You can also preload you subscriptions, but I have a lot of subs and therefore prefer to pick individual videos.
+
+Edit: I should clarify the app does need to connect to sign in YouTube before playing if you aren't already, and to check the video is available, increment the views counter etc. but the video itself plays locally. Not 100% offline but very useful.
+
+url:https://reddit.com/r/LifeProTips/comments/1jpmj3/
+author:Slanderous
+subreddit:LifeProTips
+score:1011
+numComments:96
+isOver18:False
+hasPostBody:True

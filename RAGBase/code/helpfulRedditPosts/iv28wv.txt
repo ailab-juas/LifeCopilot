@@ -1,0 +1,13 @@
+title:
+LPT: When you are buying books and reading the reviews on the cover - check if they are praising the writer or the book. If they only praise the writer and there is nothing about the specific book, it's probably not the writers best work.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/iv28wv/
+author:llamazaresj
+subreddit:LifeProTips
+score:3882
+numComments:68
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: If you feel like you don't have the courage to do something, always think about previous big steps that you've taken . In most cases there was a point where you just went 'fuck it' and did it.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5o47ez/
+author:earth-sigh-and-tist
+subreddit:LifeProTips
+score:1293
+numComments:43
+isOver18:False
+hasPostBody:False

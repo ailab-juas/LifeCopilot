@@ -1,0 +1,13 @@
+title:
+LPT: When you are teaching someone HOW to do something you should also spend a lot of time explaining WHY you are doing it a certain way because the WHY helps the person remember the HOW.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/oq9xt6/
+author:Habanero_Eyeball
+subreddit:LifeProTips
+score:38332
+numComments:644
+isOver18:False
+hasPostBody:False

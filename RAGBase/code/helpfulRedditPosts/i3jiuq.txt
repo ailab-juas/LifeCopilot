@@ -1,0 +1,17 @@
+title:
+YSK that i.e. and e.g. are not interchangeable
+
+content:
+This happens all the time where people misuse these two expressions. 
+
+When you want to provide examples, e.g. is appropriate. So it’s correct to say “There were many fruits (e.g. lemons and apples),” but not to say “(i.e. lemons and apples).” i.e. is correctly used only when the thing after the i.e. is exactly what you’re referring to. So “he ate his two favorite fruits (i.e. lemons and apples),” is correct. And “(e.g. lemons and apples)” would not be correct. Lemons and apples aren’t *examples* of his two favorite fruits, they *are* his two favorite fruits. 
+
+I know this sounds pedantic but it can lead to a ton of confusion since the two expressions mean fairly different things.
+
+url:https://reddit.com/r/YouShouldKnow/comments/i3jiuq/
+author:mysuperusername7689
+subreddit:YouShouldKnow
+score:37345
+numComments:922
+isOver18:False
+hasPostBody:True

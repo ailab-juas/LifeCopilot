@@ -1,0 +1,13 @@
+title:
+YSK: $2 bills are still printed by the US government and you can get them from any bank.
+
+content:
+Most people I've encountered didn't realize this. They are great for tipping and always seem to make anyone's day when you give them one!
+
+url:https://reddit.com/r/YouShouldKnow/comments/b7uqg6/
+author:captainsparrow11
+subreddit:YouShouldKnow
+score:5417
+numComments:447
+isOver18:False
+hasPostBody:True

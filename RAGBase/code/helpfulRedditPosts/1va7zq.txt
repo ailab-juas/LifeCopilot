@@ -1,0 +1,15 @@
+title:
+YSK you can press Tab while renaming a file in Windows 7 to start renaming the next
+
+content:
+[Demo!](http://lifehacker.com/5597035/rename-files-fast-with-the-tab-key)
+
+YSAK to hit F2 to start renaming a file. But you already did didn't you?
+
+url:https://reddit.com/r/YouShouldKnow/comments/1va7zq/
+author:notjosh
+subreddit:YouShouldKnow
+score:1570
+numComments:77
+isOver18:False
+hasPostBody:True

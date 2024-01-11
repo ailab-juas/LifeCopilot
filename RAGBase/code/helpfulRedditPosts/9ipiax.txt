@@ -1,0 +1,13 @@
+title:
+LPT: If you spot a cockroach larger than 1 inch inside of your house, it's an outside cockroach that found its way in. If you find a cockroach under 1 inch long, it's a cockroach that lives in your home and likely has plenty of buddies.
+
+content:
+Edit: This applies mostly to North American homes, our house-dwelling cockroaches aren’t very large
+
+url:https://reddit.com/r/LifeProTips/comments/9ipiax/
+author:Cicularus
+subreddit:LifeProTips
+score:37234
+numComments:1518
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Microwaves work much better on half power for twice as long
+
+content:
+A lot of people complain about microwaves; and I used to feel the same way, until I started doing this. Many foods heat up great by simply using 50% power with twice as much time.
+
+url:https://reddit.com/r/LifeProTips/comments/snrihp/
+author:call-me-GiGi
+subreddit:LifeProTips
+score:3311
+numComments:314
+isOver18:False
+hasPostBody:True

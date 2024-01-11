@@ -1,0 +1,13 @@
+title:
+LPT: If you buy ground beef in bulk and freeze it, repackage it in serving-sized plastic baggies and completely flatten them. They'll stack nicely in your freezer and the larger surface area will allow them to thaw more rapidly when you need them.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/atxvhv/
+author:ByrneItWithFire
+subreddit:LifeProTips
+score:22887
+numComments:802
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,34 @@
+title:
+LPT: There are other search engines than Google's. You can choose to protect your privacy or plant trees while you search.
+
+content:
+Some of my personal choices in alphabetical order:
+
+[Duckduckgo](https://duckduckgo.com/) doesn't track you, simple as that. Downside is that it doesn't know you, your preferences and so on. But that's kind of the point.
+
+[Ecosia](https://www.ecosia.org/) plants trees. Based on Bing. Has been my personal choice for years. Sometimes when I'm not satisfied by the search results I type in #g to be redirected to Google, which in my experience is very seldom more fruitful.
+
+[Google scholar](https://scholar.google.com/) is quite useful in academics. If you're not sure how to cite a source in e.g. APA-style, Google scholar helps you out.
+
+[WolframAlpha](https://www.wolframalpha.com/) is supposed to be really good for answering (numerical) questions. Plots functions which is nice. Haven't used it much for some reason.
+
+There are many other alternatives, so if you know some specific search engines that you find helpful, please let us know in the comments!
+Wikipedia also has a great [list](https://en.wikipedia.org/wiki/List_of_search_engines).
+
+Another matter is Google translate. Depending on your language it can be less than perfect. [DeepL](https://www.deepl.com/translator) does neural machine translation and has much better results. It only translates Dutch, English, French, German, Italian, Japanese, Polish, Portuguese, Russian, and Spanish. It's pretty good at translating English to German and vice versa. I don't have a clue how the performance is in other languages though. Let me know if there has been some kind of breakthrough in translating Finnish.
+
+Shouldn't forget maps. Google has great satellite images and street view. [Bing](https://www.bing.com/maps/) often has better aerial views. Check out if there are better local resources that have e.g. topographic maps which are just on another level, especially if you hike or are prone to getting lost in the woods. Get a compass while you're at it. I love maps in general btw. So [OpenStreetMap](https://www.openstreetmap.org) has to be mentioned. It's collaborative and non-commercial. Check it out and help to make it more precise locally!
+
+English isn't my first language, and I'm also a grammarnazi, so please point out any mistakes that I made. +Shoutout to the Ask Jeeves crew! Yes, you are old, but maybe a bit wiser too. :)
+
+EDIT: Oh my, over a thousand comments now, can't interact with everyone anymore. Thanks to everybody that has joined this discussion! To address a few concerns about me basically advertising for Ecosia. That's a valid critique, and now I feel a bit naive about well, kind of advertising for them. Commenters have come to my rescue in a way by confirming (with sources) that it is indeed a legitimate enterprise that uses the money they make to fund others that plant trees. Don't believe me, check it out yourself. I'm not their freaking spokesperson. I genuinely like to use it, and that crept into my post and maybe it shouldn't have. We have to live with that now. Oh, and their tree count is approximate. Go and count the trees at their different projects and update the database if that bothers you so much.
+
+Next! Basically every online translator engine uses neural machine translation. WolframAlpha is not a search engine, but a computational knowledge engine, which understandably is a bit different to the former concept. What else? Oh, I actually was about to include bing/videos (for your preferred sexual practices), but left it out because I wasn't sure if it is still relevant. According to some commenters it is. So happy masturbating to everyone! Anyway, there haven't been many comments about alternatives, in search engines is what I mean. I would have made a list, but the wiki list above is pretty extensive anyway. I have to say that I'm amazed that my little thought has sparked such a great and civil discussion amongst you guys. Lots of love to all of you! Be critical, choose your search engine wisely, and don't listen to what I say.
+
+url:https://reddit.com/r/LifeProTips/comments/irgh41/
+author:fliptrip
+subreddit:LifeProTips
+score:43988
+numComments:1250
+isOver18:False
+hasPostBody:True

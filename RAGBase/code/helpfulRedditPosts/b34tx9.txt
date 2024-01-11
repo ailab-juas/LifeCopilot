@@ -1,0 +1,13 @@
+title:
+YSK The AllSides website shows articles from left, right, and center news sources on the SAME topics. News sources are voted on by users.
+
+content:
+[AllSides.com](https://www.allsides.com/unbiased-balanced-news) shows articles from left, right, and center news sources on the SAME topics. You can get a range of what "the other side" thinks about topics.  News sources are voted on by users. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/b34tx9/
+author:Tettamanti
+subreddit:YouShouldKnow
+score:1072
+numComments:63
+isOver18:False
+hasPostBody:True

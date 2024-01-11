@@ -1,0 +1,13 @@
+title:
+LPT: If you get a haircut you like, take a picture of yourself so you can show it next time you go get a haircut.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/2r96i1/
+author:m1lkstar
+subreddit:LifeProTips
+score:2194
+numComments:266
+isOver18:False
+hasPostBody:False

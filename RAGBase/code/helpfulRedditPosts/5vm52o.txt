@@ -1,0 +1,13 @@
+title:
+LPT: If your lettuce has wilted, don't throw it away. Submerge it in water and leave in the fridge overnight, it will get crispy again.
+
+content:
+Works for soft carrots too.
+
+url:https://reddit.com/r/LifeProTips/comments/5vm52o/
+author:vseznayka
+subreddit:LifeProTips
+score:1582
+numComments:135
+isOver18:False
+hasPostBody:True

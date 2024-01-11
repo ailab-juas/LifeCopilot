@@ -1,0 +1,13 @@
+title:
+LPT: Write every email as if they will get forwarded on to the CEO.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5fbvdg/
+author:larebareblog
+subreddit:LifeProTips
+score:19056
+numComments:1138
+isOver18:False
+hasPostBody:False

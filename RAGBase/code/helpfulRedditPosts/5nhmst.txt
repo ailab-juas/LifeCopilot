@@ -1,0 +1,23 @@
+title:
+YSK: There is a genealogy website that most likely provides much of you and your family's private information to the general public. You can and should easily opt out of it.
+
+content:
+The website is https://familytreenow.com
+
+&amp;nbsp;
+
+It displays information about people including your full name, age, year of birth, current and past addresses, and family members to anybody who wants to look you up.
+
+Luckily it's pretty easy to get your information off the site, read this link for more info:
+
+http://fox61.com/2017/01/11/wethersfield-police-issue-warning-on-genealogy-scam/
+
+EDIT: This only applies to people who live in the US!
+
+url:https://reddit.com/r/YouShouldKnow/comments/5nhmst/
+author:flixnwine
+subreddit:YouShouldKnow
+score:6183
+numComments:571
+isOver18:False
+hasPostBody:True

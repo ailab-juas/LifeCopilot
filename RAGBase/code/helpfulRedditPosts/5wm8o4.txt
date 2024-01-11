@@ -1,0 +1,13 @@
+title:
+LPT: When you go to the zoo, wear the same colors as the employees do. The animals will come right up to you instead of backing away.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5wm8o4/
+author:mattsl
+subreddit:LifeProTips
+score:2031
+numComments:132
+isOver18:False
+hasPostBody:False

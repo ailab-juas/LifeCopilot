@@ -1,0 +1,13 @@
+title:
+LPT: If a question seems stupid, it's because you know the answer. That's why they're asking you.
+
+content:
+The title says it all.
+
+url:https://reddit.com/r/LifeProTips/comments/60mzgm/
+author:iBurana
+subreddit:LifeProTips
+score:1131
+numComments:69
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,28 @@
+title:
+YSK you can use Google's image search to check advert listings are legit
+
+content:
+Google's image search is a very clever tool allowing you to upload a picture that it processes and tells you what the image is depicting. (You do this by clicking on the camera icon on the Google images page and uploading an image or url)
+
+It will also show the most similar images out there on the web to give you more examples of them. Often it will find exactly the same image showing you where else it is hosted.
+
+You can use this to check if a listing e.g. a console, is potentially a scam. 
+
+
+Take a targeted screen shot (win+shift+s) of the image(s) used in the listing. Save the image.
+
+Upload it to Google image search using the camera icon, then search
+
+Check from the results to if the image is hosted anywhere else, like another listing site. It is particularly suspicious if the image turns out to be a stock photo, or if it is from weeks or months ago. 
+
+If there are ongoing adverts on other listing sites with the same image it is more likely they are using multiple sites to advertise.
+
+Note: sometimes people are lazy and just can't be bothered to take a picture of their item and use a stock photo. You might want to ask them to send a picture of their own item with a date/receipt if they have one to show it's legit.
+
+url:https://reddit.com/r/YouShouldKnow/comments/fvxx1x/
+author:dbeer95
+subreddit:YouShouldKnow
+score:5217
+numComments:55
+isOver18:False
+hasPostBody:True

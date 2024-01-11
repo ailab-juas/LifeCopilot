@@ -1,0 +1,15 @@
+title:
+YSK There's free online courses available, and you can get certification from some of them for $40
+
+content:
+https://www.coursera.org/
+
+I haven't tried it out myself but I've heard it's pretty good. If anyone who's used it wants to second that please do.
+
+url:https://reddit.com/r/YouShouldKnow/comments/1me9el/
+author:m33rkat
+subreddit:YouShouldKnow
+score:1364
+numComments:126
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+YSK: Thieves are using Bluetooth scanners to find valuable electronic devices left in parked cars.
+
+content:
+Why YSK?  Your car will be less likely to be broken into if there are no electronics like laptops or cell phones transmitting Bluetooth signals.
+
+url:https://reddit.com/r/YouShouldKnow/comments/qlmox1/
+author:DonkeyTron42
+subreddit:YouShouldKnow
+score:12443
+numComments:457
+isOver18:False
+hasPostBody:True

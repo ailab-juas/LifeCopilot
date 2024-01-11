@@ -1,0 +1,19 @@
+title:
+YSK that if you're having transmission issues (especially slipping gears), a transmission flush or fluid service will NOT help you.
+
+content:
+Any service center that tries to sell you a flush or a fluid service as a way to fix transmission issues is at best ignorant and at worst malicious. If your transmission is slipping your clutch material is already worn away and free floating in your fluid which still gives the worn clutches *something* to grab onto, flushing that material out and filling your transmission with clean fluid will only worsen gear slippage. 
+
+The ugly truth is nothing will stop a worn transmission from slipping except an overhaul. 
+
+Transmission fluid services are a preventative maintenance item. Not a "fix" for anything.
+
+I see this all too often, and people are often perplexed that their transmission woes weren't solved by the shop that offered a flush service as a quick way to make 150-300$. It is a predatory practice that preys upon the consumer who doesn't know any better. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/b2n3nx/
+author:Mokobug
+subreddit:YouShouldKnow
+score:2149
+numComments:206
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+LPT: If your car turn signal starts blinking more rapidly than normal, there’s a good chance an indicator on that side has burnt out.
+
+content:
+The electrical resistance (ohms) in the circuit reduces when a bulb burns out, and the mechanical switch relies on a specific total resistance to function as designed. 
+The way it works is the current flowing through the switch slowly heats a stressed metal strip, causing it to bend away from the contact, breaking the circuit, and completing the circuit once cooled and touching the contact, repeatedly until the switch is turned off.  Decreased resistance increases the current (amps) and causes the metal to heat a smaller area, faster, so the switch cycles at a higher rate.  This isn’t true for all cars, because some manufacturers have stopped using mechanical switches and the clicking sound plays through a speaker.  
+The higher rate can also be a result of LED replacements for incandescent bulbs  due to insufficient resistance, and can be remedied with an inline resistor
+
+url:https://reddit.com/r/LifeProTips/comments/jeg4xh/
+author:oshaghennessey
+subreddit:LifeProTips
+score:5036
+numComments:189
+isOver18:False
+hasPostBody:True

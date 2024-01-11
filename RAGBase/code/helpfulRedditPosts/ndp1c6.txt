@@ -1,0 +1,13 @@
+title:
+LPT for any student out there struggling to formulate their answers is to divide their answers in to three different sections of 1. Factual statements. 2. Your opinion/author's opinion on it. 3. One or two examples depending on the type of question.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/ndp1c6/
+author:[deleted]
+subreddit:LifeProTips
+score:1113
+numComments:70
+isOver18:False
+hasPostBody:True

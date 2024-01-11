@@ -1,0 +1,21 @@
+title:
+LPT: Chop onions without crying
+
+content:
+I saw [this post](http://www.reddit.com/r/tifu/comments/2xgt9v/tifu_by_chopping_onions_in_lingerie/) a few minutes ago, and was inspired to share this trick from my father (and his father before him, and so on, presumably):
+
+Splash some water under your eyes before chopping an onion.
+
+Armchair chemistry here: your eyes have a relatively small exposed surface area, which determines the rate of the sulfuric acid production that makes you cry in the first place. Meanwhile, the rest of your face is relatively dry, so the Propanethiol S-Oxide doesn't react, and just floats around until it hits something wet.
+
+By making your upper cheeks wet, you have a much larger target that is relatively close to the area you're trying to protect, and therefore the production of sulfuric acid in your eye occurs much slower.
+
+Unfortunately for /u/jswoll, this doesn't work without ruining your makeup anyway.
+
+url:https://reddit.com/r/LifeProTips/comments/2xhe6u/
+author:Gnochi
+subreddit:LifeProTips
+score:1600
+numComments:562
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,22 @@
+title:
+YSK to set the parking brake first, then shift into 'Park', not the other way around (automatic transmissions)
+
+content:
+If you park on even a slight incline and shift into 'Park', the whole weight of the vehicle is resting against the transmission, which in turn is attached to the engine, and the only thing keeping the whole drive train from spinning around are your rubber motor mounts.  Do this enough, and you will have a very expensive repair to replace your motor mounts!
+
+Save yourself the expense!  When you come to a stop, set your parking brake first, then slowly/deliberately shift into park (then shut off the engine).  As you shift past neutral, you will feel the vehicle settle against the brakes, thereby saving your motor mounts!
+
+Source:  I had to replace motor mounts for this reason many years ago.  Never since!
+
+Edit:  Thanks for the clarifications that the parking pawl is much more likely to get damaged.  
+
+Super Edit:  This should not have made the front page, and should not have gotten gold.  I now agree with those that say the pressure on the motor mounts is not excessive when parked on a hill, so I have to wonder why my motor mounts went out in my '83 Chevy S10 after 3 or 4 years (1986 or '87), (manual transmission, but owned many automatics since), and why the mechanic told me it was because of not using the parking brake.  Possibly I was just abusing the hell out of the drivetrain.  You are all welcome to downvote this to get it off the front page!  I'll still be using my parking brake tho'.
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/3qgavp/
+author:trackday
+subreddit:YouShouldKnow
+score:2355
+numComments:414
+isOver18:False
+hasPostBody:True

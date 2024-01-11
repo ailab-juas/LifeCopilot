@@ -1,0 +1,13 @@
+title:
+LPT: After constructing IKEA furniture, tape the provided tools to the back or underside of your new furniture. When you need to tighten some screws or fix something, they will be right there.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/8wnsdx/
+author:Vorpalax
+subreddit:LifeProTips
+score:14568
+numComments:451
+isOver18:False
+hasPostBody:False

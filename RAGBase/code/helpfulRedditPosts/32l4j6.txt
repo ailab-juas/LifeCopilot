@@ -1,0 +1,43 @@
+title:
+LPT: **LOCK** down your credit file reports
+
+content:
+To prevent identity theft, FREEZE your credit reports from the big credit reporting agencies.
+
+Freezing is a **proactive** step that prevents anyone (excepting the government, insurance agencies, banks that you already deal with) from accessing your credit reports.
+
+If your credit report can't be accessed, then no one can open an account even if they have your SSN, DOB, mother's maiden name etc. etc.
+
+This costs just $10 for each agency.  *This is a one time charge*.  Not a monthly charge.  
+
+You'll have to provide identify proof via ordinary mail and you'll receive a PIN via postal mail.  ~~If you lose that PIN you'll never be able to access your own account or temporarily unlock for accessing credit.~~ Edit:  People have corrected me on this.
+
+Each credit agency has their own rules so you'll have to access their web sites for details.  
+
+https://www.experian.com/freeze/center.html
+
+http://www.transunion.com/personal-credit/credit-disputes/credit-freezes.page
+
+https://www.freeze.equifax.com/Freeze/jsp/SFF_PersonalIDInfo.jsp
+
+To unfreeze your account on the internet, you'll need your PIN and specify how long you want your account unlocked.  ~~This is now free.~~  Edit:  People have pointed out that I was wrong on this and the amount varies by state.
+
+The only time in the past 10+ years I had my credit reports temporarily unlocked is when I received an offer to lower my mortgage rate (for free!).
+
+While I've never been burned, people I know have had their identities stolen and lines of credit opened.  Tens of thousands of dollars were lost plus attorney fees.  An endless nightmare.
+
+
+Just remember, never lose that PIN otherwise you'll have to apply for a new PIN.
+
+Edit: Freeze means that no one can access your credit report. 
+You still use your credit cards as always, your credit history is still being updated (for better or worse).  Unless you apply for credit, the freeze is totally transparent to you.
+
+Edit: Used the correct terminology:  'Freeze', not 'Lock'. Changed 'Credit file' to 'Credit Report'.  I wish I could correct the title.
+
+url:https://reddit.com/r/LifeProTips/comments/32l4j6/
+author:[deleted]
+subreddit:LifeProTips
+score:2025
+numComments:297
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: When writing reports, essays or any other important documents, reread it the next day with fresh eyes. Don't just save and send it thinking that it's good to go, even if you've proofread it. Trust me, it's got errors.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/tdosr2/
+author:enGaming_YT
+subreddit:LifeProTips
+score:9963
+numComments:226
+isOver18:False
+hasPostBody:False

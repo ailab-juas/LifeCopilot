@@ -1,0 +1,13 @@
+title:
+LPT: Use IFTTT.com to monitor Craigslist and eBay for goods stolen from you
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/2rnrw3/
+author:No_U_Crazy
+subreddit:LifeProTips
+score:2169
+numComments:168
+isOver18:False
+hasPostBody:False

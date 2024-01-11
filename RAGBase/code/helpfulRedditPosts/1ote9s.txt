@@ -1,0 +1,15 @@
+title:
+LPT: Duplicate your last slide when doing a presentation
+
+content:
+If you're giving a presentation and using PowerPoint, make a duplicate of your final slide. 
+
+Many people accidentally click on their last slide, which ends the slideshow and takes it out of full-screen mode. By adding a duplicate final slide, if you click on your last slide, the slideshow remains full-screen and doesn't close out (because it is showing the duplicate). 
+
+url:https://reddit.com/r/LifeProTips/comments/1ote9s/
+author:Weezilwood
+subreddit:LifeProTips
+score:1244
+numComments:182
+isOver18:False
+hasPostBody:True

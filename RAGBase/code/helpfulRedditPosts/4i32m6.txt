@@ -1,0 +1,13 @@
+title:
+LPT: When asked to repeat something more than once, reword your sentence slightly.
+
+content:
+Even just stick on a few more words at the start or end to clarify further. I've found that if someone mishears you and you repeat the exact same words, they're far more likely to continue mishearing the sentence. 
+
+url:https://reddit.com/r/LifeProTips/comments/4i32m6/
+author:TheVad
+subreddit:LifeProTips
+score:4152
+numComments:557
+isOver18:False
+hasPostBody:True

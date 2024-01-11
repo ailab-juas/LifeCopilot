@@ -1,0 +1,13 @@
+title:
+LPT: Scan the same finger as 2 separate fingers on your phone so your fingerprint will unlock it more consistently.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/74mw4i/
+author:w1n5t0nM1k3y
+subreddit:LifeProTips
+score:3351
+numComments:244
+isOver18:False
+hasPostBody:False

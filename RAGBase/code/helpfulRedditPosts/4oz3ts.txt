@@ -1,0 +1,20 @@
+title:
+LPT: Sick of Windows 10 automatically downloading updates? Try changing your home wifi type to 'metered'.
+
+content:
+I've had an issue with W10 updates not actually working on my PC, this means it can take an extra 5 minutes to start up each time. After finding no solutions online I fiddled around with the wifi settings and found this neat little trick. Hope it works for you.  
+ I have made a somewhat 'detailed' list of instructions for those of you who aren't very fluent in W10/Computers. For others see the td;dr.   
+
+If you click on the wifi icon bottom right of the taskbar, a box of the available networks with appear. Bottom left of said box there will be a shortcut called "Network settings". Clicking on that will take you to "Network &amp; Internet", go to the Wi-Fi tab and then "Advanced options." This will give you the options for the currently connected wifi service. If you set it to metered, which should be the second option, it should no longer automatically download updates unless you go into the updater and allow it. This also means no more auto updates while you're in the middle of something, praise the lord a solution at last.      
+
+tl;dr Go to your wifi settings and change your home wifi to metered to stop auto downloads/updates from W10.    
+
+Edit: Wow rip my inbox, and rip this thread. People seem to be missing the point, I prefer to control when my updates come in. If one starts downloading while I'm in the middle of an intense online match then I'm going to get mad. I have seen streamers' computers restart because of a forced update. Basically I use this so that I can install the updates in my own time when I am not doing anything important, it also gives me the chance to vet the latest update. There is nothing wrong in wanting more options.
+
+url:https://reddit.com/r/LifeProTips/comments/4oz3ts/
+author:Haymus
+subreddit:LifeProTips
+score:3712
+numComments:1087
+isOver18:False
+hasPostBody:True

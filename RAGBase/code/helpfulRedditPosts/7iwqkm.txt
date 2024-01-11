@@ -1,0 +1,13 @@
+title:
+YSK it is often possible to disable your microwave oven's annoying beep
+
+content:
+[deleted]
+
+url:https://reddit.com/r/YouShouldKnow/comments/7iwqkm/
+author:[deleted]
+subreddit:YouShouldKnow
+score:3618
+numComments:216
+isOver18:False
+hasPostBody:True

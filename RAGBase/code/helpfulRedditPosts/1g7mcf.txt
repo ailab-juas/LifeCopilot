@@ -1,0 +1,15 @@
+title:
+YSK that the CALM act, designed to prevent television commercials from blaring much louder than the regular program, has a tattle number and needs viewers to help report non-compliance.
+
+content:
+"Viewers can report super-loud commercials to the FCC on the agency's website or by calling 1-888-TELL-FCC (1-888-225-5322)."
+
+http://en.wikipedia.org/wiki/Commercial_Advertisement_Loudness_Mitigation_Act
+
+url:https://reddit.com/r/YouShouldKnow/comments/1g7mcf/
+author:Replibacon
+subreddit:YouShouldKnow
+score:2623
+numComments:154
+isOver18:False
+hasPostBody:True

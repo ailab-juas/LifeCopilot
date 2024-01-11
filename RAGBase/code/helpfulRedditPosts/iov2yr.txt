@@ -1,0 +1,23 @@
+title:
+YSK a high percentage of Amazon's sale prices are fake markdowns
+
+content:
+Why YSK: Like most retailers, Amazon relies on your perceived savings to trick you into thinking you're getting a deal. A tool called CamelCamelCamel allows you to see an independent price history of that item. In most cases, the "was" price never happened, or was so brief it barely happened.
+
+Points that have already been redundantly made:
+
+1. Yes I know this is common. I put it in the original post. I'm talking about Amazon.  
+a. For each time you tell me all retailers do this, a lightning bolt strikes a kitten.
+2. Yes we don't like Amazon. Companies with lots of money are bad.  
+a. Yes Amazon is actually bad. Every major retailer is in some way.
+3. I've been made aware of Keepa and will try it out!  
+a. other countries have some apps.
+4. In some countries, this is illegal.
+
+url:https://reddit.com/r/YouShouldKnow/comments/iov2yr/
+author:[deleted]
+subreddit:YouShouldKnow
+score:33515
+numComments:959
+isOver18:False
+hasPostBody:True

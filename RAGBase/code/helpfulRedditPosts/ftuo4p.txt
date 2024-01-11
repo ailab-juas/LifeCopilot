@@ -1,0 +1,16 @@
+title:
+YSK: you are entitled to a refund if an airline cancels your ticket. Not a voucher or credit — a refund.
+
+content:
+I spent all day on the phone talking to Spirit Airlines, which is notoriously bad with customer service. They’ve cancelled Northeast flights and I wanted my money back. The service member working with me refused to refund me several times until I did the research and quoted the US Department of Transportation, whose website says, “if your flight is cancelled and you choose to cancel your trip as a result, you are entitled to a refund for the unused transportation.” I also threatened to have my credit card company dispute the charge. Know your rights!
+
+
+EDIT: US Department of Transportation website, which includes a link for consumer complaints for airlines that aren’t honoring this regulation: https://www.transportation.gov/individuals/aviation-consumer-protection/refunds
+
+url:https://reddit.com/r/YouShouldKnow/comments/ftuo4p/
+author:want-to-change
+subreddit:YouShouldKnow
+score:37683
+numComments:1112
+isOver18:False
+hasPostBody:True

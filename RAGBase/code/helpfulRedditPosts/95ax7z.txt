@@ -1,0 +1,13 @@
+title:
+LPT: at work, when a new task comes up, use this rule: if it takes less than 5 minutes, do it right away. If it takes less than 20 minutes, do it right after your current task. If it takes longer than 20 minutes, schedule the task for later. You'll prevent a piling up of small tasks or forgetting.
+
+content:
+Yes, I know, this wouldn't work for every job. But for those who find it useful, I hope it helps.
+
+url:https://reddit.com/r/LifeProTips/comments/95ax7z/
+author:bokito12
+subreddit:LifeProTips
+score:15514
+numComments:213
+isOver18:False
+hasPostBody:True

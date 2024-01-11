@@ -1,0 +1,13 @@
+title:
+LPT: Flossing isn't just removing gunk or scraping plaque away, but disrupting bacteria colonies that settle in your mouth, undisturbed, exactly like an anthill, a better way to think of flossing is you're destroying all those colonies and "stomping on the anthills."
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/rga9we/
+author:WanderWut
+subreddit:LifeProTips
+score:26458
+numComments:860
+isOver18:False
+hasPostBody:False

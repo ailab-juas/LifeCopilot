@@ -1,0 +1,15 @@
+title:
+LPT: When adding pages to your bookmark bar, delete the text in the name field, then click save. Now you'll only have the page logos on your bookmark bar, allowing for more bookmarks and less clutter.
+
+content:
+Edit: If the icons feel too crowded, you can use spaces or dashes as the name. I use spaces and to group and separate themes (work, banking, social, sports, teams, shopping, etc.). [Screenshot of my bookmark bar](http://i.imgur.com/lZ7W1hy.jpg)
+
+Edit 2: All these steps above are for Chrome. Firefox, right click the saved bookmark, click Properties, delete the Name field and Save. Internet Explorer, right click on the bookmark, hover over Customize Title Widths and click Icon Only. Safari, still need to check into this. 
+
+url:https://reddit.com/r/LifeProTips/comments/5n7w13/
+author:CRich19
+subreddit:LifeProTips
+score:1247
+numComments:77
+isOver18:False
+hasPostBody:True

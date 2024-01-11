@@ -1,0 +1,17 @@
+title:
+YSK that your doctor may be receiving payments from pharmaceutical companies for prescribing their drugs to you.
+
+content:
+These tend to be newer, name-brand only drugs which are very expensive. There are often more affordable, equally effective generic drugs available so you should do your research about what you’ve been prescribed. Your doctor could be prescribing that particular expensive dug because the pharmaceutical company is paying them to do so. 
+
+These payments are public information. You can search your doctor’s name to find out which drugs they’re being paid to prescribe and how much money they’re getting for it.
+
+https://projects.propublica.org/docdollars/
+
+url:https://reddit.com/r/YouShouldKnow/comments/hzrj5f/
+author:ants-in-my-plants
+subreddit:YouShouldKnow
+score:3725
+numComments:249
+isOver18:False
+hasPostBody:True

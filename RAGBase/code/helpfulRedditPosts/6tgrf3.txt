@@ -1,0 +1,13 @@
+title:
+LPT: If you're visiting New York City and you want a great view of the city, go to the observation deck of Rockefeller Center instead of the Empire State Building.
+
+content:
+There's barely any lines, and honestly, you get really great views of the city, [like this](http://www.aviewoncities.com/img/nyc/kveus5495s.jpg)
+
+url:https://reddit.com/r/LifeProTips/comments/6tgrf3/
+author:CaptainBroverdose
+subreddit:LifeProTips
+score:1006
+numComments:56
+isOver18:False
+hasPostBody:True

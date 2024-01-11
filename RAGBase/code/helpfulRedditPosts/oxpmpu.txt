@@ -1,0 +1,13 @@
+title:
+LPT: When Viewing NSFW content on your smartphone at work, first disconnect from your work Wi-Fi. While you're not using your work computer, the traffic is still being tracked by workplace's network.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/oxpmpu/
+author:tfntfn
+subreddit:LifeProTips
+score:35294
+numComments:2340
+isOver18:True
+hasPostBody:False

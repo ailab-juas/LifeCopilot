@@ -1,0 +1,13 @@
+title:
+YSK most kid toys are shipped in a “Try Me” mode and must be turned “On” to get full access to all functions.
+
+content:
+Why YSK: Kid toys that make sound have a try me mode for store display. If you don’t shift it to “On”, most of the phrases and sounds will not function. This is especially true for toddler toys that let you try them on display. The On/Off/Try Me mode buttons are usually next to the battery compartment.
+
+url:https://reddit.com/r/YouShouldKnow/comments/rrgmbe/
+author:Kattsu-Don
+subreddit:YouShouldKnow
+score:3795
+numComments:75
+isOver18:False
+hasPostBody:True

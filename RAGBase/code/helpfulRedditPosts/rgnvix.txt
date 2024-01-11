@@ -1,0 +1,15 @@
+title:
+LPT: make your home security cameras obvious.
+
+content:
+It's cheaper to deter a crime than to report one. If people think they are on camera they are much less likely to commit a crime. Even an obvious fake camera can be very effective. Get one with the darkened dome so it's hard to see where it's pointing. 
+
+This is the same reason shopping centres have those dark dome cameras. People knowing they are on camera is a much bigger deterrent than invisible cameras.
+
+url:https://reddit.com/r/LifeProTips/comments/rgnvix/
+author:LogiCsmxp
+subreddit:LifeProTips
+score:1059
+numComments:61
+isOver18:False
+hasPostBody:True

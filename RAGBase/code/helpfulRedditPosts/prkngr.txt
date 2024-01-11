@@ -1,0 +1,19 @@
+title:
+LPT there’s a google map feature that prevents you from ever being late
+
+content:
+I wish I knew this feature existed 5 years ago
+
+Ok so if put in your desired location into Google maps and press directions (don’t press start yet), scroll to the bottom of the screen and there’s an option to set an alarm to tell you what time to leave based on what time you want to arrive
+
+Idk if everyone knew this already but for me it’s game changing to not have to check the app constantly to see if changes in traffic are going to make me late for something
+
+Already posted this on r/ADHD to help the homies out
+
+url:https://reddit.com/r/LifeProTips/comments/prkngr/
+author:anniexyz1
+subreddit:LifeProTips
+score:9713
+numComments:279
+isOver18:False
+hasPostBody:True

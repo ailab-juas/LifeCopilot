@@ -1,0 +1,22 @@
+title:
+LPT: If you own a vehicle. Please, be extremely mindful of your tire air pressures.
+
+content:
+I worked in the automotive industry for over 5 years. I have encountered too many people whom are unaware of how important proper tire air pressure is. The tire pressure monitoring system (TPMS) in your vehicle is an aid to this matter. It is only there to let you know about drastic differences in air pressure between your tires. We have to remember that the tires on our vehicles are what dictate how well we will be able to handle said vehicle. Tires are what make contact with the road, thus should be the forefront of our safety priorities. Rather not have to use your seatbelt because you were able to brake in time, than total your vehicle due to an over inflated tire.
+
+Yes, i said that correctly, over inflated. When we over inflate our tires, we decrease the surface area that makes contact with the road. In turn, reducing friction between the tire and road. This increases our distance to come to a stop, and how much under/over steer we experience. Over inflated tires are also more suceptable to blow outs due to the already high pressure. Over inflated tires suffer decreased life time, dangerous cracking, and decreased traction.
+
+Under inflated tires are just as dangerous. We are more attentive to a low pressure tire because they are more visible. Severely under inflated tires can unseat from the bead, causing you to possibly lose control of your vehicle. Pot holes and bumps on the road can possibly pinch the wall of a low pressure tire, causing you to lose said tire. Decreased gas mileage is also an effect of under inflated tires. When a tire is under inflated, it does not have enough pressure to keep proper shape, thus "folding" under the vehicle when moving. This increase how much torque must be applied for said tires to rotate. 
+
+Most vehicles, on the drivers door jamb, have a tire pressure information sticker. If we follow those guidelines, we will all be safer on the roads. If you find your tires to be incorrectly inflated, once corrected, you will immediately feel the difference. Gas mileage depends on how you drive but, your tires will always have an effect. Please, be safe on the roads. We already have to deal with enough to have to go through something that could of been avoided by properly inflated tires.
+Lets all be safe on the roads!
+
+Edit: Space. Than.
+
+url:https://reddit.com/r/LifeProTips/comments/dlgzew/
+author:NerdWithShades
+subreddit:LifeProTips
+score:19697
+numComments:1179
+isOver18:False
+hasPostBody:True

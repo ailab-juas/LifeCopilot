@@ -1,0 +1,15 @@
+title:
+LPT: If your fire alarm goes off, call your pets and give them a treat. Eventually they will come when the alarm goes off, saving you from wasting time looking for pets during an evacuation.
+
+content:
+Added tip: Deliberately set off the alarm to do more frequent training.
+
+Edit: alarm 'goes off' = alarm sets off = alarm starts. Apologies for use of confusing language.  Not sure yet how to edit title, I'm a bit of a newbie.
+
+url:https://reddit.com/r/LifeProTips/comments/70h6w5/
+author:Jajaninetynine
+subreddit:LifeProTips
+score:73883
+numComments:1385
+isOver18:False
+hasPostBody:True

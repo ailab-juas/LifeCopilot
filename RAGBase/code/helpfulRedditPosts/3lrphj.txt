@@ -1,0 +1,15 @@
+title:
+LPT: You can tell Siri to roll a dice.
+
+content:
+If you ever forgot/lost dice for a specific game or just a random number chosen. A little tedious roll after roll but hey it works! 
+
+Edit: It looks like you can have her roll multiple dice and as many sides as you want! 
+
+url:https://reddit.com/r/LifeProTips/comments/3lrphj/
+author:MarcTheIndian
+subreddit:LifeProTips
+score:2877
+numComments:762
+isOver18:False
+hasPostBody:True

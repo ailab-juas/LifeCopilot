@@ -1,0 +1,13 @@
+title:
+LPT - Think of something when you're about to sleep, don't want to write it down, but you need to remember it? Throw something on the floor that usually doesn't belong on the floor (like a bottle of medicine or your watch). When you wake up, you'll see it and remember
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1f2xs0/
+author:FubsyGamr
+subreddit:LifeProTips
+score:1856
+numComments:255
+isOver18:False
+hasPostBody:False

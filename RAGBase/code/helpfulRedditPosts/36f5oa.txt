@@ -1,0 +1,13 @@
+title:
+YSK if you are shadowbanned.
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/36f5oa/
+author:lunarlumberjackRIP
+subreddit:YouShouldKnow
+score:1101
+numComments:248
+isOver18:False
+hasPostBody:False

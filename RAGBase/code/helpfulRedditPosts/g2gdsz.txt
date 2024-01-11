@@ -1,0 +1,21 @@
+title:
+LPT: Assign a beneficiary to EVERY bank, investment, retirement, brokerage account you have
+
+content:
+If there's a beneficiary assigned to an account and you die, the beneficiary can immediately just ~~take over~~ liquidate that account, and it is theirs. That simple. (Edit: in the US. apparently different elsewhere)
+
+If there is ***not*** a beneficiary on an account, that account goes into the deceased's estate. It then becomes part of the public record of what was in the estate and is subject to the probate process where creditors (often healthcare providers) get first crack at it before survivors get anything and before a will comes into play. Also, it will be months before the thing is settled.
+
+It takes 5 minutes to fill out a short little beneficiary form that can make your survivors' task of dealing with your estate SO MUCH easier and more fair, and your wish of "who gets my money when i die" is instantly fulfilled.
+
+Edit: hey mods, if this is too close to a legal tip, i understand. It's just a real important and practical one, especially now
+
+Edit 2 (which should go without saying, but i'll say it): Obviously every situation is different and you should get advice from a professional before you act.  If there are contentious relationships, untrustworthy people, an upside down estate with more debt than assets, or any number of hundreds of possible situations it may cause problems. This approach also requires care over time, you gotta update your beneficiaries when people die, divorces happen, etc...
+
+url:https://reddit.com/r/LifeProTips/comments/g2gdsz/
+author:tjcooks
+subreddit:LifeProTips
+score:3421
+numComments:126
+isOver18:False
+hasPostBody:True

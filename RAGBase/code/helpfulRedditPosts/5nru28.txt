@@ -1,0 +1,13 @@
+title:
+YSK that many local universities offer complimentary help with your taxes to allow their accounting students additional experience. The process is usually overseen by an expert to ensure accuracy.
+
+content:
+This can save you tons of money and may also be a baby-step in your ability to eventually file your taxes on your own.  
+
+url:https://reddit.com/r/YouShouldKnow/comments/5nru28/
+author:phd_dude
+subreddit:YouShouldKnow
+score:3146
+numComments:59
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+YSK: There is a secular, science-based alternative to Alcoholics Anonymous (AA).
+
+content:
+Whereas AA focuses on a spiritual approach to sobriety that may be triggering for some (or otherwise not a good fit), [SMART Recovery](https://www.smartrecovery.org/\) takes a scientific approach that empowers the individual by providing tools and resources to recover from addictions. The model has evolved over the years to address the changes in our understanding of addiction. Here's an [article](https://rehabreviews.com/like-go-smart-recovery-eight-years-aa/) by someone who wrote about their switch from AA to SMART Recovery.
+
+DISCLAIMER: I have not personally gone through either program. I'm married to a mental health professional who has given high praise to SMART Recovery and has had success with clients who've used it. This is not an attack on AA, simply another option for those who may benefit from a different approach to recovery.
+
+url:https://reddit.com/r/YouShouldKnow/comments/foca3w/
+author:brEd4batter
+subreddit:YouShouldKnow
+score:1436
+numComments:99
+isOver18:False
+hasPostBody:True

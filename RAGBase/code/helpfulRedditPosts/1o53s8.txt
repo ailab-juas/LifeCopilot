@@ -1,0 +1,19 @@
+title:
+LPT: When you make a major purchase, set a reminder on your phone for two weeks before the warranty expiration. Examine your purchase for flaws and don't get screwed by planned obsolescence.
+
+content:
+Unfortunately I learned this the hard way. I noticed some artifacts on my TV screen but it's three months out of warranty and will cost a lot to get fixed. 
+
+Next time I'm returning it at the slightest problem... In warranty.
+
+**Edit:** Thanks for the input everyone. After reading all the comments I think a better phrasing would be:
+
+*LPT: When you make a major purchase, set a reminder on a cloud-based app for two weeks before the warranty expiration. Examine your purchase for flaws and don't get screwed by premature failure.*
+
+url:https://reddit.com/r/LifeProTips/comments/1o53s8/
+author:SockRabbit
+subreddit:LifeProTips
+score:2951
+numComments:333
+isOver18:False
+hasPostBody:True

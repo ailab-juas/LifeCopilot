@@ -1,0 +1,13 @@
+title:
+LPT: If you have older family members go ahead and explain what “deep fake” videos are because if you wait until they see one it will be harder to convince them it’s fake without understanding the concept beforehand.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/hly48t/
+author:DoubleFootball
+subreddit:LifeProTips
+score:1234
+numComments:54
+isOver18:False
+hasPostBody:False

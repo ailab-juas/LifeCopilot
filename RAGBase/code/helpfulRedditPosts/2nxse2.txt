@@ -1,0 +1,13 @@
+title:
+YSK about unbury.me, a user-friendly loan calculator which allows borrowers to input their loan balances &amp; interest rates in order understand how to pay off their loans as fast or as inexpensively as possible. Especially helpful for those with multiple loans with different interest rates.
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/2nxse2/
+author:msx8
+subreddit:YouShouldKnow
+score:1920
+numComments:115
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,21 @@
+title:
+YSK what percentage points are.
+
+content:
+The notion of "points" when discussing percentages tells you what the words "more" and "less" actually mean -- the word "points" in these cases means addition instead of multiplication.
+
+For example, if you are negotiating for royalties on a project, and the opening offer is for 10% of the profits. Asking for 5% more is very different than asking for 5 percentage points more! Asking for five percentage points more than 10% means 10%+5%=15%, whereas 5% more then 10% means 10% + (10% x 5%) = 10.5%.
+
+Why YSK: Without the notion of percentage points, discussing percentages is ambiguous. This will definitely come up when refinancing your house.
+
+As another example, a home loan might be 3% per year. If you are renegotiating the loan for lower monthly payments, they may mention increasing the percentage by some number, like 1.5 percentage points. That means your new interest rate will be 3% + 1.5% = 4.5%. This sounds small, but really your interest rate just went up by 50%!!
+
+Edit by popular demand: There are also "basis points" which are 1/100 of one percentage point.
+
+url:https://reddit.com/r/YouShouldKnow/comments/qbsib8/
+author:production-values
+subreddit:YouShouldKnow
+score:2704
+numComments:72
+isOver18:False
+hasPostBody:True

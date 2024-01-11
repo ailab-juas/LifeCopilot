@@ -1,0 +1,13 @@
+title:
+LPT: if you want to separate some pdf pages without using any new software. you can open the pdf file in chrome then click on print then select custom pages option, and finally choose to save as pdf
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/cjphtc/
+author:lashuel
+subreddit:LifeProTips
+score:38264
+numComments:777
+isOver18:False
+hasPostBody:False

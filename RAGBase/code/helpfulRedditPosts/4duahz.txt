@@ -1,0 +1,13 @@
+title:
+YSK: going to the dentist only when your tooth hurts is a good way to spend a lot of money at the dentist.
+
+content:
+my brother only goes to the dentist when he has a problem, either a broken tooth or pain.  Problem is, that once something hurts in your mouth, its almost always costs a fortune to fix.  Odds are you'll need a root canal and crown by the time a cavity is big enough that it hurts. That'll set you back about 2 g's flat.   If he would have gone to the dentist before it got that bad, a simple filling would have only cost about $250
+
+url:https://reddit.com/r/YouShouldKnow/comments/4duahz/
+author:blurtoad
+subreddit:YouShouldKnow
+score:3304
+numComments:516
+isOver18:False
+hasPostBody:True

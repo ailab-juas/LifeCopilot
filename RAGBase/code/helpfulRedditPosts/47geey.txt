@@ -1,0 +1,13 @@
+title:
+LPT: If someone gives you a gift, text them when you use it! It will make them feel good.
+
+content:
+Even (especially) if it's months later! Works especially well for clothes, jewelry, or kitchen stuff.
+
+url:https://reddit.com/r/LifeProTips/comments/47geey/
+author:brznks
+subreddit:LifeProTips
+score:5053
+numComments:369
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: When packing your kitchen to move, wrap your silverware holder with plastic wrap.
+
+content:
+This keeps everything in its place, and prevents you from having to pack it all separate.
+
+url:https://reddit.com/r/LifeProTips/comments/2bzagy/
+author:ITouchedACoelocanth
+subreddit:LifeProTips
+score:1949
+numComments:341
+isOver18:False
+hasPostBody:True

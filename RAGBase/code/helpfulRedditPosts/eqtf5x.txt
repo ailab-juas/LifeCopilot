@@ -1,0 +1,15 @@
+title:
+YSK that links to news articles about missing children are usually out of date and should not automatically be shared.
+
+content:
+It may only take 2 seconds to share but it takes ten seconds to open the article read the top few lines then share if they are still missing. 
+
+By sharing an article about a missing child or person that has been found, we are diluting genuine cases.
+
+url:https://reddit.com/r/YouShouldKnow/comments/eqtf5x/
+author:shintengo
+subreddit:YouShouldKnow
+score:2189
+numComments:26
+isOver18:False
+hasPostBody:True

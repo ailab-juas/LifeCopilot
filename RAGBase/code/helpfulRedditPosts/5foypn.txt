@@ -1,0 +1,15 @@
+title:
+YSK: You can block those annoying "Turn Off Adblock" messages
+
+content:
+If you subscribe to this filter: http://reek.github.io/anti-adblock-killer/#filterlist (available for both Adblock and Ublock) you can get around most anti-adblock filters.
+
+Happy browsing!
+
+url:https://reddit.com/r/YouShouldKnow/comments/5foypn/
+author:StrongLikeBull503
+subreddit:YouShouldKnow
+score:9496
+numComments:351
+isOver18:False
+hasPostBody:True

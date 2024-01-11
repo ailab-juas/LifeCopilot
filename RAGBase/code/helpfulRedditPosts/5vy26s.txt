@@ -1,0 +1,19 @@
+title:
+LPT: When writing, try remove adverbs like very, really, or literally when describing something. Instead, change the adjective itself.
+
+content:
+This doesn't work in all situations but it can significantly improve one's writing. I'll give an example.
+
+I had a really good time last night.
+
+I had a fantastic time last night.
+
+If I am trying to convey that my experience was not just acceptable, but particularly good, it sounds better to change "good" to "fantastic" instead of modifying "good" with "really". It can convey your point more effectively, and can enrich your vocabulary.
+
+url:https://reddit.com/r/LifeProTips/comments/5vy26s/
+author:ledzepplinfan
+subreddit:LifeProTips
+score:1276
+numComments:109
+isOver18:False
+hasPostBody:True

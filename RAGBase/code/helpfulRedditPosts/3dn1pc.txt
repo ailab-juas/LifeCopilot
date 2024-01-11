@@ -1,0 +1,13 @@
+title:
+LPT: When painting a room...
+
+content:
+...be sure to ask for two labels when buying paint. One to put on the paint can (of course) and the other to sticker behind the light switch panel of the room you're painting. That way, you'll know that exact color and brand in case you need to do touch ups later down the road.
+
+url:https://reddit.com/r/LifeProTips/comments/3dn1pc/
+author:kitteninabowtie
+subreddit:LifeProTips
+score:4798
+numComments:523
+isOver18:False
+hasPostBody:True

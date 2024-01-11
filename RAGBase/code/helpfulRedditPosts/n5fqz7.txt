@@ -1,0 +1,19 @@
+title:
+YSK that in the United States, you can look up doctors to see how much money they’ve received from drug manufacturers.
+
+content:
+Why YSK: Doctors sometimes receive payments from drug and medical device companies for a variety of reasons... some are benign (research), and some are less so (commissions for medical devices). In the United States, [this website](https://openpaymentsdata.cms.gov) (which is run by the government) allows us to search for doctors by name and pull up reports of every payment they have received from drug and medical device companies. 
+
+Keep in mind that not every payment is nefarious and the reports do not provide much context, but it could be a good resource if you are questioning the motivation behind an expensive prescription or device. I suggest always talking to your doctor if you find information that concerns you or if you are worried about potential conflicts of interest due to payments received. 
+
+Real life examples: one of my doctors prescribed me an incredibly expensive medication ($2k per month). I looked him up and saw that he had no payments from any manufacturers. It was obvious that he was prescribing the medication because he felt it was in my best interests and not because he had the company’s money in his pocket. Another doctor prescribed me  multiple brand-name medications that would cost me $200 per month out of pocket and offered no alternatives even when I said I was uncomfortable with what she had prescribed. She was pushy and refused to listen to my concerns. When I looked her up, I saw that she had been paid over $100k in the previous year by the manufacturers of those specific medications. I decided to find another doctor because at that point, I felt her motivations were in the wrong place. 
+
+Most doctors are awesome and ethical, but it’s necessary to stay informed. But again- please use caution with the information on the site and don’t jump to conclusions about what it all means.
+
+url:https://reddit.com/r/YouShouldKnow/comments/n5fqz7/
+author:Snaxx9716
+subreddit:YouShouldKnow
+score:13325
+numComments:316
+isOver18:False
+hasPostBody:True

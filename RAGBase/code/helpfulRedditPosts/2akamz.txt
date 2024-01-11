@@ -1,0 +1,13 @@
+title:
+LPT: Measure the length of your dominant hand, from the tip of your middle/longest finger to your wrist and memorize it.
+
+content:
+That way, if you need to measure something but you don't have a ruler, you can easily figure out an approximation.
+
+url:https://reddit.com/r/LifeProTips/comments/2akamz/
+author:KlausFenrir
+subreddit:LifeProTips
+score:1114
+numComments:266
+isOver18:False
+hasPostBody:True

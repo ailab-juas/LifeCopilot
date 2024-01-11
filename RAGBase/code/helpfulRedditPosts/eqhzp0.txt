@@ -1,0 +1,13 @@
+title:
+LPT: Reustaurant owners, keep you website updated with menus and prices. Also, do the same on google maps
+
+content:
+I basically use only google maps to choose the places i wanna go. But usually more than half of the restaurants doesnt show their menu with prices online. And therefore, i never opt for this places, because i dont know how much i should expect to pay
+
+url:https://reddit.com/r/LifeProTips/comments/eqhzp0/
+author:Notahuebr
+subreddit:LifeProTips
+score:5969
+numComments:237
+isOver18:False
+hasPostBody:True

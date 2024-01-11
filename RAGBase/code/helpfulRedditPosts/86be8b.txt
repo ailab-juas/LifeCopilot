@@ -1,0 +1,15 @@
+title:
+LPT: Put frozen berries in your oatmeal as soon as it's done cooking
+
+content:
+By the time it is cool enough to eat, the berries will be the same temperature as the oatmeal! Also, frozen berries are cheaper than fresh, can be purchased in bulk, and last longer.
+
+EDIT: Grammars
+
+url:https://reddit.com/r/LifeProTips/comments/86be8b/
+author:alexkates
+subreddit:LifeProTips
+score:26352
+numComments:1007
+isOver18:False
+hasPostBody:True

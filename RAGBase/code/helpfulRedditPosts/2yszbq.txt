@@ -1,0 +1,17 @@
+title:
+YSK that if you sign up for Spotify Premium, don't do it on your mobile app! $12.99/month vs. $9.99/month on their website.
+
+content:
+Save yourself $3/month from now until... whenever. I was kind of shocked to see such a price difference for literally the exact same service.
+
+**Edit**: A couple people have pointed out that there is no price difference between the mobile and web version of Spotify on Android. So, as pointed out by /u/yokuyuki, this appears to affect only iPhone users ~~(maybe Windows phone users? Do they even have a Spotify app?)~~ because Apple takes a 30% cut of a developer's sale.  
+
+**Edit 2**: Christ okay I get it. WP users have Spotify. RIP my inbox.
+
+url:https://reddit.com/r/YouShouldKnow/comments/2yszbq/
+author:SimplyRH
+subreddit:YouShouldKnow
+score:3112
+numComments:363
+isOver18:False
+hasPostBody:True

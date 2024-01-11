@@ -1,0 +1,13 @@
+title:
+LPT Start with your main point when speaking with someone. Then pause and give them a chance to ask questions or respond. After pausing fill in details as necessary. You will get your point across without losing someone in details and you will feel a lot more listened to.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/cfmjta/
+author:michaeleid811
+subreddit:LifeProTips
+score:1538
+numComments:35
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: If you suspect what your boss is doing/telling you to do is illegal, send an email asking for clarification so you have it in writing should you need it as proof.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/qum1sp/
+author:Superbaker123
+subreddit:LifeProTips
+score:1111
+numComments:66
+isOver18:False
+hasPostBody:False

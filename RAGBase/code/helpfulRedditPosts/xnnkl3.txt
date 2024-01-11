@@ -1,0 +1,13 @@
+title:
+LPT: Check your bill at a restaurant (US) to make sure they did not already add gratuity before you sign the bill.
+
+content:
+Went to a restaurant last night and my wife asked why the bill was so high after I added 20% gratuity. We looked at the bill and they added a 18% gratuity on it already and then gave the option for an additional gratuity. It was just the two of us.
+
+url:https://reddit.com/r/LifeProTips/comments/xnnkl3/
+author:Imstilladoctor
+subreddit:LifeProTips
+score:13518
+numComments:1128
+isOver18:False
+hasPostBody:True

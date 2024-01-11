@@ -1,0 +1,13 @@
+title:
+LPT Set up an email just for receipts. Email pics of receipts that are larger purchases to the email and tag it in the body things like “Home Depot”, “ceiling fan” “ lifetime warranty”
+
+content:
+Been doing this for years. Had several things in my house replaced no questions asked since I still had proof of my original purchase.
+
+url:https://reddit.com/r/LifeProTips/comments/egzf7z/
+author:no_sam
+subreddit:LifeProTips
+score:3550
+numComments:108
+isOver18:False
+hasPostBody:True

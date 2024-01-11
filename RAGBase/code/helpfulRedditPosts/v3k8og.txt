@@ -1,0 +1,13 @@
+title:
+LPT: Walk/bike/exercise at least 20-30 minutes every day. Daily minimal exercise will make you healthier, happier, and more confident than almost anything else you can do.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/v3k8og/
+author:Magambi
+subreddit:LifeProTips
+score:20502
+numComments:597
+isOver18:False
+hasPostBody:False

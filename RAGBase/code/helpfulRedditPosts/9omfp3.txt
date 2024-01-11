@@ -1,0 +1,20 @@
+title:
+YSK that the vast majority of human deaths (~92%) are caused by diseases, so statistically speaking you have a very very very low chance of dying from something other than a disease.
+
+content:
+Stats are taken from: World Health Organization and [https://ourworldindata.org/causes-of-death](https://ourworldindata.org/causes-of-death)  
+
+
+I posted this info to help increase awareness of how important medical research is.  
+
+
+P.S.   
+Sorry for the exaggeration ("very very very"), I meant to highlight the unlikeliness of dying from any separate event not related to a disease at all (each one of those events included in that remaining 8%)
+
+url:https://reddit.com/r/YouShouldKnow/comments/9omfp3/
+author:x84733
+subreddit:YouShouldKnow
+score:6024
+numComments:255
+isOver18:False
+hasPostBody:True

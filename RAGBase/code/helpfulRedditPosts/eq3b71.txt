@@ -1,0 +1,15 @@
+title:
+YSK That you can download a copy of all the data Google has collected from your account by going to takeout.google.com.
+
+content:
+Google has 51 products listed on [takeout.google.com](https://takeout.google.com) which means there is usually a lot of data available. I’m my case Google is keeping 38.5 GB of data generated from my account. Most of this is from Google Photos as well as Google Drive and I am fully aware of what I share with them, however some people are not. This is a good way of checking exactly what has been stored in the past and what will continue to be stored in the future. You can edit or delete what Google stores and monitors from your account at [myactivity.google.com](https://myactivity.google.com)
+
+Edit: It’s not technically _all_  your data as the possibility remains that Google is keeping much more than they tell us about.
+
+url:https://reddit.com/r/YouShouldKnow/comments/eq3b71/
+author:Charn22
+subreddit:YouShouldKnow
+score:12935
+numComments:239
+isOver18:False
+hasPostBody:True

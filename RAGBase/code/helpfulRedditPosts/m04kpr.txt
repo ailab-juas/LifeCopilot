@@ -1,0 +1,33 @@
+title:
+YSK: You should base your product review on the product, not anything else
+
+content:
+Why YSK: Writing helpful product reviews helps out manufacturers, sellers, and consumers. Unless you are able to rate each step in the purchasing process individually (sales advice, website, pricing and purchase, product, shipping etc.) you should base your review on the product's own merit.
+
+I see so many reviews on Amazon etc. that rate products 1-star due to something that is beyond the manufacturer's control, such as damage during shipping, or poor customer service by the seller.
+
+This is very unhelpful to anyone looking for a review on a potential purchase, as these have no bearing on how the product will perform for their use case. If I want to know if a set of jack stands will provide enough stability and ground clearance for my truck, reading your poor review because your set was delivered with a hole in the box does not provide any useful information, and hurts the seller and manufacturer for no valid reason.
+
+There can be exceptions to this, i.e. if the product was delivered incomplete and you contacted the manufacturer to provide the missing parts and were met with nothing but passive aggression and disinterest, I would factor this into a review as I consider manufacturer support and warranty as part of the product. Others may see this differently, and I would welcome the discussion. There are other exceptions, but I'm typing this on my phone so I don't want to list them here. 
+
+TL;DR - don't base your Amazon ratings and reviews on anything other than products and services within the manufacturers control.
+
+**EDIT**: Since I'm at a computer now and there is some confusion, let me clear up some things:
+
+1.	I'm primarily basing this on Amazon and other storefronts that carry products from a wide range of manufacturers, as opposed to the manufacturer site directly. For instance, if you go directly to Apple's website and order an iPhone, Apple should take ownership of the transactional process, customer service, warranty, product quality, shipping etc. If there are train derailments or blizzards that affect your delivery date, I would not hold Apple accountable for that.
+2.	If during its normal course of use, a product fails in some way, I would hold the manufacturer accountable and factor that into my review. However, depending on how the manufacturer handles the situation (replacement, refund, etc,) I would make sure to update the review.
+3.	A seller has some measure of control of where their product will be sold, but realistically if you decide not to sell your product on Amazon you may be putting yourself at a strong competitive disadvantage, so you could argue that is not in the seller's control. Having said that, you can elect to let Amazon fulfill and ship your orders, or you can maintain control of your product and delivery.
+
+**EDIT #2** mods
+
+
+
+I have a basic structure I like to use for reviews, but I'll save it for another time.
+
+url:https://reddit.com/r/YouShouldKnow/comments/m04kpr/
+author:lando55
+subreddit:YouShouldKnow
+score:7826
+numComments:297
+isOver18:False
+hasPostBody:True

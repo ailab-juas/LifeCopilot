@@ -1,0 +1,18 @@
+title:
+YSK if you ever see your pet putting itself in 'time-out' by pressing its head into a wall or corner, it's time for an emergency vet visit.
+
+content:
+From http://www.blogyoutrust.com/if-ever-you-see-your-cat-or-dog-do-this-please-take-them-to-the-vet: "Head pressing is characterized by the compulsive act of pressing the head against a wall or other object for no apparent reason. This generally indicates damage to the nervous system, which may result from a number of varying causes, including prosencephalon disease (in which the forebrain and thalamusparts of the brain are damaged) or toxic poisoning."
+
+Read more at:
+http://www.petmd.com/dog/conditions/neurological/c_multi_headpressing
+
+http://en.wikipedia.org/wiki/Head_pressing
+
+url:https://reddit.com/r/YouShouldKnow/comments/2644e3/
+author:synchroidiotic
+subreddit:YouShouldKnow
+score:2300
+numComments:341
+isOver18:False
+hasPostBody:True

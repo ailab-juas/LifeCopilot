@@ -1,0 +1,15 @@
+title:
+YSK: Whole Foods just had a credit card database breach.
+
+content:
+http://media.wholefoodsmarket.com/news/whole-foods-market-payment-card-investigation-notification
+
+Still under "investigation" but they are claiming not all stores were affected.
+
+url:https://reddit.com/r/YouShouldKnow/comments/73r3o7/
+author:Beetlebug23
+subreddit:YouShouldKnow
+score:3470
+numComments:113
+isOver18:False
+hasPostBody:True

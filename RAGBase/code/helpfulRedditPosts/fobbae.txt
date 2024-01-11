@@ -1,0 +1,13 @@
+title:
+LPT: if you want to have movie night with friends while stuck at home during this, Chrome has an extension called “Netflix Party” that allows you to simultaneously steam content with friends with a chat window and play/pause for everyone in the group to stay synced!
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/fobbae/
+author:AskMeForADadJoke
+subreddit:LifeProTips
+score:2280
+numComments:56
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+YSK: In 1982 a 10-year-old American girl wrote a letter to the leader of the Soviet Union to ask him why he wanted to have a nuclear war with the USA.  He wrote back, and invited her to the USSR to see that Russians are a peaceful people.  She accepted the offer and became famous.
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/s4fd8/
+author:tsatsawassa
+subreddit:YouShouldKnow
+score:1405
+numComments:152
+isOver18:False
+hasPostBody:False

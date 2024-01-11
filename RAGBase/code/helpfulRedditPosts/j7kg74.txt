@@ -1,0 +1,13 @@
+title:
+YSK: You can stop previews from autoplaying when browsing netflix under Account &gt;&gt; Profile &amp; Parental Controls &gt;&gt; Playback Settings
+
+content:
+Why YSK: In my social circle at least, basically everyone hates this feature. I wish I’d heard I could turn it off sooner!
+
+url:https://reddit.com/r/YouShouldKnow/comments/j7kg74/
+author:Fallenovergirl
+subreddit:YouShouldKnow
+score:1297
+numComments:41
+isOver18:False
+hasPostBody:True

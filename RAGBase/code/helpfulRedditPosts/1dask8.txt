@@ -1,0 +1,13 @@
+title:
+LPT: If you struggle with decision making and are constantly on reddit, upvote or downvote every single post. Doing so will cause your basic decision making ability to improve.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1dask8/
+author:SwaggaBoss
+subreddit:LifeProTips
+score:1367
+numComments:308
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: If you tend to forget certain things that need to be done: Set an alarm clock in your phone for EVERYTHING as soon as you get aware of said thing.
+
+content:
+You promised your neighbor to help him out with something in the afternoon? Set an alarm clock. You know that it's going to rain and the laundry has to be brought inside in 30 minutes, but you think you surely won't forget that one? Set an alarm clock! You're on the road and suddenly you think about that one document, that you absolutely need to bring to work tomorrow, but since it's so important you surely won't forget it? Set that alarm clock!
+
+url:https://reddit.com/r/LifeProTips/comments/yqwgpf/
+author:Tetragrammator
+subreddit:LifeProTips
+score:1496
+numComments:72
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT If you want to give something away for free, list it on places like Facebook marketplace with a low price. Then when the buyer turns up, let them have it for free. This reduces the people just trying to resell free stuff, and also makes someone else happy.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/jigwwt/
+author:emailrob
+subreddit:LifeProTips
+score:18859
+numComments:317
+isOver18:False
+hasPostBody:False

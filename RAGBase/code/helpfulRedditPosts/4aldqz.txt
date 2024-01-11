@@ -1,0 +1,15 @@
+title:
+LPT: When purchasing a used car, make sure the check engine light turns on when you first start the car. A lot of people rip out the bulb so you don't know that the car needs repairs!
+
+content:
+I'm paying the price of this mistake 1 year after buying my first car. Purchased a 2004 outback for $3900 in excellent condition (ha, so I thought) only to find out the head gasket is leaking, as well as the O2 sensor and catalytic converter are fucked up. I basically have to buy a new car with the very little money I have and I probably won't get a penny for my own car unless I lie just like the asshole who sold me the car did to me.
+
+Edit: I know the head gasket wouldn't trip the check engine light, but the fact that my o2 sensor and catalytic converter need to be fixed and my CEL has never once turned on tells me that he tampered with it in some way.  Whether he ripped out the bulb or painted it or whatever, the fucking light doesn't light up. That's the point.
+
+url:https://reddit.com/r/LifeProTips/comments/4aldqz/
+author:Buzzdanume
+subreddit:LifeProTips
+score:6640
+numComments:1149
+isOver18:False
+hasPostBody:True

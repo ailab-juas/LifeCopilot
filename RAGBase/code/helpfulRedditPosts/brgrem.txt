@@ -1,0 +1,16 @@
+title:
+YSK If you have Amazon Prime and your delivery is late, you're eligible for some sort of compensation. (Usually 1 free month of Prime)
+
+content:
+Just contact their customer support and they'll hook you up.
+
+
+Works worldwide AFAIK
+
+url:https://reddit.com/r/YouShouldKnow/comments/brgrem/
+author:darknep
+subreddit:YouShouldKnow
+score:1722
+numComments:65
+isOver18:False
+hasPostBody:True

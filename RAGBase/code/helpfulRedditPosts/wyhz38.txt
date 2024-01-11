@@ -1,0 +1,13 @@
+title:
+LPT: when visiting another country, buy spices as your souvenir and cook with them when you get home.
+
+content:
+When you visit another country, visit a local supermarket or food store, and grab a bag of spices to take home. They are cheap, small, light, and you'll be motivated to try making the dishes you enjoyed when you return home. It's a nice way to remember your travels. Commercially dried and bagged spices are generally OK to bring into any country AFAIK.
+
+url:https://reddit.com/r/LifeProTips/comments/wyhz38/
+author:oceanleap
+subreddit:LifeProTips
+score:2489
+numComments:118
+isOver18:False
+hasPostBody:True

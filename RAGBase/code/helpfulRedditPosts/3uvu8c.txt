@@ -1,0 +1,15 @@
+title:
+YSK about StrokeClass.com - An Online Stroke Recovery Exercise Program. Hours of exercise classes &amp; tips tailored specifically to Stroke Survivors made by a Physiotherapist. Free to watch.
+
+content:
+I helped create this website with my Dad and his friend who's a Physiotherapist. We were inspired to create it after my Grandfather passed away from a Stroke. Hope it helps anyone out there who's been affected by Stroke and is looking for another option to improve their recovery.
+
+http://www.strokeclass.com/
+
+url:https://reddit.com/r/YouShouldKnow/comments/3uvu8c/
+author:Kiritohoon
+subreddit:YouShouldKnow
+score:1070
+numComments:26
+isOver18:False
+hasPostBody:True

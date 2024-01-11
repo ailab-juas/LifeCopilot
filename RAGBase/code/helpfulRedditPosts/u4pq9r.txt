@@ -1,0 +1,15 @@
+title:
+LPT: If you’re traveling to a new city, open google maps and download offline of the area
+
+content:
+You can do so by selecting the blue icon then download offline maps. Select offline maps. It will allow you to expand the area for however large you need. 
+
+If you’re downtown of a major city, buildings may block service. If you’re in a rural area there may not be good coverage. Either way, with downloaded maps it will still maintain your route. You may not get real time traffic data but it will help you not get lost in a pinch. Saved me a few times.
+
+url:https://reddit.com/r/LifeProTips/comments/u4pq9r/
+author:fyigamer
+subreddit:LifeProTips
+score:14661
+numComments:197
+isOver18:False
+hasPostBody:True

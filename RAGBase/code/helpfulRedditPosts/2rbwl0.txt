@@ -1,0 +1,15 @@
+title:
+YSK that the Health app on your iPhone has an section to fill in your medical info in case of an emergency. It can be viewed even if the phone is locked.
+
+content:
+It could come in handy, for example, if you are passed out with your phone on you. People could see your name, age, medications, allergies, etc. It also includes a section for emergency contacts. This means it can also be used if you've lost your phone, because there is a number attached where people can call your friend and return the phone. 
+
+To set it up, simply go to the Health app and click the "Medical ID" tab. To view this information later from the lock screen, slide over to "Emergency" and there will be a "Medical ID" button. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/2rbwl0/
+author:HishaamSCB
+subreddit:YouShouldKnow
+score:1428
+numComments:88
+isOver18:False
+hasPostBody:True

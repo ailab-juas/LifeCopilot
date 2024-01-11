@@ -1,0 +1,13 @@
+title:
+LPT: If you ever need nutrition advice see a Registered Dietitian and not a Nutritionist. A Dietitian is a protected term while anyone can call themselves a Nutritionist.
+
+content:
+Note: This applies to the US, other countries follow different designations.
+
+url:https://reddit.com/r/LifeProTips/comments/uelz3o/
+author:danktastic_negro
+subreddit:LifeProTips
+score:20486
+numComments:450
+isOver18:False
+hasPostBody:True

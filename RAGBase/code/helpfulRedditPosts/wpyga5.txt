@@ -1,0 +1,29 @@
+title:
+LPT : You can easily retrieve unsaved closed documents on windows. Nice in private life, and can win some easy good points at work. Done by using the "roaming" file.
+
+content:
+Hello,
+
+For the small story, father lost hours of work by closing Excel file by mistake (angry and sad) found it back in a few minutes with this trick :
+
+windows+R (windows key is windows icon bottom left of keybord)  
+It opens a "Run" box  
+Run : %appdata%  
+It should open the roaming file.  
+Open the microsoft file from roaming.  
+Open excel (or Words or whatever "Office suit soft" depend on what you lost)  
+Open the "whateverthename UNSAVED" file.
+
+There you go, you didn't lose your last Xhours of work just by forgeting to save, or computer crash etc. Nor your coworker, or you manager.
+
+I think it's worth sharing, not everyone knows the trick
+
+Edit : Thanks to u/Tokenside that helped me edit this post for better clarity, english is not my langage and instruction are better thanks to him.
+
+url:https://reddit.com/r/LifeProTips/comments/wpyga5/
+author:SnooGoats4595
+subreddit:LifeProTips
+score:39299
+numComments:444
+isOver18:False
+hasPostBody:True

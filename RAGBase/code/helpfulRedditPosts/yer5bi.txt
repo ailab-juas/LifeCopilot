@@ -1,0 +1,13 @@
+title:
+LPT: If you use a VPN and change your location to Cambodia, you barely get any ad's on YouTube.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/yer5bi/
+author:PrettyLardie
+subreddit:LifeProTips
+score:5789
+numComments:633
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: This whole week in New York is a "code blue"weather emergency. This means that if you see a homeless person on the street seeking shelter, you can call 311, give a description of the person and the location, and an outreach team will be dispatched to assist.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/7op31v/
+author:Hilltopchill
+subreddit:LifeProTips
+score:29898
+numComments:536
+isOver18:False
+hasPostBody:False

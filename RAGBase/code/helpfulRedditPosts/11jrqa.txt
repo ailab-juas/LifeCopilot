@@ -1,0 +1,44 @@
+title:
+LPT: How to avoid being d0xed
+
+content:
+**Alternate title: how to keep your real identity private online.**
+
+As [requested](http://www.reddit.com/r/SubredditDrama/comments/11j1o6/violentacrez_comes_back_from_the_dead_as_mbrutsh/c6mx7yi), here is some information on how to avoid being d0xed.  This has happened to multiple redditors recently, with Violentacrez being the most famous example, but other users of NSFW subreddits, and SRS, have also been d0xed in the last 72 hours, even though that hasn't been widely publicized.  I mostly lurk on this site, but I see this recent d0xing trend as a major problem.  I hope the comments on this post deal mostly with how to harden one's online profile, instead of degenerating into "who's right" in any of the recent dramafests.
+
+As a first point, my title is a lie.  If you do anything online, there is always a trail.  An entity with enough resources, time, and interest can always document your personal identifying information (known as d0xing in hacker slang).  So, for example, I think it is safe to assume that the NSA can connect any username I've ever used on any site to my real identity.  They may not have bothered to do it yet, because I doubt I'm a person of interest to them, but they likely have all the data stored to connect the dots if they needed to.
+
+Most users of this site aren't political activists though.  They are people who would probably prefer that their employers/parents/church not know about their requests for relationship advice, their comments about sexual practices, or the humiliating story they posted on Ask Reddit.  I'm going to provide some information and key links that will (probably) protect you to that extent.  The Reddit Admins might still be able to figure out who you are, but a nosy fellow Redditor won't.
+
+General Tips:
+
+1. **Google every username you've ever used.**  (Also use Bing, Yahoo, Ask, etc.  I'll just say Google from now on.)  This includes handles on message boards, IM, and dating sites.  Close or make private all profiles that come up, so an attacker cannot cross-reference from site to site to get more information about you.
+
+2. Delete your MySpace, Facebook, LinkedIn or at least set them to ridiculously private.  This includes setting it so that people cannot find you through search or search-by-email.  If you need LinkedIn for work, invite people directly.  Don't allow your identifying information to be visible to friends (or at least premium members).  [LinkedIn is a hacker's dream tool](http://money.cnn.com/2012/03/12/technology/linkedin-hackers/index.htm).  The same is true about Facebook.
+
+3. Use multiple online usernames, and compartmentalize what each is for.  For example, on Reddit, use one username to create and moderate subreddits, another to surf NSFW content, and another to post in the default subs.  Also, it's best to scrub your content history regularly, and/or to throw away old usernames and start anew on a regular schedule, such as the first of every month.  These usernames should not be obviously connected to one another ("name001" and "name 002" would not be a good choice).  You can always PM your friends saying that you're using the new name, so people you trust will know.  To make switches from name to name easier, I recommend installing a [password manager](http://www.pcmag.com/article2/0,2817,2381432,00.asp).
+
+4. [Remove your personal information](http://www.howtovanish.com/2011/02/remove-personal-information-from-the-internet/) from the major search engines and databases.  There are a lot more than Google, including some you've never heard of, like Spokeo.  This link provides a list containing most of them.
+
+Good luck, and stay safe.
+----------------
+
+Other links:
+
+[How to delete accounts from any website](http://www.pcmag.com/article2/0,2817,2342599,00.asp) (old but still useful)
+
+[How to stay anonymous online](http://www.pcmag.com/article2/0,2817,2363302,00.asp)
+
+[How to DOX someone](http://www.egyhacks.net/2012/04/how-to-dox.html) (try to do this to yourself)
+
+and, to feel pessimistic, watch to the following presentation of a private investigator
+
+[Privacy is dead, get over it](http://video.google.com/videoplay?docid=3079242748023143842)
+
+url:https://reddit.com/r/LifeProTips/comments/11jrqa/
+author:BeCarefulFolks
+subreddit:LifeProTips
+score:1396
+numComments:369
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+YSK How to spot and avoid ATM pin and credit card skimmers
+
+content:
+Skimmers are devices installed on or near ATM pin pads or gas station credit card machines to capture your personal data e.g. credit card number or PIN.  [Here are some tips on spotting and avoided credit card skimmers](http://netsecurity.about.com/od/securityadvisorie1/a/How-To-Avoid-Credit-Card-Skimmers.htm) and [here are some tips on spotting and avoiding ATM pin skimmers](http://www.tomsguide.com/us/how-to-spot-atm-skimmers,news-17615.html)
+
+Google searches on each topic will of course yield more advice (and pictures of the skimmers so you know what they look like).
+
+url:https://reddit.com/r/YouShouldKnow/comments/236gmq/
+author:Miss_Interociter
+subreddit:YouShouldKnow
+score:1069
+numComments:200
+isOver18:False
+hasPostBody:True

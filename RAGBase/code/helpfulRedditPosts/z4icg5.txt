@@ -1,0 +1,17 @@
+title:
+YSK when to say Less or Fewer in a sentence
+
+content:
+Why YSK: people often don't know when to say Less or Fewer and will mix them up.  So here's a simple rule for when to use each one.
+
+If the thing you're talking about is plural, you would say Fewer, otherwise you'd say Less.  
+
+For example: "There were fewer people at the store today than yesterday" people is plural, so you'd say Fewer.  Where as something like "There is less traffic on the road now" traffic isn't a plural word, even though it may be referring to multiple things, so you would say Less.
+
+url:https://reddit.com/r/YouShouldKnow/comments/z4icg5/
+author:TheGreatVeggie
+subreddit:YouShouldKnow
+score:2014
+numComments:207
+isOver18:False
+hasPostBody:True

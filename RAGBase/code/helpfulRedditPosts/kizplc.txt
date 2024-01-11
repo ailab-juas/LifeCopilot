@@ -1,0 +1,13 @@
+title:
+LPT: Just because someone is successful, doesn’t mean you should follow their advice. Success is a combination of talent, hard work, and luck. They may not know the true reason for their success.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/kizplc/
+author:EdTheCompassionate
+subreddit:LifeProTips
+score:19495
+numComments:475
+isOver18:False
+hasPostBody:False

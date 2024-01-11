@@ -1,0 +1,23 @@
+title:
+LPT: Never buy any cables (HDMI, DVI, DP, VGA, USB, Ethernet, etc) from a store. You can usually find them for a tiny fraction of the price online.
+
+content:
+For example, even the cheapest HDMI cable you can get at Best Buy is going to be about $30 [if you're lucky](http://www.bestbuy.ca/en-CA/product/dynex-dynex-1-8m-6-ft-high-speed-hdmi-cable-dx-c112242-dx-c112242/10185969.aspx?path=7d75927dfad892850b5277ff859ece55en02) or $100 [if you're stupid](http://www.bestbuy.ca/en-CA/product/monster-monster-1-2m-5-ft-hdmi-cable-mc-isf1250-hd-5-efs-mc-isf1250-hd-5-efs/10218692.aspx?path=ce280bb0026dc240fe832dcdf7167650en02).  You can get a functionally identical one from Monoprice for [$3.50](http://www.monoprice.com/products/product.asp?c_id=102&amp;cp_id=10240&amp;cs_id=1024008&amp;p_id=3992&amp;seq=1&amp;format=2).
+
+It's the same for pretty much any other kind of cable or adapter except for those totally-not-a-ripoff proprietary $50 ones Apple sells.
+
+Yesterday one of my MiniDP-to-DP monitor cables got stretched too far and the connector broke off.  [$25](http://www.canadacomputers.com/product_info.php?cPath=98_748&amp;item_id=027900) to replace it at the only shop I managed to find locally which carries this type of cable, versus [$6](http://www.monoprice.com/products/product.asp?c_id=102&amp;cp_id=10246&amp;cs_id=1024606&amp;p_id=6008&amp;seq=1&amp;format=2) at Monoprice.
+
+Monoprice also has small packet airmail service to Canada now which is really nice, though it's only available for packages 4 pounds or less.  It used to be $35 for the cheapest shipping but now it starts at $5.
+
+-----
+
+^(*Does anyone else get a thrill from figuring out the optimal combination of things to buy from an international store wherein you just barely escape higher shipping fees while keeping the most stuff in your cart?  I managed to game a Monoprice shipment once where it appeared in my cart such that increasing the quantity of one virtually weightless item just barely bumped my order into the next weight class, so I dropped the quantity again and placed my order.  When it arrived, I found that UPS billed them for 18 pounds while my cart said 10 pounds.*  ***Thug life.***)
+
+url:https://reddit.com/r/LifeProTips/comments/15ktfv/
+author:[deleted]
+subreddit:LifeProTips
+score:2127
+numComments:807
+isOver18:False
+hasPostBody:True

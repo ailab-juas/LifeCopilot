@@ -1,0 +1,13 @@
+title:
+YSK Google just rolled out a .new domain, type in sheets.new in a browser opens a new spreadsheet
+
+content:
+Similarly , docs.new opens a new Google document and sites.new opens a new site builder. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/9tx4n7/
+author:anandharne
+subreddit:YouShouldKnow
+score:1730
+numComments:45
+isOver18:False
+hasPostBody:True

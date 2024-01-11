@@ -1,0 +1,19 @@
+title:
+YSK: If a company has a manufacturing defect on a larg enough run of a product that does not pose any inherent safety risk or a high chance of consumer lawsuits, they will usually extend the product's warranty instead of shell out the cost of a recall.
+
+content:
+Why YSK: Getting your car fixed? It could be having a part installed thats bad right out of the box, and the mechanic wouldn't even know it. Granted a top notch shop would test said part before installing it but in a busier environment this may not always be the case. 
+
+It is much more affordable for them to take care of each defective unit they knowingly sell to the consumer as they fail vs replacing the whole run.
+
+An example of this I'm sure of would be one I discovered when I use to sell auto parts. 
+
+A specific manufacturer of alternators and starters made enough defective ones over a long enough time and fitment span that they simply changed the product's warranty from 3 years to lifetime to save the face of their brand. Let alone the crippling cost of recalling pretty much every one they made for several years. There was no cost effective way to find the bad ones already on shelves all across the country.
+
+url:https://reddit.com/r/YouShouldKnow/comments/j61h6z/
+author:suckitfortwo22
+subreddit:YouShouldKnow
+score:7560
+numComments:121
+isOver18:False
+hasPostBody:True

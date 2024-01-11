@@ -1,0 +1,57 @@
+title:
+This ACTUALLY works if you drop your phone in water. I'm tired of this terrible advice everyone gives. I've been in the industry for 10+ Years and saved 100's of phones.
+
+content:
+If you drop and fully submerse/drench your phone in liquid...
+
+**DO NOT check your phone to see if it works, unless you want circuits to short immediately and screw yourself with zero recourse available.**
+
+**DO NOT throw it in a gross bag of rice.** 
+
+You wiill need
+
+*As much silica as possible (raid your suitcases, wife's shoe boxes, ikea flat packs, electronics, etc.) keep this stuff when you find it. It's handy!*  
+
+*1 Tupperware or Ziplock bag.* 
+
+*Isopropyl Alcohol (optional, mostly).* 
+
+*Paper Towels.* 
+
+*Dish Towels.* 
+
+*1 salad spinner.*
+
+*1 hope in hell.*
+
+*1 bottle of nicely aged scotch to cry yourself to sleep with from the anxiety of possibly just carelessly destroying a beautiful magical $800 extension of your life.*  
+
+DO remove all accessories, batteries (sorry iPhone users) and sim/memory cards.  If your phone was dropped in sugary liquid (and ONLY if dropped in sugary liquid) completely submerge your phone in 100% rubbing alcohol (yes, I'm actually serious). You want to avoid the alcohol part if you just dropped it in water as you run the risk of dissolving adhesives inside the phone. If it was dropped in yesterday's glass of coke you'll be just as screwed if you don't do this step as your phone WILL ultimately stop functioning from the sugar residue, so the iso bath is worth the risk and SHOULD be done.
+
+Lay your phone in a bed of paper towels or dish towels in a salad spinner if possible. If you don't have a salad spinner available it's not the end of the world, skip step if needed. Place phone on side against wall of spinner with screen facing the centre of the spinner, we want the liquid pulled away from the screen and towards the battery area. After a good amount of delicious centrifugal force has been applied (couple minutes, tops) in salad spinner, shake that phone like your life depended on it (keep a FIRM grip or it will end up as a decoration lodged in your drywall) until you're not getting spray out of it with each shake.
+Place in ziplock bag with screen facing UP with as much silica gel as possible for TWO DAYS without breaking the seal. If you have enough silica gel packets, pack the battery compartment with them and place around all sides of phone. Get as much coverage as possible. DO NOT CHECK ON IT FOR THE ENTIRE TWO DAYS. I'm anal about this, but silica is wicking moisture and we want this the entire 48 hours without interruption. 
+
+While your phone is doing it's drying thing, clean contacts of the sim/memory card with alcohol wipe or isopropyl and paper towel/whatever. 
+
+This works. I have saved MANY, MANY phones using this technique.
+You want to start this process as quickly as possible, get that thing powered OFF.  Circuits start blowing pretty much immediately.
+
+
+ While this process works well, a lot of the time previously wet phones are still ticking time bombs, especially if exposed to moisture while turned on (which is almost always) and left on for two long after exposure. You may notice buttons start to go, camera gets wonky, etc. That being said, I have many people who have no problems in the future at all. It's a good process and I swear by it.
+
+And remember make this process AS FAST AS POSSIBLE.
+
+ I've been in the telecoms industry for years, this is what I do.
+
+Good luck and god speed!
+
+-jar311
+
+
+url:https://reddit.com/r/LifeProTips/comments/1npt9v/
+author:[deleted]
+subreddit:LifeProTips
+score:3594
+numComments:934
+isOver18:False
+hasPostBody:True

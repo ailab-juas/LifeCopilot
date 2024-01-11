@@ -1,0 +1,13 @@
+title:
+YSK that not everything here will apply to you.
+
+content:
+There's always someone in every thread complaining about how it doesn't matter to them. We get it, you're a special snowflake, but the world doesn't revolve around you. Learning something new is never a bad thing. You can never know for sure if you'll never need certain information.  
+
+url:https://reddit.com/r/YouShouldKnow/comments/34pbrf/
+author:C-C-X-V-I
+subreddit:YouShouldKnow
+score:1086
+numComments:98
+isOver18:False
+hasPostBody:True

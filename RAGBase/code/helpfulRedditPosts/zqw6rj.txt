@@ -1,0 +1,25 @@
+title:
+YSK many food banks, though not all food banks, will accept some past-date foods.
+
+content:
+*First things first, the best thing to donate to food banks is money. Rather than you buying 10/$10 ravioli and bringing over a case, they have the purchasing power and connections to buy 20/$8 ravioli or whatever. Point is, they can get deals the general public usually doesn't have access to.*
+
+WHY YSK:
+
+Different date labels on food have different meanings. In the US, infant formula is the only food federally regulated to have an expiration date; everything else is the manufacturer being nice to the consumer. On general foodstuffs you'll still see "expires by" but you'll also see "sell by", "use by", "best by" and other dates. I've heard arguments on these that range from "seller just wants you to have a fresh product" to "yes it WILL go bad" to "they do it so you'll throw away the old stuff to buy more, even if the old stuff is still fine". Whatever the reason is, for this thread it doesn't matter.
+
+What does matter is, there are foods that are safe to consume after the labeled date. Food pantries know this. And some food pantries will accept certain expired foods up to a point after the label's date.
+
+If you are picky about date labels, no one is judging. If you're going to throw away a bunch of "expired" food though, if it's still sealed and is something a food bank would have accepted before the label date, it might be something they'll still accept now.
+
+Your local food bank may or may not advertise this on their website. You can contact your local food pantries and ask.
+
+For more reading, check out this article *“Expiration” Dates: Can You Donate Past-Date Packaged Foods?* at https://www.nycfoodpolicy.org/expiration-dates-can-you-donate-past-date-packaged-foods/
+
+url:https://reddit.com/r/YouShouldKnow/comments/zqw6rj/
+author:MondoDudeBro
+subreddit:YouShouldKnow
+score:4926
+numComments:112
+isOver18:False
+hasPostBody:True

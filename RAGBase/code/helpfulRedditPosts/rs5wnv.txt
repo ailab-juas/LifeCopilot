@@ -1,0 +1,20 @@
+title:
+YSK: Bing's search engine has a very weak content filtering. It seems that its Safe Search function only filters known explicit domains and not the image's content. (Instructions below to all-too-easy-to-stumble-upon NSFL Content)
+
+content:
+Why YSK: Anecdotal Proof &gt;!\--WARNING: NSFL Images--/ Try searching "5 gum meme" on Bing with the Safe Search set as strict as you like --WARNING: NSFL Images--/!&lt;
+
+Parents may want to restrict image searching to more proven-safe  search engines to avoid "impressionable minds" from being scarred. Realistically, very few of us want to be greeted with random gore when looking for mundane things on the internet.
+
+We should know which tools are best used for finding uncurated results (DuckDuckGo?) and which are better for accuracy and predictable results (Google). I'm just an average user and would welcome suggestions below for alternative Search Engines and what in particular they excel at.
+
+UPDATE: This is so much worse than I thought it was at first. Not only is the first result of that previous search currently extreme IRL x-rated gore, but you get the same exact result simply by opening the start menu and typing it in the windows search. It's just right there. Nothing asking if you want to see web results or images or anything just right there.
+I'm not particularly disturbed by gore myself, and I wouldn't make a fuss about this, but people have kids, who search for memes, who use windows. They don't even have to use bing by default now. Microsoft's bloatware has never really bothered me much before, but for this, I'm actually livid. I hate armchair activism, but what can I do about this besides complain on reddit? I'm open to suggestions.
+
+url:https://reddit.com/r/YouShouldKnow/comments/rs5wnv/
+author:ATacticalBagel
+subreddit:YouShouldKnow
+score:5795
+numComments:335
+isOver18:True
+hasPostBody:True

@@ -1,0 +1,27 @@
+title:
+YSK Ableton Live 10 Lite, a professional digital audio workstation, is free to download right now.
+
+content:
+Why YSK:
+
+I have been using the Live 10 Suite version of ableton for a couple years, and I consider it to be the best software there is in terms of making music. Although the lite version is a little less featureful, there are plenty of free plugins and VST instruments that are super polished and sound awesome.
+
+[Link](https://splice.com/daws/38929163-live-10-lite-vst-by-ableton)
+&gt; Note: This is offer only lasts until 2020-12-24, but if you get it you should have access forever!
+
+Good free VSTs include:
+- [Vital](https://vital.audio/)
+- [Helm](https://tytel.org/helm/)
+- [Melda Audio's free bundle](https://www.meldaproduction.com/)
+- [Spitfire LABS](https://labs.spitfireaudio.com/)
+- [Keyzone Piano](https://vst4free.com/plugin/2848/)
+
+Edit: Wow this blew up, honestly didn't expect anything of this caliber at all. I hope I can get to answer a few more comments in the next hour or so. I've also updated the VST list with links (thanks, u/devinviss!) and a link to the actual page where you can get it (thanks, u/Roygbiv856!).
+
+url:https://reddit.com/r/YouShouldKnow/comments/ki5ntn/
+author:norman251
+subreddit:YouShouldKnow
+score:1619
+numComments:90
+isOver18:False
+hasPostBody:True

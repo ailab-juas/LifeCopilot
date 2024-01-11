@@ -1,0 +1,17 @@
+title:
+YSK there's a difference between cleaning out a "dryer lint filter/screen" and cleaning out "the inside of a dryer trap."
+
+content:
+Why YSK: a lot of people regularly clean their lint screens/filters but don't actually clean out the lint trap itself, which can lead to bad dryer performance and even risk a fire.
+
+A lot of posts on Reddit recently have shown "lint traps" being cleaned out. Most of these videos/gifs are actually just the **lint screens/filters** or are outside the dryer itself. Don't think mistake cleaning out the filter for being the same thing as cleaning out the **inside of the trap** itself.
+
+Here's a few photos that walk you through what the difference is: https://imgur.com/a/aANbamo
+
+url:https://reddit.com/r/YouShouldKnow/comments/kpqwwh/
+author:405freeway
+subreddit:YouShouldKnow
+score:1202
+numComments:45
+isOver18:False
+hasPostBody:True

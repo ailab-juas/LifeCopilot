@@ -1,0 +1,13 @@
+title:
+LPT: When wiring up a bathroom, install dimmable lights and light switches. They are MUCH easier on the eyes for those middle of the night events, and can double as a night light when you have guests.
+
+content:
+I did this to our main bedroom years ago, and have installed them in other bathrooms since then.  In many cases, it's as easy as replacing the light switch.  Of course, this doesn't work with fluorescent bulbs, and I'm not at all sure of the state of the technology with respect to LEDs.
+
+url:https://reddit.com/r/LifeProTips/comments/4znxtx/
+author:GazpachoZen
+subreddit:LifeProTips
+score:5417
+numComments:1484
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+YSK about the 5-10 rule when naming a project or business. Most businesses excel with 5-10 characters, at least one consonant, and one set of repeating letters. This makes the business name more recognizable and easier to fit in email subjects and 140 character limits.
+
+content:
+I thought that was interesting as I've never given much thought to the process of naming things. 
+
+[You can learn more about the facts and science behind naming businesses here.](https://datahero.com/blog/2015/01/27/name-company-infographic/)
+
+url:https://reddit.com/r/YouShouldKnow/comments/2vrz9j/
+author:[deleted]
+subreddit:YouShouldKnow
+score:2443
+numComments:283
+isOver18:False
+hasPostBody:True

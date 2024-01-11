@@ -1,0 +1,15 @@
+title:
+LPT: When giving a PowerPoint presentation in front of a group of people, memorize the transition phrases you will use between each slide rather than what you will say with the slide.
+
+content:
+If you have trouble sounding natural or you panic and your mind goes blank speaking in public, try this method of preparing for a presentation. Memorize short, contentless transition phrases so you can say them on autopilot between slides and use that time to calm the initial panic.  You'll be able to collect your thoughts and sound more comfortable and confident when speaking about the slide content. It might not work for everyone but it took me nearly 27 years to figure out and has helped me immensely!
+
+Edit: this is especially effective if you know the content really well but react to public speaking like a deer in headlights and suddenly forget how to form proper sentences (speaking from experience.)
+
+url:https://reddit.com/r/LifeProTips/comments/5yywsw/
+author:logicallucy
+subreddit:LifeProTips
+score:13617
+numComments:491
+isOver18:False
+hasPostBody:True

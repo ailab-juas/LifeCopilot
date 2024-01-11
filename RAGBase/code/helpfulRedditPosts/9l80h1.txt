@@ -1,0 +1,13 @@
+title:
+LPT: When you're taking someone's photo, count to three, then keep counting until they laugh at you.
+
+content:
+I'm no professional but I've been doing this for a while now and it hasn't failed to get a genuine smile rather than a forced 'photo face'.
+
+url:https://reddit.com/r/LifeProTips/comments/9l80h1/
+author:gmf24
+subreddit:LifeProTips
+score:42520
+numComments:952
+isOver18:False
+hasPostBody:True

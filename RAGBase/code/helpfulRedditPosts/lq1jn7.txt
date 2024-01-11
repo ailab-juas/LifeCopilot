@@ -1,0 +1,13 @@
+title:
+LPT: Texans, you are about to experience the worst potholes many of you have ever seen. Make sure your tire pressure is correct for your vehicles, drive slowly, give plenty of distance between your vehicle and the one in front of you, and don't trust puddles. Love from Michigan.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/lq1jn7/
+author:this1tyme
+subreddit:LifeProTips
+score:134320
+numComments:4121
+isOver18:False
+hasPostBody:False

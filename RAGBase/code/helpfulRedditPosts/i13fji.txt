@@ -1,0 +1,15 @@
+title:
+YSK: If someone has a problem with a simple, obvious solution that they're aware of but not doing, don't tell them to just do the solution. The real problem is the underlying one that prevents them from doing it.
+
+content:
+Nobody wants to have problems for no other reason than because having problems is fun. An alcoholic knows that they should just stop drinking, a hoarder knows they should just stop gathering stuff, someone who self-harms knows they should just stop cutting. These are obvious problems with obvious solutions.
+
+Saying "why don't you just [stop the thing/not do that/stop having the problem]" isn't useful advice, and doesn't make the hearer value your opinion. The real problem is an underlying one, a psychological issue that drives them to a harmful behaviour in the first place. Telling someone to simply hide the visible symptom of an underlying issue isn't useful to anyone involved.
+
+url:https://reddit.com/r/YouShouldKnow/comments/i13fji/
+author:takaperoinen-miete
+subreddit:YouShouldKnow
+score:23584
+numComments:484
+isOver18:False
+hasPostBody:True

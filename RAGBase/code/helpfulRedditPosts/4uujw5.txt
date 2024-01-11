@@ -1,0 +1,13 @@
+title:
+LPT - Focus on the small successes in your everyday life. Success is hugely motivational and even a small success can motivate you towards a larger success.
+
+content:
+This is something I've been toying with for a while. The idea of treating anything positive as a success. Make a big deal out of it, write it down, tell someone about it. You'll feel more successful, which will drive you towards even bigger success. It's weird how our brains work. 
+
+url:https://reddit.com/r/LifeProTips/comments/4uujw5/
+author:RogerCrabbit
+subreddit:LifeProTips
+score:2046
+numComments:58
+isOver18:False
+hasPostBody:True

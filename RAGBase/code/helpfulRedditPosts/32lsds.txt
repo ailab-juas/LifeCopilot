@@ -1,0 +1,26 @@
+title:
+YSK that you can totally customize Netflix
+
+content:
+With the chrome extension Flix Plus, you can customize your Netflix to do things like: 
+
+* Hide the descriptions of episodes of television shows to avoid seeing spoilers by accident
+
+
+* Show reviews from Rotten Tomatoes instead of having to decipher the sometimes-misleading Netflix star system
+
+* Hide movies and shows you've already seen and/or rated so that everything you're searching through is new content
+
+* And more! ... check out [this LifeHacker article](http://lifehacker.com/flix-plus-customizes-netflix-to-your-hearts-desire-1640968001) about it. 
+
+I promise I don't work for LifeHacker or chrome, but this has totally changed the way I use Netflix!
+
+Edit: fixed link
+
+url:https://reddit.com/r/YouShouldKnow/comments/32lsds/
+author:cochon1010
+subreddit:YouShouldKnow
+score:1998
+numComments:146
+isOver18:False
+hasPostBody:True

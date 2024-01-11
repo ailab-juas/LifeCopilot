@@ -1,0 +1,13 @@
+title:
+YSK: a lot of places have new checkout software that automatically asks for tip. That doesn’t mean the employees get it.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/YouShouldKnow/comments/sx0d59/
+author:[deleted]
+subreddit:YouShouldKnow
+score:18427
+numComments:920
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Blow your nose while taking a shower. Everything flows better there.
+
+content:
+Edit: U DON'T HAVE TO BRING TISSUES INTO THE SHOWER WITH YOU, just cup your hands like you would with a normal tissue then blow.
+
+url:https://reddit.com/r/LifeProTips/comments/3gzgso/
+author:nikolasreddit
+subreddit:LifeProTips
+score:4302
+numComments:899
+isOver18:False
+hasPostBody:True

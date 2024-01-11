@@ -1,0 +1,13 @@
+title:
+LPT: If the power goes out, search for WiFi networks on your phone to see if everyone's power is out.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/g1bhjs/
+author:dazzlingdiver
+subreddit:LifeProTips
+score:33888
+numComments:682
+isOver18:False
+hasPostBody:False

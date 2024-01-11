@@ -1,0 +1,13 @@
+title:
+LPT: Before telling your landlord you're moving, ask them to fix anything broken that you're worried you might get charged for. They often will, and then when you move out they won't be able to take it out of your security deposit.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/dcgs9p/
+author:Complaingeleno
+subreddit:LifeProTips
+score:51584
+numComments:1167
+isOver18:False
+hasPostBody:False

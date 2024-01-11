@@ -1,0 +1,39 @@
+title:
+YSK organic food is not healthier and organic farming is not more eco-friendly
+
+content:
+*tl;dr*: **Lower yield on organic farms means more farmland has to be used to produce the same amount of food. More farmland means more habitat destruction, more emissions, and greater inputs of water/fertilizer/pesticides.**
+
+----
+
+"Organic" is a rather ill-defined term, and many people choose to buy organic thinking that an organic label guarantees that their food is healthier or better for the environment. Although certain organic methods are more eco-friendly, and perhaps certain organic foods are healthier, farmers who choose to get organic certification are deliberately choosing to not use non-organic methods which are demonstrably superior. **The best practice for farmers is to use whichever methods are shown to be sustainable, organic or non-, without placing arbitrary restrictions on what can be used.**
+
+Many people believe organic means no pesticides are used. That is not true: organic farms can use pesticides so long as they are not synthetic. This is an arbitrary distinction, as [many organic pesticides are significantly more toxic to humans or more harmful to the environment than synthetic alternatives](http://risk-monger.blogactiv.eu/2015/11/12/the-risk-mongers-dirty-dozen-12-highly-toxic-pesticides-approved-for-use-in-organic-farming/). Toxicity to humans is mostly a concern for people living near farms or the applicators themselves because by USDA regulations pesticide residues on produce must be [at least 100x lower than the lowest dose known to cause harm](http://www.ams.usda.gov/AMSv1.0/getfile?dDocName=stelprdc5102692). Toxicity to the environment is a serious concern, especially for metal-based compounds (eg. copper sulphate) which can bioaccumulate, and synthetic pesticides are often designed with reduced environmental toxicity as a priority.
+
+Organic also means that the crops are not products of biotechnology (genetically engineered (GE) or "GMOs"). However, organic crops can be developed by randomly mutating the crop with methods [such as radiation mutagenesis.](http://imgur.com/G93R6Z3) These old methods are untested, the mutations are uncharacterized, and the crops are sold with zero regulations. An organic farmer could bombard hir seeds with radiation, grow the mutant crops, and sell them to you without a single biochemical test. Meanwhile, GE cultivars are produced over the course of years with careful analysis of the desired mutations, characterizing each change and assessing the effect on the plant - and that process is stringently regulated. 
+
+More important than the pesticides or the seed development technique used, though, are the direct ecological impacts of farming itself. Modern farming methods are able to mitigate environmental harm by using more sustainable tillage methods, careful use of exclusion barriers, optimizing fertilizer/pesticide/water inputs and land use. Choosing to not use pesticides and only use organic fertilizers sounds like a great idea, until you lose more than half of your crop to pests, voiding any ecological benefits you thought would occur!
+
+Here are some resources for a good start into the issue:
+
+[The key challenges in conventional farming are to improve soil quality (by versatile crop rotations and additions of organic material), recycle nutrients and enhance and protect biodiversity. In organic farming, the main challenges are to improve the nutrient management and increase yields. In order to reduce the environmental impacts of farming in Europe, research efforts and policies should be targeted to developing farming systems that produce high yields with low negative environmental impacts drawing on techniques from both organic and conventional systems.](http://www.ncbi.nlm.nih.gov/pubmed/22947228)
+
+[All estimates of differences in nutrient and contaminant levels in foods were highly heterogeneous except for the estimate for phosphorus; phosphorus levels were significantly higher than in conventional produce, although this difference is not clinically significant. The risk for contamination with detectable pesticide residues was lower among organic than conventional produce (risk difference, 30% [CI, −37% to −23%]), but differences in risk for exceeding maximum allowed limits were small.](http://annals.org/article.aspx?articleid=1355685)
+
+[When you really dig into the research on the hierarchy of ecological impacts, pesticides represent a drop in the sustainability bucket when compared to land use, water use, pollution and greenhouse gases. In fact, it may seem counter-intuitive but, pesticides can play a substantial role in mitigating the damage associated with many of those other factors. Pesticides allow for us to grow more food on less land, limit the wasting of fuel and water, and help curb erosion and run-off.  There is nothing sustainable about pouring inputs into growing food that is destroyed by pests.](http://fafdl.org/blog/2015/03/06/focus-on-pesticides-is-a-distraction-from-major-eco-impacts/)
+
+[...the environmental superiority of organic cannot be assumed. While “only natural” is appealing as a marketing message, it is not the best guide for how to farm with minimal environmental impact. Between rigorous, science-based regulation, public and private investments in new technology development, and farmer innovation, modern agriculture has been making excellent environmental progress. That trend, not organic, is what we need to encourage.](http://www.science20.com/agricultural_realism/six_reasons_organic_not_most_environmentally_friendly_way_farm-110209)
+
+[We should choose farming methods that truly address our real concerns — safety and sustainability — not simply methods that satisfy an arbitrary marketing label. To whatever extent these practices include methods that are permitted under organic rules, that's just fine; but there's never a case when a safe, more efficient, and sustainable modern technology that feeds more people worldwide should be disallowed for no logical reason.](https://skeptoid.com/episodes/4166)
+
+---
+
+If you are concerned about sustainable farming and reducing negative ecological impacts, there is no easy answer. Buying food grown locally helps reduce emissions from transportation, and allows you to speak with the farmers directly to ask about what suites of pesticides or fertilizers they use and how they mitigate potential harms. Truth be told, this is a lot more effort than most people are willing to spend - and that's fair. Just be aware that buying "organic" doesn't mean you are doing the world a favour; you are just buying into a very clever marketing scheme which preys on legitimate concerns.
+
+url:https://reddit.com/r/YouShouldKnow/comments/50pgji/
+author:Decapentaplegia
+subreddit:YouShouldKnow
+score:3009
+numComments:575
+isOver18:False
+hasPostBody:True

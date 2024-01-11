@@ -1,0 +1,19 @@
+title:
+YSK that in order for most sushi or other types of raw fish meals to be served legally in the US, it must first be frozen to kill any potential parasites.
+
+content:
+Why YSK: Many places in the US will advertise "fresh" sushi, especially when they are close to an ocean. In reality, the amount of time the fish needs to be frozen before it can legally be served according to FDA standards is enough time for the fish to be shipped across the country with time to spare. This also means you shouldn't assume the freshness of raw fish based on proximity to the water, as these restaurants will not have any system in place to ensure that you're eating a fish caught that day if it isn't meant to be cooked before serving. They'll likely have a freezer with dates that have an earliest serve date, but not a last one.
+
+This is also important if you want to make homemade sushi or sashimi from fish that you've caught yourself or purchased from a market. If it isn't labeled "sushi grade" or something similar, then you'll need to freeze it for at least 48 hours before you should serve it.
+
+The most common exception to this rule is tuna as they have incredibly clean meat.
+
+This differs from country-to-country, so you should check local regulations to know for sure. For instance, Japan does not have this requirement and therefore trades freshness for risk of parasite infection.
+
+url:https://reddit.com/r/YouShouldKnow/comments/u6pzay/
+author:Revenge_of_the_Khaki
+subreddit:YouShouldKnow
+score:3254
+numComments:105
+isOver18:False
+hasPostBody:True

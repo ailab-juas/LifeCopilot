@@ -1,0 +1,14 @@
+title:
+YSK: if the heat is out at your home you can leave the faucet on a slow drip. It will help to prevent a pipe burst.
+
+content:
+A good homeowners tip that can save you from an expensive repair.
+Edit: To help with confusion, this tip is in case of temperatures approaching and/or below zero! No one wants frozen pipes. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/3x10y9/
+author:ABadBear
+subreddit:YouShouldKnow
+score:2233
+numComments:154
+isOver18:False
+hasPostBody:True

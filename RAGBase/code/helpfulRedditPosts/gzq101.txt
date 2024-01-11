@@ -1,0 +1,20 @@
+title:
+LPT: When talking to customer service, instead of saying ‘you’ say the company’s name
+
+content:
+People tend to become defensive when you say a pointed ‘you’, but if you put the onus on the company as opposed to the customer service rep (who’s fault it never was) you are much more likely to get results. 
+
+For example: 
+“I would like you to compensate me for your errors” 
+
+Change it to, 
+
+“I would like [Company] to compensate me for their errors”
+
+url:https://reddit.com/r/LifeProTips/comments/gzq101/
+author:pettyforddd
+subreddit:LifeProTips
+score:4843
+numComments:155
+isOver18:False
+hasPostBody:True

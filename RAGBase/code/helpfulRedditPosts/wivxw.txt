@@ -1,0 +1,13 @@
+title:
+very simple relationship pro tip
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/wivxw/
+author:ThisIsRummy
+subreddit:LifeProTips
+score:1634
+numComments:121
+isOver18:False
+hasPostBody:False

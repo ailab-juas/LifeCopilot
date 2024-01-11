@@ -1,0 +1,15 @@
+title:
+YSK about Google Scholar. It indexes "full-text journal articles, technical reports, preprints, theses, books, and other documents, including selected Web pages that are deemed to be 'scholarly."
+
+content:
+scholar.google.ca 
+
+If you are a student and on your school's network, most of the full articles can be accessed for free. If you are on a private network, only the abstract will be free for most, the rest (because they are commercial) will cost a fee.
+
+url:https://reddit.com/r/YouShouldKnow/comments/29wb3l/
+author:ThePhilosopherPops
+subreddit:YouShouldKnow
+score:1208
+numComments:62
+isOver18:False
+hasPostBody:True

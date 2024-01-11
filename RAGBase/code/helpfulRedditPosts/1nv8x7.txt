@@ -1,0 +1,15 @@
+title:
+YSK about Worldometers, a site with live counts from multiple topics such as world population, government, health, water, the environment, and most of all relevant right now - global healthcare expenditure.
+
+content:
+The site can be found here: http://www.worldometers.info/
+
+PUBLIC SERVICE EDIT: Yes, I know it is not truly live. The word got thrown in there somehow.
+
+url:https://reddit.com/r/YouShouldKnow/comments/1nv8x7/
+author:Mainstay17
+subreddit:YouShouldKnow
+score:1250
+numComments:126
+isOver18:False
+hasPostBody:True

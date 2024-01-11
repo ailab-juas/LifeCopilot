@@ -1,0 +1,13 @@
+title:
+LPT: Always fill up your vehicle on the way home instead of in the morning. You never know when you'll get a middle of the night emergency pick up request, evacuation, or a general situation that requires you to get in the vehicle and go at any hour.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/odxk8k/
+author:Varides
+subreddit:LifeProTips
+score:23912
+numComments:928
+isOver18:False
+hasPostBody:False

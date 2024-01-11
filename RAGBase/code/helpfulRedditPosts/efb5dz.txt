@@ -1,0 +1,13 @@
+title:
+LPT: Add a site's name after your Gmail address to track who's selling your data. Eg: registering with john.doe+amazon@gmail.com sends all email to John.doe@gmail.com This way when you get spam, look at the 'to' in the email, it should have john.doe+amazon@gmail.com, revealing Amazon sold your data
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/efb5dz/
+author:leadfoot19
+subreddit:LifeProTips
+score:35282
+numComments:897
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: If you can smell the soup/stew you're microwaving, stir it.
+
+content:
+It's probably done.
+
+url:https://reddit.com/r/LifeProTips/comments/3iwl77/
+author:jaydenkirtawn
+subreddit:LifeProTips
+score:1538
+numComments:197
+isOver18:False
+hasPostBody:True

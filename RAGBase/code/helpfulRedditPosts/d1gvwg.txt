@@ -1,0 +1,13 @@
+title:
+LPT: if your shoelaces are always coming untied the reason is the rest of your laces aren't tight enough. No matter how tight you tie the bow, slack in the laces will work it's way up to loosen the bow.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/d1gvwg/
+author:notathrowawayfukit
+subreddit:LifeProTips
+score:5183
+numComments:192
+isOver18:False
+hasPostBody:False

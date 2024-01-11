@@ -1,0 +1,17 @@
+title:
+LPT: You can easily download all of your Facebook content and finally leave the service.
+
+content:
+If you are concerned about losing all of your content, you can go to:
+
+Settings -&gt; Your Facebook Information -&gt; Download Your Information
+
+Edit: Yes, this includes all of your photos
+
+url:https://reddit.com/r/LifeProTips/comments/hv6fjc/
+author:TheyCallMeDrAsshole
+subreddit:LifeProTips
+score:32545
+numComments:1015
+isOver18:False
+hasPostBody:True

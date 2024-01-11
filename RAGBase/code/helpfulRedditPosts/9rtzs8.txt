@@ -1,0 +1,13 @@
+title:
+LPT: Change the extension of any word document, spreadsheet or power point presentation to .zip. Then unzip the file and you'll find a media folder containing all the documents images.
+
+content:
+Mac and Linux may require an unzip via terminal for some document types
+
+url:https://reddit.com/r/LifeProTips/comments/9rtzs8/
+author:GoldenGee
+subreddit:LifeProTips
+score:19054
+numComments:280
+isOver18:False
+hasPostBody:True

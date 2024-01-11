@@ -1,0 +1,13 @@
+title:
+LPT: Just because it’s a holiday doesn’t mean you have to spend it with family/loved ones who are detrimental to your mental health. Happy Thanksgiving!
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/z3k0tg/
+author:SirCSquared
+subreddit:LifeProTips
+score:4888
+numComments:123
+isOver18:False
+hasPostBody:False

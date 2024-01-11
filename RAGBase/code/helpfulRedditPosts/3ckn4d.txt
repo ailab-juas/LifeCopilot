@@ -1,0 +1,13 @@
+title:
+LPT: When you have no cell signal, send yourself a text. When you receive it you know you are back in range of a cell tower.
+
+content:
+Saves you from checking the screen every 5 min or missing that one sweet spot of service.
+
+url:https://reddit.com/r/LifeProTips/comments/3ckn4d/
+author:hoodfsqul
+subreddit:LifeProTips
+score:2594
+numComments:191
+isOver18:False
+hasPostBody:True

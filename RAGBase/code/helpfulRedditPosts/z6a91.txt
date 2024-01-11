@@ -1,0 +1,13 @@
+title:
+Instead of Reddit pics app type down www.imgur.com/r/(any subreddit) and you get the pics and it is easy to go through
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/z6a91/
+author:TheBiznoid
+subreddit:LifeProTips
+score:1140
+numComments:86
+isOver18:False
+hasPostBody:False

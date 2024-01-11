@@ -1,0 +1,13 @@
+title:
+LPT: Only put items in storage if you have a plan to take it out of storage.
+
+content:
+If you have no plan to remove the item from storage, sell it instead. Storage fees are expensive and many people abandon their stored items after paying storage fees for items they will never use again.
+
+url:https://reddit.com/r/LifeProTips/comments/2r3u3b/
+author:NewMaterialOnly
+subreddit:LifeProTips
+score:3060
+numComments:649
+isOver18:False
+hasPostBody:True

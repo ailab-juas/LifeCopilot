@@ -1,0 +1,15 @@
+title:
+LPT: if you have an elderly family member that lives alone, get a copy of their house key made and keep it in a lock box outside the home just in case they need help
+
+content:
+An elderly family member recently fell and broke a bone, we got a key lock box and all the family helpers (kids/grandkids) have the combo to the lock box so we can come in and help anytime they call. 
+
+It can even help ems access the house because they can give the lock location and combo to dispatch.
+
+url:https://reddit.com/r/LifeProTips/comments/m552x3/
+author:marutiyog108
+subreddit:LifeProTips
+score:8989
+numComments:170
+isOver18:False
+hasPostBody:True

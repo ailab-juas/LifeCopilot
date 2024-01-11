@@ -1,0 +1,17 @@
+title:
+YSK what GIFV is: HTML5 video and usable with any animated image on Imgur.
+
+content:
+Many people know this as WEBM. GIFV is just the automatic conversion on Imgur to WEBM. A lot of people don't realize that mobile users cannot load a 10 MB GIF (large, I know, but it happens pretty often) in a reasonable amount of time. That's where GIFV comes into play. [Read more about Imgur GIFV here](https://imgur.com/blog/2014/10/09/introducing-gifv/). Essentially, GIFV is better compressed. Also, since GIFV on Imgur is HTML5 video, you can pause it and rewind it in your browser. Phones support this too.  
+
+Example: https://i.imgur.com/1Uvc82n.gif and https://i.imgur.com/1Uvc82n.gifv are the same GIF, but one is a GIF and the other is a GIFV. The GIF is 4.9 MB, while the GIFV is 500 KB. That's almost 1/10 the size. 
+
+I don't think breaks rule 3 because I'm just using Imgur. Imgur has it built in and is just an image sharing site. This is just info about HTML5 video/WEBM and how it's superior to traditional GIFs.
+
+url:https://reddit.com/r/YouShouldKnow/comments/3sanyz/
+author:Flames5123
+subreddit:YouShouldKnow
+score:1056
+numComments:73
+isOver18:False
+hasPostBody:True

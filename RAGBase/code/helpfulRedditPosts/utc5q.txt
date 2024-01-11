@@ -1,0 +1,14 @@
+title:
+LPT - Place some paper towels under the soda carton 
+so as it gets low, the sodas roll forward
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/utc5q/
+author:InMSWeAntitrust
+subreddit:LifeProTips
+score:1203
+numComments:236
+isOver18:False
+hasPostBody:False

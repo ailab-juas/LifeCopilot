@@ -1,0 +1,13 @@
+title:
+LPT: When writing a thesis or scientific paper, don't end the day with a completed section. Write a few sentences into the next section to help yourself get started the next day.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5ljp12/
+author:spadesMagic
+subreddit:LifeProTips
+score:15691
+numComments:320
+isOver18:False
+hasPostBody:False

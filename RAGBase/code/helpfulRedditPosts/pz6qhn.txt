@@ -1,0 +1,13 @@
+title:
+LPT: If you are in a moral dilemma, and you don’t know whats the right thing to do, think about the person you most respect and try to think what that person would do in the same situation.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/pz6qhn/
+author:Old-Entertainment-19
+subreddit:LifeProTips
+score:3034
+numComments:167
+isOver18:False
+hasPostBody:False

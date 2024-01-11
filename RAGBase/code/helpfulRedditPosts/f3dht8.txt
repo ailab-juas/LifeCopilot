@@ -1,0 +1,13 @@
+title:
+YSK Because NASA is a public funded entity, most of their videos, images and audio hold no copyright and can be used at your leisure.
+
+content:
+They have a huge collection which can be found here... [https://images.nasa.gov/](https://images.nasa.gov/)
+
+url:https://reddit.com/r/YouShouldKnow/comments/f3dht8/
+author:jbuk02
+subreddit:YouShouldKnow
+score:20933
+numComments:188
+isOver18:False
+hasPostBody:True

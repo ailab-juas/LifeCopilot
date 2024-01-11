@@ -1,0 +1,13 @@
+title:
+LPT: If you're traveling abroad, take a photo of your passport and send it to your own email address. If your passport gets lost or stolen, it's much easier to get back home if you have readily available proof of citizenship.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/eaosjv/
+author:intelligentiam
+subreddit:LifeProTips
+score:2799
+numComments:112
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,15 @@
+title:
+YSK: Carrying a balance of $1,000 on your credit card for one month will accrue about $21 in interest charges at 25% APR
+
+content:
+I pay off my credit card in full every payday, except when something comes up like a major auto repair I didn't have budgeted, then I'll carry a balance into the next month and happily pay some interest for the convenience of time. I mentioned this to a friend, who thought that this would result in $250 in interest being charged. This would be correct if the balance were carried for one year and compounded annually, but credit card interest is compounded monthly, and a month is 1/12 of a year, so the interest charge for a $1,000 balance is approximately $21 for a month. Credit cards can definitely be dangerous, but they don't bite as hard as my friend was thinking when used on a short-term basis. 
+
+Math: [https://en.wikipedia.org/wiki/Compound\_interest#Calculation](https://en.wikipedia.org/wiki/Compound_interest#Calculation)
+
+url:https://reddit.com/r/YouShouldKnow/comments/cyuxfn/
+author:[deleted]
+subreddit:YouShouldKnow
+score:3629
+numComments:159
+isOver18:False
+hasPostBody:True

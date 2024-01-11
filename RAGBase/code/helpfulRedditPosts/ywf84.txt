@@ -1,0 +1,42 @@
+title:
+LPT: Sleep better by either avoiding technology or changing it slightly for an hour before you go to bed. Some info inside, please comment for other suggestions.
+
+content:
+A screen will give your brain the same idea as sunlight, so avoiding looking at any screens for an hour before you try and sleep will help significantly. Although there are alternatives: 
+
+For your PC, you can change the colours with a free program called [F.lux](http://stereopsis.com/flux/). Apparently this works on iOS devices also.
+
+I use a combination of Lux and Tasker to automatically turn my phone into night mode at night. This isn't free, but I'm sure there are free alternatives. [Lux Screen Adjuster on the Play Store](https://play.google.com/store/apps/details?id=com.vito.lux&amp;feature=search_result#?t=W251bGwsMSwxLDEsImNvbS52aXRvLmx1eCJd) and [Tasker on the Play Store](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&amp;feature=search_result#?t=W251bGwsMSwxLDEsIm5ldC5kaW5nbGlzY2guYW5kcm9pZC50YXNrZXJtIl0). These don't take long to get used to either, once your eyes adjust this hardly seems different to looking at a regular screen.
+
+
+
+Here's some other suggestions:
+
+* Using a Kindle, or something similar with an e-ink screen
+
+* [Using gaming glasses with a yellow tint (My friend swears these work)](http://www.gunnars.com/) edit: According to /u/darkstrategy, a 5 dollar pair of shooting glasses will do the same. 
+
+* Reading a book, if you're into that kind of thing
+
+* Going to bed an hour earlier with some music on, with a sleep timer so you don't have to worry about it.
+
+* Keeping lighting to a minimum, I use a soft glow lamp with a yellow globe if I need one when it's late. The whole point here is to keep colours that are a high kelvin away from your eyes (4300k is great) edit: [C3 says 2700k is better, and he explains his reasoning. My lamp is probably close to 2700k and it works well for me](http://www.reddit.com/r/LifeProTips/comments/ywf84/lpt_sleep_better_by_either_avoiding_technology_or/c5zk0ry?context=3)
+
+* edit: [SalamBro explains how he uses a movie or tv show to send him to sleep](http://www.reddit.com/r/LifeProTips/comments/ywf84/lpt_sleep_better_by_either_avoiding_technology_or/c5znhtw?context=3)
+
+I'd love to hear some more suggestions too! Especially if you know a free Android alternative, to help others out.
+
+Also, I know the rules say no product recommendations, but I feel this really fits into the category of a LPT.
+
+
+edit: [Sleeping science/sorcery by spikeyfreak](http://www.reddit.com/r/LifeProTips/comments/ywf84/lpt_sleep_better_by_either_avoiding_technology_or/c5zj89h?context=3)
+
+[Doctor Decembermouse agrees](http://www.reddit.com/r/LifeProTips/comments/ywf84/lpt_sleep_better_by_either_avoiding_technology_or/c5zqj7y?context=3)
+
+url:https://reddit.com/r/LifeProTips/comments/ywf84/
+author:DallasJones
+subreddit:LifeProTips
+score:1334
+numComments:514
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,17 @@
+title:
+LPT: Shift + Backspace deletes word by word, rather than letter by letter.
+
+content:
+CTRL + BACKSPACE, for most modern programs
+
+OPTION + DELETE (ALT + BACKSPACE), if you're on a Mac
+
+CTRL + W, if you're using a Linux terminal
+
+url:https://reddit.com/r/LifeProTips/comments/dksxwk/
+author:Rezanator11
+subreddit:LifeProTips
+score:48388
+numComments:858
+isOver18:False
+hasPostBody:True

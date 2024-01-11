@@ -1,0 +1,28 @@
+title:
+LPT Reminder: Due to the bystander effect, if you need someone in a crowd to call 911, don't yell "Someone call 911!" Specify a person and a characteristic "You in the red jacket! Call 911!"
+
+content:
+Due to the [Bystander Effect](https://en.wikipedia.org/wiki/Bystander_effect), if you're ever in a situation where you need someone from a crowd to call for help, simply yelling "Someone call 911!" may result in every individual assuming someone else in the crowd will make the call.
+
+Instead, it's better to point at a specific person and name a descriptive characteristic to get them to take action. "You in the red jacket! Call 911!" would work much better.
+
+------
+Edit: Common responses:
+
+1) "What if no one is wearing a red jacket? Huehue!" (/r/dadjokes is that way)
+
+2) "I'm a paramedic / EMT / lifeguard, we're taught to do exactly this!" (Right on!)
+
+3) "Did you just take a sociology / psychology / underwater Japanese basket weaving class? We covered this today!" (no)
+
+4) "Just call them yourself." (Difficult if you're engaged in some sort of life-saving emergency action such as applying pressure to a wound, etc)
+
+5) "WTF you just copied that other guy's post from earlier today! You even used his example!" (That's probably because [this](http://www.reddit.com/r/AdviceAnimals/comments/1wjsg5/this_was_me_today_i_was_a_little_surprised/cf2rtn1) was my post earlier, which I decided to repost as a thread here in LPT)
+
+url:https://reddit.com/r/LifeProTips/comments/1wkdy8/
+author:LoveOfProfit
+subreddit:LifeProTips
+score:2712
+numComments:585
+isOver18:False
+hasPostBody:True

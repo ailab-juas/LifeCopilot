@@ -1,0 +1,13 @@
+title:
+LPT: If you’re nearsighted and don’t have your glasses or contacts available, use your phone camera. You’ll be able to see the distant view clearly in your hand.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/qheisd/
+author:arachelrhino
+subreddit:LifeProTips
+score:1083
+numComments:61
+isOver18:False
+hasPostBody:False

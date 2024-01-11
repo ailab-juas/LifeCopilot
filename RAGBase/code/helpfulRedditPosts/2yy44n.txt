@@ -1,0 +1,14 @@
+title:
+LPT: If you have a dashcam, and you witness an accident, or you are involved in an accident, Read out loud the licence plate of the other car.
+
+content:
+Low quality recording or low light conditions might make it impossible for your camera to record the license plate of another car.
+If you read it out loud, the audio should be clear enough for later use. 
+
+url:https://reddit.com/r/LifeProTips/comments/2yy44n/
+author:50makro
+subreddit:LifeProTips
+score:4324
+numComments:380
+isOver18:False
+hasPostBody:True

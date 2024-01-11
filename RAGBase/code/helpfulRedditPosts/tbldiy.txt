@@ -1,0 +1,13 @@
+title:
+LPT: If you play music to help focus on a task, play something that you’ve heard before so you don’t become distracted by new sounds
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/tbldiy/
+author:Beelazyy
+subreddit:LifeProTips
+score:1013
+numComments:59
+isOver18:False
+hasPostBody:False

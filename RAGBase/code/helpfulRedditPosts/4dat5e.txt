@@ -1,0 +1,13 @@
+title:
+LPT: Before sending your device for a repair under warranty, record a video of the fault as proof.
+
+content:
+Should be useful if you ever face issues. 
+
+url:https://reddit.com/r/LifeProTips/comments/4dat5e/
+author:jillionsofstars
+subreddit:LifeProTips
+score:4688
+numComments:482
+isOver18:False
+hasPostBody:True

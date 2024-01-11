@@ -1,0 +1,20 @@
+title:
+YSK: Your vehicle’s battery can produce a deadly toxic gas called hydrogen sulfate (rotten egg smell).
+
+content:
+I am a delivery driver for a living. Last Saturday my work truck began producing a rotten egg smell. I began to get dizzy, weak, and had difficulty breathing. Initially I thought it was an exhaust leak and carbon monoxide poisoning. I ended up having to call an ambulance as I thought I might pass out. I was taken to the emergency room and tested for carbon monoxide poisoning. My CO2 levels were elevated but not dangerous. It wasn’t until my boss called the next day and said there was no exhaust leak but the battery was boiling over causing the sulfur smell. I told my doctor and we changed directions in my treatment(chest X-rays, CT scan, etc). Unfortunately there is no treatment for hydrogen sulfide poisoning and I just have to give it time. There is mild, moderate, and severe levels of poisoning. I was at moderate. Severe is usually death. 
+
+It’s been 5 days since the incident and I’m still getting winded and short of breath from any physical exertion. The doctor said it can take up to a month to fully recover. I’m hoping it’s MUCH sooner because I’m going to stir crazy not being able to work.
+
+Why YSK: hydrogen sulfide gas can be deadly in high concentrations in 30 seconds. If you smell a rotten egg smell while driving your battery may be boiling and producing the deadly gas.
+
+
+EDIT: It is hydrogen sulfide NOT sulfate.
+
+url:https://reddit.com/r/YouShouldKnow/comments/u8pooh/
+author:Phedis
+subreddit:YouShouldKnow
+score:12321
+numComments:379
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Transform your hoodie into a computer sleeve, pillow, strap bag, backpack, baby carrier
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/uz3uj/
+author:jezuschryzt
+subreddit:LifeProTips
+score:1146
+numComments:99
+isOver18:False
+hasPostBody:False

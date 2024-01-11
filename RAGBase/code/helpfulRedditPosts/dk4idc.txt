@@ -1,0 +1,13 @@
+title:
+LPT: Change the direction of your ceiling fan for winter! Look for a little switch and flip it! Counterclockwise is for summer, clockwise is for winter. Use a low speed for winter.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/dk4idc/
+author:reallyshittytiming
+subreddit:LifeProTips
+score:2040
+numComments:163
+isOver18:False
+hasPostBody:False

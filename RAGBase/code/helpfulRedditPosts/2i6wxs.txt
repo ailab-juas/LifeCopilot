@@ -1,0 +1,13 @@
+title:
+LPT: Press ALT + D to put the cursor in your address bar in a web browser or a Windows folder.
+
+content:
+Sometimes I find that if I'm typing and do not have my hand on the mouse, this shortcut offers quick access to the address bar.
+
+url:https://reddit.com/r/LifeProTips/comments/2i6wxs/
+author:elessarjd
+subreddit:LifeProTips
+score:2994
+numComments:377
+isOver18:False
+hasPostBody:True

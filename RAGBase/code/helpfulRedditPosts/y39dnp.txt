@@ -1,0 +1,15 @@
+title:
+YSK: Laundry Softener Builds Up Gunk in Your Washing Machine
+
+content:
+Why YSK: It can ruin your washing machine over time and cause build up which can cause your clothes to not be so clean. It also has a chemical known to cause irritation and asthma flare ups, not to mention its horrible for marine life. 
+
+Instead, use a little bit of white vinegar. Softens clothes just as well, and takes away mildew smell.
+
+url:https://reddit.com/r/YouShouldKnow/comments/y39dnp/
+author:SleepyCalacas
+subreddit:YouShouldKnow
+score:2927
+numComments:266
+isOver18:False
+hasPostBody:True

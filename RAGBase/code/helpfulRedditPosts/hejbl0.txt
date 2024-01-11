@@ -1,0 +1,13 @@
+title:
+LPT: When using google, add “-Pinterest” (sans quotes) to your query to avoid receiving hundreds of useless Pinterest results.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/hejbl0/
+author:KruiserIV
+subreddit:LifeProTips
+score:80932
+numComments:1197
+isOver18:False
+hasPostBody:False

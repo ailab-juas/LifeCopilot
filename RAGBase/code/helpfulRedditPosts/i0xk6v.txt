@@ -1,0 +1,15 @@
+title:
+YSK - In the US, you can use EBT (food stamps) to buy seeds and fruit trees.
+
+content:
+Like many in this US right now, my household currently receives food assistance through the EBT program. Today, my girlfriend was at a big box store picking up some food, some seeds and a fruit tree. When she used the EBT card, expecting it to only cover the food, the card paid for all of it.
+
+We are currently planning a garden and orchard on our property, and this is a great way to use the EBT program to buy a sustanable food source!
+
+url:https://reddit.com/r/YouShouldKnow/comments/i0xk6v/
+author:jaytech_cfl
+subreddit:YouShouldKnow
+score:6508
+numComments:202
+isOver18:False
+hasPostBody:True

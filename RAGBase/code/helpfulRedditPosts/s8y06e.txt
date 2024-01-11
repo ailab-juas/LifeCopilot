@@ -1,0 +1,13 @@
+title:
+LPT: Always tell kids that they have a cool helmet. Positive reinforcement with helmets can cause them to wear them more in the future and potentially save their life.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/s8y06e/
+author:AyoSummy
+subreddit:LifeProTips
+score:27337
+numComments:604
+isOver18:False
+hasPostBody:False

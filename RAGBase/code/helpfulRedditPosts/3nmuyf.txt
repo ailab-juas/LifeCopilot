@@ -1,0 +1,19 @@
+title:
+YSK that visiting a website via your browser's private window doesn't hide your IP and you can be tracked down
+
+content:
+Yes, i know that this is probably obvious to most people. But i'm posting this YSK as a response to a friend who insisted a few hours ago that using a browser's private window (or incognito mode) hides you completely from the internet and you can't be tracked down.
+
+I thought there might be more people who have this wrong idea.
+
+Visiting a website via a private window doesn't allow cookies, cache etc. It's only local. Your service provider knows the webpages you visit and the webpages are able to see your IP, browser, country and other info.
+
+It's not a VPN.
+
+url:https://reddit.com/r/YouShouldKnow/comments/3nmuyf/
+author:DJDB
+subreddit:YouShouldKnow
+score:1105
+numComments:137
+isOver18:False
+hasPostBody:True

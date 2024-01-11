@@ -1,0 +1,27 @@
+title:
+YSK that Harvard offers a free certificate for its Intro to Computer Science &amp; Programming
+
+content:
+Why YSK: Harvard is one of the world's top universities. But it's very expensive and selective. So very few people get to enjoy the education they offer.
+
+However, they've made **CS50, Harvard's Introduction to Computer Science and Programming**, available online for free. And upon completion, you even get a free certificate from Harvard.
+
+I can't overstate how good the course is. The professor is super engaging. The lectures are recorded annually, so the curriculum is always up to date. And it's very interactive, with weekly assignments that you complete through an in-browser code editor.
+
+To top it all off, once you complete the course, you get a free certificate of completion from Harvard. Very few online courses offer free certificates nowadays, especially from top universities.
+
+You can take the course for free on Harvard OpenCourseWare:
+
+[https://cs50.harvard.edu/x/2022/](https://cs50.harvard.edu/x/2022/)
+
+(Note that you can also take it through edX, but there, the certificate costs $150. On Harvard OpenCourseWare, the course is exactly the same, but the certificate is entirely free.)
+
+I hope this help.
+
+url:https://reddit.com/r/YouShouldKnow/comments/v35jdm/
+author:manocormen
+subreddit:YouShouldKnow
+score:50217
+numComments:870
+isOver18:False
+hasPostBody:True

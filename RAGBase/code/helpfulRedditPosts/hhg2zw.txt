@@ -1,0 +1,13 @@
+title:
+LPT: In an argument with someone who has views on the opposite side of the spectrum, the likelihood of changing their mind is slim to none. However, the way you carry out the argument could change the opinions of those on the fence who are listening/reading your comments.
+
+content:
+My dad always taught me that it’s not really about the person who you’re arguing with, because you’re not going to change their mind. It’s much more valuable to consider that others who may not be sure which way they swing are reading/listening to determine who they agree with. You change more minds when you argue rationally, calmly and with facts, and that’s more valuable than ‘winning’ against the other person.
+
+url:https://reddit.com/r/LifeProTips/comments/hhg2zw/
+author:aingeI
+subreddit:LifeProTips
+score:9466
+numComments:268
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+YSK the American medical system is closer to a monopoly than a free market system (and how that affects your medical bills).
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/19eso6/
+author:Wemedge
+subreddit:YouShouldKnow
+score:1673
+numComments:269
+isOver18:False
+hasPostBody:False

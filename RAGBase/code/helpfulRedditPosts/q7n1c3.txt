@@ -1,0 +1,26 @@
+title:
+YSK An unexplained black eye in a young child is a symptom of cancer
+
+content:
+**Why YSK** Neuroblastoma is a relatively common cancer in children less than ~5 years old. Of children who die from cancer about 15% of those deaths are due to neuroblastoma. *Early detection greatly increased survival rates*. 
+
+
+The cancer causes a protein or a hormone (I can’t seem to find the exact mechanism) that causes dark circles around the eyes. This can look like your child has a black eye.
+
+
+Please go see a doctor immediately if you see this in your child. [Here is a link](https://www.cancer.net/cancer-types/neuroblastoma-childhood/symptoms-and-signs) for more information and other symptoms.
+
+
+
+A little one in my life was diagnosed with this cancer and the first symptom was a black eye.
+
+
+Edit: just for clarity, an unexplained black eye is a symptom of neuroblastoma, but it’s not the only cause of an unexplained black eye. I probably should have worded my title differently.
+
+url:https://reddit.com/r/YouShouldKnow/comments/q7n1c3/
+author:LifeSage
+subreddit:YouShouldKnow
+score:13170
+numComments:234
+isOver18:False
+hasPostBody:True

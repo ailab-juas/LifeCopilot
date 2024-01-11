@@ -1,0 +1,13 @@
+title:
+LPT: the most important branch of mathematics you can study in college is statistics. All modern scientific research uses statistical jargon that you will struggle to understand without taking a couple courses on statistics.
+
+content:
+I can't emphasize this enough. When I was in college as a STEM undergrad, I hailed calculus as the holy grail of math and spent most of my time studying that. My math courses that ended up being the most useful in the long run and which I still rely on today are the statistics one. Statistical jargon is at the center of most research papers today, and if you don't have a grasp of it, you will not be able to understand the paper's findings in depth.
+
+url:https://reddit.com/r/LifeProTips/comments/khlsad/
+author:DioriteLover
+subreddit:LifeProTips
+score:1184
+numComments:85
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,27 @@
+title:
+YSK: Facial scans, iris scans, and your fingerprints are not protected by the fifth amendment and therefore not secure.
+
+content:
+The general rule of thumb (pun not intended) is that the fifth amendment protects what you *know*. It does not protect what *have* 
+
+In short, if it's a physical thing that exists in reality, like your fingerprint, you can be compelled by a court to give that up. If it is information, something you know that only exists in your mind, you cannot be forced to give that information up (you can be held in contempt of court, but no technology exists that can extract information directly from your mind) 
+
+Keep this in mind when purchasing and setting up a new phone. Sure someone can beat you with a pipe wrench and hope you crack and give them the information, but you can always choose not to divulge it to them. They can pin you down to a table and hold your hand or your face to your phone and unlock it, but nothing will ever be as secure as a password that only you know. 
+
+"Why does this matter? I have nothing to hide". I would like to draw your attention to the 2004 Madrid subway bombings. During the investigation into the attacks, detectives found a partial fingerprint on a piece of the recovered bomb casing. This information was forwarded to INTERPOL and the FBI. When the FBI ran that print against their database, they found it matched with a lawyer in Portland, Oregon. The FBI arrested him, raided his home and his office, and charged him with a terrorist attack that killed hundreds. The thing is, this man was innocent. He had never once been to Madrid, let alone Spain. It turns out that there are more people on earth than unique fingerprints. This innocent lawyer in Portland was crucified by the FBI because he happened to be unlucky enough to have the same fingerprint as a Syrian born member of Al-Qaeda. the FBI sent expert after expert after expert to the stands to try to send this man away for life. It was only after the actual terrorist was caught that the FBI finally let the case go, but not before economically and socially ruining an innocent man's life. 
+
+The thing is though, had they of not caught the real guy, they would never have given up the case against this innocent man. They would have gone through every message, every email, every scrap of paper, to try to build any connection, even circumstantial, that could convince a jury this man was a mass murderer. 
+
+This could potentially happen to any of us. If you have months or years of every Google search, every message, every contact, every social media account, every geotag, every picture someome has taken, well you can find plenty of things to cherry pick to build any narrative you please. 
+
+This is why you don't want the police in your phone, even if you have 'done nothing wrong'. They will never use that information to exonerate you, it will ALWAYS BE USED **AGAINST** YOU. Dont give them the chance. Don't use facial recognition. Don't use iris scans, don't use fingerprints. 
+
+Encrypt your phone, and set a strong password. It could literally save your life one day.
+
+url:https://reddit.com/r/YouShouldKnow/comments/6zwwwd/
+author:Scolopendra_Heros
+subreddit:YouShouldKnow
+score:23032
+numComments:1046
+isOver18:False
+hasPostBody:True

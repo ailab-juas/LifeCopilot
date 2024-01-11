@@ -1,0 +1,20 @@
+title:
+YSK to never take more than 2 hours in troubleshooting a videogame on PC
+
+content:
+why YSK: games storefront like [Steam](https://help.steampowered.com/en/faqs/view/5FDE-BA65-ACCE-A411) and [Epic](https://www.epicgames.com/site/en-US/store-refund-policy) have similar "no questions asked" refund policy within 2 weeks (14 days) *only if* you have less than 2 hours of play time. 
+
+That "Play Time" can also include you trying to troubleshoot problems within the game, for example even if you only manage to reach the main menu, that still count as play time.
+
+if the game has problem running or even starting, don't spend more than 2 hours of trying so you can still refund the game **without much hassle** (there are still exceptions where people can get refund even after 3-4 hours of play time, but you gotta have a pretty strong case)
+
+
+another pro-tip : spread the troubleshooting effort in several days (but no more than 2 weeks since buy date), don't spend all that 2 hours in a day, because sometimes you can stumble upon the fix in unexpected place where you're not actively looking for it.
+
+url:https://reddit.com/r/YouShouldKnow/comments/z3zrti/
+author:irmuhaj
+subreddit:YouShouldKnow
+score:3498
+numComments:150
+isOver18:False
+hasPostBody:True

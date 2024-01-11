@@ -1,0 +1,13 @@
+title:
+LPT If your mouse trap killed the mouse but the bait is gone you probably have more than 1 mouse
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/fa0dps/
+author:queuedUp
+subreddit:LifeProTips
+score:1435
+numComments:141
+isOver18:False
+hasPostBody:False

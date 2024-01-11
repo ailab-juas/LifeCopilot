@@ -1,0 +1,13 @@
+title:
+LPT: If you have an iPhone and you like to leave one headphone in when you listen to music, got to settings&gt;general&gt;accessibility an turn on mono audio.
+
+content:
+This way if a song has different things playing in each headphone it won't sound weird! It fills in the missing audio in the opposite headphone
+
+url:https://reddit.com/r/LifeProTips/comments/1pgqug/
+author:fruitjoose
+subreddit:LifeProTips
+score:1636
+numComments:203
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,17 @@
+title:
+ysk: when taking survey on customer experience, give 10/10
+
+content:
+Why ysk: I worked at a bank for several years. While there we would get results of surveys from people we had interacted with. Anything less than 10/10 was considered "red" or unacceptable (this includes ratings for the company). For each quarter we had aggregate score and anything less than 9.4 was yellow, less than 9.25 is red. Basically they can have 7 perfect scores, one person gives them a 7, and they are in the red.
+
+Tldr; if you take a survey on a good interaction, give them 10/10, whether or not you feel that is accurate. It is better to not take the quiz at all than give less than a 10.
+
+Edit: didn't think this would be controversial. Why ysk: some people think they are doing something nice by giving someone a 9/10. The reality is that screws the person over. If you want to give someone a positive rating, the only option is 10/10. It's shitty company policy
+
+url:https://reddit.com/r/YouShouldKnow/comments/zs6ieu/
+author:scottishlightng
+subreddit:YouShouldKnow
+score:1213
+numComments:237
+isOver18:False
+hasPostBody:True

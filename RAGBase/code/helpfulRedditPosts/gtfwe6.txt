@@ -1,0 +1,13 @@
+title:
+LPT: Questioning something does not imply disagreement. If you’re advocating for something and someone asks you why, you are expected to provide valid reasons for your advocation. Exercise critical communication!
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/gtfwe6/
+author:[deleted]
+subreddit:LifeProTips
+score:48640
+numComments:1003
+isOver18:False
+hasPostBody:True

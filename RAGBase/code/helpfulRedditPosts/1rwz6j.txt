@@ -1,0 +1,22 @@
+title:
+LPT: Listen to YouTube with your screen off [iPhone]
+
+content:
+I constantly find myself trying to listen to a song on YouTube just to listen to the song. But if you turn off the screen, the music will also stop.  But now I've figured out a loop hole. 
+
+
+Tip: When listening to a video, press the share button (the one that isn't the + sign) at the bottom of the player and press "Message." Once the message screen pops up you can turn off your screen and the music will still play!
+
+edit: This is for iOS7, while using the YouTube app
+
+edit: Thanks to saucypanda for pointing out that you have to press the "share" button, not the "+"
+
+edit: Shoutout to [upupvote2](http://www.reddit.com/user/upupvote2), who apparently posted [this](http://www.reddit.com/r/LifeProTips/comments/1rvc4w/lpt_how_to_listen_to_youtube_videos_while_your/) yesterday. **I honestly didn't see it.** I'm not here to steal your thunder, brother, I just wanted to share a tip. Give that man ([upupvote2](http://www.reddit.com/user/upupvote2)) the respect that he deserves!
+
+url:https://reddit.com/r/LifeProTips/comments/1rwz6j/
+author:Erjobi
+subreddit:LifeProTips
+score:2700
+numComments:324
+isOver18:False
+hasPostBody:True

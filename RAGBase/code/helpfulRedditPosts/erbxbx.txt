@@ -1,0 +1,17 @@
+title:
+LPT: if you are watching a presentation or a lecture on Youtube or Udemy, try adjusting the playback rate to watch it 1,5x or 1,75x than the normal speed. It's usually just as easy to understand but you'll be done 60-70% faster!
+
+content:
+That way you will be much more efficient absorbing knowledge!
+
+How to adjust on YouTube: click on gear button in the bottom right and then adjust for playback time.
+
+How to adjust on Udemy: click on "1x" on the bottom left and adjust it however you choose
+
+url:https://reddit.com/r/LifeProTips/comments/erbxbx/
+author:saya_doge
+subreddit:LifeProTips
+score:14187
+numComments:475
+isOver18:False
+hasPostBody:True

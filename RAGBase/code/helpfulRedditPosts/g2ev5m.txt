@@ -1,0 +1,15 @@
+title:
+LPT: If you're thinking about buying something online, put it in your basket and then wait one day. Lots of online retailers will send you a 10% discount to complete the transaction
+
+content:
+I've done this a few times. If I'm not sure abut buying something I put it in my basket and then think about it for a while. Often retailers will send you a discount code which can be tempting.
+
+You will need to have entered your email address – so progressed a step or two through the payment process, but not all the way.
+
+url:https://reddit.com/r/LifeProTips/comments/g2ev5m/
+author:williamhpark
+subreddit:LifeProTips
+score:22921
+numComments:470
+isOver18:False
+hasPostBody:True

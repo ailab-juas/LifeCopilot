@@ -1,0 +1,13 @@
+title:
+LPT: Social skills are not just for making friends, they are very important for success in work. Building them up early is important.
+
+content:
+Even in "nerdy" fields like science where you think everyone would be awkward and weird - nope.
+
+url:https://reddit.com/r/LifeProTips/comments/ovtve9/
+author:zazzlekdazzle
+subreddit:LifeProTips
+score:10048
+numComments:390
+isOver18:False
+hasPostBody:True

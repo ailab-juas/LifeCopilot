@@ -1,0 +1,13 @@
+title:
+Need a doorstop but don't have one? 2 pens or a pen and pencil will work in a pinch.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/rblsm/
+author:justthatoneotherdude
+subreddit:LifeProTips
+score:1245
+numComments:141
+isOver18:False
+hasPostBody:False

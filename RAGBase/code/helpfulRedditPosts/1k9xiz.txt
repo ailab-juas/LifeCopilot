@@ -1,0 +1,13 @@
+title:
+LPT: Don't store block cheese in plastic. Use wax paper then put the wrapped block in a loosely rolled, unsealed storage bag in your refrigerator.
+
+content:
+When you unseal a chunk of cheddar (or other firm cheese) for the first time, remove all of the plastic cover. Wrap the cheese up in wax paper, then put it in a storage bag in the refrigerator. Don't seal the storage bag, just roll it so that it kinda-sorta closes off the top of the bag. The cheese will taste better and keep longer without either drying out or getting moldy.
+
+url:https://reddit.com/r/LifeProTips/comments/1k9xiz/
+author:sfled
+subreddit:LifeProTips
+score:1119
+numComments:241
+isOver18:False
+hasPostBody:True

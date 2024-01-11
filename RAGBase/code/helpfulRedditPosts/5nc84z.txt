@@ -1,0 +1,13 @@
+title:
+LPT: Always count backwards from the number of reps you wish to accomplish when you are exercising.
+
+content:
+ You will find it less of a challenge and more of a reward.
+
+url:https://reddit.com/r/LifeProTips/comments/5nc84z/
+author:UndergoThoreau
+subreddit:LifeProTips
+score:10673
+numComments:771
+isOver18:False
+hasPostBody:True

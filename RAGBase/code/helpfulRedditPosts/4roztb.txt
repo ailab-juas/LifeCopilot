@@ -1,0 +1,13 @@
+title:
+LPT: Always carry a trash bag in your laptop bag. It takes up almost no space but will be a life saver during a sudden thunderstorm.
+
+content:
+Most people carry jackets or rain coats but those usually won't help to keep your computer/bag dry. 
+
+url:https://reddit.com/r/LifeProTips/comments/4roztb/
+author:magicwiser
+subreddit:LifeProTips
+score:1976
+numComments:136
+isOver18:False
+hasPostBody:True

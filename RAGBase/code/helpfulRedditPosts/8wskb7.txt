@@ -1,0 +1,24 @@
+title:
+LPT: Modems are the biggest racket in the cable business. Don't opt for theirs, you pay $12/month for life, as apposed to the one time cost of $30 - $100. Only set up required is giving the ISP the Mac address on the box, and you dont have to wait for the installer to come "between 8am and 2pm"
+
+content:
+I used to work for an ISP B2B sales team. They paid us well for selling rented Modems because usually they were used, given back by the last renter. Or if they renter didn't return them, they still have to replace it with a new one. So it was recurring revenue without a cost to the ISP 
+
+And no, there is no advantage to renting. They don't service Modems rented differently than one you bought
+___________________
+
+Edit: To address everyone saying that their ISP "requires" use of the company's router, or that techs cost money:
+
+Ive seen reps say the ISP modem rental was required, thats pushy sales tactics -most of the time. Just tell them emphatically you want to buy your own. **The router/modem model is important, make sure you ask your ISP what model/combo to buy**
+
+Techs are no cost when its first installed because its the outside lines, into your house. The same goes for internet issues. You again, emphatically tell customer care that the issue is not with the hardware but with the wiring outside/to your box. They are pushy, like the car repair business. They know most people dont know better, so they embellish on facts and swindle a lot of people out of money due to ignorance 
+
+
+
+url:https://reddit.com/r/LifeProTips/comments/8wskb7/
+author:sashaatx
+subreddit:LifeProTips
+score:34752
+numComments:1623
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+So I tried one of the top-scoring LPT of all time. This is how it's working out for me so far.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1lj6a8/
+author:[deleted]
+subreddit:LifeProTips
+score:2512
+numComments:528
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: When planning a trip, find the safe parts of a city by searching for 5-star hotels (even if you'll be staying in a 2-star place)
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/9lcm1a/
+author:CpGrover
+subreddit:LifeProTips
+score:1388
+numComments:124
+isOver18:False
+hasPostBody:False

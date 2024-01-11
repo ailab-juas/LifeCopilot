@@ -1,0 +1,15 @@
+title:
+YSK "Burger Den" and "Melt Down" on food delivery apps are "Dennys" in disguise.
+
+content:
+Why YSK - "Dennys" is re-listing portions of thier menu virtually as "Burger Den" for burgers and "Melt Down" for sandwiches to trick you into ordering "Dennys" in case you thought you were trying something new or supporting a new business. 
+
+Can confirm the quality is still "Dennys" quality.
+
+url:https://reddit.com/r/YouShouldKnow/comments/mgtuci/
+author:Whiskey--Jack
+subreddit:YouShouldKnow
+score:4944
+numComments:406
+isOver18:False
+hasPostBody:True

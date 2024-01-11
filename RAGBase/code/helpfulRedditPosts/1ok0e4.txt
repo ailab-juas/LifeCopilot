@@ -1,0 +1,13 @@
+title:
+[LPT] ALT+PRT SCRN captures the active window not the whole desktop. no more editing or cropping. enjoy!
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1ok0e4/
+author:LongneckKiller
+subreddit:LifeProTips
+score:2699
+numComments:343
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: Cut yourself shaving? Put some lipbalm on the cut to stop the bleeding
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/18p7yf/
+author:Slammin007
+subreddit:LifeProTips
+score:1410
+numComments:282
+isOver18:False
+hasPostBody:False

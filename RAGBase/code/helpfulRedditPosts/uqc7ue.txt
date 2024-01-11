@@ -1,0 +1,13 @@
+title:
+LPT: Regardless of how much you exercise, you should make sure to focus on your core and flexibility. This will help tremendously with things like back pain as you age.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/uqc7ue/
+author:hotdwag
+subreddit:LifeProTips
+score:5624
+numComments:185
+isOver18:False
+hasPostBody:False

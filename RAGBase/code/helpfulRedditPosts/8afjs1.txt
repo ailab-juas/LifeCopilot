@@ -1,0 +1,13 @@
+title:
+LPT If you ever want to tackle music theory, learn all the concepts on piano and afterwards apply them to your instrument of choice (Especially recommended for guitar players)
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/8afjs1/
+author:maxiqaz
+subreddit:LifeProTips
+score:1442
+numComments:187
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,21 @@
+title:
+YSK Amazon and other online retailer's reviews are often fake or misleading.
+
+content:
+Why YSK: If you are not careful while reading the reviews on a product you are interested in, you may be buying an item with bloated reviews to make the item look better.
+
+Not all the reviews are fake in the sense that someone made an account to post the positive review, but in the sense that the review may actually be for a different product entirely.
+
+Fakespot has browser extensions that work on many of the big name sites like Amazon, Google Shopping, BestBuy and Walmart to name a few. It not only will give you a letter grade on the reviews for that item, but allow you on most sites to sort products by grade, hide any products with F grades and inform you about the seller, who also get letter grades. It also tells you on the product page if they are approved sellers (which means the seller has high ratings and few customer complaints) and if an item is covered by Amazon's return policy.
+
+Go to their website for more information and to install browser extension. [Fakespot.com](https://Fakespot.com)
+
+If you want to see a representation of Fakespot at work, check out [the screenshots](https://flic.kr/s/aHsmX4KtzZ) I took of some items around Amazon and BestBuy.
+
+url:https://reddit.com/r/YouShouldKnow/comments/qn491d/
+author:CheshireRaptor
+subreddit:YouShouldKnow
+score:1035
+numComments:78
+isOver18:False
+hasPostBody:True

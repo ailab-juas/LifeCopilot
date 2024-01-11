@@ -1,0 +1,13 @@
+title:
+LPT: When you record any family video, always record at least a minute longer then the moment. Future you will really appreciate it.
+
+content:
+For example, when everybody is done singing happy birthday, keep recording the dialogue after. It might feel awkward in the moment, but it'll age like fine wine.
+
+url:https://reddit.com/r/LifeProTips/comments/ta0s5d/
+author:Boemerangman2
+subreddit:LifeProTips
+score:5026
+numComments:127
+isOver18:False
+hasPostBody:True

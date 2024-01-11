@@ -1,0 +1,13 @@
+title:
+LPT: If an app asks you to rate it but you don't want to, click "yes" instead of "later". Wait for the app store to load, and then click back. The app will never request you to rate again.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/aw3v02/
+author:LoueyPenguin123
+subreddit:LifeProTips
+score:1142
+numComments:44
+isOver18:False
+hasPostBody:False

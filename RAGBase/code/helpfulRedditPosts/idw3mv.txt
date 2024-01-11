@@ -1,0 +1,13 @@
+title:
+YSK you should NEVER fly a drone near a wildfire. It will cause all firefighting air support to be grounded.
+
+content:
+It has happened a lot this year. Homes are burning because they can't get helicopters in the sky.
+
+url:https://reddit.com/r/YouShouldKnow/comments/idw3mv/
+author:spaceXcadet
+subreddit:YouShouldKnow
+score:30050
+numComments:669
+isOver18:False
+hasPostBody:True

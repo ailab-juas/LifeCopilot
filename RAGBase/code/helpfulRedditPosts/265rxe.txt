@@ -1,0 +1,17 @@
+title:
+LPT: Use a browser tab as a quick and simple notepad by chucking this in your address bar.
+
+content:
+Copy and paste this in:
+
+*data:text/html, &lt;title&gt;Text Editor&lt;/title&gt;&lt;body contenteditable style="font-size:2rem;font-family:Helvetica;line-height:1.4;max-width:60rem;margin:0 auto;padding:4rem;"&gt;*
+
+Pretty useful if you bookmark it. You can also change the font or size to whatever you want. I went for Helvetica because I'm hip.
+
+url:https://reddit.com/r/LifeProTips/comments/265rxe/
+author:thisisned
+subreddit:LifeProTips
+score:2815
+numComments:976
+isOver18:False
+hasPostBody:True

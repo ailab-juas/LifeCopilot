@@ -1,0 +1,13 @@
+title:
+LPT: When starting a new job, make the commute a few days before you actually start to see what traffic is like heading there that time of the day. Don’t be that person showing up late on your first day cause of traffic!
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/asc2fv/
+author:apsim31
+subreddit:LifeProTips
+score:28357
+numComments:981
+isOver18:False
+hasPostBody:False

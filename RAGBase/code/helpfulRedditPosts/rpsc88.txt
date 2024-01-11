@@ -1,0 +1,19 @@
+title:
+LPT: Tell a spam caller you're recording the call and please could they repeat what they just said.
+
+content:
+"Marcus" from "Invest XD" alleged I'd signed up to something to find out about bitcoin. He didn't like thinking I was recording him and hung up immediately. 
+
+I've made a note of the number so I can log it with the TPS and ICO. Apparently the UK government has called on phone companies to put a stop to these calls but the scammers are merely buying up phone numbers from British based networks instead.
+
+Edit: Thanks to those who've pointed out it's probably a spoof number. R/laibo shared the wiki: https://en.m.wikipedia.org/wiki/Caller_ID_spoofing
+
+For those recommending just not answering the phone, I was waiting for an Argos delivery and live in a block of flats. It's probably good advice in most situations.
+
+url:https://reddit.com/r/LifeProTips/comments/rpsc88/
+author:rrkx
+subreddit:LifeProTips
+score:2905
+numComments:191
+isOver18:False
+hasPostBody:True

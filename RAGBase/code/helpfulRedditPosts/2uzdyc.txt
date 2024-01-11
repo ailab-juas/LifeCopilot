@@ -1,0 +1,13 @@
+title:
+YSK you might not need new windshield wipers even though they're streaky and leave water everywhere.
+
+content:
+Before you spend the money on a new set, grab a paper towel soaked with rubbing alcohol (helps remove dirt) and pull down the length of the blade. This will remove a ton of crud and dirt and other stuff you couldn't see that builds up on the blade. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/2uzdyc/
+author:The51stState
+subreddit:YouShouldKnow
+score:1423
+numComments:250
+isOver18:False
+hasPostBody:True

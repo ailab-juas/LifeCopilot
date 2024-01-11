@@ -1,0 +1,13 @@
+title:
+LPT: When storing an item you won't regularly use but will need to use at some point, pretend you are trying to find said item. The first place you would look for it is the best place to keep it safe.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/fjdq5f/
+author:loki-high-on-books
+subreddit:LifeProTips
+score:3933
+numComments:92
+isOver18:False
+hasPostBody:False

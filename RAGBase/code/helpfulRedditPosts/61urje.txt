@@ -1,0 +1,13 @@
+title:
+LPT: walk with your head up even when you're feeling low.
+
+content:
+Sometimes just walking with your head up will make you feel at least a little better. The same goes for smiling or repeatedly telling yourself positive things in the mirror.
+
+url:https://reddit.com/r/LifeProTips/comments/61urje/
+author:nerdherdbird
+subreddit:LifeProTips
+score:2653
+numComments:160
+isOver18:False
+hasPostBody:True

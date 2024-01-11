@@ -1,0 +1,17 @@
+title:
+LPT: There are 34 different CLEP tests that equate to a college class of 3 credits at many universities for only $80
+
+content:
+College Level Examination Placement (CLEP) tests are accepted by most universities. This pandemic could be a great time to catch up in college credits or get ahead for cheap.
+
+ You can teach yourself the course or use other resources. [Modern States](https://modernstates.org/) has courses offered specifically to teach CLEP material and if you finish the course they pay for the test. I got 9 college credits for FREE through modern states. 
+
+https://clep.collegeboard.org/?navId=clep-clep
+
+url:https://reddit.com/r/LifeProTips/comments/ib45x2/
+author:chree_bisch
+subreddit:LifeProTips
+score:1136
+numComments:67
+isOver18:False
+hasPostBody:True

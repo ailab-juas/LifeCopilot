@@ -1,0 +1,13 @@
+title:
+LPT: if you are a parent, keep a running document with your kids funny questions, jokes, conclusions, etc. it's one of the most delectable documents you will ever create!
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/v3smv7/
+author:Composer-Right
+subreddit:LifeProTips
+score:16344
+numComments:429
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,28 @@
+title:
+LPT: When mentioning time on the Internet, use 'x hours ago' or 'y hours from now' instead of your local time zone
+
+content:
+It's 2014. reddit and many other websites have 'x hours ago' labels under posts and comments. Using this notation does not require tedious time zone conversion and saves a lot of headache for everybody.
+
+----- EDIT -----
+
+Obviously, we cannot use this for long periods of time unless you just go to a countdown website and set a timer (much better idea?). Okay, perhaps we can only use it for stuff on the Internet like live streams, Steam trades, video chats etc.
+
+Examples:
+
+"The SpaceX live stream will begin when this post is 15 hours old."  
+"Link expires when this comment is 8 hours old."  
+"TF2 tournament starts when this post is 5 hours old."  
+On reddit: "EDIT (at 4 hours old): ooh frontpage! thanks guyz."
+
+----- EDIT (at 15 hours old) -----
+
+Actually, we should just use beats: http://www.swatch.com/zz_en/internettime
+
+url:https://reddit.com/r/LifeProTips/comments/2h0yga/
+author:Antrikshy
+subreddit:LifeProTips
+score:1193
+numComments:174
+isOver18:False
+hasPostBody:True

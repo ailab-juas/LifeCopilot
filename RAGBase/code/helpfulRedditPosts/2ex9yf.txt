@@ -1,0 +1,13 @@
+title:
+YSK of tubesynch.com, a site where you can enjoy most of your loved and/or forgotten tv shows, looping 24 hours a day. Brought to you by nickreboot.com
+
+content:
+link: http://tubesynch.com
+
+url:https://reddit.com/r/YouShouldKnow/comments/2ex9yf/
+author:lavidacontinua
+subreddit:YouShouldKnow
+score:1056
+numComments:46
+isOver18:False
+hasPostBody:True

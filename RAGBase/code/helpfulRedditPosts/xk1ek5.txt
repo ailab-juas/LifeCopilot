@@ -1,0 +1,21 @@
+title:
+YSK - A good mental health care routine can be pro-active and useful even if you aren't struggling
+
+content:
+Why YSK: Mental health care is important and even if you aren't struggling, taking a short period of time to practice the following things can have drastic and innumerable benefits to your sense of well being.
+
+Good mental health care starts with you.
+
+1. [Try these light exercises](https://www.nhs.uk/live-well/exercise/strength-and-flexibility-exercises/strength-exercises/)
+2. [Learn these simple breathing exercises](https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/breathing-exercises-for-stress/)
+3. [Practice these relaxation techniques](https://www.nhsinform.scot/healthy-living/preventing-falls/fear-and-anxiety-about-falling/relaxation-techniques)
+
+A simple, easy guide to a pro-active mental health care routine.
+
+url:https://reddit.com/r/YouShouldKnow/comments/xk1ek5/
+author:AaliyahK12
+subreddit:YouShouldKnow
+score:1955
+numComments:46
+isOver18:False
+hasPostBody:True

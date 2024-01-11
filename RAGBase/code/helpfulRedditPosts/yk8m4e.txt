@@ -1,0 +1,27 @@
+title:
+YSK: Occam's Razor is a great tool to use when figuring something out
+
+content:
+**Why YSK**: It can be difficult to figure out the true hypotheses between two or more possibilities. As humans, who can be prone to anxiety, stress, and even paranoia, sometimes we start to believe possibilities that only validate our fears.
+
+It's important to remember that the most likely possibility is the one that makes the fewest assumptions. This is the central tenet of occam's razor.
+
+For example, say you do something mildly embarrassing in front of someone you admire. You're then really worried that they think badly of you. They say in the moment "no, don't worry about it!" but you're still stressed. So that means there's 2 possibilities:
+
+A. They don't think badly of you
+
+B. They're lying, and they actually do think badly of you
+
+Which possibility has fewer assumptions? Choice A of course, because it doesn't have to assume that the person is lying to you. So it's the more likely explanation.
+
+edit: Both options contain assumptions, but lying requires more assumptions than telling the truth in that situation
+
+edit 2: No this isn't exactly how you use occam's razor based on the official definition. But a hypotheses with fewer assumptions has fewer ways to be incorrect, so this can be used as a good estimate to say it's more likely to be correct.
+
+url:https://reddit.com/r/YouShouldKnow/comments/yk8m4e/
+author:55559585
+subreddit:YouShouldKnow
+score:9962
+numComments:480
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Don’t pay for Kindle books, Library’s allow you to download to a Kindle device for free
+
+content:
+I know, I know…. Libraries are free. That part is not the pro tip. Those that got a Kindle or other e-reader for the holidays will be tempted to purchase ‘new’ books for their device. Rather than spending your money, go to your local library’s website and register for a library card. From their you can check out e-reader books for free and have them immediately downloaded on your device.
+
+url:https://reddit.com/r/LifeProTips/comments/rt28ai/
+author:Letsgetanewaccount
+subreddit:LifeProTips
+score:3545
+numComments:202
+isOver18:False
+hasPostBody:True

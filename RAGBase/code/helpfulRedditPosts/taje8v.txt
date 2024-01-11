@@ -1,0 +1,15 @@
+title:
+YSK how to improve your gas mileage
+
+content:
+Why YSK: Because gas prices right now.   1) check your tire pressure.  Tires lose pressure in the colder months. Soft tires mean the engine works harder to make the car go. The average car takes roughly 35 PSI in the tires but to be sure what your car needs, it will be printed on the drivers side door jam sticker.  When all else fails, take it to the shop. It’s usually a free service.  2) lighten your load.  Have a bunch of crap in your trunk or back seat?  Clean it out.  Extra weight means more fuel consumption. 3) clean your fuel injectors. How?  Next time you fuel up, add a can of Seafoam (edited for those who get butthurt over a specific brand) or any other reputable fuel additive your mechanic or some clown on Reddit recommends… into the gas tank.  That’s Seafoam the brand, not as in the gross stuff that accumulates at the beach.  Lastly 4) change your air filter.  Unless you regularly maintain your car, your air filter is probably dirty.  Clogged air filter means your car can’t breathe freely, which causes the engine to work harder. It’s a ten dollar fix that you can do yourself; super easy.  Fram website will tell you exactly which one you need, and YouTube will show you how to install it.  None of these is a magic bullet.  You’re not going to miraculously get double the gas mileage.  But if your car needs all of these, it will definitely save you some bucks in the long run, and every little bit helps these days.
+
+Last edit due to some helpful comments.  Drive slower and use cruise control seem to be a common rebuttal here.  Both are good points.  For the fuel additive naysayers, I agree. It’s controversial and sometimes useless. From my perspective, both of my cars are at least 20 years old and were bought used.  If you don’t know how well a car was maintained for most of its life, if you have an older car with high mileage, or if you regularly use sh!t gas in it, an additive could be beneficial.  For those saying don’t drive/take public transportation, that’s all well and good if possible.  In the US there are many areas where this is incredibly difficult to do, including where I’m from.  Yes there are better/other ways to maintain your car’s engine to improve efficiency.  I wrote this with the car novice in mind who probably didn’t realize any of these simple things could help.  ** big apology for the formatting. That triggered some people.  I’m on mobile and don’t understand formatting yet.  Thanks for reading.
+
+url:https://reddit.com/r/YouShouldKnow/comments/taje8v/
+author:medicmachinist38
+subreddit:YouShouldKnow
+score:7133
+numComments:656
+isOver18:False
+hasPostBody:True

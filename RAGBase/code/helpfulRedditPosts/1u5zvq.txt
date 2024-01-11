@@ -1,0 +1,13 @@
+title:
+YSK how hangovers actually work, and how to ease the pain.
+
+content:
+[Here's a great article.](http://science.howstuffworks.com/life/human-biology/hangover6.htm)
+
+url:https://reddit.com/r/YouShouldKnow/comments/1u5zvq/
+author:CiD7707
+subreddit:YouShouldKnow
+score:1427
+numComments:250
+isOver18:False
+hasPostBody:True

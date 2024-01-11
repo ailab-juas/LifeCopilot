@@ -1,0 +1,13 @@
+title:
+LPT: Hairspray will freeze wasps if they are bothering you.
+
+content:
+Not saying you should always carry hairspray around, if you kill a wasp their dying bodies release a pheromone that causes other wasps to draw to that point and attack. But spraying them with hairspray 'freezes' their wings and you can remove them.
+
+url:https://reddit.com/r/LifeProTips/comments/3csq8v/
+author:Unicorn_Cowboy
+subreddit:LifeProTips
+score:1893
+numComments:371
+isOver18:False
+hasPostBody:True

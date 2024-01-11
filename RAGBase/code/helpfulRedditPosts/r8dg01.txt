@@ -1,0 +1,25 @@
+title:
+YSK: Dating files using YYYYMMDD format will keep them in chronological order, leading to better file management
+
+content:
+Why YSK: This is especially useful when you need to save multiple versions of a file over time and can quickly reference the date from the file name instead of “date modified” or “date created”. For example, if I save a file today, I would name it “Example Text 20211203”. If I needed to save a new version in the same day, it would be “Example Text 20211203v2”.
+
+Putting the date at the end instead of the front allows your files to be sorted alphabetically&amp;gt;chronologically. Putting the date at the front will sort your files chronologically&amp;gt;alphabetically.
+
+Edit 2021-12-04-0041: Wow, this really blew up. Here are some common comments/questions.
+
+Adding hyphens or underscores can improve readability (e.g., “Example Text 2021-12-03v001”)
+
+For those asking why label the file name with the date and why not just sort by “date created” or “date modified”, if you send a file to someone and they save it, its “date created” will be as when they save it, not the file’s actual creation date.
+
+If you’re going to have more than 9 versions, you would want to put a zero in front (e.g., v02 or even v001 if you know you’ll be creating 100+ versions) to keep versions in order.
+
+Edit 2021-12-04-1221: I had to turn off notifications last night because they were flooding in lol. But holy shit over 21k upvotes, and thank you stranger for the gold. I’m happy to have started this discussion whether it’s obvious to some as it’s also an eye opener to those that may not have a standard formatting scheme or could improve their system. Happy formatting, everyone!
+
+url:https://reddit.com/r/YouShouldKnow/comments/r8dg01/
+author:Dalferious
+subreddit:YouShouldKnow
+score:26684
+numComments:751
+isOver18:False
+hasPostBody:True

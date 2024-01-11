@@ -1,0 +1,16 @@
+title:
+YSK: American quarters minted between 1932 and 1964 are actually worth a little over $3 a piece due to their silver content and dimes between 1946-1964 are worth $1.23 a piece due to their silver content
+
+content:
+http://www.coinflation.com/coins/1932-1964-Silver-Washington-Quarter-Value.html
+
+
+http://www.coinflation.com/coins/1946-1964-Silver-Roosevelt-Dime-Value.html
+
+url:https://reddit.com/r/YouShouldKnow/comments/76zery/
+author:sleeptrouble
+subreddit:YouShouldKnow
+score:5911
+numComments:240
+isOver18:False
+hasPostBody:True

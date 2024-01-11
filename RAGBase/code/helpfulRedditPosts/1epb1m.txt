@@ -1,0 +1,15 @@
+title:
+LPT: Get the WiFi password for many establishments by checking the comments section of FourSquare
+
+content:
+I do a decent amount of international travel (and consequently, lots of roaming data charges) and have found that many many cafes, restaurants, bars, etc will have the WiFi passwords published in the comments of FourSquare. You don't even have to check-in, so if you're a fan of your privacy, still safe.
+
+And most of the passwords are kept updated as long as the post is from the past year or two.
+
+url:https://reddit.com/r/LifeProTips/comments/1epb1m/
+author:dirtyfries
+subreddit:LifeProTips
+score:3254
+numComments:416
+isOver18:False
+hasPostBody:True

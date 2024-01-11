@@ -1,0 +1,13 @@
+title:
+LPT: If you feel overwhelmed by your problems, list them all in a notebook. It may not be as hectic as it feels.
+
+content:
+For someone currently undergoing mental help, this has helped me avoid breaking down.
+
+url:https://reddit.com/r/LifeProTips/comments/61s4uy/
+author:fightingmonks
+subreddit:LifeProTips
+score:3125
+numComments:127
+isOver18:False
+hasPostBody:True

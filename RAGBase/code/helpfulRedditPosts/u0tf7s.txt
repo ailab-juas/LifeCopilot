@@ -1,0 +1,13 @@
+title:
+LPT: Check the alarm clock isn't set when you check in to a hotel room
+
+content:
+So you don't get woken up at 4am as I was this morning by someone who clearly didn't know how to set the alarm on their phone
+
+url:https://reddit.com/r/LifeProTips/comments/u0tf7s/
+author:BigAndy1234
+subreddit:LifeProTips
+score:4089
+numComments:158
+isOver18:False
+hasPostBody:True

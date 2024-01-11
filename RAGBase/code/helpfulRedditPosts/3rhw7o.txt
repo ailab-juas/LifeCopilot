@@ -1,0 +1,13 @@
+title:
+LPT On all your hoodies, sew a line through the hood string on the top of your hood. It'll stop the string from being pulled out or uneven.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/3rhw7o/
+author:henryharp
+subreddit:LifeProTips
+score:4447
+numComments:742
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: If you have a headache, are groggy/tired, or overly hungry, go pee. If your pee is not clear to faint yellow, then drink water.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/2rud54/
+author:devilray1018
+subreddit:LifeProTips
+score:1563
+numComments:453
+isOver18:False
+hasPostBody:False

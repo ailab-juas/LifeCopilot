@@ -1,0 +1,22 @@
+title:
+YSK: Psychiatric disorders such as depression and PTSD can cause physical trembling
+
+content:
+**Why YSK:** For the past two years, I've been living with hand tremors that worsen off and on. They sometimes make it difficult for me to do everyday tasks. I've already been diagnosed with a grocery list of psychiatric disorders, but I never thought they might be the cause of my physical trembling. I worried that the trembling may be symptomatic of something worse. While knowing the cause now doesn't fix the immediate issue, it helps me know what steps I can take to reduce tremors and improve my quality of life.
+
+This might seem like a "duh" statement to some, as tremors are typically associated with anxiety. The reason for posting this is because these tremors don't just happen during anxiety/depressive/PTSD/etc. episodes. They're typically ongoing and can happen even when a person is relaxed. Sharing this because it was a huge relief for me to find out that I'm not secretly developing Parkinson's or anything like that.
+
+Additional info:
+
+* This is known as **psychogenic tremor**, [an oscillatory movement produced by a rhythmic contraction of muscles. Psychogenic tremor is the most common subcategory of psychogenic movement disorders, reported as representing approximately 50 percent of cases. When present, it often manifests both at rest and with action.](https://www.bcm.edu/healthcare/specialties/neurology/parkinsons-disease-and-movement-disorders/psychogenic-movement-disorders)
+* [Psychogenic tremors, also known as functional tremors, increase with stress, and are often associated with an underlying psychiatric disorder, such as depression or post-traumatic stress disorder (PTSD).](https://beaconpace.com/the-3-most-common-causes-of-shaking/)
+
+Disclaimer: I'm not providing this under any medical authority and am not suggesting diagnoses one way or another. As always, talk to your doctor about any concerns you have.
+
+url:https://reddit.com/r/YouShouldKnow/comments/s9mnip/
+author:vic_tuals
+subreddit:YouShouldKnow
+score:3970
+numComments:119
+isOver18:False
+hasPostBody:True

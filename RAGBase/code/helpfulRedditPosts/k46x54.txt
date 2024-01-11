@@ -1,0 +1,13 @@
+title:
+LPT: Take a picture of the back of all your parents' electronics and router so you can explain to them where to put that HDMI cable or find that wifi password over the phone
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/k46x54/
+author:Burgley
+subreddit:LifeProTips
+score:2507
+numComments:100
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: if a friend or a family member gets diagnosed with dementia or alzheimer, in the early stages try to find out what their favorite songs of all time are. In this way you would be able to create a playlist for them that could be of great benefit in the later stages of the disease.
+
+content:
+Music helps dementia patient recall memories and emotions. Especially when specific songs are connected to previous parts of their lives.
+
+url:https://reddit.com/r/LifeProTips/comments/d09tq7/
+author:socratit
+subreddit:LifeProTips
+score:103450
+numComments:1022
+isOver18:False
+hasPostBody:True

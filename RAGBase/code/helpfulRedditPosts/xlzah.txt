@@ -1,0 +1,13 @@
+title:
+LPT: Use this chart to successfully copy any morse code you receive! (you will probably never have to use this LPT but it's cool nonetheless)
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/xlzah/
+author:phi186
+subreddit:LifeProTips
+score:1162
+numComments:89
+isOver18:False
+hasPostBody:False

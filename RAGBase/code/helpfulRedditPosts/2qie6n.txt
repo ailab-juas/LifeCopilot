@@ -1,0 +1,13 @@
+title:
+LPT: Create a .app folder on OS X to stash your porn
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/2qie6n/
+author:lord_of_the_rally
+subreddit:LifeProTips
+score:1029
+numComments:403
+isOver18:True
+hasPostBody:False

@@ -1,0 +1,36 @@
+title:
+LPT: If you are a freelance worker (designer, programmer, etc.), unless you signed a contract that specifically said your work product was a "work for hire," then, in the United States, you still own the copyright on what you were paid to create.
+
+content:
+I find it surprising how many folks aren't aware of this. Essentially, a copyright is established the moment an idea is put into a tangible form (written down, drawn out, etc.). So, with that logic in mind, when a freelancer creates, say, a logo or a website for a client, they own the copyright once they create it, then they **license it** to the client for the amount of money paid... but the client doesn't necessarily own the product in its entirety.
+
+A legal way around this is to have a contract between parties that specifically states that the freelancer is creating "[work for hire](http://www.copyright.gov/circs/circ09.pdf)". When this is in place, then the copyright is made on behalf of the client by you instead of **later transferred** or licensed.
+
+In other words, if you have ever created any work for anyone else absent a work for hire contract, then you still own the copyright on that work. A good example from my own experience is when I have designed infographics for clients who then want to sell that graphic to a book or magazine... well, they can't... not unless they pay me. Because while I created it for their use on their website, I in no way licensed it to be used *in any way they wanted*.
+
+Here's [another great article that breaks it down](http://www.wendel.com/index.cfm?fuseaction=content.contentDetail&amp;amp;ID=9414).
+
+Also, on the other side of this coin, this LPT should be a good warning for those of you who **employ** freelancers, as you should be aware of what your money is paying for absent a work for hire contract.
+
+**update:** I'm noticing a few comments about "good faith" and "ripping the client off." That isn't the point of this LPT. This is just a PSA about the reality that freelancers **and** clients should be aware of. If your first thought is using this to screw over clients, then you're going to have a bad time. 
+
+
+**Last update:** I was hesitant to post this because I wasn't sure if it would be taken as a PSA or if it would turn into a legal debate... it looks like it is heading towards the latter. Put briefly, yes, there are complicated aspects of copyright law, which is why you should always consult a lawyer for legal advice. This was not intended as legal advice, only legal awareness. That may seem like splitting hairs, but to someone like me who has a responsibility to make it clear they are not providing legal avice to people, I really want to drive that point home.
+
+With that said, some final points to help clarify this thread for future readers:
+
+* There are some other comments in this thread that help to better expand on the general information I have provided. In the end, this PSA was more geared towards freelancers and clients who engage in bare-minimum contracts ("I'll pay you X for Y.") or even those client/freelancer relationships which don't require contracts for ongoing work products. If you are working with a competent company, there is likely some form of work for hire embedded into the language... and, likewise, if you want to be a competent employer, you should consider including such language. Otherwise, you're leaving it up to trust.
+
+* This is /r/LPT, not law school. An "idea that is placed into tangible form" is an expression for the most part, with obvious exceptions... but those exceptions would detract from the point of the LPT.
+
+* I understand copyright law just fine, which is why I don't have a problem with what many of you are saying... I just don't think it is applicable to the point of this thread. This thread wasn't, "What is copyrightable," it is "if you are a freelancer or employ one, then..." The chances of an employer hiring a freelancer to create ideas and not expressions is ridiculous. All you've managed to do was find an excuse to muddy the waters for the sake of trying to... I don't know... top me? 
+
+With that said, I'm going to go ahead and delete my comments and myself out of this thread. I really hoped to just provide a heads up for people, but it is too risky for me to continue chatting with folks who are looking for ways to twist my words into some form of "poor legal advice." This is why we can't have nice things, LPT.
+
+url:https://reddit.com/r/LifeProTips/comments/22nxaj/
+author:[deleted]
+subreddit:LifeProTips
+score:1164
+numComments:59
+isOver18:False
+hasPostBody:True

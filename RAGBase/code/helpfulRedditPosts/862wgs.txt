@@ -1,0 +1,13 @@
+title:
+YSK That if you previously cancelled a Sling TV subscription that was associated with a Roku account, your subscription may have been re-activated without your knowledge.
+
+content:
+Just noticed a charge on my credit card statement even though I had cancelled months ago. Called Sling to find out what was going on, and the representative said that they had been experiencing issues with subscriptions being reactivated in accounts that were linked with Roku accounts.
+
+url:https://reddit.com/r/YouShouldKnow/comments/862wgs/
+author:Atlfitguy
+subreddit:YouShouldKnow
+score:2085
+numComments:47
+isOver18:False
+hasPostBody:True

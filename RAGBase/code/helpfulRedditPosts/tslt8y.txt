@@ -1,0 +1,21 @@
+title:
+YSK: The Fundamental Attribution Error
+
+content:
+Why YSK: It can keep you from making false or incorrect assumptions about other people and their situations.
+
+Fundamental Attribution Error (FAE) is a psychological phenomenon where people under-emphasize outside causes for other people’s behavior and over-emphasize those causes for themselves.
+
+Or, to give an example:
+
+You’re driving to work and somebody cuts you off. You get mad and think to yourself, “What a terrible driver! That person’s an idiot!”
+
+A few days later, you’re at work when you get a call that your spouse was in a car accident and is being taken to the nearest medical center. Panicked, you race over to the hospital, cutting off just about every other driver on the road to get there faster. Not once do you think, “Wow, I’m an idiot and a terrible driver.”
+
+url:https://reddit.com/r/YouShouldKnow/comments/tslt8y/
+author:jradio610
+subreddit:YouShouldKnow
+score:6383
+numComments:263
+isOver18:False
+hasPostBody:True

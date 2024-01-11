@@ -1,0 +1,19 @@
+title:
+YSK the top result from googling "USPS Change Address" on mobile is a fraudulent website
+
+content:
+Unsure if this only applies to me, but figured I'd share so others won't fail the same way I did.
+
+I'm moving so I need to change my address via the US Postal Service (USPS). As any reasonable person would do, I googled "USPS Change Address" on the Safari browser on my phone and, considering the process is incredibly simple, clicked the first result without even thinking about it. I followed through all the prompts, entered my current and future addresses, and **my credit card information**, and clicked submit.
+
+Immediately, I was denied due to bad credit card information. Since the info was autofilled, I know I didn't put in the wrong info. Then I received a fraudulent charge alert from my credit card provider. Afterwards, I rechecked the website and well, I feel like an idiot because the site *definitely* stole my card info and tried to charge me $60 (the service typically costs a single dollar thru USPS) as stated in the fine print. Luckily my card provider caught it immediately; I confirmed it as a fraudulent charge and they are issuing me a new card.
+
+I also reported the website to google since **it was an advertisement and the top search result**. I find it disconcerting that google would allow such an ad to be run *and* to place it as the top result.
+
+url:https://reddit.com/r/YouShouldKnow/comments/gu4431/
+author:biscuitquickie
+subreddit:YouShouldKnow
+score:17151
+numComments:300
+isOver18:False
+hasPostBody:True

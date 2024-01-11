@@ -1,0 +1,15 @@
+title:
+LPT: In a windstorm, don't fear the trees that sway, fear the one that doesn't.
+
+content:
+I learned this first hand last night. Kept watching out for several trees that I feared were about to be brought down by the hurricane, but it was the big solid oak that failed in the end.
+
+I've heard of this in the past, but it's so counterintuitive that you forget it at the time.
+
+url:https://reddit.com/r/LifeProTips/comments/xr6z6a/
+author:TheGoodChristian
+subreddit:LifeProTips
+score:4193
+numComments:162
+isOver18:False
+hasPostBody:True

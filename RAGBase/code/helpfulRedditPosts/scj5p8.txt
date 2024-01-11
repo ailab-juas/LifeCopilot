@@ -1,0 +1,13 @@
+title:
+LPT: Use a heating pad at home instead of cranking up the thermostat. A heating pad keeps you super warm and cost $0.01 - 0.03 per day to run.
+
+content:
+This is my go-to right now living in a really cold place.  I keep my thermostat set to around 60, but almost always have a heating pad on my back or across my lap.  I'm super warm and not running up $300 power bills.
+
+url:https://reddit.com/r/LifeProTips/comments/scj5p8/
+author:not-gandalf-bot
+subreddit:LifeProTips
+score:1802
+numComments:217
+isOver18:False
+hasPostBody:True

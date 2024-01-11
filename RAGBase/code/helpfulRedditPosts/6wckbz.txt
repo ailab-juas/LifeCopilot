@@ -1,0 +1,13 @@
+title:
+LPT: When you're about to explain something, lead with "essentially" rather than "basically".
+
+content:
+Leading with "basically" implies you're explaining said thing because you feel like it needs to be dumbed down for the listener. This will often elicit a negative response and make the listener feel belittled. "Essentially" does not imply simplification, but brevity.
+
+url:https://reddit.com/r/LifeProTips/comments/6wckbz/
+author:kutuup1989
+subreddit:LifeProTips
+score:1084
+numComments:96
+isOver18:False
+hasPostBody:True

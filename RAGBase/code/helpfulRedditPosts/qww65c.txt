@@ -1,0 +1,20 @@
+title:
+LPT: Our brain is not designed to make us happy in the future. As soon as we achieve goal X, or good thing Y happens to us, our brain works to bring us back to homeostasis. Fantasizing about future happiness is a trap. Happiness can only be found by being grateful in the present moment.
+
+content:
+It feels good when we achieve our goals. However, due to human biochemistry, that feeling is often fleeting. As a result, the process is more important than the destination. 
+
+Think of the grestest achievements in society. To win a sports championship? To get elected president? To become a millionaire? 
+If you watch interviews with these people, they are all constantly focused on the next big thing. It never ends. 
+
+I think it’s better to celebrate smaller time frame goals [daily/weekly] rather than thinking something chronologically and emotionally distant could ever change our lives. 
+
+Google “hedonic treadmill.” Some people believe the claims of hedonic treadmill are overstated. But the basic principle—that humans tend to change or evolve over a longer period of time—to my mind is a fundamental fact of biology.
+
+url:https://reddit.com/r/LifeProTips/comments/qww65c/
+author:CreatorVilla
+subreddit:LifeProTips
+score:5483
+numComments:133
+isOver18:False
+hasPostBody:True

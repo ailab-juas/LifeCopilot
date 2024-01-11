@@ -1,0 +1,13 @@
+title:
+LPT: Products labeled unscented contain fragrances to neutralize a products scent, fragrance free implies no scent added whatsoever.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/249qpi/
+author:timmytucker
+subreddit:LifeProTips
+score:2922
+numComments:116
+isOver18:False
+hasPostBody:False

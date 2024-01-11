@@ -1,0 +1,13 @@
+title:
+LPT: While traveling alone, never keep all your cash and cards in a single wallet or purse. Keep it at 2 or 3 different places, so if you lose one source, you have other sources to rely on.
+
+content:
+Especially when you are traveling alone in a different country. If someone steals or your stuff gets lost, you still have money.
+
+url:https://reddit.com/r/LifeProTips/comments/qvk242/
+author:doktorcatzen
+subreddit:LifeProTips
+score:2039
+numComments:114
+isOver18:False
+hasPostBody:True

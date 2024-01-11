@@ -1,0 +1,13 @@
+title:
+LPT: Start a good series on Netflix that you only let yourself watch on the cardio machine at the gym so you're more motivated to go
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/6sbfs6/
+author:Super_Awesome_Noodle
+subreddit:LifeProTips
+score:1692
+numComments:102
+isOver18:False
+hasPostBody:False

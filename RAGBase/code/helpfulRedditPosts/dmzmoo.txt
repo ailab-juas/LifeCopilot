@@ -1,0 +1,35 @@
+title:
+YSK you need to literally be a millionaire if you plan to retire off a 401K
+
+content:
+Say you were 65 years old today and you wanted to live off the average salary in America in 2019 (~56,000) how much money would you need in an investment account?
+
+for a 98% chance on not going broke until you die you would need an amount of money invested in a balanced account (50/50 stocks/bonds) in which 4% of that would equal $56,000. That 4% is called a withdrawal rate and is derived from hundreds of researchers back testing millions of scenarios to determine how much money you need to retire from.
+
+Ignoring any social security benefit that would mean you need approximately 1,400,000 (56,000/.04) in an investment account today to retire off 56,000 a year. Luckily Americans have some sort of social security benefit. In January of 2019 the average SS benefit was 1,368 per month (16,416 per year). Netting out SS you would need an account that could handle 4% withdrawal to match 39,584 per year which is $989,600.
+
+These are all pre-tax numbers which I'm not going to go down that hole.
+
+In summary TODAY if you receive 16,000 from social security you still need approximately 1 million dollars in an investment account to receive ~56,000 **pre-tax** income in retirement.
+
+If you are reading this and are 25 you have, on the low end, another 40 years until you retire. If inflation is 3% for the next 40 years (that includes housing which has well surpassed that in recent history) your retirement income would need to be $182,700 in 2060 to have the same purchasing power at $56,000 today. That would mean with a 4% withdrawal rate you need a little over $4,500,000 in an investment account in 2060 making you a multi-millionaire on paper. All of this is to only match the purchasing power of $56,000 in 2019.
+
+Young people today should know this is uncharted territory, never before in modern America has an entire generation been so reliant on self investment. The previous pension model proved to be unsustainable but afforded previous generations with guaranteed income in retirement and for better or worse had required payments by the employee into the pension fund for the company.
+
+Today employees are sometimes incentivized via matching to invest in a 401K but are never required to contribute and it is not uncommon, especially by those at most risk (blue collar workers), to not contribute to their retirement in the 20's and most of their 30's. A time in which the power of compounding interest will help them the most in achieving their goal. Every dollar invested today is worth ~$30 40 years from now but if you wait 20 years to start investing that 1 dollar is only worth $5.
+
+TL;DR You need WAY more money than you probably realize to retire earning a lot less money than you'd think. Since you cant start yesterday, start today. 
+
+Further reading:
+
+To understand the research behind this 4% withdrawal rate I'm asking you to take at face value go here: https://www.fidelity.com/viewpoints/retirement/how-long-will-savings-last
+
+https://www.bogleheads.org/wiki/Preparing_for_retirement
+
+url:https://reddit.com/r/YouShouldKnow/comments/dmzmoo/
+author:Geronimobius
+subreddit:YouShouldKnow
+score:1232
+numComments:174
+isOver18:False
+hasPostBody:True

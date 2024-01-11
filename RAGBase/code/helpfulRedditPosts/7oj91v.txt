@@ -1,0 +1,30 @@
+title:
+YSK: There is a medical ID on iPhones.
+
+content:
+Having a medical ID is very important to have and filling one out on your phone will take only a few minutes. If you're ever in an emergency situation or are having any other medical problems, a medical ID can give healthcare workers or EMS responders helpful and important information about you quickly. Go into your contacts and select your name (should be at the very top) and scroll down and select medical ID. From there you can put in all of your medical information such as a photo ID, allergies, medications, birthday, etc. Once finished it can be easily accessed without even unlocking your phone by selecting emergency and then medical ID. 
+
+EDIT: Just learned that you can do this on androids as well by basically doing the same thing. Thanks u/yesorno12138 and u/Loganophalus
+
+u/yesorno12138 said;
+
+And on androids. 
+On note 8, open your contacts, the top one is your own profile, clock it, scroll down to the bottom, there is medical information you can fill in and can access it when phone is locked. 
+
+u/Loganophalus said;
+
+For other Android phones go to settings &gt; users &gt; emergency info
+
+You can fill in spaces like name, blood type, allergies, medicine, if you're an organ donor, home address, and other medical notes.
+
+You can view it by pressing the emergency call button and there should be a medical info button .
+
+Edit: you can also view the emergency contacts in there
+
+url:https://reddit.com/r/YouShouldKnow/comments/7oj91v/
+author:ElusiveSAMO
+subreddit:YouShouldKnow
+score:1398
+numComments:94
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+LPT: When sharing headphones with friends, turn on mono audio on your phone
+
+content:
+It makes it so the sound is split equally, so one can only hear the bass while the other can only hear the singing.
+
+It is normally found in the Ease of Access settings.
+
+url:https://reddit.com/r/LifeProTips/comments/1ng52z/
+author:lehoo_zeher
+subreddit:LifeProTips
+score:1448
+numComments:183
+isOver18:False
+hasPostBody:True

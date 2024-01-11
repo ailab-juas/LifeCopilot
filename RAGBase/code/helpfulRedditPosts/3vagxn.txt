@@ -1,0 +1,27 @@
+title:
+LPT: Make sure you have the right networking equipment to get the best speed for your internet plan
+
+content:
+It is important to have the right equipment to get the best possible speed out of your ISP. Especially if you have comcast since a lot of people get higher speeds than advertised. Here's what you need:
+
+1. The right cable modem (If you have cable internet - Comcast, Time Warner etc). DOCSIS is the specification for cable modems. For faster plans &gt; 40 MBps you want a DOCSIS 3.0 compliant modem. If your modem is DOCSIS 2.0 compliant but not 3.0, your speeds are going to be capped! http://customer.xfinity.com/help-and-support/internet/docsis3/
+2. Get the cable modem with a higher number of download channels. If you have a DOCSIS 3.0 cable modem with 4 download channels and a 100+Mbps plan, you're not going to see those speeds. Upgrade to a modem that has say 16 download channels. I was getting 60 MBps on a 100 MBps plan. When I upgraded my modem to the Surfboard 6183, that jumped to 160 MBps!
+3. Wireless router - That $25 router probably doesn't support 802.11 ac even if your shiny new laptop does. 
+4. Check your laptop/phone/consumption device to ensure the wireless adapter supports the fastest protocol that your router allows for.
+5. Most 5GHz bands support faster speeds than the 2.4GHz ones. Though the range is lesser. If you're not that far away from your wireless router, your 5GHz signal is going to yield better download speeds.
+
+If I had to pick one, I'd say #1 is probably what most people are unaware of and that's the one thing that can help them the most. 
+
+Edit: Check whether your Cable modem is DOCSIS 3.0 compliant (or other modem info) here:
+http://mydeviceinfo.comcast.net/
+
+another good point by /u/OhWearrry - Check your router's manual/manufacturer page to ensure your router has a Gigabit WAN port if your plan is &gt;100 MBps.
+
+
+url:https://reddit.com/r/LifeProTips/comments/3vagxn/
+author:AssertTrue
+subreddit:LifeProTips
+score:1496
+numComments:226
+isOver18:False
+hasPostBody:True

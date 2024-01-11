@@ -1,0 +1,13 @@
+title:
+YSK that in Windows 10 you can press the Windows Key + V to bring up your Clipboard history, which saves any text/images you copy ready for you to re-use.
+
+content:
+This has been available since October 2018, so assuming you haven't done anything fancy to disable Windows updates you should have had this feature for a while, possibly without knowing it.
+
+url:https://reddit.com/r/YouShouldKnow/comments/djd5x7/
+author:lieutenantcigarette
+subreddit:YouShouldKnow
+score:13194
+numComments:296
+isOver18:False
+hasPostBody:True

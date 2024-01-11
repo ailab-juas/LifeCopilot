@@ -1,0 +1,13 @@
+title:
+YSK about these cheat sheets for your office programs
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/3bn1fh/
+author:ckfighter2
+subreddit:YouShouldKnow
+score:2014
+numComments:95
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: Before flying anywhere (especially international) take multiple photos of all your luggage in case the airline loses them.
+
+content:
+Happened to me in a non-english speaking country. Trying to describe my bag was a nightmare. Better if you can just email a picture!
+
+url:https://reddit.com/r/LifeProTips/comments/7miygp/
+author:crow_man
+subreddit:LifeProTips
+score:1227
+numComments:29
+isOver18:False
+hasPostBody:True

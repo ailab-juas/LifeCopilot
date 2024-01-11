@@ -1,0 +1,16 @@
+title:
+LPT: If you have a goPro or similar camera you're likely to lose. Save an If_found.txt file on the SD card with an email address and an 'If lost, please contact...' message.
+
+content:
+If lost / if found, whatever you want to say. 
+This is in response to the 'I've just lost my goPro on a beach in Maui' message. 
+
+EDIT: Yes, I also write my email on the chip also. And on a post-it stuck to the back of the camera.... and on the USB key on my keyring (on an email that couldn't be traced to my address)
+
+url:https://reddit.com/r/LifeProTips/comments/1tlqle/
+author:flapcats
+subreddit:LifeProTips
+score:2033
+numComments:210
+isOver18:False
+hasPostBody:True

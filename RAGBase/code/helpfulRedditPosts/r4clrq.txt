@@ -1,0 +1,13 @@
+title:
+LPT: There are no secrets to being fit, saving money, losing weight, or making friends, just well publicized proven techniques that people do not want to do because they take time, effort, and sacrifice.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/r4clrq/
+author:AgentElman
+subreddit:LifeProTips
+score:43950
+numComments:1933
+isOver18:False
+hasPostBody:False

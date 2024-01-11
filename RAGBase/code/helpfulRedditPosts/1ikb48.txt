@@ -1,0 +1,13 @@
+title:
+LPT: Rinse your ice when drinking sodas to maintain carbonation
+
+content:
+Enjoy an iced soda on a hot day? Didn't think ahead and chill the glass or drink so you have to use tons of ice?  To avoid losing all the carbonation when you pour warm soda over cold ice, pour a little water in the glass with the ice first and swirl it around then dump it out but leave the ice.  The water will melt to outer layer of ice and leave a smoother surface on the ice and glass with fewer nucleation sites for the carbon dioxide to gather, leaving your soda noticeably fizzier than if you pour it over 'raw' ice.
+
+url:https://reddit.com/r/LifeProTips/comments/1ikb48/
+author:citationmustang
+subreddit:LifeProTips
+score:1979
+numComments:303
+isOver18:False
+hasPostBody:True

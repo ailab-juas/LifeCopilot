@@ -1,0 +1,13 @@
+title:
+YSK: Github offers a very large Student Developer package, many cloud-hosts, software/web/app dev tools, and more at your disposal if you're a student/teacher. (13+ y/o)
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/7ftytp/
+author:iCryKarma
+subreddit:YouShouldKnow
+score:1273
+numComments:21
+isOver18:False
+hasPostBody:False

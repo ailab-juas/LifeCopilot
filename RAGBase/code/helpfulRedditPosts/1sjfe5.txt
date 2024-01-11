@@ -1,0 +1,22 @@
+title:
+LPT : Sending a letter to santa this year? See this.
+
+content:
+Have worked as a Christmas Casual worker for the royal mail for the last 3 years to help with the influx of post flying around at Christmas, and the only real thing I've learned is this.
+
+If you want a letter to get to "santa" (its actually a department of the royal mail building in Belfast) you need to put the postcode on your letter as xm4 5hq (Xmas HQ) someone will get the letter in the building and if you've printed a return address you'll get a letter from Santa. 
+
+
+If you send your letter to Lapland it will end up in Finland. It's an automated computer than reads the address and decides where it goes after that. 
+
+If you send it to a made up address (Santas Grotto / Reinder-land etc) it will just get thrown off the conveyer belt and will more than likely end up being sent back to your address (If you printed a return address, if not they'll reject the mail)
+
+Seasons Greetings :) 
+
+url:https://reddit.com/r/LifeProTips/comments/1sjfe5/
+author:nottsoathletic
+subreddit:LifeProTips
+score:2013
+numComments:320
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,20 @@
+title:
+YSK how to use a plunger. Whether it's a sink, a bathtub, a shower, or a toilet, clogged pipes are a common, and commonly fixed, problem. In most cases, using a plunger to clear the clog will solve the problem and save you the often costly price of having a plumber do it.
+
+content:
+**Why YSK.** Clogged pipes can happen at any time. In [9 out of 10 cases](https://www.bobvila.com/articles/how-to-use-a-plunger/), using a plunger can clear the clog and return your pipes to working condition. Keeping a good plunger, or 2, around your house and knowing how to use them is a simple, cost-effective way to solve your own plumbing problems.
+
+All plungers operate on the same principle. You use the plunger to seal the drain opening and then repeatedly force the water down into the pipe. The force of the water should be enough to dislodge the blockage and clear the pipe. 
+
+1. **Sink/shower/and tub plungers.** A clogged kitchen or bathroom sink, shower, or bath tub requires the use of a cup plunger. These plungers are fairly small and have a cup shape rubber piece at the end. They **don't** have a rubber sleeve (called a flange) that extends from them as toilet plungers do. The idea is to place the plunger on the drain so the cup fits around the entire drain opening without having any gaps where air can escape. (This is usually done under water as the drain is clogged. If there's too much water that might overflow once you start plunging, get a bucket and scoop some out. ) Once the plunger is in place, push the handle down gently to clear out the air, then start more forcefully plunging the drain using a quick push/pull motion. Do this for 20 - 30 seconds. (If you're plunging a sink with an overflow drain, such as in a bathroom, you'll want to cover that with a wet cloth or something similar.)
+2. **Toilet plungers.** The dreaded overflowing toilet can be a nightmare, but a good toilet plunger can be your savior. Once your toilet backs up, DO NOT try to flush it again to see if magic happens and it goes away. Get your plunger first! Then, wait 10 - 15 minutes for the water to go down about half way up the bowl. (This happens because the clog isn't completely solid, and the water will go through in time.) Turn off the water supply to the toilet. (This is usually a silver flex pipe with a twist valve near the wall/floor.) Insert the flange (the rubber sleeve) into the toilet drain hole and make sure the plunger bell covers the hole completely. Then use a quick push/pull motion for 20 - 30 seconds, making sure the plunger stays around the toilet drain. 
+
+If you do this right you should usually clear the clog. If not, you will want to call a plumber as they will probably need to snake the drain.
+
+url:https://reddit.com/r/YouShouldKnow/comments/twvcqo/
+author:ButtholeBanquets
+subreddit:YouShouldKnow
+score:7578
+numComments:258
+isOver18:False
+hasPostBody:True

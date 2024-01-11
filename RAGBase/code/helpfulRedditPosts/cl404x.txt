@@ -1,0 +1,13 @@
+title:
+LPT: If you regularly order food online from yours and your partner's accounts, stop using one of the accounts. After a while you will receive offers on the account that is dormant.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/cl404x/
+author:furstimus
+subreddit:LifeProTips
+score:25560
+numComments:396
+isOver18:False
+hasPostBody:False

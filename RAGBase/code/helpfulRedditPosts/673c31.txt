@@ -1,0 +1,52 @@
+title:
+YSK the meaning of "first cousin," "second cousin," and "...once removed."
+
+content:
+Some people simply ignore these distinctions, and everyone is just "cousins" or maybe "uncles and aunties." That's totally fine. But if you'd like to use the terms correctly, here it is:
+
+&amp;nbsp;
+
+**First Cousins**  
+
+Your first cousins share a grandparent with you. (Rather, a pair of grandparents, in most cases.) Your grandparents' *other grandchildren* -- besides you and your siblings -- are your first cousins. They are the children of your parents' siblings.
+
+&amp;nbsp;
+
+**Second Cousins** 
+
+Your second cousins share a great-grandparent with you, but not a grandparent. All of your great-grandparents' *other great-grandchildren* -- besides you, your siblings, and your first cousins -- are your second cousins.  
+These people are the **same** generation as you, ancestor-wise. They are the grandchildren of your grandparents' siblings.
+
+&amp;nbsp;
+
+**Third Cousins** 
+
+Your third cousins share a great-great-grandparent with you. 
+
+And so on.
+
+&amp;nbsp;
+
+**Once Removed**  
+
+This term refers to a separation of one generation. The children of your first cousins are your "first cousins once removed." 
+
+Additionally, your relationship to them (you are the cousin of their parent) is "first cousin once removed." So, your parents' cousins are your "first cousins once removed."  They are the children of your grandparents' siblings, and the parents of your second cousins.
+
+&amp;nbsp;
+
+**Twice removed** is a additional generation. Your first-cousin's grandchildren are your first cousins twice removed. Your grandparents' first cousins are your "first cousins twice removed."
+
+&amp;nbsp;
+
+Hope this helps!
+
+**ETA**: Here's a chart thing: http://lifehacker.com/second-cousins-once-removed-and-more-explained-in-1661572056
+
+url:https://reddit.com/r/YouShouldKnow/comments/673c31/
+author:heidismiles
+subreddit:YouShouldKnow
+score:2892
+numComments:170
+isOver18:False
+hasPostBody:True

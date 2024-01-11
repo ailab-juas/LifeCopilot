@@ -1,0 +1,17 @@
+title:
+YSK: If you plan on ordering flowers from ProFlowers.com, they have leaked users' information to phishers/spammers in the past
+
+content:
+I received spam/malware emails to an address that no company other than ProFlowers.com had ever been given. 
+
+Aside from their product being not very good in my opinion, they also don't take their users' security seriously. 
+
+https://i.imgur.com/ouQKzV5.png
+
+url:https://reddit.com/r/YouShouldKnow/comments/2uiucl/
+author:ScrewedThePooch
+subreddit:YouShouldKnow
+score:2561
+numComments:126
+isOver18:False
+hasPostBody:True

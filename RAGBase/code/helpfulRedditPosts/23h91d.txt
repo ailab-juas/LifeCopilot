@@ -1,0 +1,17 @@
+title:
+YSK about Skiplagged, a travel website that uses hidden-city ticketing to provide you airfares up to 80% less than regular price.
+
+content:
+For example, a regular price ticket from Philadelphia to Chicago on May 13th is 146 dollars on Delta Airlines connecting through Cincinnati. However, on Skiplagged.com, a flight from Philadelphia to Chicago is only 66 dollars! The ticket is actually for an itinerary from Philadelphia to Newark, New Jersey, with a 4 hour connection in Chicago. You just don't get on the connecting flight to EWR, and roll in the money you just saved!
+
+http://www.kayak.com/flights/PHL-ORD/2014-05-13
+VS
+http://www.skiplagged.com/?src=PHL&amp;dst=ORD&amp;when=2014-05-13&amp;whenBack=&amp;sort=cost
+
+url:https://reddit.com/r/YouShouldKnow/comments/23h91d/
+author:bearsfan654
+subreddit:YouShouldKnow
+score:2508
+numComments:343
+isOver18:False
+hasPostBody:True

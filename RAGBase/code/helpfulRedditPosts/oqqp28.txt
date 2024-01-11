@@ -1,0 +1,13 @@
+title:
+LPT: if you tell someone a secret they are almost definitely going to tell their spouse, even if you promise them to secrecy.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/oqqp28/
+author:MeaningfulPlatitudes
+subreddit:LifeProTips
+score:84247
+numComments:3568
+isOver18:False
+hasPostBody:False

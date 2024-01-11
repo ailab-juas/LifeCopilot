@@ -1,0 +1,72 @@
+title:
+LPT: Send a text message to yourself in limited reception situations to push all other pending messages through.
+
+content:
+**Send a text message (sms) to yourself if you get signal/reception for a few seconds to push all of the pending incoming messages.**
+----------------
+
+Do you ever lose reception/signal completely? Usually it happens, after being in an underground parking lot, metro or simply areas that have zero coverage? 
+
+In the meantime, people might/will send text messages (sms) to you, but since you have no reception, the text messages will not make it. After the first try, sending of the text message will be tried only periodically (around every 5 minutes or so) by your phone provider.
+
+
+In my case (commuting via subway) I know exactly how many and how short the coverage/signal "openings" are - whenever the subway is above the ground, so in case of Toronto, not a lot. 
+
+This way, I can still inform people that I will be home soon, make some plans or not be lost in conversation asking about things somebody already replied about, despite the signal "openings" being short enough to regain signal for maybe 30-40 seconds - all I have to do is **send a text message (sms) to myself  when I regain signal for a few seconds and that way I get all of the texts were sent to me while I was out of signal/coverage**
+
+Bonus LPT: send texts to yourself if you ever need to keep a note of something!
+
+-----------------
+
+**More Technical Explanation by /u/BDozer:**
+
+* http://www.reddit.com/r/LifeProTips/comments/2naymm/lpt_send_a_text_message_to_yourself_in_limited/cmc5ica
+
+**Confirmed to work on:**
+
+* Wind Mobile (thanks /u/_y2b_)
+* AT&amp;T (thanks /u/d0x_)
+* Verizon (/u/thenamesjord used to do this a lot)
+* T-Mobile (thanks /u/ExDeluxe for the tip, also moved to the appropriate carrier as per direct order from /u/ExDeluxe)
+* Bell (thanks /u/GiveMeAFuckingCoffee lol caffeine)
+* Rogers (thanks /u/Lemkie)
+* Koodo/Telus (thanks /u/helpmetolearn)
+* MTS in Manitoba (thanks /u/Ahobo1)
+* Tracfone PrePaid (thanks /u/cryptostone) sidenote: I would never trust a prepaid carrier called Tracfone
+* Sprint (thanks /u/catspacecrusader and /u/BostonDodgeGuy for making this happen!)
+* Virgin Mobile (thanks /u/rh1413)
+
+**Other methods:**
+
+* As per /u/heronmark suggestion, calling your voicemail (for those without visual vmail) works equally well, if not better (since voice has priority over data/txt - unconfirmed, but plausible)
+
+* /u/burritosandblunts suggested that this works by sending an sms to somebody else. In my experience, if I send and sms to myself and it comes back with no other texts, I am sure I successfully "checked" my cellular carrier's delivery path from my phone and back. If I send it to somebody else, I still have no idea if I had enough time or coverage for the sms to "bounce off" my carriers delivery system/server.
+
+* /u/IMSITTINGINYOURCHAIR suggest that on (possibly older?) phones that come with a built-in app that lets you access your carrier's "web" portal usually for free, you can simply open that app after regaining reception in order to initiate a push of youre messages. I personally think this only works with phones that use wep/edge instead of 3G/LTE. I think this makes more sense in situations where you pay per sms, which I believe is still the case in some countries.
+
+* /u/Haptic_Affinity suggest to use an application [Tasker - $3.99](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&amp;hl=en)  which will trigger an sms to yourself upon turning airplane mode off. I have not tested Tasker but checked out [AutomateIt - FREE](https://play.google.com/store/apps/details?id=AutomateIt.mainPackage). Unfortunately AuomateIt didn't work on my Nexus 5 with Lollipop (no sms was triggered, but notification that action took place showed up) and that led me to lose confidence in Tasker being better at the job, so I didn't bother paying to test it. According to /u/Haptic_Affinity the best free alternative is [LLAMA](https://play.google.com/store/apps/details?id=com.kebab.Llama&amp;hl=en) which I haven't tested myself.
+
+**Live Action Screenshot!**
+
+* [Deep conversations with oneself](http://i.imgur.com/EBeraq1.jpg)
+
+**This is how much time I regain reception/signal for during my commute:**
+
+* https://www.youtube.com/watch?v=7wbxCcJLxeU
+
+**Further Witness Accounts:**
+
+* /u/rhenze lived in the hills and confirms - works in the wilderness
+* /u/Dark-tyranitar used it in 3 different countries and it worked with all GSM carriers - "it's like a universal LPT or something!"™
+
+
+Thank you all for contributing, lurking, testing, disproving, approving and everything in between. We are closer as human beings! Great teamwork everyone!
+----------------
+
+url:https://reddit.com/r/LifeProTips/comments/2naymm/
+author:[deleted]
+subreddit:LifeProTips
+score:4212
+numComments:184
+isOver18:False
+hasPostBody:True

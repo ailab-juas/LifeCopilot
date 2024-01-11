@@ -1,0 +1,13 @@
+title:
+LPT: If it smells bad when you use your vacuum, vacuum up a handful of dry coffee beans and a handful of raw rice. Let them sit for a few days and they will absorb all the humidity inside the vac chamber and help clear the bad smells!
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/9yv8rr/
+author:_z-1fTlSDF0
+subreddit:LifeProTips
+score:1416
+numComments:73
+isOver18:False
+hasPostBody:False

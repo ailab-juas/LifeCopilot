@@ -1,0 +1,13 @@
+title:
+LPT: If you like something about a person, tell them,
+
+content:
+Whether it's their incredible personality or just a cool t-shirt they're wearing, if a compliment pops into your head, speak it out loud! Not only will it potentially brighten their day, it'll brighten yours as well. 
+
+url:https://reddit.com/r/LifeProTips/comments/5ggpiw/
+author:AnArtisticBody
+subreddit:LifeProTips
+score:1170
+numComments:93
+isOver18:False
+hasPostBody:True

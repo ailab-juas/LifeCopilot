@@ -1,0 +1,13 @@
+title:
+LPT- When buying ground meat at the grocery store, transfer it to gallon ziploc bags and squish it flat so it takes up the whole bag. This allows for much easier thawing and more efficient storage.
+
+content:
+Also highly recommend using a sharpie to put the type of meat, date purchased, AND store purchased (in case of recalls).
+
+url:https://reddit.com/r/LifeProTips/comments/cfge2l/
+author:DarkSideMoon
+subreddit:LifeProTips
+score:3056
+numComments:219
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Always check your cell signal when looking for a new apartment, house, or dorm
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5gnxyr/
+author:joshua_montanari
+subreddit:LifeProTips
+score:2256
+numComments:127
+isOver18:False
+hasPostBody:False

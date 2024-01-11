@@ -1,0 +1,13 @@
+title:
+YSK: Birch Sugar is Xylitol &amp; Can Kill Your Dog
+
+content:
+Many of us are trying to avoid artificial sweeteners and move to more natural foods for us and our pets.  Chemical-sounding names can make us think that something is bad for us, and manufacturers are well aware of this, so many times they will try to use less “triggering” names for their products.  Birch sugar is one of those things.  It is a sweetener that comes from birch trees, but it is also known as xylitol.  Why YSK: Xylitol Is sugar alcohol that doesn’t play nicely with a dog’s blood sugar and causes it to drop quickly, and too much, which can lead to seizures, liver damage, and death.  And it’s in a lot of foods these days such a peanut butter and ice cream, so please be careful when giving your dogs treats.  It is also one of the most common sweeteners for sugar-free gum, and as a critical care vet tech, that was a very common toxicity I saw at my hospital.  Give your fluffy one some hugs and always read ingredient lists.
+
+url:https://reddit.com/r/YouShouldKnow/comments/o3igob/
+author:Heifzilla
+subreddit:YouShouldKnow
+score:9473
+numComments:304
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: if your LPT is about fucking coconuts, it will be removed and you will be banned.
+
+content:
+http://i.imgur.com/GOCpO4I.jpg
+
+url:https://reddit.com/r/LifeProTips/comments/6s7ln1/
+author:phedre
+subreddit:LifeProTips
+score:100212
+numComments:3596
+isOver18:False
+hasPostBody:True

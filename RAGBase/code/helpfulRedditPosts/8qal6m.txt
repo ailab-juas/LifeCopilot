@@ -1,0 +1,13 @@
+title:
+LPT: Wake up a little earlier than your alarm? Don’t go back to bed and wait for your alarm. Waking up naturally instead of to some sort of stimuli will help you get off to a better and healthier start to your day.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/8qal6m/
+author:iiicantwait
+subreddit:LifeProTips
+score:25849
+numComments:959
+isOver18:False
+hasPostBody:False

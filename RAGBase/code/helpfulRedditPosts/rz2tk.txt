@@ -1,0 +1,13 @@
+title:
+Organise Tupperware with CD racks
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/rz2tk/
+author:boergermeister
+subreddit:LifeProTips
+score:1028
+numComments:26
+isOver18:False
+hasPostBody:False

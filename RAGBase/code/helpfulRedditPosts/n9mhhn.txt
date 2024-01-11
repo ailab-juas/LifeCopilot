@@ -1,0 +1,17 @@
+title:
+YSK: If you order from them, Amazon sellers can use your customer information to send otherwise unsolicited ads to your home.
+
+content:
+Why YSK: To potentially limit unwanted ads.  
+  
+After getting ads mailed to me by Amazon sellers, I asked support if this is allowed since Googling yielded threads saying it violated their terms of service, especially if it directed you to a site that isn't Amazon. Amazon support told me explicitly that sellers are allowed to use order information for marketing purposes.  
+  
+Edit: I'm in the US and understand this may not apply to other countries. I'm also sure this order was fulfilled by Amazon and didn't ship from the seller.
+
+url:https://reddit.com/r/YouShouldKnow/comments/n9mhhn/
+author:damontoo
+subreddit:YouShouldKnow
+score:6826
+numComments:227
+isOver18:False
+hasPostBody:True

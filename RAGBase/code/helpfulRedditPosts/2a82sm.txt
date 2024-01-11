@@ -1,0 +1,26 @@
+title:
+YSK Daemon Tools Lite, the popular image mounting software, is now riddled with adware and malware, even if you cancel installation of adware during the installation
+
+content:
+http://forum.daemon-tools.cc/f33/thanks-malware-30115/
+
+Also a recent post on /r/software
+
+http://www.reddit.com/r/software/comments/2a59dp/daemon_tools_lite_now_installs_trolatunt_malware/
+
+As a long time user of Daemon Tools this was news to me, I hope to enlighten others. Here are a couple of alternatives.
+
+http://www.slysoft.com/en/virtual-clonedrive.html
+
+http://wincdemu.sysprogs.org/
+
+Also windows 7 onwards can mount ISO files, though not other image formats, and many image formats can be opened with archiving programs like 7zip.
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/2a82sm/
+author:ExdigguserPies
+subreddit:YouShouldKnow
+score:2823
+numComments:245
+isOver18:False
+hasPostBody:True

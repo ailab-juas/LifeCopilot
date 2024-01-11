@@ -1,0 +1,13 @@
+title:
+LPT- A way to start an emergency fund- open a new bank account and disable the debit card and internet services. Next, put a monthly/weekly auto debit (on your pay day) from your main salary account to the new account for a surplus amount (eg $10). Keep increasing amount as your pay increases.
+
+content:
+When i started earning (about 11 years back), my parents made me open a new bank account but made me opt out of the debit card and internet banking facility. Then they implemented a direct debit from my main salary account to this second bank account. I started off with a $10 debit (monthly). While at that time it seemed like such a useless thing to do, it created a small emergency fund for me. I kept increasing the amount as my finances become more stable. It helped a ton when I lost my job in COVID
+
+url:https://reddit.com/r/LifeProTips/comments/st0u0b/
+author:brown_haired_girl13
+subreddit:LifeProTips
+score:1348
+numComments:184
+isOver18:False
+hasPostBody:True

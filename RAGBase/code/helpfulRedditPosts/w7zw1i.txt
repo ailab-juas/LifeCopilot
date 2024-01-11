@@ -1,0 +1,13 @@
+title:
+LPT: If you're trying to meet someone for the first time from the internet, and they ask for money for gas, food, a babysitter, or anything at all in order to meet. Don't send it. It is always a scam and you're probably not talking to the person you think you're talking to.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/w7zw1i/
+author:Dustyoldfart
+subreddit:LifeProTips
+score:1229
+numComments:52
+isOver18:False
+hasPostBody:False

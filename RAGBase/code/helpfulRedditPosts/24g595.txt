@@ -1,0 +1,19 @@
+title:
+YSK if you are a student with a .edu email address, you can download free Microsoft software
+
+content:
+https://www.dreamspark.com/Student/Software-Catalog.aspx
+
+Includes free licenses for Visual Studio, Windows Server, SQL servers, free ebooks, and more.
+
+Even if you're not a developer, you can [use Server as a desktop OS](http://www.win2012workstation.com/desktop-experience/) if you don't want to pay for Windows 8/8.1
+
+Edit: stirrah and TheThirdBlackGuy are right, your university has to be enrolled in the program to access the software
+
+url:https://reddit.com/r/YouShouldKnow/comments/24g595/
+author:Pure_Reason
+subreddit:YouShouldKnow
+score:1085
+numComments:124
+isOver18:False
+hasPostBody:True

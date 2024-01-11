@@ -1,0 +1,19 @@
+title:
+YSK: To move your cursor to a specific position on your phone, you can (for Android) swipe on your spacebar or (for iOS) long-press the spacebar and move without lifting your thumb.
+
+content:
+**Why YSK:** It gets annoying when you need to edit a typo and have to erase the whole word just to correct it. With this feature, you can precisely move the cursor around your typed content without having to gnash.
+
+Edit: Bonus YSK:
+
+• On Android, you can tap and swipe left from your backspace icon to delete whole words or sentences.
+
+• You can tap and hold the caps lock icon and drag your thumb to any letter to quickly get an uppercase letter.
+
+url:https://reddit.com/r/YouShouldKnow/comments/s98qw6/
+author:[deleted]
+subreddit:YouShouldKnow
+score:5994
+numComments:399
+isOver18:False
+hasPostBody:True

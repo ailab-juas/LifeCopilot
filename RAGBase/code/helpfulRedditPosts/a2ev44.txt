@@ -1,0 +1,13 @@
+title:
+YSK you can analyze the rating of an Amazon product on reviewmeta.com, which will check the reviews for suspicious patterns/behavior. It's free, and they also have a browser extension that will do it automatically.
+
+content:
+Came across it when I was trying to figure out why a well-reviewed product I bought was garbage.  Sure enough, almost all of that company's products were red-flagged.  Don't make the same mistake I did.  Could've saved myself a decent amount of money if I'd known about it earlier.
+
+url:https://reddit.com/r/YouShouldKnow/comments/a2ev44/
+author:Arboria_Institute
+subreddit:YouShouldKnow
+score:13463
+numComments:163
+isOver18:False
+hasPostBody:True

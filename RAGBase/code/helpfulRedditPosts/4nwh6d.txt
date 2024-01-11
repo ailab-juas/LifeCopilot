@@ -1,0 +1,13 @@
+title:
+LPT If you're a visual artist with works online, drag/drop them into google image search to see if they've been stolen.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/4nwh6d/
+author:butterknot
+subreddit:LifeProTips
+score:2774
+numComments:134
+isOver18:False
+hasPostBody:False

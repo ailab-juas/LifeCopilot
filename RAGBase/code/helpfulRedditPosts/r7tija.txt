@@ -1,0 +1,38 @@
+title:
+YSK: when you buy digital media online, you don't own it, you're just licensed to watch it. that can be taken away.
+
+content:
+Why YSK: just because you "buy" something digitally, doesn't mean the same when you physically buy something. you are buying ACCESS to the content. don't be surprised if the company revokes access. 
+
+[A user lost access to his movies in apple's ecosystem](https://www.forbes.com/sites/johnarcher/2018/09/17/apple-responds-to-disappearing-itunes-movie-purchases-issue/1). it was a [licensing issue](https://www.macobserver.com/analysis/apple-isnt-deleting-itunes-movies/)
+
+
+
+If you look at amazon's policy for the content providers that want to use Amazon's platform: https://videodirect.amazon.com/home/agreement?ref_=avd_hm_ft_la
+
+Under Section "6. General Description of the Service; Distribution Modes:"
+&gt;(a) **purchase a license to access** digital copies ...
+ 
+&gt;(b) **purchase a license to access** digital copies ...
+
+&gt;(c) **access** audio visual content via ...
+
+&gt;(d) **access** audio visual content ....
+
+Nowhere does it mention you own a copy of the audio/visual content. [A lawsuit against Apple for using "buying" when you don't really buy anything](https://screencrush.com/do-you-own-movies-you-buy-in-itunes-forever/)
+&gt; "Apple tried to get the lawsuit dismissed, claiming that consumers know that buying something on iTunes doesn’t mean buying it forever."
+
+[You don't own games from EA, only a license to the content](https://tos.ea.com/legalapp/WEBTERMS/US/en/PC/#section2)
+&gt; **The EA Services are licensed to you, not sold**. EA grants you a personal, limited, non-transferable, revocable and non-exclusive license to use the EA Services to which you have access for your non-commercial use, subject to your compliance with this Agreement.
+
+Some reddit examples: 
+
+* [EA has deleted my account after they refused to refund me for battlefield 2042 within 14 days of purchase (UK law). I made a chargeback dispute through my credit card. I have now lost all my other EA games, purchases and progress.](https://www.reddit.com/r/gaming/comments/r7608x/ea_has_deleted_my_account_after_they_refused_to/)
+
+url:https://reddit.com/r/YouShouldKnow/comments/r7tija/
+author:lost12
+subreddit:YouShouldKnow
+score:15590
+numComments:1145
+isOver18:False
+hasPostBody:True

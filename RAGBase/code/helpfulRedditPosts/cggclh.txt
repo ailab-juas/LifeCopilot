@@ -1,0 +1,13 @@
+title:
+LPT: If someone asks how your weekend was, assume they're really wanting to tell you about theirs. Keep your answer short and enthusiastically ask about theirs. It'll make their day.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/cggclh/
+author:Mixitman
+subreddit:LifeProTips
+score:3676
+numComments:156
+isOver18:False
+hasPostBody:False

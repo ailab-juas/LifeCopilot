@@ -1,0 +1,13 @@
+title:
+LPT: When you are trying to resolve an issue where someone else made an error, put the focus on the error and not the person. Example of this: Instead of saying, “You didn’t send the attachment,” I say, “The attachment didn’t come through, please try sending it again.”
+
+content:
+Edit: check comments for additional / better tips
+
+url:https://reddit.com/r/LifeProTips/comments/adycg2/
+author:Remarkable_Arm
+subreddit:LifeProTips
+score:37055
+numComments:549
+isOver18:False
+hasPostBody:True

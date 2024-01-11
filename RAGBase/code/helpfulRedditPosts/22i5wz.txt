@@ -1,0 +1,13 @@
+title:
+LPT: Put dessicant packets in your shoes to get rid of any smell.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/22i5wz/
+author:postive_scripting
+subreddit:LifeProTips
+score:1489
+numComments:237
+isOver18:False
+hasPostBody:False

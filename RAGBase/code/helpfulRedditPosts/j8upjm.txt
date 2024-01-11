@@ -1,0 +1,13 @@
+title:
+LPT: If you ever need a program you want for free (for example a video/photo editor) don’t search for “free,” search for “open source” to avoid limited trial versions, adverts and malware
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/j8upjm/
+author:xhuljanomuca
+subreddit:LifeProTips
+score:66615
+numComments:748
+isOver18:False
+hasPostBody:False

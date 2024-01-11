@@ -1,0 +1,13 @@
+title:
+LPT: When leaving a voicemail, if you mess up hit pound (#) for the option to re-record. Works on every system I've ever encountered.
+
+content:
+Apparently not all systems but a lot of them! 
+
+url:https://reddit.com/r/LifeProTips/comments/4i74gg/
+author:daileng
+subreddit:LifeProTips
+score:5395
+numComments:516
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,50 @@
+title:
+YSK about Pexels, a website that provides free stock images licensed under Creative Commons. They can be used for both commercial and non-commercial purposes.
+
+content:
+Services like Shutterstock and Adobe Stock charge you money to use their images.
+
+ On Pexels, you don't need to buy a license or even credit the photographer (but it's appreciated!).
+
+Visit them at www.pexels.com
+
+Edit: there's a mistake in the title. As u/prikaz_da points out,  the images aren't licensed under creative commons but under Pexels' own simple license that doesn't require attribution.
+
+Second edit: I've complied a list of great websites similar to Pexels shared by commenters
+
+Useful free sites:
+
+
+	- www.unsplash.com
+
+
+	- https://www.pond5.com/free
+
+
+	- www.Mixkit.co being developed by u/johnkappa and his team for videos and illustrations
+
+
+	- https://pixabay.com
+
+
+	- https://commons.wikimedia.org/wiki/Main_Page
+
+
+	- https://freesound.org for sound effects and tracks
+
+
+	- https://icons8.com for icons
+
+
+
+----------------
+
+As u/jlking3 points out, be aware of trademarks and moral rights not covered by copyright
+
+url:https://reddit.com/r/YouShouldKnow/comments/dedcfe/
+author:gamersekofy
+subreddit:YouShouldKnow
+score:8314
+numComments:91
+isOver18:False
+hasPostBody:True

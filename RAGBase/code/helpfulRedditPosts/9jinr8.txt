@@ -1,0 +1,21 @@
+title:
+YSK that it takes longer to read capital letters
+
+content:
+When typing a sentence in all caps, remember that people read capital letters slower than lowercase. If it's a particularly long sentence, then it will be even worse. Single words and a phrase like "WHAT THE FUCK" are fine, it's when someone constructs a sentence using them then they've done a disservice to everyone reading it. 
+
+Edit:
+
+Wheildon, Colin (1995). Type and Layout: How Typography and Design Can Get your Message Across – Or Get in the Way. Berkeley: Strathmoor Press. p. 62. ISBN 0-9624891-5-8.
+
+Also, I found the source after making this post because I found this out during an episode of Top Gear when James May was speaking to a lady who designs the road signs in the UK and this is one of the things she said.
+
+Edit 2: [Arditi &amp; Cho - Letter case and text legibility in normal and low vision](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2016788/#R15)
+
+url:https://reddit.com/r/YouShouldKnow/comments/9jinr8/
+author:phanatik582
+subreddit:YouShouldKnow
+score:3142
+numComments:230
+isOver18:False
+hasPostBody:True

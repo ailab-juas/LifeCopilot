@@ -1,0 +1,19 @@
+title:
+LPT Use smart lights to stop people from interrupting your conference calls at home
+
+content:
+When I first became a remote worker, primarily working from home, I  was frequently interrupted by my family during Zoom and Slack calls.  When they weren’t interrupting my calls, they would still talk loudly  and make a lot of noise, oblivious that I was on a call down the hall  from them.
+
+I initially tried to let everyone know that I was about to have a  call by messaging them. That didn’t work because they didn’t always have  their devices with them, and it was also inefficient and a little  annoying.
+
+Then I devised a solution that uses smart lights under my door and hidden around the house. I use a smart button on my desk to turn it on and off, and my family hasn't interrupted me since!
+
+[Here's all the details on how I set it up.](https://www.coywolf.news/productivity/working-from-home-smart-lights-avoid-call-interruptions/)
+
+url:https://reddit.com/r/LifeProTips/comments/gx60s6/
+author:jonhenshaw
+subreddit:LifeProTips
+score:25751
+numComments:865
+isOver18:False
+hasPostBody:True

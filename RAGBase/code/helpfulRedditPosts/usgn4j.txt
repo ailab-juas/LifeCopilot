@@ -1,0 +1,25 @@
+title:
+YSK Many states in the U.S. are single party consent states when it comes to recording conversations
+
+content:
+Why YSK:
+
+From the first website below, "This means that just one party involved in the conversation needs to be aware that it is being recorded. If you’re the one recording the conversation, for example, you do not have to reveal this to the other party."
+
+I discovered this when my wife gave notice to her employer that she had found a new position and would be leaving. Her employer began acting in an unethical and vengeful manner towards her. Since then, my wife has had conversations with her that have been recorded, and her employer has painted herself in a terrible light and possibly incriminated herself.
+
+**It's also very important to note that if you live in a single party state, recording a conversation may be legal, but may not be admissible in court.** You would still need to prove who was speaking, that the recording wasn't altered, etc.
+
+Sources:
+
+[https://worldpopulationreview.com/state-rankings/single-party-consent-states](https://worldpopulationreview.com/state-rankings/single-party-consent-states)
+
+[https://recordia.net/en/are-recorded-conversations-admissible-in-court-usa/](https://recordia.net/en/are-recorded-conversations-admissible-in-court-usa/)
+
+url:https://reddit.com/r/YouShouldKnow/comments/usgn4j/
+author:bluhEwanka
+subreddit:YouShouldKnow
+score:2733
+numComments:95
+isOver18:False
+hasPostBody:True

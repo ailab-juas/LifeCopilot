@@ -1,0 +1,13 @@
+title:
+LPT: Before you get up from your desk, write a note with the first task you need to do when you return so that you can keep yourself on track.
+
+content:
+I find this to be especially helpful when working on a large project (I'm currently working on a 100,000-word thesis). When I get back to my desk after a break or distraction, having the note helps me get back on track more quickly. Getting back to work and seeing a note that says "Edit section 3.2 to make it flow better" is more helpful than returning to my desk and thinking "time to work on my thesis."
+
+url:https://reddit.com/r/LifeProTips/comments/26d9o3/
+author:heathtree
+subreddit:LifeProTips
+score:2265
+numComments:127
+isOver18:False
+hasPostBody:True

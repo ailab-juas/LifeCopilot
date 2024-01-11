@@ -1,0 +1,13 @@
+title:
+I tried using a microfiber cloth to prevent frost from forming on the windshield.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/nb2fv/
+author:jeaguilar
+subreddit:LifeProTips
+score:1216
+numComments:294
+isOver18:False
+hasPostBody:False

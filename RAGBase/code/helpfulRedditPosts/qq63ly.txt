@@ -1,0 +1,13 @@
+title:
+YSK: In the United States, if you are forced to quit do to unreasonable work demands, you can still apply for unemployment benefits.
+
+content:
+Why YSK: because, contrary to popular belief, you do not have to be fired or laid off to apply for unemployment benefits. You have to be able to prove the workload demands were unreasonable, but you are allowed to quit and receive unemployment. With droves of people quitting and employers shifting the workload to other employees without adequate compensation, this is important to know.
+
+url:https://reddit.com/r/YouShouldKnow/comments/qq63ly/
+author:OstentatiousSock
+subreddit:YouShouldKnow
+score:2422
+numComments:59
+isOver18:False
+hasPostBody:True

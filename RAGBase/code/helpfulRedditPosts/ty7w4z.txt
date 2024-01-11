@@ -1,0 +1,13 @@
+title:
+LPT: If you have a dog or a cat, always take the time to pet it before leaving your house, especially if it's old. You don't know if you're gonna see them again. My old dog died while i was at work. I was late and didn't have the time to say goodbye to him. Man, it hurts.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ty7w4z/
+author:alexio__o
+subreddit:LifeProTips
+score:12203
+numComments:262
+isOver18:False
+hasPostBody:False

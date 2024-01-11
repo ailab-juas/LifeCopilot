@@ -1,0 +1,13 @@
+title:
+LPT: Food banks are often overwhelmed in the summer because kids don't have breakfast and lunch at school, and they are often oversupplied during the winter because of the holidays. If you usually donate during the winter, consider donating this summer instead.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/8k0csw/
+author:Frashizzle
+subreddit:LifeProTips
+score:12405
+numComments:275
+isOver18:False
+hasPostBody:False

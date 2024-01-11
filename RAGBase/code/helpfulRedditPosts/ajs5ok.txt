@@ -1,0 +1,16 @@
+title:
+LPT: If you're cancelling your internet/cable and wish to avoid the elongated attempts to keep you, just tell them you're changing jobs and that your new employer will be paying for all services. They should skip right along to the cancellation!
+
+content:
+Verizon, Comcast, etc all require their representatives to make multiple attempts to save the account. Having done my research and knowing that Verizon is unable to offer the internet speeds I prefer in the area I'm moving to, I was able to get my service cancelled quickly and easily. 10 minute phone call, with \~5 minutes of it spent navigating the automated system.  
+
+
+I'm not on contract, so no cancellation fee avoidance - this is purely a way to cut the call down from 30min to 10min. 
+
+url:https://reddit.com/r/LifeProTips/comments/ajs5ok/
+author:dartanianbartholomew
+subreddit:LifeProTips
+score:41154
+numComments:1264
+isOver18:False
+hasPostBody:True

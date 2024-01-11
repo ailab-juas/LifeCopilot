@@ -1,0 +1,29 @@
+title:
+YSK than Imgur has increased the file size limit for uploading gifs from 2MB to 5MB &amp; for pro accounts, 10MB
+
+content:
+Now you can spend more time creating high-quality images and less time fiddling with the optimization settings.  
+
+*Evidence: [this Breaking Bad reaction gif I made](http://i.imgur.com/T1zndhf.gif) is 8.6 MB (unnecessary but just to show that it works)
+
+The size limit and amount of compression for static images has also been greatly improved:
+
+http://imgur.com/blog/2013/09/26/100-million-uniques-higher-upload-limits-and-https-support/
+
+***
+edit. 
+
+
+**The gif above is just an example that I deliberately made longer because someone asked if the new limits were live. The original file size is much, much smaller.** 
+
+Why you would need or want to make a 10 MB gif will be different depending on what you're trying to achieve. I don't want to be like that annoying relative who puts 10 layers of unnecessary holiday wrapping around your present.  I might make a great reaction gif but I don't want to annoy my audience with long download times.
+
+OTOH, making a high-quality, looping gif of a relatively longer chemical reaction (for example) may have its benefits over simply linking to the middle a much longer video. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/1n7ks4/
+author:IamAlso_u_grahvity
+subreddit:YouShouldKnow
+score:1188
+numComments:98
+isOver18:False
+hasPostBody:True

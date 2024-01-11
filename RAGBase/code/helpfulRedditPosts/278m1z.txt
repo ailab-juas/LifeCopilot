@@ -1,0 +1,13 @@
+title:
+LPT When signing up for gym memberships never give them your credit card info, social security number, home address. Always use a PO box and prepaid credit card. This will prevent gyms from abusing tough to cancel memberships.
+
+content:
+I managed a gym for 5 years. My best advice is to give them as little identifiable info as possible and never let them photocopy your ID. Also never link your bank account or any credit cards in your name. 
+
+url:https://reddit.com/r/LifeProTips/comments/278m1z/
+author:sfvalet
+subreddit:LifeProTips
+score:2816
+numComments:1123
+isOver18:False
+hasPostBody:True

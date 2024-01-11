@@ -1,0 +1,13 @@
+title:
+LPT: For websites where you can only sign up with your address once, simply add an 'A' (or any letter) to the end of your street number (e.g. 123A Fake St). The site will now see a new address and the postman will just ignore the extra character.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1nn33b/
+author:[deleted]
+subreddit:LifeProTips
+score:1513
+numComments:180
+isOver18:False
+hasPostBody:False

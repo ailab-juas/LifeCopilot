@@ -1,0 +1,13 @@
+title:
+LPT: When moving to a new home or apartment, pack one of your suitcases as if you're going out of town for 1 week.
+
+content:
+It can take a long time to set up your new place and get everything in order. If you've packed toiletries and clothes that you can use for the week, you won't have to sort through boxes to find what you need for work or general everyday living. It just gives you a buffer to, quite literally, get your house in order.
+
+url:https://reddit.com/r/LifeProTips/comments/9ln4kl/
+author:SnapTalk
+subreddit:LifeProTips
+score:1094
+numComments:34
+isOver18:False
+hasPostBody:True

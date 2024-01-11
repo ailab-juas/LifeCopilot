@@ -1,0 +1,13 @@
+title:
+LPT: Always take a quick photo of your luggage before handing it over when boarding a plane. In the event that your luggage gets lost it will help immensely when filling out the paperwork.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5e1veu/
+author:Cantucan
+subreddit:LifeProTips
+score:11795
+numComments:408
+isOver18:False
+hasPostBody:False

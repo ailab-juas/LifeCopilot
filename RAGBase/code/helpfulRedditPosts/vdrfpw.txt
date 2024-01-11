@@ -1,0 +1,13 @@
+title:
+LPT: WD40 is NOT intended as a lubricant
+
+content:
+Despite its reputation as a go-to lube for everything, WD40 is actually designed to displace water and clean out grease and residue as a non-polar solvent. If you use it alone as a lubricant, it will actually have the opposite effect eventually. Use it to clean the old grime and oil out of whatever it is you intend to lubricate, then follow it up with the appropriate lubricant for the application (such as lithium, moly, graphite, etc.) Your squeaky hinges and rusty bike chains will thank you.
+
+url:https://reddit.com/r/LifeProTips/comments/vdrfpw/
+author:MercyfulBait
+subreddit:LifeProTips
+score:11189
+numComments:755
+isOver18:False
+hasPostBody:True

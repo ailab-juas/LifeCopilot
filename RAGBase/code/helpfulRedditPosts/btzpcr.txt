@@ -1,0 +1,13 @@
+title:
+LPT: If your cat wont eat more than half the half the bowl of food, get a wider bowl. Their whiskers are sensitive and when they scrape along the bowl while eating it causes them distress and pain. If they have a wider bowl so their whiskers won't touch the sides, they'll eat all the food.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/btzpcr/
+author:Chakinfingerz
+subreddit:LifeProTips
+score:3765
+numComments:285
+isOver18:False
+hasPostBody:False

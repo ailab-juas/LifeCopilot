@@ -1,0 +1,13 @@
+title:
+LPT: When Googling and you click through to a site with an "adblock wall", go back to the results and click on the green triangle, then click 'Cached' to view the page without getting blocked.
+
+content:
+Just wanted to mention that inspect element then delete works for the most part (except for sites like F0rbes), but clicking the cached page is often faster and easier for most peopl. Not everyone knows HTML or install all these scripts and disable that. 
+
+url:https://reddit.com/r/LifeProTips/comments/6wwyn1/
+author:AboveAvgJoe
+subreddit:LifeProTips
+score:4339
+numComments:204
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+YSK that paying off a bill that’s already in collections doesn’t remove it from your credit score
+
+content:
+Why YSK: many people believe paying off a collection that’s harming your credit clears the debt, so therefore it should logically clear off the bad mark against your credit score too. This is not the case. Whether or not you pay it, once something is in collections it will stay on your credit for 7 years. You can request the collection agency drop it now that it’s paid, but them agreeing to do that is pretty rare, especially when your only bargaining chip (paying the collection) has already been given up. 
+
+So honestly, as shitty as it may be, once it gets to that point it makes more sense just to wait out the 7 years of delinquency and not to bother wasting the money paying it off.
+
+url:https://reddit.com/r/YouShouldKnow/comments/qksaiy/
+author:alexsangthat
+subreddit:YouShouldKnow
+score:3516
+numComments:219
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: One of the worst pieces of advice you'll ever hear is 'Never give up.' Irrespective of how much time, money and effort you've already expended, if something just isn't working out, shut it down, write it off and start again. In time you will get better at identifying your failures faster.
+
+content:
+Loss aversion is a thief. Quitting is just trying something new.
+
+url:https://reddit.com/r/LifeProTips/comments/jj4el5/
+author:m77w
+subreddit:LifeProTips
+score:11182
+numComments:228
+isOver18:False
+hasPostBody:True

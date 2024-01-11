@@ -1,0 +1,28 @@
+title:
+Ok guys this is getting frustrating.
+
+content:
+YSK is supposed to be for things that you *should* know, not for random bits of trivia that will never come in handy such as 
+
+http://www.reddit.com/r/YouShouldKnow/comments/w9xph/ysk_there_is_no_such_thing_as_paninis_panino_is/
+
+http://deepseanews.com/2012/06/how-presidential-elections-are-impacted-by-a-100-million-year-old-coastline/
+
+These are both useless bits of trivia that no-one *should* know.
+
+Proper posts should be like this
+
+http://i.imgur.com/GmFOs.jpg
+
+http://www.reddit.com/r/YouShouldKnow/comments/uznlh/ysk_the_following_about_911_services/
+
+These are full of useful information that will actually serve a purpose in life.
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/wawzc/
+author:Tomm0509
+subreddit:YouShouldKnow
+score:1758
+numComments:219
+isOver18:False
+hasPostBody:True

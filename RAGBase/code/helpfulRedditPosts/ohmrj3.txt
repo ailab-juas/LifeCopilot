@@ -1,0 +1,13 @@
+title:
+LPT: You can add dots anywhere to your gmail address and it will still deliver it to you. You can use this to create multiple accounts on other websites that will still link to your same gmail address.
+
+content:
+You can use this to get multiple “x% off you first order” offers, creating new accounts when you can’t recover your old one, and more. I used this recently when my pharmacy insisted I already had an account but wouldn’t let me recover it.
+
+url:https://reddit.com/r/LifeProTips/comments/ohmrj3/
+author:break_me_down
+subreddit:LifeProTips
+score:29944
+numComments:1132
+isOver18:False
+hasPostBody:True

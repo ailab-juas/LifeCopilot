@@ -1,0 +1,13 @@
+title:
+LPT: Leave it better than you found it. This applies to the places you go, the people you meet, and much more.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/2ul046/
+author:ChainedMarkov
+subreddit:LifeProTips
+score:2485
+numComments:191
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,17 @@
+title:
+YSK about radio.garden, a site (and app) that lets you tune into thousands of live radio stations from all around the world using only an internet connection
+
+content:
+i found out about this app a few days ago and have been having so much fun. it offers a very unique way of exploring the world and all the different cultures out there, and i'm thoroughly enjoying it.
+
+**EDIT**: as pointed out by RelinquishedAll in the comments, *radiooooo.com* lets you pick a decade and a country, and tunes you in to how radio was back then and there.
+
+**EDIT 1**: if you have issue with ads on radio.garden try *RadioDroid*, a similar, adless app suggessted by nalk1710 in the comments. android only.
+
+url:https://reddit.com/r/YouShouldKnow/comments/bxcfao/
+author:marla--
+subreddit:YouShouldKnow
+score:2612
+numComments:98
+isOver18:False
+hasPostBody:True

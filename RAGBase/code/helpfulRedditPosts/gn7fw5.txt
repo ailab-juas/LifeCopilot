@@ -1,0 +1,91 @@
+title:
+YSK if you own a Samsung smart TV that has ads, you can block them by adding ads.samsung.com to your block list on your internet router
+
+content:
+Have a Samsung smart TVs with ads that were annoying as hell. Found out they can be blocked and tried it. It worked!
+
+
+Edit: WOW! This blew up way more than I expected. I had no idea so many people hated their “Smart TVs”. I’m glad this information was useful to everyone!
+
+Also thank you for all the upvotes, awards and comments. Hopefully this becomes common knowledge and people can take back control of their TVs!
+
+Edit 2: another link you can add to your block list is samsungads.com. Combined with the above link you *should* be entirely ad free.
+
+Edit 3: So A TON of people are asking how to block ads on other TV’s/Devices. Ive compiled a few “How To’s” for LG, ROKU and Fire Stick. Hope this helps everyone struggling with these damn ads!
+
+**LG**: To disable LG ads that appear in "My Content" tab, LG store etc. blacklist/block the following domains on your router: 
+
+ngfts.lge.com
+
+us.ad.lgsmartad.com
+
+lgad.cjpowercast.com
+
+edgesuite.net
+
+us.info.lgsmartad.com
+
+
+**Roku:** If you go into the privacy settings on your Roku TV you can turn these ads off, but it also turns off the more ways to watch feature. To turn this off go to your Settings and select Privacy. There you will find an option to “Use Information From TV Inputs.” Turning that off should disable these pop-up ads. (Not the best but its something)
+
+**Amazon Fire Stick:**
+This requires you to download an app but it will work. Go to downloader and search for (~~)&amp;amp;amp;amp;lt;strike&amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;lt;s&amp;amp;amp;amp;amp;gt;“http://stop and.io”.——-Click “blocks ads now” and you will be taken to the download page(~~) ——Thanks to u/jtn19120 for the update! (See below)
+
+Go to http://blokada.org via Downloader instead, scroll down, install the latest———That’s it!
+
+Edit 4: Everyone’s router is going to be different when it comes to blocking/blacklisting domains (websites, etc) as far as i know there’s no “one size fits all scenario” BUT there’s hope.
+
+Locate your router and flip it upside down (literally) on the bottom there should be a URL/website you use to login to your router and make changes (this is how you configure your WiFi names, create passwords, etc) within the same settings there should be a “security” tab or something along the lines (Netgear has the security tab under “Advanced”) from there you should see a block sites/block services tab. Click on the block sites tab (Netgear) and type in the domain (the ones I provided) and add them. That’s it. Let me see if i can locate the instructions for more popular routers and I’ll be back!
+
+Edit 5: Ok I think I was able to find a “universal—ish” guide to blocking sites on your router.
+
+1. Open your router's configuration page. If the sites you want to block aren't encrypted, you can usually block them using your router's built-in tools. To access these, open the router's configuration page in a web browser on a computer that's connected to your network. 
+
+Common router addresses include:
+
+Linksys - http://192.168.1.1
+
+D-Link/Netgear - http://192.168.0.1
+
+Belkin - http://192.168.2.1
+
+ASUS - http://192.168.50.1/
+
+AT&amp;T U-verse - http://192.168.1.254
+
+Comcast - http://10.0.0.1
+
+**If you have a router that’s not listed, do a quick google search and you will find your router login information**
+
+2. Enter your router's login information. If you never changed this information, enter in the default administrator account information. For many routers, this is usually "admin" or blank for the username, and "admin" or blank for the password. Check your router's documentation if you don't know the default login information. (THIS IS ALSO A GOOD TIME TO SECURE YOUR ROUTER WITH A STRONG USERNAME AND PASSWORD FYI!)
+
+3. Find the "URL Filtering" or "Blocking" section. The location of this will vary depending on your router. You may find this in the "Firewall" menu, or in the "Security" section. (SEARCH AROUND, ITS THERE I PROMISE)
+
+4. Add the URLs that you want to block. Enter each URL that you want to block on your connected devices. (THIS IS WHERE YOU ENTER THE ADDRESS I PROVIDED)
+
+5. Click save and thats it!
+
+
+Edit 6: 
+
+Sony/Android TV ad removal
+
+1- Go into Settings &amp;amp;amp;amp;amp;gt; Apps 2- Find "Android TV Core Services" 3- Roll back all updates on it (will warn you that you're rolling back to initial version... skip over that... you don't want it.) 4- Return to the Home screen and remove the Sponsored "channel" by clicking far left on the row and using the minus (-) button. 5- Return to Apps in Settings and look for "Android TV Core Services" again. 6- Force Stop it and then DISABLE it.
+
+Edit 7: Here are more Samsung URLs to add to the block list since everyone has a different model Tv 
+
+www.samsungotn.net
+
+www.samsungrm.net
+
+www.samsung.net/ads
+
+Edit 8: OMG this is the 12th most popular post in the WORLD today on Reddit! I can’t believe that over 75k people have enjoyed this information. I am truly amazed and thankful for everyone I was able to help! This is amazing!
+
+url:https://reddit.com/r/YouShouldKnow/comments/gn7fw5/
+author:RogueOps
+subreddit:YouShouldKnow
+score:94803
+numComments:2072
+isOver18:False
+hasPostBody:True

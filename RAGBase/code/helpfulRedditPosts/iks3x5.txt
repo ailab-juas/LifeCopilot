@@ -1,0 +1,21 @@
+title:
+YSK that the use of tanning beds is extremely dangerous in minors and young adults. Tanning beds were officially designated as carcinogenic in 2009 and salons ought to be treated as if they were selling alcohol or tobacco.
+
+content:
+Why YSK: The use of tanning beds drastically increases your risk of skin cancer, especially when you use them at a young age
+
+The use of tanning beds before age 35 increases the risk of melanoma, the most dangerous form of skin cancer, by 75%. In 2014, the estimated lifetime risk for Caucasians was 1 in 48 (compared to African Americans whose risk was 1 in 1000). Skin melanoma has increased alarmingly, more than doubling in incidence in the past 30 years making it the most rapidly increasing form of cancer in that time period.
+
+[HTTP://www.cancer.org/cancer/skincancer-melanoma/detailedguide/melanoma-skin-cancer-key-statistics](HTTP://www.cancer.org/cancer/skincancer-melanoma/detailedguide/melanoma-skin-cancer-key-statisrics)
+
+[HTTP://www.cancer.gov/cancertopics/pdq/genetics/skin/healthprofessional/page4](HTTP://www.cancer.gov/cancertopics/pdq/genetics/skin/healthprofessional/page4)
+
+Bickley, L. S. (2017). Bate's guide to physical examination and history taking. Wolters Kluwer (12th ed).
+
+url:https://reddit.com/r/YouShouldKnow/comments/iks3x5/
+author:Dkmunyan
+subreddit:YouShouldKnow
+score:7613
+numComments:310
+isOver18:False
+hasPostBody:True

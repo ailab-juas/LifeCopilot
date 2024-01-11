@@ -1,0 +1,15 @@
+title:
+LPT: You can rename any Office 2007 (or later) file (docx, xlsx, pptx) to .zip and extract its contents.
+
+content:
+Useful for when you need to get any image out of a docx document.
+EDIT 1: thank you guys!
+EDIT 2: CBR files are renamed RAR files and CBZ are ZIP. Now you can extract single pages from your favorite comics.
+
+url:https://reddit.com/r/LifeProTips/comments/1ix0b3/
+author:chrisnasc
+subreddit:LifeProTips
+score:1664
+numComments:159
+isOver18:False
+hasPostBody:True

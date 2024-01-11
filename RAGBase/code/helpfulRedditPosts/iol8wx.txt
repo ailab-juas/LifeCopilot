@@ -1,0 +1,13 @@
+title:
+YSK that you should rinse off the top of single cans of drinks
+
+content:
+ Why YSK: A lot of the time these single cans will have built up dust or have been mishandled during transportation or in a warehouse. Some stores will not clean them before stocking them
+
+url:https://reddit.com/r/YouShouldKnow/comments/iol8wx/
+author:titanvariable
+subreddit:YouShouldKnow
+score:3608
+numComments:211
+isOver18:False
+hasPostBody:True

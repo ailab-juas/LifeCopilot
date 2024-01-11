@@ -1,0 +1,13 @@
+title:
+LPT: If you find information on the internet that you may need again in the future, print the page to a PDF digital file. There is no guarantee that the page will be available again in the future, and now you will have a digital copy for future reference.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/cix34q/
+author:brettmagnetic
+subreddit:LifeProTips
+score:33811
+numComments:723
+isOver18:False
+hasPostBody:False

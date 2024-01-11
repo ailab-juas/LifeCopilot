@@ -1,0 +1,13 @@
+title:
+LPT: Smell your sponges!
+
+content:
+Most people simply don't realize how disgustingly filthy they are and how badly they smell if you don't change them frequently.
+
+url:https://reddit.com/r/LifeProTips/comments/3tpiq1/
+author:DamnedWhenIDid
+subreddit:LifeProTips
+score:2020
+numComments:764
+isOver18:False
+hasPostBody:True

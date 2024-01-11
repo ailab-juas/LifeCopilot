@@ -1,0 +1,13 @@
+title:
+LPT: To prep for a hurricane, fill every food storage container you have with water and freeze it now. If you lose power, transfer these giant 'ice cubes' to the fridge. They will keep it sufficiently cool to preserve food for days and provide a drinkable water source as the ice melts.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/cxhfvo/
+author:fanzel71
+subreddit:LifeProTips
+score:65791
+numComments:1496
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+YSK: When ordering food for pick-up to eat at home, you can request that they don't include plastic utensils with the order.
+
+content:
+Most restaurants are currently either closed or limiting service to only To-Go orders, so most people ordering food are eating at home. Using reusable utensils at home  is a small way to reduce plastic waste if you are able to do so.
+
+url:https://reddit.com/r/YouShouldKnow/comments/fqydy8/
+author:CasterQ
+subreddit:YouShouldKnow
+score:2075
+numComments:59
+isOver18:False
+hasPostBody:True

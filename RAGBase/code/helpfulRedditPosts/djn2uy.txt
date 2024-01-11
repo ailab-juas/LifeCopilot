@@ -1,0 +1,13 @@
+title:
+LPT: Instead of paying for every streaming service at the same time, alternate services every few months.
+
+content:
+Not only will it be much cheaper, you probably binge watch shows on a single service at a time and you'll barely notice a difference. When you get bored with the current service (say HBO Now) or a new season is out on say Netflix, that's when you should cancel and switch.
+
+url:https://reddit.com/r/LifeProTips/comments/djn2uy/
+author:poly_meh
+subreddit:LifeProTips
+score:13928
+numComments:555
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+YSK: Christmas tree fires can easily be avoided. Please be careful with your lights and outlets, and always keep your tree watered.
+
+content:
+A video of just how fast a small fire turns into a huge fire with a Christmas tree (https://www.youtube.com/watch?v=xr6b9b8FYKk). Please be careful in this holiday season, someone I know just lost 6 pets in a home fire and I feel like I need to remind others of this now. I used to leave the tree plugged if I forgot and was too warm in bed to go and unplug it. Now, I don't care how comfortable I am, I will get up to prevent any possibility of that happening. Please be cautious, and have a happy holidays.
+
+url:https://reddit.com/r/YouShouldKnow/comments/5k7hue/
+author:darkeningss
+subreddit:YouShouldKnow
+score:1118
+numComments:97
+isOver18:False
+hasPostBody:True

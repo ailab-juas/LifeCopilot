@@ -1,0 +1,15 @@
+title:
+LPT: Applying to a Federal Job on USAjobs? Use their resume maker and use words in the job description to describe your qualifications.
+
+content:
+1. The first cut in the hiring process is a computer filter where they take the top answers to the qualification questions, then they take the highest percent of keywords. Its a safe guess that those keywords will be ones they use to describe the qualifications
+
+2. The resume builder on USA jobs is what they're used to looking at. There are no points for creativity (for most jobs) so give them what they want.
+
+url:https://reddit.com/r/LifeProTips/comments/1imvrk/
+author:ballestra
+subreddit:LifeProTips
+score:1794
+numComments:225
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+LPT: when hiring a contractor, have a written agreement that outlines exactly what they will be doing, the cost of the project, deadlines for the work to be done, and any warranties that will be provided. Do not pay in full until the project is complete.
+
+content:
+Edit: by pay in full, I mean finish paying. You can agree to progressive or milestone payments, so long as there is a chunk to be paid at the end. You may be asked to pay up front for materials, though your agreement should state that you legally own the materials if they fail to complete the project.
+
+Edit 2: make sure your contractor is insured and if applicable, licensed (not all locations require a license, some merely require registration).
+
+url:https://reddit.com/r/LifeProTips/comments/xuxmzc/
+author:SomeRandomRealtor
+subreddit:LifeProTips
+score:8999
+numComments:393
+isOver18:False
+hasPostBody:True

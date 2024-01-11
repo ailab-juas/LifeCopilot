@@ -1,0 +1,15 @@
+title:
+YSK there's a Color test which let's you know exactly which part, and how much, of the color spectrum you can/can't discern. How well do you see color?
+
+content:
+http://www.xrite.com/online-color-test-challenge
+
+edit: I should have worded the title better, this isn't a 100% scientific one and it might depend on which monitor/display you use, but this should at least give you a hunch of how you see color. I thought that was all implied, sorry!
+
+url:https://reddit.com/r/YouShouldKnow/comments/1fy033/
+author:mygrapefruit
+subreddit:YouShouldKnow
+score:2154
+numComments:1081
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Your company didn’t know you existed before you applied and won’t notice you when you’re gone. Take care of yourself.
+
+content:
+That’s it.
+
+url:https://reddit.com/r/LifeProTips/comments/lkt2w8/
+author:CalJackBuddy
+subreddit:LifeProTips
+score:112737
+numComments:2541
+isOver18:False
+hasPostBody:True

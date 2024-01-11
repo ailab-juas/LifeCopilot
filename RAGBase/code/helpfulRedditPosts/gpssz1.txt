@@ -1,0 +1,25 @@
+title:
+YSK: The length of your shoelaces needed is determined by number of eyelets (or holes) in your shoes
+
+content:
+Never knew this til now (and by ordering the wrong size shoelaces) so I figured I’d pass on the info! The number of holes or eyelets that your shoe has determines the proper length needed to properly lace your shoes. 
+
+Here’s a guide:
+
+4-5 pairs of eyelets (8-10 total holes)- 30”-36”
+
+5-6 pairs of eyelets (10-12 total holes)-40”-45”
+
+6-7 pairs of eyelets (12-14 total holes)- 54”
+
+7-8 pairs of eyelets (14-16 total holes)-60”-63”
+
+9+ -madlad status- 72”
+
+url:https://reddit.com/r/YouShouldKnow/comments/gpssz1/
+author:BoopBoop20
+subreddit:YouShouldKnow
+score:7981
+numComments:114
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+LPT: When deciding what to do as a career, rather than ask “what do I want to be?” ask, “what problem do I want to fix?”
+
+content:
+This will hone in on what you think is important. If you find meaning in your work, you will be happier and less likely to burnout. 
+
+E: Ayy my first silver. Thanks!
+
+url:https://reddit.com/r/LifeProTips/comments/aid2ym/
+author:radsman
+subreddit:LifeProTips
+score:3843
+numComments:227
+isOver18:False
+hasPostBody:True

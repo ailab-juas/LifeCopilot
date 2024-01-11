@@ -1,0 +1,15 @@
+title:
+LPT: When traveling or just not coming home for a few days turn the water main valve off and you will never come home to a flooded house.
+
+content:
+I own a plumbing company. I get at least a call a month where someone comes home to a house filled with water. It's always the same. They were away from home on vacation or business for a few days or weeks (and sometimes even just one day), and a pipe or faucet supply line or a washing machine hose burst and sprayed water until they returned. The entire first floor is ruined because it filed with water. As a homeowner it is a nightmare to deal with. The good news is it’s all preventable. Turn your water off at the meter or your main shutoff valve before you leave. Then open up a faucet to relieve the pressure and enjoy your time away. You'll come home to a dry house every time. No insurance claims to file—no dealing with multiple contractors. No moving into a hotel for months. No moving pods to pack. None of that will be part of your life. Just leave and simply come back home and pick up where you left off. Nice. Easy. Stress free.
+
+Edit: Before shutting off your water make sure you don’t have a feature that needs constant water supply such as a basement pump or radiant hydronic floor system. If you have these you should know and already understand how they work and what to do or not to do. My advice is for the basic home and does not apply to every single situation. If in doubt just ask.
+
+url:https://reddit.com/r/LifeProTips/comments/ri7nku/
+author:pipelyfe
+subreddit:LifeProTips
+score:1957
+numComments:178
+isOver18:False
+hasPostBody:True

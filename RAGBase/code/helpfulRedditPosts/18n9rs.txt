@@ -1,0 +1,15 @@
+title:
+LPT: Use a boombox to let you know you've found the fuse/circuit breaker you're looking for.
+
+content:
+This happened a while back, I needed to change an outlet and was alone in the house.  Of course, like just about *every* panel I have ever seen, it was inadequately labeled. I came up with this plan: Plug in a portable radio and turn it up loud enough to hear from the cellar or wherever your circuit panel is, then start flipping switches until the music stops.
+
+**Edit:** I did not know this was an "old" tip, or that it was featured on "Friends" before.  I was alone, lazy and came up with the idea myself.  Also, I realize I dated myself with the term "boombox" and I appreciate the [Lonely Island](http://youtu.be/8yvEYKRF5IA) references.  However, I *am* a product of the 80s (HS Class of '87) and [this is the boombox song of choice for my time](http://youtu.be/SavVH4W1lxc)
+
+url:https://reddit.com/r/LifeProTips/comments/18n9rs/
+author:four_toed_dragon
+subreddit:LifeProTips
+score:1958
+numComments:266
+isOver18:False
+hasPostBody:True

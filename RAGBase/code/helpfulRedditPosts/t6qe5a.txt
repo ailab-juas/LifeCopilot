@@ -1,0 +1,13 @@
+title:
+LPT: If you can’t sleep after watching a horror movie, watch some behind-the-scenes/bloopers of the movie online.
+
+content:
+It can be comforting to know that a horror film set is actually not very scary. Also, some behind-the-scenes footage can be very interesting and at times, amusing.
+
+url:https://reddit.com/r/LifeProTips/comments/t6qe5a/
+author:the_orca_jungle
+subreddit:LifeProTips
+score:3420
+numComments:153
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: If your contract for cable/satellite/cell phone/online subscriptions are up, call and ask to cancel. The operator will put you through to retention where they will almost always offer you a better price for the same service, even on a month to month basis.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5s8hwr/
+author:holladouble2
+subreddit:LifeProTips
+score:10596
+numComments:733
+isOver18:False
+hasPostBody:False

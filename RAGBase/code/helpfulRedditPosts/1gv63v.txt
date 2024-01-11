@@ -1,0 +1,13 @@
+title:
+LPT: Always click advanced installation when downloading free software
+
+content:
+Never use quick install, or the recommended installation procedure for free software. Typically the quick install changes your default browser, automatically installs a toolbar and other Internet add-ons that will annoy the hell out of you. 
+
+url:https://reddit.com/r/LifeProTips/comments/1gv63v/
+author:ZachPaj
+subreddit:LifeProTips
+score:1798
+numComments:209
+isOver18:False
+hasPostBody:True

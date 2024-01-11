@@ -1,0 +1,15 @@
+title:
+YSK that the XBox One S is not the same thing as the XBox Series S
+
+content:
+Why YSK:  XBox One S is the current/old generation console; XBox Series S is the just-released version, and probably the one that Little Johnny is wanting for Christmas. What makes it worse is that they are both advertised at $299 at various retailers.
+
+This is terribly, horribly confusing naming decision. I predict a firestorm of confusion and disappointment this holiday season...
+
+url:https://reddit.com/r/YouShouldKnow/comments/jv8qla/
+author:A7omicDog
+subreddit:YouShouldKnow
+score:26380
+numComments:924
+isOver18:False
+hasPostBody:True

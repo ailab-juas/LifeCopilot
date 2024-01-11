@@ -1,0 +1,13 @@
+title:
+YSK that to avoid Google country specific redirection just type www.google.com/ncr, where NCR stands for No Country Redirect
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/2bb373/
+author:articposts
+subreddit:YouShouldKnow
+score:2059
+numComments:86
+isOver18:False
+hasPostBody:False

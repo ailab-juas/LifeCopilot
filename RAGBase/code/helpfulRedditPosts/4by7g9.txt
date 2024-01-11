@@ -1,0 +1,15 @@
+title:
+LPT: When travelling, re-pack dirty clothes inside out so their easier to identify when you're living out of a backpack/suitcase
+
+content:
+Re-packing dirty clothes inside out makes it much easier to identify at a glance
+
+Typo edit: "so **they're** easier to identify"...
+
+url:https://reddit.com/r/LifeProTips/comments/4by7g9/
+author:Leido
+subreddit:LifeProTips
+score:3580
+numComments:583
+isOver18:False
+hasPostBody:True

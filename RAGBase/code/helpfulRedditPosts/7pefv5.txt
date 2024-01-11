@@ -1,0 +1,13 @@
+title:
+LPT: People want someone to tell them what to do in emergency situations. For example while performing CPR on someone don't say "Someone call an ambulance" instead talk to one person and ask him/her to call an ambulance directly.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/7pefv5/
+author:ask_me_if_thats_true
+subreddit:LifeProTips
+score:20355
+numComments:723
+isOver18:False
+hasPostBody:False

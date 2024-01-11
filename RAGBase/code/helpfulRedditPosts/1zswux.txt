@@ -1,0 +1,88 @@
+title:
+YSK that Progressive Muscle Relaxation is an easy, medically sound technique to provide thorough relief for stress, tension, anxiety and similar problems (x-post from LPT)
+
+content:
+**Intro**
+
+As a long-time mental health patient, I have learned a very simple technique that helps me resolve a lot of problems accompanying my disorder, such as intense stress, anxiety, depression and excessive muscle tension. This technique is called Progressive Muscle Relaxation, invented by Jacobson in the beginning of the 20th century and still in widespread use by psychotherapists and other health professionals all over the world.
+
+https://en.wikipedia.org/wiki/Progressive_muscle_relaxation
+
+**Explanation**
+
+The concept is very simple, has no negative effects if applied with a minimum of care, and can be learned by anyone in a matter of minutes. (I know that sounds like I'm trying to sell something, but I'm not.) Even better: After a while, when you develop a routine, you can easily mold it to fit your personal needs and exercise without an audio guide.
+
+The principle is that Jacobson discovered that when a muscle is contracted and relaxed with a certain rhythm (relax ~2x as long as tighten), it will keep a lower tension after being relaxed than before the contraction. Based on that and combined with meditation techniques, he devised a program where you let your mind wander through your body, contract and release single muscles and intensely observe the effects of that contrast on body and mind. This allows you to very clearly feel the difference between the relaxed and tense part of your body as a whole, and you can literally feel the relaxation expanding bit by bit.
+
+This can be practiced with any desired frequency (though regularly) - I do it daily because I need it, but my hospital uses two sessions a week for patients with lesser needs, for instance. One session can take anywhere between ten and thirty minutes according to personal preference. The effects become more pronounced over time because you learn what bodily signals to look for when gauging your tension and can compare different session in their effects.
+
+**Guides**
+
+Below are audio guides in different languages that I found online whose methodology I liked and that don't feature any spiritual influences. There are plenty more on youtube, so if you don't like them, feel free to have a look yourself. Two warnings beforehand:
+
+a) Be careful about the way you contract and relax your muscles. For instance, dropping your shoulders sharply or contracting your neck heavily can have negative effects. Furthermore, everyone has a personal amount of tension with maximum effects, so experiment to find your own. Be mindful of what your body tells you.
+
+b) If you experience any psychological distress at all, immediately terminate the session. Everyone feels different effects of the relaxation, for instance I feel my limbs "disappear" - I think that is very pleasant, to others it may cause distress. If you are in therapy, ask your therapist beforehand - they may well be able to give you an introductory session and general advice. If you're not and experiencing severe mental health problems, get a therapist, then read former sentence.
+
+English - https://www.youtube.com/watch?v=zqJ2OMwP2n4   
+Note that the guide talks about imagining the tension rather that actually executing it. This can be done as well, but I find it a bit harder - just try it out.  
+/u/keesh recommends this version: https://www.youtube.com/watch?v=fDZI-4udE_o  
+
+German - https://www.youtube.com/watch?v=Fpvt_xOqrgk  
+This is the method I use, with minor adjustments according to taste. So no words of caution.
+
+French - https://www.youtube.com/watch?v=Xq7zkinde9I  
+I'm sorry I wasn't able to find a longer video, but all the others had distorted audio or similar problems, which I would find unnerving.
+
+Spanish - https://www.youtube.com/watch?v=LFxrLDS4iHE  
+The audio is very slightly distorted on that, sorry for that as well.
+
+/u/jasonellis describes how to convert the different guides to mp3 [here](http://www.reddit.com/r/YouShouldKnow/comments/1zswux/ysk_that_progressive_muscle_relaxation_is_an_easy/cfww19d).
+
+If you find any better versions or more languages (please judge the quality reasonably, though!), just comment and I will add them to the list!
+
+You may also want to find a group with a professional guide that practices PMR in real life. I know that in Germany, this is available for free or a nominal fee by public healthcare ("Praeventionsmassnahme"), maybe other countries have that as well.
+
+**My technique**
+
+Finally, my personal method because the guides are quite different, to give you an idea what can be adapted:
+
+5-10s of tension / 10-20s of relaxation, sitting, closed eyes, very high tension. (In the bathtub is awesome as well.)  
+Contraction with inhaling, relaxation with exhaling  
+Focus on breathing with stomach, not chest (yoga technique)  
+Progress through the sections of a limb, focus on that section after relaxation  
+Progress limb by limb, focus on the limb as a whole when all sections are relaxed, then focus on the difference between all relaxed and non-relaxed body parts
+
+5min of meditation - feel your body, quiet your thoughts etc  
+Right arm: Make a fist, then squeeze lower arm against biceps and upper arm against torso  
+Left arm: same  
+Forehead and ears, then eyes, then nose, then lips, then jaws and tongue  
+Bow neck right, then left, then back, then forwards, then pull up your shoulders  
+Arch whole back and pull shoulder blades together, then inhale deeply and hold, then clench your stomach  
+Right leg: Upper thigh and buttock, then pull tip of toes up, then stretch out your foot and clench it  
+Left leg: same  
+Let the mind wander through the body in the order it was approached before, inhale at each section and relax even deeper when exhaling  
+5min of meditation - you will be very far gone by then  
+Inhale and exhale deeply, move limb by limb with inhaling  
+Open eyes
+
+~20-25 min total
+
+**Fin**
+
+Hope this helps some people! Please don't just dump this if you don't immediately feel any effects, there's a reason why the technique is so widespread in professional health care. I'd advise you to try it for at least a week.
+
+[If there are other relevant subs, let me know or x-post it yourself. This post is licensed under CC BY-NC-SA ;) ]
+
+[This is a self post and not a karma grab, so please don't be upset that I posted it to two defaults. I just feel that it's a technique that can benefit a lot of people.]
+
+[Edit: Source, for instance: http://saspublisher.com/wp-content/uploads/2013/04/SJAMS1280-85.pdf - Sorry that I wasn't able to provide it sooner, connection troubles. 
+&gt;This study shows that Jacobson‟s progressive muscular relaxation techniques helps in better control of blood pressure hypertensive patients, regardless of their initial level of hypertension. New research shows that the simple act of becoming relaxed can have surprising health benefits. In addition to the obvious psychological effects of relieving stress and mental tension, the new findings indicate that the deep relaxation, if practiced regularly, can strengthen the immune system and produce a host of other medically valuable physiological changes.]
+
+url:https://reddit.com/r/YouShouldKnow/comments/1zswux/
+author:genitaliban
+subreddit:YouShouldKnow
+score:1656
+numComments:95
+isOver18:False
+hasPostBody:True

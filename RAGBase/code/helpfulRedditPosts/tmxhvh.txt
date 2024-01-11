@@ -1,0 +1,31 @@
+title:
+LPT: name location of the emergency FIRST when on the phone with 911.
+
+content:
+My father was a dispatcher. I can't stress this enough. Name the location of the emergency first when calling 911. If you don't, and the call cuts out, you're screwed. Like this:
+
+Dispatch: 911, what's your emergency?
+
+Person: Please help. My house is on fire.
+
+*cuts out*
+
+Like this. This is how to do it.
+
+Dispatch: 911, what's your emergency
+
+Person: I'm at 103 Oliver Street.
+
+*cuts out* 
+
+It helps Dispatch know where you are so they can send someone to figure out what's happening. Never lie to the dispatch. If you're on drugs, TELL THEM. BE HONEST WITH THEM. I can't stress any of this enough. 
+
+I have a lot of 911 tips because as I said, my father was a 911 dispatcher. I can post them here if wanted.
+
+url:https://reddit.com/r/LifeProTips/comments/tmxhvh/
+author:Weird_person_1670
+subreddit:LifeProTips
+score:2323
+numComments:287
+isOver18:False
+hasPostBody:True

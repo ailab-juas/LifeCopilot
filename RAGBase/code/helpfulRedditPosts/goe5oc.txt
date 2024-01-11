@@ -1,0 +1,13 @@
+title:
+LPT: cancel free trials immediately. You'll still have access for the remaining trial period without having to remind yourself to cancel towards the end.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/goe5oc/
+author:deep_muff_diver_
+subreddit:LifeProTips
+score:1379
+numComments:115
+isOver18:False
+hasPostBody:False

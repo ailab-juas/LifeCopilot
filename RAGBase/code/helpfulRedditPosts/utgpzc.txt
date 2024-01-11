@@ -1,0 +1,18 @@
+title:
+YSK In an accident, an unrestrained pet can be thrown with an impact force up to 40x it's weight. Pets are very unlikely to survive crashes if not restrained. You can get cheaply get special seatbelt clips that attach to harnesses and even carseats that are made to protect them.
+
+content:
+Why YSK:  Statistics from the [National Highway Traffic Safety Administration (NHTSA)](https://www.petprosupplyco.com/pages/car-accident-pet-statistics-america ) show that 80% of drivers in the US drive with their animals regularly, only 16% of drivers restrain them and there were 5,687,000 crashes in the US in the year the data was compiled (2013). That means a likelihood of millions of pets in those same accidents. 
+
+You can buy seatbelt clips for even just a few dollars that will prevent them from being thrown. 
+And if you are incapacitated, emergency response teams don't even know to be watching for an injured, confused and lost animal.
+
+It's no different from wearing seatbelts for adults and putting children in car seats and there's no reason not to protect them from accidents just as you do yourself or your kids.
+
+url:https://reddit.com/r/YouShouldKnow/comments/utgpzc/
+author:rightthenwatson
+subreddit:YouShouldKnow
+score:8255
+numComments:295
+isOver18:False
+hasPostBody:True

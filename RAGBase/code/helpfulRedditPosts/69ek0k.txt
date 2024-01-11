@@ -1,0 +1,13 @@
+title:
+LPT: If doing a project and you need to contact an expert, send your first email as an intro of yourself, summary of your project, and then ask if they're able to have a correspondence with you. You'll get a higher rate of response as opposed to the initial email being a list of in-depth questions.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/69ek0k/
+author:[deleted]
+subreddit:LifeProTips
+score:1581
+numComments:37
+isOver18:False
+hasPostBody:True

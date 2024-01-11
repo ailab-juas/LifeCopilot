@@ -1,0 +1,13 @@
+title:
+LPT: Before you read a travel site's tips for things to do at a city you're planning to visit, read the site's tips for your own city and see if it recommends the kinds of things you'd want to do.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/u72pdm/
+author:Honest_Ebb9481
+subreddit:LifeProTips
+score:6863
+numComments:79
+isOver18:False
+hasPostBody:False

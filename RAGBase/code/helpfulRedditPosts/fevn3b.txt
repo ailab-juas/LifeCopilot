@@ -1,0 +1,13 @@
+title:
+LPT: Before going out for groceries, in addition to making a list, take a picture of the inside of your fridge and pantry, so if you stumble upon products on sale, you will be better informed to decide whether or not you need to buy.
+
+content:
+This saved me many times while going to Costco, where you usually go out for milk and bread and then wind up with those two plus 3 years worth of olive oil, lentil soup and so much bacon (not to mention tires, shorts and life insurance).
+
+url:https://reddit.com/r/LifeProTips/comments/fevn3b/
+author:tootbrun
+subreddit:LifeProTips
+score:1464
+numComments:61
+isOver18:False
+hasPostBody:True

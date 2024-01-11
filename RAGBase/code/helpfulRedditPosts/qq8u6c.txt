@@ -1,0 +1,13 @@
+title:
+LPT: Always take the time to put your tools back where they belong after a job is done. It may take a few extra minutes, but staying organized will save you a ton of time in the long run.
+
+content:
+Nothing eats up time quite like looking for a drill bit for 30 minutes.
+
+url:https://reddit.com/r/LifeProTips/comments/qq8u6c/
+author:joemeetjoe
+subreddit:LifeProTips
+score:4015
+numComments:120
+isOver18:False
+hasPostBody:True

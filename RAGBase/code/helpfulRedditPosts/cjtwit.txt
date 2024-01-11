@@ -1,0 +1,15 @@
+title:
+YSK that you can listen back to every "okay Google" question you've asked, and delete them if you want.
+
+content:
+I personally had a fun time listening back to my bizarre questions, but there's also an option to delete them. Google does save them! Here's the link (forgive my formatting, I'm on mobile).
+
+https://myactivity.google.com/item?restrict=vaa&amp;utm_source=my-activity
+
+url:https://reddit.com/r/YouShouldKnow/comments/cjtwit/
+author:livierose17
+subreddit:YouShouldKnow
+score:6293
+numComments:250
+isOver18:False
+hasPostBody:True

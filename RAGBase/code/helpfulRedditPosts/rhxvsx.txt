@@ -1,0 +1,13 @@
+title:
+YSK: If you updated to the latest version of iOS 15 and don’t like the search bar living at the bottom of the UI in Safari you can tap the “aA” symbol and move it back up to the top.
+
+content:
+Why YSK: Some people don’t like the change and don’t know that there’s an option to return to the legacy layout.  This little tip will allow you to toggle back and forth between the layouts and will empower you to choose for yourself.
+
+url:https://reddit.com/r/YouShouldKnow/comments/rhxvsx/
+author:HellaHellerson
+subreddit:YouShouldKnow
+score:1282
+numComments:204
+isOver18:False
+hasPostBody:True

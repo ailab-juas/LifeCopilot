@@ -1,0 +1,13 @@
+title:
+YSK bra sizes are completely relative to body size. (More info in comments)
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/16rd3j/
+author:FrogDie
+subreddit:YouShouldKnow
+score:1631
+numComments:342
+isOver18:False
+hasPostBody:False

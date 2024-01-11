@@ -1,0 +1,13 @@
+title:
+YSK: Amazon will give your overworked delivery driver $5 if you ask Alexa to say thank you. Works with Amazon app also.
+
+content:
+Why YSK: Last year, an Amazon delivery driver said that the high volume of orders during holiday season “makes life hell.” This year, these contracted workers can get a $5 tip if their customer says, “Alexa, thank my driver.”
+
+url:https://reddit.com/r/YouShouldKnow/comments/zfr39b/
+author:JediMasterBuddha
+subreddit:YouShouldKnow
+score:8642
+numComments:535
+isOver18:False
+hasPostBody:True

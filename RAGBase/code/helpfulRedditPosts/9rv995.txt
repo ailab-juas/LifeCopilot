@@ -1,0 +1,13 @@
+title:
+LPT: Use a search engine to look up your username every once in a while to see if any if your content is shared somewhere you dont want it. More and more often Reddit and other forum sites are being scrubbed for content with the only attribution being a username.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/9rv995/
+author:Ragiv13
+subreddit:LifeProTips
+score:6164
+numComments:291
+isOver18:False
+hasPostBody:False

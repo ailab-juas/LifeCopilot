@@ -1,0 +1,14 @@
+title:
+YSK On Monday, 14 November, the moon will be the biggest and brightest it has been in more than 60 years
+
+content:
+At 8:09PM GMT, the moon will pass by the Earth at a distance of 356,511km – the closest it has passed the Earth since 1948. As it does so, it will be a full moon, making it a particularly big supermoon. Supermooons are roughly 30% larger in area and 30% brighter than the smallest full moons.
+It should be a great time to get outside and gaze at it or take some photos.
+
+url:https://reddit.com/r/YouShouldKnow/comments/5cmbmf/
+author:kpetar
+subreddit:YouShouldKnow
+score:12206
+numComments:337
+isOver18:False
+hasPostBody:True

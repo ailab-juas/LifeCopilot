@@ -1,0 +1,13 @@
+title:
+LPT: If your bank calls, purposely answer one of the ID check questions wrong to check if it's a scam.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/28fsm2/
+author:HeywoodUCuddlemee
+subreddit:LifeProTips
+score:1039
+numComments:133
+isOver18:False
+hasPostBody:False

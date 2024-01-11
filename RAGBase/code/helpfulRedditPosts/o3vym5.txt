@@ -1,0 +1,16 @@
+title:
+YSK: Extreme fatigue and depression can be caused by food intolerances.
+
+content:
+Why YSK: Lots of people will go years feeling depressed and tired all the time, but since it's hard to diagnose until it shows up as GI issues later in life, doctors may not be able to tell you that's it's a food intolerance. I went YEARS constantly tired, angry, and depressed before I figured out I can't have gluten. It's not well researched or understood at this point, so many doctors won't even suggest it as a possibility for the aforementioned symptoms. Its surprisingly easy to rule out an intolerance, just go a few days without eating a suspected food and then eat it again and see how you feel.
+
+Sources and links: https://www.fedup.com.au/factsheets/symptom-factsheets/depression
+https://foodtest.hu/en/food-intolerance-and-depression/
+
+url:https://reddit.com/r/YouShouldKnow/comments/o3vym5/
+author:bumbleknockintootin
+subreddit:YouShouldKnow
+score:10709
+numComments:621
+isOver18:False
+hasPostBody:True

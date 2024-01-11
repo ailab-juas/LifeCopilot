@@ -1,0 +1,13 @@
+title:
+LPT: if you don’t want to see reposts, just block the user who posted each time you see a repost. Most reposts are karma farming by the same users. Eventually most reposts will disappear from your view.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/z5i8fx/
+author:NewmanCan
+subreddit:LifeProTips
+score:1021
+numComments:65
+isOver18:False
+hasPostBody:False

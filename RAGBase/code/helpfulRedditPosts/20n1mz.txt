@@ -1,0 +1,23 @@
+title:
+YSK that a newly announced measurement of primordial polarisation of light caused by gravitational waves, is the first possible evidence that space and time on large scales interact with quantum mechanics, giving physical evidence of a Grand, Unified Theory.
+
+content:
+http://physicsworld.com/cws/article/news/2014/mar/17/bicep2-finds-first-direct-evidence-of-cosmic-inflation
+
+"If it's confirmed, it is truly profound – the first direct evidence not only for inflation, but of a quantum behaviour of space and time. The image of polarization is a relic imprint of roughly a single quanta of graviton action."
+
+Gravitons are the hypothetically proposed particles which are necessary in order to have gravity work mathematically within Quantum Field Theory. Without these particles, there can be no Grand Unified Theory. So if this discovery is confirmed by further measurements, then we are one step closer to confirming it's existence.
+
+EDIT: 
+
+There has yet to be a mathematical description of Gravity and Quantum mechanics at the same time, without several assumptions.
+One of the assumptions which makes mathematical sense but has yet to be observed, is the existence of a "graviton", a particle which governs the effects of gravitational fields, the way photons do for electromagnetism, W and Z bosons for the Weak Nuclear Force, and Gluons for the strong nuclear force.
+The new measurement involves the detection of polarisation of light from the Cosmic Microwave Background, (from the first moments of the universe.) If the measurements are correct, then this polarisation would be caused by gravitational waves, which have been predicted before, but not observed in this way. These waves, in the conditions specific to the early universe, would be quite strong evidence that Gravitons exist, and therefore that a theory of quantum gravity, (And a higher understanding of physics) may be possible.
+
+url:https://reddit.com/r/YouShouldKnow/comments/20n1mz/
+author:Commander_Caboose
+subreddit:YouShouldKnow
+score:1860
+numComments:1287
+isOver18:False
+hasPostBody:True

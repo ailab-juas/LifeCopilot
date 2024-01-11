@@ -1,0 +1,13 @@
+title:
+LPT: When you get pulled over and the cop asks, “Do you know why I’m pulling you over?” answering honestly can give away an additional charge beyond what caused them to stop you. Instead say, “No, do you mind telling me?”
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/gyokts/
+author:1minimalist
+subreddit:LifeProTips
+score:1355
+numComments:240
+isOver18:False
+hasPostBody:False

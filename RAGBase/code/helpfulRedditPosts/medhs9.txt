@@ -1,0 +1,43 @@
+title:
+YSK: You credit score is calculated using five variables: Payment history (35% of your scores) Amounts owed (30% of your scores) Length of credit history (15% of your scores) New credit (10% of your scores) Credit mix (10% of your scores)
+
+content:
+**Why YSK: While a credit score is certainly not the most important thing in personal finance, having a good one can help you out in more ways than just getting a low interest rate on a loan. Knowing how your score is calculated can help you understand what you can/should do to raise your score.**
+
+This post is going to specifically reference the FICO credit score because it is the most widely used credit score, but it is important to note that there are a variety of credit scoring systems out there which is why you will see that your "credit score" is different depending on where you look.
+
+**So what is a FICO Score**
+
+First, FICO stands for the [Fair Isaac Corporation](https://www.ficoscore.com/home). The FICO score was created in 1989 as a standardized way for lenders to interpret your credit report and determine whether or not to give you a loan.  
+
+**How is a FICO score different than a credit report?** A FICO score is simply a summarized version of your credit report. Your credit report lists all your credit history, but it doesn’t keep track of everything forever. Good credit is maintained for 10 years and bad credit is tracked for 7. What’s on your credit report? If you have a credit card, auto loan, or mortgage all of that will be included. Why does your score matter? A quick caveat, if you follow Dave Ramsey’s philosophy, be aware an undeterminable score (AKA a score of 0) is very different from having a bad score. Dave cites 6-12 months after you close your last account to reach an undeterminable score, but I was not able to verify this number with a third party. If that’s what you want to do, that’s perfectly fine, but your credit score will potentially affect you until it reaches “zero”. 
+
+**Here are some areas your score will affect:** Better terms when you get a loan, lower insurance premiums, the ability to rent in some apartment complexes, potentially new jobs who require a credit check on new employees. 
+
+**Your FICO score is composed of five categories**: Payment history (35% of your scores) Amounts owed (30% of your scores) Length of credit history (15% of your scores) New credit (10% of your scores) Credit mix (10% of your scores) 
+
+**How do you get your credit score?** There are lots of free and paid ways to get your score, but the easiest is probably through your credit card company of choice. Personally, with AMEX I can check my credit score whenever I want through their website. To get your actual credit report the three big credit bureaus: Experian, Equifax, and TransUnion offer your credit report (different from your credit score) once each year for free as mandated by federal law.
+
+**Also, it’s a myth that checking your credit score will lower it**. The reason why is because there are two different types of ways credit is checked: 1) Soft check occurs anytime you check your own score or when a lender checks your score to preapprove you 2) A hard credit check occurs when a lender checks your credit to determine if you met their lending criteria such as applying for a mortgage or new credit card, this would lower your credit score slightly 
+
+**What can you do to improve your FICO score?** 1) Always pay in full and on time 2) Keep your credit utilization rate low, one way to reduce your credit utilization rate is to increase your credit limits. So long as you pay everything off every month you should be able to request a credit limit increase every 9 months 3) Keep your credit cards open for a long time 4) Only open new lines of credit when you need to, such as when applying for a mortgage  
+
+More Info…  
+
+FICO Score Explained https://youtu.be/8vtnh5kYxj8
+
+Free Credit Report https://www.annualcreditreport.com/index.action  
+
+Experian https://www.experian.com/  
+
+Equifax https://www.equifax.com/personal/  
+
+TransUnion https://www.transunion.com/
+
+url:https://reddit.com/r/YouShouldKnow/comments/medhs9/
+author:APennyPinchersGuide
+subreddit:YouShouldKnow
+score:6368
+numComments:279
+isOver18:False
+hasPostBody:True

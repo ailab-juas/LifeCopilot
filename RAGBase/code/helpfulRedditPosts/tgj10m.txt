@@ -1,0 +1,17 @@
+title:
+YSK in several Airbnbs hidden cameras were found. On arrival, do a common sense search for secret cameras just in case, focusing on the private areas (holes in ceiling, power outlets, alarm clocks, etc.)
+
+content:
+Why YSK: Protect yourself from creeps breaching your privacy.
+
+Even though it is against the policy of Airbnb to have hidden cameras, it does happen and could be considered criminal activity.
+
+Pay attention to smoke detectors, radios, outlets and any flashing lights. Some people have pointed out that looking at your room through a phone camera could expose some infrared cameras (look up how to on youtube).
+
+url:https://reddit.com/r/YouShouldKnow/comments/tgj10m/
+author:Cracking_Foxy
+subreddit:YouShouldKnow
+score:4090
+numComments:239
+isOver18:False
+hasPostBody:True

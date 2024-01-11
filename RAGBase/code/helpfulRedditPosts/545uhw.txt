@@ -1,0 +1,15 @@
+title:
+LPT: Holding ALT allows you to highlight text inside of hyperlinks
+
+content:
+Oh shoot. Gold? I did not expect that
+
+More gold? I mean thanks but it's just a keyboard shortcut. Thanks /u/smurfkiller013
+
+url:https://reddit.com/r/LifeProTips/comments/545uhw/
+author:CorvetteCole
+subreddit:LifeProTips
+score:1700
+numComments:123
+isOver18:False
+hasPostBody:True

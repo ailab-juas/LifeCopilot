@@ -1,0 +1,13 @@
+title:
+LPT: Check and replace AC unit filters regularly. Units as clogged as this waste electricity, don't cool as well, and can make you sneeze or sick!
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/3fjhb8/
+author:reddan
+subreddit:LifeProTips
+score:5114
+numComments:802
+isOver18:False
+hasPostBody:False

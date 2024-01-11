@@ -1,0 +1,13 @@
+title:
+LPT: Learn to look at food products labeling carefully. "Made with 100%..." is very different to "made from 100%..."
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/672mli/
+author:JoeinJapan
+subreddit:LifeProTips
+score:24988
+numComments:2008
+isOver18:False
+hasPostBody:False

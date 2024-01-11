@@ -1,0 +1,13 @@
+title:
+LPT: If you are watching a child in a large area, tell them “stay where you can see me,” instead of “stay where I can see you.” It is way more effective.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/n0uwhx/
+author:peacegrrrl
+subreddit:LifeProTips
+score:7382
+numComments:131
+isOver18:False
+hasPostBody:False

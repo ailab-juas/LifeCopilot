@@ -1,0 +1,19 @@
+title:
+YSK: Never leave batteries charging unattended
+
+content:
+Lots of devices have lithium batteries these days and a lot of people leave them plugged in charging overnight or while not at home.
+
+Why YSK: If a lithium battery fails it doesn't just stop charging, it causes a fire. 
+
+My family and I lost our home and our two dogs earlier this week to a bluetooth speaker we left charging. We were gone one hour and that's how long it took to lose everything. They keep saying it was an accident, but the adults know it was easily preventable.
+
+Edit: Thank you everyone for your kind words. We may have been a statistic, but I hope my post saves someone from losing what we did.
+
+url:https://reddit.com/r/YouShouldKnow/comments/vppqx4/
+author:crazijazzy
+subreddit:YouShouldKnow
+score:6415
+numComments:274
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,26 @@
+title:
+LPT: If you want people to have input during a conference call, don't ask "everyone"; prompt participants by name.
+
+content:
+Life in the pandemic has involved work and school moving onto conference call platforms, but despite nearly two years of this, my colleagues in the teaching profession haven't adapted to the impersonal and indirect nature of online classes and online meetings.
+
+Remember that in a face-to-face interaction, people will use many non-verbal cues to decide if and when to speak.
+
+In a conference call, most people are passive participants. More importantly, they will not know when they can speak when they cannot figure out who is speaking next. So either no one speaks, or one person drowns everyone else out. You cannot ask a call with 100+ participants a general question.
+
+Whoever is hosting / chairing the call needs to bring order to chaos. If it's a small meeting, invite specific people to make a comment - if they have nothing to say, they have the opportunity to say so. In a larger call, have a clear agenda of who is presenting, and if you require input from the general participants, give them an avenue to do so outside of the call.
+
+**Edit:**
+
+* If you hate meetings, you're still going to hate meetings. This doesn't change anything for you.
+* This isn't cold-calling people to force them to be involved. This is opening opportunities for people being left out.
+* You can always decline to comment. This isn't any different from being asked for comment in person. This isn't about being an introvert. It's basic communication.
+* I said in the post that you don't prompt individuals in a large meeting. In a small group (e.g. &lt;10 people) where participants are more likely to be actively involved, you'll likely get a handful of people who will dominate the call. Whether they want to or not, people will be left out, and without face-to-face cues, it's far more difficult to manage. Larger calls will have far more passive participants and this will neither work nor be appropriate outside of the handful who are designed to be active participants.
+
+url:https://reddit.com/r/LifeProTips/comments/q55yur/
+author:nusensei
+subreddit:LifeProTips
+score:1385
+numComments:84
+isOver18:False
+hasPostBody:True

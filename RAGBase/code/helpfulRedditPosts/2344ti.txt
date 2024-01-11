@@ -1,0 +1,13 @@
+title:
+YSK know that if you consider yourself an Independent, when you register to vote, mark "unaffiliated". In most states, registering as "Independent" will register you to the Independent Party.
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/2344ti/
+author:jimbles1
+subreddit:YouShouldKnow
+score:1335
+numComments:147
+isOver18:False
+hasPostBody:False

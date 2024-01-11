@@ -1,0 +1,21 @@
+title:
+YSK: H0H 0H0 is Santa's postal code.
+
+content:
+Why YSK: It's a fun way for children to write letters to Santa. If your child writes letter before December 16 addresses to Santa Claus to following address:
+
+SANTA CLAUS  
+NORTH POLE  H0H 0H0  
+CANADA
+
+their letter will be answered in the same language it's written. No posted required (but appreciated).
+
+&gt;The postal code H0H 0H0 was chosen for this special seasonal use as it reads as "Ho ho ho". The H0- prefix is an anomaly: the 0 indicates a very small, rural village, but H is used to designate Montreal, the second-largest city in Canada. As such, the H0- prefix is almost completely empty. H0M, assigned to the international Akwesasne tribal reserve on the Canada-US border, is the only other H0- postal code in active use.
+
+url:https://reddit.com/r/YouShouldKnow/comments/q44v20/
+author:LeftChoux
+subreddit:YouShouldKnow
+score:8013
+numComments:197
+isOver18:False
+hasPostBody:True

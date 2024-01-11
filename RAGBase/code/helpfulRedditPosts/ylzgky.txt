@@ -1,0 +1,15 @@
+title:
+YSK Job listing websites harvest your personal information
+
+content:
+Why YSK: A lot of jobs advertising extremely favored benefits and low requirements often are placed as a way to collect your personal contact information. These listings will then gather and then sell your email, phone number, address, and whatever form of information you provide, to collection agencies, and repossession firms.   
+If you are at risk of an uncollected debt, this could cause stress and harassing phone calls to your home, work, or cell phones and even letters to your address and it will happen at your most vulnerable moments in your job search  
+Be wary of any job listing asking for personal information, and be sure to research every company you apply to.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ylzgky/
+author:[deleted]
+subreddit:YouShouldKnow
+score:1245
+numComments:32
+isOver18:False
+hasPostBody:True

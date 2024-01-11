@@ -1,0 +1,15 @@
+title:
+LPT: If someone tries to teach you how to do something let them even if you already know. You may learn how to do it a different way.
+
+content:
+This is especially true in training/internship situations. If someone wants to teach you something never shut them down and say “I already know how to do that.” Be open to learning a different way or possibly a different perspective on something. 
+
+It’s will also save you from upsetting them if you mess up doing that thing later, since they taught you how to do it. 
+
+url:https://reddit.com/r/LifeProTips/comments/9wvjth/
+author:bravelittletoasted
+subreddit:LifeProTips
+score:2127
+numComments:58
+isOver18:False
+hasPostBody:True

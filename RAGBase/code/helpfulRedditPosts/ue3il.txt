@@ -1,0 +1,13 @@
+title:
+LPT: A lot of people still are not aware reddit has a free online university  
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ue3il/
+author:Mikey-2-Guns
+subreddit:LifeProTips
+score:2016
+numComments:204
+isOver18:False
+hasPostBody:False

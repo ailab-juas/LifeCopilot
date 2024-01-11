@@ -1,0 +1,19 @@
+title:
+LPT: To stop robocalls answer the call but stay silent. Do it 2-3 times and it will flag your number and they will pass it up next time
+
+content:
+Robocalls are placed by computer software that is automatically dialing numbers until someone picks up. When someone picks up and says “Hello” the call is then connected, labeled as a live number and will be called repeatedly. Pick up, don’t say a word and you will hear silence on the other end as well. Keep silent until the call drops. You staying silent doesn’t allow the software to fully connect the call and from then on you will be passed up by that machine. Letting the phone go to voicemail or forwarding counts as answering the call and speaking, don’t let it go to voicemail if you can help it. 
+
+I’ve recently learned this and after about 2 weeks I get zero robocalls now. It actually works!
+
+EDIT: this only works with true robocalls, if you answer and someone else is on the line it will not work. When you answer, stay silent and if the other end is also silent, this will work. 
+
+Also obviously doesn’t work for bill collectors
+
+url:https://reddit.com/r/LifeProTips/comments/qg5rnk/
+author:SpaceHallow
+subreddit:LifeProTips
+score:9720
+numComments:531
+isOver18:False
+hasPostBody:True

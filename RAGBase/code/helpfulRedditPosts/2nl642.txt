@@ -1,0 +1,13 @@
+title:
+YSK Nutella is not particularly healthful, and you'd probably be better off putting chocolate frosting on your bread (nutrition comparison in text)
+
+content:
+Here's a **[comparison of nutrition and ingredients](http://i.imgur.com/kRqoje8.jpg)**
+
+url:https://reddit.com/r/YouShouldKnow/comments/2nl642/
+author:CpGrover
+subreddit:YouShouldKnow
+score:2350
+numComments:751
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: When Netflix says "not available" for something you've downloaded because you're outside the US, turn on airplane mode to watch it anyway
+
+content:
+Been really useful while I've been traveling outside the US. Also would probably work for things region locked to other countries but I haven't tested it. 
+
+url:https://reddit.com/r/LifeProTips/comments/698e2g/
+author:stevetacos
+subreddit:LifeProTips
+score:2243
+numComments:81
+isOver18:False
+hasPostBody:True

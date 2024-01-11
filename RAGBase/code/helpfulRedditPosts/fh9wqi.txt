@@ -1,0 +1,21 @@
+title:
+Moratorium on Coronavirus (Covid-19) posts.
+
+content:
+Given the panic, and the misinformation flying around, we are announcing a temporary moratorium on posts related to Coronavirus (Covid-19). 
+
+Useful subreddits you can go to instead: 
+
+/r/Coronavirus 
+
+/r/COVID19 
+
+/r/news megathread (looked for the announcement post)
+
+url:https://reddit.com/r/YouShouldKnow/comments/fh9wqi/
+author:ani625
+subreddit:YouShouldKnow
+score:6178
+numComments:0
+isOver18:False
+hasPostBody:True

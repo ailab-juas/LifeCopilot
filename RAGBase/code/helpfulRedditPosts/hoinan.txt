@@ -1,0 +1,13 @@
+title:
+LPT: When boiling anything on the stove (like pasta), use an electric kettle for the water and then pour it in your pot. It's faster and way more efficient.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/hoinan/
+author:tygrrear
+subreddit:LifeProTips
+score:1163
+numComments:222
+isOver18:False
+hasPostBody:False

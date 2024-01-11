@@ -1,0 +1,15 @@
+title:
+LPT: Use the Dictionary of Numbers extension for Chrome when buying something online to see what else you could buy for that money.
+
+content:
+For example, when buying bike repair parts it showed me that I could also pay my phone bill for a month.
+
+EDIT: F-F-F-F-FRONT P-P-P-PAGE!!!
+
+url:https://reddit.com/r/LifeProTips/comments/1hd59x/
+author:Saturated_Wombat
+subreddit:LifeProTips
+score:1562
+numComments:159
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,19 @@
+title:
+YSK: PYREX and pyrex are not the same thing.
+
+content:
+Products with the name 'pyrex' (all lowercase) are made by a company called World Kitchen and are made out of clear tempered high-thermal-expansion soda-lime glass, which has a lower thermal shock resistance, making them susceptible to explosions in the microwave or oven. You can identify them by the lower case logo and the bluish tint in the glass.
+
+Products with the name PYREX (all uppercase) are made of  clear, low-thermal-expansion borosilicate glass and are not susceptible to explosions in the microwave or oven. They can be identified by the logo which is in all upper case letters and the glass will be clear, not blue.
+
+https://en.wikipedia.org/wiki/Pyrex
+
+TLDR: Look at the Logo, PYREX (All uppercase) is good, pyrex (all lowercase) potentially explodes in the microwave.
+
+url:https://reddit.com/r/YouShouldKnow/comments/8xq8ac/
+author:speedy_162005
+subreddit:YouShouldKnow
+score:7090
+numComments:359
+isOver18:False
+hasPostBody:True

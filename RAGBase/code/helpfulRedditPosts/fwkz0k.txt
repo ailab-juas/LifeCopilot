@@ -1,0 +1,13 @@
+title:
+LPT: If you're new to a hobby, instead of posting "Has anyone ever?" presume many people have, and instead ask specific questions about why you should or shouldn't do a thing or what are the benefits of doing something that way.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/fwkz0k/
+author:LeeAllure
+subreddit:LifeProTips
+score:1237
+numComments:42
+isOver18:False
+hasPostBody:False

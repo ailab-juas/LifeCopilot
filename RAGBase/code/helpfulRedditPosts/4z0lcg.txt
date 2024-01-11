@@ -1,0 +1,39 @@
+title:
+YSK About Anti-Ad Block Killer.
+
+content:
+**Super edit - completely re-formatted post.**
+
+I'm going to make this short and sweet. Never deal with websites telling you to turn off your Adblock software ever again. Oh, and why heeelllooo there Forbes!
+
+1. [Download Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)   Extension for Chrome.
+
+2. [Download Anti Adblock Killer | Reek](https://github.com/reek/anti-adblock-killer/)  - as a plugin for Tampermonkey
+
+3. Configure the 3rd party filters on uBlock Origin make sure these are checked.
+
+* Adblock Warning Removal List‎ (forums.lanik.us)
+
+* Anti-Adblock Killer | Reek‎  (github.com)
+
+
+
+If you use Mozilla Firefox/Linux, [download Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) instead. Same instructions otherwise apply.
+
+Quick installation tips/notes :
+
+1. On Github don't click Clone or Download.
+
+2. Scroll down to Step 3, and click any of the Install links. 
+
+3. Alternatively, [here's the Github shortcut](https://greasyfork.org/scripts/735-anti-adblock-killer-reek/code/Anti-Adblock%20Killer%20%7C%20Reek.user.js) for an automatic installation of the script (once Tamper/Greasemonkey has been installed.
+
+Let the Ad Blocker wars commence. Anti-Anti-Anti.
+
+url:https://reddit.com/r/YouShouldKnow/comments/4z0lcg/
+author:infectedmethod
+subreddit:YouShouldKnow
+score:3245
+numComments:298
+isOver18:False
+hasPostBody:True

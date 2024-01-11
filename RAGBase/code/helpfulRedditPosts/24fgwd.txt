@@ -1,0 +1,13 @@
+title:
+LPT: If you're ever in the library studying and you need to get up for a moment, leave a library book inside your backpack so if anyone tries to steal it the alarm will go off.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/24fgwd/
+author:OyeBenny
+subreddit:LifeProTips
+score:1838
+numComments:425
+isOver18:False
+hasPostBody:False

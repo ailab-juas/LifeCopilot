@@ -1,0 +1,13 @@
+title:
+LPT - Anytime you go to use your credit or debit card at an ATM, gas station or other unsupervised machine, give a quick tug on the credit card reader before using it. If there's any illegal skimmer, it's probably only attached with double sided tape and it can save you from becoming a victim
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/msgvd1/
+author:stempdog218
+subreddit:LifeProTips
+score:2406
+numComments:102
+isOver18:False
+hasPostBody:False

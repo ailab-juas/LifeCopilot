@@ -1,0 +1,19 @@
+title:
+LPT ANNOUNCEMENT: On Monday 10/15, we'll be doing a week of self posts.
+
+content:
+We've discussed this in the past, but we're finally going to give it a test (for a week). 
+
+Starting **Monday 10/15**, in an effort to test submission quality of self posts vs. link posts, LifeProTips will go to a self-post mode. 
+
+After the week is over, we will switch back to the standard operating procedure (e.g. links will be allowed). Please upvote this thread so it gets visibility (I get no karma for self-posts).
+
+Any questions or comments can be sent to any of the mods, or posted in here directly. Thanks.
+
+url:https://reddit.com/r/LifeProTips/comments/11ateq/
+author:someprimetime
+subreddit:LifeProTips
+score:1529
+numComments:84
+isOver18:False
+hasPostBody:True

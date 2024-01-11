@@ -1,0 +1,13 @@
+title:
+LPT: Never click on news headlines that are questions.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/64bvoh/
+author:tmart30
+subreddit:LifeProTips
+score:2939
+numComments:125
+isOver18:False
+hasPostBody:False

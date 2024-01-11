@@ -1,0 +1,13 @@
+title:
+LPT: when learning how to cook something new, read a couple recipes and take note of the ingredients and steps that stay the same. These are the important parts of the dish. The rest is most likely personal taste/style, and you can make adjustments.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/rao19a/
+author:thuja_occindentalis
+subreddit:LifeProTips
+score:19766
+numComments:350
+isOver18:False
+hasPostBody:False

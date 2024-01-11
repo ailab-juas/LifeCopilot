@@ -1,0 +1,13 @@
+title:
+LPT: If you need a scientific paper but the website it’s hosted on demands that you pay an unreasonable amount of money for it, lookup the author and see if they have social media presence. They’ll most likely give it to you for free if you ask them.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/iq00w3/
+author:GuyWithDFacts
+subreddit:LifeProTips
+score:1142
+numComments:68
+isOver18:False
+hasPostBody:False

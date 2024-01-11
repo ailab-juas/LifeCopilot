@@ -1,0 +1,13 @@
+title:
+LPT: When putting air in your tires, don't forget to top off the spare.
+
+content:
+Air leaks out of your spare the same as your other tires. There's nothing worse than having to wait for help since your spare is flat too.
+
+url:https://reddit.com/r/LifeProTips/comments/f1ut3w/
+author:Techie_Jesus
+subreddit:LifeProTips
+score:7164
+numComments:288
+isOver18:False
+hasPostBody:True

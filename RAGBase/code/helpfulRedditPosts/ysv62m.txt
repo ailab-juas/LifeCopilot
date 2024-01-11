@@ -1,0 +1,25 @@
+title:
+YSK that if you don't have insurance, different pharmacies can charge drastically different prices for self-pay medications and certain pharmacies could save you a lot of money.
+
+content:
+Why YSK: 
+
+To elaborate, I just got a job in pharmacy billing at a very large healthcare company which is in the fortune top 5 list. This healthcare company primarily deals in insurance but they also have their own pharmacy.
+
+I didn’t have health insurance before because I couldn’t afford it. I used a fantastic program called NURX that provided me with a healthcare practitioner who prescribed me birth control- all for free. I filled my prescription at my local pharmacy and to be honest, the price was so low that I didn’t bother with any additional discounts like GoodRx.
+
+Now I’m at this new job and I was recently tasked with providing a drug pricing for an insured member who decides to self pay. There are a million reasons someone who’s insured would decide to self pay. Insurance is always super tricky. 
+
+I price checked my birth control. I pay $20 for a 90 day supply. The same exact same medication with the exact quantity, ran through the health insurance’s pharmacy, would cost an insured member more than $160. 
+
+I checked with my team to confirm that there wasn’t an error, but they explained basically that drug prices are arbitrary and some pharmacies would purposefully take the loss of money with a cheaper prescription fill if it means that they have a returning customer. It’s also the same for insured prescriptions, but the price difference in different pharmacies isn’t as drastic. 
+
+So if you have a prescription that costs a lot, it’s worth calling around different pharmacies to get different quotes.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ysv62m/
+author:MARCUSFUCKINGMUMFORD
+subreddit:YouShouldKnow
+score:3907
+numComments:182
+isOver18:False
+hasPostBody:True

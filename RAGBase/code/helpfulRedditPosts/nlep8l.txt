@@ -1,0 +1,13 @@
+title:
+YSK: Your library has more than books
+
+content:
+Why YSK: [This recent comment](https://www.reddit.com/r/AskReddit/comments/nkwaqy/whats_a_free_resource_available_to_everyone_that/gzf3x0l?utm_source=share&amp;utm_medium=web2x&amp;context=3) inspired me to go to my library.  Besides "books" (and one hottie librarian), my main library has classes such as art classes, laser cutting and computer courses; you can check out (location-dependent) sports equipment like tennis rackets and kayaks, kitchen appliances, CDs/DVDs, use 3-D printers, even telescopes.  If there's something you can't find, they might be able to order it for you.  \[this is in the US and very location-dependent\]
+
+url:https://reddit.com/r/YouShouldKnow/comments/nlep8l/
+author:Mackheath1
+subreddit:YouShouldKnow
+score:8724
+numComments:297
+isOver18:False
+hasPostBody:True

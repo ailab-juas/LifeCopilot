@@ -1,0 +1,13 @@
+title:
+LPT: If your job requires a lot of walking, bring an extra pair of socks. It's amazing what a difference a fresh pair of socks can make in the middle of a long shift
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/9n8p0w/
+author:chuckschwa
+subreddit:LifeProTips
+score:32683
+numComments:924
+isOver18:False
+hasPostBody:False

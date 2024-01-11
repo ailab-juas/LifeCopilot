@@ -1,0 +1,15 @@
+title:
+YSK the dangers of prescription drugs. Prescription drug abuse just passed car crashes as the leading cause of death in 29 states. They kill more than heroin and cocaine combined in the US annually.
+
+content:
+[You can learn more here.](http://www.drugrehab.org/prescription-drug-abuse/) 
+
+It's a problem that is largely overlooked but something we should begin taking notice. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/2odorb/
+author:Mary8666
+subreddit:YouShouldKnow
+score:2023
+numComments:246
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,22 @@
+title:
+LPT: If your air conditioner isn't cooling as well as it used to, spray off the outside AC unit (the condenser) with a garden hose.
+
+content:
+It's a simple way to keep your AC performing at top condition.
+
+The outside "box" of your air conditioning system is called the "condenser." That's what acts as the heat exchanger between your home and the outside--those cooling vanes in the condenser act like your car's radiator by taking heat to the outdoors. 
+
+Dust and debris can clog the cooling vanes, making them much less efficient. Dirty cooling vanes can diminish system efficiency as much as a dirty filter can. **Use a garden hose (not a brush, or a high-pressure washer, which can damage the fragile cooling vanes) to thoroughly rinse off the vanes.** 
+
+It's good practice to clean them (and weed/trim grass) around the condenser once a year, early in the season. Depending on your environment, you may need to clean more often.
+
+[Pic](https://www.handymanhowto.com/wp-content/uploads/2014/06/Outdoor-AC-Condenser-Coil-Cleaning-Hose-Off-the-Detergent.jpg)
+
+
+url:https://reddit.com/r/LifeProTips/comments/4w0ksa/
+author:akambe
+subreddit:LifeProTips
+score:1020
+numComments:163
+isOver18:False
+hasPostBody:True

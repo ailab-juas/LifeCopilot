@@ -1,0 +1,13 @@
+title:
+LPT: If night time thoughts are keeping you awake, write them all down
+
+content:
+I found that if I'm lying awake thinking of things, whether it be what I need to do the next day, or having a fake argument in my head, writing it down helps me clear my mind and helps me settle down to sleep. That's kind of why I'm writing this now, I wrote some ideas for tomorrow down, thought "Ooh, that could be a cool LPT" and the thought wouldn't go away until I did it! 
+
+url:https://reddit.com/r/LifeProTips/comments/1x4r1s/
+author:EpicEllz
+subreddit:LifeProTips
+score:1996
+numComments:181
+isOver18:False
+hasPostBody:True

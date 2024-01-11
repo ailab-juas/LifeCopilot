@@ -1,0 +1,37 @@
+title:
+YSK About Windows Disk Cleanup. It can free up quite a bit of disk space used up by recent Windows Update leftovers, and many other things.
+
+content:
+Starting from Windows 7 and Above, if you click the start menu and type in Disk Cleanup, Windows will calculate all the stuff that it deems necessary it can clean up. You'll be presented with this list that you can then choose from. If you want to save even more space, you can also choose the clean system files. 
+
+The following link will go into a quite a bit more detail:
+https://www.techrepublic.com/article/how-to-clean-up-system-files-with-the-windows-10-disk-cleanup-tool/
+
+
+I do this commonly across my 2 machines and I just did it to my laptop and I was able to reclaim close to 3GB again. 
+
+-EDIT-
+ /u/Rugger11 points out that Disk Cleanup program has been in existed since Windows 95! 
+
+Windows XP, 2000, ME : Programs→Accessories→System Tools→Disk Cleanup.
+
+Windows 98: Open Windows Explorer or My Computer. Right-click the disk you want to free space on, and then click Properties. On the General tab, click Disk Cleanup and click the unnecessary files you want to remove, then click OK
+
+
+ALSO
+
+more info on Wikipedia:
+https://en.wikipedia.org/wiki/Disk_Cleanup
+
+
+-EDIT 2-
+
+/u/Goretsky points out that if you run Disk Cleanup in Administrator mode, you get even MOAR cleaning options! MWUAHAHAHAHAHAAH!!
+
+url:https://reddit.com/r/YouShouldKnow/comments/7gp0gj/
+author:FeebleFreak
+subreddit:YouShouldKnow
+score:4020
+numComments:227
+isOver18:False
+hasPostBody:True

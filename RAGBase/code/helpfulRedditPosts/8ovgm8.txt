@@ -1,0 +1,13 @@
+title:
+LPT: When receiving a gift card as a gift, take a picture of what you bought with the card and send it with the thank you text. It makes their generosity much more meaningful and shows appreciation
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/8ovgm8/
+author:WizardCash
+subreddit:LifeProTips
+score:1957
+numComments:98
+isOver18:False
+hasPostBody:False

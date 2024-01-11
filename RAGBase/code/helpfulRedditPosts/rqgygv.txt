@@ -1,0 +1,21 @@
+title:
+YSK: How to cook with garlic. The tinier you mince garlic, the stronger the flavor. Slices will be less strong while a paste will be strongest. The more you cook it the more flavor will be lost.
+
+content:
+Why YSK: I know so many people who always say “triple the recipe recommendation” for garlic. But then I see them just slicing garlic into millimeter slices in their recipe. Right.. found the problem. Most of the time the recipe is fine, you just have to prepare the garlic correctly in order to get the right amount of flavor you want. 
+
+The way you chop and cook garlic affects the strength of the flavor in your dish. If you mince garlic you will release much more flavor compared to slices. A paste will be even stronger (you get a paste by mincing first and then smearing it on the cutting board using a knife repeatedly) 
+
+Also, ~~cooking~~ sautéing/frying garlic less will retain more of its flavor. If your garlic is being sautéed until brown, you won’t taste it as much. If you want a strong flavor make sure you add it late and keep it white. Slow-cooking or roasting whole garlic heads is much different and that method of cooking garlic is not really what I’m talking about here. 
+
+Edit: [Here](https://web.archive.org/web/20211228191159/https://www.recipetips.com/kitchen-tips/t--1263/all-about-garlic.asp) is a link about this topic. Scroll down for more detailed info and graphics on what I’m talking about in this post!
+
+Edit2: link should be working now!
+
+url:https://reddit.com/r/YouShouldKnow/comments/rqgygv/
+author:1saltymf
+subreddit:YouShouldKnow
+score:30291
+numComments:711
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+[LPT] When using an online translator: Copy the translated text and translate it back into your own language to make sure it actually conveys your point.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/2av6x8/
+author:Quarkis
+subreddit:LifeProTips
+score:1370
+numComments:220
+isOver18:False
+hasPostBody:False

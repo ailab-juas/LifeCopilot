@@ -1,0 +1,20 @@
+title:
+YSK according to Visa rules, retailers are permitted to apply a surcharge to ONLY credit card purchases and cannot impose a surcharge for purchases made using a debit or prepaid card.
+
+content:
+More info here:
+https://usa.visa.com/personal/get-help/checkout-fees.jsp?b=1
+
+You can file an inquiry here:
+https://usa.visa.com/checkoutfees/contact.jsp  
+
+  Edit: This applies to MasterCards too:
+http://www.mastercard.us/merchants/support/surcharge-rules.html
+
+url:https://reddit.com/r/YouShouldKnow/comments/2kaolz/
+author:bbom
+subreddit:YouShouldKnow
+score:1579
+numComments:297
+isOver18:False
+hasPostBody:True

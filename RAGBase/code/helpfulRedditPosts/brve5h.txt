@@ -1,0 +1,21 @@
+title:
+YSK Ordering/paying for more pizza toppings does not give you more toppings.
+
+content:
+Word to the wise, most pizza places' topping distribution will vary in quantity based on how many toppings you get, so you may get roughly the same amount of toppings if you order one topping vs. five.
+
+&amp;#x200B;
+
+Edit: Since many people didn't see the comment where I elaborate, Here's just an example of what I'm saying: (numbers are approx. and no I'm not talking about all pizza places, just some.)
+
+If you order a pepperoni pizza it may come with about 40 pieces of pepperoni.  
+If you order a pepperoni and sausage pizza, it may come with 20-25 pieces of pepperoni and 1/2 cup of sausage.  
+If you order a pepperoni, sausage, and onion pizza, it may come with 15-20 pieces of pepperoni, 1/3 cup sausage and 1/3 cup onions.
+
+url:https://reddit.com/r/YouShouldKnow/comments/brve5h/
+author:theredditofjessica
+subreddit:YouShouldKnow
+score:2351
+numComments:232
+isOver18:False
+hasPostBody:True

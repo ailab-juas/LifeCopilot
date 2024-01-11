@@ -1,0 +1,23 @@
+title:
+LPT: If you've had the same internet service plan for a while, take a look at what your ISP's current advertised plans are. You may be "grandfathered in" on a slower, more expensive plan.
+
+content:
+Realized this the other day, and I wish I had figured it out years ago. My family has been on the same internet + phone + cable package from Knology (now WOW) for over a decade. After fees and taxes, my dad was paying $270/mo for the whole package, and though I don't know the cable/phone details, I do know we were only getting 20 Mbps down/2 Mbps up internet speed. That didn't seem right to me, so I went and took alook.
+
+On their website, this ISP does not seem to offer any plan that has 20 down/2 up internet speed. They do have a 10d/1u single-user service (standalone internet), but in their package deals, they only had 50, 100, 500, and 1000 internet speeds (no 20).
+
+Turns out, we've been paying for the same service *at the same rate* for the past 15+ years. So while high-speed internet was getting faster and the cost was going down, we were still paying what was considered a fair price for what was considered a high speed in the early 2000s.
+
+One call to the ISP, our plan was changed over the phone and a tech came out today and installed the new modem. We are now getting 1Gbps ~~up~~ down, 50 Mbps ~~down~~ up, have the same phone and cable service as before, and are paying $30 a month **less** than before.
+
+Edit: For like the 50th time, I typed down when I meant to type up, and up when I meant to type down. My speed is 1G down, 50M up, not the other way around.
+
+Also, as people have mentioned in the comments, **this doesn't apply to every ISP** and in fact some ISPs will do the opposite: they will actually prohibit you from upgrading your plan if you're a longtime user, as their good deals are only for new customers. WOW seems to be pretty decent as far as customer service goes, but I can't speak for any other ISP.
+
+url:https://reddit.com/r/LifeProTips/comments/7rmd08/
+author:IceTwenty
+subreddit:LifeProTips
+score:28623
+numComments:1308
+isOver18:False
+hasPostBody:True

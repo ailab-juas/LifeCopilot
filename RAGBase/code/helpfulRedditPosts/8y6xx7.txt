@@ -1,0 +1,13 @@
+title:
+LPT: If you’re trying to eat healthier or lose fat, after buying fresh fruits or veggies, pick/cut/wash them asap for healthier snacking and quicker availability. The tendency when snacking is to grab-and-eat rather than taking time to fully prepare. Unhealthy food can be too conveniently available.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/8y6xx7/
+author:jiggida
+subreddit:LifeProTips
+score:45641
+numComments:1329
+isOver18:False
+hasPostBody:False

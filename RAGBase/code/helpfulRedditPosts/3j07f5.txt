@@ -1,0 +1,13 @@
+title:
+YSK The very basics of investing
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/3j07f5/
+author:[deleted]
+subreddit:YouShouldKnow
+score:1138
+numComments:72
+isOver18:False
+hasPostBody:False

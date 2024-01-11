@@ -1,0 +1,13 @@
+title:
+LPT - if you’re making nachos and cheese in the microwave, use a lower power level (6-7 or 60-70%) to avoid the cheese getting hard when it cools.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/qsq054/
+author:[deleted]
+subreddit:LifeProTips
+score:1644
+numComments:126
+isOver18:False
+hasPostBody:True

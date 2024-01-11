@@ -1,0 +1,15 @@
+title:
+LPT: Reminder that you can create unlimited email addresses in gmail by adding a plus sign followed by a word to your existing address. Use different emails such as email+netflix@gmail.com, email+spotify @gmail.com for different services.
+
+content:
+This also helps identify who is selling your email since spam will be addressed to the specific email. You can filter out the address to keep your inbox spam free.
+
+Edit: Just to be clear, you don’t have to create a new email address just use this format when signing up on a website. The emails will still reach your original mailbox.
+
+url:https://reddit.com/r/LifeProTips/comments/iomh79/
+author:GuyWithDFacts
+subreddit:LifeProTips
+score:47217
+numComments:1024
+isOver18:False
+hasPostBody:True

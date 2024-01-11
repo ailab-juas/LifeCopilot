@@ -1,0 +1,13 @@
+title:
+LPT: Hurricane preparedness: Fill freezer with plastic bags of water.
+
+content:
+It'll keep things cold longer if you lose power, and will provide some clean drinking water when it melts.
+
+url:https://reddit.com/r/LifeProTips/comments/127t5x/
+author:brandywinenest
+subreddit:LifeProTips
+score:1830
+numComments:336
+isOver18:False
+hasPostBody:True

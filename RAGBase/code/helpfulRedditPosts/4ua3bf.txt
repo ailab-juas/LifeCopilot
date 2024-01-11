@@ -1,0 +1,13 @@
+title:
+LPT: When confronting your SO about an issue, try not to do it when they're visibly exhausted or going to bed
+
+content:
+It's more likely to turn from constructive discussion to an argument if someone is tired and irritable. Wait until the next day if the situation allows it.
+
+url:https://reddit.com/r/LifeProTips/comments/4ua3bf/
+author:TopherCully
+subreddit:LifeProTips
+score:2195
+numComments:127
+isOver18:False
+hasPostBody:True

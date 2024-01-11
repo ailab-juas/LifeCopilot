@@ -1,0 +1,41 @@
+title:
+Rules simplification
+
+content:
+Hello LPT subscribers, 
+
+This community has existed for nine years and has more subscribers than some smaller countries have citizens. (Belgium has 11.4m) 
+
+We find  that over time our rules have become bloated and unwieldy, making the subreddit hard to moderate and more importantly, difficult to post to. 
+
+Each rule we have was added for a very good reason at the time. (In the sidebar there is a rule saying no tips about rubber snakes. A few years ago there was an issue with rubber snake tips.)
+
+But over the years we have added rule after rule and never removed any and this resulted in rules creep,  a sort of nightmarish morass you guys need to navigate when you want to post here. 
+
+This ends today. We're massively overhauling the rules, removing most of the restricted tip list and making participating here a  lot easier.
+
+------------------------------------
+
+**Rules that we will keep**
+
+No tips about:
+
+Legal, parenting, driving, tips that break the law, hygiene (including toilet), religious, relationship, troll/ joke.
+
+And no ads. No tips that are really just recommending a product or service. No "Get Disney+, it's great". 
+
+----------------------------------------
+
+It's going to take some time to get all this arranged, especially automod is a complete disaster of rule upon rule and legacy code that requires detailed attention. During this transition some posts that are not technically against the rules anymore may still be removed. We also reserve the right to keep removing content under moderator discretion, when we feel it's not a good fit for the sub but is not codified in our existing ruleset. 
+
+But in general we feel that this overhaul will make it much simpler and enjoyable to participate here. 
+
+LPT: Don't let rules creep  constrict your subreddit.
+
+url:https://reddit.com/r/LifeProTips/comments/e3ftbf/
+author:Merari01
+subreddit:LifeProTips
+score:1661
+numComments:81
+isOver18:False
+hasPostBody:True

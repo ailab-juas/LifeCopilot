@@ -1,0 +1,13 @@
+title:
+LPT: If you only learn how to tie one knot, make it a bowline.
+
+content:
+This knot is very simple, super strong and will not slip or come undone under load. [Here's how to make it.](http://www.animatedknots.com/bowline)
+
+url:https://reddit.com/r/LifeProTips/comments/1txc0o/
+author:[deleted]
+subreddit:LifeProTips
+score:1888
+numComments:341
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: If you're planning to go hiking in an area where you may have poor cell phone reception, download the offline map data of the area through Google maps before hand. If you get lost and lose cell reception, you can still use the phone's GPS and downloaded map data to navigate back to safety.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ntxvrp/
+author:zamgoesham
+subreddit:LifeProTips
+score:29956
+numComments:918
+isOver18:False
+hasPostBody:False

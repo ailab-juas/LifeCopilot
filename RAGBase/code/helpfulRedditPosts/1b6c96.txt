@@ -1,0 +1,61 @@
+title:
+LPT: How to use Price Trackers to wait for the perfect moment to buy any product
+
+content:
+* **How do I keep track of prices**
+
+There are a lot of price trackers out there. I will list a few here
+
+* http://Camelcamelcamel.com
+
+* http://thetracktor.com
+
+* http://chintzee.com
+
+* http://keepa.com
+
+* http://pricetracker24.net
+
+Submitted by other redditors
+
+
+* http://pcpartpicker.com for PC related products (thanks /u/sponz)
+
+* http://appshopper.com for apps (by /u/Dreamerr)
+
+* http://mypricetrack.com   (by /u/dchoe)
+
+* http://www.cheapshark.com for games (by /u/SN4T14)
+
+* https://www.decide.com/ for electronics and appliances (by /u/philodox)
+
+Some of them support multiple sites as well as multiple countries while others are limited to Amazon US only. To keep track of a particular product, just go to any of the above trackers, search for the product and enter your email address or twitter id and the desired price in the specific fields. Its that simple. Here's an example:
+
+http://camelcamelcamel.com/The-Matrix-Collection-Film-Favorites/product/B001DJLD1M
+
+Just enter the required information and you are good to go. Once you do that you will be notified as soon as the product reaches the desired price you mentioned. Its pretty awesome. The best time to buy a product IMO is when it reaches its lowest historical price. Of course it may take a few months, and is only good for products that you don't require immediately. But if done right, it can save you a lot of money.
+
+
+* **How much money can be saved buying products at their lowest price**
+
+
+To get an idea about this, I looked at the lowest price and the usual price(the price at which you can buy the product when not on sale) and formed an excel sheet using the data. Don't confuse the list price with the usual price. The usual price is the price at which you can buy the product regularly, while the list price is the price at which the product was launched. 
+
+Upon analyzing the data, I found that you can on average save approx 30% off regular price if you buy it at the lowest price. That's $300 for every $1000 worth of products you bought. It is a lot of money. Here's the data in excel format(I collected this data from a new subreddit and I only have data for approx 40 products right now)
+
+https://docs.google.com/file/d/0B08rF-l_lyR7NW44b0RNTF85U1U/edit?usp=sharing
+
+
+While most deal sites would say, always buy products at deal prices, I say, always buy products at their lowest historical price. Chances are that you won't regret it for a long time to come. 
+
+**EDIT:** I guess I should add this right here
+
+Check out /r/amazonLP as well(the subreddit I used to get the price data). It lists products that are at their lowest historical price currently.
+
+url:https://reddit.com/r/LifeProTips/comments/1b6c96/
+author:redlp2
+subreddit:LifeProTips
+score:1990
+numComments:146
+isOver18:False
+hasPostBody:True

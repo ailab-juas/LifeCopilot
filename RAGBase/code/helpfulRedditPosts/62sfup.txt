@@ -1,0 +1,13 @@
+title:
+LPT: If you buy baby / spring greens in the plastic container, put a slice of paper towel in there after you open it. It absorbs the condensation and makes the greens last longer.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/62sfup/
+author:wearebrainstorm
+subreddit:LifeProTips
+score:18261
+numComments:648
+isOver18:False
+hasPostBody:False

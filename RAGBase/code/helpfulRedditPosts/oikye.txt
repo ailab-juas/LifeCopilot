@@ -1,0 +1,13 @@
+title:
+How to open nearly any knot
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/oikye/
+author:jumaklavita
+subreddit:LifeProTips
+score:3976
+numComments:293
+isOver18:False
+hasPostBody:False

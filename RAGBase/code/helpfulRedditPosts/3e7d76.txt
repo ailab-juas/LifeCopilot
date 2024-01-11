@@ -1,0 +1,13 @@
+title:
+YSK the IRS does not call you about back taxes owed. This is a scam.
+
+content:
+I'm a CPA and this is becoming alarmingly more frequent. We even had a client pay before he called us when he had second thoughts. The IRS will usually send you a letter first. Even if you don't respond they will continue to send letters until they take legal action. If you are worried about it hang up with the "IRS" and call 800-829-1040 the official IRS call center and ask if a case has been opened against you.
+
+url:https://reddit.com/r/YouShouldKnow/comments/3e7d76/
+author:Plebeian_
+subreddit:YouShouldKnow
+score:2089
+numComments:71
+isOver18:False
+hasPostBody:True

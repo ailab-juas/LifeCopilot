@@ -1,0 +1,13 @@
+title:
+LPT: when trying to learn something new it’s best to pull what you can from memory compared to rereading or similar methods. When you struggle your mind is putting more energy into building that path of synapses in your brain, and It becomes more solidified when you successfully recall it.
+
+content:
+I had a hard time in college and was reading a book called ‘make it stick’ by Peter C. Brown. It’s full of counter intuitive ways to actually learn something. Hope this help some of you in the future.
+
+url:https://reddit.com/r/LifeProTips/comments/kd99vf/
+author:[deleted]
+subreddit:LifeProTips
+score:5254
+numComments:90
+isOver18:False
+hasPostBody:True

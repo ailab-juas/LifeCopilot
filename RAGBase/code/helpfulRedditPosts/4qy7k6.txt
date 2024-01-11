@@ -1,0 +1,13 @@
+title:
+YSK that you can review all the data Google has stored on you
+
+content:
+https://myactivity.google.com/myactivity can be used to show your entire search history, youtube search history, location history, etc. You can also choose to delete any of the data you want. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/4qy7k6/
+author:HyperManTT
+subreddit:YouShouldKnow
+score:3312
+numComments:284
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,19 @@
+title:
+YSK that lactose intolerance does not preclude you from eating ALL dairy foods.
+
+content:
+Lactose is a sugar found in milk and milk products. If a milk product contains zero (or close to zero) sugar, it will contain an *equal or lesser* amount of lactose. Period. Even some milk products that *do* contain sugar, might not contain lactose, as lactose is only *one* of the sugars commonly found in milk products.
+
+A simple rule of thumb for gauging the lactose content of foods without having the information directly on hand is to check the nutrition label for sugar content. If the total weight of the sugar, in grams, is less than about 2% of the total weight of the food product, you're likely good to go.
+
+As such, whey protein isolate, greek yogurt, and most cheeses are perfectly fine. Younger cheeses might cross the 2% threshold, so depending on the severity of your reaction, you might want to limit yourself. As for yogurt in general, generally speaking, more filtration and thickness will mean less lactose, but once again, check the label for a better idea.
+
+The reason I felt compelled to post this (as a lactose intolerant gym-goer) was to help disspell the myths about lactose in whey isolate and other sources of quality protein. It also stems from a long-standing callback joke on "The Big Bang Theory", in where Johnny Galecki's character Leonard avoids pizza in fear of stinking up the room. As a regular consumer of pizza, I can assure you that I stink up plenty of rooms, but it's usually because of my bad jokes and NOT because of mozzarella cheese.
+
+url:https://reddit.com/r/YouShouldKnow/comments/3z0wc1/
+author:Oafah
+subreddit:YouShouldKnow
+score:1828
+numComments:239
+isOver18:False
+hasPostBody:True

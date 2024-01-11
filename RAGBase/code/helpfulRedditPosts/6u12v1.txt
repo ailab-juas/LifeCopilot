@@ -1,0 +1,13 @@
+title:
+LPT: It's better to ask a question and be a fool once, than never ask and be a fool forever
+
+content:
+Acting like you know how to do everything definitely doesn't get you anywhere, if you don't know how to do something, ask for it to be shown to you 
+
+url:https://reddit.com/r/LifeProTips/comments/6u12v1/
+author:Caynze
+subreddit:LifeProTips
+score:1341
+numComments:56
+isOver18:False
+hasPostBody:True

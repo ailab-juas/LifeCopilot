@@ -1,0 +1,35 @@
+title:
+YSK: The US Fed is very likely going to be raising the Federal Funds interest rate tomorrow. This means any debt you have with variable interest rates (Credit Cards, loans, mortgages, etc) will be going up soon.
+
+content:
+In case you don’t follow financial news or don’t care, the US Federal Reserve is very likely going to be raising the Federal Funds interest rate tomorrow. 
+
+The ELI5 version is that Federal Funds rate hikes means money becomes more expensive for banks to borrow. Those increased costs will pass to you. 
+
+The goal of the hikes is to help combat the runaway inflation we’ve seen caused (in part) by too much money flooding in the economy. The rate has been set to 0% for the past 2 years, so interest rates were historically low. Tomorrow will be the first of likely a series of 5-7 of these hikes throughout this year.
+
+What this means for you is any debt you have with variable rate interest will probably be increasing the interest rates.
+
+This would be Credit Cards, private loans,  auto loans, etc. 
+
+Mortgages are a bit more of a wildcard whether they’re directly tied to the Fed rate, but they can still be effected. 
+
+What you should be doing as a regular person: 
+
+1. Exploring whether you can pay down any of your debt faster…or off completely 
+
+2. Calling your lenders to ask if they can lower your rates. Often all it takes is a phone call.
+
+3. Looking into Balance Transferring your debt. A balance transfer can lock you into a low or 0% interest rate for a period of time. 
+
+4. Consolidating/refinancing debt. If you have a lot of different variable rate debts, it can be beneficial to combine them into one.  Best way to do this is getting a personal loan, and using the proceeds to pay off your other balances.There are a lot of 3rd party loan services that can help you with this  (Lightstream, SoFI, Upgrade, etc) 
+
+Why YSK: If you have any debt right now, the interest is about to get more expensive starting tomorrow. You should think about paying it down more aggressively or making other steps to lower your rates.
+
+url:https://reddit.com/r/YouShouldKnow/comments/te0ku1/
+author:DontMicrowaveCats
+subreddit:YouShouldKnow
+score:9484
+numComments:422
+isOver18:False
+hasPostBody:True

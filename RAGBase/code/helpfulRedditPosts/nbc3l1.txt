@@ -1,0 +1,25 @@
+title:
+YSK: Gasoline is not just extremely flammable and can create explosive mixtures with air, it is also very carcinogenic, toxic and a strong teratogen.
+
+content:
+Why YSK: Parts of the USA are currently experiencing a significant gasoline shortage/crunch, which is why many photos of people hoarding gasoline using plastic bags and other unsafe containers pop up on the internet, especially here on Reddit. This post is not only a reminder that gasoline is flammable and will burn down your house, but also of the direct risks of a gasoline exposure. I think this is good advice for handling gasoline in general as well.
+
+Gasoline, as it is sold as a fuel in many parts in the world, contains up to 5 vol.-% of Benzene, which is toxic and carcinogenic, up to 35 vol.-% of Toluene, which is toxic and many other aromatic hydrocarbons, which mostly are toxic too. Most of these compounds are not only toxic and/or carcinogenic via dermal exposure, but inhalation too. Some (including Benzene) are also teratogen, meaning they will be harmful for an unborn child, when the mother is exposed, or for infants via lactation. Some even lower your chance of being fertile/increase the risk of infertility. When inhaled, gasoline can make you dizzy or even pass out.
+
+If it wasn't for the general use of gasoline as a fuel, the average person (without proper certificates/qualifications) would not be able to buy gasoline, as it is such a dangerous chemical and poses a great risk to general health. When working with the compounds making up gasoline in a lab, chemists are advised to wear proper safety equipment, including gloves and eye protection, by the GHS (Globally Harmonized System of Classification and Labelling of Chemicals).
+
+It is also a common misconception, that ingesting gasoline (as in drinking it), in contrast to inhalation, will instantly kill you. While it is true that gasoline has a rather high toxicity, according to specialist Brad Dahl "even two mouthfuls wouldn't be that dangerous as long as it goes down to your stomach and stays there or keeps going." Therefore small amounts of ingested gasoline generally do not require special medical treatment and vomiting, lavage or activated charcoal can even make it worse. THIS EXPLICITLY DOES NOT MEAN, THAT DRINKING GASOLINE CANNOT BE A SERIOUS THREAT TO YOUR HEALTH. DO NOT TAKE HEALTH-ADVICE FROM PEOPLE FROM THE INTERNET! WHEN YOU OR SOMEONE ELSE HAS INGESTED GASOLINE, CONTACT YOUR LOCAL POISON INFORMATION CENTER!
+
+Gasoline is also very problematic when it gets into the environment and poses a big risk for aquatic organisms.
+
+Please note that I am not an expert in toxicology and I am not a chemist! For further (professional) information and studies regarding the health effects of gasoline visit [https://pubmed.ncbi.nlm.nih.gov/2683228/](https://pubmed.ncbi.nlm.nih.gov/2683228/) or  [https://www.firstfuelbank.com/msds/Tesoro.pdf](https://www.firstfuelbank.com/msds/Tesoro.pdf)
+
+Edit: changed "The USA" to " Parts of the USA"
+
+url:https://reddit.com/r/YouShouldKnow/comments/nbc3l1/
+author:FancyIguana
+subreddit:YouShouldKnow
+score:29585
+numComments:970
+isOver18:False
+hasPostBody:True

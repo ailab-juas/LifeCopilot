@@ -1,0 +1,32 @@
+title:
+YSK: Filipino-American and Indian-American people are at a much greater risk of heart disease.
+
+content:
+Why YSK: This isn't common knowledge, and it could potentially prolong your life by several decades if it applies to you.
+
+In the past, Asian-American people were all under the same subgroup for some reason. We now know certain races are more susceptible, especially those included in the title. Other races can definitely get heart disease as well, the severity being dependent on several risk factors.
+
+The risk factors for heart disease, like high blood pressure, diabetes mellitus, obesity, high cholesterol, too much alcohol or tobacco, not getting enough exercise, and genetics (which are the biggest risk factor, per the title). When these risk factors present in the groups that are more susceptible, it can make heart disease appear much earlier in life than usual. 
+
+This is problematic as many treatments for heart disease merely buy time to hopefully make it so you end up dying from something other than your heart. Ideally it lasts decades, but if you have heart disease at 30, you will likely die from your heart. (My job is treating it btw)
+
+Symptoms include chest pain, shortness of breath, trouble breathing upon exertion, and weakness/dizziness. Know the risk factors and symptoms, and do a little bit of research to see if you might need to take precautions. If so, talk to a cardiologist, so they can run a couple tests and potentially get you on medication or do another form of treatment. 
+
+If you do have extreme chest pain, especially if it radiates to your arm or jaw, get checked out immediately. A simple EKG can determine if you are having a heart attack. If the pain subsides, it does NOT mean the problem has as well. Heart muscle dies permanently in only hours.
+
+If you have a question, I can try to answer. I wish you all a healthy future, and I hope not to see you at work!
+
+Edit: To clarify, definitions of race have varied, but I was using Merriam Webster's definition to clarify the issue lies in genetics rather than culture, which is what that dictionary says is the difference between race and ethnicity. When I use race in this post, it's referring to the genetics or the people specific to that country. In particular, the people whose ancestors lived in that country as well.
+
+Also, increased risk is like saying smoking will kill you twice as fast, but if you don't smoke, nothing's increasing. Specific family genetics are different, and it's the biggest indicator of developing heart disease, even if you aren't included in the other risk factors. There are ways of managing it and making it so your heart outlives you, so this is a YSK about getting seen by a cardiologist if you have increased risk. This is not a message of impending doom.
+
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3215504/#!po=30.2632
+
+url:https://reddit.com/r/YouShouldKnow/comments/to9fjd/
+author:LegendOfKhaos
+subreddit:YouShouldKnow
+score:5238
+numComments:300
+isOver18:False
+hasPostBody:True

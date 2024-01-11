@@ -1,0 +1,13 @@
+title:
+YSK: If you are buying a used car, test drive it to the nearest auto-parts store to have it scanned for check engine light codes. Sellers can temporarily hide them to deceive you.
+
+content:
+Not everyone is mechanically inclined enough to inspect cars but all major auto part stores (auto zone, advanced auto, o Reilly’s) all offer free scanners for you to borrow. YouTube how to do it and you could save yourself thousands. People who sell cars can be sketchy and are good are hiding previous damage or mechanical problems. Pro Tip: offer to meet at the sellers house/dealer and ask them to not start it because you want to do a “cold start” which is starting the engine right up after it’s been sitting. Lots of mechanical problems can ‘hide’ or ‘disappear’ once the engine is warmed up. Starting it cold gives you a much better idea as to how it’ll work when you bring it home the next day. Best of luck!
+
+url:https://reddit.com/r/YouShouldKnow/comments/i2xzsj/
+author:SSIRHC
+subreddit:YouShouldKnow
+score:37849
+numComments:794
+isOver18:False
+hasPostBody:True

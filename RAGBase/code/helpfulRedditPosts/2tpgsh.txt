@@ -1,0 +1,13 @@
+title:
+YSK: Ladies who get your first diamond ring, be careful with it - it can scratch almost anything (since valentine is coming up...)
+
+content:
+My stone counter top in the kitchen is now decorated with a 40cm scratch, done by a newly engaged girl when she tried to help cleaning up after dinner.
+
+url:https://reddit.com/r/YouShouldKnow/comments/2tpgsh/
+author:uncovery
+subreddit:YouShouldKnow
+score:1102
+numComments:330
+isOver18:False
+hasPostBody:True

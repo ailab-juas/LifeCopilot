@@ -1,0 +1,13 @@
+title:
+LPT: If you want to cancel your Adobe subscription without having to pay the cancellation fee, tell them you're cancelling because you have a new Adobe subscription that your work is paying for.
+
+content:
+I recently cancelled two Adobe subscriptions over the phone and didn't have to pay a cancellation fee because I told them at my new job they're paying for a CC subscription for me to use. They didn't ask for the email associated with the work CC account, just the emails from the accounts I wanted to cancel.
+
+url:https://reddit.com/r/LifeProTips/comments/x6nkw0/
+author:_NetscapeNavi
+subreddit:LifeProTips
+score:2558
+numComments:76
+isOver18:False
+hasPostBody:True

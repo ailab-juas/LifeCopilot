@@ -1,0 +1,13 @@
+title:
+LPT: Update your resume regularly. It’s difficult trying to remember all the awesome stuff you did when you really need it.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/so6jch/
+author:inNoutCross
+subreddit:LifeProTips
+score:1378
+numComments:59
+isOver18:False
+hasPostBody:False

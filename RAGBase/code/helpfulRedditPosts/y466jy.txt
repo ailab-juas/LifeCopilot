@@ -1,0 +1,33 @@
+title:
+YSK: That you can turn off unwanted alcohol or other drug ads on google by changing your age.
+
+content:
+I TOTALLY FORGOT ABOUT AD BLOCKERS.
+
+Use an adblocker, a great one is UBlock Origin, its a free browser extension. 
+It blocks all ads.
+
+Thank you to [this](https://www.reddit.com/r/YouShouldKnow/comments/y466jy/ysk_that_you_can_turn_off_unwanted_alcohol_or/iscgb0n/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf&amp;context=3) reply for reminding me they exist.
+
+And if you are unable to use an adblocker, ie, you are on a phone, or a browser that doesnt support extensions, or you still want ads to support the pages you are visiting, or any reason you dont want an ad blocker.
+Then keep reading, but if not, just use an adblocker!
+
+Why YSK: 
+If you are getting unwanted ads for alcohol, you can turn them off, by changing your age of your google account to below 21.
+(Legal age for consuming drugs in the us, might differ in other countries)
+
+You also get rid of any drug ads, this could help if you are struggling with addiction.
+
+Or just dont want to see them.
+
+Im pretty sure there are also settings to specifically turn off ads that include drugs, but ive found the best way to do it, is to turn off ad personalization, which you should have off anyway, and to just set your age to 19.
+
+If you are struggling with addiction, good luck! I hope you can get over it!
+
+url:https://reddit.com/r/YouShouldKnow/comments/y466jy/
+author:DaviJohnsYT
+subreddit:YouShouldKnow
+score:2673
+numComments:92
+isOver18:False
+hasPostBody:True

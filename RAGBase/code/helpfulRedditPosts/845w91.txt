@@ -1,0 +1,13 @@
+title:
+YSK:That companies like Best Buy&amp; Home Depot utilize a vendor named The Retail Equation to track consumers shopping behaviors, especially how often they return merchandise. The Retail Equation can deny specific requests or ban the customer outright from making returns, even those with valid receipts
+
+content:
+This includes returns within the company's stated return window (7 days / 14 days etc.)
+
+url:https://reddit.com/r/YouShouldKnow/comments/845w91/
+author:PigFishBeer
+subreddit:YouShouldKnow
+score:7801
+numComments:693
+isOver18:False
+hasPostBody:True

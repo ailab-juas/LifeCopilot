@@ -1,0 +1,13 @@
+title:
+LPT: when someone else starts an argument with you, ask yourself what would be the positive outcome of engaging in the argument. If there’s none, just walk away and don’t engage. You’ll probably save yourself unnecessary stress.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/dd1gdj/
+author:msoto15
+subreddit:LifeProTips
+score:14259
+numComments:367
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,25 @@
+title:
+YSK: Moist wound healing is preferable to maintaining a scab for scrapes and burns
+
+content:
+Why YSK: Most people are taught that having a scab and especially letting it air out is the optimal way to heal a scrape or a burn, but in fact moist wound healing heals faster and with less scarring.
+
+Moist wound healing is better than letting the wound scab over. A scab provides a protective covering, but its presence impedes the flow of repair cells and proteins. A dressing like Tegaderm allows the serous fluid that exudes from the wound to remain at the wound site and flow over it as needed. This enables scarless, relatively quick healing.
+
+I first found out about this back in 1995. I fell off my bike and got a large, deep road burn on my calf that started weeping. I went to the company infirmary and the nurse scrubbed it down and then applied some anti-bacterial ointment, and then put on a Tegaderm dressing that completely covered the wound. 
+
+She said the weeping exudate is full of cells and enzymes which break it down damaged tissue, and also fibrin and other proteins that rebuild it. She said to leave the dressing on for a week, then remove it, wash the wound, apply anti-bacterial ointment, and put a new dressing on it. The dressing was clear, so you could see what was going on with the wound.
+
+Within a week the area of damaged tissue was around half the original size, and it itched around the edges from the healing taking place. After the second one, I went back to get a third, and within that time it was completely healed without a scar.
+
+Here's a [page listing more benefits of moist wound healing](https://www.woundsource.com/blog/benefits-moist-wound-healing).
+
+And here's a paper on the [Clinical Impact Upon Wound Healing and Inflammation in Moist, Wet, and Dry Environments](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3842869/)
+
+url:https://reddit.com/r/YouShouldKnow/comments/vsi0f1/
+author:mutatron
+subreddit:YouShouldKnow
+score:5299
+numComments:257
+isOver18:False
+hasPostBody:True

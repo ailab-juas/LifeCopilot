@@ -1,0 +1,13 @@
+title:
+LPT: If you feel like life is going by too fast, hobbies with long periods of waiting will help slow it down. Things like gardening, aquariums, woodworking, art, etc.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/px3p5u/
+author:ShextMe
+subreddit:LifeProTips
+score:7327
+numComments:159
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+YSK Venmo has a PIN feature that is not enabled by default. Be sure to set a PIN to secure your account in case someone has your phone.
+
+content:
+Also keep it separate from your phone's PIN, since the user would only need to guess a single code.
+
+url:https://reddit.com/r/YouShouldKnow/comments/c3r728/
+author:Hatman88
+subreddit:YouShouldKnow
+score:6999
+numComments:146
+isOver18:False
+hasPostBody:True

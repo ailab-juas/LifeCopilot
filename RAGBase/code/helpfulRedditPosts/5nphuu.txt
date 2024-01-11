@@ -1,0 +1,19 @@
+title:
+LPT: Make your phone faster by changing the animation speed
+
+content:
+[Android only] All you have to do is: go to the Settings -&gt; About Device -&gt; Software Info. After that tap on Build Number repeatedly until a message shows up telling you that you have unlocked Developer Options. Go back to the Settings home page and go to Developer Options (likely to be above "About Device"). Scroll down until you find: Window Animation Scale/ Transition Animation Scale/ Animator Duration Scale.
+There you can change the animations speed, making your phone faster or even slower (maybe you want to enjoy more the animations)
+
+Edit: As some people mentioned, the procces won't be the same for everyone, considering every Android phone is bit different, but it shouldn't be too far away from this.
+Also be careful messing with those Settings, I myself only changed the animations, and unless you understand clearly what the other "features" are, I recomend you to do the same.
+
+Edit 2: Once you're in Developer Options, there's an On/Off toggle in the top of the screen, in case you want to disable it
+
+url:https://reddit.com/r/LifeProTips/comments/5nphuu/
+author:GMF_22
+subreddit:LifeProTips
+score:2317
+numComments:295
+isOver18:False
+hasPostBody:True

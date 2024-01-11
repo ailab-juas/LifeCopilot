@@ -1,0 +1,17 @@
+title:
+YSK that you can block u/RealTacoBell to remove the Pete Davidson eating a taco ads
+
+content:
+Why YSK: This is the first ad campaign I've seen that doesn't allow you any control other than pausing or muting the video. If you, like me, feel you have no control over this and find this campaign ridiculous, know there is a solution:
+
+Go to u/RealTacoBell 's profile and block that account. Once blocked the ad should stop appearing.
+
+EDIT: Some users are reporting an issue with directly blocking the account. Users are also stating if they mark the ad as spam then they can block the account that way. If you come across an issue, try that?
+
+url:https://reddit.com/r/YouShouldKnow/comments/y0u8yk/
+author:MondoDudeBro
+subreddit:YouShouldKnow
+score:96541
+numComments:4755
+isOver18:False
+hasPostBody:True

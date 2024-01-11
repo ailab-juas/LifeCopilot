@@ -1,0 +1,17 @@
+title:
+YSK: never post pics of keys online
+
+content:
+Why YSK: lots of people post pictures of house keys in celebration of getting a new house or apartment, it's trivial and easy to make a copy of that key from the picture. You're literally giving your house key to the Internet. [It doesn't even have to be a photograph.](https://www.wfmynews2.com/mobile/article/news/man-swallows-truck-key-locksmith-uses-x-ray/83-403807108)
+
+Edit for clarity on the linked article 
+
+Edit 2: wow! Thank you for the awards! ☺️
+
+url:https://reddit.com/r/YouShouldKnow/comments/on45kc/
+author:FreshErich
+subreddit:YouShouldKnow
+score:8067
+numComments:363
+isOver18:False
+hasPostBody:True

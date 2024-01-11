@@ -1,0 +1,13 @@
+title:
+LPT: People are currently doing more video conferencing than ever. If you wear glasses, the people in the meeting can see your screen reflecting in your glasses.
+
+content:
+If you are supposed to be paying attention in a meeting and wear glasses, pay attention and don’t be messing around on your screen. People can see your screen and it is very obvious if you are on Facebook and not the presentation.
+
+url:https://reddit.com/r/LifeProTips/comments/fper40/
+author:CappinPeanut
+subreddit:LifeProTips
+score:2229
+numComments:82
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+YSK that despite what is often portrayed in pop culture, most adult cats are actually lactose intolerant and giving them milk can lead to vomiting or diarrhea.
+
+content:
+Source: https://www.prestigeanimalhospital.com/services/cats/blog/why-cats-and-cows-milk-dont-mix
+
+url:https://reddit.com/r/YouShouldKnow/comments/gk678n/
+author:Shasnas69
+subreddit:YouShouldKnow
+score:21588
+numComments:496
+isOver18:False
+hasPostBody:True

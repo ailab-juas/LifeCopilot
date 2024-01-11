@@ -1,0 +1,15 @@
+title:
+As of 10/6/19, LPT will now be implementing a NO TIP COPYING policy. Word for Word tips that are copied from older posts or near identical posts will no longer be permitted. We have one request with your tips: BE ORIGINAL.
+
+content:
+Please see the new rule #10. If you have any questions, please feel free to ask in this thread, or send us a message. We'll clear things up.
+
+Thank you, stay awesome.
+
+url:https://reddit.com/r/LifeProTips/comments/ddzcoj/
+author:Minifig81
+subreddit:LifeProTips
+score:21090
+numComments:508
+isOver18:False
+hasPostBody:True

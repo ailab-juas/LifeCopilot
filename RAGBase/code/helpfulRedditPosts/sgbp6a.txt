@@ -1,0 +1,13 @@
+title:
+LPT: If you have a VISA or any type of cash gift card, once its spent save it until the expiration date. Even with a $0 cash balance you can still use this card, if not expired, to sign up for free trials of services without using one of your major credit/debit cards!
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/sgbp6a/
+author:rvanasty
+subreddit:LifeProTips
+score:27491
+numComments:442
+isOver18:False
+hasPostBody:False

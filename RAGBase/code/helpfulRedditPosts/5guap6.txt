@@ -1,0 +1,13 @@
+title:
+LPT: When using your laptop in bed, put a large book underneath to help with ventilation and maximizing battery life.
+
+content:
+Because bed sheets and comforters tend to clog the airways for fans, laptop devices can overheat fairly quickly. By using a book as a barrier, you get more battery life from your device AND as an added bonus, you won't have to listen to your laptop pretend it's a plane preparing for taking off.  
+
+url:https://reddit.com/r/LifeProTips/comments/5guap6/
+author:nostalgicjared
+subreddit:LifeProTips
+score:18747
+numComments:1229
+isOver18:False
+hasPostBody:True

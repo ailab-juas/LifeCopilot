@@ -1,0 +1,73 @@
+title:
+LPT: If you're home with extra time on your hands, check out MIT OpenCourseWare, a free educational service featuring virtually all of MIT's courses.
+
+content:
+The Massachusetts Institute of Technology offers virtually all of its course content in a web-based format.  OCW is free and available worldwide.
+
+ [https://ocw.mit.edu/index.htm](https://ocw.mit.edu/index.htm) 
+
+MIT is the [premier engineering university in the United States](https://www.usnews.com/best-graduate-schools/top-engineering-schools/eng-rankings), ranking first in aerospace/aeronautical/astronautical engineering, chemical engineering, computer engineering, material engineering, and mechanical engineering in 2016. MIT came in second in nuclear engineering and bioengineering, and seventh in civil engineering.
+
+Engineering coursework in the following areas of study is available:
+
+* [Aeronautics and Astronautics](https://ocw.mit.edu/courses/aeronautics-and-astronautics)
+* [Biological Engineering](https://ocw.mit.edu/courses/biological-engineering)
+* [Chemical Engineering](https://ocw.mit.edu/courses/chemical-engineering)
+* [Civil and Environmental Engineering](https://ocw.mit.edu/courses/civil-and-environmental-engineering)
+* [Electrical Engineering and Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science)
+* [Engineering Systems Division](https://ocw.mit.edu/courses/engineering-systems-division)
+* [Health Sciences and Technology](https://ocw.mit.edu/courses/health-sciences-and-technology)
+* [Institute for Data, Systems, and Society](https://ocw.mit.edu/courses/institute-for-data-systems-and-society)
+* [Materials Science and Engineering](https://ocw.mit.edu/courses/materials-science-and-engineering)
+* [Mechanical Engineering](https://ocw.mit.edu/courses/mechanical-engineering)
+* [Nuclear Science and Engineering](https://ocw.mit.edu/courses/nuclear-engineering)
+
+In addition to offering engineering coursework through OCW, MIT offers:
+
+ **School of Architecture and Planning**
+
+* [Architecture](https://ocw.mit.edu/courses/architecture)
+* [Media Arts and Sciences](https://ocw.mit.edu/courses/media-arts-and-sciences)
+* [Urban Studies and Planning](https://ocw.mit.edu/courses/urban-studies-and-planning)
+
+ **School of Humanities, Arts, and Social Sciences**
+
+* [Anthropology](https://ocw.mit.edu/courses/anthropology)
+* [Comparative Media Studies/Writing](https://ocw.mit.edu/courses/comparative-media-studies-writing)
+* [Economics](https://ocw.mit.edu/courses/economics)
+* [Global Studies and Languages](https://ocw.mit.edu/courses/global-studies-and-languages)
+* [History](https://ocw.mit.edu/courses/history)
+* [Linguistics and Philosophy](https://ocw.mit.edu/courses/linguistics-and-philosophy)
+* [Literature](https://ocw.mit.edu/courses/literature)
+* [Music and Theater Arts](https://ocw.mit.edu/courses/music-and-theater-arts)
+* [Political Science](https://ocw.mit.edu/courses/political-science)
+* [Science, Technology, and Society](https://ocw.mit.edu/courses/science-technology-and-society)
+* [Women's and Gender Studies](https://ocw.mit.edu/courses/womens-and-gender-studies)
+
+ **School of Science**
+
+* [Biology](https://ocw.mit.edu/courses/biology)
+* [Brain and Cognitive Sciences](https://ocw.mit.edu/courses/brain-and-cognitive-sciences)
+* [Chemistry](https://ocw.mit.edu/courses/chemistry)
+* [Earth, Atmospheric, and Planetary Sciences](https://ocw.mit.edu/courses/earth-atmospheric-and-planetary-sciences)
+* [Mathematics](https://ocw.mit.edu/courses/mathematics)
+* [Physics](https://ocw.mit.edu/courses/physics)
+
+**Sloan School of Management**
+
+* [Management](https://ocw.mit.edu/courses/sloan-school-of-management)
+
+**Other Programs**
+
+* [Athletics, Physical Education, and Recreation](https://ocw.mit.edu/courses/athletics-physical-education-and-recreation)
+* [Concourse](https://ocw.mit.edu/courses/concourse)
+* [Edgerton Center](https://ocw.mit.edu/courses/edgerton-center)
+* [Experimental Study Group](https://ocw.mit.edu/courses/experimental-study-group)
+
+url:https://reddit.com/r/LifeProTips/comments/fjr5qq/
+author:ExNihiloAdInfinitum
+subreddit:LifeProTips
+score:3047
+numComments:55
+isOver18:False
+hasPostBody:True

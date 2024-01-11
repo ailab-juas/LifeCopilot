@@ -1,0 +1,15 @@
+title:
+LPT camelcamelcamel helps show an Amazon Products price history. This can help.show if the Black Friday deal is actually a deal
+
+content:
+There is a website called camelcamelcamel. It analyzes an Amazon product showing when it was the cheapest and the products price history.
+
+Just because something is 40% off doesn't mean it's a deal. This website is very handy to weed out the fake "Black Friday Deals".
+
+url:https://reddit.com/r/LifeProTips/comments/z3rahu/
+author:KavemanKris
+subreddit:LifeProTips
+score:2117
+numComments:85
+isOver18:False
+hasPostBody:True

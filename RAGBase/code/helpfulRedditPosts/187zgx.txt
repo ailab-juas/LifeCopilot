@@ -1,0 +1,13 @@
+title:
+Since it's that time of the year again, I think it's time I resubmit this: You should know what the Girl Scout Cookies you're buying promote.
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/187zgx/
+author:Minifig81
+subreddit:YouShouldKnow
+score:1166
+numComments:368
+isOver18:False
+hasPostBody:False

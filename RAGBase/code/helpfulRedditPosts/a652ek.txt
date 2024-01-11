@@ -1,0 +1,13 @@
+title:
+YSK that you shouldn't give aspirin to children and teens during and after a viral infection like the flu.
+
+content:
+It can cause [Reye's Syndrome](https://www.mayoclinic.org/diseases-conditions/reyes-syndrome/symptoms-causes/syc-20377255) which can really be a lot more dangerous. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/a652ek/
+author:[deleted]
+subreddit:YouShouldKnow
+score:1878
+numComments:77
+isOver18:False
+hasPostBody:True

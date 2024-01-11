@@ -1,0 +1,15 @@
+title:
+YSK that if you get drunk the night before, you could very well still be legally impaired in the morning. Calculator in the text box.
+
+content:
+http://celtickane.com/projects/blood-alcohol-content-bac-calculator/
+
+There are probably better calculators out there or better yet an app but I wanted to give you an example. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/28q0qj/
+author:maybe-tomorrow
+subreddit:YouShouldKnow
+score:1091
+numComments:189
+isOver18:False
+hasPostBody:True

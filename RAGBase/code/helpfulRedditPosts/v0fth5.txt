@@ -1,0 +1,13 @@
+title:
+YSK Memorial Day honors soldiers who have died while serving in the military, not living soldiers or veterans
+
+content:
+Why YSK: Because Veteran's Day is the holiday that's inclusive of all veterans, living or dead. The subject and tenor of these days is different, and they're often confused.
+
+url:https://reddit.com/r/YouShouldKnow/comments/v0fth5/
+author:theoptionexplicit
+subreddit:YouShouldKnow
+score:2410
+numComments:100
+isOver18:False
+hasPostBody:True

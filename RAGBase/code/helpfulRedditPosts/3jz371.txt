@@ -1,0 +1,14 @@
+title:
+LPT When entering a theme park like Disney or Universal, upon entering go left.
+
+content:
+As most parks are laid out in a wheel-style experience, you'll find most rides over-crowded when going right (with the flow of the herd). Many rides experience bottleneck points as the flow of the park is designed for guests to enter right and work their way around.
+This will save you and your family a lot of time, and hopefully allow for a better overall experience.
+
+url:https://reddit.com/r/LifeProTips/comments/3jz371/
+author:[deleted]
+subreddit:LifeProTips
+score:3048
+numComments:1113
+isOver18:False
+hasPostBody:True

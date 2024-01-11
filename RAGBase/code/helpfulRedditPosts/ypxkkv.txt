@@ -1,0 +1,13 @@
+title:
+YSK that Caesar dressings/Caesar salads are not vegetarian. They contain fish.
+
+content:
+Why YSK:  While salads are a staple to many vegetarian diets, almost all Caesar dressings on the grocery store shelves and in restaurants contain anchovies or anchovy paste.  This makes them not vegetarian-friendly.  I've had to break this bad news to a vegetarian before.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ypxkkv/
+author:theWet_Bandits
+subreddit:YouShouldKnow
+score:9352
+numComments:812
+isOver18:False
+hasPostBody:True

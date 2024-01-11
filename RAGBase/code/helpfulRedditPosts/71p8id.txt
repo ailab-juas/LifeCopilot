@@ -1,0 +1,13 @@
+title:
+YSK If you need to split payments between two cards while buying on Amazon (or most other sites) you can just buy an Amazon gift card with one of your debit/credit cards for whatever amount you would like to spend and then use that newly acquired gift card with your other debit/credit card.
+
+content:
+Most sites will not allow you to use two credit/debit cards for a purchase but they will allow you to use their own gift cards in conjunction with a debit/credit card. For Video tutorial [**Click Here**](https://lifeprotips.co/cheque-regalo-amazon/)
+
+url:https://reddit.com/r/YouShouldKnow/comments/71p8id/
+author:Readditor57
+subreddit:YouShouldKnow
+score:1476
+numComments:69
+isOver18:False
+hasPostBody:True

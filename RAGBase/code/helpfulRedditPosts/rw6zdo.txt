@@ -1,0 +1,17 @@
+title:
+YSK: You’ve Been Automatically Enrolled In Verizon’s New Information Collection System, How To Opt-Out
+
+content:
+https://www.wired.com/story/verizon-user-privacy-settings/
+
+
+
+Why YSK: They enrolled all customers automatically in their system that collects and stores your visited websites and app usage. If you don’t want them to automatically store and use this information, you must opt-out through your settings.
+
+url:https://reddit.com/r/YouShouldKnow/comments/rw6zdo/
+author:invisi8
+subreddit:YouShouldKnow
+score:1939
+numComments:60
+isOver18:False
+hasPostBody:True

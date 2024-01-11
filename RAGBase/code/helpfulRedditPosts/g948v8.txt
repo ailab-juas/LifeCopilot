@@ -1,0 +1,37 @@
+title:
+LPT: Facebook app users, stop being tracked!
+
+content:
+This is something I was completely unaware of prior to this day.
+
+If you use Facebook, and have the Facebook app, chances are it’s tracking everything you’re doing on your device.
+
+***How?***
+
+Through something called ‘off-Facebook activity’. You read that right, Facebook is recording every action, game, Instagram post, bank log ins, pictures, etc. while the Facebook app is not being used.
+
+***Why?***
+
+Debate in the comments.
+
+***How can I stop this from happening and ensure my privacy in my life?***
+
+Turn off Off-Facebook Activity now!
+
+Go into your Facebook settings
+
+Scroll down to the ‘Your Facebook Information’ in which you should find ‘Off-Facebook Activity.’
+
+Once you are in ‘Off-Facebook Activity’ start by clearing your history.
+
+Proceed to ‘Manage Future Activity’ by clicking on the ellipses in the top right corner.
+
+Turn off ‘Future Off-Facebook Activity.’
+
+url:https://reddit.com/r/LifeProTips/comments/g948v8/
+author:GeneralDan29
+subreddit:LifeProTips
+score:6946
+numComments:590
+isOver18:False
+hasPostBody:True

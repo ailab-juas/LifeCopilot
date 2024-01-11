@@ -1,0 +1,15 @@
+title:
+YSK that dandelions and other weeds are an important part of the pollination cycle. Consider weeding in the late spring/early summer when they finish blooming.
+
+content:
+Think of weeds like a starch. They contain key nutrients for insects to survive. A honeybee can’t live off of dandelions and buttercups alone, but they will certainly provide enough pollen to sustain a healthy ecosystem. Remove the weeds, and the pollination ecosystem has a chance of failing. Grass and trees produce pollen, but pollinators require as much diversity in their diet as we do, otherwise they become sickly. When their population grows too low or too unhealthy, pollinators are put at risk of extinction due to invasive species or disease. A good example of this is the rusty bumblebee, which has recently been classified as endangered. Beekeeping isn’t a perfect solution either, and if anything can place the ecosystem under greater stress when done by an amateur. If you have to weed your lawn or garden, please consider planting flowers around your property. This link contains a list of plants and flowers that produce large amounts of pollen: https://www.sunset.com/garden/flowers-plants/plants-pollination
+
+EDIT: This applies differently to Dandelions due to the nature of their germination cycle. They’re honestly a pretty bad example due to the fact that they are an invasive species in North America, but their contribution to the ecosystem should not be outright ignored. Because of how quickly they produce seeds, as well as how many seeds they create per bloom, it’s for the best that you uproot them within a week of the first bloom. Again, please consider planting large pollen producers around your property.
+
+url:https://reddit.com/r/YouShouldKnow/comments/8fc1q3/
+author:Luke-HW
+subreddit:YouShouldKnow
+score:3647
+numComments:155
+isOver18:False
+hasPostBody:True

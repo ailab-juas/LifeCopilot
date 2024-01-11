@@ -1,0 +1,13 @@
+title:
+LPT: if your lazy roommate doesnt wake up to turn off their alarm call their phone and it will turn off the alarm for them.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/7bu677/
+author:zileansupportmain
+subreddit:LifeProTips
+score:3225
+numComments:146
+isOver18:False
+hasPostBody:False

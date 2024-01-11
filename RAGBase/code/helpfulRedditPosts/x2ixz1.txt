@@ -1,0 +1,16 @@
+title:
+LPT - Put a QR Code for Your Home Wifi on Your Fridge
+
+content:
+Go to your wifi settings, Select your home network settings, Click Share, Screenshot then print that QR code and put it on your fridge. I don't have an apple device, but on android it's: Settings &gt; Network &amp; Internet &gt; Internet &gt; [MyHomeNetworkName] [Gear Icon] Settings &gt; Share
+
+
+On behalf of anybody who ever visits your home again... thank you.
+
+url:https://reddit.com/r/LifeProTips/comments/x2ixz1/
+author:TheCheapNinja
+subreddit:LifeProTips
+score:12914
+numComments:954
+isOver18:False
+hasPostBody:True

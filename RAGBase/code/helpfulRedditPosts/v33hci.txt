@@ -1,0 +1,13 @@
+title:
+LPT: If you’re taking something apart for the first time. Take photos of every step.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/v33hci/
+author:stringtheory28
+subreddit:LifeProTips
+score:1310
+numComments:52
+isOver18:False
+hasPostBody:False

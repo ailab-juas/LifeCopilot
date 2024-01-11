@@ -1,0 +1,17 @@
+title:
+YSK that if your adjusted gross income is less than $64,000 you probably qualify for free tax filing software for both your federal AND state taxes. (US only)
+
+content:
+The IRS has a tool that will allow you to input some basic information about yourself (age, income, state, AGI) and it will provide a list of all efile software that will allow you to file your taxes for free and the requirements for free filing with that software. 
+
+[Here's the link.](https://apps.irs.gov/app/freeFile/jsp/index.jsp)
+
+Also note that you never **have** to pay to file your taxes. Even if you make over $64,000, you can always fill out the forms yourself (either with paper, or with [free fillable forms](https://www.irs.gov/uac/before-starting-free-file-fillable-forms)). 
+
+url:https://reddit.com/r/YouShouldKnow/comments/5xv1qw/
+author:mac-0
+subreddit:YouShouldKnow
+score:6027
+numComments:232
+isOver18:False
+hasPostBody:True

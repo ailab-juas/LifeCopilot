@@ -1,0 +1,13 @@
+title:
+LPT: When attending a crowded event, take a moment and memorize your closest exits. In a panic, your instincts will tell you to run back towards the entrance, as will 99% of your fellow attendees. Knowing an alternate way out may save you from getting caught in that crush of panicked people.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/868bfw/
+author:OhStanza
+subreddit:LifeProTips
+score:5035
+numComments:167
+isOver18:False
+hasPostBody:False

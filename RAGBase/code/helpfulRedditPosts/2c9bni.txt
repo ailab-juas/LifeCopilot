@@ -1,0 +1,19 @@
+title:
+LPT: Have dandruff problems and dandruff shampoos are not helping? Try using a sulfate-free shampoo!
+
+content:
+I have suffered from dandruff and itchy scalp since I was young. My skin is not dry anywhere else on my body. I tried all popular brands of dandruff shampoos and conditioners including Neutrogena T-gel (tar shampoo) which was prescribed by a general physician. It helped only a little.
+
+I read about sulfate allergies on reddit. Sodium dodecyl sulfate (aka Sodium lauryl sulfate) is a common foaming ingredient in shampoo and sometimes conditioner. Sulfate-free conditioners are very easy to find, and I switched to L'Oreal Sulfate-Free Everstrong shampoo at $6/bottle. Almost immediately, no more dandruff or itching! 
+
+More shampoos: http://www.sulfatefreeshampoobrandslist.com/
+
+EDIT: Another note, sodium dodecyl sulfate is also in many toothpastes. For a similar reason (drying or allergic reactiveness), it can cause canker sores in a person's mouth. If you have that trouble as I did, switch to a sulfate-free toothpaste as well. Sensodyne has some that are sulfate-free, but you must look at the ingredients.
+
+url:https://reddit.com/r/LifeProTips/comments/2c9bni/
+author:lunescence
+subreddit:LifeProTips
+score:2297
+numComments:629
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,36 @@
+title:
+LPT: Create a bootable SD card for your Mac for emergencies and as a portable Mac when you're away from yours
+
+content:
+Modern Macs allow you to boot off of external drives be it USB, Thunderbolt or an SD card.  What's really great is that you can keep your SD card in your wallet or just about anywhere on you.  Plus, SD cards are cheap and pretty resistant to physical conditions so fairly reliable compared to external HDDs.
+
+http://i.imgur.com/KjdLETR.jpg
+
+1)  Buy a class 10 or faster SD card.  Use 32gb or larger.
+
+2)  Format it to use a GUID partition scheme
+
+3)  Use Carbon Copy Cloner to create a bootable copy of your current startup volume
+
+4)  Hold down the "Option" key upon powerup and select your SD card
+
+
+EDIT1:  Hey sorry for being a little technical.  Just found this walk through for how to create a bootable drive for your Mac.  You simply choose your SD card within the instructions:  
+http://www.youtube.com/watch?v=BeVcHpzVjFw
+
+
+EDIT2:  Reasons to do this at all for non-techie types
+
+Security: When you use a computer not yours, you are subjecting your entire computing experience to being recorded. Without spending a lot of time and having the appropriate access on the computer, you have no idea if malware like key loggers, screen capture, or cameras are enabled. With your own boot drive, the machine you boot off of becomes YOUR machine.
+
+Recovery: If your Mac's startup disk fails, it's difficult (at worst) and time consuming (at best) to recover (if at all). Even if your data is stored on another disk, it would be time consuming to re-install and reconfigure all of your apps and their associated settings. Not all of your settings are backed up online like iCloud does with your iOS device.
+
+Repair: If the primary boot drive of your mac fails, it's possible to fix your boot drive. However, you'd have to boot into another another volume to do so. You could use a recovery disc but it'll only have the most basic tools and take a long time. With a bootable read/write volume, not only can you repair your original startup but you can even use your portable boot volume for day to day work in the interim unlike the repair disc. For laptop owners, you won't have to keep your optical drive with you everywhere. You can duct tape an SD card to your lapto p if you need to.. or just leave it in.
+
+url:https://reddit.com/r/LifeProTips/comments/1nb63e/
+author:1541drive
+subreddit:LifeProTips
+score:1167
+numComments:220
+isOver18:False
+hasPostBody:True

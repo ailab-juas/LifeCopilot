@@ -1,0 +1,36 @@
+title:
+YSK Recycling is not as good for the environment as it is made out to be, and should only be used once more sustainable options have been exhausted.
+
+content:
+When discussing sustainability there is a massive focus on recycling and while a focus on sustainability is good, recycling was never intended to be a top priority. Recycling is often overprioritized and overused, which may result in a net negative effect on the environment due to shipping processes used.
+
+In reality, recycling is intended to be used as a small part of a larger strategy, referred to as "reduce reuse recycle". this is intended as a list of steps/priorities in which recycling comes last. Recycling is last because it is the last resort, and only slightly better than throwing things away. In fact, only 9.1% of plastic sent to be recycled actually gets recycled, the rest is wasted. Before recycling, you should first try to reduce your consumption, reuse what items you can, and if something must be disposed of, see if it can be recycled.
+
+For example:
+
+1. Reduce: Rather than buying a pack of water bottles, only buy one or two reusable ones.
+2. Reuse: Once the bottle is empty, fill it up again.
+3. Recycle: If the bottle is no longer usable for some reason, recycle it.
+
+Some tips:
+
+1. Durable and long-lasting products are more cost-effective and cleaner (LED bulbs).
+2. Maintaining, and replacing small parts is better than replacing an entire device (adding new parts to an old computer). Internet tutorials can help with this stuff.
+3. Large containers produce less waste (buying in bulk).
+
+Edit: Other things to take into consideration:
+
+1. Paper and cardboard can often be composted or recycled very effectively, making it a great material for items that must be disposable.
+2. Metals are great. Not only can they be reused for long periods of time, they can also be recycled efficiently if needed. Some places may even pay for items such as cans.
+3. Reuse often saves money, despite the increased cost upfront. For example, a $6 1000 cycle AA battery, would save you $294 over its lifetime when compared to a 30 cent disposable battery.
+4. Selling or donating items such as old electronics ensures that they are reused, and reduces the need for more items to be manufactured.
+
+Source  [https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling](https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling)
+
+url:https://reddit.com/r/YouShouldKnow/comments/gz7r8p/
+author:cameronh0110
+subreddit:YouShouldKnow
+score:12654
+numComments:336
+isOver18:False
+hasPostBody:True

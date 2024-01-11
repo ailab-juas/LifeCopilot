@@ -1,0 +1,15 @@
+title:
+YSK: The IRS is experiencing systems outage and is not accepting e-filed returns. If you filed recently it will show as "pending".
+
+content:
+https://www.irs.gov/uac/Newsroom/IRS-Statement-on-Experiencing-Systems-Outage 
+
+Edit: Fixed. Thanks /u/scamp41 for the update. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/447mx0/
+author:lechattueur
+subreddit:YouShouldKnow
+score:1821
+numComments:149
+isOver18:False
+hasPostBody:True

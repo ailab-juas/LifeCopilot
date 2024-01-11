@@ -1,0 +1,15 @@
+title:
+YSK Use By, Sell By, Best by, and other dates on food ARE NOT expiration dates and have nothing to do with food safety.
+
+content:
+Why YSK: The vast majority of people think these dates indicate when food should no longer be eaten, but they're usually manufacturer suggestions on when food products may begin to deteriorate in quality and [have no scientific relationship with food safety](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/food-product-dating). [Food waste is a gargantuan issue](https://foodprint.org/issues/the-problem-of-food-waste/) and [deceptive dates on food products are a major contributor](https://www.nrdc.org/experts/nina-sevilla/best-use-new-bill-helps-clarify-date-label-confusion). [Many experts recommend using your senses to determine whether something is safe to eat](https://www.npr.org/2022/07/28/1114335397/expiration-dates-lead-to-lots-of-food-waste-though-these-dates-vary-widely-by-st), which may be before, or more likely well after, the date printed.
+
+Edit: As was rightfully pointed out in the comments, this is true in the U.S. and other countries, but not in all countries. Some countries do have more logical food labeling standards that include a true estimate of the expiration date. Baby formula and food is the one exception in the U.S. whereby there is a federally regulated standard and the date printed is a true expiration date.
+
+url:https://reddit.com/r/YouShouldKnow/comments/yx7oyt/
+author:budgeatapp
+subreddit:YouShouldKnow
+score:1051
+numComments:80
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+YSK If you have Sprint as a mobile provider that around April of ‘19 they started adding 2 billable services without consent, totally $17 per month. If persistent, you can have all charges reversed. Check your bill!
+
+content:
+They added a service called “Safe and Found” ($6.99) and “Lookout Premium” ($9.99) onto my bill without authorization. It took about an hour with their chat, but they finally relented to fill refund of $136 after I threatened to cancel service and report them to the FTC and BBB.
+
+Edit: To all the people arguing against BBB. I don’t care if they don’t have integrity or fair rankings. It was a threat to get them to take this seriously. That’s all.
+
+url:https://reddit.com/r/YouShouldKnow/comments/f6ymei/
+author:cbytes1001
+subreddit:YouShouldKnow
+score:11660
+numComments:384
+isOver18:False
+hasPostBody:True

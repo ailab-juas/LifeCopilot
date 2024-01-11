@@ -1,0 +1,17 @@
+title:
+LPT: "Assuming positive intent" is one of the quickest/easiest ways to sabotage your entire life.
+
+content:
+There was a pretty good post yesterday about how important it is not to assume negative intent, but I noticed that WAY too many people in the comments were swinging it to "Ok! I'll assume positive intent now!" or "How can I learn to always assume positive" or "I tried assuming positive, and it hurt me just as much". Of course it did. 
+
+Both assuming negative and assuming positive is a main-character syndrome error. Most people's intentions are based on THEIR motivations and have little to nothing to do with you at all. You are a side-character in their life. So whenever something bad happens, just assume you were a small factor or not a factor at all in why they did what they did. 
+
+The real rule that serves well in these situations is "If you start to feel like something's malicious, but it could be reasonably explained by incompetence or total lack of consideration, it's the latter".
+
+url:https://reddit.com/r/LifeProTips/comments/rjz3p2/
+author:suddenly_ponies
+subreddit:LifeProTips
+score:2213
+numComments:148
+isOver18:False
+hasPostBody:True

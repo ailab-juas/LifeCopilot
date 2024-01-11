@@ -1,0 +1,13 @@
+title:
+LPT: When choosing ATM pins, don't use any of these combinations. These are the 20 most guessed ATM pins.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/109o4c/
+author:ramrodz90
+subreddit:LifeProTips
+score:1605
+numComments:543
+isOver18:False
+hasPostBody:False

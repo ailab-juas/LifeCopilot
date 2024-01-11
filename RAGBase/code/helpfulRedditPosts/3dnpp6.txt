@@ -1,0 +1,13 @@
+title:
+YSK that if you install windows 10 you lose the ability to control when Windows updates are downloaded
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/3dnpp6/
+author:itisnotatumah
+subreddit:YouShouldKnow
+score:2027
+numComments:506
+isOver18:False
+hasPostBody:False

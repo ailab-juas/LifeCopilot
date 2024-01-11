@@ -1,0 +1,13 @@
+title:
+LPT: If you lock your keys in your car, don't call a locksmith, call a towing company. They will typically unlock your car for less than a locksmith, arrive faster, and are available 24/7
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/4j8aln/
+author:ienjoyapples
+subreddit:LifeProTips
+score:5823
+numComments:1996
+isOver18:False
+hasPostBody:False

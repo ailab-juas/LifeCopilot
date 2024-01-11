@@ -1,0 +1,13 @@
+title:
+LPT: If you are finished with your meal at a restaurant and don't want anything else, chances are your server will bring the check. Even if you want to linger and chat, pay promptly instead of waiting. Your server may be finishing up their shift, and you paying is necessary for them to leave.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/6d7fly/
+author:tanzabonanza
+subreddit:LifeProTips
+score:3550
+numComments:686
+isOver18:False
+hasPostBody:False

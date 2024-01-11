@@ -1,0 +1,16 @@
+title:
+YSK about Forekast - "Crowdsourced Calendar of the Internet" which allows you to easily see notable upcoming events.
+
+content:
+This site is such a great idea, too bad it's barely visited anymore.
+IMHO Reddit should buy it and include it on its site.
+
+www.forekast.com
+
+url:https://reddit.com/r/YouShouldKnow/comments/5rgv7l/
+author:Tirith
+subreddit:YouShouldKnow
+score:1417
+numComments:45
+isOver18:False
+hasPostBody:True

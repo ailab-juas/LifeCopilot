@@ -1,0 +1,13 @@
+title:
+LPT: When backing up a trailer, steer with the bottom of the steering wheel. The direction you turn it is the direction the trailer will move.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/4udqat/
+author:m3s3dup
+subreddit:LifeProTips
+score:4460
+numComments:403
+isOver18:False
+hasPostBody:False

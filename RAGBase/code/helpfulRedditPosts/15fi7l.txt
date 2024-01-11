@@ -1,0 +1,13 @@
+title:
+LPT: Want to help someone cook when there seems to be nothing to do? Start cleaning dishes
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/15fi7l/
+author:RelentlessIdiot
+subreddit:LifeProTips
+score:1901
+numComments:261
+isOver18:False
+hasPostBody:False

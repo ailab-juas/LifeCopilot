@@ -1,0 +1,27 @@
+title:
+LPT: You can set any Skype chat to only notify you when a certain keyword is typed
+
+content:
+If I am in a chat with 20 other people, notifications can become a little overwhelming (especially when the sound effect plays over my music). However, you can stop all notifications within a specific chat window by typing "/alertsoff", and add a custom notification condition like your name "/alertson John". (no quotations)    
+
+&amp;nbsp;
+
+By using these commands, when someone wants your attention, or mentions your name (John) you will still get a notification. In the meantime, you can enjoy your music and catch up on what was said later.    
+
+&amp;nbsp;
+
+The full list of Skype [commands](http://voipnina.com/complete-list-of-skype-commands-skype-chat-command/) offers a lot of other neat tricks as well.
+
+&amp;nbsp;
+
+&amp;nbsp;
+
+EDIT: Several people have commented about simply **not** using Skype, or turning off the notification sound. While these solutions would work for some people, they are useless for me. Group chat locations/applications are not always up for debate, sometimes you may have been added after the fact or it's just the preferred client for everyone else. Also, you do actually want to be notified when something that requires your attention pops up, so disabling the alert sound would defeat the point.
+
+url:https://reddit.com/r/LifeProTips/comments/3abwjd/
+author:fullarr
+subreddit:LifeProTips
+score:2349
+numComments:141
+isOver18:False
+hasPostBody:True

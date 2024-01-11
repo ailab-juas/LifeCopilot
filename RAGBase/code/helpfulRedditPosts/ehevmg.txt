@@ -1,0 +1,13 @@
+title:
+LPT: Work in Customer Service? Put a mirror behind your work station to prevent customers from getting nasty.
+
+content:
+It's a simple psychological trick. If possible, prop a mirror behind your work station/cash register/desk etc. No one wants to see themselves in an unflattering light. Customers will think twice about how they act or de-escalate their nasty behavior if they can see their nasty faces.
+
+url:https://reddit.com/r/LifeProTips/comments/ehevmg/
+author:e_vil_ginger
+subreddit:LifeProTips
+score:7235
+numComments:158
+isOver18:False
+hasPostBody:True

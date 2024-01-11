@@ -1,0 +1,17 @@
+title:
+LPT: Before using your credit card or debit card in ANY machine, make it a HABIT to tug on the card reader with good force. You'll reduce the chances of your card being skimmed...by a lot.
+
+content:
+Information Security Engineer at a Bank reporting in. Users don't realize how easy it is for a credit card to be skimmed while doing day to day activities. I'm currently investigating multiple ATMs getting skimmers installed and looking almost identical to the original reader. ATMs generally are impossible to dismantle with human force. Tug on that reader with all your might. Wiggle it as well. If it moves even slightly, move on. Do not stick your card in it. Call me paranoid but if you see the amount of gas station pumps and atms I've seen get hijacked, you'll understand why tugging is now a religious habit. 
+
+**Edit 1: I didn't think this would blow up. I wrote this sitting from my desk dealing with ATM fraud for work. I'm glad it helped some of you. I'm also sorry in advance for those of you that said this was a repost. I'm a year old redditor and didn't see that it was.**
+
+**Edit 2: I can't answer everyone's questions. I'm trying. For the police officer AMA and becoming a Security Engineer AMA tag me so I get notified.**
+
+url:https://reddit.com/r/LifeProTips/comments/63990q/
+author:iEngineerFL
+subreddit:LifeProTips
+score:22695
+numComments:1986
+isOver18:False
+hasPostBody:True

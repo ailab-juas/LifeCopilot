@@ -1,0 +1,13 @@
+title:
+YSK that Ticketmaster's privacy policy basically states that they will keep your information, they will spam you and that they will sell your information to a third-party so so they can spam you too.
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/1alf8y/
+author:jorsiem
+subreddit:YouShouldKnow
+score:2414
+numComments:149
+isOver18:False
+hasPostBody:False

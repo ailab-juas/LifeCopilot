@@ -1,0 +1,13 @@
+title:
+LPT: If you register for something on a wesbite, enter the site’s name as your own middle name. This way when you get spam or ad emails, you will be able to know exactly who sold your personal info.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ylchea/
+author:RichMind_HappyLife
+subreddit:LifeProTips
+score:7608
+numComments:259
+isOver18:False
+hasPostBody:False

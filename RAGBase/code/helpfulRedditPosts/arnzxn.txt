@@ -1,0 +1,15 @@
+title:
+YSK: Roombas/cleaning robots can have trouble on dark carpets, due to the robot’s cliff sensors interpreting it as the edge of a surface (like a stair)
+
+content:
+https://homesupport.irobot.com/app/answers/detail/a_id/646/~/roomba-400%2C-500%2C-600%2C-700%2C-800-series-and-dark-or-black-surfaces.
+
+Despite what they say, if you don’t have stairs and/or if you have one of the electronic gates, you can cover the sensors to let it clean on the dark carpet. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/arnzxn/
+author:0000000000000007
+subreddit:YouShouldKnow
+score:3166
+numComments:83
+isOver18:False
+hasPostBody:True

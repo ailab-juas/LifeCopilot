@@ -1,0 +1,13 @@
+title:
+LPT: To mute a specific tab on Chrome, click on the sound icon on the right side of the tab
+
+content:
+Edit: A lot of people are saying that this requires messing around with chrome' settings. I just accidentally came across it out without having to mess with the settings and i thought it would be useful to other people 
+
+url:https://reddit.com/r/LifeProTips/comments/2uxpq1/
+author:qwertyevan
+subreddit:LifeProTips
+score:2436
+numComments:148
+isOver18:False
+hasPostBody:True

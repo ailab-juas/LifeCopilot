@@ -1,0 +1,13 @@
+title:
+LPT: Giving advice? Instead of saying “You should ______”, try saying “What’s worked for me in the past is ______”
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/biteoa/
+author:kawaiian
+subreddit:LifeProTips
+score:2549
+numComments:89
+isOver18:False
+hasPostBody:False

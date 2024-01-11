@@ -1,0 +1,19 @@
+title:
+YSK: the new plastic Snapple bottles do not have tamper-resistent seals.
+
+content:
+The new plastic Snapple bottles still use the metal \*pop\* caps. This was effective for glass bottles, however plastic bottles can be squeezed as the cap is placed back on... leaving a vacuum and sealing the bottle again. 
+
+This was well demonstrated by this youtuber: https://www.youtube.com/watch?v=2x5T_u1VTTY&amp;t=86
+
+If you don't know why this is a *serious* risk, do a quick read about the [Chicago Tylenol murders](https://en.wikipedia.org/wiki/Chicago_Tylenol_murders). **7 deaths** due to a lack of tamper-resistant packaging. 
+
+Do not buy plastic Snapple bottles if they have metal caps.
+
+url:https://reddit.com/r/YouShouldKnow/comments/chp6q7/
+author:ProfessorElliot
+subreddit:YouShouldKnow
+score:1892
+numComments:120
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,21 @@
+title:
+YSK: Full-spectrum CBD products contain a small amount of THC
+
+content:
+Why YSK: Using full-spectrum CBD products can cause one to fail a drug test, potentially resulting in loss of employment, discharge from military, violation of parole, etc. Generally speaking the amount of THC contained is not enough to produce intoxication, but the actual amount / ratio of CBD to THC does vary across products, and certain conditions/genetics can result in acute sensitivity to THC.
+
+To avoid THC, stick with isolate or broad-spectrum CBD products. Isolate is CBD and nothing else, while broad-spectrum is CBD and various other cannabinoids (each of which have their own effects). Note, however, that some broad-spectrum products contain *non-detectible* amounts of THC, and theoretically it is possible to use enough of a broad-spectrum CBD product as to test positive for THC.
+
+**EDIT:** I don't mean to suggest that using isolate or broad-spectrum will safely result in a passed drug test, because ([as clarified](https://www.reddit.com/r/YouShouldKnow/comments/x41ex3/comment/imsvyim/?utm_source=share&amp;utm_medium=web2x&amp;context=3) by u/3pinephrine) some tests are looking only for cannabinoids, and with CBD being a cannabinoid it would, naturally, show up. The purpose of this post was primarily re: the presence of THC.
+
+**P.S. This is not a post vilifying THC or cannabis. LEGALIZE IT ALREADY.**
+
+\[[Citation](https://www.medicalnewstoday.com/articles/cbd-isolate-vs-full-spectrum-cbd)\]
+
+url:https://reddit.com/r/YouShouldKnow/comments/x41ex3/
+author:Arcendus
+subreddit:YouShouldKnow
+score:3271
+numComments:200
+isOver18:False
+hasPostBody:True

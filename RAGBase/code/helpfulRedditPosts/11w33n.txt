@@ -1,0 +1,17 @@
+title:
+LPT: I work with my laptop a lot. Here is my way of organising my wires on my desk.
+
+content:
+I got the idea some time ago from a post in Reddit. Took the idea and modified it just a little to fit my needs.
+
+http://imgur.com/a/3a0xj
+
+Hope if helps!
+
+url:https://reddit.com/r/LifeProTips/comments/11w33n/
+author:legodarthvader
+subreddit:LifeProTips
+score:2699
+numComments:312
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,17 @@
+title:
+YSK that the term "Third World Country" arose during the Cold War to define countries that remained non-aligned with either NATO, or the Communist Bloc.
+
+content:
+Just notice it a lot whenever a poor country is being discussed. The preferred Nomenclature is "developed" or "developing"
+
+
+From [wikipedia](https://en.wikipedia.org/wiki/Third_World):
+Because many Third World countries were extremely poor, and non-industrialized, it became a stereotype to refer to poor countries as "third world countries", yet the "Third World" term is also often taken to include newly industrialized countries like Brazil, China and India....This usage, however, has become less preferred in recent years
+
+url:https://reddit.com/r/YouShouldKnow/comments/3we7fl/
+author:juiceboxheero
+subreddit:YouShouldKnow
+score:1808
+numComments:71
+isOver18:False
+hasPostBody:True

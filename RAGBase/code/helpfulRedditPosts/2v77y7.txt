@@ -1,0 +1,13 @@
+title:
+LPT: Weather.gov is better than every other weather website and has no ads.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/2v77y7/
+author:KosherNazi
+subreddit:LifeProTips
+score:2680
+numComments:330
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: Trying to take a group family photo with a crying toddler? Have the photographer fake a high-pitched sneeze. They'll stop crying and look almost every time.
+
+content:
+Ah-chuu!
+
+url:https://reddit.com/r/LifeProTips/comments/94e99f/
+author:terminalcomputer
+subreddit:LifeProTips
+score:1356
+numComments:42
+isOver18:False
+hasPostBody:True

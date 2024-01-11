@@ -1,0 +1,13 @@
+title:
+LPT: Use silica gel packets to get rid of water droplets inside your watch face. 
+
+content:
+Find a packet of unopened silica gel desiccant (You can find this tiny packet almost in every products). Put it inside a tight jar together with your watch and leave it alone for at least 24 hours. 
+
+url:https://reddit.com/r/LifeProTips/comments/12t3co/
+author:CoffeeeCuppp
+subreddit:LifeProTips
+score:1030
+numComments:82
+isOver18:False
+hasPostBody:True

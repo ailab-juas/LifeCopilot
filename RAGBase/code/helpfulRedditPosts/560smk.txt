@@ -1,0 +1,19 @@
+title:
+YSK - The IRS will first contact you by mail if you have unpaid dues. If you get a call stating that they are the IRS, it is most likely a scam.
+
+content:
+Many of you here by this point have likely been called by the 'IRS', many of these calls stating that you have unpaid taxes, some even claiming to threaten legal action if you ignore them.
+
+https://www.irs.gov/uac/newsroom/irs-renews-phone-scam-warning
+
+According to the link above, the IRS will contact you by mail first if you have unpaid taxes. If you get a phone call but don't get mail, odds are you're being scammed.
+
+EDIT: Taxes, not dues. Silly me.
+
+url:https://reddit.com/r/YouShouldKnow/comments/560smk/
+author:ScotchRobbins
+subreddit:YouShouldKnow
+score:4289
+numComments:159
+isOver18:False
+hasPostBody:True

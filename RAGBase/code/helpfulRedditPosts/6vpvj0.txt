@@ -1,0 +1,18 @@
+title:
+YSK: You can download the entirety of wikipedia, and store it on a USB drive
+
+content:
+Wikipedia constantly dumps the database for their entire website. You can go to the link to find the right one for you.
+
+The recommended one is described as "approximately 14 GB compressed, 58 GB uncompressed".
+Use this in case your internet goes out and you gotta do research/kill time!
+
+[Here's the page!](https://en.wikipedia.org/wiki/Wikipedia:Database_download)
+
+url:https://reddit.com/r/YouShouldKnow/comments/6vpvj0/
+author:Cancerbro
+subreddit:YouShouldKnow
+score:19206
+numComments:1293
+isOver18:False
+hasPostBody:True

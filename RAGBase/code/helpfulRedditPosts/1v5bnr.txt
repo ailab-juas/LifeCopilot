@@ -1,0 +1,13 @@
+title:
+YSK, the correct term is "per se" and means "By itself; without consideration of extraneous factors."
+
+content:
+I have seen this 3 times, in as many minutes, spelled as "per say" and I just can't handle it any more. http://en.wiktionary.org/wiki/per_se
+
+url:https://reddit.com/r/YouShouldKnow/comments/1v5bnr/
+author:CandleKnight
+subreddit:YouShouldKnow
+score:1516
+numComments:228
+isOver18:False
+hasPostBody:True

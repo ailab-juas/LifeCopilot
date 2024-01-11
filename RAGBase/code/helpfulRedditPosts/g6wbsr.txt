@@ -1,0 +1,13 @@
+title:
+YSK one 18 inch pizza is more pizza than two 12 inch pizzas
+
+content:
+This will save you money if you are planning for a party! Often times we just think 12+12&gt;18 but not when it comes to surface area!
+
+url:https://reddit.com/r/YouShouldKnow/comments/g6wbsr/
+author:MisterMcMuffinYT
+subreddit:YouShouldKnow
+score:26418
+numComments:1097
+isOver18:False
+hasPostBody:True

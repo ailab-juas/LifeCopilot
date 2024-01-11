@@ -1,0 +1,13 @@
+title:
+YSK: in times of indefinite confinement, it's vital to keep a schedule. Set an alarm. Do a morning exercise routine. Have tea at four. It helps to cope, and keeping yourself busy helps prevent depression.
+
+content:
+Stay strong, peeps.
+
+url:https://reddit.com/r/YouShouldKnow/comments/fm1ndp/
+author:klassz
+subreddit:YouShouldKnow
+score:36308
+numComments:954
+isOver18:False
+hasPostBody:True

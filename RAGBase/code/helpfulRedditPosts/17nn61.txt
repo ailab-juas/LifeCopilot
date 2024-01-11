@@ -1,0 +1,23 @@
+title:
+LPT: If you're sick of being your family's "computer guy", install Ad-block on their computers
+
+content:
+It is truly amazing how much this has reduced the number of requests I receive to look at family members' computers. Now when I go home for the holidays, the once-inevitable "Could you take a look at the computer? It's acting funny." has disappeared.
+
+I tried for years to help them by installing and instructing them on the use of Spybot and various virus blockers, but it never seemed to do any good. Then, just for the heck of it, I installed Adblock on the main family computer a few years ago. Maybe it's just my family, but evidently 90% of the problems they had were caused by ads, presumably the kind that look like Windows messages telling you to install something.
+
+Just as a disclaimer, I do feel a little bad about this. I understand that spreading Adblock around probably hurts content creators. There's a whole debate to be had about that, but I'll leave you to consider that for yourself. If it really bothers you, you could disable Adblock for the pages that they visit that aren't covered in malicious garbage.
+
+As a side note, if they ask you what laptop they should buy, recommend a Mac. I personally don't like using Macs that much, but they're perfect for people who can't figure out how to not get ridiculous virus infections all the time. If they don't want to spend that much, tell them to at least not buy a Toshiba. When it arrives, reinstall Windows without the bloatware.
+
+These tips will not reduce their need for help with printers. Those things are hopeless.
+
+**edit**: Many commenters have expressed good opinions of Toshiba, so I may have been misinformed there.
+
+url:https://reddit.com/r/LifeProTips/comments/17nn61/
+author:radbro
+subreddit:LifeProTips
+score:2250
+numComments:967
+isOver18:False
+hasPostBody:True

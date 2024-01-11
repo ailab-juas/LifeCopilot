@@ -1,0 +1,46 @@
+title:
+LPT: When shopping for electronics, cars, power tools, etc., talk to repairmen first—not salesmen.
+
+content:
+I stumbled upon this LPT by accident shopping for a fridge. I was calling around, and accidentally called a fridge repairman. Turned out to be a very, very helpful 10 minutes of my life. I took his advice and number, and will definitely call him if/when my new fridge has trouble.
+
+Some good questions to ask:
+
+* What [brand/model] of _____ do you own?
+* Where did you buy it?
+* If you could own any [brand/model] of _____, what would it be?
+* What [brand/model] _____ would you recommend to your [family member]?
+* What [brand/model] of _____ do you repair [most/least]?
+
+Things to avoid:
+
+* Talking to repairmen who are also salesmen (e.g., Geek Squad or most computer shops that repair and sell computers)
+* Inexperienced repairmen (should be easy to spot newbies)
+
+As an added bonus of this LPT, you've also established rapport with a repairman when your purchase ends up needing help!
+
+Edit 1: Clarifications:
+
+* As a few redditors have pointed out, consider popularity bias. A product that is higher quality will generally sell more, and thus have more (legitimate) units in repair. I contend that a qualified repairman will know the difference between a shoddiness vs. popularity and recommend accordingly.
+* Note my phrasing "talk to repairmen first." "Repairmen" is both plural and qualified, meaning talk to more than one, and then weigh their suggestions *with* those from salesmen. The (in)consistency of all accounts will be very telling, and you'll be way better off than just talking to salesmen alone.
+
+Edit 2: A similar, [perhaps even more effective approach](http://www.reddit.com/r/LifeProTips/comments/287t4d/lpt_when_shopping_for_electronics_cars_power/ci8e7yz) from /u/aza9999:
+
+&gt; Talk to professionals who use them.
+&gt; Want a new drill or saw? Talk to a builder.
+&gt; Want a new lawn mower? Talk to a gardener/landscaper.
+&gt; Want a car thats reliable and cheap to run? Look at what cars taxi companies use.
+
+Edit 3: Some have scoffed at the notion of repairmen.
+
+* First, attitudes like this (everything is disposable) is why we have this problem in the first place.
+* Second, a *lot* of people have carved out comfortable livings repairing such "disposable" stuff. Check out Craigslist or a map search.
+
+
+url:https://reddit.com/r/LifeProTips/comments/287t4d/
+author:ternarybit
+subreddit:LifeProTips
+score:2765
+numComments:545
+isOver18:False
+hasPostBody:True

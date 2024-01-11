@@ -1,0 +1,13 @@
+title:
+YSK that you can send valentines to children in the hospital for free!
+
+content:
+&lt;https://giving.cincinnatichildrens.org/send-a-valentine&gt;
+
+url:https://reddit.com/r/YouShouldKnow/comments/7w83aj/
+author:movingalong16
+subreddit:YouShouldKnow
+score:2816
+numComments:88
+isOver18:False
+hasPostBody:True

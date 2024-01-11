@@ -1,0 +1,13 @@
+title:
+LPT: If you're a supervisor, praise your employee publicly, but reprimand/constructively criticize privately
+
+content:
+I've worked in too many restaurants where managers will interrupt the entire flow of the busy restaurant to tell someone they're doing something badly... Wait til after the shift unless it's of an urgent nature and even then, pull them aside if possible.
+
+url:https://reddit.com/r/LifeProTips/comments/e4f5ct/
+author:NISCBTFM
+subreddit:LifeProTips
+score:2054
+numComments:72
+isOver18:False
+hasPostBody:True

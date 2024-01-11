@@ -1,0 +1,15 @@
+title:
+YSK that sand is a non renewable resource
+
+content:
+Here's an interesting article on sand mining and it's eco impact
+
+https://e360.yale.edu/features/the-hidden-environmental-toll-of-mining-the-worlds-sand
+
+url:https://reddit.com/r/YouShouldKnow/comments/dhd399/
+author:[deleted]
+subreddit:YouShouldKnow
+score:9430
+numComments:288
+isOver18:False
+hasPostBody:True

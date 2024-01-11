@@ -1,0 +1,13 @@
+title:
+LPT: When you prolong the exhalation phase of breathing through your mouth, the vagus nerve secretes acetylcholine to slow down your heart rate - this helps with anxiety or panic attacks.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/j4ubst/
+author:Newez
+subreddit:LifeProTips
+score:25624
+numComments:458
+isOver18:False
+hasPostBody:False

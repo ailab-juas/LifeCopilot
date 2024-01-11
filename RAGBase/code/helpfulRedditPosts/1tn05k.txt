@@ -1,0 +1,13 @@
+title:
+LPT: Start 2014 off with an empty jar and fill it with notes of good things that happen. On new years eve, empty it and see what awesome stuff happened that year.
+
+content:
+Also, check out [this thread](http://www.reddit.com/r/LifeProTips/comments/13r2af/start_2013_off_with_an_empty_jar_and_fill_it_with/) for good ideas and the original post.
+
+url:https://reddit.com/r/LifeProTips/comments/1tn05k/
+author:ulyssessword
+subreddit:LifeProTips
+score:2853
+numComments:297
+isOver18:False
+hasPostBody:True

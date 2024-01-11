@@ -1,0 +1,19 @@
+title:
+LPT: access google maps offline on your phone
+
+content:
+Just type 'ok maps' into the google maps app and a zoomable map will be saved. 
+
+http://www.wired.com/gadgetlab/2014/02/offline-google-maps
+
+Edit: WOW. Thanks for the love. Hope this helps in all your travels. I know it will in mine. 
+
+Edit 2: Some have mentioned that this a repost. I searched and realized they were right. Oops. But don't hate. I didn't receive any of that sweet sweet karma. 
+
+url:https://reddit.com/r/LifeProTips/comments/1xpw2c/
+author:Munzeeee
+subreddit:LifeProTips
+score:3128
+numComments:341
+isOver18:False
+hasPostBody:True

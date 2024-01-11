@@ -1,0 +1,43 @@
+title:
+LPT: Dont connect to your works wifi with your personal device.
+
+content:
+Their IT department can get more info than you'd be comfortable with. Especially your active traffic. 
+
+Stick to data.
+
+Edit: it's been fun but it's time to turn off notifications for this. Here's some answers to frequent responses:
+
+&gt;I am IT. We don't have time for that.
+
+Computers are capable of automating tasks you don't have time for. HR cares. This industry is booming. If your company isn't using one of these services today, they're getting emails about starting to use it every sungle day until they do. Logs get backed up indefinitely. You don't have permission to delete these logs if your company is worth it's weight in salt. Just Google "employee surveillance" and check out your low cost solutions at your fingertips!
+
+&gt;What about (other network)
+
+Same.
+
+&gt;What about home network on work device?
+
+Same. Set up guest network and connect to that with work devices instead. 
+
+&gt;You're wrong
+
+lol ok good luck.
+
+&gt;something about me getting fired for incompetence or browsing porn
+
+No, someone died in my small office. They were my immediate supervisor, so me and 1 other guy were laid off. Y'all need to chill.
+
+&gt;Something about being in IT and thinking they're above this issue
+
+Please, I invite you to attend defcon. Try to leave without getting your entire identity stolen.
+
+Anyways that's all! It's been fun. Stay safe!
+
+url:https://reddit.com/r/LifeProTips/comments/qqkokl/
+author:foggy-sunrise
+subreddit:LifeProTips
+score:36960
+numComments:4090
+isOver18:False
+hasPostBody:True

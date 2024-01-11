@@ -1,0 +1,13 @@
+title:
+LPT: If Amazon gives you a *refund* for a damaged or defective product, keep that product for 7 days before discarding it. A refund can be retroactively converted into a *return* (leaving you on the hook for a product that you no longer have).
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/fbc4nv/
+author:goodcheapandfast
+subreddit:LifeProTips
+score:6217
+numComments:138
+isOver18:False
+hasPostBody:False

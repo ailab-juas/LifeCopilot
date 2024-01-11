@@ -1,0 +1,13 @@
+title:
+LPT: Unexpectedly finding sand while digging is actually a sign you might have found a trench where pipes or wires are buried. It should be taken as a warning that something might be down there.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/lq77oz/
+author:Bliss266
+subreddit:LifeProTips
+score:3820
+numComments:101
+isOver18:False
+hasPostBody:False

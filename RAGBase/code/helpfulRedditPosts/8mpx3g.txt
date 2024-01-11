@@ -1,0 +1,13 @@
+title:
+LPT: when your ISP raises your bill, call in and say “cancel service” to the automated operator. You’ll be sent to their retention team with no waiting on hold. They will usually take $10-20 off your monthly bill for a year. I do this once a year.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/8mpx3g/
+author:flux_capacitor3
+subreddit:LifeProTips
+score:56063
+numComments:2588
+isOver18:False
+hasPostBody:False

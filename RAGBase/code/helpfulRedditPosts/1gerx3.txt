@@ -1,0 +1,13 @@
+title:
+LPT: Check for water leaking from your toilet tank into the bowl by adding a few drops of food coloring or other water soluble dye (koolaid powder, etc.) to the tank. If color shows up in the bowl before you flush, you have a leak that needs to be fixed.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1gerx3/
+author:_________lol________
+subreddit:LifeProTips
+score:1867
+numComments:143
+isOver18:False
+hasPostBody:False

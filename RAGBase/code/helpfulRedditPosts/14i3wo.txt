@@ -1,0 +1,51 @@
+title:
+LPT: As a science/math major, this is how I improved my college essays using 5 formulas.
+
+content:
+**INTRO EDIT**: WOW I didn't think this would take off so much.  Thanks for the upvotes and the comments.  Just a quick clarification as I read the comments:  the intended audience for this LPT is college undergraduates.  If you are a college student trying to improve your B's to A's, these tips may help you.  If you are an aspiring New Yorker contributor, accomplished editor, or a grammarian, please refer to the comments on the finer points of the word "however," the nuanced use of the semicolon, and the difference between a present participle and a gerund.
+
+I am not a writer or editor. I am a science/math person who struggled with writing in college.  I used the following formulas to improve my essay grades.
+
+Note: I am skipping the usual advice on proofreading, organization, creating a thesis, etc.
+
+A. **Transitions.** Use liberally.  They add fluidity to papers and make you sound less robotic.  Examples include furthermore, therefore, however, in addition, in contrast, and moreover.  Look up more examples.  There are two general formulas to use transitions.  TRANSITION + COMMA + CLAUSE.  SUBJECT + COMMA + TRANSITION + COMMA + PREDICATE.
+
+* ex: Medieval art is characterized by the depiction of religious figures.  **In addition,** art from this period includes the use of precious metals such as gold.
+
+* ex: Ukarine does not have any natural environmental hazards.  The **country, however, experienced** an environmental catastrophe following the Chernobyl disater in 1986.
+
+**EDIT:** Some comments below have brought to my attention that [it may be bad style to start a sentence with "however" though it is grammatically correct.](http://grammar.quickanddirtytips.com/starting-a-sentence-with-however.aspx)
+
+B. **The semicolon.** Considered the "cherry on top" that adds sophistication to a paper.  Use sparingly.  Too often, this punctuation is abused because students needlessly replace a period between two related independent clauses with a semicolon.  DO NOT DO THIS.  My suggestion is to use the semicolon with transitions with the following formula.  CLAUSE 1 + SEMICOLON + TRANSITION + COMMA + CLAUSE 2.
+
+* ex: Heroin is a prodrug that metabolizes into **morphine; therefore,** it has the same effects on the CNS as other opioids.
+
+* ex: Researchers have found that playing violent video games does not cause violent **behavior; on the contrary,** many recent papers suggest violent video games reduce bullying in adolescents.
+
+C. **Not only this, but also that.**  Another winning formula. This should be used as a topic sentence to transition from one topic to another.  Let's say you're writing a paper on the health benefits of exercise.  Your first paragraph is about how exercise improves cardiovascular health.  Your second paragraph is about how exercise has pyschological benefits.  Your topic sentence for your second paragraph can be constructed like this:
+
+* ex: **Not only** does regular exercise prevent cardiovascular disease, **but** research has **also** linked exercise with psychological benefits.
+
+Don't forget the "also."  Common mistake.
+
+D. **Show.**  Use words like show, demonstrate, and indicate to link ideas together in a conclusive way.  This is also a great way to link evidence to commentary or fact with opinion.  It demonstrates logical thinking.  The formula is EVIDENCE + "SHOW" + COMMENTARY.
+
+* ex: The rise in teenage pregnancy in communities that have banned contraceptive education **demonstrates** that abstinence only sex education has no place in the classroom.
+
+If you want to highlight a point or argument, use words like highlight, underline, and underscore.
+
+If the evidence does not directly show a conclusion or the evidence is weak (e.g. a correlation), use words like suggest, imply, and implicate.
+
+E. **The gerund.**  The gerund helps link two ideas in a single sentence.  It also helps vary sentence length and structure.  Again, it adds sophistication and fluidity to a paper.  "Gerunding" is best used with tip #4, which basically converts *show* into *show-ing*.  The basic formula is CLAUSE 1 + GERUND + CLAUSE 2.
+
+* ex: Thoreau's "Civil Disobedience" describes the military as "small movable forts and magazines" **suggesting** that soldiers are mindless drones taking orders from a corrupt government.
+
+**EDIT**: As some redditors have pointed out, this is actually a participle and not a gerund.  I learned some of the finer points of English today.
+
+url:https://reddit.com/r/LifeProTips/comments/14i3wo/
+author:career_changer
+subreddit:LifeProTips
+score:2180
+numComments:159
+isOver18:False
+hasPostBody:True

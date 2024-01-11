@@ -1,0 +1,13 @@
+title:
+YSK that publicly posting a picture of your flight confirmation number and name allows anyone who sees it to make changes to your trip, and even cancel it.
+
+content:
+I've seen this multiple times on various social media. Not a good idea if one of your "friends" has malicious intent!
+
+url:https://reddit.com/r/YouShouldKnow/comments/465av5/
+author:dangzelamb
+subreddit:YouShouldKnow
+score:3493
+numComments:214
+isOver18:False
+hasPostBody:True

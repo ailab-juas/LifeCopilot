@@ -1,0 +1,27 @@
+title:
+YSK that Windows 10 can seriously limit your internet speed
+
+content:
+...unless you fix a setting in CMD.
+
+I could only achieve a 110mbps speed test on a 220mbps connection and it left me scratching my head. Bought new cat6 cables and everything. Turns out after a lot of digging I stumble across a thread saying to enter the following command into CMD:
+
+    netsh int tcp set global autotuninglevel=normal
+
+Instantly after entering that I ran another speed test and voila, the speed I was actually paying for. My PC has been capping my speed for god knows how long without any indication. I hope this helps somebody else.
+
+edit: the following can be used to check your current setting, look for "Receive Window Auto-Tuning Level:"
+
+    netsh interface tcp show global
+
+it seems like the setting is already "normal" for a lot of people, but if yours isn't, it could be hampering your speed without your knowledge. Definitely worth checking.
+
+Thanks for gilding
+
+url:https://reddit.com/r/YouShouldKnow/comments/d6vzet/
+author:Xelerons
+subreddit:YouShouldKnow
+score:3552
+numComments:253
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+YSK that Cambridge University Press is making over 700 higher education textbooks in HTML format free to access online until the end of May 2020
+
+content:
+Please visit [Cambridge University Press Website](https://www.cambridge.org/core/what-we-publish/textbooks) for the list of subjects.
+
+url:https://reddit.com/r/YouShouldKnow/comments/fkp2g3/
+author:pooyanni
+subreddit:YouShouldKnow
+score:17663
+numComments:963
+isOver18:False
+hasPostBody:True

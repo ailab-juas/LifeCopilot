@@ -1,0 +1,13 @@
+title:
+YSK: There is an app called "Continuous Speed Test" that runs auto speed test at regular intervals through out the day and make a list of them. Hope this helps next time you want to argue with your ISP about speed you get
+
+content:
+[deleted]
+
+url:https://reddit.com/r/YouShouldKnow/comments/ks7jo3/
+author:[deleted]
+subreddit:YouShouldKnow
+score:1938
+numComments:74
+isOver18:False
+hasPostBody:True

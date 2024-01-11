@@ -1,0 +1,19 @@
+title:
+LPT: You can drastically increase the performance and decrease the temperature of some laptops running Windows by capping CPU usage at 99%.
+
+content:
+So I recently learned that there is a flaw in Windows laptops that run Intel chips that make them run massively hot and incredibly slow, and this flaw is ridiculously easy to fix, even if it can be a little time consuming.
+
+Go to your power options, click on your power plan, and click "Change Plan Settings", then "Change Advanced Power Settings". Go under "Processor Power Management" in the dropdowns, select "Maximum Processor State", and set both battery and plugged in to 99%. This works on Dell, Acer, and probably other brands that run Intel CPUs.
+
+**If you're like me, who is forever cursed to have their laptops rendered only quasi-functional, you may have to go into your Registry Editor in order to make the option actually display. In RegEdit, go to “Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power", and set CsEnabled to 0. E: As with all registry editing actions, you need to restart your computer for it to take effect.** E: Bolded for emphasis since a lot of people seem to not be seeing this part.
+
+No joke, this one change has made my laptop-- which previously could barely play *Runescape* without sounding it was going to burst into flames-- into something that could be called a passable middle-of-the-road gaming PC. It doesn't overheat if I have a program more complex than a word processor active, stuff crashes less frequently, and my fan can no longer be heard across the house.
+
+url:https://reddit.com/r/LifeProTips/comments/hnzliv/
+author:ih8pkmn
+subreddit:LifeProTips
+score:5993
+numComments:286
+isOver18:False
+hasPostBody:True

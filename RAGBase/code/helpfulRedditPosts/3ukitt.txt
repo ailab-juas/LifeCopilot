@@ -1,0 +1,13 @@
+title:
+LPT: When facing your own dilemmas, pretend you're someone else with the same problems and think about how you would give that person advice. Apply this to yourself.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/3ukitt/
+author:yancy9
+subreddit:LifeProTips
+score:4221
+numComments:254
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+YSK that you should always eat before going food shopping.
+
+content:
+Why YSK: Food shopping on an empty stomach makes you more likely to buy junk food, and extra items you don’t need, thereby leaving you with a larger bill and an unhealthy choice of food
+
+url:https://reddit.com/r/YouShouldKnow/comments/jnb1rv/
+author:Justtheotherwoman
+subreddit:YouShouldKnow
+score:18015
+numComments:354
+isOver18:False
+hasPostBody:True

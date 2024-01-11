@@ -1,0 +1,15 @@
+title:
+YSK that you can hold shift to scroll sideways on most operating systems and applications
+
+content:
+Why YSK: Many times, text, images, and other items run off the edge of the screen, and it can often be a pain to find the scroll bar to scroll right/left. Holding shift and scrolling with your mouse wheel as you normally would will side scroll. This can be a bit of a time saver and can help you access content that sometimes can only be viewed by zooming out (apps/sites don't always have a good way to horizontally scroll)
+
+This may be common knowledge, but I've met enough people who didn't know that maybe it will help someone here as well!
+
+url:https://reddit.com/r/YouShouldKnow/comments/zrp7d4/
+author:Tiffer1234
+subreddit:YouShouldKnow
+score:1656
+numComments:34
+isOver18:False
+hasPostBody:True

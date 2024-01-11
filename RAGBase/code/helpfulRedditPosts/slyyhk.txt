@@ -1,0 +1,19 @@
+title:
+LPT: We live in the Information Era. Please, put as much effort as you can into answering your children's questions regarding everyday things
+
+content:
+"Why does it rain? "What is butter made of?" "Why do we dream?" "Do dogs understand us?"
+
+Children have thousands of questions like that. They want answers, they want to learn.
+
+Use Google and other available tools to search those answers, and you may even learn a thing or two. It can be exhausting sometimes, but the feeling of seeing them understand is worth it.
+
+^(And PLEASE don't use religion. I grew up in a household where 99% of my questions would be answered with "Because God wanted it that way". That's just going to make your child incurious, quiet, and unmotivated to learn.)
+
+url:https://reddit.com/r/LifeProTips/comments/slyyhk/
+author:SauloJr
+subreddit:LifeProTips
+score:21430
+numComments:666
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: When your neighbors are quickly annoyed by your loud music it's mostly because of the mechanical virbration. This is very easy to fix.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/2kzia4/
+author:anphex
+subreddit:LifeProTips
+score:1442
+numComments:444
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: If you don't otherwise use your trip odometers in your car, use the Trip A odometer to track your miles between fill ups, and use your Trip B to track your miles between oil changes.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/m5a2py/
+author:[deleted]
+subreddit:LifeProTips
+score:16756
+numComments:694
+isOver18:False
+hasPostBody:False

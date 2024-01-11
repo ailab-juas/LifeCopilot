@@ -1,0 +1,14 @@
+title:
+LPT: Practice reciting what you've done in your company since you started working there.
+
+content:
+One of the most common interview questions is "Tell me a little bit about your responsibilities for XZY Inc." or "Tell me what you've done since you started working for ABC Co."
+If you cannot instantly jump into the question with your narrative, and instead try to remember what you've done since you started, it will look like you haven't done much and are trying to remember the few things you've done.  A smooth, flowing story makes it look like you were always on top of your game and contributing to the bottom line.
+
+url:https://reddit.com/r/LifeProTips/comments/2vgff9/
+author:begoshi
+subreddit:LifeProTips
+score:3545
+numComments:346
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Your house key is a password. Do not celebrate buying a home by posting a picture of the key!
+
+content:
+Same goes for any work keys etc. it’s absurdly easy to create a duplicate
+
+url:https://reddit.com/r/LifeProTips/comments/qpnoxy/
+author:CrepusculrPulchrtude
+subreddit:LifeProTips
+score:3825
+numComments:417
+isOver18:False
+hasPostBody:True

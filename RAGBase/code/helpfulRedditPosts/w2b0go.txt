@@ -1,0 +1,13 @@
+title:
+LPT: Making a sandwich to be eaten at a later time? Spread condiments between meat/cheese or inside lettuce and NOT directly onto bread.
+
+content:
+This prevents unwanted sogginess. Adding tomatoes? Put those in the center too.
+
+url:https://reddit.com/r/LifeProTips/comments/w2b0go/
+author:Negative_Delay_7586
+subreddit:LifeProTips
+score:1408
+numComments:92
+isOver18:False
+hasPostBody:True

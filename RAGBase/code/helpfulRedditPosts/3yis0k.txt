@@ -1,0 +1,91 @@
+title:
+LPT: How to get the most out of Google/search engines(Boolean searches &amp; additional tricks) - long post, but have always found it very useful for general &amp; specific searches
+
+content:
+This is my first attempt at a proper LPT, so please go easy on me. I'm sure this will be very basic to some people, but hoping others would find this very useful. 
+
+**Wow, my first gilded post! Thanks mysterious person. Hope this proved useful for you!**
+
+A few years back (I've no idea how long ago, to be honest) I discovered in some computer magazine that there exists these hidden tricks within Google to get the best out of their search engine and have been pretty much doing it ever since then.
+
+This will be a somewhat long post, I imagine, but only because there's a lot there.
+
+The various things I'll be covering will be Boolean searches - [this Wikipedia article](https://en.wikipedia.org/wiki/Boolean_algebra) goes into it in greater detail than I will be, as I'll be keeping this as basic as possible (and as basic as I know it!) and various other tricks.
+
+**Boolean searches**
+
+As mentioned earlier, I'm really not going to go into this in a huge amount of detail, especially regarding what is going on behind the scenes, because I genuinely don't know that.
+
+For Google searches, the ones I'd use the most are OR and NOT (AND was included in this, but now I believe that Google recognizes any space as an AND function). **These always need to be entered in all caps, otherwise Google doesn't recognize them as operators**
+
+**OR** would be used when you want to search for multiple variations on something, essentially, and brings back all the searches it finds. Imagine you're looking for motorbikes from all over, but you know they're referred to motorbikes and motorcycles in different places. An example of a search you'd use would be
+
+&gt;motorbike OR motorcycle
+
+This will return all the pages it finds that used either the word motorbike or motorcycle within their text. *I believe that you can also use the character |, making it motorbike|motorcycle, but I think both works equally as well?*
+
+**NOT** is how you would get rid of search results that you know aren't at all useful to you. I would usually use the minus sign (**-**) as opposed to writing NOT. I would usually place this at the end of my search string, but I'm not 100% sure if it matters. *I'm sure someone will confirm if this is the case*
+
+To continue the example from earlier; you're searching for a motorbike, but for whatever reason, it keeps bringing up results for some knock-off brand, we'll make one up and call it Kavasaci. You absolutely don't want this at all, so your search string would look like this:
+
+&gt; motorbike OR motorcycle -Kavasaci 
+
+Make sure there's no space between the minus sign and the word you want to remove. This will remove *all* the search results that mention this particular brand.
+
+Boolean searches are more or less covered now, so I'll move on to other tips and tricks - I'll be ignoring the motorcycle example from earlier and using ones people might actually use frequently.
+
+**site:**
+
+We all know that many sites have an absolutely awful internal search engine, which is either basic as hell, is too confusing to figure out, or just doesn't work whatsoever. You can combat this by using site:, followed by the URL of the site you want to search for, without the www. I'll give some small examples below, but it is only really limited to the amount of websites that are searchable through Google.
+
+&gt;site:reddit.com
+
+&gt;site:reddit.com/r/lifeprotips
+
+&gt;site:linkedin.com
+
+What this is pretty much doing is telling Google to search this very specific website, ignoring every other site.
+
+**" "**
+
+Quotation marks are extremely useful in Google searches, because it tells the search engine to search for the exact word order and phrase within them.
+
+As mentioned earlier, Google recognizes a space as AND (which will return any site that mentions all of the keywords within it). Let's take this example: You're trying to look for a song that you heard on the radio, but you only gleamed maybe one line and the DJ refuses to name the song. If you were to type the lyric into Google like this
+
+&gt;mama just killed a man
+
+It might return a load of results that happened to contain all of these words - maybe a sentence like 
+
+&gt;mama just went to the shop. Back then I would have killed for a cup of tea. I saw someone coming towards me and I realized it was a man
+
+To combat this, you'd use quotation marks around the exact phrase you know that you want to find:
+
+&gt;"mama just killed a man"
+
+This has been a very basic view on how to use Google. A lot of these can be applied to most search engines. To give one last practical example, **lets say you're looking for a new job**, whose description lists your skills, using LinkedIn's search engine. We'll use OR, "", NOT. This will be an example to show looking for specific skills and other keywords that would be useful.
+
+You might look for - 
+
+&gt;HTML OR JavaScript OR PHP media OR internet OR "online media" OR "digital media" -internship -trainee
+
+You might notice above that there is a space between PHP and media. This is taking advantage of the fact that the search engines recognize the space as AND. It is being told that you'd like it to return all results that mention *any* of the keywords from HTML to PHP but *also* any that mention from media to digital media. This can be useful for finding very specific jobs. 
+
+It will also get rid of any results that will mention internship and trainee.
+
+And there we have it. A very basic view on how to use Google and other search engines, to find very specific things when it is required.
+
+A lot of this has been gleaned from the people over at [Boolean Black Belt](http://booleanblackbelt.com/), which while geared towards sourcing talent/recruiting, can be very useful for learning new tricks.
+
+If you have any questions, let me know. I'm sure someone will tell me I misunderstood some concepts and I'll most certainly update this if that's the case.
+
+Edit: Fixed typo. 
+
+Glad so many are finding this useful. There's some extra tips in the comments section that I absolutely recommend people to read. 
+
+url:https://reddit.com/r/LifeProTips/comments/3yis0k/
+author:thisismycuntaccount
+subreddit:LifeProTips
+score:5640
+numComments:493
+isOver18:False
+hasPostBody:True

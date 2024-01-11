@@ -1,0 +1,13 @@
+title:
+LPT: When using public charging stations carry a power block and charge that not your phone or tablet itself
+
+content:
+Recently there has been reports of hacking phones through public charging stations. Your usb plug is a data exchanger as well as a power chord. By charging a power block, even a cheap one or two shot charger, your phone does not connect to the hacked station. I've seen reports of this on the news recently, but first saw a public mention of it on the  old Scorpion tv show. Someone hacked the chargers at an airport and used it in a nepharious way. Always better to be safe then sorry.
+
+url:https://reddit.com/r/LifeProTips/comments/w3l7rx/
+author:brothertuck
+subreddit:LifeProTips
+score:2362
+numComments:164
+isOver18:False
+hasPostBody:True

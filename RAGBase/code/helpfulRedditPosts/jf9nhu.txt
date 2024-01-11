@@ -1,0 +1,15 @@
+title:
+YSK that anyone in the US who doesn’t have access to abortion services can safely order at-home abortion pills from https://aidaccess.org
+
+content:
+Why YSK: many girls and women end up with an unwanted pregnancy. Being able to stop that pregnancy on your own can help keep your life on track. For a donation of your choice, they will send you a package containing everything you need. 
+
+[The Link](https://aidaccess.org)
+
+url:https://reddit.com/r/YouShouldKnow/comments/jf9nhu/
+author:Jg6915
+subreddit:YouShouldKnow
+score:2563
+numComments:379
+isOver18:False
+hasPostBody:True

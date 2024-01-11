@@ -1,0 +1,31 @@
+title:
+YSK how to find out if you're in a hurricane evacuation zone
+
+content:
+I came across [this article](https://wjla.com/news/local/hurricane-evacuation-zone-maryland-virginia) which contains links for tools used by Maryland and Virginia where you can enter your address to see if you're in a hurricane evacuation zone.  Direct links are below.  
+
+[Maryland Hurricane Evacuation Lookup Tool](https://maryland.maps.arcgis.com/apps/InformationLookup/index.html?appid=abef1ee97e254dd7a8b55cc179e29d6c)
+
+[Virginia Hurricane Evacuation Zone Lookup Tool](https://vdemgis.maps.arcgis.com/apps/webappviewer/index.html?id=5797524b9a58440c8dbc06816e060492)
+
+Those is other locations should check to see if their state has a similar tool.
+
+Additional information from FEMA:
+
+* Know your zone. Evacuations are more common than people realize. Many communities have designated evacuation routes and some even have evacuation zones. Make yourself familiar with these evacuation zones, so if your local authorities issue an evacuation order, you’ll know exactly where to go. Be sure to account for your pets, as most local shelters do not permit them. However, by law, public shelters do accept service animals (e.g., dogs). Remember: if a hurricane threatens your community and local officials say it's time to evacuate, don't hesitate -- go early. 
+
+* Complete a family communication plan. Plan how you will assemble your family and loved ones, and anticipate where you will go for different situations. Choose several destinations in different directions so you have options in an emergency, and know the evacuation routes to get to those destinations. Get together with your family and agree on the ways to contact one another in an emergency, identify meeting locations, and make a Family Emergency Communication Plan.
+
+* Sign up for local alerts on your phone. Sign up now so you can stay aware if the weather gets worse. Visit https://www.ready.gov/alerts and learn how to search for local alerts and weather apps that are relevant for hazards that affect your area. Download the FEMA app for disaster resources, weather alerts, and safety tips. Earlier this month, FEMA launched a new feature to its free smartphone app that will enable users to receive push notifications to their devices to remind them to take important steps to prepare their homes and families for disasters. The app also provides a customizable checklist of emergency supplies, maps of open shelters and open recovery centers, tips on how to survive natural and manmade disasters, and weather alerts from the National Weather Service for up to five locations across the nation. 
+
+* Make sure your insurance policies are up to date. Hurricanes have caused eight of the ten costliest disasters in U.S. history and just a few inches of water, or strong winds, can cause tens of thousands of dollars in damage. Many states have increased deductibles for hurricanes and not all hurricane related losses are covered under traditional policies. Also, most homeowners insurance policies do not cover damage or losses from flooding. Flood insurance ensures that consumers have adequate financial protection against the devastating effects of flooding, without having to rely on post-disaster loans (usually paid back with interest) or emergency assistance. If you have insurance, review your policy, ensure you’re adequately covered and understand exclusions, and contact your agent for any changes. If you’re not insured against flood, talk to your agent or visit floodsmart.gov. Renters insurance policies are also available and should be considered as they’re often low-cost methods of protecting your belongings.
+
+* Get prepared now and know what you’re going to do in the event of a hurricane. Planning ahead gives you more options and better control over situations that could become chaotic at the last moment if you’re not ready. To learn more about how to prepare for a hurricane visit ready.gov/hurricanes. Find out about preparedness drills or exercises in your area at ready.gov/prepare.
+
+url:https://reddit.com/r/YouShouldKnow/comments/9f0a61/
+author:Rebel_Saint
+subreddit:YouShouldKnow
+score:1127
+numComments:36
+isOver18:False
+hasPostBody:True

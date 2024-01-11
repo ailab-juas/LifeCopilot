@@ -1,0 +1,13 @@
+title:
+LPT: When teaching someone something, don't preface it with "It's easy". If they struggle when learning, they will be more easily discouraged and frustrated because they failed at something you said would be "easy". Each person learns differently, so "easy" is relative.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/cipjry/
+author:GeForce88
+subreddit:LifeProTips
+score:27773
+numComments:464
+isOver18:False
+hasPostBody:False

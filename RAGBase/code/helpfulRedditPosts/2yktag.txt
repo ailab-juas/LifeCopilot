@@ -1,0 +1,13 @@
+title:
+YSK How Tax Brackets Work
+
+content:
+[This website does a good job of explaining it.](http://blog.taxact.com/how-tax-brackets-work/?utm_source=TaxACT&amp;utm_medium=Tax-Bracket-Calculator&amp;utm_campaign=Learn-More)
+
+url:https://reddit.com/r/YouShouldKnow/comments/2yktag/
+author:Pixiesquasher
+subreddit:YouShouldKnow
+score:1209
+numComments:246
+isOver18:False
+hasPostBody:True

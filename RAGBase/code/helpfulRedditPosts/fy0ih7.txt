@@ -1,0 +1,13 @@
+title:
+LPT If you find yourself procrastinating about exercise, post something on Reddit and match the number of upvotes after 12 hours by doing push-ups.
+
+content:
+12 hours : 11.3k upvotes.
+
+url:https://reddit.com/r/LifeProTips/comments/fy0ih7/
+author:Just-Aman
+subreddit:LifeProTips
+score:14356
+numComments:796
+isOver18:False
+hasPostBody:True

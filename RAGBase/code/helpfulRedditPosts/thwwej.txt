@@ -1,0 +1,13 @@
+title:
+LPT: If you crack an egg and an annoying little bit of shell falls in, the best thing to scoop it out with is another eggshell
+
+content:
+Someone more scientific can probably explain why, but a spoon or a finger just pushes it around. Eggshell just cuts through the raw egg.
+
+url:https://reddit.com/r/LifeProTips/comments/thwwej/
+author:MikeW86
+subreddit:LifeProTips
+score:1812
+numComments:174
+isOver18:False
+hasPostBody:True

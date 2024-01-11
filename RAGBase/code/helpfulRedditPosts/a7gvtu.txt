@@ -1,0 +1,13 @@
+title:
+YSK: If you find a wallet or a purse, you can drop it off at any U.S. post office box and they'll return it to the driver's license address free of charge
+
+content:
+You don't always have to return it to the police station, you can easily walk to a near by post office box.
+
+url:https://reddit.com/r/YouShouldKnow/comments/a7gvtu/
+author:Danel322
+subreddit:YouShouldKnow
+score:12011
+numComments:303
+isOver18:False
+hasPostBody:True

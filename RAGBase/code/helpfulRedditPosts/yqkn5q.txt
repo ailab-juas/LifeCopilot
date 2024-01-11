@@ -1,0 +1,13 @@
+title:
+LPT: If you can commit to a personal or professional task for 21 straight days, you'll have built an habit. After that, if you can keep going on for other 90 days you'll likely have achieved a permanent lifestyle change. this is called the 21/90 rule
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/yqkn5q/
+author:pinturhippo
+subreddit:LifeProTips
+score:2629
+numComments:138
+isOver18:False
+hasPostBody:False

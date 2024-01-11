@@ -1,0 +1,13 @@
+title:
+LPT: If you have to get up in the middle of the night, close one eye before turning on any lights. Open it after you've turned off all the lights again and you'll be able to see in the dark.
+
+content:
+Your eyes adjust much faster to light than to darkness and by closing/covering your eye it will not adjust to the temporary light source. Once you've been to the bathroom, kitchen etc. and you've turned off the lights again, open it (and close the other) and you'll be able to walk back to bed without stumbling into things in the dark.
+
+url:https://reddit.com/r/LifeProTips/comments/2owldr/
+author:swemar
+subreddit:LifeProTips
+score:1089
+numComments:103
+isOver18:False
+hasPostBody:True

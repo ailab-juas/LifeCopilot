@@ -1,0 +1,13 @@
+title:
+LPT Take at least one good Statistics course while you're in college. For most professions, it's by the far the most useful math discipline.
+
+content:
+Unless you're an engineer, statistics is probably going to be the most useful math discipline you'll take.  You'll never use Calculus or Geometry, but statistics comes up all the time, and most people don't understand even basics like the difference between median and mean.  In business, a solid foundation in basic statistics comes in very handy quite often.  Most other math we're forced to learn in school, not so much. 
+
+url:https://reddit.com/r/LifeProTips/comments/4lshg6/
+author:I_Am_Robotic
+subreddit:LifeProTips
+score:5692
+numComments:1818
+isOver18:False
+hasPostBody:True

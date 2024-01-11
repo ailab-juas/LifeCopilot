@@ -1,0 +1,33 @@
+title:
+YSK that sleeping more isn't always better (and I'm not talking about oversleeping)
+
+content:
+There are around 1.5 hour long sleep cycles that our body goes through, each consisting of 4 phases, the last phase being the REM (Rapid Eye Movement) or dreaming phase. On average, we sleep through 5 cycles at night (hence 7.5 hours). The first two phases result in a light sleep while the other 2 are phases of deep sleep.
+
+The important thing is that waking up during the second half of a sleep cycle (in the last 2 phases) disrupts deep sleep, and leaves you tired and groggy. Thus, for eg. if you have just 3 hours of time left to sleep, consider delaying sleep for another hour and setting an alarm for 2 hours, so that you don't wake up in the middle of a deep phase of the second cycle, and instead wake up in a lighter phase.
+
+It's also the reason why it is advised to take short naps of around 25-30 minutes rather than an hour long nap.
+
+TL;DR : We oscillate through periods of light and deep sleep. Waking up during a deep sleep phase feels awful.
+
+Sources: 
+
+https://www.tuck.com/stages/
+
+https://en.m.wikipedia.org/wiki/Sleep_cycle
+
+https://www.psychologytoday.com/intl/blog/between-you-and-me/201307/your-sleep-cycle-revealed
+
+Edit:
+
+I never said sleeping less is a good advice. I know people need 4-6 sleep cycles to get enough rest to work properly. Also that the sleep cycles are dynamic and the duration may vary slightly from person to person.
+
+Also, this may not be very helpful for those for whom the time you take to actually sleep might varies drastically, i.e. you may take just 5 minutes to fall asleep on one day and maybe an hour on the other. I am just pointing out a bodily fact which might be helpful to some people. I am not a sleep specialist either.
+
+url:https://reddit.com/r/YouShouldKnow/comments/c3aayz/
+author:aksharb
+subreddit:YouShouldKnow
+score:4882
+numComments:203
+isOver18:False
+hasPostBody:True

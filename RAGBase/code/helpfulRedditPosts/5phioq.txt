@@ -1,0 +1,13 @@
+title:
+LPT: PC gamers, always keep at least one game that doesn't require an internet connection installed.
+
+content:
+Just spent a weekend with my internet down, would have gone crazy without a few old school RPGs on my PC!
+
+url:https://reddit.com/r/LifeProTips/comments/5phioq/
+author:nathanknaack
+subreddit:LifeProTips
+score:4232
+numComments:552
+isOver18:False
+hasPostBody:True

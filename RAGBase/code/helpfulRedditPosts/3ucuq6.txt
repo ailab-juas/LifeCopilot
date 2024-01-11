@@ -1,0 +1,19 @@
+title:
+LPT: Only use "myself" when you are both doing and receiving an action.
+
+content:
+A simple correct example: "I sent myself an email."
+
+A simple incorrect example: "You can send Andrea or myself an email."
+
+Edit: Source: I have no friends, so you can trust me with grammar advice.
+
+Edit 2: While I have an audience, please don't ever say something like "You can come over to Andrea and I's house for Thanksgiving."
+
+url:https://reddit.com/r/LifeProTips/comments/3ucuq6/
+author:itsjakeandelwood
+subreddit:LifeProTips
+score:2470
+numComments:500
+isOver18:False
+hasPostBody:True

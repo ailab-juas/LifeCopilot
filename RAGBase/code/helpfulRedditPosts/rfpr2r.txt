@@ -1,0 +1,21 @@
+title:
+YSK: Apple just released an update that allows users to assign a legacy contact upon their death. This will allow said contact to access information and photos on their phone/device after their death
+
+content:
+Why YSK: There has been issues for many years with parents or loved ones who have iOS devices and pass away that their loved ones cannot access their phone data after death due to the security measures on the phone. This has caused many memories to be lost as Apple won’t unlock a phone for anyone but the user. 
+
+You need to update to iOS 15.2, released today. It is on any phone above iOS 6s. When you do, go to Settings, then tap your name at the top, then tap Password and Security, the you will see Legacy Contact. 
+
+If you set this up on a parents device, you can help them assign a contact to access the device after their passing.
+
+Here’s the Apple information on the service
+
+https://support.apple.com/en-us/HT212361
+
+url:https://reddit.com/r/YouShouldKnow/comments/rfpr2r/
+author:toastyhoodie
+subreddit:YouShouldKnow
+score:2385
+numComments:78
+isOver18:False
+hasPostBody:True

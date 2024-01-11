@@ -1,0 +1,13 @@
+title:
+YSK about Einstein for Everyone, an easy to understand guide to spacetime, relativity, cosmology and quantum theory
+
+content:
+http://www.pitt.edu/~jdnorton/teaching/HPS_0410/chapters/index.html
+
+url:https://reddit.com/r/YouShouldKnow/comments/1ndovt/
+author:lntrinsic
+subreddit:YouShouldKnow
+score:1873
+numComments:53
+isOver18:False
+hasPostBody:True

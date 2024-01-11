@@ -1,0 +1,13 @@
+title:
+LPT: if you need to defrost your windshield, you can do it more quickly by flipping down both of your sun visors.
+
+content:
+Flipping down the sun visors will direct the air down and back towards the windshield, circulating it a bit more. This will help the hot air stay by the windshield longer instead of traveling along the ceiling to the back of the car.
+
+url:https://reddit.com/r/LifeProTips/comments/ll84gb/
+author:scarycloud
+subreddit:LifeProTips
+score:37709
+numComments:1114
+isOver18:False
+hasPostBody:True

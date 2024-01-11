@@ -1,0 +1,15 @@
+title:
+LPT: Use your shift key to horizontally scroll
+
+content:
+If you are using a ~~standard~~ mouse and need to scroll through large documents (excel sheets for example), pressing the Shift key while scrolling will trigger the horizontal scroll.  
+
+Edit: Standard might not be needed
+
+url:https://reddit.com/r/LifeProTips/comments/yphlj1/
+author:doterobcn
+subreddit:LifeProTips
+score:1251
+numComments:56
+isOver18:False
+hasPostBody:True

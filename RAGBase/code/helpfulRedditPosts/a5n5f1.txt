@@ -1,0 +1,15 @@
+title:
+LPT: If you have an elderly friend on a tight fixed income, offer to look over their cable bill with them. They're probably paying for more than they use.
+
+content:
+My elderly friend has paid $3500 over the past 3 years for TV services. She doesn't own a TV.
+
+This tip applies to everyone, but the elderly seem especially vulnerable to predatory up-selling behavior. (In my area, cable TV+landline phone+internet are through the same company.) Go through the bill line by line and confirm that you know what a charge is and that it is something that is used. If you don't know what something is, call. If something isn't necessary, drop that service. Even if it is necessary, call and see if you can get it cheaper. They won't automatically drop the price for you unless you ask. It may take a lot of talking and jumping through hoops, but even a small deduction can make a difference for someone living on a small retirement income.
+
+url:https://reddit.com/r/LifeProTips/comments/a5n5f1/
+author:sucumber
+subreddit:LifeProTips
+score:22563
+numComments:519
+isOver18:False
+hasPostBody:True

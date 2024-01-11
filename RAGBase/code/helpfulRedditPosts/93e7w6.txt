@@ -1,0 +1,28 @@
+title:
+YSK of the "Dutch Reach", a solution to bikers getting hit by an opening car door
+
+content:
+The problem of bikers getting hit by an opening car door happens every day. Yesterday, someone in Chicago got killed when he swerved to avoid a door and ended getting struck by a car.
+
+Even the most seasoned drivers and car passengers sometimes forget to check behind them before opening their door. A good habit to have is to always reach around with the farther hand to open your door, forcing you to turn your body and head to look behind you.
+
+
+*Edit: Better explanation, courtesy of /u/Anon1sh* --
+
+
+When opening your door, pull the handle with your right hand instead of your left. It forces you to turn your body toward the window and as a result you can glance to see if there are cyclists. At the very least you will likely follow thru on the tendency to look in your mirror before opening the door.
+
+
+Demonstration here:
+
+
+https://99percentinvisible.org/article/dutch-reach-clever-workaround-keep-cyclists-getting-doored/
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/93e7w6/
+author:parserrr
+subreddit:YouShouldKnow
+score:5162
+numComments:449
+isOver18:False
+hasPostBody:True

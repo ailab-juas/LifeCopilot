@@ -1,0 +1,13 @@
+title:
+LPT: Bananas will stay unripe in your fridge for almost 2 weeks.  The outside still turns brown quickly, but the inside stays as it would be if the outside was green.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/zj40m/
+author:Tu4tle
+subreddit:LifeProTips
+score:1579
+numComments:112
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,14 @@
+title:
+LPT: If you have a chore that you actually enjoy, never tell anyone you enjoy it.
+
+content:
+1.  You'll do that chore for the rest of your days, even if you stop enjoying it
+2.  You get no credit for doing that chore, since its really not even a chore, right!?
+
+url:https://reddit.com/r/LifeProTips/comments/6o1e52/
+author:satisfied_cubsfan
+subreddit:LifeProTips
+score:34258
+numComments:1865
+isOver18:False
+hasPostBody:True

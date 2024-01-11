@@ -1,0 +1,13 @@
+title:
+LPT: Before traveling anywhere, always download an offline map of the area. It will save you a ton of nerves in case the wi-fi is weak or you can’t buy local SIM on the airport or upfront.
+
+content:
+Also, buying an e-sim card upfront is always the best option.
+
+url:https://reddit.com/r/LifeProTips/comments/fzvb3u/
+author:milosfon
+subreddit:LifeProTips
+score:53913
+numComments:1019
+isOver18:False
+hasPostBody:True

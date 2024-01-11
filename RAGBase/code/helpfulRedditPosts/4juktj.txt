@@ -1,0 +1,13 @@
+title:
+LPT: Never doubt your ability to brighten someone's life.
+
+content:
+Some people are very lonely and a friendly conversation will literally make their day, even if it seems insignificant to you.
+
+url:https://reddit.com/r/LifeProTips/comments/4juktj/
+author:MischievousMoose
+subreddit:LifeProTips
+score:4729
+numComments:1034
+isOver18:False
+hasPostBody:True

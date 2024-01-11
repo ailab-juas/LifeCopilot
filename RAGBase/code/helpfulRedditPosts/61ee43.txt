@@ -1,0 +1,19 @@
+title:
+LPT: Add all keywords of the job description to your resume at the bottom. In a small font with white color to hide. Get more calls from recruiters.
+
+content:
+In the present day, most of the recruiters get 200+ resumes per day for all the published positions on Job boards. It is difficult for them to go through each resume. So they use software to find the best resume. This software has filters to find the right keywords and it filters the resumes to find the best matches. The filters are applied so that the recruiter gets about 5 good resumes per position. After that, they can find their best candidates from that lot. 
+
+
+I have written a [Reddit post here](https://www.reddit.com/r/cscareerquestions/comments/61b5rf/i_posted_a_fake_job_listing_to_get_a_feel_for/dfdq3oi/) for tips to float your resume to the top. 
+
+
+Hope this helps those who are looking for a job.  
+
+url:https://reddit.com/r/LifeProTips/comments/61ee43/
+author:beingengineer
+subreddit:LifeProTips
+score:2581
+numComments:276
+isOver18:False
+hasPostBody:True

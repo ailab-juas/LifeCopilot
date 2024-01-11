@@ -1,0 +1,23 @@
+title:
+YSK To compare your yearly "raise" to the inflation rate because you might be getting a pay decrease
+
+content:
+Why YSK: Obviously any raise is better than no raise but unless the raise percentage is greater than the inflation percentage you are actually taking a pay decrease or just breaking even.
+
+
+
+Most hourly companies will give their employees around a 15-30 cent raise or something similar every year which is better than nothing. Unless this raise percentage is greater than the inflation percentage you are actually taking a pay decrease or breaking even. 
+
+For example: in the US last year, the estimated inflation rate grew by 4.2% which means unless you got a raise of 4.2% of your income, you are making 4.2% less. 
+
+For someone making $15 an hour, you would need a raise of 63 cents just to match the value of your pay last year. 
+
+Companies know that most people don't look at inflation rates. This allows them to get away with "giving you a raise" to keep you around while actually paying you less.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ntteq4/
+author:clinkyscales
+subreddit:YouShouldKnow
+score:1480
+numComments:59
+isOver18:False
+hasPostBody:True

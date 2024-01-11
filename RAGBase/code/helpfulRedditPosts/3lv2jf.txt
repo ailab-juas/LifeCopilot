@@ -1,0 +1,13 @@
+title:
+LPT: If you see something or someone on the internet that annoys you or makes you angry, you can just exit out of it.
+
+content:
+Even this post.
+
+url:https://reddit.com/r/LifeProTips/comments/3lv2jf/
+author:[deleted]
+subreddit:LifeProTips
+score:3504
+numComments:610
+isOver18:False
+hasPostBody:True

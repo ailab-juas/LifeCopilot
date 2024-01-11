@@ -1,0 +1,13 @@
+title:
+LPT: Healthcare isn’t just meant for the times you’re sick. Health maintenance and screening to prevent illness is superior to treating it
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ti40jg/
+author:HappyFun_Time
+subreddit:LifeProTips
+score:1550
+numComments:141
+isOver18:False
+hasPostBody:False

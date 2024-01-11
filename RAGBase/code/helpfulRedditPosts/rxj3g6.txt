@@ -1,0 +1,13 @@
+title:
+Lpt: if you're out shopping and the cashier asks for an email like it's required don't give it to them. It's just a tactic they teach customer service to get more adverts out to people
+
+content:
+It may seem like common sense but in my customer service job they actively teach everyone to mislead customers into thinking email is required to check out and end up signing up for email spam for the next decade. You'd be surprised how many people on autopilot just give it out then come back and complain about all the spam. Even worse is these companies force their employees to trick their customers like this just to meet arbitrary quotas or be fired. Don't let these companies tactics work!
+
+url:https://reddit.com/r/LifeProTips/comments/rxj3g6/
+author:AngstyCringeLord
+subreddit:LifeProTips
+score:1348
+numComments:224
+isOver18:False
+hasPostBody:True

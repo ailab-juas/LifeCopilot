@@ -1,0 +1,13 @@
+title:
+Just Because The Election Is Over, Does Not Mean That This Subreddit Will Be Accepting Politics or Politic Related Tips. We Will Still Not Accept Them. Keep Those Posts To Their Proper Subreddits. - Thank you.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5c1b95/
+author:Minifig81
+subreddit:LifeProTips
+score:15142
+numComments:0
+isOver18:False
+hasPostBody:False

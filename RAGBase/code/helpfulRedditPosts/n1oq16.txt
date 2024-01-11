@@ -1,0 +1,28 @@
+title:
+YSK: If you pay for something in cash and you're asked "Did you give me a $X bill?", it's to save the staff member's job. Just say yes or no.
+
+content:
+Why YSK: (Note: I'm from the US) When you hand money to a staff member at any establishment, they should be asking you to verify how much you gave them. The last thing they need is to give you $6 in change because you gave them a $10 bill, and have you yell at them because you thought you handed them a $20 bill (and should therefore get $16 in change).
+
+Apparently at my job (I'm a pharmacy tech), someone in the drive-thru left a terrible review because he gave me a $10 bill to pay for a $4 medication, and I had the audacity to ask him "you sent me a $10 bill, correct?" He said it was "bizarre and unnecessary". He gave us a 1/10 JUST for that. Don't be that guy.
+
+The best thing is to tell them exactly what you're giving them right from the get-go. "Here's a $20" or "I've got a dollar and 15 cents here" removes any doubts about what money has been exchanged, and prevents issues about money and change down the line.
+
+Edit: Someone made a good point that if you're an employee, you can just state the amount of money the customer gave you, no need to ask them to verify the amount. Saying "out of a $20" is fine, and then the customer can correct you if it's wrong. I do that when it's a face-to-face transaction, but in this scenario, the patient was in the far drive-thru lane so I had to make sure he heard me correctly, hence why I needed to phrase it as a question
+
+Final edit: Okay everyone, I sincerely appreciate everyone's comments/tips! I'm sorry to everyone who thinks I was just ranting. I really was just surprised that what I did bothered a patient so much so I made this post for anyone else who feels the same way as the patient I dealt with. Some key takeaways/tips I've seen here so far:
+
+1) keep any money handed to you as visible as possible (like on the till/register out of the customer's reach) until the customer is gone
+2) asking people to verify what they gave you can annoy them, so it's better to make statements about the transaction and they can correct you if something is off
+3) for customers, sometimes the cashier might actually not pay attention and shortchange you, so it doesn't hurt to let them know what you gave them beforehand, like "I'll pay with a $20" 
+4) retail sucks
+
+Thanks to everyone who gave me good criticisms, too. I'll adjust what I say/how I say it to patients to make the whole transaction more efficient while keeping the money being exchanged totally transparent
+
+url:https://reddit.com/r/YouShouldKnow/comments/n1oq16/
+author:[deleted]
+subreddit:YouShouldKnow
+score:14848
+numComments:938
+isOver18:False
+hasPostBody:True

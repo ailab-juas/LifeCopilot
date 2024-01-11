@@ -1,0 +1,13 @@
+title:
+LPT: Unlimited free combos from Mcdonald's.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/zxrxf/
+author:neuroghost
+subreddit:LifeProTips
+score:1557
+numComments:572
+isOver18:False
+hasPostBody:False

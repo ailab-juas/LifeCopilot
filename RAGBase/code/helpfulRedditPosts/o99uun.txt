@@ -1,0 +1,13 @@
+title:
+LPT - if you have some information you want to be kept private then don't tell anyone. No matter how close you might be with them. Why? Because you are literally asking them to follow a rule that you yourself didn't follow.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/o99uun/
+author:harlsey
+subreddit:LifeProTips
+score:25095
+numComments:473
+isOver18:False
+hasPostBody:False

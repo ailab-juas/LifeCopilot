@@ -1,0 +1,13 @@
+title:
+LPT: If you’re buying a used car, make sure to check that the check engine light turns on when you insert the key into the 2nd position and the dash lights up. If not, it likely means they removed the bulb to hide a problem.
+
+content:
+Having a friend with or buying a cheap scan tool alleviates this but if you don’t have access to one this is a great way to double check you’re not getting ripped off. 
+
+url:https://reddit.com/r/LifeProTips/comments/76qtr3/
+author:romeomikehotel
+subreddit:LifeProTips
+score:41127
+numComments:1067
+isOver18:False
+hasPostBody:True

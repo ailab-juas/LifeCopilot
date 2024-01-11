@@ -1,0 +1,13 @@
+title:
+LPT: Even if you think someone will turn down an invite based on past behavior, invite them anyway. It shows appreciation and may brighten their day. Who knows, they might say yes this time!
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/65c4ra/
+author:shaebae98
+subreddit:LifeProTips
+score:2302
+numComments:100
+isOver18:False
+hasPostBody:False

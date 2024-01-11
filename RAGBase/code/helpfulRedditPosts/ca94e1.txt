@@ -1,0 +1,13 @@
+title:
+LPT: When going on a first date, think in terms of "will I like them?" instead of "will they like me?"
+
+content:
+Since I've started taking this approach my pre-date anxiety has gone way down and the dates just sort of "flow" better.
+
+url:https://reddit.com/r/LifeProTips/comments/ca94e1/
+author:Keldraga
+subreddit:LifeProTips
+score:4811
+numComments:203
+isOver18:False
+hasPostBody:True

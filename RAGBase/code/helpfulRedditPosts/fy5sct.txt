@@ -1,0 +1,15 @@
+title:
+LPT: when composing a mass email put all recipients into the bcc field and your address in the to.
+
+content:
+This was if anyone replies all they will only reply to you.
+
+Edit:  also try to do this without your email in the to (just a blank email) if that doesn’t work out your email in the to line.
+
+url:https://reddit.com/r/LifeProTips/comments/fy5sct/
+author:ISUTri
+subreddit:LifeProTips
+score:3892
+numComments:162
+isOver18:False
+hasPostBody:True

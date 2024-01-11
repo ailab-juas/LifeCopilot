@@ -1,0 +1,13 @@
+title:
+LPT: If you're interested in an MBA for the learning, you can save yourself the expensive tuition by constructing your own free program online.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/2kq0j7/
+author:atari_ninja
+subreddit:LifeProTips
+score:1466
+numComments:180
+isOver18:False
+hasPostBody:False

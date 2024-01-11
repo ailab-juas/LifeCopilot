@@ -1,0 +1,13 @@
+title:
+Ninite.com, pick your desired applications and install everything automatically at once.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/y9jkl/
+author:berryhill
+subreddit:LifeProTips
+score:1189
+numComments:154
+isOver18:False
+hasPostBody:False

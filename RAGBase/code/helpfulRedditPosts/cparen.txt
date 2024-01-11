@@ -1,0 +1,13 @@
+title:
+YSK that some pond algae can kill your pet.
+
+content:
+[A woman's three dogs all died shortly after swimming in a pond.](https://www.cnn.com/2019/08/11/us/three-dogs-died-algae-trnd/index.html)
+
+url:https://reddit.com/r/YouShouldKnow/comments/cparen/
+author:ravia
+subreddit:YouShouldKnow
+score:6070
+numComments:254
+isOver18:False
+hasPostBody:True

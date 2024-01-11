@@ -1,0 +1,13 @@
+title:
+LPT: Be skeptical of products that say "Clinically proven". That is a marketing term and only says they've done their own private study that is designed to show the result the company wants. It is not the same as a "Scientifically proven" study which is published and open for peer review.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/dr2mxs/
+author:throwitaway0192837
+subreddit:LifeProTips
+score:63781
+numComments:777
+isOver18:False
+hasPostBody:False

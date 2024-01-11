@@ -1,0 +1,18 @@
+title:
+LPT: if someone is explaining something and keeps repeating themselves, there's a good chance that it's because they feel that you're not understanding them.
+
+content:
+By summarising what they are trying to say, it will either reassure them that you do understand or it will highlight exactly where the miss understanding is.
+
+
+EDIT: well this certainly blew up! 
+
+Reading some of the comments, it's clear that a lot of people aren't quite understanding where I'm coming from. Basically what I'm saying is that when people feel like you're not understanding them, some people may repeat themselves. If you summarise what they are saying, it will hopefully reassure them that you understand, if not, at least you'll know which part you don't understand. :p
+
+url:https://reddit.com/r/LifeProTips/comments/6bttzo/
+author:Mrkayne
+subreddit:LifeProTips
+score:18074
+numComments:831
+isOver18:False
+hasPostBody:True

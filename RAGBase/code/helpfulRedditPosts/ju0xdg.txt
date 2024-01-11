@@ -1,0 +1,13 @@
+title:
+YSK: putting unique symbols in your YouTube channel name makes your content harder to find which hurts your popularity
+
+content:
+Why YSK: a lot of youtubers use uncommon symbols that most keyboards can't produce to create their youtube channel but unfortunately that makes searching up their channel and videos hard or impossible when the average user can't type their name into the search bar. This could seriously impact your chances of repeat viewers that might go back and subscribe, etc
+
+url:https://reddit.com/r/YouShouldKnow/comments/ju0xdg/
+author:AnonPinkLady
+subreddit:YouShouldKnow
+score:18391
+numComments:198
+isOver18:False
+hasPostBody:True

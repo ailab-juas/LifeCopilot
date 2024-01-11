@@ -1,0 +1,33 @@
+title:
+YSK: You can hack an excel file to get rid of the password protection
+
+content:
+Why YSK:
+
+If you've been in a situation where you have a password-protected excel file and can't make changes or you forgot your password. There is a way to remove that protection. If you did not know, Excel files are also zip files with coding. The password protection is SHA-512
+
+Changing the excel file extension from .xlsx to .zip allows full access.
+
+Editing the .XML of the workbook and worksheets is where the encrypted password is added near the end of that file that literally says, "sheetProtection" or "workbookProtection" with SHA-512 scrambling. Deleting that string of code removes password protection.
+
+When done. Rezip the file back up and change it from .zip to .xlsx and it will function as a normal excel file that you can edit.
+
+It's much easier to learn this through video than pure explanation.
+
+&amp;#x200B;
+
+&amp;#x200B;
+
+Edit 4/7/2021 3:35 PM PST with DST :
+
+Disclaimer: I  do not own the video posted below. I am not the owner of the Youtube channel Excel Dashboard Templates. I am not employed and not associated with the channel. I only found this channel again because I had to open another password-protected Excel file in order to arrange the data for better screening recently. I forgot how to do the steps. All credit goes where it's due.
+
+Said video explanation: [https://www.youtube.com/watch?v=C5jEUyK0Yrk&amp;t=360s](https://www.youtube.com/watch?v=C5jEUyK0Yrk&amp;t=360s)
+
+url:https://reddit.com/r/YouShouldKnow/comments/mm6vb2/
+author:ChiggaOG
+subreddit:YouShouldKnow
+score:21446
+numComments:517
+isOver18:False
+hasPostBody:True

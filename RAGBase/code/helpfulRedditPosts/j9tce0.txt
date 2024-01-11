@@ -1,0 +1,13 @@
+title:
+LPT: If you wait to have motivation before starting a project, you may wait a long time. However, if you just start, promising yourself that you'll work on it for at least 5 minutes, sometimes the satisfaction of seeing your progress is enough to keep you going long enough to get the job done.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/j9tce0/
+author:ExNihiloAdInfinitum
+subreddit:LifeProTips
+score:3908
+numComments:52
+isOver18:False
+hasPostBody:False

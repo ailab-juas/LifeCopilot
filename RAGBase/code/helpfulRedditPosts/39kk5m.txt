@@ -1,0 +1,25 @@
+title:
+LPT for people who watch Netflix on their laptops: Load it in Internet Explorer or Safari to get 1080p. Google Chrome will only play in 720p.
+
+content:
+I found this out a few weeks ago but with Orange is the New Black out today I figure it's more relevant now. 
+
+https://help.netflix.com/en/node/23742
+
+Edit: I did not expect this to get so many upvotes. I'm glad this was useful advice! Thanks to whoever gilded me also. 
+
+A lot of people are asking about FF, I don't know but I think 720 also. I also have no idea why I said laptop, not desktop (or better yet, computer). It doesn't matter, we're all in the PC Master Race. 
+
+Oh, and as people have pointed out, if you're on Windows 8/8.1 and you don't mind watching in full screen without clicking onto other tabs, the Netflix App on the windows store will play in 1080p/5.1. 
+
+Tbh, Netflix need to get 4K PC support and sort out these chrome issues. 
+
+Now everyone stop commenting and go digest some OitnB in glorious 1080. 
+
+url:https://reddit.com/r/LifeProTips/comments/39kk5m/
+author:Spudguy
+subreddit:LifeProTips
+score:5361
+numComments:2534
+isOver18:False
+hasPostBody:True

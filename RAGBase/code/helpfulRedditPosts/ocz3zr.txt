@@ -1,0 +1,21 @@
+title:
+YSK: If you are at the beach and are being pulled by a current into deeper water, swim parallel to the beach to the right or left, toward the white caps of the breaking waves to free yourself from the riptide.
+
+content:
+Why YSK: If you are caught by a rip current you could exhaust yourself fighting the current and trying to swim directly back to shore. Instead, swim parallel to the beach until you are released by the current. 
+
+If you see an area of calm between waves, do not enter the water at this spot as the space without white caps indicates a dangerous riptide and you may not be able to escape being pulled into deeper water.
+
+If you are caught by a rip current and can't swim to the side stay afloat and signal for help. Let the rip take you out the back until it stops. Then you'll be able to swim back to the beach an alternative way.
+
+[How to identify, avoid and survive rip currents](https://www.surfertoday.com/surfing/how-to-avoid-and-survive-rip-currents)
+
+EDITED: to change call the rip by its proper name. Rip currents are strong offshore flows and often occur when breaking waves push water up the beach face.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ocz3zr/
+author:248_RPA
+subreddit:YouShouldKnow
+score:22347
+numComments:532
+isOver18:False
+hasPostBody:True

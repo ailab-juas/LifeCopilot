@@ -1,0 +1,13 @@
+title:
+LPT: You should only spend your money based on how worthwhile you think it is. If you play a $50 game and you think you'll play it for 500 hours, that's 10 cents an hour. If you wanna buy a $10 shirt that you will wear 500 times, that's 2 cents a wear.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/x4hnya/
+author:AbyssUpdate
+subreddit:LifeProTips
+score:26307
+numComments:1530
+isOver18:False
+hasPostBody:False

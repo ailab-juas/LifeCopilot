@@ -1,0 +1,13 @@
+title:
+LPT: When you can't squeeze more syrup from the Hershey's bottle, fill it with milk, shake, and enjoy a flask of delicious chocolate milk.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/3ilxy7/
+author:finer9
+subreddit:LifeProTips
+score:1725
+numComments:219
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,67 @@
+title:
+LPT Get a dash cam if you haven't already. It'll save you so much trouble, and you'll be able to save awesome driving moments. Here's a guide on dash cams
+
+content:
+Edit: Guys, please don’t blow up my DMs asking for recommendations. I’ve gotten a few hundred now and I don’t feel good about sending links to you all. This isn’t supposed to be an ad, this was supposed to be something you can use as a reference when researching a dash cam. I guarantee almost every dash cam with good ratings will be a good fit for you. Okay back to the post!
+
+An old coworker told me an story about an accident that totaled his truck a while ago. He went through a greenlight, and a lady ran a red and t-boned him, totaling his truck. She paid off a witness at the bus stop and it was basically those two against his word. Fortunately, the bus was coming behind and caught the accident on it's cam. He tracked the bus down, and was able to get the footage from the bus and saved himself from jacked up premiums. 
+
+Here's some advice on picking a dash cam, and towards the bottom there will be some helpful advice on installing a dash cam legally. You heard that, there's a legal and illegal way of installing a dash cam. I don't know everything there is to know about dash cams, but I'm sure at least a handful of people might benefit from this. If you don't have a dash cam, start looking for one after you're done reading.
+
+**Picking a dash cam**
+
+Here are some must have features when picking a dash cam: 
+
+1. Find your price range- I'll be honest, right now isn't a great time to be spending money, but if you don't have a dash cam, you should seriously invest in one (when you can). That's right, this is an INVESTMENT. You're investing money into this in hopes that your insurance company won't jack your rates out the wazoo if you get in a car accident and the other driver pays off witnesses. There are some decent dash cams out there for $50, but I recommend spending at least $100 on one. I won't link or suggest a specific dash cam in order to protect the integrity of this post, but you get what you pay for, unless you get that $50-60 dash cam that I'm thinking of. There are some steals out there. Also, make sure that you get a good micro SD card as well. You can pick one up from Best Buy for less than $10. 
+
+2. Automatic overlapping- Make sure it has "loop" recording so that it'll automatically replace old videos. If you have this, you'll just install it and it'll pretty much take care of itself until it breaks down, but checking to make sure that it's recording every time you put on your seatbelt isn't a bad idea (just do a quick glance at it to check that it's actively recording- usually indicates by a blinking red dot). Odds are, if you have loop recording, you'll have the ability to lock a video so it doesn't get overwritten as the card gets full. 
+
+3. Automatic recording- Another must have for a dash cam is automatic on and off. Dash cams will usually plug into your cigarette lighter and most will turn on and off automatically based on whether the key is in the on/ off position. Don't get some cheapo one where you'll have to manually press a button to turn it on every time you get in your car... This is the equivalent of getting a major in Art History and a minor in computer science. 
+
+4. Camera quality- Make sure that your dash cam has a reasonably clear camera. With dash cams, if you're able to make out the make and model of another car, you're good to go. As long as it's better than a gas station security camera, you're good to go for the most part. Unless you're able to shell out for something upwards of $150, then it probably won't be able to read the license plate of the car in front of you. I usually aim for 1080p or above just so that it'll look less like a pixelated mess on a computer screen in the event that you need to send the footage to somebody. You can always try to say enhance like they do on TV and watch as it magically unpixelates itself, but this has a lower chance of occurring than an entrepreneur major in college landing that sweet 6-digit salary job. 
+
+5. Night time recording- This goes along with number 4, but don't buy a dash cam that suffers from astigmatism and can't record anything at night. With your headlights on, it'll blind the dash cam and everything that's seen in the light will just be washed out due to the contrast in light. Watch dash cam footage from both day and night. Amazon usually has users footage from that specific dash cam. Be the judge and decide whether or not you're okay with the quality, and if the footage is useful. If you're a cameraphile/ videophile, can you pretty please drop a comment describing what to look for in regards of camera specs?
+
+6. Audio recording- What? You'll only capture your three-year-old screaming at the top of their lungs for more goldfish crackers. Wrong. This feature can be completely useful or utterly useless. If it records audio, then it's gonna be up to YOU to use it if you get into a vehicular incident. If you're able to read off the license plate of the car that swiped you, cut you off, and ran for it, then this will be valuable for tracking it down and confirming the identity of the driver if it comes to that. Like I said, most dash cams will have a tough time capturing license plates, but if you're able to read of the license plate of a car, you’ll have an easy time identifying the car and driver that ran off.
+
+These are just the "must haves" for me. If I'm missing anything that you feel is a must, then feel free to mention it below and I'll edit it in later. Here are some features that aren't necessary, but can definitely be nice to have. You can skip this section and go down to the next one
+
+1. Temperature resistance- If you live somewhere sunny, this is a must for you. The inside of your car get hotter than Satan's asscrack on a sunny day, and you'll want a camera that can hold up against that temperature, so check what it's rated for. Edit, u/mattisstillhere mentioned dash cams with super capacitors. These super capacitors are able to hold onto electricity for a longer period of time, and do a lot better in hot conditions, so check these out if you live somewhere with a lot of sun.
+
+2. Gravity sensor- This is just a sensor that looks for a sudden change in g-force. Cameras that have these advertised usually come with a lithium battery that can begin recording if it feels a sudden jolt while the car's off. I've personally never been able to validate this feature, so take this one with a grain of salt.
+
+3. Wide angle view- A wide angle will capture more information at the cost of detail. Honestly this is more of a preference. I'd personally recommend a wide angle just because it'll capture more of what you’re seeing as opposed to just capturing what's directly in front of the lens. 
+
+4. GPS/ Speed logger- Mine definitely doesn't have this feature. You'll only see it in higher end dash cams that cost upwards of $150. This might be useful if you're trying to prove that you weren't speeding, but once again, take this feature with a grain of salt. Save your money and be reasonable when picking a dash cam. Don't be that elitist that brags about their $350 dash cam. 
+
+5. WiFi Data Transfer- Some dash cams advertise this feature. What it does is it allows you to connect your phone to the dash cam and be able to load videos on your phone with it. I've had little success with mine, but if you have fast cellular data, this might be useful during a police report (hopefully you won't ever have an accident that's serious enough for a police report), but once again, this feature has proved gimmicky for me, and transferring video files can take a few long minutes. 
+
+6. 10ft cable- My dash cam came with a 10ft cable that's made the dash look a lot nicer. Most dash cams use a micro-usb cable, so it wouldn't be too hard to find a cable this size, but it's nice if your dash cam came with one. Use it correctly, more on that below. 
+
+7. Rearview/ passenger cam- Some dash cams have cameras in both the front and the rear. This is definitely another useless feature unless you're a rideshare driver/ have an extremely clear view of the rear and happen to get rear ended. Even then, if you get rear ended, a regular dash cam and damage to your vehicle will be more than enough prove that you were stopped. 
+
+**Advice for installing and using a Dash Cam**
+
+I'm kind of happy that you've made it this far. Typing something other than college essays has been fun. I get to use my voice and type informally. I hope I've made this dull topic a little bit more fun to read. Honestly if I read my own post, I would've clicked out 500 words ago, so thank you for sticking around. I hope you install decide to install a dash cam if you haven't already. 
+
+1. Read the manual and learn the buttons and what they do. Seriously, read the manuals for everything, your car, your fridge, everything. They all have valuable information that make using the product a lot easier and more intuitive. 
+
+2. In some states, it's illegal for your dash cam (or anything for that matter) to be obstructing your view of the road. Make sure that the spot that you mount your dash cam is compliant with local laws. Don't let the other insurance company sucker punch you and use this as a reason to not pay out your claim.
+
+3. If your dash cam came with an extra long cable, use it. Loop it around the passenger side of the vehicle and gently push it between where the windshield meets the roofliner, and run it under your glovebox. Use some clear tape or adhesive clips to (discreetly) secure it to your windshield. 
+
+4. Buy a high quality micro SD card. I recommend the ones that are advertised as "high endurance", as these are meant to withstand the constant recording and deleting of large files. The size of the micro SD card doesn't really matter, but a 32GB once is what I recommend. It should hold about 2 hours (don't quote me on this) worth of video at 1080p. If you get in a wreck, your micro SD card will have the footage on it, and you can upload it into a computer to save that footage.
+
+5. If you get into a car accident and you know you're at fault, you're not legally obligated to give footage to the other driver or a cop unless there's probable cause that you committed a crime, or if they have a search warrant. Once again, I’m writing this post from the US so check your country’s laws.
+
+Edit: Added spacing for a few walls of text. Fixed some grammar stuff too. 
+
+I hope you won't ever need to use the dash cam, but 77% of drivers will be in an accident during their lifetime. That's the majority of us, and the average driver will be involved in 3 to 4 accidents in their life. Get a dash cam. Cover your butt and capture other drivers doing stupid things. Make an idiot driver compilation. Hopefully you aren't driving anywhere non-essential during these times, but if you are, take care and be careful. Stay healthy, and drive safe.
+
+url:https://reddit.com/r/LifeProTips/comments/g8xje9/
+author:Kodiak126
+subreddit:LifeProTips
+score:41739
+numComments:1391
+isOver18:False
+hasPostBody:True

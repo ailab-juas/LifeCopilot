@@ -1,0 +1,18 @@
+title:
+LPT: If you are not a morning person, do as much preparation as possible the night before to make the morning go smoother.
+
+content:
+For example:  
+-set an alarm on your coffee maker to auto-brew before you even wake up.
+-lay out your clothes for the day so you don't have to think in the morning.  Just get dressed.  
+-shave at night and save yourself time in the morning.  
+
+I've found these simple techniques help the morning go smoother and make it easier to get out of bed.  What are you doing to ease the process of getting up in the morning?
+
+url:https://reddit.com/r/LifeProTips/comments/6g5p6q/
+author:TheNerdery
+subreddit:LifeProTips
+score:13128
+numComments:802
+isOver18:False
+hasPostBody:True

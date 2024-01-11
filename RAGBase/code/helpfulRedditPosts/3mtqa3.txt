@@ -1,0 +1,13 @@
+title:
+YSK that today is National Coffee Day, and many coffee shops will be giving away free coffee today!
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/3mtqa3/
+author:graphicdesignosaur
+subreddit:YouShouldKnow
+score:1485
+numComments:140
+isOver18:False
+hasPostBody:False

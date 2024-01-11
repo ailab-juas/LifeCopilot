@@ -1,0 +1,13 @@
+title:
+LPT: Don't say stupid shit while on "hold".
+
+content:
+My wife works at a call center for a big name appliance company.  They have a policy that customers cannot be put on hold for more than 5 minutes without a good explanation.  To get around this, the operators will often mute their microphone.  With this, you can’t hear them but they can hear you.  It's amazing what people say when they think no one is listening.  Many customers self-incriminate during this time.  It's all recorded and often used against the customer.  If you don't hear music, the mike is definitely muted.
+
+url:https://reddit.com/r/LifeProTips/comments/4o59e4/
+author:Yuaskin
+subreddit:LifeProTips
+score:1731
+numComments:490
+isOver18:False
+hasPostBody:True

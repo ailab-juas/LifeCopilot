@@ -1,0 +1,14 @@
+title:
+YSK that iOS devices have a built in sleep feature which you can use with Spotify etc
+
+content:
+All you have to do is a set the timer on the clock app, then choose the ringtone as ‘stop playing’ (at the bottom) and start playing your music,
+I’m not sure if this is common knowledge but I found it out yesterday and though y’all should know :)
+
+url:https://reddit.com/r/YouShouldKnow/comments/b0qdb5/
+author:JPxxx5247
+subreddit:YouShouldKnow
+score:1730
+numComments:56
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Instead of asking someone if they need something, ask them if they want it. The subtle shift in language makes you seem more eager to help! For example: “Hey, do you need any help moving in?” vs “Hey, do you want any help moving in?”
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/gpqqtg/
+author:[deleted]
+subreddit:LifeProTips
+score:13848
+numComments:225
+isOver18:False
+hasPostBody:True

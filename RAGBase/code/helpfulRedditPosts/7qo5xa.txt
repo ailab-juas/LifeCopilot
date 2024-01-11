@@ -1,0 +1,13 @@
+title:
+YSK: you can replace your social security number card up to 3 times a year with a limit of 10 times in your lifetime.
+
+content:
+This only applies for the United States. [Source](https://www.ssa.gov/OP_Home/cfr20/422/422-0103.htm)
+
+url:https://reddit.com/r/YouShouldKnow/comments/7qo5xa/
+author:Fire_______
+subreddit:YouShouldKnow
+score:16977
+numComments:645
+isOver18:False
+hasPostBody:True

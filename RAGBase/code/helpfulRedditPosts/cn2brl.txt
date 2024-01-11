@@ -1,0 +1,40 @@
+title:
+YSK Why your textbooks are expensive (and why your teacher just moved to a new edition)
+
+content:
+I worked for the company that ran your school bookstore (k-12 through University).  Now that we're approaching Back 2 School time, there will be numerous posts complaining about your school bookstore.  And while it does indeed suck, the real reasons why teachers use new editions aren't brought up as often.
+
+So here's what's actually happening, so you can be better informed in your complaining.
+
+
+**Price is mostly determined by the publisher.**  The bookstore buys the book (when new) from the publisher.  As publishers don't make money on used books, they often price them rather high to get their money while they can. (more on this later)
+
+**Most of the time, your teacher would rather just stick with an old edition.**  They already know the text, have built their lesson plan around it, and in many cases have some extra copies.
+
+BUT
+
+**If your bookstore can't be reasonably sure they can get enough copies of an older edition, they will most likely tell the teacher they need to move to a newer edition.**  Publisher's don't print old editions of textbooks, so nearly all your bookstore's inventory of an older edition is sourced from buybacks.  As you can imagine, there is less available inventory for an older edition as time goes on.  If the bookstore can only stock 12 copies of the book, and there are 40 kids in the class, that's a problem.
+
+
+which also means that
+
+**The bookstore will only buy back your book if they are reasonably sure it will be used again next year.**  You're not renting the book, you're buying it.  And the bookstore has no reason to buy it back from you unless they know they can sell it again next year.  I know this part sucks, but you can't really blame them for this. 
+
+
+also
+
+
+**The publisher (in most cases) get's no money from old editions.**  So as you can imagine, they do everything in their power to try and push new editions as often as possible.  This is why they love ebooks and online modules.
+
+
+**TLDR**
+
+It's a mix of diminishing availability and publishers trying to maintain sales.  Your teacher and school are often not actively deciding to move to a new edition.
+
+url:https://reddit.com/r/YouShouldKnow/comments/cn2brl/
+author:eltonjohnshusband
+subreddit:YouShouldKnow
+score:1040
+numComments:151
+isOver18:False
+hasPostBody:True

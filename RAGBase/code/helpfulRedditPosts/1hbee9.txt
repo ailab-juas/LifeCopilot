@@ -1,0 +1,13 @@
+title:
+LPT: start changing the password on the family computer every week to a big hard word like "photosynthesis" or "subterfuge" so the kids will have to learn to spell it in order to get on the computer.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1hbee9/
+author:neightdog
+subreddit:LifeProTips
+score:2267
+numComments:229
+isOver18:False
+hasPostBody:False

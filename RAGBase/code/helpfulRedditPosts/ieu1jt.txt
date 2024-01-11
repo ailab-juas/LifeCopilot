@@ -1,0 +1,15 @@
+title:
+YSK In the US, including items that cannot be easily recycled, such as coffee cups, greasy pizza boxes, yogurt cups, and plastic bags in the recycling can cause the entire batch to be rejected and thrown into the landfill. It's better to put fewer, but proper, items in the recycling bin.
+
+content:
+[6 Things You're Recycling Wrong](https://www.nytimes.com/2018/05/29/climate/recycling-wrong-mistakes.html)
+
+As much as we want to be helpful and throw as much as possible into the recycling bin, it will actually cause more harm when we put items that cannot be recycled.  These items are considered contamination and ruin the whole batch.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ieu1jt/
+author:grandlewis
+subreddit:YouShouldKnow
+score:1752
+numComments:108
+isOver18:False
+hasPostBody:True

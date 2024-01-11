@@ -1,0 +1,13 @@
+title:
+LPT: For Mac users, pressing Shift+Option(alt) gives you more precise levels of volume and brightness.
+
+content:
+It gives you four "levels" per square instead of just one. Also, pressing Shift and changing the volume cancels the noise that it makes.
+
+url:https://reddit.com/r/LifeProTips/comments/z8akq/
+author:[deleted]
+subreddit:LifeProTips
+score:1259
+numComments:148
+isOver18:False
+hasPostBody:True

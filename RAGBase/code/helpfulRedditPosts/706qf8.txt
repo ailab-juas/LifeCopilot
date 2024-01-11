@@ -1,0 +1,16 @@
+title:
+YSK In the unlikely even of a nuclear attack, that Ready.gov has pamphlets to help you be...ready.
+
+content:
+In light of the recent Launch of another Korean missile, if you became ever interested in what exactly has been prepared, information wise, for the public. Websites like Ready.gov and the CDC have information regarding this form of public safety. 
+[Including pamphets!](https://www.dhs.gov/xlibrary/assets/prep_nuclear_fact_sheet.pdf)
+
+Additional information can be found on Ready.gov as previously stated, as well as [information regarding radiation contamination](https://emergency.cdc.gov/radiation/).
+
+url:https://reddit.com/r/YouShouldKnow/comments/706qf8/
+author:SamL214
+subreddit:YouShouldKnow
+score:2403
+numComments:261
+isOver18:False
+hasPostBody:True

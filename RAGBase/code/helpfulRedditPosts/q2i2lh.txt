@@ -1,0 +1,13 @@
+title:
+LPT: If you are not prepared to be criticized you will never produce anything meaningful.
+
+content:
+The only way to avoid criticism is to do nothing, say nothing and write nothing. If you are not prepared to be mocked you can't express yourself.
+
+url:https://reddit.com/r/LifeProTips/comments/q2i2lh/
+author:humanmandude
+subreddit:LifeProTips
+score:1155
+numComments:79
+isOver18:False
+hasPostBody:True

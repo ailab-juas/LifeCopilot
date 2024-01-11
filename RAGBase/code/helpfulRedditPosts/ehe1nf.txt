@@ -1,0 +1,19 @@
+title:
+LPT: Don't use the zoom on your phone to take pictures, just crop it later for a better image
+
+content:
+Phone cameras don't have lenses that move to zoom in and out. That means the zoom feature is what's called a digital zoom, which just zooms in on the image and doesn't actually manipulate the lenses to get a true zoom in on the object. That's why the quality degrades the closer you zoom in. 
+
+Unless you have a newer phone with multiple cameras that are built to different focal lengths, zooming in just degrades the overall quality of the image. It also makes it harder to get a clean shot because the more you zoom in the more every little shake and tremble affects the image. 
+
+**Solution:** the image will have the same quality whether you zoom in or not, so just stay zoomed out to eliminate the shake and when you go to crop it out you have a lot more real estate to work with. 
+
+Got the idea after a friend of mine showed me his 6K camera and told me about how now he doesn't need multiple cameras or to mess with it to get different shots. This is because he just crops it out in the editor to be a 1080p video rather than a 6k video. He can essentially get about half a dozen shots with just one camera.
+
+url:https://reddit.com/r/LifeProTips/comments/ehe1nf/
+author:Earnwald
+subreddit:LifeProTips
+score:6264
+numComments:383
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+YSK that Google maps will no longer always show you the fastest route to your destination by default.
+
+content:
+Why YSK: it's a pain having to remember to check and select the faster route.
+Google maps is starting to default to displaying the route with the lightest emissions rather than the shortest travel time.
+Apparently it's only when the ETA for both routes is similar, but nearly 10 minutes is significant for my morning commute.
+
+url:https://reddit.com/r/YouShouldKnow/comments/mz7nww/
+author:notjustapossum
+subreddit:YouShouldKnow
+score:28920
+numComments:1782
+isOver18:False
+hasPostBody:True

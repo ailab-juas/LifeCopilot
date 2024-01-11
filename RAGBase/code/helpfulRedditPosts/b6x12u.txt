@@ -1,0 +1,14 @@
+title:
+YSK , your Amazon prime membership includes thousands of free books .
+
+content:
+Also comic books ,and magazines , manga .
+If u download the Amazon Kindle app ,there is a section called prime reading for your free books some include audiable audiobook . 
+
+url:https://reddit.com/r/YouShouldKnow/comments/b6x12u/
+author:rdit_akont
+subreddit:YouShouldKnow
+score:3686
+numComments:206
+isOver18:False
+hasPostBody:True

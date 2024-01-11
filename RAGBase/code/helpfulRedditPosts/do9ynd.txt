@@ -1,0 +1,13 @@
+title:
+LPT: If your ceiling fan is really dusty you can use a pillow case to clean the blades without having dust rain down on everything below. Not sure how known this trick is but I thought everyone should know.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/do9ynd/
+author:nickko11
+subreddit:LifeProTips
+score:24518
+numComments:718
+isOver18:False
+hasPostBody:False

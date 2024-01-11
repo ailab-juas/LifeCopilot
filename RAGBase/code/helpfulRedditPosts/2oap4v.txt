@@ -1,0 +1,17 @@
+title:
+LPT: My method for giving criticism without offense or discouragement
+
+content:
+If someone is telling me about a project/idea/plan/etc, I give honest critical advice alongside easy "softball" questions for them to answer. 
+
+So for example if a friend wants to start a website business but has no experience with sales/marketing I might start by asking if he can code well enough to do it (knowing beforehand that he most likely is) then follow up by asking how he's going to reach customers.
+
+This prevents "yes man" type support which isn't helpful but also keeps them from thinking their idea sucks or that you only want them to fail.
+
+url:https://reddit.com/r/LifeProTips/comments/2oap4v/
+author:SonichuCWC
+subreddit:LifeProTips
+score:1408
+numComments:188
+isOver18:False
+hasPostBody:True

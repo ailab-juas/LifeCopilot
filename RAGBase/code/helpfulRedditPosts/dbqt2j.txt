@@ -1,0 +1,13 @@
+title:
+LPT: think of purchases as a percentage of your budget/account balance rather than their actual cost.
+
+content:
+I started doing this recently, it means I’m significantly more sensible. Sure that crate of beers might only be 8 pounds but if that’s 30% of what I’ve got left till pay day, is it worth it?
+
+url:https://reddit.com/r/LifeProTips/comments/dbqt2j/
+author:[deleted]
+subreddit:LifeProTips
+score:22692
+numComments:558
+isOver18:False
+hasPostBody:True

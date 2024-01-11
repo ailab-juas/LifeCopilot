@@ -1,0 +1,13 @@
+title:
+LPT: Word 2013 can open and edit PDF files.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/3dxs18/
+author:fa2f
+subreddit:LifeProTips
+score:4514
+numComments:411
+isOver18:False
+hasPostBody:False

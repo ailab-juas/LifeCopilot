@@ -1,0 +1,14 @@
+title:
+YSK: If you find a lost dog that's wearing a collar but no tags, check the buckle
+
+content:
+Why YSK: it's very easy to buy a collar with a metal buckle that can be engraved with the owner's contact info so that the dog doesn't need to wear a jingly tag. There's also 'low profile' tags that slip onto the webbing of the collar that can display information. 
+Tl;Dr: no tags doesn't mean no contact information.
+
+url:https://reddit.com/r/YouShouldKnow/comments/x0d189/
+author:Ok_Kaleidoscope3644
+subreddit:YouShouldKnow
+score:1421
+numComments:46
+isOver18:False
+hasPostBody:True

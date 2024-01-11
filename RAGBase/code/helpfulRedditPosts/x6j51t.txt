@@ -1,0 +1,23 @@
+title:
+YSK: Poisonous pokeberries are easily confused with beneficial elderberries
+
+content:
+Why YSK: They look similar, and you could poison yourself by eating them. Both are ripening now in the Northern Hemisphere.
+
+" Elderberries tend to grow in more of a round cluster, while Pokeberries grow in a straight line, either horizontally or vertically...  The leaves are more of an oblong shape versus a rounded leaf."
+
+For more info:
+
+[https://farmhouse-bc.com/elderberry-vs-pokeberry-knowing-the-difference/](https://farmhouse-bc.com/elderberry-vs-pokeberry-knowing-the-difference/)
+
+[https://www.motherearthliving.com/gardening/plant-profile/elderberry-vs-poke-berry-identification/](https://www.motherearthliving.com/gardening/plant-profile/elderberry-vs-poke-berry-identification/)
+
+Pokeberries are beneficial for wildlife, so they're worth leaving in less conspicous spots.
+
+url:https://reddit.com/r/YouShouldKnow/comments/x6j51t/
+author:2PlasticLobsters
+subreddit:YouShouldKnow
+score:4754
+numComments:203
+isOver18:False
+hasPostBody:True

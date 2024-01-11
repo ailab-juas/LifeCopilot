@@ -1,0 +1,13 @@
+title:
+LPT: If customer service/care isn't entirely helpful, or seems not 100% knowledgeable, politely end the conversation, then call back at another time. To no fault of their own, some employees may not be fully educated on your issue.
+
+content:
+Same goes for non-purchase related phone calls. I find that humans can often give incomplete or wrong information. Calling back may give another person the chance to help with more "tools" at their disposal.
+
+url:https://reddit.com/r/LifeProTips/comments/e7tzxb/
+author:ssjAWSUM
+subreddit:LifeProTips
+score:3363
+numComments:156
+isOver18:False
+hasPostBody:True

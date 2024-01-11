@@ -1,0 +1,13 @@
+title:
+LPT: Do your laundry at night.
+
+content:
+Most utility providers charge off-peak rates for their electricity consumption so running high-use appliances after that time (usually 9:00 p.m.) can you save you 40-50% on electricity. 
+
+url:https://reddit.com/r/LifeProTips/comments/1ctr49/
+author:poppinwheelies
+subreddit:LifeProTips
+score:1257
+numComments:505
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Know how to tell what your breath smells like
+
+content:
+That old blow-into-your-palm-and-smell-it trick doesn't work. Instead, make sure your hand is dry and clean. Optional to wash your hand in non-scented soap. Then proceed to simply lick the back of your hand. Wait a few seconds it to dry up and then smell it. The smell should give you an idea of what your breath smell like.
+
+url:https://reddit.com/r/LifeProTips/comments/1mrsme/
+author:PrivateBrian
+subreddit:LifeProTips
+score:1174
+numComments:421
+isOver18:False
+hasPostBody:True

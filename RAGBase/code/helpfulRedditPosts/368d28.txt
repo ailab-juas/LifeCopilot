@@ -1,0 +1,38 @@
+title:
+LPT: Active 2-Step Verification on your email account
+
+content:
+My email got hacked and my RuneScape account was hacked too.
+
+They were able to change my recovery phone number and email so I can't get back on that email and I have lost the RS account because they have changed my passwords.
+
+Luckily that email was a random email I made for RS and it was only used to make the account and had no other stuff on it.
+
+This is the second time I have had an email hacked. Making a new long password is not enough people! It look me 5 minutes at most to active the 2-Step Verification on my Gmail and implement backup passwords and download the codes. I HIGHLY recommend it because it should really protect your email.
+
+Here is a link to do it on Google: https://www.google.com/landing/2step/
+
+Outlook/Hotmail: http://windows.microsoft.com/en-gb/windows/two-step-verification-faq
+
+Yahoo!: https://help.yahoo.com/kb/turn-two-step-verification-sln5013.html
+
+Facebook?: https://www.facebook.com/notes/facebook-engineering/introducing-login-approvals/10150172618258920
+
+
+Check your password strength here: http://www.passwordmeter.com/
+https://howsecureismypassword.net/
+https://www.microsoft.com/en-gb/security/pc-security/password-checker.aspx
+
+EDIT: Check out this site to findout if the sites you use also have 2 step verification: https://twofactorauth.org/
+
+Trust me. It will take you a few minutes and will save you a lot of hassle in the future.
+
+**DO IT!**
+
+url:https://reddit.com/r/LifeProTips/comments/368d28/
+author:ArosHD
+subreddit:LifeProTips
+score:2097
+numComments:308
+isOver18:False
+hasPostBody:True

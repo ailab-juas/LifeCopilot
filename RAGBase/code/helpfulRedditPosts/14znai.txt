@@ -1,0 +1,13 @@
+title:
+YSK the difference between "discrete" and "discreet"
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/14znai/
+author:horizon
+subreddit:YouShouldKnow
+score:1013
+numComments:69
+isOver18:False
+hasPostBody:False

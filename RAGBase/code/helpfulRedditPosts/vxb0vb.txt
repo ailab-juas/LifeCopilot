@@ -1,0 +1,15 @@
+title:
+LPT Amazon Prime Day "Sales"
+
+content:
+Before buying something on Amazon Prime Day, do a quick internet search to make sure an item is *actually*  on sale. Amazon is adjusting prices on items to then discount them to  the original price. For instance, the Xbox Series X is currently listed  as 16% off ($499.99 with the discount) and they are claiming the  original price is $592.97. The original price is actually $499.99. You  aren't saving anything.
+
+Edit: for those of you mentioning the Xbox Series X is listed as $499.99 with no discount, you are correct. It appears Amazon removed the 16% off from the listing. I have screenshots and archived the webpage locally earlier today.
+
+url:https://reddit.com/r/LifeProTips/comments/vxb0vb/
+author:Copper_Clouds
+subreddit:LifeProTips
+score:28076
+numComments:1540
+isOver18:False
+hasPostBody:True

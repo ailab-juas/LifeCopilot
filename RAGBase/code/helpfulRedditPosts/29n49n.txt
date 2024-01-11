@@ -1,0 +1,13 @@
+title:
+YSK that while flex fuel (like E85) may be cheaper, keep in mind that you can expect to get around 80% of the fuel efficiency of regular unleaded.
+
+content:
+http://www.edmunds.com/fuel-economy/e85-vs-gasoline-comparison-test.html
+
+url:https://reddit.com/r/YouShouldKnow/comments/29n49n/
+author:[deleted]
+subreddit:YouShouldKnow
+score:1028
+numComments:185
+isOver18:False
+hasPostBody:True

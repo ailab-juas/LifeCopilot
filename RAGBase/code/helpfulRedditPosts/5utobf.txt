@@ -1,0 +1,14 @@
+title:
+YSK: If you haven't heard from someone and you're worried something may have happened, you can ask the Police to do a 'Wellness Check'.
+
+content:
+If someone lives very far away and you can't check on them yourself, the police can do a a Wellness Check. They will visit the person's home just to make sure everything is ok.
+If you live in the area then you can also accompany the police there, if you don't want to visit alone.
+
+url:https://reddit.com/r/YouShouldKnow/comments/5utobf/
+author:mnfloro
+subreddit:YouShouldKnow
+score:4275
+numComments:322
+isOver18:False
+hasPostBody:True

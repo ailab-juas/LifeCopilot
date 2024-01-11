@@ -1,0 +1,13 @@
+title:
+LPT: Don't try to save useful life pro tips. You probably have hundreds and will never find the one you need. When you're doing something new ( moving, fishing, etc) just type in fishing and search the subreddit for a quick summary of useful tips. You can do this for anything. Break ups, studies.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/k037w6/
+author:DanielJiha
+subreddit:LifeProTips
+score:50012
+numComments:827
+isOver18:False
+hasPostBody:False

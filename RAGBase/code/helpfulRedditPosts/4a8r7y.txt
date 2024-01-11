@@ -1,0 +1,16 @@
+title:
+Mod Request: Please keep all political tips out of this subreddit. While we encourage EVERYONE to vote, and don't care who you vote for, keep political stuff to your affiliated parties political candidates subreddits and /r/politics.. Thank you!
+
+content:
+Political stuff causes ***way*** too much drama for the small moderator squad that we have in this subreddit so while we encourage you to vote, and don't care who you vote for, please keep your political tips on the affiliated subreddit. It will make our job easier and we'll be able to deal with the tips that need to be dealt with more.
+
+Thank you for your consideration.
+
+
+url:https://reddit.com/r/LifeProTips/comments/4a8r7y/
+author:Minifig81
+subreddit:LifeProTips
+score:5310
+numComments:79
+isOver18:False
+hasPostBody:True

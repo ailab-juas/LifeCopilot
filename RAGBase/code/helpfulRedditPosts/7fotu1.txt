@@ -1,0 +1,16 @@
+title:
+YSK many external WD hard drives integrate the USB-to-SATA logic onto the hard drive instead of using a separate board. If that circuit fails, extracting the data will cost as much as a used car, rather than $20 for a new enclosure that naturally comes with a standard USB-to-SATA bridge.
+
+content:
+A fairly significant number of external drive failures are because the USB-to-SATA bridge failed, and not because the hard drive failed. With these proprietary WD units, you can't just extract the data yourself or get a friend to do it, like you would do with any standards-compliant HDD.
+
+
+The evilness and beauty of this scheme is that most people won't even see it coming until it's too late. That's why it's on you to be an educated consumer and vote with your wallet. I've only seen WD drives with this design, but if other brands are doing it too, please do tell.
+
+url:https://reddit.com/r/YouShouldKnow/comments/7fotu1/
+author:skidmark-steve
+subreddit:YouShouldKnow
+score:1912
+numComments:195
+isOver18:False
+hasPostBody:True

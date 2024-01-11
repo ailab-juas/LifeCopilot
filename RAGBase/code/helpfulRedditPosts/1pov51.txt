@@ -1,0 +1,21 @@
+title:
+YSK about RandomActsOfChristmas, a subreddit where you can play santa to a child in need
+
+content:
+/r/RandomActsOfChristmas
+
+From [What Is RandomActsOfChristmas?](http://www.reddit.com/r/RandomActsOfChristmas/comments/mev8r/what_is_random_acts_of_christmas_click_here_to/)
+
+&gt;What will be on Random Acts of Christmas?
+
+&gt;Our objective at RAoC is to gift the children. It would be an incredible thing if a child could write a letter to Santa and put down a specific toy, and then after they've stuck that letter in the mail, they would receive a package a few weeks later with that very toy inside! Could you imagine how wonderful it would be if a child had the thought of "Santa really does exist!"? For people who are going to request for children, the subject in their submission should contain the following. "Dear Santa, (Age of child(ren) here, Location)" The body of your submission should include a link to the child(ren)'s photo (with your username on a piece of paper/written on a hand) with your circumstances on why you may not be able to give the best Christmas this year, along with a link to an amazon.com wishlist with a few toy requests that the children have made. (It helps to sneak a peak at their actual letters to Santa, or listen closely while your child is on Santa's lap!)
+
+It's an awesome seasonal sub for making miracles happen for kids :)
+
+url:https://reddit.com/r/YouShouldKnow/comments/1pov51/
+author:MeghanAM
+subreddit:YouShouldKnow
+score:1063
+numComments:88
+isOver18:False
+hasPostBody:True

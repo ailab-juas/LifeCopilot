@@ -1,0 +1,17 @@
+title:
+YSK: The Brooklyn Public Library offers free access to their digital library for ages 13-21 in the US
+
+content:
+Why YSK: 
+
+As it becomes more difficult to access digital libraries, and even some physical books, having this access can be the difference between being educated and being ignorant.
+
+[More information about this program](https://www.bklynlibrary.org/books-unbanned)
+
+url:https://reddit.com/r/YouShouldKnow/comments/uo2im0/
+author:QuicklyThisWay
+subreddit:YouShouldKnow
+score:2205
+numComments:63
+isOver18:False
+hasPostBody:True

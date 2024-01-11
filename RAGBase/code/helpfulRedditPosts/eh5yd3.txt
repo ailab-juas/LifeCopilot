@@ -1,0 +1,13 @@
+title:
+LPT: Every time you give your pet a treat, ring a little bell. If your pet ever escapes outside, ring the bell and they’ll come running. Works like a charm when my indoor cat starts getting curious.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/eh5yd3/
+author:scarykira
+subreddit:LifeProTips
+score:1497
+numComments:71
+isOver18:False
+hasPostBody:False

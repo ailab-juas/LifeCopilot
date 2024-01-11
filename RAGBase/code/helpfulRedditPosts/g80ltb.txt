@@ -1,0 +1,13 @@
+title:
+LPT: If you raise your children to enjoy helping you bake and cook in the kitchen, they are less likely to be picky eaters. They will be more inclined to try a wider range of foods if they help prepare them.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/g80ltb/
+author:hostetlm
+subreddit:LifeProTips
+score:65741
+numComments:1637
+isOver18:False
+hasPostBody:False

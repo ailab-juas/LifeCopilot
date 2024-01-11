@@ -1,0 +1,13 @@
+title:
+LPT: Create a contact called "ignore" on your phone.
+
+content:
+Get lots of phone calls from numbers you don't recognize or want to answer?  Create a contact named "ignore".  Whenever you get an unwanted phone call, just add that number to the contact.  If any of those numbers call you'll know not to answer.
+
+url:https://reddit.com/r/LifeProTips/comments/1c953n/
+author:[deleted]
+subreddit:LifeProTips
+score:1392
+numComments:239
+isOver18:False
+hasPostBody:True

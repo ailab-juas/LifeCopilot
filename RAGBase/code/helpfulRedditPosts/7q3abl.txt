@@ -1,0 +1,15 @@
+title:
+YSK that Wikivoyage is a non-commercial version of Wikitravel (no ads) which is part of Wikimedia Foundation.
+
+content:
+They're kind of competitors/rivals - any mention of Wikivoyage is banned on Wikitravel - and Wikivoyage is generally lower down in search results, but has several advantages.
+
+See https://en.wikivoyage.org/wiki/Wikivoyage:Wikivoyage_and_Wikitravel
+
+url:https://reddit.com/r/YouShouldKnow/comments/7q3abl/
+author:keenanpepper
+subreddit:YouShouldKnow
+score:1043
+numComments:10
+isOver18:False
+hasPostBody:True

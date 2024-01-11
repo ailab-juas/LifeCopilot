@@ -1,0 +1,13 @@
+title:
+LPT: If you have a smartphone case, keep a $10 or $20 bill in between the case and the phone, for emergencies.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/scu28/
+author:Brokim
+subreddit:LifeProTips
+score:1051
+numComments:327
+isOver18:False
+hasPostBody:False

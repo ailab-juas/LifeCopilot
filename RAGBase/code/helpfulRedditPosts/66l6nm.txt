@@ -1,0 +1,13 @@
+title:
+LPT: In order to be a better conversationalist, don't ask yes/no questions. Instead, ask ones that require a more thoughtful, in-depth response.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/66l6nm/
+author:MM2236
+subreddit:LifeProTips
+score:17082
+numComments:1118
+isOver18:False
+hasPostBody:False

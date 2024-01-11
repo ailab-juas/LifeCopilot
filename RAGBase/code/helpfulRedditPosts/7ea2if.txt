@@ -1,0 +1,17 @@
+title:
+YSK that ordering UberEats on the web page usually costs more to book than from within the app.
+
+content:
+The app shows a preview of the price, the webpage tells you the price after you are checking out. I was looking up delivery for breakfast on my phone, but typing it in my computer when I noticed that it was $3 more to book online.
+
+This isn't the first time.
+
+This time I deleted the items from my webpage cart and ordered using the app instead.
+
+url:https://reddit.com/r/YouShouldKnow/comments/7ea2if/
+author:StcStasi
+subreddit:YouShouldKnow
+score:2120
+numComments:169
+isOver18:False
+hasPostBody:True

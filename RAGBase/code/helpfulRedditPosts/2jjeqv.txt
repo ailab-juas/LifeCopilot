@@ -1,0 +1,15 @@
+title:
+YSK about this site that aggregates and sorts all the top educational resources from across the web
+
+content:
+IntroLearn is a website which provides sorted collections of the most highly acclaimed educational resources from across the web. Topics include computer programming, philosophy, science, math, self-development and more.
+
+Check it out here: [introlearn.com](http://introlearn.com/)
+
+url:https://reddit.com/r/YouShouldKnow/comments/2jjeqv/
+author:[deleted]
+subreddit:YouShouldKnow
+score:1504
+numComments:45
+isOver18:False
+hasPostBody:True

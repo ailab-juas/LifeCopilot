@@ -1,0 +1,15 @@
+title:
+YSK that if you ever have to administer an EpiPen to someone experiencing anaphylaxis, you still need to call an ambulance immediately for further treatment.
+
+content:
+EpiPen injections are rapid but their effects are short-lived. Even if the person in anaphylaxis seems to respond positively to the EpiPen, they are at risk for a further reaction once the injection wears off. 
+
+You also need to inform emergency personnel need to be informed that an EpiPen was administered so that they can provide appropriate treatment.
+
+url:https://reddit.com/r/YouShouldKnow/comments/3afg7t/
+author:stumblepretty
+subreddit:YouShouldKnow
+score:1866
+numComments:139
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: For you dog owners out there.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/3bgdr2/
+author:chachally
+subreddit:LifeProTips
+score:4951
+numComments:1148
+isOver18:False
+hasPostBody:False

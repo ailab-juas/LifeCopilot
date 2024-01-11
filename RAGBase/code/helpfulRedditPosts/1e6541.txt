@@ -1,0 +1,13 @@
+title:
+LPT: Call your mom
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1e6541/
+author:MrVanillacoke
+subreddit:LifeProTips
+score:1679
+numComments:299
+isOver18:False
+hasPostBody:False

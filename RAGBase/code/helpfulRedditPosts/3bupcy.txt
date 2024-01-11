@@ -1,0 +1,13 @@
+title:
+LPT: When turning on a light to use the bathroom during the night, only open one eye. When you turn the light off to go back to bed, switch which eye you have open. It won't have adjusted to the light and you'll be able to see better.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/3bupcy/
+author:Positively4thSt
+subreddit:LifeProTips
+score:2007
+numComments:483
+isOver18:False
+hasPostBody:False

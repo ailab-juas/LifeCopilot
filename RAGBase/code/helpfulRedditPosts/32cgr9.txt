@@ -1,0 +1,13 @@
+title:
+LPT: If you owe someone money, be proactive and go give it to them. Don't wait for them to ask for it.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/32cgr9/
+author:dale-x
+subreddit:LifeProTips
+score:3002
+numComments:414
+isOver18:False
+hasPostBody:False

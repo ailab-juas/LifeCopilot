@@ -1,0 +1,13 @@
+title:
+Alcoholic gummy bears
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/y3e6r/
+author:dubplate
+subreddit:LifeProTips
+score:1129
+numComments:388
+isOver18:False
+hasPostBody:False

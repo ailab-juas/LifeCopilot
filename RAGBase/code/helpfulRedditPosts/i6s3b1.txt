@@ -1,0 +1,13 @@
+title:
+LPT: When beginners ask a question about something you're knowledgeable about, don't be pedantic.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/i6s3b1/
+author:[deleted]
+subreddit:LifeProTips
+score:8744
+numComments:233
+isOver18:False
+hasPostBody:True

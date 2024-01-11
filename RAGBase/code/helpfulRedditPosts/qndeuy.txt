@@ -1,0 +1,19 @@
+title:
+LPT: Ask Before Doing an Impromptu Video Call During Work
+
+content:
+A new person did this two times in the span of a day - gave me a video call request out of the blue with no context. Both times I was in the middle of an important meeting - I rejected the first time and continued with my meeting (we’re doing an ERP implementation and getting ready to go public so it’s been chaos), and the second time he did this, I messaged him to please ping me or set up time on my schedule if he needed to chat with me since I was in a meeting. He knows I’m constantly in meetings too (his boss had already mentioned this to him). Anddddd then a third time comes, where he pings me saying “hey got time to chat it’ll be real quick” and sends me a request right after without waiting for my response.
+
+Please, please do not do this - rather, you should ping the person and quickly ask if they're available to video chat about XYZ. There may be some people that don't mind, but for the majority of us, this is the wrong approach. I know COVID has threw a wrench into how we work, but this is akin to someone just walking into your closed office door. The ping asking if we're available is the knock of the door, and the message of what the quick meeting request is about is basically the short blurb after someone knocks like "Hey, you got a minute?" The reason why the call is no longer the knock, is because you have NO physical cue as to what the other person is busy with. In the past, headphones in while sitting at your cube was a good indication someone was in the middle of their flow. Most offices have windows where you can see if someone is, for example, on the phone or talking to someone else in their office. Calling someone out of the blue, with no context, assumes you are available just for them at their whim and gives off the feeling you don’t respect their time.
+
+Edit: Since the comments were all over the place, I edited the post for context since there are a lot of different points going on and I wanted to make sure I was clear why this is important - it’s not about whether it’s a video call or not, it’s about interrupting someone’s day with a small item that can be either pinged or emailed. Some people prefer the chat about things, which is totally ok - but respect the persons time you’re asking for by making sure they’re available.
+
+Edit #2: An additional item to emphasize - yes, while some of you don’t mind this, others do. Typically they end up minding this more the busier they are and where they sit in the hierarchy. Consider if you would randomly video call your CEO with no advance notice, vs a staff. So it’s important to consider your audience, and with etiquette, it’s safer to err on the side of caution. And if you would still do so? Well, I sure admire your balls, so no hate from me there. Anyways this is just a tip so ofc it’s personal preference, this isn’t a hard rule. Just trying to share what I think is etiquette (and believe me, tons of people lack it - you’d be surprised at the amount of people that is not able to utter one thank you to after I hold the door open, which is something I try to do everywhere I go).
+
+url:https://reddit.com/r/LifeProTips/comments/qndeuy/
+author:raisuki
+subreddit:LifeProTips
+score:1132
+numComments:276
+isOver18:False
+hasPostBody:True

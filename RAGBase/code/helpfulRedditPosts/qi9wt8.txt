@@ -1,0 +1,17 @@
+title:
+YSK that there are plenty of open courses to help you choose a degree or learn in general
+
+content:
+Why YSK: Getting a degree is one of the most serious decisions you make in life and determining if a course is right for you can be difficult. To help you decide, there are free online resources where you can actually see the kind of introductory lectures you'd take.
+
+eg. you can search the [MIT OpenCourseWare](https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw) by subject (they have playlists) or a [whole list of other channels and websites](https://www.reddit.com/r/reddit.com/comments/cktxy/reddit_lets_compile_a_list_of_the_best_online/) compiled by reddit (even if 10 years ago, haven't tried them all but the 5 I checked works fine).
+
+edit: As u/falcoholic92 and u/Larnek pointed out, the specific degree isn't as important as having any degree except for a few fields (mainly STEM and medicine). Nonetheless, finding one that you'd find interesting and therefore easier is still an advantage.
+
+url:https://reddit.com/r/YouShouldKnow/comments/qi9wt8/
+author:barnicskolaci
+subreddit:YouShouldKnow
+score:7657
+numComments:192
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,19 @@
+title:
+LPT: Not sure when to use i.e. or e.g.? Just pretend that i.e. means "in effect" and e.g. means "examples given:"
+
+content:
+They don't, but the meanings are close enough that you'll be completely fine.  The usual Latin translations are id est as 'that is' and 'exempli gratia' as 'for the sake of example.'
+
+EDIT: I thought the mnemonic was implicit, but apparently not.  I.E. = ***I***n ***E***ffect, ***E.G.*** = ***E***xamples ***G***iven.
+
+Numerous people have suggested other devices which work just as well, most notably "In Essence" and "egzample." 
+
+Others feel compelled to mention that they know Latin and therefore don't need this LPT.
+
+url:https://reddit.com/r/LifeProTips/comments/2qrsl1/
+author:nexusfall
+subreddit:LifeProTips
+score:3648
+numComments:706
+isOver18:False
+hasPostBody:True

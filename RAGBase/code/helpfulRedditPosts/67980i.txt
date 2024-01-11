@@ -1,0 +1,13 @@
+title:
+LPT: If you are buying frozen foods, don't buy the ones that seem like the product is stuck together. This means it has, at some point, been partially defrosted and then refrozen.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/67980i/
+author:MrsJFit
+subreddit:LifeProTips
+score:1011
+numComments:46
+isOver18:False
+hasPostBody:False

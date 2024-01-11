@@ -1,0 +1,13 @@
+title:
+LPT: Booked a car rental far in advance? Check the rate again when you're closer to the start of the rental - you might have a lower one you can use instead.
+
+content:
+You can then cancel and re-book the lower rate, or call a customer service line to do that. I have saved hundreds of dollars by doing this, and the customer service agent even waived any cancellation fees!
+
+url:https://reddit.com/r/LifeProTips/comments/vvqu4y/
+author:NinjaSandstorm
+subreddit:LifeProTips
+score:3410
+numComments:115
+isOver18:False
+hasPostBody:True

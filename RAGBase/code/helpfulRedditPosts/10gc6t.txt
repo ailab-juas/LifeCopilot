@@ -1,0 +1,13 @@
+title:
+LPT: If you maintain multiple gmail accounts, set the theme for each to a different color to make it easier to tell them apart
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/10gc6t/
+author:muddylemon
+subreddit:LifeProTips
+score:1725
+numComments:139
+isOver18:False
+hasPostBody:False

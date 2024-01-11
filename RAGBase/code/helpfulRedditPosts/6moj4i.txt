@@ -1,0 +1,13 @@
+title:
+LPT: Don't argue/fight with somebody over text messages, the lack of body language and facial expressions can lead to misinterpretation of the situation
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/6moj4i/
+author:apaPvP
+subreddit:LifeProTips
+score:1419
+numComments:75
+isOver18:False
+hasPostBody:False

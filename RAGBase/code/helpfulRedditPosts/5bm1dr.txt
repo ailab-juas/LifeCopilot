@@ -1,0 +1,13 @@
+title:
+YSK, public libraries are a great source for digital downloads, books, movies, music, and magazines.
+
+content:
+I just discovered my library has over 200 magazines that can be downloaded right to my iPad. Pretty much everything that could be checked out from the library is now available digitally. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/5bm1dr/
+author:Metal_Daddy
+subreddit:YouShouldKnow
+score:1682
+numComments:76
+isOver18:False
+hasPostBody:True

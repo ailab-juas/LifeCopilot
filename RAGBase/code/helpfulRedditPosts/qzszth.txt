@@ -1,0 +1,15 @@
+title:
+YSK that giving two weeks notice to your employer prior to leaving is not a legal requirement in any state.
+
+content:
+**Why YSK**. Employers and employees in almost all states are governed by a set of laws known as "work at will." This means that not only can employers fire you for (almost) any reason or no reason, workers can quit for any reason or no reason. There is no time requirement imposed in either situation, not is there a manner of quitting you must abide by. An employer may request (or claim it is a demand) you follow certain steps, such as a two-weeks notice or partaking in an exit-interview, but these are requests and not. legal requirements. 
+
+While this general rule is true, there are some exceptions. If you have an employment contract, or are working under a collective bargaining agreement, you may be subject to rules that other work at will workers are not.
+
+url:https://reddit.com/r/YouShouldKnow/comments/qzszth/
+author:ButtholeBanquets
+subreddit:YouShouldKnow
+score:9966
+numComments:372
+isOver18:False
+hasPostBody:True

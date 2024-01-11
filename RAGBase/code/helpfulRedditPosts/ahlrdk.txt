@@ -1,0 +1,13 @@
+title:
+LPT: When you move somewhere new, specially if living alone, make a copy of your key to your residence and hide it or give it to someone trustworthy. Two dollars is cheaper than a locksmith if you lose the key.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ahlrdk/
+author:catamount1000
+subreddit:LifeProTips
+score:15422
+numComments:604
+isOver18:False
+hasPostBody:False

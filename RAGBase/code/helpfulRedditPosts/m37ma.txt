@@ -1,0 +1,13 @@
+title:
+LPT: Don't waste money on disposables. A regular washcloth fits a Swiffer and can be used for dry and wet mopping. 
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/m37ma/
+author:meermeermeer
+subreddit:LifeProTips
+score:1123
+numComments:60
+isOver18:False
+hasPostBody:False

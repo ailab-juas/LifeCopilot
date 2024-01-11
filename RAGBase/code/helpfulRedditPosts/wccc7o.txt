@@ -1,0 +1,13 @@
+title:
+LPT: Site forcing you to log in before being able to scroll down/see the page? Use inspect element, CTRL+F and find "overflow" toward the top. Set it to "auto", delete the overlay telling you to log in with inspect element, and you should be able to use the page normally.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/wccc7o/
+author:goatfuckersupreme
+subreddit:LifeProTips
+score:2250
+numComments:58
+isOver18:False
+hasPostBody:False

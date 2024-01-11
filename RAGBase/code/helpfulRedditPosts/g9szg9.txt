@@ -1,0 +1,29 @@
+title:
+LPT: Reverse image search before purchasing from Wayfair
+
+content:
+When shopping online, many people know to Google the product name to see if they can find the same exact product cheaper from another store. Wayfair &amp; their brands (Joss &amp; Main, AllModern, &amp; Birch Lane) rename all their products/vendors &amp; give them bogus names so it's harder to do this &amp; make it seem like the product is exclusive to them when it's not.
+
+Reverse image search to find the real product name and manufacturer name &amp; then you can much more easily find it somewhere else - often for cheaper.
+
+
+---
+
+Let's take a lamp for example:
+
+* **["Mailiah 29" Table Lamp" by "Highland Dunes"](https://www.wayfair.com/lighting/pdp/highland-dunes-mailiah-29-table-lamp-w000784812.html?piid=627550410) on Wayfair**
+
+
+But when you [reverse image search](https://www.google.com/search?tbs=sbi:AMhZZisaBUOrMWZcFrSm36J185qOshtSbrdWKbbo9-bfBDOUONL88hhDMOD6SRMU-JbLDiCMLcVaaMwJrA3mrmohpChd_1wEJaipToQaUkGCk4lgni-psKtXJe1dkf_13XWTrOeKYfcz_1OVJqy9bKnBJQhNXrAgKW5_1iqx5td1fY0E3DkexFSTSsk_1sjQaHvB09kdnhw6nJh2ROuk5kfu3XbKIH6pee1UxPbYB0mFZcwXSkGY-SwbRPjG1Qz8B9uEl0W1OyhryGnplXzA0yBa0Md1jdFTEsAGikpk8Rp6GjtoDkBCAl93TDgS1qBCLTQ0_1R9C67kV5jprOFj3Qg6tQoighWh3yA8Vq0A&amp;hl=en) you'll see it's really called:
+
+* **"Ollie 29" Table Lamp" by "Catalina Lighting"**
+
+Now that you know the real name, you can easily see it's sold at [Walmart](https://www.walmart.com/ip/Catalina-Lighting-Catalina-Ollie-29-3-Way-Clear-Dimpled-Glass-Table-Lamp/41235796?wmlspartner=wlpa&amp;selectedSellerId=1812&amp;adid=22222222227028874167&amp;wl0=&amp;wl1=g&amp;wl2=c&amp;wl3=61668264369&amp;wl4=aud-393207457166:pla-97832547369&amp;wl5=9007924&amp;wl6=&amp;wl7=&amp;wl8=&amp;wl9=pla&amp;wl10=102975322&amp;wl11=online&amp;wl12=41235796&amp;veh=sem&amp;gclid=CjwKCAjwqJ_1BRBZEiwAv73uwEyE9OE-2CA2Dx835PkSd7aGkrmVdI_Sa5zUv4NR7DVtXgPJV-JWQRoCalcQAvD_BwE), [Overstock](https://www.overstock.com/Lighting-Ceiling-Fans/Catalina-Ollie-29-3-Way-Clear-Dimpled-Glass-Table-Lamp/16291018/product.html?refccid=RTVGTIFQWA7ZBFKAGSD5DQVGBU&amp;searchidx=0&amp;lowestPriceOptionId=27045503&amp;kwds=Catalina%20Ollie%2029%26quot%3B%203-Way%20Clear%20Dimpled%20Glass%20Table%20Lamp&amp;rfmt=), [Kohl's](https://www.kohls.com/product/prd-2612423/catalina-dimpled-table-lamp.jsp?skuid=77383726), &amp; [Amazon](https://smile.amazon.com/Catalina-Lighting-19144-000-29-inch/dp/B00MYC0R2S/ref=sr_1_1?dchild=1&amp;keywords=catalina+lighting+ollie+lamp&amp;qid=1588098101&amp;sr=8-1). And it's $23 cheaper on Amazon, Walmart &amp; Overstock
+
+url:https://reddit.com/r/LifeProTips/comments/g9szg9/
+author:refusestopoop
+subreddit:LifeProTips
+score:4512
+numComments:187
+isOver18:False
+hasPostBody:True

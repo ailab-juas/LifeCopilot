@@ -1,0 +1,15 @@
+title:
+YSK That if you opt for TurboTax to deduct their fees from your refund, there's an additional $40 fee
+
+content:
+At the very end of the process, after you're sick of looking at numbers and you think you're just closing out details (and you don't need to read the prompts very carefully), TurboTax asks if you want to just deduct their fees from your refund. Sounds like a no-brainer right? One less thing... Except they very casually say they'll deduct their fee of $40 from your return. Never mind that that's NOT the fee to file your returns - it's a new fee on top of filing fees for the convenience of this option. It's taking advantage of people not reading closely. ALWAYS pay by credit card, not by deducting fees from your return.
+
+Edit: Thank you for the gold and silver kind strangers!
+
+url:https://reddit.com/r/YouShouldKnow/comments/f8u2ha/
+author:dataslinger
+subreddit:YouShouldKnow
+score:16809
+numComments:664
+isOver18:False
+hasPostBody:True

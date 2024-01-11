@@ -1,0 +1,18 @@
+title:
+LPT: When someone asks to borrow your phone to make a call...
+
+content:
+To avoid getting scammed or any sort of nefarious activity on your phone, and also still helping those that genuinely needs it:
+
+* never allow them to have control over your phone
+* ask them who they're calling
+* ask them the number and *dial it yourself*
+* put the phone on speaker during their conversation. If it's urgent (and IMO only urgent situations calls for using a stranger's phone), they shouldn't mind. If they mind, then they probably shouldn't be borrowing your phone
+
+url:https://reddit.com/r/LifeProTips/comments/yhtd5f/
+author:princetonwu
+subreddit:LifeProTips
+score:19018
+numComments:1105
+isOver18:False
+hasPostBody:True

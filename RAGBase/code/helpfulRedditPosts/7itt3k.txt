@@ -1,0 +1,24 @@
+title:
+LPT: Shipping boxes for the Holiday Season
+
+content:
+I've worked for the largest shipping company in the world. 
+
+Many boxes unfortunately get damaged daily. Boxes do get tossed and get crushed under the weight of other boxes. This season gets really busy for shipping, so timely service can get chaotic in warehouses.
+
+Remember to:
+ Pack as tight as you can. Try to make sure no contents shift around inside boxes. (use anything you can find as filler)
+ Use a STURDY box that won't get crushed under a good amount of weight. Boxes are stacked by making walls. Weak boxes will cave. 
+Use plenty of tape! So many boxes open. Contents do fall out because people actually think a single strip of tape will work. You can never use too much tape guys and gals.
+ Please remove any other Barcodes besides the actual shipping label. This is so package handlers don't get confused, as well as the automated sorting machines. 
+Make sure the address is correct! Packages get scanned for your tracking updates, if the address is wrong it will read as an error. 
+
+Bonus: If you write or put 'Fragile' stickers on your box, it'll get overlooked. Every other box has that. If you need extra protection, slap GLASS stickers on that. Put them everywhere. This certainly grabs attention of any worker in contact with your box.
+
+url:https://reddit.com/r/LifeProTips/comments/7itt3k/
+author:New-Nostalgic-User
+subreddit:LifeProTips
+score:11511
+numComments:675
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: If you turn on closed captions for your favorite TV shows, it may sometimes reveal hidden details about which characters are speaking or what is producing noises in the scene.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/oko4qd/
+author:ComCypher
+subreddit:LifeProTips
+score:2365
+numComments:143
+isOver18:False
+hasPostBody:False

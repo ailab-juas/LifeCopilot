@@ -1,0 +1,23 @@
+title:
+YSK driving 65mph is 20% more energy efficient than driving 80mph
+
+content:
+One of the most effective things drivers can do to save on gas (and decrease carbon emissions) is to drive 65mph or less. 
+
+This means driving 50 miles would take eight minutes longer.
+
+If the US changed its national speed limit to 55mph, it would decrease our gas consumption by 1 billion barrels annually.
+
+Source: https://www.mpgforspeed.com
+
+Edit: ok, to summarize the replies: this doesn’t hold true for all cars, driving slow may have a negative impact on the flow of traffic, your time is more precious than your money. Time to buy a Tesla!
+
+Edit 2: don’t believe me. There’s a [gas cost calculator](https://www.fueleconomy.gov/feg/driveHabits.jsp) where you plug in the year, make and model of your car. It provides the average cost when driving at different speeds.
+
+url:https://reddit.com/r/YouShouldKnow/comments/fe6pv0/
+author:msoc
+subreddit:YouShouldKnow
+score:8533
+numComments:652
+isOver18:False
+hasPostBody:True

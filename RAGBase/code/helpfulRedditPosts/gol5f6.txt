@@ -1,0 +1,21 @@
+title:
+YSK that restaurant chains are selling food under fake names on delivery apps to try to take advantage of people supporting local restaurants.
+
+content:
+https://www.cnn.com/2020/05/22/us/grubhub-chuck-e-cheese-pasquallys-applebees-restaurants-trnd/index.html
+
+Pasqually's Pizza &amp; Wings = Chuck E. Cheese
+
+Rotisserie Roast = Boston Market
+
+Neighborhood Wings = Applebee's
+
+A lot of people are going out of their way to supports local businesses during this shutdown. If this is important to you, make sure the small business you are supporting is actually a small business.
+
+url:https://reddit.com/r/YouShouldKnow/comments/gol5f6/
+author:DroopyMcCool
+subreddit:YouShouldKnow
+score:7629
+numComments:291
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Move your bed and clean under/behind it regularly. The amount of dust you'll find back there is disgusting and could be why you always feel like you have a stuffy nose
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/z9sfyn/
+author:AnduwinHS
+subreddit:LifeProTips
+score:1569
+numComments:65
+isOver18:False
+hasPostBody:False

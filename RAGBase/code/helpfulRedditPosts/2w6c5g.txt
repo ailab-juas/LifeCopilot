@@ -1,0 +1,29 @@
+title:
+YSK: It is illegal for your boss to fire you or even to discourage you from discussing your pay with them or with coworkers.
+
+content:
+Most of us are told we shouldn't discuss what we make with our coworkers, usually being told that it "causes problems" or "might make people jealous." In reality it's often to prevent employees from realizing how badly they're being taken advantage of.
+
+YSK that it is [illegal](http://www.theatlantic.com/business/archive/2014/07/when-the-boss-says-dont-tell-your-coworkers-how-much-you-get-paid/374467/) for your boss to fire you or even to discourage you from discussing your pay with your coworkers.
+
+Talk to your coworkers. You have a better shot at a better work environment working together.
+
+EDIT: Wow this blew up. For the people who are citing "at will employment," that doesn't mean your employer can fire you for no reason or not give you the reason they fire you. 
+
+There are exceptions that would allow an employee to sue for wrongful termination even in a state that has an at-will employment policy. They vary from state to state so check your state if you have questions:
+
+- Firing someone cannot violate a state's [public policy doctrine](https://en.wikipedia.org/wiki/Public_policy_doctrine_%28conflict_of_laws%29) or a federal statute.
+
+- You can't fire someone "when an [implied contract](https://en.wikipedia.org/wiki/Implied_in_fact_contract) is formed between an employer and employee, even though no express, written instrument regarding the employment relationship exists."
+
+- You can't fire someone if it violates an [implied in law](https://en.wikipedia.org/wiki/Quasi-contract) contract.
+
+- You can't fire someone for various statutory [reasons](https://en.wikipedia.org/wiki/At-will_employment#Statutory_exceptions). IE: Because someone is black, because they're disabled, because they refused to do something illegal, because they tried to form a union etc. Discussing pay falls under this category and as such is protected at the federal level the same way labor organizing and anti-discrimination policies are.
+
+url:https://reddit.com/r/YouShouldKnow/comments/2w6c5g/
+author:HeloRising
+subreddit:YouShouldKnow
+score:1688
+numComments:231
+isOver18:False
+hasPostBody:True

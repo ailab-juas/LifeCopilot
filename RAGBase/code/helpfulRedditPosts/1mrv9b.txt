@@ -1,0 +1,19 @@
+title:
+God Mode
+
+content:
+On your Windows 7 computer make a new folder: 
+
+name it: 
+
+God Mode.{ED7BA470-8E54-465E-825C-99712043E01C}
+
+Gives you shortcuts to all Admin functions
+
+url:https://reddit.com/r/YouShouldKnow/comments/1mrv9b/
+author:BaconUSA
+subreddit:YouShouldKnow
+score:1936
+numComments:257
+isOver18:False
+hasPostBody:True

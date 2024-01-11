@@ -1,0 +1,19 @@
+title:
+YSK That You should ALWAYS set secure passwords for new security cameras
+
+content:
+Why YSK: I'll tell you a little bit about how and why I got into a hobby (strange hobby) of mine that is leading me to make this post. I discovered that a Panasonic camera that I had installed and setup to my home entrance was being live broadcasted on a live cctv feed website, and I was absolutely unaware it was happening. I kept all of the settings as default after installing. There are numerous websites such as insecam (where I found mine being broadcasted) on the internet that just broadcast live feeds that have been hacked due to weak security practices. I found mine by pure chance after reading about a family's nest camera being hacked, and started searching around and found insecam. The website also publishes geographic coordinates of the general area, which can help to narrow down where someone lives if they have points of references to refer to. Sometimes I get lucky and the person who set up their camera used their last name to label the area that the camera is watching over e.g. "Smith Residence Front Door". My hobby is to comb through this website and locate people to let them know that their private lives are available for the world to see. I've been doing this for about 2 years, and haven't been very successful. Out of the 120+ people I've attempted to contact, only 4 have ever responded. It is a time consuming process, but if an idiot like me can do it for good, then surely there are evil people who could do it for nefarious purposes. 
+
+After discovering my broadcast, I started combing through the hundreds of pages in the United States alone, and there are so many cameras that are setup inside of people's homes where kids are present, and inside of businesses without them knowing they can be watched. The common theme that people who have their cameras set up inside their home is that they are typically older (general estimate of 45 yo and up). Businesses that have cameras set up to keep an eye on their employees don't know they can be watched if they don't have passwords setup. It is super creepy. If you know anyone who has recently set up new cameras in their home or business, or you yourself set up, do the smart thing and take the time out of your day to set up strong credentials for yourself or help someone else you know that may have purchased them, and let them know to set up passwords. It's the most minimal thing one can and should do after installing and setting up. 
+
+The most common brand cameras that I see broadcasted are: Linksys, Panasonic, Mobotix and Axis. My assumption is that they use similar default passwords and usernames that span several models. 
+
+TL;DR: Some security cameras can be hacked and broadcasted to live feed websites, and it happens mainly because of poor security practices. Create usernames with strong passwords to help avoid it.
+
+url:https://reddit.com/r/YouShouldKnow/comments/xv0frk/
+author:tastycrust
+subreddit:YouShouldKnow
+score:2035
+numComments:74
+isOver18:False
+hasPostBody:True

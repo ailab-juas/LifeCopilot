@@ -1,0 +1,25 @@
+title:
+YSK - Don't buy TurboTax, HR Block, etc. tax software from the company's websites. They are almost always significantly cheaper on third party sites, such as Amazon, Walmart, Best Buy, and Target.
+
+content:
+Why YSK:
+
+For example, TurboTax Premiere is listed for $90 on their official website, but it's only $54.99 on Amazon. Don't fall for those emails claiming $10 off and the 'guaranteed best price of the year.'
+
+There are free options for basic returns, but not everyone qualifies for them so I wanted to point this out.
+
+Edit 1: Wow! This really blew up. I really appreciate everyone's contributions. Personally, I've learned about many options to avoid paying for these programs. I've listed some of them below:
+
+[FreeTaxUSA - Free Federal, $15 State (Deluxe Option Available)](https://www.freetaxusa.com/)
+
+[IRS (I know. I know. It's scary to trust 'the man', but this is legit. Under 73k is free.](https://apps.irs.gov/app/freeFile)
+
+&amp;#x200B;
+
+url:https://reddit.com/r/YouShouldKnow/comments/siq4ys/
+author:R4ndomlyJ0n
+subreddit:YouShouldKnow
+score:6551
+numComments:270
+isOver18:False
+hasPostBody:True

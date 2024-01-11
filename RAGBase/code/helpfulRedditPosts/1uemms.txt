@@ -1,0 +1,15 @@
+title:
+YSK that you can turn your spare change into a gift card at any coinstar kiosk and pay no fees (unlike when you choose the cash option)
+
+content:
+this is great because you get to keep all of your money and use it at places like Amazon.com etc
+[more info here](https://www.coinstar.com/?openSlider=Slider2#services)
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/1uemms/
+author:willdogs
+subreddit:YouShouldKnow
+score:1133
+numComments:167
+isOver18:False
+hasPostBody:True

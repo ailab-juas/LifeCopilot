@@ -1,0 +1,13 @@
+title:
+LPT: Know the inner workings of your vehicle. The knowledge of autos can save you a lot of money when it comes to fixing problems yourself and realizing when mechanics are ripping you off.
+
+content:
+[Here's a good interactive that outlines the anatomy of a car.](https://www.budgetdirect.com.au/how-a-car-works/)
+
+url:https://reddit.com/r/LifeProTips/comments/2nybn8/
+author:Mary8666
+subreddit:LifeProTips
+score:1718
+numComments:550
+isOver18:False
+hasPostBody:True

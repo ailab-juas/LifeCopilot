@@ -1,0 +1,16 @@
+title:
+LPT: Don't let your kids use smartphones. Give them computers instead.
+
+content:
+If you want your kids to get the maximum benefit from their screen time, I suggest not giving them smartphones. Instead, give them a computer or laptop. Phones are primarily consumption devices used to scroll social media and other content made by other people. Sure, there are some decent programs on phones that allow people to create things, but a computer is much more conducive to creating in general and a phone is much more conducive to consumption in general.   
+
+
+At the very least, if your kid has a computer they can learn to type. And maybe they'll even get interested in programming or other interesting things. Another benefit is that the the forces of the attention economy are less powerful on computers. For example, a computer won't be sending push notifications about the latest TikToks every 10 minutes.
+
+url:https://reddit.com/r/LifeProTips/comments/fcf8tx/
+author:adultlunchables
+subreddit:LifeProTips
+score:1054
+numComments:149
+isOver18:False
+hasPostBody:True

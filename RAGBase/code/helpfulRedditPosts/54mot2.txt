@@ -1,0 +1,15 @@
+title:
+YSK there is a website that shows most of the ad companies that target your browser for ads based on browsing patterns.
+
+content:
+This page shows which ad companies shoe target ads and which show other ads. There is an option to opt out too. Read the FAQs in the page for more info.
+
+http://www.aboutads.info/choices/
+
+url:https://reddit.com/r/YouShouldKnow/comments/54mot2/
+author:ktkps
+subreddit:YouShouldKnow
+score:1742
+numComments:54
+isOver18:False
+hasPostBody:True

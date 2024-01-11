@@ -1,0 +1,19 @@
+title:
+YSK UltraViolet, the cloud-based digital copy movie service, is set to close down on 7/31
+
+content:
+[UltraViolet is set to close down next Wednesday, 7/31](https://www.cnet.com/news/ultraviolet-going-dark-on-july-31/)
+
+According to CNET, here is what should you do:
+
+* As soon as possible, login at myuv.com and choose Retailer Services to verify the retailers linked to your UltraViolet Library. If your Library is not currently linked to a retailer or if you would like to link to additional participating retailers, select one or more retailers to link to your UltraViolet Library.
+
+* Don't unlink or close your UltraViolet Library, as UltraViolet and retailers will be working together to maximize your continued access to movies and TV shows.
+
+url:https://reddit.com/r/YouShouldKnow/comments/chn5a1/
+author:Tackle3erry
+subreddit:YouShouldKnow
+score:2203
+numComments:98
+isOver18:False
+hasPostBody:True

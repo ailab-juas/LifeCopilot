@@ -1,0 +1,17 @@
+title:
+LPT: If an ambulance is called for you, you do not have to ride in it. If you choose to exercise your right to refuse treatment &amp; transport, they will have you sign a form with a witness saying so. TAKE A PICTURE OF THIS FORM to protect yourself from getting billed. (U.S.A.)
+
+content:
+I saw [this meme](https://i.imgur.com/Q7EpWAf.png) circulating just now on facebook. As a medical professional, I realize there are a lot of misconceptions in the general public about medical care in the US. The first one this runs into: just because an ambulance is called for you doesn't mean you have to ride in it, except in very specific exceptions (for example, if you are a minor with obvious injury and no parent present, or if you are inebriated by drugs/alcohol). As a mentally competent adult, you have the legal right to refuse treatment and transport via an ambulance, so if you don't want to receive treatment or ride to the hospital (ambulance bills are expensive, especially out of network), just say so (competent medics will *always* strongly recommend that you do, because it opens us up to liability if we don't- it doesn't necessarily mean we think you need it). But we can't force you to come with us. Know your rights. 
+
+If you state you do not want to be transported or treated (and you can refuse either or both, it's up to you), the medics will have you sign paperwork stating that you are refusing treatment or transport, and will usually have a witness sign it too. This form is for their protection, not yours, but it's a double edged sword: it can be used to prove that you did not receive treatment in the (unfortunately likely) event that the ambulance company tries to bill you anyway. Ask for a copy and if they can't give you one (usually they're on carbon paper, but not always) take a picture with your phone. This document is going to be your holy grail if they try to bill you erroneously- Having proof of it could save you thousands of dollars.
+
+
+
+url:https://reddit.com/r/LifeProTips/comments/a6bfnj/
+author:Auto_appreciation
+subreddit:LifeProTips
+score:20500
+numComments:1819
+isOver18:False
+hasPostBody:True

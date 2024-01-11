@@ -1,0 +1,17 @@
+title:
+YSK about the government website that rates colleges in the United States on degree income, graduates, and defaulting called collegescorecard.ed.gov
+
+content:
+https://collegescorecard.ed.gov
+
+Is the link to the website 
+
+you're able to select the school you're interested and see the important information listed. Picking a college is important when you're including the cost so knowing if it has a high default rate, low average income in your particular degree, and low graduation tells the quality of school. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/57y274/
+author:Texasryano88
+subreddit:YouShouldKnow
+score:3474
+numComments:155
+isOver18:False
+hasPostBody:True

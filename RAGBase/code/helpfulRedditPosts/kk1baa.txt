@@ -1,0 +1,13 @@
+title:
+LPT: Cancel streaming subscriptions immediately after you subscribe. If you forget to resub after a month, you weren't watching anyway.
+
+content:
+I just subscribed to HBO max for the Wonder Woman 84 release, and immediately hit the unsubscribe button. My subscription will run out on Jan 25, and I can decide to resub if I miss it. All the majors work the same way, Netflix, Hulu, Disney+ tested personally.
+
+url:https://reddit.com/r/LifeProTips/comments/kk1baa/
+author:flerchin
+subreddit:LifeProTips
+score:2586
+numComments:95
+isOver18:False
+hasPostBody:True

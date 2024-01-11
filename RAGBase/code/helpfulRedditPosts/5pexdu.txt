@@ -1,0 +1,15 @@
+title:
+LPT: When offering guests drinks, don't ask if they'd like something. Instead, ask if they'd prefer beverage A, B, or C.
+
+content:
+Letting them know what's available prevents that awkward situation where you have nothing they want, but they've already accepted the offer and have to sip at something they don't like.
+
+Most people won't mind saying, "I'm fine, thank you" if they aren't thirsty or don't like the options.
+
+url:https://reddit.com/r/LifeProTips/comments/5pexdu/
+author:8337
+subreddit:LifeProTips
+score:1869
+numComments:123
+isOver18:False
+hasPostBody:True

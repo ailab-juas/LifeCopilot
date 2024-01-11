@@ -1,0 +1,13 @@
+title:
+LPT: If you want an honest opinion from someone on a social issue, pretend like you know nothing about it and have them explain it to you.
+
+content:
+Living in the rural Midwest, this has saved me from countless heated debates due to my differeing opinion on something.
+
+url:https://reddit.com/r/LifeProTips/comments/nnq8ox/
+author:experiment1224
+subreddit:LifeProTips
+score:4414
+numComments:164
+isOver18:False
+hasPostBody:True

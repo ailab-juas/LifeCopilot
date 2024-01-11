@@ -1,0 +1,35 @@
+title:
+YSK: You can unsubscribe from junk mail!
+
+content:
+I hate junk mail. It is constant, unwanted, and wasteful. There are a few websites that you can use to quickly opt out of receiving these mailings. This includes the phone book too!
+
+https://www.consumer.ftc.gov/articles/0262-stopping-unsolicited-mail-phone-calls-and-email
+
+https://www.valpak.com/coupons/show/mailinglistsuppression
+
+https://www.redplum.com/tools/direct-mail-preferences
+
+https://www.yellowpagesoptout.com/
+
+&amp;nbsp;
+
+EDIT:
+
+To get an image of what you are receiving in the mail for a given day you can subscribe to Informed Delivery. https://informeddelivery.usps.com/box/pages/intro/start.action
+
+&amp;nbsp;
+
+For the UK (From u/greyjackal)
+
+https://www.citizensadvice.org.uk/consumer/post/stop-getting-junk-mail/
+
+Also, https://www.tpsonline.org.uk/tps/index.html for telephone crap
+
+url:https://reddit.com/r/YouShouldKnow/comments/a4lu2n/
+author:mustwarnothers
+subreddit:YouShouldKnow
+score:2464
+numComments:129
+isOver18:False
+hasPostBody:True

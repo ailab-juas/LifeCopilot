@@ -1,0 +1,13 @@
+title:
+LPT: When making a visible mistake in front of your peers, always admit fault immediately. Admitting you are a human who isn't perfect will diffuse alot of backlash and flack you would receive otherwise. It will reflect maturity and will take attention off the mistake you made.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/mdtpip/
+author:brandonmcgritle
+subreddit:LifeProTips
+score:50447
+numComments:964
+isOver18:False
+hasPostBody:False

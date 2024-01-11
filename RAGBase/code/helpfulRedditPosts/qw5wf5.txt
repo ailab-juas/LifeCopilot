@@ -1,0 +1,15 @@
+title:
+YSK Scammers HATE web conferences
+
+content:
+ Why YSK: If you are ever contacted on your phone by someone that you have never done business with before, and that you don't know in real life, one good way to test their validity is to ask them to do business over some web conferencing software like Google Meet or Webex instead of the phone or email. This might be timeshare scams or other phony "too good to be true" deals. If they are legitimate professionals, they will have no problems doing so, but if they are scammers or criminals, they find some reason to not converse that way. They will provide any reason they can think of to avoid any potential records of their face. This might save you hundreds or thousands of dollars.
+
+Edit: to add I don't mean normal spam calls. I mean like, job searches, or real estate sale offers, etc. Of course we just hang up on Steven trying to tell you that you won the lottery, or that you need more insurance.
+
+url:https://reddit.com/r/YouShouldKnow/comments/qw5wf5/
+author:SgtArpin
+subreddit:YouShouldKnow
+score:8601
+numComments:261
+isOver18:False
+hasPostBody:True

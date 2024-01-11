@@ -1,0 +1,15 @@
+title:
+YSK that making a smoothie is the healthier option to juicing
+
+content:
+[Source article](http://www.nationalmemo.com/check-out-the-health-benefits-of-juicing-vs-smoothies/)
+
+The main tip of the article is that when you juice you leave behind a lot of nutrients and vitamins. Where as with a smoothie you preserve the skins and pulp which contain extra vitamins and fiber. Plus you get calcium since most smoothies also include some form of yogurt or milk.
+
+url:https://reddit.com/r/YouShouldKnow/comments/3alnnx/
+author:ckfighter2
+subreddit:YouShouldKnow
+score:1326
+numComments:246
+isOver18:False
+hasPostBody:True

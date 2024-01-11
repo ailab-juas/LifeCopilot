@@ -1,0 +1,13 @@
+title:
+YSK: If you're abroad and your debit or credit card stops working, you can use Google Voice to call your bank.
+
+content:
+Or really YSK that it's wise to call your bank and let them know you're leaving the country *before you leave* if you plan on using your card abroad! Otherwise, the bank will think it's fraud and freeze the card until they hear from you. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/7171n3/
+author:iamtiedyegirl
+subreddit:YouShouldKnow
+score:2391
+numComments:155
+isOver18:False
+hasPostBody:True

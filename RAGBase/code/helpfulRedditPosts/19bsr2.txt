@@ -1,0 +1,13 @@
+title:
+LPT: When taking notes by with a pen or pencil, use a light grip. Your writing will automatically become neater and save your hand from a lot of pain.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/19bsr2/
+author:lukewells
+subreddit:LifeProTips
+score:1323
+numComments:191
+isOver18:False
+hasPostBody:False

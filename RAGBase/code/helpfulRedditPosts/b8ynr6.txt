@@ -1,0 +1,13 @@
+title:
+LPT: Struggle at writing Essays? Outline them extensively. You'll end up writing 80-90% of your content and the actual essay writing portion comes down to pasting and polishing.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/b8ynr6/
+author:NoMoreSyntaxErrors
+subreddit:LifeProTips
+score:23458
+numComments:503
+isOver18:False
+hasPostBody:False

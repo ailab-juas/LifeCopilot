@@ -1,0 +1,13 @@
+title:
+LPT: After making a smoothie, put hot water in blender with some dish soap, turn on high for 30 seconds. Easiest way to clean a blender.
+
+content:
+Works like a charm
+
+url:https://reddit.com/r/LifeProTips/comments/k0ajzg/
+author:HealthyDoughnut
+subreddit:LifeProTips
+score:1341
+numComments:81
+isOver18:False
+hasPostBody:True

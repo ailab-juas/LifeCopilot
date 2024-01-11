@@ -1,0 +1,13 @@
+title:
+LPT: People outside the EU can now revoke consent for personal info use in targeted advertisements on Reddit.
+
+content:
+Check the settings and security options on the website or on mobile.
+
+url:https://reddit.com/r/LifeProTips/comments/8s8952/
+author:PlasmaCow511
+subreddit:LifeProTips
+score:46435
+numComments:1237
+isOver18:False
+hasPostBody:True

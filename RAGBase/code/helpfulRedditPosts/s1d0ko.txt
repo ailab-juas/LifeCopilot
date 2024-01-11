@@ -1,0 +1,15 @@
+title:
+LPT: Don’t read the news if you’re trying to improve your mental health. Worrying about things outside your control will not help anyone including yourself.
+
+content:
+As someone who is trying to get their mental health back in order, this is the simplest action you can take to improve it. Journalism nowadays focuses on reporting negative feedback to draw in viewers and they will use words to overstate the content or outright mislead depending on the news outlet you follow. You’ll almost never hear positive feedback about the world because by design journalists must report something that will draw in viewers and in turn revenue for their company. There’s a reason news stations will use flashy words in their titles like “slams” or “dies”, or even worse not mention who we’re talking about and keeping it vague such as “leftist presidential candidate” or “Police officer”. It’s to draw emotion from us and force us to dive into the article to get the full context. This is essentially the definition of “click bait”. 
+
+Case in point, I recently started listening to my news flash briefing on my Alexa device and literally every single time for the last two weeks it’s something either about COVID or a celebrity who recently past away (many times someone I’ve never heard of). Because of this, I’m planning to turn off my Alexa news flash briefing because it provides no value to my life to inform me about things outside my control. Focus on things that are within your control like your mental health and you will come out stronger.
+
+url:https://reddit.com/r/LifeProTips/comments/s1d0ko/
+author:Inaerius
+subreddit:LifeProTips
+score:5546
+numComments:171
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+LPT: When writing an email, leave the To-field empty until you're ready to send.
+
+content:
+This avoids sending an unfinished email by accidentally hitting "Send"
+
+Edit: Some clients also have an option to delay the sending for a couple of seconds, during which you can hit "undo".
+
+url:https://reddit.com/r/LifeProTips/comments/gjsad5/
+author:Smoke_em_if_u_got_em
+subreddit:LifeProTips
+score:22653
+numComments:345
+isOver18:False
+hasPostBody:True

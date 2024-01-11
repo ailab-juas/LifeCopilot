@@ -1,0 +1,13 @@
+title:
+LPT: Go into the keyboard shortcuts on your phone and add a shortcut that converts '@@' into your email address. Saves you entering the same address all the time.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1xi78g/
+author:[deleted]
+subreddit:LifeProTips
+score:1843
+numComments:213
+isOver18:False
+hasPostBody:False

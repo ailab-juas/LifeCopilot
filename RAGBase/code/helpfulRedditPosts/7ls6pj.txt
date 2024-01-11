@@ -1,0 +1,13 @@
+title:
+LPT: Trying to learn a new language? Watch a movie you know by heart that's dubbed and/or subtitled in that language. It will aid in word association and comprehension and speed up the process of become proficient.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/7ls6pj/
+author:Recon718
+subreddit:LifeProTips
+score:37358
+numComments:1538
+isOver18:False
+hasPostBody:False

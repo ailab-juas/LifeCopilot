@@ -1,0 +1,15 @@
+title:
+YSK that if traffic lights are out at a four way intersection, treat it like it's a four way stop!
+
+content:
+Whenever traffic lights are out, I see people just drive through like they always have a green, and it usually results in an accident.
+
+No one seems to realize that you have to treat it like a four way stop.  Not only is it good info to know, but it's also something that can potentially save your life. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/3m4ho3/
+author:Classless_Chaps
+subreddit:YouShouldKnow
+score:1124
+numComments:250
+isOver18:False
+hasPostBody:True

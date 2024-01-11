@@ -1,0 +1,13 @@
+title:
+LPT: Website detecting AdBlock and wont let you in without disabling AdBlock? Turn off JavaScript for that site in browser settings. Works for most websites.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/d9winr/
+author:[deleted]
+subreddit:LifeProTips
+score:1213
+numComments:58
+isOver18:False
+hasPostBody:True

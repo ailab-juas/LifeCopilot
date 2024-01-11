@@ -1,0 +1,13 @@
+title:
+LPT: downolad offline maps in google maps in your area - you never know if you would need an adress without internet connection. It always gets broken when you need it the most, and downloaded data doesnt take a lot of space on the device.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/f0y5fi/
+author:nieistniejacy
+subreddit:LifeProTips
+score:5078
+numComments:141
+isOver18:False
+hasPostBody:False

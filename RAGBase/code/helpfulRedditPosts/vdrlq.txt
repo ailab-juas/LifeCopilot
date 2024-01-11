@@ -1,0 +1,13 @@
+title:
+[LPT] Watching a movie and the dialogue is too quiet and the action too loud? Use VLC's built in Dynamic Compression tool - Some starter settings.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/vdrlq/
+author:army_of_dicks
+subreddit:LifeProTips
+score:3678
+numComments:720
+isOver18:False
+hasPostBody:False

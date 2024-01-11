@@ -1,0 +1,15 @@
+title:
+YSK that if you are writing a paper, the reference section of a related Wikipedia is a great way to find sources
+
+content:
+They are usually hyperlinked, so you read the source for yourself, already have the correct citation, and you can cite them without getting in trouble for using Wikipedia. 
+
+EDIT: Not meant to replace actually research or looking through the resources through your library, but sometimes it can lead you to places that you didn't think to look at or are not available through Summit.
+
+url:https://reddit.com/r/YouShouldKnow/comments/5syjb3/
+author:TheLadyMay
+subreddit:YouShouldKnow
+score:2914
+numComments:128
+isOver18:False
+hasPostBody:True

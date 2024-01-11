@@ -1,0 +1,16 @@
+title:
+YSK: you can sync your college canvas/blackboard calendar with your google calendar
+
+content:
+ I use canvas and I hate making an event everytime a teacher puts a new assignment. If a teacher puts it on the canvas calendar you can copy the ICAL link that it gives and paste it into your Google calendar. Now every time a teacher puts something up on the calendar. it's automatically in your Google calendar. I believe it works on blackboard too, but someone can verify. 
+
+
+Edit: /u/jjgonya has instructions for canvas and blackboard check his comment out. Also, you can only add the ICAL to Google calendar on desktop.
+
+url:https://reddit.com/r/YouShouldKnow/comments/70qx8q/
+author:Mh1781
+subreddit:YouShouldKnow
+score:2767
+numComments:95
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: When explaining a product or feature of some sort, always start by the "why" instead of the "what" or "how", and you will get better attention and so better understanding.
+
+content:
+Also you can try to relate the why or purpose of the thing to something that is interesting to the audience.
+
+url:https://reddit.com/r/LifeProTips/comments/8pq2gw/
+author:not_stoic
+subreddit:LifeProTips
+score:5554
+numComments:151
+isOver18:False
+hasPostBody:True

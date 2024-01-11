@@ -1,0 +1,17 @@
+title:
+YSK Speeding almost never is worth the risk. On a 60 mile drive, going 90mph instead of 70mph, will only save you 11 minutes. On a 10 mile drive, it will save you less than 2 minutes.
+
+content:
+Why YSK: Speeding is illegal and dangerous. It barely saves you any time while dramatically increasing the risk of accidents, injuries, and legal consequences.  Going with the flow of traffic is the safest and has much lower risk of any trouble. 
+
+
+
+[How much time does speeding save?](https://mindyourdecisions.com/blog/2011/09/30/how-much-time-does-speeding-save/)
+
+url:https://reddit.com/r/YouShouldKnow/comments/rilppc/
+author:grandlewis
+subreddit:YouShouldKnow
+score:8730
+numComments:785
+isOver18:False
+hasPostBody:True

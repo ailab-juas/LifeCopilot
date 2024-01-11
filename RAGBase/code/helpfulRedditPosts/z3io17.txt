@@ -1,0 +1,13 @@
+title:
+LPT: When painting a room, get an index card for each paint used, write the details on one side and paint the other.
+
+content:
+This means that when you need to do the inevitable touch up and you don’t have the can, you know what type/brand/colour it was and where you painted (ie door/skirting). Worst case, if the paint is no longer made, you can take it in to a paint shop and they can scan and match the colour. Saves keeping random half tins around. All you need is a binder or sleeve with all your index cards. I also put the date on so I remember that it’s been 6 years since I painted the study and not “a couple of years ago”.
+
+url:https://reddit.com/r/LifeProTips/comments/z3io17/
+author:slb609
+subreddit:LifeProTips
+score:1287
+numComments:83
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,20 @@
+title:
+YSK that there is an awesome website that helps male survivors of sexual abuse and the people that love them.
+
+content:
+This website helped me through some tough times. I feel like more people should know about it.
+
+https://1in6.org/
+
+If you are a musician this is a cool thing you can do:
+https://1bluestring.org/
+
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/2ac7ji/
+author:autistic_squirrel
+subreddit:YouShouldKnow
+score:1398
+numComments:164
+isOver18:False
+hasPostBody:True

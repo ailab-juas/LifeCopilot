@@ -1,0 +1,13 @@
+title:
+LPT: Making a detailed list of everything you own can be tedious. Instead, make a video. Move through your home slowly and capture things clearly. Then upload it to YouTube with a private link. If your home is ever burned down/robbed, you have proof for the insurance company of what you owned.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/9xkche/
+author:[deleted]
+subreddit:LifeProTips
+score:2892
+numComments:97
+isOver18:False
+hasPostBody:True

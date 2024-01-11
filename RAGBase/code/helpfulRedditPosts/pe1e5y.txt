@@ -1,0 +1,13 @@
+title:
+LPT: Unsubscribe from the main subreddits. It makes browsing reddit actually worthwhile.
+
+content:
+Most of the stuff posted to /r/funny is not, in fact, funny. Most /r/askreddit threads are recycled garbage. Hell, even this sub is kind of annoying, but there's some good stuff on occasion. Now I'm only subscribed to niche subs for stuff I'm actually really interested in as well as a couple of mains, and it turns out reddit is actually a pretty great compendium of resources if you use it correctly.
+
+url:https://reddit.com/r/LifeProTips/comments/pe1e5y/
+author:None-Of-You-Are-Real
+subreddit:LifeProTips
+score:1640
+numComments:104
+isOver18:False
+hasPostBody:True

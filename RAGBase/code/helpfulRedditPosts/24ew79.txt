@@ -1,0 +1,39 @@
+title:
+YSK that Google Drive keeps a record of all files you view that are hosted on another person's Google Drive, if viewed while signed in with your Google Account (YouTube, Gmail etc). In my case this included an album of jiggling boob .gifs. Potentially embarrassing to not know about.
+
+content:
+Today I discovered that Google keeps a history of **all files I have ever viewed** that were hosted on a Google Drive.
+
+This included random documents, spreadsheets and images from over a year of internet usage. Items ranged from legal documents to video game journalism to cat videos.
+
+One set of items was a gallery of mildly pornographic .gif images &amp; videos of a women's boobs being jiggled and played with.
+
+As far as I an tell this was apparently recorded even before I began actually using Drive. I was signed in with my Google Account for other Google services like YouTube and GMail. While viewing another person's Drive files it detected my Google Account and logged the viewing.
+
+These files are listed under the 'Recent' and 'All' tabs on Google Drive:
+
+* https://drive.google.com/#all
+* https://drive.google.com/#recent
+
+This history is stored independently of your browser history.
+
+By clicking the check-boxes next to an item in your History you will reveal an option to remove them.
+
+If I had been sharing or editing documents in the company of others and happened to open one of these by mistake or curiosity, it could have been very embarrassing.
+
+Inquiring with a friend they found a recent history item despite **not** being a Drive user and just being a Google Account user.
+
+Imgur example album of the file history:
+
+http://imgur.com/a/bx9Hj#0
+
+Example of how my Drive unwittingly appeared when browsing in thumbnail view:  
+**NSFW**: http://i.imgur.com/o4tpo3k.png
+
+url:https://reddit.com/r/YouShouldKnow/comments/24ew79/
+author:[deleted]
+subreddit:YouShouldKnow
+score:1282
+numComments:124
+isOver18:True
+hasPostBody:True

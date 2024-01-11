@@ -1,0 +1,13 @@
+title:
+YSK that the US Post Office has a program called Informed Delivery. Sign up and every morning they will send you an email with scanned images of all the mail they will deliver later that same day.
+
+content:
+[Here](https://informeddelivery.usps.com/box/pages/intro/start.action) is the link.
+
+url:https://reddit.com/r/YouShouldKnow/comments/a2vrkj/
+author:SSSS_car_go
+subreddit:YouShouldKnow
+score:17049
+numComments:665
+isOver18:False
+hasPostBody:True

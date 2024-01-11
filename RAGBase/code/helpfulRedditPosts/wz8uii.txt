@@ -1,0 +1,21 @@
+title:
+YSK: Many “accelerated leadership” programs at big companies are a talent retention tool and have little impact on your own career path
+
+content:
+Why YSK:
+
+Between my own experience at 6 different big companies over 26 years as an engineer and engineering manager, as well as my wife and friends similar experiences, I can confidently say these programs are partially a scam.
+
+The idea is that there is some elite / exclusive group at a company that churns out management or tech fellow promotions.  But in reality senior management uses it as a stop gap to satiate their top performers they refuse to lose to management roles.  I’ve seen many people who deserve promotions go into these programs (some of which required an extra 20+ hours per week of  busy work) and get burned as people not in the program got “their” promotions year after year.
+
+At two of the companies, there was a minimum quota of promos from this pool of people, so it wasn’t 100% BS, but we are still talking 2 out of 3000 people per year.  They get paraded around in front of the rest of the people as a success story, but the goal is to squeeze a few more years out of your top people before they get frustrated and move on or give up.
+
+Don’t  waste your limited free time on these things. They seem prestigious but they are just a control mechanism. Look outside your company if you are dissatisfied with your position and haven’t been able to get promoted via normal channels
+
+url:https://reddit.com/r/YouShouldKnow/comments/wz8uii/
+author:Bob_the_peasant
+subreddit:YouShouldKnow
+score:12805
+numComments:290
+isOver18:False
+hasPostBody:True

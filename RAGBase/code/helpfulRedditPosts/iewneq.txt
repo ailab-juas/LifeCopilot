@@ -1,0 +1,14 @@
+title:
+LPT: When praising a child, acknowledge their process more frequently than their outcome. Instead of saying, “that painting is amazing” you can say “I can tell you put in a lot of effort creating that painting.”
+
+content:
+An adult’s method of praising a child can greatly impact the child’s development. Children who receive too much outcome-based praise tend to fear failure, enjoy life less, and struggle more with confidence than their peers who are praised for their process. They also tend to equate their value on their performance. Kids who are praised for a process tend to be better critical thinkers, are more confident in replicating success, and are more likely to be collaborative.
+A bit of outcome praise isn’t bad, but try to focus more on the process whenever possible.
+
+url:https://reddit.com/r/LifeProTips/comments/iewneq/
+author:mikroscosmo
+subreddit:LifeProTips
+score:3795
+numComments:119
+isOver18:False
+hasPostBody:True

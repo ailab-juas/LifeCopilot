@@ -1,0 +1,13 @@
+title:
+When you need to unscrew something in a hard to reach place and can't get a good look at the screw type, push your finger on the head for a few seconds, then look at your fingertip.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/114qrz/
+author:spacewolf46
+subreddit:LifeProTips
+score:1238
+numComments:131
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,15 @@
+title:
+YSK if your toilet has a stain at the bottom of the bowl that you can't remove, it's probably not what you think it is. Try a descaler.
+
+content:
+After years of living in old urban apartments, and having these toilets that looked like multiple generations' worth of fecal build-up that you couldn't bleach away, I finally discovered that it's been mineral build-up this whole time. The calcium in hard water accumulates there and absorbs the nastiness over time.
+
+I had previously thought it was the porcelain wearing down and becoming porous. That may be a thing, probably with similar results. But today I was descaling my kitchen surfaces and had the idea to try it in the loo. It worked! I turned off the water supply and flushed until the water level was super low, added a bunch of descaler (I'm in the UK using Kilrock) and a cup of boiling water. After a few minutes it all came off incredibly easily. I can't believe I've gone my whole life not knowing about this!
+
+url:https://reddit.com/r/YouShouldKnow/comments/br9o75/
+author:ahundreddots
+subreddit:YouShouldKnow
+score:4517
+numComments:229
+isOver18:False
+hasPostBody:True

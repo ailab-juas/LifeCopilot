@@ -1,0 +1,13 @@
+title:
+LPT: When you get a new board game, keep historical score inside the box cover with your friends and family as you play through the years. Add the date and a little note about the occasion. The memories come back to you next time you open the box!
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/oqgpn3/
+author:EhSegzy1
+subreddit:LifeProTips
+score:1071
+numComments:39
+isOver18:False
+hasPostBody:False

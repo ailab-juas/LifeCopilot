@@ -1,0 +1,13 @@
+title:
+LPT: Defensive driving can be summarised in two principles. Be predictable and assume others will be unpredictable.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/uk1ttm/
+author:heykody
+subreddit:LifeProTips
+score:40645
+numComments:1066
+isOver18:False
+hasPostBody:False

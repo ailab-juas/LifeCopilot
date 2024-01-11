@@ -1,0 +1,13 @@
+title:
+LPT: If you accidentally leave your drink unattended in a public place, even for just a minute, always throw it out and get a new one.
+
+content:
+You never know if some asshole slipped something in. Wasting half a beer is worth peace of mind. Plus, hey, you get a new drink.
+
+url:https://reddit.com/r/LifeProTips/comments/pe3lz5/
+author:Spoons4Forks
+subreddit:LifeProTips
+score:9622
+numComments:555
+isOver18:False
+hasPostBody:True

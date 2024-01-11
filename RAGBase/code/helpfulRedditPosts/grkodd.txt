@@ -1,0 +1,13 @@
+title:
+LPT: read. Read fiction and non-fiction. Read science blogs and witty journalism and biographies. You'll be more eloquent, witty, have a broader worldview, rest better, and just might become a more accepting and mindful person. Reading is one of the best things for mental health and personal growth.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/grkodd/
+author:Nicolas_Mistwalker
+subreddit:LifeProTips
+score:5419
+numComments:208
+isOver18:False
+hasPostBody:False

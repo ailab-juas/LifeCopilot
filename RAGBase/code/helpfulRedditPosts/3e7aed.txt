@@ -1,0 +1,13 @@
+title:
+LPT: Taking something small apart? Don't lose that last screw... Use an ice cube tray!
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/3e7aed/
+author:StarvinStudent
+subreddit:LifeProTips
+score:4339
+numComments:699
+isOver18:False
+hasPostBody:False

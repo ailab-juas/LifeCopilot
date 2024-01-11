@@ -1,0 +1,13 @@
+title:
+LPT: If your oven is old, buy a cheap ($6-7) oven thermometer. Even though you "followed the recipe exactly" and it didn't turn out perfect, it could be because your oven is ruining things with a bad thermostat.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/74jr7i/
+author:anonymoushero1
+subreddit:LifeProTips
+score:1147
+numComments:34
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+YSK if Google misinterprets a voice command, you can correct it by saying "No, I said &lt;the word it misheard&gt;"
+
+content:
+For example, if you say "Okay google play Feels by Calvin Harris on Spotify", and google interprets it as "Okay google play Fields by Calvin Harris on Spotify" you can correct it by saying "Okay google no I said Feels"
+
+url:https://reddit.com/r/YouShouldKnow/comments/71dblt/
+author:VeritablePornocopium
+subreddit:YouShouldKnow
+score:5092
+numComments:90
+isOver18:False
+hasPostBody:True

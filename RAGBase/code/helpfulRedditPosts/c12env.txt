@@ -1,0 +1,15 @@
+title:
+YSK there's a site called everynoise.com that has a list of over 3000 genres of music, with Spotify playlists for every single one.
+
+content:
+This is such an amazing tool for finding new and interesting music. Plus you can find artists/groups that are similiar to ones you already like! It's really changed my music game since I found out about it a week ago.
+
+http://everynoise.com
+
+url:https://reddit.com/r/YouShouldKnow/comments/c12env/
+author:sukman666
+subreddit:YouShouldKnow
+score:6767
+numComments:146
+isOver18:False
+hasPostBody:True

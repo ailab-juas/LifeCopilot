@@ -1,0 +1,23 @@
+title:
+LPT: You Must Do an Absolute 100% Dry Run Test of EVERYTHING for Any Important Event or Presentation. Assume Nothing Will Work Right. Be Paranoid.
+
+content:
+Got a big presentation?  Got a big event you are running?  Got a once-in-a-lifetime shoot to perform or make a pitch to the powers that be?  Do you have a do-or-die moment for your job, company, or personal life?
+
+Then it is absolutely vital that you do a dry run test days before the event and then again the day of the event.  
+
+I can not tell you how often I've seen people screw the pooch or shoot themselves in the foot all because they didn't completely 100% test EVERYTHING prior to some important thing they had to do.
+
+Not having batteries, not having the right cord to connect your laptop to some projector, not having the right software to connect your system to another system, having some software update change your settings and screw up your program, forgetting to account for timezone differences, having the incorrect phone number or web meeting address, being unsure as to who is doing what, missing some widget...
+
+THe list of simple shit that can go wrong and screw you is almost infinite.   But by doing the test a few days before you force yourself to actually put eyeballs on all the things you "should" have and to make sure everything actually works.  And most importantly, you will give yourself the chance to rush order any part that you need at the last minute (you can get almost anything in 2 to 3 days).
+
+There is nothing worse than sitting at the front of the podium having to explain to your audience that a major part of your whatever can't be shown because you are missing a $5 widget or didn't realize that an Apple product won't connect right to a PC product...
+
+url:https://reddit.com/r/LifeProTips/comments/g70mjs/
+author:harrysapien
+subreddit:LifeProTips
+score:35680
+numComments:756
+isOver18:False
+hasPostBody:True

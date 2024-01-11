@@ -1,0 +1,14 @@
+title:
+YSK: why us flight attendants ask you to open the window shades before takeoff and landing
+
+content:
+Why YSK:  
+In addition, we always turn off the lights in the cabin at  this time. This is so that the human eye can get used to the level of  light outside the cabin. In case of an emergency situation and an urgent  need to leave the cabin, it is very important that the person can  immediately orient himself to his surroundings outside the plane and not  wait for his eyes to become accustomed to bright light or darkness.
+
+url:https://reddit.com/r/YouShouldKnow/comments/1005wk4/
+author:Nearby_Acanthaceae_7
+subreddit:YouShouldKnow
+score:12279
+numComments:346
+isOver18:False
+hasPostBody:True

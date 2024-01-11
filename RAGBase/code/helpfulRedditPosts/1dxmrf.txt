@@ -1,0 +1,13 @@
+title:
+YSK that there is brilliant Facebook page teaching subscribers how to read Chinese characters day-by-day using graphic design... featured on TED!
+
+content:
+This is her [Facebook](https://www.facebook.com/ShaoLanChineasy?hc_location=stream) page. This is her [TED](http://www.ted.com/talks/shaolan_learn_to_read_chinese_with_ease.html?qshb=1&amp;utm_expid=166907-27&amp;utm_referrer=https%3A%2F%2Fwww.google.com%2F) talk.
+
+url:https://reddit.com/r/YouShouldKnow/comments/1dxmrf/
+author:smarty_skirts
+subreddit:YouShouldKnow
+score:1364
+numComments:143
+isOver18:False
+hasPostBody:True

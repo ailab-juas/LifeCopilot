@@ -1,0 +1,15 @@
+title:
+YSK that if your phone/device that is used often and charged while using it and doesn't seem to charge at all, or the charger falls out, it probably isn't broken/going bad/in need of repair or replacement
+
+content:
+Why YSK: If you carry your device on you all the time, frequently put it in your pocket or charge it often and worry the port fell in because it barely charges or the cord falls out, take 5 minutes with a fine needle like a safety pin or sewing needle, a flashlight and a flat blade like an x-acto knife and clean out the dust and lint accumulating inside before filing a warranty claim or buying a replacement device. 
+
+I've found on several of my devices (current and past phones, particularly with USB-C) that I had a large amount of dust, pocket lint and dirt compacted in the port that prevented my charge cord from being able to fully seat or fast charge. So using a flashlight to see, I scrape the bottom and inside walls of the port with a sewing needle and an x-acto knife, and have removed a year and a half's worth of whatever it has picked up removed and get them to hold the charge cord and restore its ability to fast charge.
+
+url:https://reddit.com/r/YouShouldKnow/comments/kg3sqa/
+author:x1pitviper1x
+subreddit:YouShouldKnow
+score:6223
+numComments:260
+isOver18:False
+hasPostBody:True

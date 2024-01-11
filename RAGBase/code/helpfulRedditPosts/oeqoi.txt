@@ -1,0 +1,13 @@
+title:
+Common household items with hidden uses
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/oeqoi/
+author:FamilyToad
+subreddit:LifeProTips
+score:1938
+numComments:151
+isOver18:False
+hasPostBody:False

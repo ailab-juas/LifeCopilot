@@ -1,0 +1,15 @@
+title:
+YSK that in the event of a life threatening allergic reaction chewable benadryl can potentially keep you from suffocating until help arrives.
+
+content:
+I work with the public and I have run in to a few who are allergic to wasps and who also can't afford/forgot to bring an epi-pen. I always give them some chewable benadryl from the bottle in my med kit because if you can crush and swallow those in the first few minutes of an allergy attack it can mitigate the swelling of mouth and throat tissue so your airways don't close. 
+
+Please not this is not a substitute for proper medical care so you should absolutely still call 911. This is also not something you should administer to someone without knowing if it's OK for them to have benadryl, it can interact fatally with certain health conditions/medications.
+
+url:https://reddit.com/r/YouShouldKnow/comments/8dgtun/
+author:PixieBob88
+subreddit:YouShouldKnow
+score:1555
+numComments:100
+isOver18:False
+hasPostBody:True

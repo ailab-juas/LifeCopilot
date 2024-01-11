@@ -1,0 +1,13 @@
+title:
+YSK: What to do if you are the first ever human to make alien contact.
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/q9dip/
+author:Aktve
+subreddit:YouShouldKnow
+score:1040
+numComments:207
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,16 @@
+title:
+LPT: Want a password that always "stays" with you? The back cover of every hand watch has a unique serial number you can use as a password and never forget.
+
+content:
+And even if you lose your watch, the serial numbers are still in the warranty paper. 
+Most serial numbers have a combination of letters and numerals.
+
+Edit: If you have multiple passwords secured on a third party software/website, you can set the master password to the watch serial number.
+
+url:https://reddit.com/r/LifeProTips/comments/8jka65/
+author:I-am-always-happy
+subreddit:LifeProTips
+score:17802
+numComments:1403
+isOver18:False
+hasPostBody:True

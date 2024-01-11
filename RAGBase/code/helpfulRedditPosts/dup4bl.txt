@@ -1,0 +1,21 @@
+title:
+LPT: wet the blade of your knife before cutting an onion
+
+content:
+Onions contain volatile sulphur compounds which are released when you cut/bruise the onion. When they come in contact with the moisture in your eyes, ~~they react and produce sulfenic acids~~ they can irritate your eyes and trigger your lacrimal glands to activate and start producing tears, and it's what makes you cry.
+
+If you wet the blade of your knife before cutting the onion, those sulphur compounds will react with the water on the blade instead of getting in your eyes, so no more crying!
+
+Source: am chemist
+
+EDIT: fixed a scientifically incorrect part about what's actually making you cry
+
+EDIT2: one bit I didn't mention and I gave for granted, USE A SHARP KNIFE! A dull knife will bruise the onion and make everything 10x worse so first and foremost you need to use a sharp knife, but that isn't only valid for this problem!
+
+url:https://reddit.com/r/LifeProTips/comments/dup4bl/
+author:LucaBabetto
+subreddit:LifeProTips
+score:25934
+numComments:946
+isOver18:False
+hasPostBody:True

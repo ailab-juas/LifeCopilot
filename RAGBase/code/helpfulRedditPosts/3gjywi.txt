@@ -1,0 +1,22 @@
+title:
+YSK that if you are ever exposed to HIV, male or female, going to a doctor or ER and receiving the 'HIV Plan B', Post-Exposure Prophylaxis, will severely reduce your chances of contracting the disease.
+
+content:
+
+
+Not a substitute for proper needle handling or safe sex.
+
+
+Post-Exposure Prophylaxis (PEP) involves taking anti-HIV medications as soon as possible after you may have been exposed to HIV to try to reduce the chance of becoming HIV positive. These medications keep HIV from making copies of itself and spreading through your body.
+
+To be effective, PEP must begin within 72 hours of exposure, before the virus has time to make too many copies of itself in your body. PEP consists of 2-3 antiretroviral medications and should be taken for 28 days. Your doctor will determine what treatment is right for you based on how you were exposed to HIV. PEP is safe but may cause side effects like nausea in some people. These side effects can be treated and are not life threatening. PEP is not 100% effective; it does not guarantee that someone exposed to HIV will not become infected with HIV.
+
+https://aids.gov/hiv-aids-basics/prevention/reduce-your-risk/post-exposure-prophylaxis/
+
+url:https://reddit.com/r/YouShouldKnow/comments/3gjywi/
+author:williamthefloydian
+subreddit:YouShouldKnow
+score:4502
+numComments:130
+isOver18:False
+hasPostBody:True

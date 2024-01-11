@@ -1,0 +1,15 @@
+title:
+LPT: In you email inbox, search for "unsubscribe" to find all of the newsletters you never bother to unsub from. Take five minutes to do so now, and feel better.
+
+content:
+I originally posted this with the wording "spam", which wasn't what I intended to mean. Shout-out to Nephros for pointing it out. 
+
+Edit: I should probably disclaim, as others have pointed out, you should never click actual spam, or it might get worse. 
+
+url:https://reddit.com/r/LifeProTips/comments/1ns57x/
+author:onanym
+subreddit:LifeProTips
+score:2327
+numComments:197
+isOver18:False
+hasPostBody:True

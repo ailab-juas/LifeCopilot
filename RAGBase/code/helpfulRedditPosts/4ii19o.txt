@@ -1,0 +1,13 @@
+title:
+LPT: Take a photo showing the serial number of each of your expensive items/electronics. Keep the photos in a folder on a USB or in cloud storage. If you ever lose it or it's stolen, knowing the serial will greatly help you.
+
+content:
+This should really only take you a few minutes, and could save you a lot of headache down the road. It gives the police something to look for, plus you can call pawn shops and other places where it might have turned up. Saw someone on the Pebble subreddit today saying he'd lost his watch somewhere, and was hoping that maybe someone would dig up his email address from it. Be prepared!
+
+url:https://reddit.com/r/LifeProTips/comments/4ii19o/
+author:Takai_Sensei
+subreddit:LifeProTips
+score:1175
+numComments:66
+isOver18:False
+hasPostBody:True

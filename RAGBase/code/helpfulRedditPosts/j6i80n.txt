@@ -1,0 +1,13 @@
+title:
+LPT: Set your homepage to "https://en.wikipedia.org/wiki/Special:Random" and you'll be greeted with a random, educational Wikipedia page everytime. This is a good way to improve your general knowledge about things easily.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/j6i80n/
+author:aknalid
+subreddit:LifeProTips
+score:3085
+numComments:85
+isOver18:False
+hasPostBody:False

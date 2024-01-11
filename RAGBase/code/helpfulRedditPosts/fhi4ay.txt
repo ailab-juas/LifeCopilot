@@ -1,0 +1,17 @@
+title:
+YSK: Mixing bleach with other cleaning chemicals such as toilet bowl cleaners, vinegar, ammonia (like glass and window cleaners) and others can be exceptionally dangerous and can lead to injury or death even with short exposure.
+
+content:
+**If you are using bleach to clean and start experiencing respiratory trouble or discomfort, vent and leave the area immediately.** This can be a symptom of chlorine gas exposure, a byproduct of mixing or heating bleach. 
+
+**[Why?:](https://www.doh.wa.gov/youandyourfamily/healthyhome/contaminants/bleachmixingdangers)** Sodium Hypochlorite is the active ingredient in chlorine bleach. It is found in household bleach and many other disinfectants. Sodium hypochlorite reacts with ammonia, drain cleaners, and other acids. Many household products state that they contain bleach on the label.
+
+A Tragic [example](https://www.nbcnews.com/news/us-news/deadly-accidental-mix-acid-bleach-blamed-buffalo-wild-wings-manager-n1078866) demonstating this.
+
+url:https://reddit.com/r/YouShouldKnow/comments/fhi4ay/
+author:awrinkle1
+subreddit:YouShouldKnow
+score:1763
+numComments:93
+isOver18:False
+hasPostBody:True

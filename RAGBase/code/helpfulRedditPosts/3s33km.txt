@@ -1,0 +1,13 @@
+title:
+LPT: If you are at the store and need a membership in order to get a discount, but don't have a membership, use the number 867-5309.
+
+content:
+Famous song back in the day 867-5309/Jenny. This has seriously never failed me. I've used it in 20+ states and it works every single time. 
+
+url:https://reddit.com/r/LifeProTips/comments/3s33km/
+author:elfmachine100
+subreddit:LifeProTips
+score:2848
+numComments:791
+isOver18:False
+hasPostBody:True

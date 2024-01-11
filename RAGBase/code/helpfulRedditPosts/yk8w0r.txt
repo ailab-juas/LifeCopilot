@@ -1,0 +1,19 @@
+title:
+YSK: where you leave your dockless bike/scooter really does matter
+
+content:
+Why YSK: leaving an e-bike or scooter in the middle of the pavement can be very dangerous for people with reduced mobility or vision. 
+
+They block the pavements and it can be impossible for those that rely on white canes or guide dogs to navigate around them safely, not to mention completely obstructing paths for those reliant on mobility vehicles or  wheelchairs to get around.
+
+Please think about others and find a more responsible place to leave your dockless bike/scooter; try parking it in the gutter or completely out of the way of pedestrians. 
+
+EDIT: as u/AsphaltAdvertExec adds, if you see a badly parked bike or scooter, report it to the company that owns them. They will have clauses in the rental agreements to prevent users doing this, and charge the previous user for leaving them in inconvenient places. They will also come out and remove them.
+
+url:https://reddit.com/r/YouShouldKnow/comments/yk8w0r/
+author:Markham-X
+subreddit:YouShouldKnow
+score:1242
+numComments:44
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+YSK: if your airline won’t refund you despite the laws, your credit card company may be the best option.
+
+content:
+Contact your credit card company and dispute the charge under “services not rendered.”
+
+Unfortunately this has been what many people are resorting to as many airlines are desperately trying to hang on to every dime, but it’s been working for many and will be faster than waiting on hold for a voucher loop.
+
+url:https://reddit.com/r/YouShouldKnow/comments/fwu3cy/
+author:KeliGrein
+subreddit:YouShouldKnow
+score:5191
+numComments:159
+isOver18:False
+hasPostBody:True

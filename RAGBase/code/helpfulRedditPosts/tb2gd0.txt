@@ -1,0 +1,13 @@
+title:
+LPT --- Never shut anything that locks without having the key in your hand --- car door, trunk, apartment, etc.
+
+content:
+I learned the hard way.  Save time and money in one easy step.
+
+url:https://reddit.com/r/LifeProTips/comments/tb2gd0/
+author:Loisalene
+subreddit:LifeProTips
+score:1912
+numComments:146
+isOver18:False
+hasPostBody:True

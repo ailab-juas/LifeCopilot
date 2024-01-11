@@ -1,0 +1,26 @@
+title:
+YSK The BBB (Better Business Bureau) is just a review website.
+
+content:
+Many people are under the impression that the BBB is some government agency that ensures businesses and corporations are morally just. 
+That is not the case at all. 
+
+BBB is just a review website. Like Yelp. 
+
+Why YSK: those complaints you made on BBB towards a business or company is not really going to go anywhere unless action is taken by the company itself. 
+So when you call into customer service and try to leverage making a complaint on BBB, you’re not really creating a convincing argument for yourself. 
+As an Ex Customer Service Live Chat agent, I’ve received this ‘threat’ many times. And trust us, it goes nowhere. We’ll do our best, truly, to help you; but BBB has little impact to medium-large business and companies.
+
+Edit: editing this with a comment I made, and wanted to emphasize it here to not confuse anyone. 
+
+“I may have worded my post in such a way where it advises BBB is useless. That is not the case.
+
+ In the prompt I did advise that actions taken are solely up to the business/company and was only trying to emphasize that BBB is just a review website.”
+
+url:https://reddit.com/r/YouShouldKnow/comments/y4dljg/
+author:OMWasap
+subreddit:YouShouldKnow
+score:5693
+numComments:189
+isOver18:False
+hasPostBody:True

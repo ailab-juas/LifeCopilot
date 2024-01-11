@@ -1,0 +1,17 @@
+title:
+LPT: You can use skype to call US toll-free numbers, even if you do not have skype credit.
+
+content:
+This is immensely helpful if you are on vacation or traveling and need to call back to the states, say for example you need to let your bank know something and do not want to pay roaming fees.
+
+Also, if you have an SO or someone you want to talk to back home or need to call in an emergency you can [set up a toll-free number for them](https://www.800.com/plans) for $10/month so that you can call them on their cell if you need to.
+
+[Magic Jack](http://www.magicjack.com/how-it-works.html) is also another good option.
+
+url:https://reddit.com/r/LifeProTips/comments/3n35rp/
+author:ImportGuy
+subreddit:LifeProTips
+score:4297
+numComments:336
+isOver18:False
+hasPostBody:True

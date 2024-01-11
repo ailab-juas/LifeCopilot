@@ -1,0 +1,17 @@
+title:
+YSK that mediocre CPR is better than no CPR
+
+content:
+I've heard multiple people say that they'd be reluctant to perform CPR, despite being trained, because they're afraid they would mess it up or do it wrong.
+
+You should know that if someone isn't breathing and has no pulse, you can't make it worse. Doing even mediocre CPR gives them at least some chance. 
+
+"He ain't getting any deader!"
+
+url:https://reddit.com/r/YouShouldKnow/comments/d58ls9/
+author:britkitmc
+subreddit:YouShouldKnow
+score:13972
+numComments:603
+isOver18:False
+hasPostBody:True

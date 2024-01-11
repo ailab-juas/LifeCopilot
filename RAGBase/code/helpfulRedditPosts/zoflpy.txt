@@ -1,0 +1,13 @@
+title:
+YSK: If you're an expecting father, pack a cot and a bedroll in your car
+
+content:
+Why YSK: When you go to that hospital to deliver your baby,  not all delivery rooms and women's care units are created equal. Sometimes there are good dad beds, sometimes they're terrible, and sometimes you don't get a dad bed at all. Packing a cot and a bedroll will save you from sleeping on an absolutely terrible dad bed or on the floor.
+
+url:https://reddit.com/r/YouShouldKnow/comments/zoflpy/
+author:Stemperfied
+subreddit:YouShouldKnow
+score:1751
+numComments:146
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Write a fake pin number on the back of your credit card. That way if it gets stolen the person will only get 3 attempts before the ATM machine swallows the card.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5t018o/
+author:LonelyRaptor2017
+subreddit:LifeProTips
+score:24847
+numComments:2301
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: if you're struggling to fall asleep. DO NOT constantly check the time and mentally calculate how long you have until you wake up. This will just raise your stress levels and keep you up
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5w8vrd/
+author:killahbt
+subreddit:LifeProTips
+score:1613
+numComments:100
+isOver18:False
+hasPostBody:False

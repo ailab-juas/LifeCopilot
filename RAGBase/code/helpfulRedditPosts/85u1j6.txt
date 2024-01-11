@@ -1,0 +1,21 @@
+title:
+YSK that if you bought a PS3 from an authorized retailer, you have a month to claim a $65 refund
+
+content:
+From the article: *It's due to a class action lawsuit involving a security update. The original PlayStation 3 had the option for an alternate operating system, but the slim version of the console released later removed that feature as part of a security update. This resulted in a class action lawsuit which was settled in 2016. It allows owners of the original PlayStation 3 to claim a $65 payout by submitting a claim form.*
+
+*You can submit a claim form [here](http://www.otherossettlement.com/poc.php).*
+
+*To be eligible, you must have purchased the console from an authorized retailer, provide your PlayStation username and the serial number of your system. The deadline for submitting a claim is April 15*
+
+New story here: http://www.kctv5.com/story/37765859/if-you-owned-a-playstation-3-you-have-a-month-to-claim-a-65-refund
+
+Edit: I should clarify that this is in the US only.
+
+url:https://reddit.com/r/YouShouldKnow/comments/85u1j6/
+author:toremygooch
+subreddit:YouShouldKnow
+score:5232
+numComments:276
+isOver18:False
+hasPostBody:True

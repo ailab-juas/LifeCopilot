@@ -1,0 +1,13 @@
+title:
+LPT: When you need to call a company, get the number directly from the contact us section of their official website. Do not Google the number.
+
+content:
+There has been a huge uptick in scams and fraud related to people calling business numbers off of Google. Anyone can put info on Google, it is not verified. The scam is they pose as that company to get sensitive information from you. If you get a call from a  company, never hesitate to hang up and call them from the number on their official website to make sure they were the ones to call you. Fraud in general is on the rise. Here is the FCC list of known scams https://www.fcc.gov/scam-glossary
+
+url:https://reddit.com/r/LifeProTips/comments/ut5d0a/
+author:otherusernameisNSFW
+subreddit:LifeProTips
+score:2590
+numComments:90
+isOver18:False
+hasPostBody:True

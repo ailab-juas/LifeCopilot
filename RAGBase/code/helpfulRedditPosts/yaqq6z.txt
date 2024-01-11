@@ -1,0 +1,13 @@
+title:
+LPT: The next book you read make sure to look up each and every word you don't understand. It is a good practice both for learning aswell as humility.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/yaqq6z/
+author:bluep0pcorn
+subreddit:LifeProTips
+score:26820
+numComments:993
+isOver18:False
+hasPostBody:False

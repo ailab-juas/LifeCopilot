@@ -1,0 +1,21 @@
+title:
+YSK about a more affordable EpiPen alternative
+
+content:
+EpiPen recently got a massive price hike, and if you have severe allergies, you shouldn't have to choose between risking your life and going broke. At least in the US, consider talking to your doctor about Adrenaclick. It's significantly cheaper. It's a similar concept, though the device itself works slightly differently. It can't be substituted by your pharmacist, you will need a separate prescription. 
+
+The link below has some more information. Apparently there's a coupon from GoodRx that significantly lowers the price, as well.
+
+http://www.consumerreports.org/drugs/how-to-get-cheaper-epipen-alternative/
+
+There is also a generic version of AdrenaClick, known as an epinephrine autoinjector.
+
+http://www.epinephrineautoinject.com/index.php
+
+url:https://reddit.com/r/YouShouldKnow/comments/4zhpfe/
+author:Gungnir111
+subreddit:YouShouldKnow
+score:4430
+numComments:493
+isOver18:False
+hasPostBody:True

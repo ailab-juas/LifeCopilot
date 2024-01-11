@@ -1,0 +1,13 @@
+title:
+YSK not to run generators indoors. 80 people die each year from running their generators indoors.
+
+content:
+Why YSK: Dying is deadass lame. Following safety instructions and reading manuals is slightly less lame.
+
+url:https://reddit.com/r/YouShouldKnow/comments/xttwld/
+author:redingerforcongress
+subreddit:YouShouldKnow
+score:7635
+numComments:277
+isOver18:False
+hasPostBody:True

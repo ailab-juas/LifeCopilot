@@ -1,0 +1,13 @@
+title:
+LPT: If you think someone has forgotten your name during a conversation, subtly give an anecdote in which a person refers to you by name. (ie. and he says to me “Hey Dave…”)
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/r1kco6/
+author:hatecherry
+subreddit:LifeProTips
+score:1804
+numComments:94
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,15 @@
+title:
+YSK: Bungee cords are the leading cause of serious eye injuries
+
+content:
+Why YSK: When a bungee cord snaps back, it can travel at more than 200 miles an hour. This can cause serious damage to your eye and lead to vision loss or blindness. 
+
+Instead of using bungee cord to tie down loads in a vehicle, use rope or ratcheting straps. It could save you from a devastating injury.
+
+url:https://reddit.com/r/YouShouldKnow/comments/og82es/
+author:PalpatineForEmperor
+subreddit:YouShouldKnow
+score:1305
+numComments:65
+isOver18:False
+hasPostBody:True

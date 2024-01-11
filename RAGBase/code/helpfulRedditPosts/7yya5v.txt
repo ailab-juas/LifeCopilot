@@ -1,0 +1,21 @@
+title:
+YSK the difference between a phrasal verb and a noun.
+
+content:
+It's important to properly distinguish between a phrasal verb and a noun. Many people and many websites get this wrong, including reddit! 
+
+For example, there is a difference between "log in" and "login." Whereas the former is a phrasal verb, indicating an action, the latter is a noun. You need to click "log in" to access your bank account. Your login is a combination of your username and password. 
+
+Here is a long list of phrasal verbs and nouns: https://brians.wsu.edu/2016/05/30/phrasal-verbs-vs-nouns/
+
+Another pair I commonly see used incorrectly are "set up" and "setup." You don't "setup" your computer. You "set up" your computer, and the combination of all of your computer's peripherals is what some people may call their "setup." 
+
+Now, my view is linguistically prescriptivist. Common use may eventually fully override this rule and we might eventually see the one word and two word forms used interchangeably in scholarly writing. Until then, putting a button labeled "login" next to your username and password entry fields is incorrect. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/7yya5v/
+author:FlyingPhotog
+subreddit:YouShouldKnow
+score:3728
+numComments:375
+isOver18:False
+hasPostBody:True

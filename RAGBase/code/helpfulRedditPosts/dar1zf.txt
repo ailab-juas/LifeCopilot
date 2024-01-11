@@ -1,0 +1,13 @@
+title:
+LPT: Try mailing your Grandma a greeting card with a hand-written note, even if it's not a special occasion. It will brighten her life for the entire week!
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/dar1zf/
+author:orangerobotgal
+subreddit:LifeProTips
+score:2798
+numComments:108
+isOver18:False
+hasPostBody:False

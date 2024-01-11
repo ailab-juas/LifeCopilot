@@ -1,0 +1,13 @@
+title:
+LPT: If you're struggling to motivate yourself to go to the gym/for a run, get into your gym gear before you decide to slack it off
+
+content:
+Your heart rate actually increases before you start exercising and this is one of the key mental triggers. You're much less likely to give up once you're in you're gym kit. 
+
+url:https://reddit.com/r/LifeProTips/comments/2qpcti/
+author:ptstolls
+subreddit:LifeProTips
+score:2444
+numComments:329
+isOver18:False
+hasPostBody:True

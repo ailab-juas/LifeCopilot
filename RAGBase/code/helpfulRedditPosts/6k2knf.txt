@@ -1,0 +1,24 @@
+title:
+YSK The Petya Cyber Attackers Email Has Been Disabled. Paying the Ransom Will Do Nothing.
+
+content:
+&gt; The malware asks victims to communicate with the attackers via a single email address which has been suspended by the email provider after they discovered what it was being used for. This means that **even if someone pays the ransom, they have no way to communicate with the attacker to request the decryption key to unlock their files**.
+
+https://www.theguardian.com/technology/2017/jun/27/petya-ransomware-cyber-attack-who-what-why-how
+
+
+**Edit:** Data is nonrecoverable! 
+
+/u/strib666 ~ "The Petya-like ransomware that hit over the past couple of days is unrecoverable. It doesn't matter if you can get the key or not."
+
+&gt; Our analysis indicates there is little hope for victims to recover their data. We have analyzed the high-level code of the encryption routine, and we have figured out that, after disk encryption, the threat actor could not decrypt victims' disks. To decrypt a victim's disk, threat actors need the installation ID. In previous versions of "similar" ransomware like Petya/Mischa/GoldenEye, this installation ID contained the information necessary for key recovery. ExPetr does not have that, which means that the threat actor could not extract the necessary information needed for decryption. In short, victims could not recover their data.
+
+https://arstechnica.com/security/2017/06/petya-outbreak-was-a-chaos-sowing-wiper-not-profit-seeking-ransomware/
+
+url:https://reddit.com/r/YouShouldKnow/comments/6k2knf/
+author:DisapprovingLlama
+subreddit:YouShouldKnow
+score:2737
+numComments:162
+isOver18:False
+hasPostBody:True

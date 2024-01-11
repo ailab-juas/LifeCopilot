@@ -1,0 +1,13 @@
+title:
+LPT: Straight from my dad, wisest guy I know
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/272jbu/
+author:thehotdogmann
+subreddit:LifeProTips
+score:2082
+numComments:806
+isOver18:False
+hasPostBody:False

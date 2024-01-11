@@ -1,0 +1,15 @@
+title:
+LPT: If you're going on vacation or a road trip download the offline maps so you're never lost even when you don't have service.
+
+content:
+You can download specific areas or entire states on Google maps or other apps.
+
+Obligatory edit: Thanks for the awards, it's the first time I've been given one!
+
+url:https://reddit.com/r/LifeProTips/comments/sh6duz/
+author:Micow11
+subreddit:LifeProTips
+score:3937
+numComments:123
+isOver18:False
+hasPostBody:True

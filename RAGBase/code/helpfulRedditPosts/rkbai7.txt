@@ -1,0 +1,13 @@
+title:
+LPT: Every couple years, get your credit card company to re-issue your card with a new number. Also ask them to cancel auto-billing arrangements. It's a great way to purge forgotten subscriptions, prevent surprise charges, and pare down your bills to just what you want/are aware of.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/rkbai7/
+author:adriancrook
+subreddit:LifeProTips
+score:2532
+numComments:177
+isOver18:False
+hasPostBody:False

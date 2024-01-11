@@ -1,0 +1,13 @@
+title:
+LPT: If someone says something that really upsets you or pisses you off, repeat it back to them by saying “If I understand you correctly, you’re saying…” You might save yourself an argument if you misunderstood, or they might take it back after hearing how it sounds.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/sdnct9/
+author:Praha3
+subreddit:LifeProTips
+score:5098
+numComments:90
+isOver18:False
+hasPostBody:False

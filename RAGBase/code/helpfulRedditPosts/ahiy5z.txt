@@ -1,0 +1,13 @@
+title:
+LPT: When arguing a different point of something, try starting with. “My understanding is...”. It lets others know that your opinion might be biased or without full information, but allows them to be more accepting and understanding of the information.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ahiy5z/
+author:Asthma_Enthusiast
+subreddit:LifeProTips
+score:1830
+numComments:49
+isOver18:False
+hasPostBody:False

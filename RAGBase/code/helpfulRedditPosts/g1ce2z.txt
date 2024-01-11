@@ -1,0 +1,13 @@
+title:
+LPT: If you are having a really bad day you should try to do something nice for someone else. You will make another person happy and the good energy will affect your mood.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/g1ce2z/
+author:AnnaJackson4784
+subreddit:LifeProTips
+score:1546
+numComments:36
+isOver18:False
+hasPostBody:False

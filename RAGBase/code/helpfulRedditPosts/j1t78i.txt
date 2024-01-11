@@ -1,0 +1,15 @@
+title:
+YSK: Community College tuition is free for your first two years in Michigan if you were a Frontline worker who worked from April 1st to June 30th.
+
+content:
+Why YSK: It is literally a free associate's degree. 
+
+https://www.michigan.gov/frontliners/
+
+url:https://reddit.com/r/YouShouldKnow/comments/j1t78i/
+author:Kasrkin21524
+subreddit:YouShouldKnow
+score:14234
+numComments:199
+isOver18:False
+hasPostBody:True

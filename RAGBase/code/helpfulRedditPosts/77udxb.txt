@@ -1,0 +1,22 @@
+title:
+YSK Radon kills 20,000 Americans a year by simply living in their homes
+
+content:
+Radon, a radioactive gas trapped in rocks and soil kills more people every year than drunk driving, fires, and carbon monoxide and is the second leading cause of lung cancer. According to the EPA, 80% of US homes haven't been tested for radon even though it's relatively cheap and easy to test for.
+
+
+According to the Environmental Health Committee: 
+&gt;"Radon is naturally occurring, odorless, and colorless gas produced by the breakdown of uranium in soil, rock, and water. Because radon is a gas, it can enter buildings through openings or cracks in the foundation. The radon gas itself decays into radioactive solids, called radon daughters. The radon daughters attach to dust particles in the air, and can be inhaled. The inhalation of radon daughters has been linked to lung cancer."
+
+Oyvind Birkenes, CEO of Airthings, a leading radon detection company says:
+&gt;"So there is radon everywhere in the air, but outside it's mixed with cold air and it's very very low levels. The problem is when you get inside and it collects high levels of radon."
+
+Especially during the Winter, the frozen ground traps radon around homes, pulling in higher concentrations of the gas. The average level of homes in the US is  1.3 picocuries per liter and high radon level measures at 4 picocuries per liter or higher.  
+
+url:https://reddit.com/r/YouShouldKnow/comments/77udxb/
+author:jayfreeze7
+subreddit:YouShouldKnow
+score:3146
+numComments:301
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,17 @@
+title:
+YSK that simply citing a scientific source does not make what you're reading correct
+
+content:
+Why YSK: Academic papers are generally complicated and often have a very specific focus. This unfortunately is not ideal for news and media sites which are looking for simple, broad conclusions that can grab your attention. Journalists are rarely experts in the fields and so whether intentionally or not will commonly misinterpret, exaggerate, oversimplify, or even straight up lie about the meaning of the results.
+
+As well as this, a single study in isolation will almost never fundamentally change scientific understanding. Even when peer reviewed and published, there will always be limitations to the conclusions that can be drawn. Most often, a groundbreaking study will simply encourage further research to be done in that area. As the collective knowledge grows, the collective understanding changes. So, just because a news source links to a scientific study that seems to agree with what they're saying, it doesn't mean the bold statements they're making are entirely accurate. 
+
+Also, if the source is just quoted as 'scientists' then you should be very skeptical of any claims made.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ko2y9q/
+author:Penguin__Farts
+subreddit:YouShouldKnow
+score:10626
+numComments:160
+isOver18:False
+hasPostBody:True

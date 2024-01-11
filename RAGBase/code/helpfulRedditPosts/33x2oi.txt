@@ -1,0 +1,19 @@
+title:
+LPT: When using Google or Apple Maps, tapping the screen once with two fingers will zoom out.
+
+content:
+I've had trouble zooming out when I'm using my phone to navigate while driving.  With one hand on the wheel, and the phone in a cradle, a pinching motion to zoom out isn't as simple or controllable as I would like.
+
+I've wanted something as simple as double tapping to zoom in, but to zoom out. Today I discovered that tapping once with two fingers does exactly that. 
+
+So if anyone else has wanted or needed this like I have, well, there it is. 
+
+Edit: Wow, I finally made the front page!  I'm going to savor this with a highball of Balvenie and tune out the voice in the back of my head that keeps repeating "All glory is fleeting".
+
+url:https://reddit.com/r/LifeProTips/comments/33x2oi/
+author:victorykings
+subreddit:LifeProTips
+score:2738
+numComments:219
+isOver18:False
+hasPostBody:True

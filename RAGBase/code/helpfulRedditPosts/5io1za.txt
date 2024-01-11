@@ -1,0 +1,20 @@
+title:
+LPT: Turn off mobile data when using an app that doesn't require an internet connection so no adverts appear
+
+content:
+All free apps tend to have annoying adverts, having no internet connection means no ads. 
+
+
+*Edit - wow front page :O Did not expect that, on iPhone you can turn off mobile data for specific apps!
+
+*Edit 2 - I understand the point that developers will lose some money but fact of the matter is, most free apps will show an annoying advert every minute, the videos ones use up allot of data. So maybe they should reduce the frequency to discourage this. I still see adverts when on Wifi.
+
+*Final Edit - Allot of developers are commenting on how they don't like this and lose money. I wouldn't have to do this if ads weren't so intrusive and I didn't get ads ever 30-60 seconds, especially video ones. 
+
+url:https://reddit.com/r/LifeProTips/comments/5io1za/
+author:Adeel_007
+subreddit:LifeProTips
+score:16685
+numComments:740
+isOver18:False
+hasPostBody:True

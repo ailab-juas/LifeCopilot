@@ -1,0 +1,19 @@
+title:
+YSK you can text the San Francisco Museum of Modern Art to get pictures of art texted to you.
+
+content:
+If you text 572-51 with "send me" and a descriptor -- for example "send me blue" or "send me peace" -- the museum's system will find a piece of art in their collection that matches and send you a picture of the art and a description. The system can also process certain emojis! 
+
+The system was launched in 2017 and has helped to expose people all over the globe to different works of art. Because the gallery contains over 34,600 works, you might see something that hasn't been seen by the public in years. 
+
+Have fun exploring art!
+
+Edit: thank you kind strangers for the silver!
+
+url:https://reddit.com/r/YouShouldKnow/comments/etgrhl/
+author:SaintWoo
+subreddit:YouShouldKnow
+score:1330
+numComments:92
+isOver18:False
+hasPostBody:True

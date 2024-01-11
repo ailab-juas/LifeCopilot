@@ -1,0 +1,13 @@
+title:
+YSK when using public WiFi you can use incognito mode to force wifi sign in page.
+
+content:
+If you use public Wi-Fi and for some reason it won't automatically direct you to the page where you login.  Just go to incognito mode in your browser and go to any page and it will pop up.
+
+url:https://reddit.com/r/YouShouldKnow/comments/fde6b3/
+author:supguyyo
+subreddit:YouShouldKnow
+score:15730
+numComments:269
+isOver18:False
+hasPostBody:True

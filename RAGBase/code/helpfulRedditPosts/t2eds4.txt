@@ -1,0 +1,15 @@
+title:
+LPT: Parking on a higher floor of a garage is almost always a time win
+
+content:
+People spend time circling to find a good space on the lower floor(s) of a parking garage, and for all that, often end up away from the elevator with a long walk.  The higher floors are often almost near-empty and you can park nearer the elevator.   
+
+Because of elevators,  the higher floors are really no further than the lower floor and the  ease of finding a good space is often rewarded.
+
+url:https://reddit.com/r/LifeProTips/comments/t2eds4/
+author:aecarol1
+subreddit:LifeProTips
+score:1035
+numComments:88
+isOver18:False
+hasPostBody:True

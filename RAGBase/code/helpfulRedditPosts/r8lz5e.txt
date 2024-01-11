@@ -1,0 +1,15 @@
+title:
+LPT: If you’re browsing potential travel bookings (hotels, flights etc) but don’t end up booking right away, use a different device when you do decide to book.
+
+content:
+This might be common knowledge but wasn’t for me, at 30 years old. My partner was searching hotels for one night in Toronto a few days ago. When he went to book the hotel tonight, his cell phone gave him the price of $222,  he logged on to my lap top and got it for $176. 
+
+Question: is this was “cookies” do?
+
+url:https://reddit.com/r/LifeProTips/comments/r8lz5e/
+author:nikkicocaine
+subreddit:LifeProTips
+score:1293
+numComments:79
+isOver18:False
+hasPostBody:True

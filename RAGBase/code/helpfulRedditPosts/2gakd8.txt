@@ -1,0 +1,15 @@
+title:
+LPT: When trying to get into a good habit, such as working out regularly, don't tell other people that you are about to work out or that you plan to workout regularly.
+
+content:
+When you tell other people that you are about to work out or plan on working out often, it triggers the release of dopamine in the 'reward center' of our brain. Because of this, it feels as if we have already been rewarded for the action that we were planning to do, such as working out, and we are less motivated to actually complete the action.
+
+By not telling your friends that you are about to workout, the rewarding feeling is postponed till the workout is completed. 
+
+url:https://reddit.com/r/LifeProTips/comments/2gakd8/
+author:PMforMEDIOCRE_ADVICE
+subreddit:LifeProTips
+score:2961
+numComments:447
+isOver18:False
+hasPostBody:True

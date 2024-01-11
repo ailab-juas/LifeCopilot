@@ -1,0 +1,19 @@
+title:
+YSK that by looking up "3.11" on yahoo.co.jp, 10 cents will be donated to the East Japan Earthquake recovery effort. Please, if you have time.
+
+content:
+http://search.yahoo.co.jp/search?p=3.11
+
+For every person that looks up 3.11 on the website, Yahoo and partners will donate 10 yen (equivalent to 10 cents).
+
+Anything helps. 
+
+It's been 7 years, and many people still can't return to their homes. Let us remember the people we lost, and the lessons we learned.
+
+url:https://reddit.com/r/YouShouldKnow/comments/83g8q8/
+author:lmaofuckme
+subreddit:YouShouldKnow
+score:5231
+numComments:134
+isOver18:False
+hasPostBody:True

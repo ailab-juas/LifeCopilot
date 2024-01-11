@@ -1,0 +1,13 @@
+title:
+YSK: "Etiquette says that gifts at work should flow downward, not upward"
+
+content:
+Why YSK: Meaning if you give gifts they should be lateral or downward. IE to people that make roughly the same or less. No one should expect or be expected to give gifts to their boss or otherwise much more wealthy people.
+
+url:https://reddit.com/r/YouShouldKnow/comments/zub2sg/
+author:LocalChamp
+subreddit:YouShouldKnow
+score:26671
+numComments:859
+isOver18:False
+hasPostBody:True

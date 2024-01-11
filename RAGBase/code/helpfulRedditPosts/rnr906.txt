@@ -1,0 +1,13 @@
+title:
+YSK VHS video cassettes degrade over time. Under average conditions, the tapes have a life expectancy of about 30 years. Those tapes laying around from the 90's with precious family memories are already significantly degraded. You should look to digitize all of your families VHS tapes now.
+
+content:
+Why YSK: Many people have old VHS tapes laying around, not realizing that they will soon be degraded  beyond usefulness.  These could be the only video of loved ones, etc.  If you want to keep these memories, you must convert these to digital ASAP.
+
+url:https://reddit.com/r/YouShouldKnow/comments/rnr906/
+author:grandlewis
+subreddit:YouShouldKnow
+score:46849
+numComments:806
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: If you struggle to wake up and you do it late, leave everything done for next day (clothes ready, ingredients for your coffee at hand, etc.) That way you will be ready to go much faster.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/dc97ya/
+author:TheShyDragon
+subreddit:LifeProTips
+score:25331
+numComments:811
+isOver18:False
+hasPostBody:False

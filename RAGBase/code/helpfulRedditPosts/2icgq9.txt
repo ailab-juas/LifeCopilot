@@ -1,0 +1,16 @@
+title:
+LPT: If you really need to upload an ID scan, watermark it with the company's name, the date and for which purpose it's used.
+
+content:
+Ideally, you don't upload ID scans at all, but if you really have to, watermark it. For example, AirBnb now requires IDs, so you watermark it with "Airbnb, [Date], Purpose: Initial Identification". This way, if Airbnb gets hacked, (1) it's harder to steal your identity and (2) if your ID gets leaked, it's clear who leaked it, so you are able to press charges against the company.
+On Macs, you can use preview to do this: Tools &gt; Annotate &gt; Text. You can also choose to set opacity to some low percentage, so it's still possible to read the details. You might also want to choose to censor your signature so it cannot be used.
+
+Edit: also, you can convert the ID to black-white/grayscale. credits to /u/nwvv for this idea.
+
+url:https://reddit.com/r/LifeProTips/comments/2icgq9/
+author:john1443
+subreddit:LifeProTips
+score:3208
+numComments:297
+isOver18:False
+hasPostBody:True

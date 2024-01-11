@@ -1,0 +1,19 @@
+title:
+YSK there is a text based phishing campaign to hack people's venmos. If you get a text that looks like Venmo and claims there is suspicious activity, report it.
+
+content:
+Why YSK: There is currently text bot sending very convincing texts claiming to be Venmo's fraud service.  They ask you to follow a link that looks like it's Venmo's and sign in.  The link uses "venmo" as its third level domain so it appears legit, but the second level domain is something else meaning any sign in information is NOT going to venmo, but a scammer who will then access and drain your account.
+
+Venmo will not send you texts asking you to sign in.  NO BANK WILL.  Instead, any legitimate fraud alert will ask you to sign in to their app/website **without** providing the link.  This scam exists solely to trick people into "logging in" on the fake website and stealing your credentials.
+
+Do not fall for this scam.  Report it if you happen to get this specific text, and remember NEVER to sign in on any links delivered to you (unrequested).
+
+Also, remember that third level domains have no relation to the company.  All websites follow the {xxxx}.{yyyyy}.{zzzzz} format.  {yyyyy} tells you the domain (in the sense most people think about it).  {xxxxx} tells you where in the domain to look.  Therefore {Signup}.{Google}.{com} is Google but {Google}.{Signup}.{com} is someone called "Signup" pretending to be google.
+
+url:https://reddit.com/r/YouShouldKnow/comments/lu2jcq/
+author:GameAndHike
+subreddit:YouShouldKnow
+score:5913
+numComments:52
+isOver18:False
+hasPostBody:True

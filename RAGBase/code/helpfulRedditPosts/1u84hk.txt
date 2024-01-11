@@ -1,0 +1,13 @@
+title:
+YSK about unplugthetv.com which plays informative, fascinating videos to watch instead of tv
+
+content:
+http://unplugthetv.com/
+
+url:https://reddit.com/r/YouShouldKnow/comments/1u84hk/
+author:myballsarebouncing
+subreddit:YouShouldKnow
+score:1846
+numComments:100
+isOver18:False
+hasPostBody:True

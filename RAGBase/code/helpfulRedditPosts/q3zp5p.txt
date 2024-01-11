@@ -1,0 +1,13 @@
+title:
+LPT: if you are naming your small business and ever find yourself thinking... "this C might look better as a K" you are wrong. Don't do it.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/q3zp5p/
+author:lonabirdie
+subreddit:LifeProTips
+score:6233
+numComments:554
+isOver18:False
+hasPostBody:False

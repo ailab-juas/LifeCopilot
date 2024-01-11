@@ -1,0 +1,19 @@
+title:
+YSK: Lawyers are hired guns. If they accept a case, then they have a moral and legal obligation to defend their client to the best of their ability
+
+content:
+Why YSK: People often unfairly blame lawyers for their courtroom antics and for the actions of the client.  Sure, it is fair to argue that maybe a lawyer should not have accepted the case to begin with. But also, private law firms are often "assigned" to defend horrible cases. 
+
+There are many lawyers that go home and take a cold shower because they had to defend a rapist or a mass murderer. 
+
+But in the USA, one of our legal principles is that EVERYONE has the right to a competent attorney. And we should be proud of this fact.  Because if the law protects rapists and mass murderers then it will protect you and me too.
+
+You should not blame a lawyer for doing their job.  They can literally lose their license, career, and go to jail if they don't do their job.
+
+url:https://reddit.com/r/YouShouldKnow/comments/u9rwwl/
+author:blitzkrieg9
+subreddit:YouShouldKnow
+score:5412
+numComments:239
+isOver18:False
+hasPostBody:True

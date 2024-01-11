@@ -1,0 +1,13 @@
+title:
+LPT: Throw a few of those silica gel packets in your toolbox. It'll help keep your tools from rusting.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/faa2r8/
+author:Anam_Cara
+subreddit:LifeProTips
+score:1055
+numComments:61
+isOver18:False
+hasPostBody:False

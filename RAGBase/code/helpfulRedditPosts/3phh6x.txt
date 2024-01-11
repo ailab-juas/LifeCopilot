@@ -1,0 +1,13 @@
+title:
+LPT: To prevent a pie (or cake) from being wrecked, cut out at least two pieces of a pie before attempting to remove the first piece.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/3phh6x/
+author:[deleted]
+subreddit:LifeProTips
+score:3028
+numComments:318
+isOver18:False
+hasPostBody:True

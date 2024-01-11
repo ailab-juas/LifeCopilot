@@ -1,0 +1,13 @@
+title:
+LPT: When someone asks you for help, show them how you find the answer rather than just giving it to them
+
+content:
+In particular when it comes to matters at work. I regularly get asked for help on a range of topics (largely technical) and people don't realise there was no special knowledge I had to find the answer... However, if I just give them the answer, it just reinforces the idea of interdependence and that it is just easier to ask someone. Teaching self sufficiency is more important than providing it...
+
+url:https://reddit.com/r/LifeProTips/comments/4r1r2u/
+author:adprom
+subreddit:LifeProTips
+score:3927
+numComments:839
+isOver18:False
+hasPostBody:True

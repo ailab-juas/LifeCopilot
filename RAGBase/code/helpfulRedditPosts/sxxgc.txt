@@ -1,0 +1,13 @@
+title:
+When cutting bread, turn it upside down and cut on the soft side, this saves the bread from being squished and makes for an easier cut.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/sxxgc/
+author:[deleted]
+subreddit:LifeProTips
+score:1560
+numComments:191
+isOver18:False
+hasPostBody:False

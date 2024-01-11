@@ -1,0 +1,13 @@
+title:
+LPT: Use a cardboard template for projects where various bolts are removed.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/3aivcp/
+author:mbash013
+subreddit:LifeProTips
+score:1330
+numComments:62
+isOver18:False
+hasPostBody:False

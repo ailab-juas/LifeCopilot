@@ -1,0 +1,13 @@
+title:
+LPT: Keep a garbage bag at the bottom of your laptop bag, backpack, etc. If you're ever caught in the rain, you can stuff your things into it to keep them dry.
+
+content:
+I forgot I put a garbage bag into my laptop bag over a year ago, and today it saved my laptop and several important documents I've been working on for a while because I forgot my umbrella at home.
+
+url:https://reddit.com/r/LifeProTips/comments/1i0m9w/
+author:lolgrim
+subreddit:LifeProTips
+score:1674
+numComments:97
+isOver18:False
+hasPostBody:True

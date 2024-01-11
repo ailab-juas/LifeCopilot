@@ -1,0 +1,13 @@
+title:
+LPT: Always be nice and patient with customer service people. We have a lot of tools to help you, but we will conveniently forget them if you are rude.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/vmlmxu/
+author:TysonGamez
+subreddit:LifeProTips
+score:23110
+numComments:1056
+isOver18:False
+hasPostBody:False

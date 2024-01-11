@@ -1,0 +1,17 @@
+title:
+YSK: There is a website where you can actually find out how much medical care will cost at local hospitals before you go. The website is www.finestrahealth.com
+
+content:
+Why YSK:
+
+[The site](http://finestrahealth.com) has a map that says its currently available in Boston, NYC, Chicago, San Fran, and LA but it seems to be growing. (I don’t remember seeing LA there when I checked on it yesterday but it's there now) Being able to find this info (and maybe shop around for the best price) will be so useful for me
+
+**Update:** As per u/ambxshing's comment, this site only appears to currently work for hospitals in You should add that this website only works for hospitals in: San Francisco Bay Area, Los Angeles, Chicago, New York City, and Boston.
+
+url:https://reddit.com/r/YouShouldKnow/comments/x39cqs/
+author:ForsakenGrape1
+subreddit:YouShouldKnow
+score:12578
+numComments:393
+isOver18:False
+hasPostBody:True

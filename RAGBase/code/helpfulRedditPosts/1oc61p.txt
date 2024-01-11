@@ -1,0 +1,13 @@
+title:
+Why You Should Speak More Slowly and Deliberately
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1oc61p/
+author:Cyire
+subreddit:LifeProTips
+score:1959
+numComments:216
+isOver18:False
+hasPostBody:False

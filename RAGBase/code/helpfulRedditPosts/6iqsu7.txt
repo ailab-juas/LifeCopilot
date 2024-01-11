@@ -1,0 +1,21 @@
+title:
+LPT: Instead of asking others if they "know" a subject, ask them if they're "familiar with" it; people are less likely to feel challenged by the latter phrasing (and as a result, more likely to answer honestly).
+
+content:
+**No:**
+*"Do you know anything about The Wiggles?"* or
+*"Do you know the Pythagorean theorem?"*
+
+&amp;nbsp;
+
+**Yes:**
+*"Are you familiar with The Wiggles?"* or
+*"Are you familiar with the Pythagorean theorem?"*
+
+url:https://reddit.com/r/LifeProTips/comments/6iqsu7/
+author:nocowsever
+subreddit:LifeProTips
+score:16420
+numComments:490
+isOver18:False
+hasPostBody:True

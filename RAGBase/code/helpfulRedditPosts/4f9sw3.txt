@@ -1,0 +1,19 @@
+title:
+LPT: Avoid employers who pay their workers as "independent contractors."
+
+content:
+Unless you're using your own equipment and are responsible for your expenses, scheduling, and how/where work is performed, you are more than likely an employee, not an IC. As an independent contractor, if none of the above applies, you'll have little to nothing to deduct and you'll owe nearly a quarter of your income in taxes (at least, this was true in my case).
+
+Misclassifying workers as "independent contractors" (paid on a 1099 rather than a W2) is a common way employers save money by avoiding payroll taxes and shift all the tax burden to the workers. Many workers who take these jobs do so because they have few other options, and they're being taken advantage of by these types of employers who know they won't complain.
+
+I speak from personal experience.
+
+*Edit: as many have pointed out, this is really more of a LPT to fully understand what you're getting into and what being an IC means, and be aware that there are a lot of employers out there who will try to cheat the system to save a buck. There ARE some situations where bring an IC makes sense. Do your research so you don't get screwed like I did.
+
+url:https://reddit.com/r/LifeProTips/comments/4f9sw3/
+author:[deleted]
+subreddit:LifeProTips
+score:4387
+numComments:865
+isOver18:False
+hasPostBody:True

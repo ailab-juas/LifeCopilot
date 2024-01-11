@@ -1,0 +1,15 @@
+title:
+LPT: Take walking breaks when going out for a run. You’ll be less likely to be discouraged, and you’ll build a tolerance without noticing
+
+content:
+A lot of people get discouraged to start running because they think they must run the whole time. If you want to build a tolerance to running, you should take it slowly at first. 
+
+Try to set little goals, such as, I’ll run until the next tree then I’ll walk until the traffic light. Soon enough, you’ll be running past that tree with no issue. Maybe even getting to the light!
+
+url:https://reddit.com/r/LifeProTips/comments/vv09rn/
+author:Nathy97
+subreddit:LifeProTips
+score:33509
+numComments:924
+isOver18:False
+hasPostBody:True

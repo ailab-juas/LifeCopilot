@@ -1,0 +1,13 @@
+title:
+YSK: There's a website called MyDedcadeTv that simulates watching TV in the 70s, 80s, and 90s.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/YouShouldKnow/comments/grmfgm/
+author:[deleted]
+subreddit:YouShouldKnow
+score:3502
+numComments:50
+isOver18:False
+hasPostBody:True

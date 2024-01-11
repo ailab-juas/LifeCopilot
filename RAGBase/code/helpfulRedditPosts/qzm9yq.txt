@@ -1,0 +1,13 @@
+title:
+LPT: while driving, if you decelerate instead of tapping the breaks when trying to slow down, you'll not only save on gas usage, but reduce traffic.
+
+content:
+This is a personal pet peeve of mine.
+
+url:https://reddit.com/r/LifeProTips/comments/qzm9yq/
+author:remindmein
+subreddit:LifeProTips
+score:37882
+numComments:2525
+isOver18:False
+hasPostBody:True

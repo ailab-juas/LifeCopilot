@@ -1,0 +1,17 @@
+title:
+LPT: turn off "auto display images" in your email to stop hidden read receipt trackers
+
+content:
+Tracking pixels are now commonplace, and these let a sender know that you’ve opened an email they’ve sent, plus the time and date that you did so. They can even see if you’ve forwarded the message to anyone else.
+
+These are tiny bits of code that are usually hidden in images that are included in emails. When you open the email, they are triggered and send back the meta-data (it’s open, here’s when) to the sender. 
+
+Be aware though that this will only stop some from reporting on you. To safeguard your privacy fully, you’ll need to look at browser plug-ins.
+
+url:https://reddit.com/r/LifeProTips/comments/z8c737/
+author:flutterbyasaurus
+subreddit:LifeProTips
+score:1426
+numComments:61
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: When applying for jobs online, save a copy of the job responsibilities and requirements. This information is usually not available after they stop accepting applications and will be useful when preparing for the interviews.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/972sk7/
+author:clickOKplease
+subreddit:LifeProTips
+score:12440
+numComments:144
+isOver18:False
+hasPostBody:False

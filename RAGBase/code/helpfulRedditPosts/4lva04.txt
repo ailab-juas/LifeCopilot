@@ -1,0 +1,13 @@
+title:
+LPT: Under most circumstances, remove the word "just" from your sentences. It will keep the same meaning, but sound stronger and more confident.
+
+content:
+This applies to both written and spoken communication.
+
+url:https://reddit.com/r/LifeProTips/comments/4lva04/
+author:Waja_Wabit
+subreddit:LifeProTips
+score:1126
+numComments:160
+isOver18:False
+hasPostBody:True

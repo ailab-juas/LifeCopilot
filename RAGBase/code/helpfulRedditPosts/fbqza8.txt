@@ -1,0 +1,21 @@
+title:
+YSK that used electric cars are really affordable, and you save a lot of money on gas, oil changes, and maintenance
+
+content:
+Electric cars only need minimal maintenance like tire rotation, new wiper fluid and wipers, and a new air filter every few thousand miles. Other than that, they're really easy to maintain. Due to the use of regenerative braking, the brakes are known to last pass 100k miles.
+
+Used Nissan Leafs for example cost less than $10k. You can charge your car with a wall outlet at home or use public chargers. Finally, they're just more fun to drive. It's like driving a powerful golf cart. Traffic isn't as much of a nightmare because at least you're regenerating power while everyone else wastes gas and pollutes the air. 
+
+I am posting this because I love my little Kia Soul EV and think more people should consider switching to an EV. EVs aren't for everyone but for me, it's just an easier and cheaper lifestyle overall.
+
+Update: Keep in mind I'm referring to used cars not new ones. I traded my Prius for $20k and got a Kia Soul EV with the same miles on it for $15k. There are gently used Leafs for under $10k. Prices are coming down quickly for the used non-Tesla EVs. (I think it's because people sell their EV once they can afford a Tesla.) EV batteries are covered under warranty until 100k miles, at least in the US. Replacing them is only getting cheaper. By the time you need to replaced your battery, your EV will have saved you thousands. Here's a good article on EV myths: https://www.myev.com/research/ev-101/10-common-electric-car-myths-busted
+
+Tldr USED electric vehicles are affordable and easy to take care of.
+
+url:https://reddit.com/r/YouShouldKnow/comments/fbqza8/
+author:thousandmilejourney
+subreddit:YouShouldKnow
+score:25761
+numComments:3066
+isOver18:False
+hasPostBody:True

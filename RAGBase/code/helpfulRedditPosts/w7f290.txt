@@ -1,0 +1,13 @@
+title:
+LPT: When company is coming over and there isn't enough time to clean, organize things into neat piles. An orderly pile of dirty dishes in the sink looks purposeful and much better than those same dirty dishes randomly distributed. The same is true for papers and books.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/w7f290/
+author:internetpointswoot
+subreddit:LifeProTips
+score:1581
+numComments:62
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: Getting married? Create a separate email account just for your wedding to avoid spam and keep organized
+
+content:
+Especially if you are corresponding with national wedding chains, such as The Knot or David's Bridal, your email inbox will be spammed with multiple emails per day once you start using their services. This LPT has the additional benefit of keeping all your wedding planning emails in one place.
+
+url:https://reddit.com/r/LifeProTips/comments/51lcqo/
+author:abaugher
+subreddit:LifeProTips
+score:5111
+numComments:776
+isOver18:False
+hasPostBody:True

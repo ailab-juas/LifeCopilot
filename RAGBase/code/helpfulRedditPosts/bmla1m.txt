@@ -1,0 +1,13 @@
+title:
+LPT If you lose something small on a carpeted floor, place a pantyhose in a vacuum wand and attach with rubber bands. Vacuum your floor with the wand and your lost item will get trapped in the pantyhose for easy retrieval.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/bmla1m/
+author:askmeforashittyfact
+subreddit:LifeProTips
+score:5697
+numComments:222
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+YSK there is a website called Debatepedia, which is like a Wikipedia of debates - an encyclopedia of pro and con arguments and quotes on critical issues
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/13ips2/
+author:emkoirl
+subreddit:YouShouldKnow
+score:2960
+numComments:57
+isOver18:False
+hasPostBody:False

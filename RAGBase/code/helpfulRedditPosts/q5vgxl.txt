@@ -1,0 +1,13 @@
+title:
+LPT: When talking to call center reps, service centers, help lines, etc., if they put you on hold, put yourself on mute. Assume they’re always able to hear you because they probably are.
+
+content:
+Edit: Some people are saying that the rep cannot hear you when they put you on hold. That may be true in some cases but I know that *some* reps *are* able to hear you. That’s why I wrote “assume they’re always able to hear you” and not “know that they’re always able to hear you.”
+
+url:https://reddit.com/r/LifeProTips/comments/q5vgxl/
+author:biorod
+subreddit:LifeProTips
+score:4170
+numComments:187
+isOver18:False
+hasPostBody:True

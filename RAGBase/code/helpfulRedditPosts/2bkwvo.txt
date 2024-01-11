@@ -1,0 +1,15 @@
+title:
+YSK The Pirate Bay made a completely free file hosting service with a 5 GB size limit
+
+content:
+http://bayfiles.net
+
+Don't waste your money on Rapidshare Pro or any of that malarkey. Very helpful for sharing files that are bigger than email attachments allow. Because 25MB max email attachments are for cavemen.
+
+url:https://reddit.com/r/YouShouldKnow/comments/2bkwvo/
+author:Burdt-Aver
+subreddit:YouShouldKnow
+score:1517
+numComments:156
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: To see the fair market value for an item you want to purchase, run an advanced search on eBay checking only 'completed listings'.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ymzf8/
+author:outfoxthefox
+subreddit:LifeProTips
+score:2113
+numComments:121
+isOver18:False
+hasPostBody:False

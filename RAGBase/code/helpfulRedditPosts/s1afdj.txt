@@ -1,0 +1,17 @@
+title:
+LPT: most meal kit companies have all their recipes online for free. By definition they are quick recipes with easy to follow instructions.
+
+content:
+Hello Fresh: [https://www.hellofresh.com/recipes/](https://www.hellofresh.com/recipes/)
+
+Gousto: [https://www.gousto.co.uk/cookbook](https://www.gousto.co.uk/cookbook)
+
+Blue Apron: [https://www.blueapron.com/cookbook](https://www.blueapron.com/cookbook)
+
+url:https://reddit.com/r/LifeProTips/comments/s1afdj/
+author:shitthrower
+subreddit:LifeProTips
+score:6010
+numComments:232
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: if you're sick and going to an urgent care clinic, check if you can sign in online before getting there.
+
+content:
+To limit your waiting time at the clinic.... just learned this the hard way and now I'm waiting for an hour and a half when I could have gotten a text alert that it's my turn.
+
+url:https://reddit.com/r/LifeProTips/comments/4uiqtm/
+author:supercowcat92
+subreddit:LifeProTips
+score:1239
+numComments:106
+isOver18:False
+hasPostBody:True

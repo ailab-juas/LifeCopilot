@@ -1,0 +1,16 @@
+title:
+LPT: Stop the burning after throwing up by gargling baking soda dissolved in water
+
+content:
+Gastric acid, the acid secreted from your stomach, is HCl, or Hydrchloric acid. Baking soda's molecular formula is NaCHO3. This is a spontaneous reaction which occurs when they're mixed: NaHCO3(aq) + HCl(aq) --&gt; NaCl(aq) + H2O(l) + CO2(g) Baking soda, in solution, when mixed with Hydrochloric Acid, in solution, forms table salt, water, and carbon dioxide (the gas you breathe out).
+This reaction will neutralize the acid in your throat (and mouth) and will stop the burning due to the acidity.
+
+EDIT: Tums, or similar antacid tablets, are the same thing (as suggested by commenters). 
+
+url:https://reddit.com/r/LifeProTips/comments/1sdic3/
+author:hypopotamus
+subreddit:LifeProTips
+score:1417
+numComments:186
+isOver18:False
+hasPostBody:True

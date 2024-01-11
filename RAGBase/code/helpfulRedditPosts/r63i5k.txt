@@ -1,0 +1,17 @@
+title:
+YSK: There is an extension that lets you see the number of dislikes on a youtube video
+
+content:
+Not sure about the policy of linking directly to things, but if you just google: "Return Youtube Dislike" you can find the right extension. It works for Chrome and Firefox.
+
+Why YSK: apparently I have to explain why youtube dislike counts are important. Well it's helpful when you're trying to sniff out a scam, or maybe it's helpful when looking up instructional video's or DIY stuff. It's also amusing to look at youtube rewind and see how many dislikes it gets.
+
+Basically you should know because youtube took away it's functionality and this brings it back.
+
+url:https://reddit.com/r/YouShouldKnow/comments/r63i5k/
+author:___Guitarmadillo___
+subreddit:YouShouldKnow
+score:2713
+numComments:92
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,31 @@
+title:
+LPT: Don't name your resume file "Resume" (and other resume tips).
+
+content:
+I just had to wade through 100+ resumes, and I noticed a few mistakes that many people seem to make.
+
+1. Don't name the file "Resume" or any variation of that.  After going through 100 resumes, I had a short list of 20 candidates that I needed to whittle down to 5 or 10 people to interview.  I went through the directory looking for the 20 resumes to review again in more detail, and could only find 14.  I'm assuming the other 6 are somewhere the generic mass of 30 or so files titled "Resume" or something like that, but I'll be damned if I'm going to wade through them all to check.  **Your resume file name should start with your actual name!**
+
+2. Don't make me scroll to the third page to find your previous experience.  If your hobbies, education and "strengths" are listed before your work experience, I'll assume you don't have any.  That's fine for entry level jobs, but when the position requires 3 or more years of relevant experience, if I assume you don't have that by the end of the first page of your resume, I'm closing the file and moving on.
+
+3. If you're applying to a job posted on Linkedin, and you don't have a resume file attached to your profile for the recruiter to download, you're probably not getting considered for the job.  I don't care how good your Linkedin profile is, attach a resume when you apply for a job.
+
+4. Resumes should be ~~2 pages~~ *as short as possible, but as long as they need to be to convey what's important*.  One extra page for a cover letter is fine, but never give me a two page cover letter, because I'm in a hurry.  *For entry level and junior positions,* anything more than 2 just seems long winded, and makes me think you can't prioritize, anything less than two pages just seems wrong for some reason.  (Entry level people who have little or no experience, make it exactly 1 page, and if you're applying for a senior management position, make it as long as you need to.)
+
+5. Different job sites attach the cover letter differently.  For Workopolis, the cover letter is embedded in the email they send you to let you know a candidate has applied.  So unless the person who is collecting the resumes manually copies the cover letter into a file, and then saves it along with your resume, the people reviewing your resume won't see the cover letter.  Cover letters are not absolutely essential for every job, but if you're going to add one, include it in the same file as your resume.
+
+There's tonnes of good resume advice out there, but I hadn't seen this advice before, and I thought it might be useful.  Also, just FYI, if you say "detail oriented" on your resume, and I spot an error, I'll still consider you, but I'll make fun of you in the interview to see how you handle it.
+
+Edits: Stuff, also:
+
+*0. Never take resume advice as gospel. Anything that one HR person tells you, another one will disagree with.*
+
+Finally, the whole point here is that anything you can do to make the job of the hiring manager easier **helps you**.  This isn't about you, it's about a hiring manager who has to root through hundreds of resumes sometimes.  Keep that in mind when you write yours, and you'll have a leg up.
+
+url:https://reddit.com/r/LifeProTips/comments/221kiu/
+author:[deleted]
+subreddit:LifeProTips
+score:3420
+numComments:1488
+isOver18:False
+hasPostBody:True

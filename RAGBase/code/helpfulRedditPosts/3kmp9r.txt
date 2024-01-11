@@ -1,0 +1,13 @@
+title:
+LPT: When considering getting a pet, google the problems other pet owners have had with that pet. Then you can see if you're truly able to take care of it.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/3kmp9r/
+author:PieIsGross
+subreddit:LifeProTips
+score:3013
+numComments:504
+isOver18:False
+hasPostBody:False

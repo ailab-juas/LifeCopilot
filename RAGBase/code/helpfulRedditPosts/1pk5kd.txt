@@ -1,0 +1,13 @@
+title:
+LPT for separating pumpkin seeds from guts: fill a sink with water then dump it all in. The seeds will float and it will make it a hundred times easier to separate it all.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1pk5kd/
+author:CreedShrute
+subreddit:LifeProTips
+score:1110
+numComments:76
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: Add 'NSFW' to Youtube links so so you dont have to sign in to be age verified.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1y6zr9/
+author:[deleted]
+subreddit:LifeProTips
+score:1973
+numComments:294
+isOver18:True
+hasPostBody:False

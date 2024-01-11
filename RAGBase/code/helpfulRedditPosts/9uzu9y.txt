@@ -1,0 +1,13 @@
+title:
+LPT: When going out on a date or a special dinner to a nice restaurant, study the menu online before you go. That way, especially if you normally have trouble choosing from a menu, you have one or two choices ready so you can focus more on your date or other guests.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/9uzu9y/
+author:TwiceAgainThrice
+subreddit:LifeProTips
+score:4659
+numComments:204
+isOver18:False
+hasPostBody:False

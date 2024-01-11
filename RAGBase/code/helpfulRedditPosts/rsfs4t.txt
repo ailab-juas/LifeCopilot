@@ -1,0 +1,47 @@
+title:
+LPT: (1) Verify that your employer pays the correct wage as stated on your contract. (2) If not, contact them in a terse but polite manner by email. (3) If they instead call you with an excuse, don't argue on the phone, and calmly ask for the information to be sent by email. (4) Checkmate.
+
+content:
+I've been paid the incorrect amount for three times in two months now.
+
+Today I emailed them about the last mistake, and they called back saying:
+
+&gt; "There's nothing we can do. What's on the contract was a mistake."
+
+Me: "But I legally signed a contract saying I'd get X + n, and I didn't get n."
+
+&gt;Them: "I don't know what to tell you."
+
+Me: "It's okay. Just email me with that information. I'll take care of it."
+
+… Long silence
+
+&gt;Them: "I'm afraid it is what it is."
+
+Me: "Doesn't matter. Send me what you said on the phone by email."
+
+Them: "Okay … [awkwardness] … bye."
+
+About one hour later they called back: 
+
+&gt;"Okay so we've managed to get the bonus as stated on the contract and you'll get paid next week."
+
+Me: "Thank you very much."
+
+&gt;Them: "Happy new year, etc."
+
+Me: "You too, enjoy."
+
+---
+
+Sometimes it pays off to enjoy [chess](https://lichess.org). Stand up for yourself. What they are doing is a reverse “*[Office Space](https://www.rottentomatoes.com/m/office_space)* scheme”; it works because probably thousands of people don't care or are too tired to do anything about being paid a small amount less. However, it's not that trivial as it seems because n * thousands of people can be a lot of profit. 
+
+Ψ: The pitchforks are coming to eat the rich.
+
+url:https://reddit.com/r/LifeProTips/comments/rsfs4t/
+author:CynicusRex
+subreddit:LifeProTips
+score:3743
+numComments:126
+isOver18:False
+hasPostBody:True

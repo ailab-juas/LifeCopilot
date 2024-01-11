@@ -1,0 +1,13 @@
+title:
+LPT: Facebook quizes are sometimes used to phish password reset answers
+
+content:
+I'm getting tired of people posting: "what's your &lt;something&gt; name?".  These posts are usually shared via some site that is using the questions to get your answers to your password reset questions.  Here is a recent example https://imgur.com/jnjnDps.  If you want to post these quizzes, don't share from the site that's posted it.  Share it as your own post.  Then the attackers can't get the information unless they have access to your profile.
+
+url:https://reddit.com/r/LifeProTips/comments/8kt331/
+author:TabCompletion
+subreddit:LifeProTips
+score:2030
+numComments:77
+isOver18:False
+hasPostBody:True

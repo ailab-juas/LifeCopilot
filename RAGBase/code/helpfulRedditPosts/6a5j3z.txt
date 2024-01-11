@@ -1,0 +1,31 @@
+title:
+LPT : If you are asked to create an account in order to continue browsing a website, hit F12 and click on the dim area, this would select it and you can delete it with DEL key, hit F12 again and resume your browsing.
+
+content:
+This only affects the display on your browser, but it's a simple way to bypass the infuriating "create an account" or GTFO situation on shitty websites when you just need quick info
+
+Edit: Thanks for the gold!
+
+There is some amazing tips in the comment section, it's not easy to edit them in on mobile, I'll mention the best ones once i'm home.
+
+Edit 2 : Here are some other tips from the comment section that are IMO even better than mine
+
+/u/reversedfate : In Chrome, press Ctrl+Shift+c, to instantly select elements.
+
+/u/browndizzle and /u/Bloorim : I prefer to right click and say F*ck it. Glorious extension here:
+https://chrome.google.com/webstore/detail/fck-overlays/ppedokobpbdajgiejhnjfbdjlgobcpkp
+
+/u/DaughterEarth : Easier is to right click the offending bit, choose inspect element, hit delete, then escape
+
+/u/lookatmemomnospans : Command+Shift+C For MAC users
+
+/u/squidgod2000 : Behind the Overlay Chrome extension—very useful: 
+https://chrome.google.com/webstore/detail/behindtheoverlay/ljipkdpcjbmhkdjjmbbaggebcednbbme
+
+url:https://reddit.com/r/LifeProTips/comments/6a5j3z/
+author:_TuxedoCat_
+subreddit:LifeProTips
+score:85008
+numComments:1432
+isOver18:False
+hasPostBody:True

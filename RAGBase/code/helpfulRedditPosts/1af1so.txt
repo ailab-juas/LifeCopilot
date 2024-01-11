@@ -1,0 +1,53 @@
+title:
+LPT: Make Better Tasting Coffee
+
+content:
+So let's assume you aren't a coffee snob. You're a regular guy who drinks Folger's and 7-11 coffee, and you don't think it is half bad.
+
+**Here are a few ways you can make your coffee taste better:**
+
+*Before brewing:*
+
+Add stuff! A pinch of salt will take some of the bitterness out of your coffee and make it taste a bit more smooth, but only add a bit. You can add other stuff too. I used to add a few pinches of ground cinnamon and a dash of vanilla extract to my coffee grounds before brewing to improve taste. *Experiment with it.*
+
+**Quantity:** 4 tablespoons for every 3 cups of coffee. Or get a coffee scoop and it will be two scoops to every three cups. This brews coffee that is a bit dark, and we will get into that if you like lighter coffee. Putting less grounds in when you brew can often "burn" the grounds resulting in worse flavor. *If you like lighter coffee*, brew a half of what you normally would and when it is finished, add water to taste. This way you can have lighter coffee with a better flavor.
+
+
+Lastly, if you already do some all or all of those things, *here are some of the biggest factors that affect coffee flavor*:
+
+**Freshness:** How old is the coffee, and how recently was it ground? Ground coffee ages faster than unground, so if you don't mind the extra hassle, you might think about buying whole bean coffee and grinding before you brew.
+
+**Water:** Tap water will, in theory, brew worse coffee due to it's impurities. Filtered water or distilled water would technically be the best, but may or may not be worth the hassle to you. Using tap water also has more calcium build up over time and will mean that you have to clean your coffee maker more frequently.
+
+**Grind:** How finely or coarsely ground your coffee is *will* affect the flavor, especially if you start buying whole bean and grinding it yourself. There are "correct" grinds for different brewing methods, but for a regular brewer, a finer grind will result in darker coffee. Don't overdo it with this, it's easy to brew something undrinkable if you get the grind too far from what it should be, and coffee that s too finely ground will be very bitter.
+
+**Proportion:** We already covered this. If you brew the right amount of grounds to water, you optimize the flavor.
+
+**Edit: French Presses:**
+
+So you really like coffee, and you are ready to try something new. You should pick up a [french press.](http://www.amazon.com/Bodum-Kenya-17-Ounce-Coffee-Press/dp/B000YYODLO/ref=sr_1_4?ie=UTF8&amp;qid=1363459839&amp;sr=8-4&amp;keywords=french+press)
+
+French presses are great because they:
+
+* Are easy to use,
+
+* Easy to clean,
+
+* And make better coffee.
+
+If you are just getting started, all you really need is a *french press*, some ground *coffee* (typically a bit coarser than used with a standard machine, but using the same grind for both won't impact the flavor too badly), and a way to get *water* almost to boiling temperature (200 degrees F is ideal).
+
+You put the grounds in the french press with the lid/plunger removed, and add water until it is full. With the handle of the plunger pulled all the way out, put the lid back on. Let the coffee steep for 2-5 minutes before you depress the plunger (depress the plunger slowly and steadily), and once the plunger is all the way down, you are ready to pour yourself a cup.
+
+When adding the water, two important notes: 
+**Don't use boiling water** or you will scorch the grounds, and try to make sure you pour the water so that **all of the grounds get wet**. Usually this won't be an issue, but now and then you'll get pockets of grounds that stay dry. *Post-Script: Many people have suggested stirring your grounds or using a spoon to immerse them into the water, and this will yield better results for your effort.*
+
+You can incorporate the other elements of this post with your french press, though as another user has mentioned, I would recommend not using salt when brewing with a french press, as it is often not necessary.
+
+url:https://reddit.com/r/LifeProTips/comments/1af1so/
+author:scubsurf
+subreddit:LifeProTips
+score:1754
+numComments:594
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: If you have to replace your credit card or debit card, the credit card company will overnight your new card for free only if you request it, otherwise you will wait 7 - 10 days to recieve it.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1p9wfx/
+author:SinisterKid
+subreddit:LifeProTips
+score:1039
+numComments:190
+isOver18:False
+hasPostBody:False

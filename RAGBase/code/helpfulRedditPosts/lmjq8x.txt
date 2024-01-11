@@ -1,0 +1,13 @@
+title:
+YSK: Add ‘outline.com/‘ before a url to bypass the paywall (this doesn’t work on every website, but it’s worth knowing). It can also be used to remove ads and only show the main text/images of a webpage
+
+content:
+Why YSK: trying to debug code / find new information becomes painful when you have to sign up to every website to see the information. It is also helpful to ignore inappropriate or click-baity ads
+
+url:https://reddit.com/r/YouShouldKnow/comments/lmjq8x/
+author:Brentobot
+subreddit:YouShouldKnow
+score:14363
+numComments:187
+isOver18:False
+hasPostBody:True

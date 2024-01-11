@@ -1,0 +1,13 @@
+title:
+YSK: Mother's Day is in two and a half-weeks. (US)
+
+content:
+This gives you 3 weekends to go do some shopping/think of a gift for all the Mother's in your life.
+
+url:https://reddit.com/r/YouShouldKnow/comments/4ftgge/
+author:mynameisnotkevin
+subreddit:YouShouldKnow
+score:4382
+numComments:300
+isOver18:False
+hasPostBody:True

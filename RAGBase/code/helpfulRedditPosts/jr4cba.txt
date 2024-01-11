@@ -1,0 +1,29 @@
+title:
+LPT If you, for whatever reason, need to get rid of dirty needles at home, an empty laundry detergent bottle is an FDA approved option for home disposal.
+
+content:
+I just saw a community trash pickup that found many discarded contaminated sharps (dirty needles). This is very dangerous for everyone involved.
+
+The are many reasons you may be producing contaminated sharps at home, but you can do it in a way that poses minimal danger to other people
+
+1. Rinse out an old detergent bottle.
+
+2. Clearly label the bottle as "CONTAMINATED SHARPS"
+
+3. Store the bottle upright at all times and keep the lid screwed on when not in use.
+
+4. Use only until the bottle is about 3/4 full.
+
+5. Before final disposal, screw the lid on tightly and secure it with heavy duty tape like duct tape.
+
+http://www.diabetesforecast.org/2014/07-jul/make-your-own-sharps.html
+
+https://www.fda.gov/medical-devices/safely-using-sharps-needles-and-syringes-home-work-and-travel/sharps-disposal-containers
+
+url:https://reddit.com/r/LifeProTips/comments/jr4cba/
+author:Agertudici
+subreddit:LifeProTips
+score:2705
+numComments:88
+isOver18:False
+hasPostBody:True

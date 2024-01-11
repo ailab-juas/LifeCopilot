@@ -1,0 +1,15 @@
+title:
+YSK that the first six numbers on your debit/credit card are public information.
+
+content:
+Why YSK: Just had a call from a scammer that called "About some activity on your checking account" He then identified the card by the first six numbers, which are used to identify your bank and not your account specifically. In other words they're not unique, unlike the last four numbers.
+
+What You should do: Hang up and call the number on the back of your card. If there is any fraudulent activity, they will be able to confirm it and help you block your card and protect your money.
+
+url:https://reddit.com/r/YouShouldKnow/comments/w5pilu/
+author:DoubleReputation2
+subreddit:YouShouldKnow
+score:5556
+numComments:209
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+You Should Know a little bit about understanding introverts
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/143kvq/
+author:irongrandmother
+subreddit:YouShouldKnow
+score:1135
+numComments:440
+isOver18:False
+hasPostBody:False

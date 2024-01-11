@@ -1,0 +1,26 @@
+title:
+LPT: pay attention to the end of prices while shopping at Costco
+
+content:
+&gt;In particular, look for:
+
+&gt;Prices that end in 97¢: These have been marked down from the regular priced items, which end in 99¢
+
+
+&gt;Odd pricing, such as 79¢, 49¢, or 89¢: These indicate specially priced items that Costco got a deal on from the manufacturer. These can be better deals than at other stores, but not usually better than the 97¢ markdown.
+
+
+&gt;An asterisk* on the upper right side of the sign: The item won't be reordered.
+
+
+&gt;88¢ or .00 endings: Manager markdowns. They use these to move a product very fast.
+
+Credit to u/almisamie
+
+url:https://reddit.com/r/LifeProTips/comments/erix4f/
+author:21suns
+subreddit:LifeProTips
+score:33025
+numComments:993
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Use the restroom before you head home after work.
+
+content:
+You might need to go a little and think "it's fine I can hold it until I get home" and then BAM unexpected complete stop on the road,  or you get a flat tire, or into an accident. Be prepared for anything.
+
+url:https://reddit.com/r/LifeProTips/comments/sz59nt/
+author:antiquehats
+subreddit:LifeProTips
+score:2896
+numComments:315
+isOver18:False
+hasPostBody:True

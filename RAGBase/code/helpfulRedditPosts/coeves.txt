@@ -1,0 +1,17 @@
+title:
+YSK If you're ever locked in an industrial freezer, you can disable the fans, thus stopling the freezer from staying cold and possibly saving your life
+
+content:
+Happened to me today. A coworker locked the freezer (we just started doing so after a case of beer went missing) and he forgot to check inside first. I guess that's another YSK: CHECK THE DAMN FREEZER!!!
+
+Edit: Stopping (Title)
+
+Edit (2): You can disable any fan by turning the switch from on to off. Most switches are located directly below the fans. Sorry! First YSK!
+
+url:https://reddit.com/r/YouShouldKnow/comments/coeves/
+author:LFRoche
+subreddit:YouShouldKnow
+score:12934
+numComments:408
+isOver18:False
+hasPostBody:True

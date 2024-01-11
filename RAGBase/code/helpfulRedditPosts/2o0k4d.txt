@@ -1,0 +1,13 @@
+title:
+LPT: When writing an essay, write your thesis or the question you're trying to answer in the header and footer.
+
+content:
+A lesson my teachers always tried to drill into my head was to stay on topic and always remember that you're writing has a purpose and you should always keep that purpose in mind while writing. By putting in both the header and footer you will always see the question or your thesis to keep you on the right track while writing. 
+
+url:https://reddit.com/r/LifeProTips/comments/2o0k4d/
+author:ProKoala
+subreddit:LifeProTips
+score:1992
+numComments:148
+isOver18:False
+hasPostBody:True

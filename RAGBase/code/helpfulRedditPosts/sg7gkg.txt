@@ -1,0 +1,13 @@
+title:
+LPT: Check your hotel room door locks BEFORE you unpack
+
+content:
+Before you get settled in, make sure your door has a working bolt you can engage from the inside. If the bolt is broken or doesn't exist, or the lock is in overall poor condition, ask for another room. Check any other relevant locks in the room too, patio door, any doors connecting adjacent rooms, etc. Your hotel costs should include this basic level of security.
+
+url:https://reddit.com/r/LifeProTips/comments/sg7gkg/
+author:Garlic_and_Onions
+subreddit:LifeProTips
+score:6211
+numComments:379
+isOver18:False
+hasPostBody:True

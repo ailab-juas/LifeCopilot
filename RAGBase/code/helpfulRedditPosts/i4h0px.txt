@@ -1,0 +1,13 @@
+title:
+LPT: If your oven mitt gets wet, it will NOT work.
+
+content:
+I learned that the hard way. Just fyi I understand how well water conducts heat. It's just something you don't think of at the time
+
+url:https://reddit.com/r/LifeProTips/comments/i4h0px/
+author:not_a_bug_a_feature
+subreddit:LifeProTips
+score:45055
+numComments:910
+isOver18:False
+hasPostBody:True

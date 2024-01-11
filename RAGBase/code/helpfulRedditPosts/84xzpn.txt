@@ -1,0 +1,15 @@
+title:
+YSK: When recording the Police, use the ACLU app and it'll upload the content to their servers, and they'll prosecute if necessary.
+
+content:
+Some states have their own [ACLU app ](https://www.aclu.org/issues/criminal-law-reform/reforming-police-practices/aclu-apps-record-police-conduct) that sends the content to the ACLU of that particular state.
+
+E: Added link
+
+url:https://reddit.com/r/YouShouldKnow/comments/84xzpn/
+author:Kurtopsy
+subreddit:YouShouldKnow
+score:5474
+numComments:201
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: You never know what is taking place in a stranger's life. Try to be patient and passive if some seems to be "overreacting ".
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/91bl5a/
+author:rotorRat
+subreddit:LifeProTips
+score:23295
+numComments:703
+isOver18:False
+hasPostBody:False

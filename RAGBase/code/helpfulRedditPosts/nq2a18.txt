@@ -1,0 +1,13 @@
+title:
+LPT: if you’re traveling in a foreign country where you don’t speak the language, take a business card from your hotel, and a picture of the front of the building. If you get lost and need a taxi back, you can show the picture and business card to the driver and you won’t need to speak.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/nq2a18/
+author:Splunge-
+subreddit:LifeProTips
+score:61103
+numComments:858
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: On a long car ride, stand-up comedy albums (found on Apple Music or Spotify) can make time pass by quicker than actual music.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/66fip0/
+author:fontanick
+subreddit:LifeProTips
+score:19908
+numComments:1335
+isOver18:False
+hasPostBody:False

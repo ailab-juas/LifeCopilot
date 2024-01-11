@@ -1,0 +1,13 @@
+title:
+LPT: If you so something nice for someone, don't expect them to be grateful, or kind, in return.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/65jcyr/
+author:slc17LA
+subreddit:LifeProTips
+score:2510
+numComments:184
+isOver18:False
+hasPostBody:False

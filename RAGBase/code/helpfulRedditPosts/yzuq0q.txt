@@ -1,0 +1,13 @@
+title:
+YSK: Almost no chiropractors are licensed medical professionals. It is a pseudoscience with no backing in evidence-based medicine.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/YouShouldKnow/comments/yzuq0q/
+author:[deleted]
+subreddit:YouShouldKnow
+score:24888
+numComments:1962
+isOver18:False
+hasPostBody:True

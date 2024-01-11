@@ -1,0 +1,15 @@
+title:
+YSK: Depressed people often present as happy or “normal”
+
+content:
+Why YSK: Too often, depressed people pass away or don’t get help because people don’t think they’re depressed. You should check in with all your friends/family members, even if they seem happy.
+
+I can speak from personal experience, but can anyone else corroborate this?
+
+url:https://reddit.com/r/YouShouldKnow/comments/r33zp2/
+author:[deleted]
+subreddit:YouShouldKnow
+score:5165
+numComments:300
+isOver18:False
+hasPostBody:True

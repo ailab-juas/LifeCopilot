@@ -1,0 +1,16 @@
+title:
+YSK that there is a YouTube videodeck that lets you manage your subscriptions like YouTube itself should do it.
+
+content:
+Link here: https://youtube.videodeck.net (wrong link fixed, thanks to /u/swatlord)
+Easy to use, just add your subscription (or custom playlists) as columns. You can sort them via drag and drop and change a bunch of view settings. Each column shows uploads chonologically and new uploads will show up automatically (push-behavior). 
+
+It's free (with a few ads you won't see since you are most likely using a ad blocker) and I have used it for years and never even have been on my sub page on YouTube since I watch everything from there. Since the repeated outrage over how YouTube manages how videos show up to their users, I hope this is of use to some of you.
+
+url:https://reddit.com/r/YouShouldKnow/comments/8ztqc4/
+author:DangerousDetlef
+subreddit:YouShouldKnow
+score:1444
+numComments:34
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Buying spices at the supermarket? Try the Mexican food aisle first. You'll find many of the same spices at significantly lower prices.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/189j8u/
+author:maillard_reaction
+subreddit:LifeProTips
+score:1913
+numComments:289
+isOver18:False
+hasPostBody:False

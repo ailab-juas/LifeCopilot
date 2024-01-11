@@ -1,0 +1,13 @@
+title:
+YSK about Parkinson's Law, which says that our work expands so as to fill the time available for its completion
+
+content:
+So the implication here is that the more time we give ourselves to do something, the longer we will stretch out the task of actually getting it done.
+
+url:https://reddit.com/r/YouShouldKnow/comments/3d7b3m/
+author:Timlikesturtles
+subreddit:YouShouldKnow
+score:2042
+numComments:165
+isOver18:False
+hasPostBody:True

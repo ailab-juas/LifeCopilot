@@ -1,0 +1,13 @@
+title:
+YSK: Christmas Day is exactly six weeks or in most cases three pay checks away from today
+
+content:
+Start your planning wisely!
+
+url:https://reddit.com/r/YouShouldKnow/comments/dv3p7k/
+author:BuddyPeanuts
+subreddit:YouShouldKnow
+score:19996
+numComments:920
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: When trying to cancel an internet/phone/localised subscription, tell them the reason for cancelling is you’re moving out of the country.
+
+content:
+I move around a lot and have never had to deal with pushy customer support reps because of this. They typically try to retain me as a customer but once they hear I’m moving to a country they don’t service it’s about another 3 minutes on the phone and the job is done. It’s not worth sharing any valid complaints or issues you have that are actually leading to the cancellation - save these for a feedback submission form that won’t hold your time hostage shoving packaged deals down your throat.
+
+url:https://reddit.com/r/LifeProTips/comments/ohhm0h/
+author:tommonay
+subreddit:LifeProTips
+score:1143
+numComments:77
+isOver18:False
+hasPostBody:True

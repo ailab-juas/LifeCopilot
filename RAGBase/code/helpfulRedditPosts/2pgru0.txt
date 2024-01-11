@@ -1,0 +1,13 @@
+title:
+YSK that if you don't have a foreign data plan before traveling, AT&amp;T will charge $19.99 per Mb.
+
+content:
+I recently found a surprise charge for $187 on my phone bill while my GF is in Hong Kong and she has only used 9 Mb of data (on a shared 10 Gb plan). Luckily, I was able to sign up for the foreign data plan for $30 and have it backdated so I got the charges removed! The biggest thing that cheeses me off is that there is no *way* that it costs AT&amp;T that much to rent space on a foreign network; it's just blatant gouging, IMHO.
+
+url:https://reddit.com/r/YouShouldKnow/comments/2pgru0/
+author:rottenart
+subreddit:YouShouldKnow
+score:1909
+numComments:208
+isOver18:False
+hasPostBody:True

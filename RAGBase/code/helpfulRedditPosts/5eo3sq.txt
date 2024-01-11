@@ -1,0 +1,13 @@
+title:
+YSK of this Chrome extension that suspends tabs automatically, allowing you to keep a bazillion tabs open simultaneously without killing your CPU and memory
+
+content:
+[The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg?hl=en). Makes my messy Internet habits bearable. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/5eo3sq/
+author:kattmedtass
+subreddit:YouShouldKnow
+score:7462
+numComments:307
+isOver18:False
+hasPostBody:True

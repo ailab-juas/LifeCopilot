@@ -1,0 +1,13 @@
+title:
+LPT: If you need to get motivated, take a shower. Being clean is proven to increase your productivity
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/951254/
+author:hjalmar111
+subreddit:LifeProTips
+score:4296
+numComments:169
+isOver18:False
+hasPostBody:False

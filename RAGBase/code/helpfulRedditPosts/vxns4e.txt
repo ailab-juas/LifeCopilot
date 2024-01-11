@@ -1,0 +1,13 @@
+title:
+LPT: If guests are coming over, never cook a dish for the first time. Always stick to food you’ve cooked before so the end result doesn’t disappoint everyone involved.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/vxns4e/
+author:iEatSwampAss
+subreddit:LifeProTips
+score:18662
+numComments:557
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,25 @@
+title:
+LPT. Lost your android phone? Here is how to remotely make your android phone ring on full volume even if it's set to silent. Bonus tip: how to set it up to remotely lock and erase your data if it gets stolen.
+
+content:
+Go to the google play store on a computer then select &gt; settings (cog in the top right) &gt; Android device manager &gt; click "ring"
+
+Your phone will now ring on loud for 2 minutes even if you set it to silent.
+
+Bonus tip. Set up the "lock and erase" function then if your phone is stolen you can lock it up it and make it into a paperweight that no shop will touch. Plus all your data will get formatted. No more worries.
+
+**edit** for clarification, both these tips are done through the settings in the play store on a computer.
+
+**edit 2** For those who couldn't follow the instructions (I am not the most eloquently succinct, sorry.).... [here's a link] (https://www.google.com/android/devicemanager)
+
+** I have it on good authority that this only works with Gmail addresses. sorry for the confusion.
+
+**edit to show the love**  You gave me over 1000 up votes for this in 11 hours. Thank you. You're wonderful people and I love you all. And to the 250 ish who down voted this, I love you too just because you took time in your life to read my post. Thank you. 
+
+url:https://reddit.com/r/LifeProTips/comments/1vabrf/
+author:freenarative
+subreddit:LifeProTips
+score:2239
+numComments:204
+isOver18:False
+hasPostBody:True

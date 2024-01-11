@@ -1,0 +1,13 @@
+title:
+LPT: Instead of giving unsolicited advice when a friend or someone you know is going through something, ask do you want to be distracted from it or do you want to talk about it
+
+content:
+Similarly if someone is venting, ask them if they want you to give them advice or if they just want you to listen!
+
+url:https://reddit.com/r/LifeProTips/comments/mqph10/
+author:briannabethesda
+subreddit:LifeProTips
+score:1247
+numComments:44
+isOver18:False
+hasPostBody:True

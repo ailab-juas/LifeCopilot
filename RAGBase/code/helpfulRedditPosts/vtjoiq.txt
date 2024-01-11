@@ -1,0 +1,33 @@
+title:
+YSK that US banks are required to allow you to opt out of overdraft fees. If you do, charges that would send you negative are declined instead.
+
+content:
+**Why YSK:** The $35 overdraft fee can be absolutely brutal, especially for people in college or who just got their first job. Keeping a close watch on your bank balances is a skill most people seem to learn the hard way.
+
+Overdraft fees are an income source for banks. Almost all of them will let you overdraw your account and fine you by default. This is deceptively called "overdraft protection". 
+
+If you opt out, debit card charges that would send you into the red are declined instead. Anyone living paycheck to paycheck should seriously consider opting out. 
+
+The flip side is that important bills may not go through. Missing a mortgage payment is a lot more expensive than an overdraft fee. It may be worth setting up a different account for important bills. 
+
+[How to opt out of overdraft protection - consumerreports.org](https://www.consumerreports.org/cro/magazine/2012/06/don-t-get-dinged-by-overdraft-fees/index.htm)
+
+[§ 1005.17 Requirements for overdraft services. - consumerfinance.gov](https://www.consumerfinance.gov/rules-policy/regulations/1005/17/#b-1)
+
+Edit: Some good points from the comments:
+
+* Credit unions non-profit, and beholden to their clients rather than stock holders. They are much better than banks. 
+
+* This ONLY applies to charges made using a debit card. Checks, monthly payments for stuff like Netflix and anything hooked directly into your bank account will still get charged. 
+
+* Bank tellers can apparently claim to opt you out but not follow through. I recommend double checking. Some banks allow you to opt out online which may be more reliable.
+
+* Several people have said that they got overdraft fees overturned by calmly asking the bank teller.
+
+url:https://reddit.com/r/YouShouldKnow/comments/vtjoiq/
+author:Ajreil
+subreddit:YouShouldKnow
+score:17633
+numComments:469
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,51 @@
+title:
+YSK How to survive extreme heat without air conditioning
+
+content:
+Why YSK: Knowing how to handle extreme heat in environments without air conditioning can save your life. As temperatures continue to rise, having this information might mean the difference between life and death. 
+
+(*Evening*) As soon as the outside is the same temperature or cooler than inside, open as many doors and windows as possible. Try to increase air flow from outside to inside as much as possible. Cross breeze is best but not always achievable.
+
+(*Morning*) As soon as the outside temperature is as hot as inside temperature close every door and window, and block out as much natural light as possible. Cardboard works great for blocking light and providing insulation. If you can find something reflective like car windshield screens, all the better.
+
+Evaporative/swamp coolers are effective up to a surprisingly high ambient humidity, but if the water stops evaporating they can be worse than nothing at all.  Here's a simple evaporative cooler that uses stuff most people already have. There are many other more effective methods that are not as simple. https://youtu.be/gT-suY9wTuE
+
+Ice is your friend. Wet towels in the freezer, water bottles, food storage containers, even zipper bags. DO NOT put too much non-frozen stuff in your freezer at once. It will thaw everything and freeze nothing. About 3 liters every hour is good for a larger sized freezer, approx 20 cu ft. Exceeding that amount might be result in nothing freezing, and everything thawing.
+
+Spray bottles make great misters. Mist is great in low humidity, but counterproductive if it's not drying. Same goes for outside. Mist on a roof or wall is great for cooling a structure that is not well insulated as long as the water is still evaporating.
+
+**Don't** move around a lot. **Don't** spend hours cooking or doing hot dishes or using hot electronics and tools. 
+
+Hammocks are amazing. Anything that can allow air to pass beneath you is better than something solid or insulated. Flat surfaces are better than cushioned surfaces. The floor is probably the coolest place in the house.
+
+Wear lightweight, light colored, completely covering and baggy clothing in the sun. If you have a wide brimmed hat, use it. Even if you will only be out in sun a short time. If you will be exposed to breeze in shade, baggy clothing will hold sweat but allow it to evaporate and can actually be cooler than no clothing.
+
+Drink plenty of water, but make sure you are also drinking electrolytes. Refrigerated or iced water is pleasant. **FAILURE TO DRINK ELECTROLYTES WHILE CONSUMING LARGE QUANTITIES OF WATER CAN RESULT IN HYPONATREMIA.**
+
+&gt;Easy electrolyte formula
+&gt;&gt;&gt;1 liter of water
+&gt;&gt;&gt;&gt;1/8 tsp epsom salt (as often as needed)
+&gt;&gt;&gt;&gt;&gt;1/8 tsp non-iodized salt (as often as needed)
+&gt;&gt;&gt;&gt;&gt;&gt;1/4 tsp potassium chloride/salt substitute/no-salt (daily maximum)
+
+&gt;*If using this recipe more than once in a day, use potassium chloride only in the first dose.
+
+**Be aware of the signs of heat exhaustion and heat stroke. Have a plan to treat and find help for yourself and anyone who might be vulnerable near you.**
+
+[Heat exhaustion](https://www.webmd.com/fitness-exercise/heat-exhaustion)
+
+[Heat stroke](https://www.webmd.com/a-to-z-guides/heat-stroke-symptoms-and-treatment)
+
+A cool bath can rapidly reduce body temperature in the event of an emergency.
+
+Make sure to check on friends, family, and vulnerable neighbors regularly. Confusion is a common symptom of heat exposure and may lead to poor decision making.
+
+Stay safe out there. Please anyone with other helpful tips comment them here. Something small might make all the difference.
+
+url:https://reddit.com/r/YouShouldKnow/comments/w0x4ex/
+author:BenedictCumberdoots
+subreddit:YouShouldKnow
+score:20934
+numComments:969
+isOver18:False
+hasPostBody:True

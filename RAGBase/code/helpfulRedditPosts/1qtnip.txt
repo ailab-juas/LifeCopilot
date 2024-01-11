@@ -1,0 +1,17 @@
+title:
+YSK that CTRL+L highlights the text in your browser's address bar; streamlining your internet experience
+
+content:
+It may not seem like much, and I was sceptical about its effectiveness when I first learned of it. However now it is definitely the most used short-cut in my repertoire. It makes browsing much better.
+
+It works in Chrome and Safari and Firefox. I'm not certain about IE.
+
+*Edit: Firefox
+
+url:https://reddit.com/r/YouShouldKnow/comments/1qtnip/
+author:jdmason
+subreddit:YouShouldKnow
+score:2166
+numComments:210
+isOver18:False
+hasPostBody:True

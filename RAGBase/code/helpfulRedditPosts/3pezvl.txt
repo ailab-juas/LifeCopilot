@@ -1,0 +1,19 @@
+title:
+YSK Researchers made a tool that rates the politeness of your writing. You can use it to check important emails before you send them.
+
+content:
+Foxtype was a site built by linguistics researchers to classify and rate politeness. People have been using it to check the politeness of their emails.
+
+
+**Test it Out Here : [FoxType](https://lnkie.co/M3WdU75r)**
+
+
+You can paste in 1 sentence at a time. FoxType will give you a politeness score, as well as different ways a sentence can be phrased. I've found that FoxType has improved many of my email exchanges at work. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/3pezvl/
+author:panda628
+subreddit:YouShouldKnow
+score:1114
+numComments:62
+isOver18:False
+hasPostBody:True

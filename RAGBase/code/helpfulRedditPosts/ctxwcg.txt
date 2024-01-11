@@ -1,0 +1,19 @@
+title:
+YSK Over 2 dozen US States have laws against 'Surprise Medical Bills'. Surprise Medical Bills are from Out of Network providers at an In Network facility.
+
+content:
+I got dinged with a $3,000 Anesthesiologist bill when we had our baby via emergency C-Section.
+
+Luckily NYS has a law against surprise medical bills. I was able to appeal this to my insurance, who then covered it in full.
+
+This blog post has a list of states with this law in effect.
+
+https://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2019/04/05/surprise-medical-billing-some-states-ahead-of-feds
+
+url:https://reddit.com/r/YouShouldKnow/comments/ctxwcg/
+author:amagicfro
+subreddit:YouShouldKnow
+score:1063
+numComments:46
+isOver18:False
+hasPostBody:True

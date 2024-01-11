@@ -1,0 +1,13 @@
+title:
+LPT: If you have friends looking for you in a dark place like a concert and you have a bottle of water. Turn on your cellphone flashlight and put it at the base of the water bottle to create a beacon. Hoist the beacon in the air and help guide your friends to your location.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/eqxnbu/
+author:malker84
+subreddit:LifeProTips
+score:1184
+numComments:74
+isOver18:False
+hasPostBody:False

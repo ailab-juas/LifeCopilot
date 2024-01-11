@@ -1,0 +1,29 @@
+title:
+YSK that Google will increase your Google Drive online storage limit by 2GB if you do this safety checkup today
+
+content:
+~~Taken from~~ *Last year's* blogpost about this can be seen [here] (https://googleblog.blogspot.co.uk/2015/02/take-security-checkup-on-safer-internet.html); the following is taken from that post but applies to the promotion happening today, too.
+
+&gt;We have many protections in place to keep people, and their information, secure, but there's also a lot that you can do to protect yourself. Today, on Safer Internet Day, take a quick Security Checkup, an easy way to review and manage your Google Account’s security settings.
+&gt;  
+&gt;It takes just a few minutes to make sure your information is accurate and up to date. And as an extra thank you, we’ll add 2GB to your Drive storage plan if you complete the Security Checkup by February 17. Visit your Account Settings and take your Security Checkup today.
+    
+                        
+
+^( Thanks all who pointed out that blogpost was from last year, but today is the 2016 promotion so you can get 2GB more today, and if you did it last year it adds it on top!)
+
+
+### the link to the checkup: https://security.google.com/settings/security/secureaccount
+
+And when it's activated it should  show on the pie chart [here](https://www.google.com/settings/storage).
+
+And even if you don't give them your phone number you still get the extra storage space.
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/44rlaa/
+author:p44v9n
+subreddit:YouShouldKnow
+score:4016
+numComments:302
+isOver18:False
+hasPostBody:True

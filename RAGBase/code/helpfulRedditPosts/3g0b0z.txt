@@ -1,0 +1,13 @@
+title:
+YSK Jon Stewart's last episode hosting The Daily Show airs tonight :(
+
+content:
+We're gonna miss you, Jon.
+
+url:https://reddit.com/r/YouShouldKnow/comments/3g0b0z/
+author:shaggorama
+subreddit:YouShouldKnow
+score:3162
+numComments:395
+isOver18:False
+hasPostBody:True

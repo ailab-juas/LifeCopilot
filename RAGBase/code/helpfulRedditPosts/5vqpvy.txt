@@ -1,0 +1,15 @@
+title:
+LPT: If someone confides in you with a problem they're having, your first instinct might be to try relating to them with a similar problem you've had. Avoid this as a first response as it often comes off as "one-upsmanship" rather than empathy.
+
+content:
+Whoa, this blew up while I was at work today. 
+
+Yes, obviously it's OK to eventually express with the person that you understand their issue as you've been through something similar at one point (especially if you can sense that's what they're looking for). I really just meant that you should avoid making your story the focus of your initial response before you've acknowledged the other person's problem and have validated how they're feeling. 
+
+url:https://reddit.com/r/LifeProTips/comments/5vqpvy/
+author:JohannReddit
+subreddit:LifeProTips
+score:18969
+numComments:394
+isOver18:False
+hasPostBody:True

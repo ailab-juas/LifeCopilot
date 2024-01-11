@@ -1,0 +1,13 @@
+title:
+LPT - never try to impress anybody who already has a low opinion of you. Doesn't matter what successes your achieve, they would still most likely think something along the lines "If a loser like her/him did that it mustn't be that hard" or attribute it to pure luck.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/n3eqqw/
+author:pprima
+subreddit:LifeProTips
+score:1783
+numComments:60
+isOver18:False
+hasPostBody:False

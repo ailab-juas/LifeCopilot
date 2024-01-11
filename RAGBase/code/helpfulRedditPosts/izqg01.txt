@@ -1,0 +1,13 @@
+title:
+LPT: You should do a walkthrough of the apartment complex you plan on renting in the evening time.
+
+content:
+You ever notice that most places let you see the apartment and apartment complex in the morning. When everything is usually quiet? When you finally move in your neighbors are noisy, there are kids screaming and running around. I feel like you get more of an idea of what your neighborhood will be like when you go in the evening time. See if there is anything sketchy that you don't like about the place before committing.
+
+url:https://reddit.com/r/LifeProTips/comments/izqg01/
+author:Blanxkc
+subreddit:LifeProTips
+score:1279
+numComments:66
+isOver18:False
+hasPostBody:True

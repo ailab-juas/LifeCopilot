@@ -1,0 +1,25 @@
+title:
+LPT Sick of ads on YouTube? Delete the app, download an adblocker for your phone and use www.youtube.com
+
+content:
+Like pretty much everyone everywhere, I got completely sick of the egregious amount of adverts that plague the YouTube app.
+
+I'm an iPhone user and wished there was something like YouTube Vanced that I could use. Then recently I saw that even that is being closed down.
+
+Then I remembered, YouTube is literally just a website. Why not go old school? Rather than suffer through the atrocity that the app is and how I have to bend to its will and be defenceless to what is forced upon me I could take control back by literally just deleting their app and using YouTube through my phones browser with an AdBlocker installed.
+
+No more ads for me!
+
+I know some people in the comments are probably going to bemoan the website for being terrible compared to the app or something but for my basic uses, this technique works pretty much perfectly.
+
+Edit: Alot of people saying they keep the ads to support content creators. That's a fair point.
+
+Edit: Alot of shoutouts for Brave browser, which is apparently a browser with a built in ad blocker.
+
+url:https://reddit.com/r/LifeProTips/comments/uehku8/
+author:BarkerDrums
+subreddit:LifeProTips
+score:12754
+numComments:1545
+isOver18:False
+hasPostBody:True

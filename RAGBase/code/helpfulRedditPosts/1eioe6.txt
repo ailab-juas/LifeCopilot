@@ -1,0 +1,13 @@
+title:
+LPT: Don't exercise before having blood work done.
+
+content:
+This may be common knowledge, but it was certainly news to me. I'm getting some blood work done later on today, which required fasting.  A friend of mine mentioned that some results (such as white blood cell count) can be thrown off by exercising prior to having blood drawn.  I did a little research and found some research to [back it up](http://www.scielo.br/pdf/spmj/v121n1/16127.pdf) . Food for thought! (or a glass of water... if you're fasting)
+
+url:https://reddit.com/r/LifeProTips/comments/1eioe6/
+author:itsalways430
+subreddit:LifeProTips
+score:1414
+numComments:232
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: When studying a subject, pretend that you'll have to teach the material you're studying.
+
+content:
+It changes your frame of reference and forces you to pay more attention to the material.  You imagine in your head how you'll explain the material to other people, and in such, you'll gain a greater frame of understanding.  I've been doing this for a number of years now, and it never ceases to be useful.
+
+url:https://reddit.com/r/LifeProTips/comments/1eefpq/
+author:[deleted]
+subreddit:LifeProTips
+score:2413
+numComments:228
+isOver18:False
+hasPostBody:True

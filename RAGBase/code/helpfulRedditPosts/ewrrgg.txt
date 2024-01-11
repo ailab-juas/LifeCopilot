@@ -1,0 +1,13 @@
+title:
+YSK that there are 5 different classes of fire extinguishers, that put out different types of fires. It’s important to have the right ones Incase of emergencies
+
+content:
+[Some info on it ](https://www.nationwide.com/lc/resources/home/articles/fire-extinguisher-safety)
+
+url:https://reddit.com/r/YouShouldKnow/comments/ewrrgg/
+author:Surgikull
+subreddit:YouShouldKnow
+score:6027
+numComments:153
+isOver18:False
+hasPostBody:True

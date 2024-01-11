@@ -1,0 +1,24 @@
+title:
+YSK how to mail a package
+
+content:
+A little while ago someone attempted to mail $10,000 worth of NES games in the mail. ( https://byuu.org/emulation/preservation/found-package/ ) This is how you should mail expensive items:
+
+* Pack into a medium-sized cardboard box. Seal with tape. This will be the inner box. Label the box with the return address and tracking number in case the outer shipping box is damaged.
+* Pack the inner box in a large packaging box from the delivery service or a sturdy (corrugated preferably), unmarked shipping box (at least an inch wider than the smaller box in every dimension). 
+* Pack the shipping box with packing material to protect the inner box during shipping.
+* Seal the shipping box with gummed, reinforced paper mailing tape or pressure-sensitive shipping tape. Write the tracking number on the box.
+* Disguise mailing information that it never mentions the value of items inside.
+* Require a signature to be obtained upon delivery, using Registered Mail whenever possible. (use discretion based on value of item)
+* Never ship valuables in any type of envelope or folder.
+* Don't use string, rope, masking tape or cellophane tape to seal the package. 
+* Don't indicate anywhere on the box or label that the package contains anything of value.
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/65zbbe/
+author:conradsymes
+subreddit:YouShouldKnow
+score:1492
+numComments:124
+isOver18:False
+hasPostBody:True

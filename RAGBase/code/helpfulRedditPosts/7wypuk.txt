@@ -1,0 +1,15 @@
+title:
+LPT: Most modern microwaves have a mute function to turn off the beep. Typically it's by holding 0 for 3 seconds
+
+content:
+Well this blew up. Glad I could help guys. 
+
+So I'm seeing that 0 locks some of yours. 0 works on mine. Look at the numbers carefully, one of them should in very small print say "mute", even if it's not the 0. Yours might be the number 1 or 2.
+
+url:https://reddit.com/r/LifeProTips/comments/7wypuk/
+author:hehyih
+subreddit:LifeProTips
+score:56458
+numComments:1918
+isOver18:False
+hasPostBody:True

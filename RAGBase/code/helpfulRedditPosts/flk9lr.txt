@@ -1,0 +1,15 @@
+title:
+YSK Audible has made hundreds of children (ages 0-18) audio books completely free to help kids stay relaxed and entertained. No account required. No credit card needed.
+
+content:
+Link: https://stories.audible.com/discovery
+
+Info: https://i.imgur.com/BwmPinR.jpg
+
+url:https://reddit.com/r/YouShouldKnow/comments/flk9lr/
+author:TheMercDeadpool
+subreddit:YouShouldKnow
+score:15820
+numComments:162
+isOver18:False
+hasPostBody:True

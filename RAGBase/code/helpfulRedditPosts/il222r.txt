@@ -1,0 +1,13 @@
+title:
+YSK that the 3Rs of Reduce, Reuse, and Recycle are in the order of priority as far as the principle of waste management goes.
+
+content:
+Why YSK: Too much emphasis on the "recycle" aspect of waste management has actually led to an inefficient method for the same and it should be made known that recycling is to be done when you've exhausted the methods of reducing and reusing.
+
+url:https://reddit.com/r/YouShouldKnow/comments/il222r/
+author:iprefertostayanon
+subreddit:YouShouldKnow
+score:6519
+numComments:111
+isOver18:False
+hasPostBody:True

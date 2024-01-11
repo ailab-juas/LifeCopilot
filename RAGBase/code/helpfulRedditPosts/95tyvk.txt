@@ -1,0 +1,13 @@
+title:
+LPT: When making conversation with someone you've just met, ask them what they've been listening to lately, rather than what their favorite kind of music is - it's fresh in their mind and they won't have to pick favorites on the spot.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/95tyvk/
+author:MDS95
+subreddit:LifeProTips
+score:51189
+numComments:1426
+isOver18:False
+hasPostBody:False

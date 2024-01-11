@@ -1,0 +1,13 @@
+title:
+LPT to returning students: On most calculators the C button means clear and CE means Clear Entry. The C will clear all input while CE clears the most recent entry, so if you make a mistake in a long computation you don't need to start all over again.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/7rne31/
+author:[deleted]
+subreddit:LifeProTips
+score:4594
+numComments:144
+isOver18:False
+hasPostBody:True

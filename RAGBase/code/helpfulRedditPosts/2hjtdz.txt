@@ -1,0 +1,15 @@
+title:
+YSK about Bittorrent bundles - free songs, albums, and movies that are officially and legally released by their creators. Moby, De La Soul, and Thom Yorke are just some of them.
+
+content:
+Whenever someone tried to argue that torrents are just for piracy, I show them the BT Bundles, because it's such an effective way for artists to promote themselves and share their creations with their audience.
+
+You can find tons of bundles at https://bundles.bittorrent.com/. Here's [Moby's Innocents](https://bundles.bittorrent.com/bundles/moby-innocents), [De La Soul's Smell the Da.I.S.Y](https://bundles.bittorrent.com/bundles/smell-the-daisy), and Thom Yorke's newest solo work, [Tomorrow's Modern Boxes](https://bundles.bittorrent.com/bundles/tomorrowsmodernboxes) . Most of the artists release a couple tracks for free, with the option to pay them for the full album. These are incredibly fast torrents, too, because so many people seed them.
+
+url:https://reddit.com/r/YouShouldKnow/comments/2hjtdz/
+author:wil
+subreddit:YouShouldKnow
+score:1585
+numComments:59
+isOver18:False
+hasPostBody:True

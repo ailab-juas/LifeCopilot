@@ -1,0 +1,13 @@
+title:
+LPT: While watching football, if you have a 5.1 channel audio system, identify the commentary track and disconnect that channel so you don't have to hear Phil Simms
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1vm6ux/
+author:therelentlesspace
+subreddit:LifeProTips
+score:1049
+numComments:105
+isOver18:False
+hasPostBody:False

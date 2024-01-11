@@ -1,0 +1,16 @@
+title:
+YSK: If you miss the total eclipse this year, the next total eclipse for the U.S. is on April 08, 2024 and will travel from the southwest to the northeast.
+
+content:
+Here is the NASA website for the eclipse prediction. As you can see, the eclipse path is almost the exact opposite as this year's path, so many more people who were not able to make arrangements for the eclipse this year will have the opportunity to see it closer to home.
+ https://eclipse.gsfc.nasa.gov/SEgoogle/SEgoogle2001/SE2024Apr08Tgoogle.html
+
+EDIT: happy eclipse watching guys! I'm driving south from PA to Tennessee or to South Carolina, wherever the weather is nicer. Thankfully next time around I won't have to drive as far! 
+
+url:https://reddit.com/r/YouShouldKnow/comments/6tnn1j/
+author:zachismyname89
+subreddit:YouShouldKnow
+score:9164
+numComments:440
+isOver18:False
+hasPostBody:True

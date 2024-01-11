@@ -1,0 +1,13 @@
+title:
+LPT: When starting a free trial go ahead and cancel (if possible) as soon as you accept, that way it won’t sneak up on you and leave you paying for it later
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/amod6d/
+author:WVUGuy29
+subreddit:LifeProTips
+score:17711
+numComments:476
+isOver18:False
+hasPostBody:False

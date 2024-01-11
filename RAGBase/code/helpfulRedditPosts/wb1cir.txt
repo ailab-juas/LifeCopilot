@@ -1,0 +1,21 @@
+title:
+LPT When writing a check for a wedding gift, use the word "OR"
+
+content:
+ 
+
+Many people love giving a couple a gift of a check as their wedding gift. They make the check out as "Mr. and Mrs. John Smith"; "John Smith and Jane Smith"....
+
+That is a big problem. Since the word "and' is connecting both parties, Both people need to endorse the check. According to the state, Jane Smith doesn't exist. For the last 30 years the state has known who Jane Doe is, but Jane Smith is a new person. Wielding her marriage license she needs to get her name changed. That could take several weeks. Meanwhile the couple could be sitting on a pile of checks that they can't do anything with, and the guests are floating a check in the æther.
+
+Instead make the check out as "John Smith OR Jane Doe". According to the state and their bank, both these people exist at the time of the reception (when gifts are given) and depositing them in the bank isn't a problem. Either party can endorse and deposit the check, since the word "OR" is used.
+
+\*\*This is just general example for the most common type of marriage, where a heterosexual couple gets hitched, and the women changes her name. Please adjust for gender and name creation as the situation demands.
+
+url:https://reddit.com/r/LifeProTips/comments/wb1cir/
+author:fuzzysarge
+subreddit:LifeProTips
+score:1241
+numComments:153
+isOver18:False
+hasPostBody:True

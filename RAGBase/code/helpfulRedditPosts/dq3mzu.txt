@@ -1,0 +1,18 @@
+title:
+YSK the 112 is international emergency services number
+
+content:
+Dialling 112 in any country will reach that countries emergency services line. Without the need for a SIM card.
+
+After a friend of mine was overseas, he witnessed a person getting mugged. He didn't help because the offender had a gun. 
+He wasn't able to call the police because he didn't remember their number in that country.
+
+Which reminded me of 112. An international joint venture was set up in 2002 where countries in Europe, Oceania, Asia, the Americas and Africa joined the program with the launch of GSM. (Following on from 112 being the European Nations joint emergency access number in 1991)
+
+url:https://reddit.com/r/YouShouldKnow/comments/dq3mzu/
+author:pud3000
+subreddit:YouShouldKnow
+score:11337
+numComments:322
+isOver18:False
+hasPostBody:True

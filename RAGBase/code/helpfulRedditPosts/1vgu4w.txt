@@ -1,0 +1,43 @@
+title:
+YSK that if you have student loans, there are quite a few different options out there for every single person to make paying them back easier and cheaper. Dont throw your money away.
+
+content:
+**TL;DR: Links at the bottom**  
+
+First, everyone should apply for direct loan consolidation. 
+
+
+* **Direct Loan Consolidation:**  
+Most of us have loans from many different servicers. Even though I went to one school for my Master's Degree, my loans came from Sallie Mae, Nelnet, UASecho, and Chase. Direct Loan Consolidation takes all of your loans and consolidates them into one lender. This makes it easier to keep track of your payments, and your interest rate is just for that one, large loan.  
+
+* **Different Payment Plans**  
+The federal government also offers many different payment options once your loans are consolidated. These include Income-Based Repayment(IBR), Pay As You Earn, among many others. I applied for the Income-Based Repayment Plan (IBR). They take a look at your annual earnings and readjust your monthly payment based on what you can afford. I was paying $600 A MONTH before I did this. I make around $33,000 a year, so this was really damaging my budget, and even though I am a grown ass girl (or feel that way at 25 with a steady career, house, car, etc) I was living paycheck to paycheck. I was approved for the IBR and now pay a grand total of ZERO dollars and ZERO cents. They literally think I am too poor to pay anything, even though I am a 1 person family with no dependents and have a steady career. When I spoke to the servicer, they said I just need to let them know if my income changes drastically. There is a chance I am getting a significant raise soon with a new position, where I would be making around $40,000 a year. The servicer told me that at that point, I would probably be paying only around $50-$100/month.  
+
+* **Public Service Loan Forgiveness Program**  
+I work for a non-profit. In 2007, Obama started the Public Service Loan Forgiveness Program to those who work in a public service field. What this does is forgive all of the loans you have after 120 full time, on time payments (or 10 years). As long as you make 120 full, on time payments, they forgive any outstanding loans you have after 10 years. This means, even if you had $200,000 in loans after that time, they would still be forgiven. I asked my servicer how paying $0.00/month would affect my 120 payment period, since I am not making any payments at this time. I was shocked when they said that this year would still count towards the 10 year time payment, because $0.00/month is, technically, a "full, on time payment". So, for me, it's basically a free year.  
+
+
+Student loans are horrible. You hear horror stories of people doing drastic, dangerous things (including taking their life) because the payments are so crushing to them. Please know there ARE options out there that the government provides.  
+
+**Links and Applications:**  
+[To Consolidate your loans or to find out more about it](https://loanconsolidation.ed.gov/AppEntry/apply-online/appindex.jsp)  
+
+
+
+[To Find out more or apply for the Income Based Repayment Plan](http://studentaid.ed.gov/repay-loans/understand/plans/income-based)  
+
+
+
+[To Find out more about the other options, besides the IBR plan that you may qualify for](http://studentaid.ed.gov/repay-loans/understand/plans)  
+
+
+
+[If you work in public service, want to find out if your company qualifies, or to apply for the Public Service Loan Forgiveness Program](http://studentaid.ed.gov/repay-loans/forgiveness-cancellation/charts/public-service)
+
+url:https://reddit.com/r/YouShouldKnow/comments/1vgu4w/
+author:[deleted]
+subreddit:YouShouldKnow
+score:2146
+numComments:379
+isOver18:False
+hasPostBody:True

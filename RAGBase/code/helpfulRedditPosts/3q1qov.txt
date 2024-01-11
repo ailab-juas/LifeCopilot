@@ -1,0 +1,32 @@
+title:
+LPT: Before using a Credit Card Reader in a High Risk Location pull on it. Credit Card Skimmers will usually be loosely attached.
+
+content:
+Skimmers have gotten more advanced and are often designed to look like they are part of the equipment. ([Chase Example.](http://krebsonsecurity.com/2011/12/pro-grade-3d-printer-made-atm-skimmer/), [Bank of America Example](http://krebsonsecurity.com/wp-content/uploads/2011/01/skimwithwithout.jpg) ) But since they aren't actually they won't be tightly attached so they can easily be retrieved.
+
+Bonus points for covering the pin pad to prevent hidden cameras ([like this one](http://sav-cdn.com/sites/default/files/imagecache/superphoto/MET0511SKIMMER4.JPG) or [this one](http://chzv.net/wp-content/uploads/2007/12/atm3_camera.jpg) ) from capturing it and running your fingers over all the keys to throw off any [thermal imaging signatures](https://nakedsecurity.sophos.com/2011/08/17/stealing-atm-pins-with-thermal-cameras/).
+
+A high risk location is any card reader in an unattended location like:
+
+* Gas Pumps
+* ATMs
+* Vending Machines (everything from Red Box to your local Coke machine)
+
+Outdoor gas pumps especially are over half of all skimmer fraud locations.
+
+
+
+
+edit: Note that this will only work on external skimmers. Gas pumps frequently have internal skimmers as well because of the weak locks they use to secure them. Many places have tamper evident tape they place on gas pumps. If the gas pump happens to have this you can check this as well.
+
+You are looking to see that the tape has not been [broken](http://www.ocalapost.com/wp-content/uploads/2015/04/skimmer5.jpg) or [voided](http://1.bp.blogspot.com/-AycPSplbqwQ/U9fRlnPvmKI/AAAAAAAAAg0/9s7SptJSum8/s1600/SKIMMERS+(2). Sometimes internal skimmers [allow theives to collect data remotely](http://krebsonsecurity.com/2014/01/gang-rigged-pumps-with-bluetooth-skimmers/). Checking tape is not foolproof and not all stations have it.
+
+edit2: ELI5 of a skimmer: another thing you that reads and saves your card data that's put there by a thief. Once someone has your card data they can use it to buy stuff against your account. They capture credit/debit/gift cards or any card with the black strip on the back of it. [ABC News story about gas skimmers.](https://www.youtube.com/watch?v=G_aH50Tn8Fo)
+
+url:https://reddit.com/r/LifeProTips/comments/3q1qov/
+author:nn123654
+subreddit:LifeProTips
+score:4555
+numComments:530
+isOver18:False
+hasPostBody:True

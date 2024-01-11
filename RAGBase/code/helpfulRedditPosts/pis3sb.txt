@@ -1,0 +1,52 @@
+title:
+YSK: A crash at 30mph is not twice as bad as 15mph, it's 4x as bad. Similarly, a crash at 60mph is 16x as bad. This is because kinetic energy is proportional to squared-velocity.
+
+content:
+Why YSK: The dangers of speeding are worse than you might expect, and, on the same note, your odds at surviving a crash increase greatly at lower speeds.
+
+This is because kinetic energy is proportional to velocity^2 . So, when you *double* your speed, you *quadruple* your kinetic energy.
+
+
+When your car speeds up, it converts chemical energy (in the gas or battery) to kinetic energy. The car and your body gain kinetic energy. All that energy needs to go somewhere, be it heat (from braking) or permanent deformation of the body.
+
+Generally, you want that deformation to be in the car, and not in you, and you want to slow down gradually.
+
+Here's an example table that you can compare values with:
+
+| Speed | Speed ^2|
+|-|-|
+| 0 | 0 |
+| 5 | 25 |
+| 10 | 100 |
+| 15 | 225 |
+| 20 | 400 |
+| 25 | 625 |
+| 30 | 900 |
+| 35 | 1225 |
+| 40 | 1600 |
+| 45 | 2025 |
+| 50 | 2500 |
+| 55 | 3025 |
+| 60 | 3600 |
+| 65 | 4225 |
+| 70 | 4900 |
+| 75 | 5625 |
+| 80 | 6400 |
+| 85 | 7225 |
+| 90 | 8100 |
+| 95 | 9025 |
+
+E.g. If you're on the highway, going 70mph instead of 85mph cuts your kinetic energy by about 1/3rd.
+
+Of course, *how* you crash will impact how severe the crash is too, and at very high speeds, it's less a question of if you will "survive" and more "how fine of a mist your body will become".
+
+
+See: https://en.wikipedia.org/wiki/Kinetic_energy
+
+url:https://reddit.com/r/YouShouldKnow/comments/pis3sb/
+author:gnulynnux
+subreddit:YouShouldKnow
+score:14639
+numComments:287
+isOver18:False
+hasPostBody:True

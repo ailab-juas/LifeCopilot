@@ -1,0 +1,15 @@
+title:
+LPT: When meeting someone for the first time, don't worry about being interesting. Instead, focus on being interested.
+
+content:
+People love to talk about themselves. Ask them lots of non-loaded questions about themselves; their interests and hobbies. Steer away from asking about work unless you know what they are doing, this can be a loaded question for those who do not work for whatever the reason.
+
+Be genuinely interested and ask follow up questions. You will come off as very engaging and conversation will be easier. You won't have to stress about being super interesting or worry about always talking about yourself.
+
+url:https://reddit.com/r/LifeProTips/comments/k8tse2/
+author:monsteramyc
+subreddit:LifeProTips
+score:13532
+numComments:200
+isOver18:False
+hasPostBody:True

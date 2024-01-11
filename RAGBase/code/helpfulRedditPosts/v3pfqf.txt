@@ -1,0 +1,13 @@
+title:
+LPT: Don’t strictly depend on caffeine to keep you up. Water is the best kept secret.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/v3pfqf/
+author:WallStreetDoesntBet
+subreddit:LifeProTips
+score:2114
+numComments:273
+isOver18:False
+hasPostBody:False

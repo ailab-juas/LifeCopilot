@@ -1,0 +1,15 @@
+title:
+LPT: Before dropping your car at the repair shop, always remove your house key from your key ring
+
+content:
+Not sure whether this is considered common knowledge but it can be easy to forget. If there’s just one dishonest person at the repair shop, they could easily make a duplicate key and let themselves into your house later, since they know your address.  
+
+This could apply to dropping your car with valet parking as well.
+
+url:https://reddit.com/r/LifeProTips/comments/sa6s77/
+author:stevein3d
+subreddit:LifeProTips
+score:2857
+numComments:378
+isOver18:False
+hasPostBody:True

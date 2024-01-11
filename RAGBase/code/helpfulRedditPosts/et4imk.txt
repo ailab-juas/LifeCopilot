@@ -1,0 +1,13 @@
+title:
+LPT: trying to help someone on r/suicidalthoughts or r/depression but don’t know what to say? Go to OP’s profile and reply to some of their comments on other subs, saying something nice. Sometimes even the smallest bit of positivity can save a life.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/et4imk/
+author:Account_Overdrawn
+subreddit:LifeProTips
+score:2579
+numComments:60
+isOver18:False
+hasPostBody:False

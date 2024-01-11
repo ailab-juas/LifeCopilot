@@ -1,0 +1,19 @@
+title:
+YSK: This popular brand of “San Marzano” canned tomatoes is fake and uses false advertising
+
+content:
+Why YSK: so so many videos I see use [this](https://i.imgur.com/XlGNfzx.jpg) fake brand of tomatoes that intentionally mislead you into thinking they are grown in Italy, specifically the San Marzano region. Just so you know, these are just ordinary roma tomatoes grown in the US and canned in the same style as SM tomatoes. 
+
+If you want to use authentic SM tomatoes in your recipes, you need to make sure the can has a “D.O.P” written on the label somewhere, like [this](https://i.imgur.com/sm14Pgz.jpg). It stands for Denomination of Protected Origin and ALL authentic tomatoes exported from San Marzano region of Italy will have this on the label. 
+
+If you can’t find it, at least make sure it says ~~“Made in Italy”~~ “Product of Italy” (if that’s what you’re going for in your recipe).
+
+And if you are reading this and don’t already know, SM tomatoes are famous because the region they are originally grown in has the perfect climate, and volcanic soil that gives them a better flavor. There is a variety of SM tomatoes that can be grown anywhere, but it’s the region and soil that makes them special.
+
+url:https://reddit.com/r/YouShouldKnow/comments/sjn3fb/
+author:1saltymf
+subreddit:YouShouldKnow
+score:6216
+numComments:390
+isOver18:False
+hasPostBody:True

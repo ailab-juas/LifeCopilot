@@ -1,0 +1,17 @@
+title:
+LPT: Use ice cube tray to hold small parts when disassembling and assembling things.
+
+content:
+http://i.imgur.com/1ZTAtIR.png?1
+
+I sure did man, I sure did.
+
+For electronic components, I would suggest a rubber mat instead of a fabric mat since it could cause static and short your electronic components.
+
+url:https://reddit.com/r/LifeProTips/comments/1fbzq0/
+author:danielesin
+subreddit:LifeProTips
+score:2471
+numComments:179
+isOver18:False
+hasPostBody:True

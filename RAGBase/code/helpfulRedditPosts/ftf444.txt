@@ -1,0 +1,13 @@
+title:
+LPT: LPT: When considering a financial advisor, ask if they are a fiduciary. Fiduciaries are required by law to act in YOUR best interest. This could potentially save you hundreds of thousands of dollars by retirement.
+
+content:
+Edit: As others have stated, fee-only advisors are somewhere you can potentially start. That means they aren't getting paid to sell you stuff you don't need (insurance products, load funds, etc.) If you don't know what these are, please look them up. It could save you a ton later.
+
+url:https://reddit.com/r/LifeProTips/comments/ftf444/
+author:illini1307
+subreddit:LifeProTips
+score:32531
+numComments:988
+isOver18:False
+hasPostBody:True

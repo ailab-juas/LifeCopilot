@@ -1,0 +1,13 @@
+title:
+LPT: Don’t say anything bad about your boss to your coworkers; even if they agree with you. You never know if someone would backstab you and let your boss know.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/mfnqcp/
+author:Drew_Ferran
+subreddit:LifeProTips
+score:47406
+numComments:1479
+isOver18:False
+hasPostBody:False

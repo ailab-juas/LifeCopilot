@@ -1,0 +1,15 @@
+title:
+LPT: a wet oven mitt is no longer an oven mitt.
+
+content:
+Water transfers heat a lot faster than dry fabric. If you ever get an oven mitt wet, don’t use it to pull anything out of the oven unless you want the heat transferred directly to your hand. 
+
+Thankfully this trick has saved me from any nasty burns.
+
+url:https://reddit.com/r/LifeProTips/comments/ve1daf/
+author:idealdreams
+subreddit:LifeProTips
+score:32260
+numComments:890
+isOver18:False
+hasPostBody:True

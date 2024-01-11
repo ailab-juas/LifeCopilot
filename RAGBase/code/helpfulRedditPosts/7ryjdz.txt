@@ -1,0 +1,13 @@
+title:
+YSK: If there's a promotion where you can enter a code for a chance to win a prize after purchasing a product, you're likely legally entitled to a free code.
+
+content:
+Companies usually do this to avoid it being considered gambling. For example Doritos has a promotion going on where there's codes on their bags, and in the fine print it says "no purchase necessary [...] for a free code, call (tel\#)"
+
+url:https://reddit.com/r/YouShouldKnow/comments/7ryjdz/
+author:svenskarrmatey
+subreddit:YouShouldKnow
+score:5207
+numComments:143
+isOver18:False
+hasPostBody:True

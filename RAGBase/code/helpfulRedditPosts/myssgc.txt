@@ -1,0 +1,15 @@
+title:
+LPT: A blanket under you can be just as good as a blanket on top of you.
+
+content:
+Especially in colder climates, camping or sleeping on an air mattress. The fabric under you acts as a heat barrier.
+
+I didn't believe this until I moved to a new house, no heater and only a blow up mattress. Slept with 6x blankets on me and woke up cold. Switched to 3x under and 3x on top and I was toasty! A very minor example, but it works in a lot of cases.
+
+url:https://reddit.com/r/LifeProTips/comments/myssgc/
+author:silva_wings
+subreddit:LifeProTips
+score:30142
+numComments:936
+isOver18:False
+hasPostBody:True

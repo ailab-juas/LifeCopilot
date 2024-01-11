@@ -1,0 +1,13 @@
+title:
+LPT: Be careful who you vent to in work. Just because they listen, it doesn't mean that they're your friend or have your best interests at heart.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ifz87k/
+author:SweepyDinosaur
+subreddit:LifeProTips
+score:84644
+numComments:2213
+isOver18:False
+hasPostBody:False

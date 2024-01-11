@@ -1,0 +1,25 @@
+title:
+YSK: You can purchase prescription lenses online for a fraction of the price (without renewing your prescription)
+
+content:
+YSK: You can purchase prescription lenses online for a fraction of the price when compared to the lense store at the optometrist (without renewing your prescription.) 
+
+Why YSK: You can save hundreds of dollars on prescription lenses by buying online.
+
+I'm sure many people already know this, but I just learned this and I wanted to share! My vision has been relatively stable over the years, so this could have saved me bookoos of money.
+
+There are several sites online to purchase quality frames/lenses for cheap. Zenni Optical is an example where you can get a set for as little as $7 +$5 shipping.
+
+*You will need to know your prescription lens measurements to input into whatever site you choose.*
+
+This is especially helpful for those of us without vision insurance and have a relatively consistent prescription.
+
+Obviously, if your vision is changing or degrading significantly, you will need to renew your prescription as needed.
+
+url:https://reddit.com/r/YouShouldKnow/comments/vhq52w/
+author:QisforQcumber
+subreddit:YouShouldKnow
+score:1247
+numComments:115
+isOver18:False
+hasPostBody:True

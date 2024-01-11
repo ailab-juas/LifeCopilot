@@ -1,0 +1,26 @@
+title:
+LPT: If ever in a large crowd and faced with having to yell "somebody call 911", don't, and instead explicitly point to someone and say "YOU, call 911". This will prevent the "Bystander Effect".
+
+content:
+The Bystander Effect in summary, is when there is a large amount of people, and therefore everyone assumes someone else is calling for rescue, when in fact no one has because there are so many people around "someone else will".
+
+Firefighter buddies of mime have told me stories of them getting to a scene with tens of people standing around for minutes while nobody has yet called for help, simply cause you automatically assume since there is so many people around someone already had to have done that. 
+
+If you physically designate someone to call, they will. 
+This tip can save a life.
+
+Edit: Other good supplemental tips to this others are pointing out. 
+
+ - Say please
+
+ - Also tell them to confirm rescue is on the way to ensure they have called
+
+
+
+url:https://reddit.com/r/LifeProTips/comments/xbkz8/
+author:roastedbagel
+subreddit:LifeProTips
+score:2939
+numComments:363
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Learn to read academic review papers. They present the current best understanding of a phenomenon or field and are often written in non-technical language.
+
+content:
+Whether you want to get the best information on the efficacy of flossing, the effects of fluoridated water on health, or the validity of "brain training" games, academic review papers will present the state of research and its uncertainties and will articulate any real controversies within the subject. This will also help you get away from the constant flip flopping results of single studies that are regularly picked up in news journalism and help you understand current consensus.
+
+url:https://reddit.com/r/LifeProTips/comments/6sdaqe/
+author:wrkyle
+subreddit:LifeProTips
+score:3872
+numComments:94
+isOver18:False
+hasPostBody:True

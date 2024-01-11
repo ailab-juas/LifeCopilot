@@ -1,0 +1,21 @@
+title:
+LPT: When checking online product reviews check the 3-star ones first. They usually contain the most information.
+
+content:
+This is a sweeping generalization so while it applies to most situations, obviously if you click on something with 90% 1-star ratings it's not going to apply.
+
+5-star reviews are often obtained by the company prompting or rewarding the customer for feedback, and since they have nothing to complain about, they just hit the button. They may not reflect an actual exemplary product.
+
+1-star reviews are often the result of a mistake or incident that's not common overall. If you try reading these you'll be flooded with complaints about shipping cost, an accident caused by the individual who packed their order, or some other random occurrence that is extremely unlikely to happen to you. Very little product information.
+
+3-stars often reflect the people who got what they wanted without any real incidents, but found the product to be lacking in some way. You will usually find lengthy paragraphs here describing the details of their likes and dislikes, and not just one sentence exclaiming "I WAS MISSING A PIECE" or "THE BOX WAS DIRTY". In 3-star reviews I've personally had much more luck getting the information I'm looking for, from a reasonable person.
+
+Hope this helps someone. Happy shopping!
+
+url:https://reddit.com/r/LifeProTips/comments/gh72sm/
+author:kraaffff
+subreddit:LifeProTips
+score:31986
+numComments:502
+isOver18:False
+hasPostBody:True

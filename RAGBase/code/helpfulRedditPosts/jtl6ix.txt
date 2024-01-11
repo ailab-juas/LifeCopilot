@@ -1,0 +1,13 @@
+title:
+LPT: Pet Owners, don't forget to occasionally wash your pet's food and water bowl. They get dirty and can be a source for bacteria growth, so hand-wash or run it through the dishwasher every so often!
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/jtl6ix/
+author:kukukele
+subreddit:LifeProTips
+score:3120
+numComments:166
+isOver18:False
+hasPostBody:False

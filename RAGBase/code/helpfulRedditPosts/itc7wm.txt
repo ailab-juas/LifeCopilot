@@ -1,0 +1,14 @@
+title:
+YSK the US Postal Service has a service called informed delivery that will show you scans of the pieces of mail that are arriving that day
+
+content:
+Why YSK: This is a good service for people who receive checks or other important mail in their mailbox. This will help someone know if a piece of mail was stolen or possibly not delivered. Its also a good way to check to see if it is worth it to get off the couch and go check the mailbox.
+Edit:  someone in the comments said I should mention it is a free service.
+
+url:https://reddit.com/r/YouShouldKnow/comments/itc7wm/
+author:palmetto420
+subreddit:YouShouldKnow
+score:3857
+numComments:137
+isOver18:False
+hasPostBody:True

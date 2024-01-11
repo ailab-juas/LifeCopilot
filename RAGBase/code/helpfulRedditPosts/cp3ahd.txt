@@ -1,0 +1,13 @@
+title:
+LPT: When watching a broadcast sporting event with 5.1 surround sound, by disabling the center speaker+woofer you can eliminate the commentator track and enjoy the game with only the stadium/arena ambiance.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/cp3ahd/
+author:JustSomeGhost
+subreddit:LifeProTips
+score:21288
+numComments:319
+isOver18:False
+hasPostBody:False

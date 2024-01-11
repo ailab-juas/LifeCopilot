@@ -1,0 +1,13 @@
+title:
+YSK that applying Super Glue (cyanoacrylate) to cotton or wool results in a rapid chemical reaction that releases enough heat to cause minor burns. If enough cyanoacrylate is added to the cotton or wool, the fabric will catch on fire, making this a great trick to keep in mind in survival situations.
+
+content:
+Generally, cotton and wool are readily available and cyanoacrylate is always a good thing to have on hand in first aid kits, due to its wound sealing ability.  So if you ever find yourself lost in the woods with nothing but a first aid kit and no other easy means to start a fire, this little trick might help you out.
+
+url:https://reddit.com/r/YouShouldKnow/comments/gm8zan/
+author:MountainsOfBubbles
+subreddit:YouShouldKnow
+score:19130
+numComments:411
+isOver18:False
+hasPostBody:True

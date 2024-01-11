@@ -1,0 +1,13 @@
+title:
+LPT: When taking a taxi ALWAYS get a receipt even if you don't need one. That way if you happen to accidentally leave a personal belonging behind you will have the company name and taxi number.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/8ra7zk/
+author:NuevoJerz
+subreddit:LifeProTips
+score:29338
+numComments:699
+isOver18:False
+hasPostBody:False

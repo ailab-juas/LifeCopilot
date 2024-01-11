@@ -1,0 +1,25 @@
+title:
+LPT: when trying to come up with something creative, don't try to be creative. Write every idea down on a piece of paper and don't stop until you've got at least 100 ideas.
+
+content:
+Former advertising copywriter here. I've blown through reams upon reams of paper by doing this. My desk was constantly a mess.
+
+Creativity is a physical process, not a mental one. It's also something that can be easily taught through certain exercises. While some people are naturally more creative than others, those that aren't can make up for their lack of creativity through simple processes.
+
+This process, as described to me by the president of Ogilvy Advertising, Rory Sutherland, is called "scamping."
+
+The trick is to think as little as possible, and work as fast as possible. You'll probably start out with some dumb ideas. That's fine. The goal is to bounce from one dumb idea, to a less dumb idea, and so on. You'll soon find nuggets within these dumb ideas, and start building upon them. Personally, I wouldn't stop until I'd gone through an entire stack, which would take about two hours.
+
+Once you're finished, it's simply a process of elimination. Go back through all your ideas and start sorting them into two piles: good and bad. Once you've done that, take the good pile and sort them again by good and better. Keep doing this until you've narrowed it down to five ideas.
+
+Once you have your top five, ask others to take a look at them and give you their feedback. You'll generally be biased to a few of the ideas, so running them past others will help you get a better idea on which ideas are stronger.
+
+Finally, don't be afraid to kill your babies. I've had plenty of ideas I thought were genius that just didn't resonate with others, and you can't be afraid to get rid of them.
+
+url:https://reddit.com/r/LifeProTips/comments/49u67x/
+author:CarlosWeiner
+subreddit:LifeProTips
+score:4478
+numComments:977
+isOver18:False
+hasPostBody:True

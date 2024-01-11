@@ -1,0 +1,13 @@
+title:
+LPT: If you're getting a new role at work sans a promotion, get any specifics about it in writing from your manager. Having a record will help you create a verifiable foundation if you change jobs in the future.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/cf7v1i/
+author:TriTexh
+subreddit:LifeProTips
+score:3594
+numComments:76
+isOver18:False
+hasPostBody:False

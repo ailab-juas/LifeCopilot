@@ -1,0 +1,17 @@
+title:
+LPT: If you bring home a new house plant, put it somewhere fairly bright and don't touch it for at least a week
+
+content:
+I'm a huge plant person and some of my neighbors occasionally ask me for help/potting soil/advice. I don't judge because we learn best by making mistakes but if I had a dollar for every plant that died because it wasn't allowed to properly acclimate before people started messing with it, I'd be able to buy a variegated banana plant. The thing about plants is that, in nature, they don't really move and their environment are somewhat consistent and predictable. When you move a plant from point A to point B (e.g. from Lowe's to your kitchen), this is a huge shock to the plant and it needs time to recover. Repotting is also a huge shock and, if you don't let the plant recover from being moved first, it's *really* not going to like this and probably drop leaves, turn yellow, and look really sad/die. If you hold your horses and wait a week or two, you'll have a much higher chance of having a positive outcome (some plants are just wimps and will die even if you do everything right). 
+
+Personally I've killed a lot of plants by watering them right after I get home because they had been overwatered at the garden center and then I pushed them over the edge. I've started letting the soil really dry out and I've had significantly fewer fatalities. Some people also want to immediately fertilizer their plants after they get home. In my unprofessional opinion, this is like taking a multivitamin because you have a cold and is a waste of fertilizer. You also run the risk of over watering. 
+
+There's no such thing as a "black thumb." There are only people who haven't killed enough plants to know what to look for.
+
+url:https://reddit.com/r/LifeProTips/comments/s9isxc/
+author:mynamesisntsarah
+subreddit:LifeProTips
+score:31832
+numComments:774
+isOver18:False
+hasPostBody:True

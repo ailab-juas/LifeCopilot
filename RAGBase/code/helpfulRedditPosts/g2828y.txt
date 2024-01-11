@@ -1,0 +1,13 @@
+title:
+YSK: Harvard university is offering 64 online courses FOR FREE on all different types of subjects!
+
+content:
+[Here is the link for anyone interested!](https://online-learning.harvard.edu/catalog/free)
+
+url:https://reddit.com/r/YouShouldKnow/comments/g2828y/
+author:elchago100
+subreddit:YouShouldKnow
+score:33558
+numComments:878
+isOver18:False
+hasPostBody:True

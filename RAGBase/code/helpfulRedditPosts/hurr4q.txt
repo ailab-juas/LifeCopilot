@@ -1,0 +1,13 @@
+title:
+LPT: You can save money filling your pool just by calling your water company.
+
+content:
+If you are like a lot of people during Covid, you have bought a pool to help with the quarantine. Most people fill the pool with a spigot/hose coming from their house which creates an enormously high water bill due to the extra thousands of gallons being pumped through your meter. Call your water company and let them know you are filling a pool. They will cross reference your normal water usage with next months and eliminate the sewage charge from the extra water use. The sewage charge is often the most expensive part of the water bill most likely accounting for over 50%. Depending on the size/gallons this could save you hundreds on your water bill.
+
+url:https://reddit.com/r/LifeProTips/comments/hurr4q/
+author:swagonwagon
+subreddit:LifeProTips
+score:1147
+numComments:199
+isOver18:False
+hasPostBody:True

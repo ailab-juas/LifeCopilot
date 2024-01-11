@@ -1,0 +1,13 @@
+title:
+LPT: If you are doing a secret Santa with a $20 spending limit, instead of buying cheap trinkets, spend the money on a high quality version of a useful item that would typically cost far less (i.e., a $20 pen, bag of coffee, kitchen utensil, etc.)
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/kh15v6/
+author:ianisrlycool
+subreddit:LifeProTips
+score:65380
+numComments:2006
+isOver18:False
+hasPostBody:False

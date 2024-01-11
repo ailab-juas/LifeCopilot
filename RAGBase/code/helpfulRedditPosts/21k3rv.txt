@@ -1,0 +1,13 @@
+title:
+YSK While driving a stick shift/manual transmission vehicle, putting your car in neutral to "coast" down a hill does not save you gas.
+
+content:
+When you put your car is neutral your ecu will direct your fuel system to a 14.7 air fuel ratio. This is the typical air fuel ratio that a vehicle uses when at idle. When going down a hill while engine braking, say in third gear, the engine uses almost zero fuel. Essentially, the engine is rotating but using no fuel. Putting your stick shift in neutral to coast down a hill and save fuel is simply a myth. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/21k3rv/
+author:[deleted]
+subreddit:YouShouldKnow
+score:1531
+numComments:577
+isOver18:False
+hasPostBody:True

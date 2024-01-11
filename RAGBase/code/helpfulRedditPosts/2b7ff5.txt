@@ -1,0 +1,13 @@
+title:
+YSK that credit card purchases frequently bestow a warranty on the item that you purchased.
+
+content:
+Most credit card companies automatically provide a short (30-90 days) warranty period for items that you purchase with the card.  So if the merchant refuses to allow you to return a defective item for a refund, your credit card company will buy the item back from you.  Check the terms and conditions of your cards.
+
+url:https://reddit.com/r/YouShouldKnow/comments/2b7ff5/
+author:dominant_driver
+subreddit:YouShouldKnow
+score:1459
+numComments:113
+isOver18:False
+hasPostBody:True

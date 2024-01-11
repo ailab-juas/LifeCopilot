@@ -1,0 +1,13 @@
+title:
+LPT: if you wear surgical masks with ear loops, remove the loops before disposing of them! It only takes a second and might help avoid wildlife getting tangled in them somewhere down the line
+
+content:
+I've seen this on a few appeals from animal charities, there appears to be a rising number of animals getting caught in disposable masks. I just tear the loops out before I get rid of mine, it's barely any extra effort but could reduce the risk of harm.
+
+url:https://reddit.com/r/LifeProTips/comments/kjnk4q/
+author:4chamber
+subreddit:LifeProTips
+score:3575
+numComments:169
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Don’t participate in any of those tell me your date of birth or name of pet or first street name and I’ll tell you the song of your life type quizzes on social media. They are just gathering your personal/security question information.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/gbd3x6/
+author:edzby
+subreddit:LifeProTips
+score:2832
+numComments:68
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: When sharing information from major media outlets like CNN, Huffington Post, Wallstreet Journal, check to make sure it's not one of their many "Blog" or "Opinion" editorials..
+
+content:
+I see it happen A LOT on reddit; Some anon will share something either supporting or disproving an argument. Problem is, the editorial they are using is legitimately an opinion piece or an excerpt from a blog post with a clear cut agenda. Its no problem using rhetoric similar to yours, but in many cases I see it being used as objective fact, rather than someone's interpretation who may or may not be qualified to speak on the subject. 
+
+url:https://reddit.com/r/LifeProTips/comments/5p4i5h/
+author:youmustwait9mins
+subreddit:LifeProTips
+score:1103
+numComments:98
+isOver18:False
+hasPostBody:True

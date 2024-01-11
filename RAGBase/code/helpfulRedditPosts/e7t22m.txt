@@ -1,0 +1,13 @@
+title:
+YSK why insurance can simply deny paying for that ambulance ride.
+
+content:
+Taking an ambulance ride to the hospital can be expensive and does not guarantee going straight to the back. But even then insurance (medicare/medicaid definitely) can refuse to pay if you can walk. If you have other means of transportation. Or the illness started greater than 2days ago and you called 911. Don't think trying to fake any of that information will work either. EMS documentS what you say and what they see to include those things for insurance billing.
+
+url:https://reddit.com/r/YouShouldKnow/comments/e7t22m/
+author:Southernman07
+subreddit:YouShouldKnow
+score:2379
+numComments:318
+isOver18:False
+hasPostBody:True

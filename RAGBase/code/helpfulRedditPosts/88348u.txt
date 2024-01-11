@@ -1,0 +1,21 @@
+title:
+YSK (in the US) paying off a debt that is in collections does not improve your credit score and can possibly hurt your score.
+
+content:
+If a debt is in collections it goes away in 5+ years this is the only way that it will stop hurting your credit.  Your credit score sees accounts in active collection and collections accounts that are "paid in full" as essentially the same thing.
+
+Paying off these debts can hurt your score because it will change their effective reporting date on your credit record.  Most scoring agencies take into account how recent the derogatory mark is.  So by paying anything you update the last reported date on your credit report.  
+
+So long story short, for any debts less than what it would cost to take you to court there's no point in paying these unless you can convince the debt collector to delete the entry from your credit report.
+
+Edit: 7 years not 5+
+
+Second edit: I am entirely not the person to take financial advice from for a variety of reasons.  That said, I would say this advice only applies to debts &lt;$1k and maybe even smaller than that.  
+
+url:https://reddit.com/r/YouShouldKnow/comments/88348u/
+author:davidquick
+subreddit:YouShouldKnow
+score:1113
+numComments:140
+isOver18:False
+hasPostBody:True

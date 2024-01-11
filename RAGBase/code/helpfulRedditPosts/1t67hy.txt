@@ -1,0 +1,28 @@
+title:
+YSK there is a website where you can enter the medications you are taking and it will tell you the known interactions
+
+content:
+http://reference.medscape.com/drug-interactionchecker
+
+It even works with vitamins
+
+EDIT: 
+TO ADDRESS CONCERNS COMING UP IN THE COMMENTS
+
+1) I have checked the link on chrome and my Android smartphone, neither one is asking me to register. I don't know why some people are being asked to register.
+
+2) to the people wishing it would show illicit/recreational substances, apparently it does! A few commenters have had success. Try typing them in.
+
+3) concerning the top comment claiming this advice is worthless, that's bullshit. This database is the one your doctor will use to check interactions. It is for and used by medical professionals. Information is available on the site. Of course, you should still discuss this with your doctor, but the info is solid
+
+4) explore the site. There are many articles discussing how the different systems of the body work, many with detailed diagrams.
+
+5) to the people messaging me to thank me because they found interactions of concern to them, you're welcome!
+
+url:https://reddit.com/r/YouShouldKnow/comments/1t67hy/
+author:dtm106
+subreddit:YouShouldKnow
+score:1833
+numComments:143
+isOver18:False
+hasPostBody:True

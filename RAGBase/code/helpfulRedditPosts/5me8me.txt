@@ -1,0 +1,27 @@
+title:
+YSK: How to decrease your monthly bandwidth use &amp; increase network speed.
+
+content:
+Over the last few weeks, I implemented an "Ad-Block" service on my home network that took all of 15-30 minutes to complete. All you need is a Raspberry Pi, and mini-SD card. I use the quotations on "Ad-Block" because it actually does more than just block ads as it also blocks malicious domains which, is continually updated! You can also choose which ad-sites you want to white-list (Allow through your network). I mention this because a lot of my favorite YouTubers are paid from advertisements and I want them to continue to make content so, I allow some ads through. Over the last 2 weeks, on average, 15% of my daily home network traffic is nothing but advertisements being downloaded, cached, etc. That's 15% of crap.
+
+The free, open source piece of software is called [Pi-Hole](https://pi-hole.net/) and there is even a subreddit /r/pihole dedicated to helping answer any questions you might have after this post.
+
+**Here is how it works**:
+
+When you type in a URL *(www.google.com for example)* your request to go to the *www.google.com* is sent to a DNS Server which helps translate a www.google.com to its corresponding IP address. Now, without going into too much detail, when you go to a website you go through several DNS servers (Routers), the first being your home router (usually IP 192.168.0.1 or 192.168.1.1). This is where Pi-Hole steps in. Pi-hole acts as your primary DNS server and therefore is the first line of defense in being able to read and block advertisements you do not want as well as malicious domains. 
+When you first set-up your router at home, you may have done so via an application that Cisco, Linksys, etc gave you but, you can also go to your browser of choice and type in your routers IP Address (Again, usually 192.168.0.1 or 192.168.1.1) which, will prompt you with a login form. *(Sidenote: Make sure our Username &amp; Password are not Default!!!)* Within this Web Graphical Interface, you can change your primary DNS setting. Here is an [example image from a Linksys Router](http://m.setuprouter.com/router/linksys/ea2700/setup-8831.jpg).
+
+**Here's a couple videos**
+- [Pi-Hole Explained: by the creators of Pi-Hole](https://youtu.be/9Eti3xibiho)
+- [Pi-hole Setup &amp; Router Set-up Guide](https://youtu.be/y7w2W2HXt3s)
+
+
+I am not a developer, owner, or in any way shape or form attached to the Pi-Hole software. I am just a happy user!
+
+url:https://reddit.com/r/YouShouldKnow/comments/5me8me/
+author:Fausty0
+subreddit:YouShouldKnow
+score:2489
+numComments:243
+isOver18:False
+hasPostBody:True

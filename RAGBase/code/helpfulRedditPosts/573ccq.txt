@@ -1,0 +1,15 @@
+title:
+LPT: When doing a review with a staff member, replace the word BUT with AND.
+
+content:
+For example, instead of saying 'your sales are good but your quality needs more focus', try saying 'your sales are good and if you just focus on your quality then you will be doing very well'.
+
+The word 'but' is a negation operator. It negates what has just been said before it. The word 'and' shows continuous improvement rather than disappointment. 
+
+url:https://reddit.com/r/LifeProTips/comments/573ccq/
+author:JackBrightside
+subreddit:LifeProTips
+score:1311
+numComments:110
+isOver18:False
+hasPostBody:True

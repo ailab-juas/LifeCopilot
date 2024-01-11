@@ -1,0 +1,13 @@
+title:
+LPT: When flying with an e-Boarding pass, take a screenshot of it and pin it or set it as your lock screen to avoid delays.
+
+content:
+This eliminates all hassles from slow internet and/or opening your phone between uses.
+
+url:https://reddit.com/r/LifeProTips/comments/cw3k3z/
+author:ActuallyIso
+subreddit:LifeProTips
+score:3738
+numComments:257
+isOver18:False
+hasPostBody:True

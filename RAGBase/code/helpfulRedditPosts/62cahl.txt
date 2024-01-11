@@ -1,0 +1,15 @@
+title:
+LPT: At a new job, if someone is showing you how to complete a task that you will need to repeat over and over, look up how to do it independently of their instructions. If they've been there a while, odds are they've developed shortcuts.
+
+content:
+Without doing it the long way, there's no way of understanding the process. If it all goes wrong, it will be your fault, even if the instructions you got were flawed. 
+
+
+
+url:https://reddit.com/r/LifeProTips/comments/62cahl/
+author:rhymelikedime
+subreddit:LifeProTips
+score:15496
+numComments:691
+isOver18:False
+hasPostBody:True

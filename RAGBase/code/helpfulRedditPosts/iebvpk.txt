@@ -1,0 +1,13 @@
+title:
+LPT: When saving a resume, save as a pdf and fill in your name for "Authors" and "Title" sections
+
+content:
+When you save as a .pdf, this ensures that all of your perfect formatting will be viewed the same regardless of the recipient. Saving your name in the Title section will make your name appear in the tab name when opened using internet browsing software.
+
+url:https://reddit.com/r/LifeProTips/comments/iebvpk/
+author:TheJoisle
+subreddit:LifeProTips
+score:1560
+numComments:81
+isOver18:False
+hasPostBody:True

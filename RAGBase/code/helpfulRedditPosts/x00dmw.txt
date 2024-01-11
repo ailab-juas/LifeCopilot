@@ -1,0 +1,15 @@
+title:
+YSK you can borrow hundreds of items such as tools, gardening equipment, appliances, musical instruments, electronics, and hobby supplies for free from libraries affiliated with the Library of Things program. You just need to be a cardholder of the library to take advantage.
+
+content:
+Why YSK: It’s a great resource for anyone who needs/wants to borrow useful household supplies for short periods of time rather than buying them.  
+
+[More info, and locations.](https://en.wikipedia.org/wiki/Library_of_Things) — this is NOT a complete list. Do an online search for Library of Things in your state/country to find more. There’s no central database of them.
+
+url:https://reddit.com/r/YouShouldKnow/comments/x00dmw/
+author:flightylady
+subreddit:YouShouldKnow
+score:23716
+numComments:416
+isOver18:False
+hasPostBody:True

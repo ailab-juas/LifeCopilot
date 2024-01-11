@@ -1,0 +1,15 @@
+title:
+YSK many universities (especially state universities) loan books out to non-students.
+
+content:
+I just discovered the Penn State library loans out media to any Pennsylvania state resident. I searched around a bit and found a few other colleges that do that as well.
+
+So if your local public library doesn't have what you're looking for, it's worth checking with some nearby universities.
+
+url:https://reddit.com/r/YouShouldKnow/comments/be928n/
+author:Tahns
+subreddit:YouShouldKnow
+score:2006
+numComments:43
+isOver18:False
+hasPostBody:True

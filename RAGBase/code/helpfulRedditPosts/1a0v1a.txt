@@ -1,0 +1,13 @@
+title:
+LPT: If you buy something on Amazon and the price goes down within 30 days of your purchase, you can e-mail them and they will refund how much the price went down.
+
+content:
+I bought a Razer Nostromo gaming keypad for $60 less than a month ago and it went down to $53. I e-mailed them and asked them to refund $7 dollars into my gift-card balance, and they did :) It only applies to items sold by Amazon LLC, though. It's something they do but don't advertise, and in my humble opinion it's pretty awesome :D
+
+url:https://reddit.com/r/LifeProTips/comments/1a0v1a/
+author:XSWSX123Dude
+subreddit:LifeProTips
+score:3394
+numComments:274
+isOver18:False
+hasPostBody:True

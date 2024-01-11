@@ -1,0 +1,22 @@
+title:
+YSK that if attached your bank account to Venmo, a company called Plaid is recording all your back account activity.
+
+content:
+Why YSK: Plaid, which Venmo uses, stores your bank account password and uses it to record all your activity.
+
+
+Plaid was recently sued by a bank:
+https://www.ctvnews.ca/business/td-bank-files-lawsuit-against-plaid-accusing-it-of-trying-to-dupe-consumers-1.5145326
+
+&gt;	"In reality, however, consumers are unwittingly giving their login credentials to the defendant, who takes the information, stores it on its servers, and uses it to mine consumers' bank records for valuable data (e.g., transaction histories, loans, etc.), which the defendant monetizes by selling to third parties," TD claimed in the court records.
+
+
+Other apps that use Plaid: Robinhood, Coinbase, Betterment, and Acorns.
+
+url:https://reddit.com/r/YouShouldKnow/comments/kw6b7z/
+author:HarmoniousDroid
+subreddit:YouShouldKnow
+score:33504
+numComments:1439
+isOver18:False
+hasPostBody:True

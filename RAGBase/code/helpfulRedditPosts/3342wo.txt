@@ -1,0 +1,19 @@
+title:
+LPT: Always place the spare tyre under your car when jacking. Stops the car falling on you and keeps it off the ground if it does fall off the jack.
+
+content:
+Luckily I've never had a car fall off the jack, but it at the very least stops [this](http://i.imgur.com/xdYKoy0.jpg) happening [via /r/Justrolledintotheshop].
+
+Edit: just to be clear, I'm only talking about when changing a tyre, obviously you want something more stable if you're going to work under the car. 
+
+EDIT: I WANT TO MAKE IT VERY CLEAR, PARTICULARLY FOR EVERYONE SAYING USE JACK STANDS, THAT I AM ONLY SUGGESTING YOU USE THIS TIP WHEN CHANGING A SPARE TYRE AND NOT THAT YOU SHOULD BE WORKING UNDER YOUR CAR WHILE ITS BEING HELD BY A JACK. I've seen plenty of people changing a tyre who end up with their hands, feet or even head under the car - I always point out how terrible an idea it is to do that. I wrote this tip assuming some level of common sense, but apparently that's hard to find here..
+
+I work in emergency services, and whenever there's two ways to prevent injury, we use both; proper training says never put yourself under anything you're lifting, but also when jacking a car having the spare under the car gives you extra safety and means you avoid what's happened in the pic linked above. 
+
+url:https://reddit.com/r/LifeProTips/comments/3342wo/
+author:Axman6
+subreddit:LifeProTips
+score:1721
+numComments:218
+isOver18:False
+hasPostBody:True

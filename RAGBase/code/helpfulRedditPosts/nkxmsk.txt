@@ -1,0 +1,15 @@
+title:
+YSK that the phrase Reduce, Reuse, Recycle is in that order for a reason. Not buying things that would be recycled or reusing them is more important than recycling.
+
+content:
+Why YSK: Recycling is expensive, and sometimes the product [ends up in a landfill anyway](https://www.theguardian.com/us-news/2019/jun/21/us-plastic-recycling-landfills). Buying less junk or reusing things yourself are better for the environment than recycling.
+
+Reusing a product is also better than recycling. Sell or give away old furniture. Use old jelly jars to store leftovers. Refill soap dispensers. Reusing products means buying new stuff less often.
+
+url:https://reddit.com/r/YouShouldKnow/comments/nkxmsk/
+author:Ajreil
+subreddit:YouShouldKnow
+score:18811
+numComments:302
+isOver18:False
+hasPostBody:True

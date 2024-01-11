@@ -1,0 +1,13 @@
+title:
+LPT: Most packing labels are heat transfer labels. An easy way to remove your personal information is to pass a heat source over it quickly, I use a lighter. No more scratching it out or poorly obfuscating with a marker.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/yrpqsi/
+author:AHPx
+subreddit:LifeProTips
+score:5336
+numComments:167
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: use (XYZ) 867-5309 whenever you need a membership at a store to get a discount. More times than not, someone has signed up using that number before.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/3aylkf/
+author:Munchlaxatives
+subreddit:LifeProTips
+score:1477
+numComments:297
+isOver18:False
+hasPostBody:False

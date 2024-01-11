@@ -1,0 +1,27 @@
+title:
+YSK how redact sensitive information properly
+
+content:
+**Why YSK:  Never redact info on a PDF &amp; then send it as a PDF**
+
+So yesterday some bonehead sent a "redacted" PDF, and in about 20 short seconds, said bonehead gets a reply with his full name, address, postal code, and a listing of the house they live in from 10 years ago along with a smiley face. It's me... I'm Bonehead 
+
+Turns out PDFs can be opened as source (I think that's what it's called) and basically can be unredacted in seconds. I had used Microsoft Edge to scribble the info out, but this applies to all pdfs in general.
+
+**How to do it properly:** there's several ways to do this, depending on how well u want to redact it.
+
+* Quickest way: scribble the info out, save as a PNG, and then convert it back to a PDF before u send. that will remove the data/editing history so the redaction cant be removed.
+* Or use the "redact" tool/feature on certain Adobe products. that will also properly redact.
+* If you're a spy or super paranoid, print off the file, cover the sensitive stuff with black paper, then scan it and send. Don't use a marker as it might be readable if the receiver puts it through a bunch of photo editing/filters/software to see the difference in contrast or something.
+
+Luckily for me the guy who now holds all my information seems like a decent guy and just wanted to show off. But if he wanted to, he could very easily DOX me and there's probably absolutely nothing I could do about it. Stay safe on the internet guys :)
+
+Edit: holy moly this kinda blew up lol. I'm glad this info's being shared, cuz I'd hate to have smt serious happen to someone like ID fraud cuz they didn't know about this. And thanks guys for the rewards
+
+url:https://reddit.com/r/YouShouldKnow/comments/nxdz3f/
+author:Shadow15_2
+subreddit:YouShouldKnow
+score:9954
+numComments:290
+isOver18:False
+hasPostBody:True

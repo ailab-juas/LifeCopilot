@@ -1,0 +1,21 @@
+title:
+YSK these things about sunscreen
+
+content:
+With weather getting hotter and people going on vacation more you will probably need to use sunscreen at some point, so here are three big tips to remember.
+
+1. You don't need high SPF. In fact the FDA is thinking about banning high SPF because it has health risks. You can do just fine with 50 spf.
+
+2. Avoid the sunscreens with added vitamins as the ingredients to do this can also accelerate skin cancer. 
+
+3. Avoid aerosols, they look like it makes life easier but turns out they lead to thinner coverage.
+
+[Source article](http://www.nationalmemo.com/what-you-need-to-know-about-sunscreen/) 
+
+url:https://reddit.com/r/YouShouldKnow/comments/3844uz/
+author:ckfighter2
+subreddit:YouShouldKnow
+score:1368
+numComments:260
+isOver18:False
+hasPostBody:True

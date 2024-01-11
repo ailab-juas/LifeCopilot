@@ -1,0 +1,13 @@
+title:
+LPT: Once a month you should drive your car with no music on. You would be surprised at the noises you hear and could save a ton time / money down the line.
+
+content:
+LPT: Checking your car once a month  allows you to hear what are normal noises your car makes, what are new noises and if something does break you can give your mechanic  more information. This also takes very little effort and something i wish I did when I was younger.
+
+url:https://reddit.com/r/LifeProTips/comments/ezsj19/
+author:by_gone
+subreddit:LifeProTips
+score:1194
+numComments:83
+isOver18:False
+hasPostBody:True

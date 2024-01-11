@@ -1,0 +1,45 @@
+title:
+YSK how to charge your devices to extend battery's lifespan
+
+content:
+Why YSK: It's better for your finances, resources and the environment to make the most out of our battery's lives. Extending the time you can use your devices, especially now that most batteries are glued into devices, is just more sustainable in many ways.
+
+Edit 4: Bc so many people talk about phones doing this for you, yes, they do! But there are more things that use Li-ion batteries. Take power tools, electric bikes and vehicles, cameras, tablets, laptops, electric razors,… the list goes on. Not all of those devices are smart and in some cases it can extend their life a lot if you take a bit more care about the batteries :)
+
+**Explanation:**
+
+**Edit 1: This is about Li-ion batteries**
+
+Battery technology has changed within the past years and so have the rules for charging your devices to extend their battery's lifespan. Avoid going under 20% and never let it completely drain down to 1%!
+
+**keep battery between 25-85%**
+
+This is the battery's comfort zone, keeping your devices in that range is best for the chemistry inside lithium-ion batteries to last the longest.
+
+**except if you store it, then do 30-50%**
+
+The most battery friendly range for longer storage, also overnight, is actually 30% to 50% (and not 100% as some believe). So, if you have to store a device for a while, don't charge it too much before!
+
+**don't charge too often to 100% and don't keep it a 100% for too long**
+
+Li-ion batteries don't like being at 100%, so try to reduce the time your device is at 100%.
+
+**better charge in the morning than overnight, or at least don't charge to 100% at night**
+
+Overcharging is not a thing anymore as modern devices have an intern mechanism to stop charging even when a device is plugged in after it reached 100%. However, as the best range is 30-50% to store your device (even overnight), consider charging in the morning. I don't know about other brands but Apple devices actually only charge to 80% when plugged in at night and then wait until morning to charge to 100%.
+
+Edit 2: Sources
+
+[https://doi.org/10.1016/j.est.2020.101231](https://doi.org/10.1016/j.est.2020.101231)
+
+[https://www.businessinsider.com/best-way-to-charge-your-phone-for-longer-lasting-battery-2019-4](https://www.businessinsider.com/best-way-to-charge-your-phone-for-longer-lasting-battery-2019-4)
+
+Edit 3: As a lot of people have pointed out, most devices have build in battery management. I hope this info might be useful to anyone anyways, maybe if your device is a bit older or if it’s not a smart device (like rechargable batteries, like the round ones I think)
+
+url:https://reddit.com/r/YouShouldKnow/comments/unxb9a/
+author:Delicious-Bridge6042
+subreddit:YouShouldKnow
+score:4872
+numComments:286
+isOver18:False
+hasPostBody:True

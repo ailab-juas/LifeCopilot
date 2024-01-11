@@ -1,0 +1,15 @@
+title:
+LPT: If you share an account with your parents, move all YOUR money into your own account as soon as you’re legally able to.
+
+content:
+I’ve seen way too many posts about parents taking money from their children’s accounts without their permission. It infuriates me that someone would feel that entitled, and especially so towards their own children.
+
+You can also remove them as people allowed to access your account if you’re the primary account holder.
+
+url:https://reddit.com/r/LifeProTips/comments/gny2fj/
+author:tysmily
+subreddit:LifeProTips
+score:4600
+numComments:301
+isOver18:False
+hasPostBody:True

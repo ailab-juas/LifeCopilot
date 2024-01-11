@@ -1,0 +1,13 @@
+title:
+LPT: Take pictures of your hair after a good haircut. If you ever need to see a new barber, a picture's worth a thousand words.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/76cvv1/
+author:Kojak_the_Bold
+subreddit:LifeProTips
+score:41095
+numComments:1408
+isOver18:False
+hasPostBody:False

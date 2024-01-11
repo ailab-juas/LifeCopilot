@@ -1,0 +1,19 @@
+title:
+YSK: An apple watch can be used as a cell phone for kids
+
+content:
+ Why YSK:
+
+For parents that are rightfully hesitant to set young kids up with a smart phone, the apple watch is an elegant solution that dilemma.
+
+The watch is used off the parents cell plan, and can be fully monitored. It allows the kid to make calls and texts to approved contacts (mom/dad/grandma/babysitter/911/etc), and the parent can also see their location. And the kid won't have access to any age inappropriate apps.
+
+There may be other smart watches that have this capability, but I'm only familiar with apple's. If anyone knows of other products, please suggest.
+
+url:https://reddit.com/r/YouShouldKnow/comments/y41zvy/
+author:ItsAllJustMalarkey
+subreddit:YouShouldKnow
+score:4248
+numComments:339
+isOver18:False
+hasPostBody:True

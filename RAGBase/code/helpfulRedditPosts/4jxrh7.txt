@@ -1,0 +1,13 @@
+title:
+LPT: If you need something notarized, contact your bank. Most branches will notarize free of charge if you have an account with them.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/4jxrh7/
+author:TheSheepdog
+subreddit:LifeProTips
+score:5598
+numComments:1001
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,37 @@
+title:
+YSK what your Uber Eats driver sees, and how the delivery process works.
+
+content:
+Earlier today I posted a guide to how the Door Dash delivery process works. Several people asked about Uber Eats, so I did some deliveries this afternoon and will walk you through the driver experience with them as well.
+
+When your driver receives an offer for a delivery with Uber Eats [we see a general map that only shows the approximate time to get to the restaurant.](https://imgur.com/a/i9QsWGD). We see no other details about the order, and we have limited time to accept or decline. 
+
+Once accepted, [we see the name of the restaurant,](https://imgur.com/a/UPsVx5k), the mileage to the restaurant, and the approximate time to the restaurant. The time to restaurant is often wrong, due to Uber Eat’s terrible in-app navigation. [We are also shown details of the order.](https://imgur.com/a/vllrrIL) In my experience, it is more common in Uber Eats to receive a sealed bag upon pick-up, so order verification is more difficult. Uber Eats is good though about having realistic pick up times, and I rarely have to wait for an order to be completed. The restaurants have a tablet that shows them a picture of us, so they are able to match our face to your order to make sure the right person is picking it up.
+
+After receiving the order, we have a chance to rate the restaurant with a thumbs up or thumbs down (the restaurant can rate us too), and then we slide a button to start the delivery. 
+
+[This is the first time we are shown where the order is supposed to be delivered.](https://imgur.com/a/VXXwy8L). We have no way of knowing in advance where it will be going or how far we will have to drive. Please note that we also have yet to see any indication of how much the order will pay out, so our decision making abilities are limited. If you have ever been assigned a driver, had them pick up your food or get to the restaurant and then unassign, there is a good chance 1) the wait at the restaurant was too long, or 2) they saw how far the order had to go and unassigned it so someone else could take it.
+
+This screen is also the first time we’re shown any delivery instructions. Things like a gate code, business name, or instructions to your apartment are extremely helpful here. However, if this is where you typed any special requests for the order preparation or add-ons, please know that in most cases it’s too late to have those accommodated. Those requests should always be included with the order itself so the restaurant can see it and include it with your order. 
+
+I also want to mention again just how terrible Uber Eat’s in-app navigation is. [This is an example from earlier today](https://imgur.com/a/ZlSHNvt) when I was sitting in my car in front of the restaurant and Uber wanted me to drive up and down the street some more or something. If your Uber driver seems to be driving in nonsensical circles, they’re probably using Uber’s navigation. We can adjust the settings to use Waze, or we can manually type your address into apple or google maps as well, but that requires shifting between 2 apps while driving, which is not safe. 
+
+Once we get to your house and deliver you your food, we have the option to rate the delivery with a thumbs up or thumbs down, and then we swipe a button to show it was completed. [This is when we get to see what we were paid for the delivery. ](https://imgur.com/a/tyfH32R) This amount does not include your tip.  After an hour or so, if we receive a tip, [we receive a notification](https://imgur.com/a/D4NP5AJ) and our total amount is updated. 
+
+When it comes to pay breakdown, Uber is great about transparency. [Here is a before tip and after tip break down of how I was paid for this delivery.](https://imgur.com/a/EYfVXVF) as well as screen shots outlining [mileage pay and pay for time spent ](https://imgur.com/a/xJEesZy). Note that Uber does NOT pay for mileage driving TO the restaurant, just from the restaurant to the customer’s house. 
+
+Uber Eats is not as popular in my area as Door Dash is, and I hate that I can’t see where I’m taking an order before I accept it. Uber Eats also does not work in “zones” like Door Dash or GrubHub, so you can drive for 50 miles in one direction if your deliveries work out that way. There is no guarantee that we will receive a tip (some of you will appreciate that fact) or a minimum amount for a delivery, so there’s a chance we won’t make enough to cover the gas/wear on our car for the deliveries since we can’t see the pay before we choose to accept. 
+
+The system has pros and cons, but we DO get 100% of the tips on this platform. 
+
+[Here’s my deliveries for today. ](https://imgur.com/a/7vR7um4) Two people tipped, two did not. 
+
+Let me know if you have any questions about Uber Eats! I might try to do GrubHub tomorrow if you guys want.
+
+url:https://reddit.com/r/YouShouldKnow/comments/c78vf5/
+author:LSHT2019
+subreddit:YouShouldKnow
+score:3233
+numComments:157
+isOver18:False
+hasPostBody:True

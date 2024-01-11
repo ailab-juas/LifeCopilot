@@ -1,0 +1,13 @@
+title:
+LPT: If you're moving a fridge and have to lay it on its side for any amount of time, you have to let it sit upright for 24 hours before plugging it in to allow the oil in the compressor to go back in place. Not doing this can cause serious damage
+
+content:
+Edit: if anyone is wondering, I heard this from my Engineering Thermal Science prof last semester and he said it was just a general rule of thumb so you know for sure no serious damage can occur. I decided to post this after seeing so many college freshmen moving in their mini-fridges sideways this week and I figured they had no clue about the anatomy of a refrigerator and would just plug them in right away
+
+url:https://reddit.com/r/LifeProTips/comments/ijeewa/
+author:schultzie2240
+subreddit:LifeProTips
+score:55947
+numComments:730
+isOver18:False
+hasPostBody:True

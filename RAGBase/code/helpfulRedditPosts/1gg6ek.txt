@@ -1,0 +1,13 @@
+title:
+LPT: When taking a cab to a hotel on the strip in Las Vegas, tell the cabbie not to take the highway.
+
+content:
+It will save you at least 10 bucks. A cab ride from the airport to the strip is less than $20 on surface streets depending on traffic. When they take the highway it is at least $30.
+
+url:https://reddit.com/r/LifeProTips/comments/1gg6ek/
+author:overide
+subreddit:LifeProTips
+score:2194
+numComments:525
+isOver18:False
+hasPostBody:True

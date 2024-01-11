@@ -1,0 +1,36 @@
+title:
+LPT: Take time to learn email etiquette.
+
+content:
+Whether you’re new to working in an office/professional setting, or you only occasionally email, or you’ve worked in a professional setting for a long time, email etiquette is important.
+
+Here are a few tips:
+
+* Always *Reply All* when other’s are cc’d on an email thread. Unless you have a specific reason to exclude someone, its best to keep everyone in the loop. If someone was cc’d its usually for good reason. Taking people off a thread can cause confusion.
+
+*EDIT NOTE: as many have noted below, the "reply-all" tip is nuanced. The better tip is to always take a moment to consider if it is or isn't appropriate to reply-all. Typically common sense will determine this. My intention for always reply-all was for project specific email threads where a handful of people are copied. I often encounter people who brain-fart and hit reply instead of reply-all for important threads.*
+
+* Whenever possible, maintain the same thread by replying. Even if its been months in between emails, if you’re referring to a previous conversation, just go back snd find that email thread and reply. It makes it much easier for the recipient to reference the prior conversation.
+
+*EDIT NOTE: this is of course only for when the subject remains the same. Its proper to start a new/fresh email thread whenever subject changes. This makes it eaiser to find those threads later on.*
+
+* Create an email signature with important contact information. Office phone, cell phone, business address, etc. It makes it so much easier for people to get a hold of you.
+* If your email is getting too wordy and lengthy, consider if a phone call is more warranted. Sometimes really long emails are actually unnecessary, and can be squared away with a 3 minute phone call. Them, send a follow up email detailing what was decided/discussed.
+* DO NOT use weird fonts. The default font is perfect. There is never a reason to use curly cue cursive fonts, or comic sans, or changing the font colors.
+
+*EDIT NOTE: There is a time and place for certain formatting, such as bold/italic/bullets/red emphasis. I was implying things like flowery font, background color. (outlook stationary)*
+
+* Remove all the excess fat / flowery language from your emails. Phrases like “i was just wondering” “just seeing if you have time to..” just clog up the email and take longer to read. Be direct and to the point.
+* Dont forget to paragraph break, and use bullets. Its a lot easier to digest for the reader.
+
+Id love to hear other peoples email faux-pas, pet peeves, and proper etiquette recommendations.
+
+*EDIT NOTE: Many people have brought up so many great points below. One thing I think its important to note is that there will be nuanced "rules" depending on your cirucmstance. School might have different etiquitte than a work place. And a corporate work place might have different ettiquite from medium sized construction company for example. No matter what your environment, knowing the formality of your cirucumstance and how communication flows within your specific setting is an important skill.* 
+
+url:https://reddit.com/r/LifeProTips/comments/sxjnpl/
+author:frannyfranfran5
+subreddit:LifeProTips
+score:2341
+numComments:348
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: When trying to learn a language, watch cartoons. They have simplified conversations which are much easier to understand.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/61kxxz/
+author:RuthlessPickle
+subreddit:LifeProTips
+score:7413
+numComments:352
+isOver18:False
+hasPostBody:False

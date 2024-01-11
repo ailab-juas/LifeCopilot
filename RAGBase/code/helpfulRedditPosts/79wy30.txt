@@ -1,0 +1,13 @@
+title:
+LPT: Make plans, reservations, and appointments at the :15 and :45 minute marks to avoid the bigger rush of people.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/79wy30/
+author:NimblyBimblee
+subreddit:LifeProTips
+score:1251
+numComments:34
+isOver18:False
+hasPostBody:False

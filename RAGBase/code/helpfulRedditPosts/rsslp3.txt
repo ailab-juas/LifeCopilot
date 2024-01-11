@@ -1,0 +1,19 @@
+title:
+LPT: to quickly convert between kilometers and miles, use the clock as a reference
+
+content:
+For example: 25% is a quarter. A quarter of an hour is 15 minutes. 15 miles is roughly 25 kilometers.
+
+30 mi = 50 km
+
+45 mi = 75 km
+
+60 mi = 100 km
+
+url:https://reddit.com/r/LifeProTips/comments/rsslp3/
+author:LoopyPro
+subreddit:LifeProTips
+score:38183
+numComments:1453
+isOver18:False
+hasPostBody:True

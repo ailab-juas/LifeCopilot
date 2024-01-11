@@ -1,0 +1,24 @@
+title:
+YSK about the Internet's Wayback Machine. It's an Internet archive that currently has over 324 billion webpages saved over many years.
+
+content:
+You can view webpages and how they looked in the 1990s for example vs now. You can also enter a webpage URL that you want to be captured at this very moment, and hopefully one day you can come back and treasure the good ol' memories.
+
+There's also a section on this website that provides all types of *free* videos/movies, which can be found **[here](https://archive.org/details/movies)**, as well as **[software](https://archive.org/details/software)** and **[images](https://archive.org/details/image)**.
+
+**[Internet Archive Wayback Machine](https://web.archive.org/)**
+
+* EDIT: Thanks to /u/allothernamestaken for reminding me that there's also a section on this website that provides all types of *free* music, which can be found **[here](https://archive.org/details/etree)**.
+
+* EDIT 2: Thanks to /u/positive_x for reminding me that there's also a section on this website that provides all types of *free* books, which can be found **[here](https://archive.org/details/texts)**.
+
+
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/83alyb/
+author:Diazepam
+subreddit:YouShouldKnow
+score:8926
+numComments:228
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Coffee burned on the bottom of your glass coffee pot? Sprinkle salt in it and add ice. Swirl gently for a minute or two and it comes right off. Anyone who has ever worked in a restaurant knows this trick but others may not. [Fixed]
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/6cwm2q/
+author:lespaulstrat2
+subreddit:LifeProTips
+score:1066
+numComments:84
+isOver18:False
+hasPostBody:False

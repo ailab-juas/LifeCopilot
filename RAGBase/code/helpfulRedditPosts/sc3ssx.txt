@@ -1,0 +1,13 @@
+title:
+LPT: The minute you ask yourself “ Do I need another drink?”, the answer is no.
+
+content:
+Since I started applying this rule to my own experience, it has never hurt and always helped. You will always prevent trouble and pain by applying this simple, but sometimes hard to abide by rule.
+
+url:https://reddit.com/r/LifeProTips/comments/sc3ssx/
+author:app257
+subreddit:LifeProTips
+score:2738
+numComments:211
+isOver18:False
+hasPostBody:True

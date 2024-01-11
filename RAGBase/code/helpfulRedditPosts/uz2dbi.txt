@@ -1,0 +1,13 @@
+title:
+LPT: Raise your hand to admit your mistake if you make a driving error. The huge majority of the time it will diminish any potential road rage from the other driver.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/uz2dbi/
+author:DavidHendersonAI
+subreddit:LifeProTips
+score:30275
+numComments:1152
+isOver18:False
+hasPostBody:False

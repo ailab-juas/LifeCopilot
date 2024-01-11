@@ -1,0 +1,13 @@
+title:
+LPT: If you ever close a tab or the entire window in chrome by accident, press Ctrl+Shift+T to get it all back
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/132bf1/
+author:Jetblast787
+subreddit:LifeProTips
+score:1137
+numComments:145
+isOver18:False
+hasPostBody:False

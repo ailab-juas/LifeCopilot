@@ -1,0 +1,13 @@
+title:
+LPT: If you put something down temporarily, say out loud "I've put the screwdriver by the microwave" or whatever. This engages many more areas of the brain (particularly the language centres) which creates a richer memory making it less likely you'll forget where you put it.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/lzs93p/
+author:Furebsi
+subreddit:LifeProTips
+score:33194
+numComments:771
+isOver18:False
+hasPostBody:False

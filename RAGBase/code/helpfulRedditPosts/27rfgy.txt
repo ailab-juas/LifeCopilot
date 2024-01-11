@@ -1,0 +1,13 @@
+title:
+LPT: Don't rent a modem / router from your ISP.
+
+content:
+I've been renting the equipment from Comcast for over two years without thinking much about it.  After getting sick of paying them $8 / month for nothing, I decided to buy my own gear.  Instantly, my internet was double what it was before, and was closer to what I was actually paying for.  I had two modems/routers before that from them, each peaking at 2.5 Mbps (when I was paying for 5).  It has made a huge difference since!
+
+url:https://reddit.com/r/LifeProTips/comments/27rfgy/
+author:AdmrlAkbr
+subreddit:LifeProTips
+score:2719
+numComments:1330
+isOver18:False
+hasPostBody:True

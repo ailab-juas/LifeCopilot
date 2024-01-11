@@ -1,0 +1,15 @@
+title:
+LPT: Every job is going to train you. Don’t think you shouldn’t apply somewhere because you don’t know how to do something.
+
+content:
+I have a lot of friends who don’t apply for good jobs because they don’t know how to do the work. This doesn’t matter in most jobs. The employer is going to train you. Even if you think you know how to do the job, they’re going to train you in how their specific company does things. Just apply. If you can learn, you’re qualified.
+
+Edit: this obviously doesn’t apply to highly technical jobs. The point is be more confident in your ability to learn relevant skills to expand your list of places to apply.
+
+url:https://reddit.com/r/LifeProTips/comments/sx1bx9/
+author:thecoocooman
+subreddit:LifeProTips
+score:21703
+numComments:875
+isOver18:False
+hasPostBody:True

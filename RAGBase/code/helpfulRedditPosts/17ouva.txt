@@ -1,0 +1,13 @@
+title:
+LPT: Procrastinating? Wash your face, brush your teeth, something about being clean really motivates. 
+
+content:
+I have nothing to back this up but whenever I feel I'm wasting my time I just wash my face. It works like a charm. 
+
+url:https://reddit.com/r/LifeProTips/comments/17ouva/
+author:Rik0204
+subreddit:LifeProTips
+score:1946
+numComments:200
+isOver18:False
+hasPostBody:True

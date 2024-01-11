@@ -1,0 +1,13 @@
+title:
+YSK how to Google it! (x-post from Google by chokucal)
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/n1aeg/
+author:PirateMunky
+subreddit:YouShouldKnow
+score:1204
+numComments:42
+isOver18:False
+hasPostBody:False

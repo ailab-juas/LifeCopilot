@@ -1,0 +1,15 @@
+title:
+LPT: If you live in an area prone to power cuts in bad weather, fill your freezer with soda bottles full of water.
+
+content:
+The bottles will stay cool for ages and help stop your freezer warming up while the power is out,  you can transfer a couple to the fridge too if you need to.
+
+In summer you can use them in your cool box to keep your food cold without the issues of melty ice or paying for cool boxes.
+
+url:https://reddit.com/r/LifeProTips/comments/1tbsbj/
+author:Kittenyberk
+subreddit:LifeProTips
+score:1328
+numComments:240
+isOver18:False
+hasPostBody:True

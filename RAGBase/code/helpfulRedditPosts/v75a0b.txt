@@ -1,0 +1,13 @@
+title:
+LPT : If you want to try a baguette in France, ask for a baguette tradition, not for a baguette. "Baguette" can be pretty much anything and some times very average bread to keep the cost around 1€, "baguette tradition" is necessarily made according to certain rules with specific traditional flour.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/v75a0b/
+author:DWBH68
+subreddit:LifeProTips
+score:16130
+numComments:475
+isOver18:False
+hasPostBody:False

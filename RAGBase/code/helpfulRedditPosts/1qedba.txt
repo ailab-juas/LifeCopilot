@@ -1,0 +1,13 @@
+title:
+LPT when you eat a giant hamburger eat it upside down.
+
+content:
+If you eat it the traditional way the bottoms usually get soggy and fall apart. Instead try turning your sandwich upside down. The tops are usually twice as thick as the bottoms and a lot more durable.
+
+url:https://reddit.com/r/LifeProTips/comments/1qedba/
+author:likethemapples
+subreddit:LifeProTips
+score:1475
+numComments:485
+isOver18:False
+hasPostBody:True

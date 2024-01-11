@@ -1,0 +1,13 @@
+title:
+LPT: When introducing a new person to friends/family, casually say their name a few times in conversation so forgetful people don't have to awkwardly ask for their name again later on.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/2fukkw/
+author:[deleted]
+subreddit:LifeProTips
+score:2347
+numComments:69
+isOver18:False
+hasPostBody:False

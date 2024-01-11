@@ -1,0 +1,13 @@
+title:
+LPT: If you’re one of those people who gets anxiety at night about whether or not you actually locked your door (even if you’ve already checked), do something memorable when you lock it. Say Locking!” out loud, or tap your foot, or flicker the lights, that way you have a distinct memory to refer to.
+
+content:
+This trick has helped reduce the number of times I get out of bed to check the door during the week.
+
+url:https://reddit.com/r/LifeProTips/comments/aai77y/
+author:Lemonout1
+subreddit:LifeProTips
+score:2026
+numComments:148
+isOver18:False
+hasPostBody:True

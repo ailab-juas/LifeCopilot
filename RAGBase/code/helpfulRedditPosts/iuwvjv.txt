@@ -1,0 +1,13 @@
+title:
+LPT: When you’re in bed and your mind starts racing, focus on your physical body. The weight of the blanket, shape of your pillow, relaxing your toes. It keeps your mind in one spot.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/iuwvjv/
+author:ihave10toes_AMA
+subreddit:LifeProTips
+score:34160
+numComments:567
+isOver18:False
+hasPostBody:False

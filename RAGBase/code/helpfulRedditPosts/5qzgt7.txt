@@ -1,0 +1,13 @@
+title:
+LPT: Dont worry about something embarresing you said or did in the past. Nobody thinks about it as much as you do until you mention it.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5qzgt7/
+author:neutrns13
+subreddit:LifeProTips
+score:27808
+numComments:1233
+isOver18:False
+hasPostBody:False

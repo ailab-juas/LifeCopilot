@@ -1,0 +1,15 @@
+title:
+LPT: When traveling in Mexico and using an ATM to get cash, decline the conversation rate and fee.
+
+content:
+In Mexico, when withdrawing pesos from a USD account, most ATMs will will give you an accept/decline screen for a conversion rate and conversion fee, on top of the ATM fee. The fee is high and the conversion rate is very poor, often a whole peso or more less than the rate that your card processing network or bank will give you. It implies that you have to accept to retrieve your cash. You do not. 
+
+Declining will use the processing network (Visa/MC) or your banks conversion rate, whichever your bank uses. Most I believe use the network rate. This can save you a ton of money, even if you are just vacationing for a week.
+
+url:https://reddit.com/r/LifeProTips/comments/vx8g28/
+author:ardatwork
+subreddit:LifeProTips
+score:11813
+numComments:318
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+YSK: if you're dehydrated, mix 1/2 tsp salt and 2 Tbsp sugar per liter of water to replace fluids as quickly and effectively as possible.
+
+content:
+This is the Mayo Clinic's recipe for [oral rehydration](https://en.wikipedia.org/wiki/Oral_rehydration_therapy) solution, similar to the World Health Organization's recipe but it can be made with common household items. The WHO uses oral rehydration therapy to combat diseases with high fluid loss such as cholera; it is credited with preventing an estimated 2 million infant deaths annually.
+
+It can be lifesaving, or it can simply make you feel better when dehydrated from exercise, minor illness, heat exposure, or hangover.
+
+url:https://reddit.com/r/YouShouldKnow/comments/30r8zw/
+author:beer_is_tasty
+subreddit:YouShouldKnow
+score:1204
+numComments:197
+isOver18:False
+hasPostBody:True

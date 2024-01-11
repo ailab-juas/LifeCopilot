@@ -1,0 +1,17 @@
+title:
+LPT: Write down the serial numbers of all of the expensive items you own. If it gets stolen, it's much easier to prove that the item is yours if it's found.
+
+content:
+This especially applies to more portable items, like cameras or music gear that you bring to performances.
+
+Thankfully I've never had to rely on this, but I know it will definitely help me one day if something is stolen. It's MUCH easier to say "I'm looking for X piece of equipment with serial 1234567" vs trying to identify it using a certain scuff or marking.
+
+Edit: lots of people are also mentioning taking a video of the inside of your home, including major possessions, and then backing up that video. This is also a really good idea.
+
+url:https://reddit.com/r/LifeProTips/comments/4bf9vy/
+author:TheAlphaCarb0n
+subreddit:LifeProTips
+score:5371
+numComments:542
+isOver18:False
+hasPostBody:True

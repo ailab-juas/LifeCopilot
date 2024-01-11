@@ -1,0 +1,17 @@
+title:
+YSK: Excedrin Migraine is exactly the same medication as Excedrin Extra-strength. The latter is less expensive
+
+content:
+The only difference between the two is the insert that describes how to take the medication to treat a migraine.  
+Why YSK: you’ll save money buying the extra strength version, or you can treat your migraine with the extra strength version if the migraine is sold out
+
+Source: 
+Good RX https://www.goodrx.com/excedrin-migraine/excedrin-for-migraines-ingredients-dosage-side-effects
+
+url:https://reddit.com/r/YouShouldKnow/comments/yctr83/
+author:sarasmiles08
+subreddit:YouShouldKnow
+score:2688
+numComments:131
+isOver18:False
+hasPostBody:True

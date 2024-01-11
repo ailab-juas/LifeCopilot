@@ -1,0 +1,38 @@
+title:
+LPT: for the love of god, be weary of Amazon's Third party sellers this season.
+
+content:
+Wary*
+
+Please, be wary and careful when purchasing items from third party sellers on Amazon. I can't tell you the ammont of issues we've been having and that I expect to have in the coming weeks as packages don't arrive or arrive late for Christmas.
+
+Refunds and returns are handled first by the third party seller even if you call Amazon and many third party sellers are pretty terrible.
+
+There are three kinds of third party sellers:
+
+-party sellers in your country
+-drop shippers from china with a lot of resources and  customer service.
+-johny in the basement of his house trying drop shipping from china for the first time with 0 ways to process a refund/return.
+
+And from what I'm seeing, the third type is RAMPANT.
+
+Please, before buying a product always check who the seller is and click on the seller to see their reviews (the seller reviews, not the product reviews as product reviews might be the same item from different sellers).
+
+Check if their address is from china. Check how long they have been selling. Check if they have good reviews. Check if they have a customer service phone.
+
+If they are from china, with zero reviews, and no phone. Chances are you'll be dealing with Johny and you'll have a bad time.
+
+
+Amazon does have the a-to-z guarantee where they'll help you if the seller doesn't, but it takes more time, you will not get the product only a refund/partial refund, and it doesn't always apply as it's more restrictive than the normal guarantee.
+
+All of this applies to sellers that ship the items themselves. If it's FBA you should have less issues.
+
+Please save yourself, and Amazon customer service reps, from a bad time and be super wary of the third party sellers that fulfil the items themselves.
+
+url:https://reddit.com/r/LifeProTips/comments/r1yb11/
+author:MortalPhantom
+subreddit:LifeProTips
+score:27149
+numComments:1187
+isOver18:False
+hasPostBody:True

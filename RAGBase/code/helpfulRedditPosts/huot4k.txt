@@ -1,0 +1,26 @@
+title:
+YSK You should never be afraid to call 911 if you or someone you know has an overdose. 40 US states and DC have laws preventing arrest of those involved in an overdose.
+
+content:
+Research suggests many people involved in an OD refuse to call for help worrying about police involvement, yet 40 States and DC have some sort of law protecting both the person who overdose and the caller from charges in a variety of ways.
+
+Check the laws for your specific state, but if you or someone you know ODs, always call 911 regardless of these laws.
+
+Map of states with these laws:
+
+https://www.ncsl.org/portals/1/ImageLibrary/WebImages/Criminal%20Justice/Overdose_Immunity_911.gif
+
+Sources:
+
+https://www.ncsl.org/research/civil-and-criminal-justice/drug-overdose-immunity-good-samaritan-laws.aspx
+
+
+https://www.drugpolicy.org/issues/good-samaritan-fatal-overdose-prevention-laws
+
+url:https://reddit.com/r/YouShouldKnow/comments/huot4k/
+author:Somebodyunimportant7
+subreddit:YouShouldKnow
+score:21781
+numComments:725
+isOver18:False
+hasPostBody:True

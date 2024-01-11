@@ -1,0 +1,13 @@
+title:
+LPT: If you are struggling to go to the gym on a consistent basis, simplify your workout regmine to just "moving around." Whether you just walk on the treadmil, stretch a little bit, do one push-up - start with "moving around" and let the regimine naturally evolve as you keep going.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/cybwv0/
+author:deadclams
+subreddit:LifeProTips
+score:1081
+numComments:70
+isOver18:False
+hasPostBody:False

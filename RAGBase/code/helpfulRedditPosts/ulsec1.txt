@@ -1,0 +1,13 @@
+title:
+LPT: Instead of buying flowers from a third party (1-800-FLOWERS, etc.), Google florists in the are you are sending the flowers to. You save on the fees a third party referral will cost you. Plus, you usually get a nicer bouquet. *Remember to read the reviews.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ulsec1/
+author:MorgueBabe
+subreddit:LifeProTips
+score:1391
+numComments:70
+isOver18:False
+hasPostBody:False

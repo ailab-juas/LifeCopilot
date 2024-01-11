@@ -1,0 +1,20 @@
+title:
+YSK that if you're using Eventbrite for your event's ticketing, you're giving them rights to enter your event premise and record your event for free and also granting them copyright of the recorded material
+
+content:
+Just came across this clause of Eventbrite's [merchant agreement](https://www.eventbrite.com/support/articles/en_US/Troubleshooting/eventbrite-merchant-agreement?lg=en_US#8) -
+
+
+&gt; 7. Permissions You Grant us to Film and Record Your Events.
+&gt; 
+&gt; You grant permission to Eventbrite and its agents to enter onto and remain on the premises (including real property, fixtures, equipment, or other personal property) where your event is hosted (and any other premises you and Eventbrite mutually approve) (collectively, the "Premises") with personnel and equipment for the purpose of photographing and recording the Premises, both internally and externally in connection with the production of digital content on the date of your event(s) and any other dates reasonably requested by Eventbrite (for example, during setup and breakdown for the event) (the "Shoot"). You, on behalf of yourself, your employees, independent contractors, invitees, licensees, performers, exhibitors, attendees, and all other individuals present at the Shoot (collectively, the "Subjects"), grant permission to Eventbrite and its agents, successors and assigns to record and use the image, likeness, appearance, movements, performances, and statements of the Subjects in any live or recorded audio, video, or photographic display or other transmission, exhibition, publication or reproduction made of, or at, the event (regardless of whether before, during or after the event) for any purpose (including, without limitation, the advertising, promotion and other exploitation of Eventbrite's brand, Trademarks, Services, or events hosted on the Sites), in any manner, in any medium or context now known or hereafter developed, without further authorization from, or compensation to, the Subjects or anyone acting on a Subject's behalf. 
+
+So, if you were not aware of this, probably find an alternative.
+
+url:https://reddit.com/r/YouShouldKnow/comments/8e64hj/
+author:deadslow
+subreddit:YouShouldKnow
+score:2143
+numComments:32
+isOver18:False
+hasPostBody:True

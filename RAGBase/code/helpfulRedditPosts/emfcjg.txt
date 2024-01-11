@@ -1,0 +1,20 @@
+title:
+YSK that Amazon will permanently change the materials they deliver your packages in (unless not possible) to be more environmentally friendly
+
+content:
+Follow these simple steps: 
+-open your Amazon account...
+-go to help/customer service...
+-click contact us...
+-use the chat option...
+-request to make all future orders plastic free with minimal packaging and where only absolutely necessary use degradable packaging materials like paper
+
+EDIT: This is not guaranteed and looks like it is only available for certain regions
+
+url:https://reddit.com/r/YouShouldKnow/comments/emfcjg/
+author:princesskuzco666
+subreddit:YouShouldKnow
+score:12724
+numComments:331
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: When shooting a gun for the first time or bringing a friend to shoot a gun for the first time, put only ONE bullet in the cylinder/magazine/clip when you're ready to shoot. Shooters do dumb things after their first shot, better they do it with an empty gun than a fully loaded one.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/lzvgxj/
+author:10minutes_late
+subreddit:LifeProTips
+score:25306
+numComments:1114
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: Don't tell yourself "I could use this" as a reason for keeping something. Ask yourself, "WILL I use this?"
+
+content:
+Being honest about whether or not you really will use that old magazine for some craft project "someday" keeps a lot of junk out of your house.
+
+url:https://reddit.com/r/LifeProTips/comments/4maj2r/
+author:annamcg
+subreddit:LifeProTips
+score:4450
+numComments:707
+isOver18:False
+hasPostBody:True

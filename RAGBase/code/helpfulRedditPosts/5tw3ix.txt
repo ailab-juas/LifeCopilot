@@ -1,0 +1,13 @@
+title:
+LPT: In the office, when your co-worker has food in front of them, don't approach and talk about work, or ask questions. That might be their only lunch break, and they want to be alone.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5tw3ix/
+author:TheCilician
+subreddit:LifeProTips
+score:1680
+numComments:167
+isOver18:False
+hasPostBody:False

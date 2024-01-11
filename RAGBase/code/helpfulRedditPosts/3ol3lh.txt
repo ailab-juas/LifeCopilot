@@ -1,0 +1,13 @@
+title:
+YSK A family history of breast cancer is also important for men to know. Not only could a hereditary breast cancer syndrome impact their female relatives, but men with certain genetic mutations are also at increased risk for cancers of the prostate, pancreas, and melanoma.
+
+content:
+It's breast cancer awareness month and there are a lot of facts and figures associated with the cancer that a lot of people simply do not know. [Here is an interactive calendar for the month that outlines some facts.](https://ms360.myriad.com/apps/awareness/breast/) I found the stat about men very interesting, because I honestly didn't know it could happen. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/3ol3lh/
+author:panthersolsen
+subreddit:YouShouldKnow
+score:1657
+numComments:51
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,14 @@
+title:
+LPT: if you’re going somewhere you risk losing your phone (festival, concert etc) write down “if found please call...” and your companion’s phone number, and take a photo of it then make it your Lock Screen picture
+
+content:
+When someone picks up your phone they can call your friend and arrange to get your phone back to you. I’ve successfully used this system more times than I like to admit. 
+Not all phones have emergency contacts set up and many people don’t know how to access them anyway.
+
+url:https://reddit.com/r/LifeProTips/comments/jiydvi/
+author:desserts_and_naps
+subreddit:LifeProTips
+score:1855
+numComments:93
+isOver18:False
+hasPostBody:True

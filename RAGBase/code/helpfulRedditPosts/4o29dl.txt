@@ -1,0 +1,29 @@
+title:
+YSK how to tell Windows 10 to bugger off with authority. Never10 is the answer.
+
+content:
+I work in IT, this is the easiest, quickest solution.
+
+https://www.grc.com/never10.htm
+
+Free of any adware/spyware or anything of the sort.
+
+Standalone installation, doesn't require installing any software on your computer. (may require one small windows update, but this installs from Microsoft)
+
+
+Completely free to use.
+
+Edit:  Also you can still upgrade to Windows 10 later if you choose.  This doesn't prevent YOU from upgrading your own computer.  This just prevents Microsoft from upgrading it for you with their deceptive little coercion.
+
+
+I've used this on dozens of PC's and have had nothing but success with it. 
+
+Edit: lol forgot to put an actual link.
+
+url:https://reddit.com/r/YouShouldKnow/comments/4o29dl/
+author:Urschleim_in_Silicon
+subreddit:YouShouldKnow
+score:1319
+numComments:375
+isOver18:False
+hasPostBody:True

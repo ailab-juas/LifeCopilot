@@ -1,0 +1,17 @@
+title:
+LPT: Harvard University listed 67 online courses for free!
+
+content:
+Now's a good time to pick up a new skill and/or certification for your CV.  
+
+Or perhaps you have a friend or relative that has a hard time deciphering fact from fiction within the news - there's a course called Rhetoric: The Art of Persuasive Writing and Public Speaking where you'll be able to "  evaluate the strength of an argument" and to " identify logical fallacies in arguments".
+
+http://online-learning.Harvard.edu/catalog
+
+url:https://reddit.com/r/LifeProTips/comments/fxu66b/
+author:dozernaps
+subreddit:LifeProTips
+score:31000
+numComments:614
+isOver18:False
+hasPostBody:True

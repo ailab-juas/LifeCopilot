@@ -1,0 +1,17 @@
+title:
+LPT: when going abroad, download the Google Maps app, open it, and type “Ok Maps” in the search field. This allows you to download a selection of the map to your phone, allowing you to use it for navigation while not using any cellular data.
+
+content:
+Edit: thanks to u/gozertank for the helpful comment:
+
+“And while you’re doing that, if you have the Google Translate app, you can download languages you plan on using often so you can translate without using data.”
+
+Edit 2: as many of you already pointed out, you can also just download offline maps from the settings in your Google Maps app.
+
+url:https://reddit.com/r/LifeProTips/comments/t2kk9p/
+author:Jg6915
+subreddit:LifeProTips
+score:31104
+numComments:418
+isOver18:False
+hasPostBody:True

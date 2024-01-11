@@ -1,0 +1,20 @@
+title:
+YSK that most people can get their push-ups up to 60 or more in a minute without a lot of effort. Here's how:
+
+content:
+1. Decide how many pushups you can do \*easily,\* without taxing yourself \*at all\*. For me, it was six. But it could literally be as few as one. We will call that number x.
+2. On Day One, do three sets of x pushups -- one in the morning, one in the afternoon and one in the evening. DO NOT DO ANY MORE THAN THIS. If you do, you will just make yourself sore, and then you won't want to do any. Be patient.
+3. On Day Two, do three sets of x+1 pushups. Yes, I know you can do more. Don't.
+4. Day Three, three sets of x+2 pushups.
+5. Etc.
+6. Give yourself a rest day every 7-10 days.
+
+That's  it. I used this method to  go from 6 push-ups to about 80 in a minute, and the thing is, it was  never really difficult.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ec3vv4/
+author:Alaska_Jack
+subreddit:YouShouldKnow
+score:3094
+numComments:169
+isOver18:False
+hasPostBody:True

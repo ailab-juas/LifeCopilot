@@ -1,0 +1,13 @@
+title:
+[LPT] If you find a locked iPhone, and Siri is still enabled, ask "who do you belong to?"
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/23g5fy/
+author:mmedesjardins
+subreddit:LifeProTips
+score:3122
+numComments:480
+isOver18:False
+hasPostBody:False

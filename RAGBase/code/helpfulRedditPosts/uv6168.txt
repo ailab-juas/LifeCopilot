@@ -1,0 +1,13 @@
+title:
+LPT: Do not spend much time trying to win an argument with somebody whose opinion you don't respect.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/uv6168/
+author:joe40001
+subreddit:LifeProTips
+score:17462
+numComments:708
+isOver18:False
+hasPostBody:False

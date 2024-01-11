@@ -1,0 +1,17 @@
+title:
+YSK About Prometheus Project, a collective trying to remove radio from corporate entity and create nationwide community radio infrastructure made up of hundreds of independent, locally-orientated stations, as part of a global movement to put media in the hands of the people.
+
+content:
+Prometheus is a organization that helped reform FCC policy on community radio and is dedicated to people who need help in starting a radio station.
+
+[Here is the website where you can learn more about starting a LPFM station in your area.](http://www.prometheusradio.org/about_us)
+
+[Here is the FCC website information on LPFM stations and application window.](http://www.fcc.gov/document/lpfm-window-open-october-2013-revised-form-318-released)
+
+url:https://reddit.com/r/YouShouldKnow/comments/1i61hu/
+author:Vardogr_Sound
+subreddit:YouShouldKnow
+score:2665
+numComments:155
+isOver18:False
+hasPostBody:True

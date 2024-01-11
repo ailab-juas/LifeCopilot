@@ -1,0 +1,13 @@
+title:
+LPT: Next time you find yourself overthinking, keep your eyeballs still. Your mind will stop ruminating.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/u7h8ql/
+author:HeadExpensive4399
+subreddit:LifeProTips
+score:4437
+numComments:153
+isOver18:False
+hasPostBody:False

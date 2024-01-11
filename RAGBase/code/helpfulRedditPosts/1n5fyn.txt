@@ -1,0 +1,20 @@
+title:
+LPT: Use 'VLC Player' to save 12 minutes for every hour of movies you watch and podcasts you listen to.
+
+content:
+* Once your selected media is playing in VLC: Press the "**]**" to speed everything up by 0.1x for each individual key press (inversely, press "**[**" to slow everything down by 0.1x).  
+  
+At 1.2x of normal speed, you will rarely notice anything distracting, but you will see the time stack up. A 2 hour movie will "give" you 24 minutes of free time that you wouldn't of had before. I listen to all my podcasts at 1.5x speed for 30 minutes of free time for each 90 minute podcast. *Not recommended for music, for obvious reasons.*  
+  
+VLC can handle up to 4.0x normal speed ("chipmunk voice" level), but it's only recommended for up to 2.0x speed with subtitles on (great to blast through C-tier movies or TV marathons).  
+  
+VLC is safe (available since 2001), free to use/download. And it can play just about anything you throw at it (no *Googling* for "codecs").  
+**VideoLAN (VLC)**: [Official Website](http://www.videolan.org/vlc/index.html)
+
+url:https://reddit.com/r/LifeProTips/comments/1n5fyn/
+author:Nikzilla90
+subreddit:LifeProTips
+score:1926
+numComments:692
+isOver18:False
+hasPostBody:True

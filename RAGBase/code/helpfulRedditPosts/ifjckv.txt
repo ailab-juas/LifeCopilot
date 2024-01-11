@@ -1,0 +1,15 @@
+title:
+LPT: If you are concerned about something nearby your house, like a tree, falling and damaging your house DO NOT call the insurance company about it.
+
+content:
+Recently, my family was concerned about a dead tree in our yard that seemed like it was about to fall on our house in the next big wind storm. Naturally, my father called our homeowners insurance. He inquired if they'd pay for a tree removal company to come by take it down before it caused damage. Their answer an emphatic no. In fact, since we had acknowledged the risk and called about it, if it were to fall on our house we would be fully liable for the damages because we acknowledged the risk and did nothing about it.
+
+So please, remember the insurance is not looking to prevent damage. They'd rather pay for it after the fact and have your rate be driven up later than prevent it from happening altogether.
+
+url:https://reddit.com/r/LifeProTips/comments/ifjckv/
+author:copnonymous
+subreddit:LifeProTips
+score:4145
+numComments:303
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,23 @@
+title:
+YSK when you write a Yelp review there is a good chance that it will never be seen, Yelp “hides” reviews. Some businesses can have more than half their reviews hidden from view, scewing the accurate business rating.
+
+content:
+In a class action law suit, many small businesses have claimed Yelp has extorted them and disproportionately hidden 5 star reviews to lower the business accurate rating unless they committed to advertising on the site.
+
+This is why there may be a large difference in rating on goggle versus yelp. You can view these hidden ads by scrolling to the very bottom of the Yelp page and clicking the very fine text that says “hidden reviews”. 
+
+**Why YSK*** This is important context when looking at businesses online yelp rating, as the rating may be biased and does not completely show all customer reviews. Additionally, for individuals that are leaving reviews to help some of their favorite small businesses, they may reconsider what site they chose to leave their reviews on.
+
+**Edit: upon further investigation here is what one of the judges for the law suit stated:
+
+ "The business owners may deem the posting or order of user reviews as a threat of economic harm, but it is not unlawful for Yelp to post and sequence the reviews," Judge Marsha Berzon wrote for the three-judge panel. "As Yelp has the right to charge for legitimate advertising services, the threat of economic harm that Yelp leveraged is, at most, hard bargaining."
+
+It’s not illegal but is it morally and ethically wrong?
+
+url:https://reddit.com/r/YouShouldKnow/comments/zsfffc/
+author:Jaseiker
+subreddit:YouShouldKnow
+score:6021
+numComments:277
+isOver18:False
+hasPostBody:True

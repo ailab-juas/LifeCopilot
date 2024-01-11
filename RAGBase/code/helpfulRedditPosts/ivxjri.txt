@@ -1,0 +1,13 @@
+title:
+LPT: If you need a break from social media, log out of your account. It requires effort to log back on and, if you mindlessly open the apps like I do, it gives you a second to change your mind
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/ivxjri/
+author:[deleted]
+subreddit:LifeProTips
+score:1529
+numComments:62
+isOver18:False
+hasPostBody:True

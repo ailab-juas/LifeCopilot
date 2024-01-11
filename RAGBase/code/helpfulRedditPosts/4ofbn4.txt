@@ -1,0 +1,15 @@
+title:
+LPT: One 18 inch pizza is more pizza than two 12 inch pizzas.
+
+content:
+Sometimes it's better value to order a large instead of two mediums.
+
+LifePizzaTips
+
+url:https://reddit.com/r/LifeProTips/comments/4ofbn4/
+author:LeFrogKid
+subreddit:LifeProTips
+score:6646
+numComments:2664
+isOver18:False
+hasPostBody:True

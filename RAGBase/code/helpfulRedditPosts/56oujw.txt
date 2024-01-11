@@ -1,0 +1,20 @@
+title:
+YSK - Avoid washing meat and poultry. It's actually a bad habit that results in the of spreading harmful bacteria around the kitchen.
+
+content:
+The US Department of Agriculture and various other sources have reported that washing meat is actually bad because you can spread the harmful bacteria around your kitchen. Any bacteria already on your meat is going to stay there, but will be killed in the cooking process. It is important to note that almost all meat you buy is clean enough to cook already.
+
+I had this epiphany while I was washing my chicken yesterday and found it weird to be washing my perfectly clean looking chicken thighs from the grocery store when I was pretty sure all the dangerous bacteria would be killed when I grilled it. It just always seemed liked the normal thing to wash meat before cooking. Did a quick google search about washing chicken and learned about the dangers of washing meat!
+
+
+Source: http://www.fsis.usda.gov/wps/portal/fsis/topics/food-safety-education/get-answers/food-safety-fact-sheets/safe-food-handling/washing-food-does-it-promote-food-safety/washing-food
+
+Article on the topic: http://www.npr.org/sections/thesalt/2013/08/31/216948010/dont-panic-your-questions-on-not-washing-raw-chickens
+
+url:https://reddit.com/r/YouShouldKnow/comments/56oujw/
+author:SmallestWang
+subreddit:YouShouldKnow
+score:1201
+numComments:197
+isOver18:False
+hasPostBody:True

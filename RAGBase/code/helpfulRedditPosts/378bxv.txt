@@ -1,0 +1,15 @@
+title:
+LPT: The lesser known F6 key, will highlight the navigation bar in Chrome.
+
+content:
+Hopefully thousands of unnecessary mouse movements will be saved!
+
+edit: Well that got crazy, first time to the front page. Good bye inbox.
+
+url:https://reddit.com/r/LifeProTips/comments/378bxv/
+author:PunkTasticMcGee
+subreddit:LifeProTips
+score:4228
+numComments:757
+isOver18:False
+hasPostBody:True

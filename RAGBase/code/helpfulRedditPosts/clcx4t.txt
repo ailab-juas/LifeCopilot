@@ -1,0 +1,15 @@
+title:
+YSK of this website that has phone numbers for companies with actual humans on the other end of the line. Not just Equifax.
+
+content:
+I saw another post about the frustration of finding a number for Equifax and remembered the link I had for [Dial a Human](https://www.dialahuman.com/) buried in my bookmarks.
+
+If I save even one person some frustration, my job is done.
+
+url:https://reddit.com/r/YouShouldKnow/comments/clcx4t/
+author:mynamewastaken
+subreddit:YouShouldKnow
+score:1218
+numComments:10
+isOver18:False
+hasPostBody:True

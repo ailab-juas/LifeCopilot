@@ -1,0 +1,13 @@
+title:
+YSK that the Pope is not actually infallible, that's a common misconception about Catholic doctrine.
+
+content:
+Rather, he can invoke [papal infallibility](http://en.wikipedia.org/wiki/Papal_infallibility) if he wants to make a declaration about church doctrine, but this is done very rarely. He is not walking around all day, every day completely infallible.
+
+url:https://reddit.com/r/YouShouldKnow/comments/30q6pa/
+author:Siiimo
+subreddit:YouShouldKnow
+score:1137
+numComments:150
+isOver18:False
+hasPostBody:True

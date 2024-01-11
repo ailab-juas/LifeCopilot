@@ -1,0 +1,13 @@
+title:
+YSK about theuselessweb.com. It takes you to a random, useless website and is the best cure for boredom I've found.
+
+content:
+[don't be bored](http://www.theuselessweb.com)
+
+url:https://reddit.com/r/YouShouldKnow/comments/2n9c23/
+author:prooch
+subreddit:YouShouldKnow
+score:2118
+numComments:194
+isOver18:False
+hasPostBody:True

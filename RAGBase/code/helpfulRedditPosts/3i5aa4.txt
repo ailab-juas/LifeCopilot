@@ -1,0 +1,13 @@
+title:
+LPT: When starting something new, search for "Things I wish I knew when starting X"
+
+content:
+For example, I'm heading off to try out snowboarding this week. Searching for "Things I wish I knew starting snowboarding" resulted in posts filled with great advice for beginners by experienced snowboarders.
+
+url:https://reddit.com/r/LifeProTips/comments/3i5aa4/
+author:Rand0mLife
+subreddit:LifeProTips
+score:4787
+numComments:232
+isOver18:False
+hasPostBody:True

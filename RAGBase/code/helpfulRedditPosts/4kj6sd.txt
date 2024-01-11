@@ -1,0 +1,15 @@
+title:
+LPT: If a foreign airline asks you whether you'd like to book in your currency or theirs, double check the exchange rate.
+
+content:
+I booked an Aer Lingus flight that offered me Dollars or Euros.  Their effective exchange rate came out to 1.17 Dollars / Euro, when the current exchange rate was 1.12.  So by opening another browser tab and checking, I saved $50 on an $850 flight that they were trying to squeeze out of me.
+
+It's worth noting that my credit card charged something like a $7 fee for the transaction.  Something else to consider.
+
+url:https://reddit.com/r/LifeProTips/comments/4kj6sd/
+author:Pro_Quote_Maker
+subreddit:LifeProTips
+score:4500
+numComments:364
+isOver18:False
+hasPostBody:True

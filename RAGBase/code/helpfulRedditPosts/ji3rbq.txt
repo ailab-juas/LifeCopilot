@@ -1,0 +1,13 @@
+title:
+LPT: If you find somebody's lost wallet, check their bank cards to see who they are banking with and take the wallet to one of their branches. The bank will be able to contact the wallet's owner so their wallet can be returned.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ji3rbq/
+author:TwistedPeppermintTX
+subreddit:LifeProTips
+score:1030
+numComments:82
+isOver18:False
+hasPostBody:False

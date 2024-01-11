@@ -1,0 +1,15 @@
+title:
+YSK Avast antivirus software is injecting a signature ad into personal email without asking
+
+content:
+Lots of people have avast but may not have noticed yet.  I only noticed after looking back at an email I had previously sent.
+
+Edit: You can turn off the signature in settings but it apparently comes back with next update as setting all go back to default.  Signature only happens in emails sent from device with avast, so if you use a smartphone without avast to send an email the signature won't show up.
+
+url:https://reddit.com/r/YouShouldKnow/comments/40s6ma/
+author:OPVFTW
+subreddit:YouShouldKnow
+score:1442
+numComments:186
+isOver18:False
+hasPostBody:True

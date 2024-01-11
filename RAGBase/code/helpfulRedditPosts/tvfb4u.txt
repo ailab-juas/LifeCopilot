@@ -1,0 +1,15 @@
+title:
+YSK A lot of people tend to inherently have a strong reaction to the word "Wrong" regardless of the context
+
+content:
+Why YSK : Whatever reaction they have assigned to the word "Wrong" will often steer how a message is interrupted. 
+
+If someone is incorrect, mistaken or simply need more information it'll often be taken as attacking their moral character and/or intelligence if you say they're "wrong" which will often work against your message. From an early age we're severely encouraged to not be "wrong" which results in it being a triggering word. This applies whether your talking about them or something/someone else.
+
+url:https://reddit.com/r/YouShouldKnow/comments/tvfb4u/
+author:OhTheHueManatee
+subreddit:YouShouldKnow
+score:1008
+numComments:55
+isOver18:False
+hasPostBody:True

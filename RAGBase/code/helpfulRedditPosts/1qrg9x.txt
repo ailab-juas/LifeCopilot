@@ -1,0 +1,13 @@
+title:
+YSK that virtually any headline that ends in a question mark, specially the ones from sensationalist media, can be safely answered with No at least in the scope of the article. If they were positive about it, they would make a claim, not a question.
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/1qrg9x/
+author:adolius
+subreddit:YouShouldKnow
+score:1942
+numComments:138
+isOver18:False
+hasPostBody:False

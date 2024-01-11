@@ -1,0 +1,13 @@
+title:
+LPT: Learn proper spelling, grammar and punctuation. Your writing is the first impression about you people will have. Make it a good impression.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/qmi4yu/
+author:Entire_Toe2640
+subreddit:LifeProTips
+score:21002
+numComments:1451
+isOver18:False
+hasPostBody:False

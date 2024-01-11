@@ -1,0 +1,13 @@
+title:
+LPT: Do not put your feet up on the dashboard when you sit in the passenger seat of a vehicle! If you are involved in a car crash the airbags can give you catastrophic injuries.
+
+content:
+Airbags deploy somewhere between 100-220 MPH. This can send your knees crashing into your face. You will not be able to get your feet down in time. A simple crash that everyone else in the car will walk away from could be devastating for you. Here is [an xray](https://www.google.com/amp/s/www.autoblog.com/amp/2020/01/27/x-ray-injuries-feet-on-car-dashboard/) of a woman who was in a crash while riding like this. It ended her career. Drive safe!
+
+url:https://reddit.com/r/LifeProTips/comments/g6cxxp/
+author:mullaloo
+subreddit:LifeProTips
+score:2458
+numComments:192
+isOver18:False
+hasPostBody:True

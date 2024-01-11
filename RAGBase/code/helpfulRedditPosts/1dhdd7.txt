@@ -1,0 +1,13 @@
+title:
+LPT: Before writing a negative review on Yelp contact the business owner directly. May of us have our lives invested in our business and will go we'll out of our way to make you a happy and loyal client.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1dhdd7/
+author:kneaders
+subreddit:LifeProTips
+score:1088
+numComments:172
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,20 @@
+title:
+LPT: If you decide college is the right path for you, analyze it like an investment, not a passion pursuit.
+
+content:
+The entire secondary education industry (at least in the USA) is designed to take advantage of the fact you want to follow your dreams and don't pay attention to value.  Later in life you are likely to find that your ability to pursue your passion on your own terms hinges to a large degree on your financial independence.  Going $50k in debt for a degree that won't ever pay will and does stand in the way of that.
+
+If your passion happens to fall into an area of study with a solid ROI, you are in luck!  If not, adjust your plans and try hard to leave emotions out of it.
+
+Some good resources:
+[Freeopp.org](https://freopp.org/is-college-worth-it-a-comprehensive-return-on-investment-analysis-1b2ad17f84c8)
+
+[CampusTechnology.com](https://campustechnology.com/articles/2021/11/02/when-it-comes-to-roi-college-major-matters-more-than-school-attended.aspx?m=1)
+
+url:https://reddit.com/r/LifeProTips/comments/sbab6x/
+author:meshtron
+subreddit:LifeProTips
+score:3014
+numComments:283
+isOver18:False
+hasPostBody:True

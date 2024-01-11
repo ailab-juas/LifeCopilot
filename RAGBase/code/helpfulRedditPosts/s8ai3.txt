@@ -1,0 +1,13 @@
+title:
+Can't remember your lunch in the morning? Here's a lighthearted submission that I swear to god works for me, but whenever I tell anyone about it this is how I sound. 
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/s8ai3/
+author:Jeromiewhalen
+subreddit:LifeProTips
+score:1266
+numComments:193
+isOver18:False
+hasPostBody:False

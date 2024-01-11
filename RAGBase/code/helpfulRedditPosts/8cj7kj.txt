@@ -1,0 +1,17 @@
+title:
+YSK that replacing the beginning of a Wikipedia article (such as en, for English) with "simple" brings up an ELI5 version of the article.
+
+content:
+[String theory, starting with en.wikipedia](https://en.m.wikipedia.org/wiki/String_theory)
+
+[String theory, starting with simple.wikipedia](https://simple.m.wikipedia.org/wiki/String_theory)
+
+This works for plenty of Wikipedia articles, but isn't a prerequisite to making one, so not every page has a simple counterpart. However, most popular topics do.
+
+url:https://reddit.com/r/YouShouldKnow/comments/8cj7kj/
+author:Brawhalla_
+subreddit:YouShouldKnow
+score:2376
+numComments:35
+isOver18:False
+hasPostBody:True

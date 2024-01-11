@@ -1,0 +1,13 @@
+title:
+LPT: When making plans: Don't ask if someone is busy; Ask them if they are free.
+
+content:
+If someone needs some time to themselves or are tired, they may not view this time as being "busy" but they wouldn't consider themselves "free" because they aren't available to hang out.  By asking if they are free, this gets to the heart of the question.
+
+url:https://reddit.com/r/LifeProTips/comments/azxhlw/
+author:Large_Philosophy
+subreddit:LifeProTips
+score:2367
+numComments:117
+isOver18:False
+hasPostBody:True

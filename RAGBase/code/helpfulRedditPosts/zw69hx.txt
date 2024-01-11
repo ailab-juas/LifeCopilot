@@ -1,0 +1,17 @@
+title:
+LPT: When leaving a major event/concert and using rideshare, walk two blocks or more away from the location of the event.
+
+content:
+You’ll likely avoid the surge pricing, and get picked up in half the time at LEAST. 
+
+Otherwise, you’re competing with thousands of other people all trying to get a limited number of rides available, and logistically trying to make it work. 
+
+Surge pricing is highest at the epicenter/location of the event, and drops significantly the further away from that location you are.
+
+url:https://reddit.com/r/LifeProTips/comments/zw69hx/
+author:Wheelaffect
+subreddit:LifeProTips
+score:2092
+numComments:153
+isOver18:False
+hasPostBody:True

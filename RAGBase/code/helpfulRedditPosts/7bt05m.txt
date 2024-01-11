@@ -1,0 +1,13 @@
+title:
+LPT: Seasonal reminder to knock on the hood of your car before starting it to make sure no animals have climbed underneath the hood to stay warm.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/7bt05m/
+author:ApparentlyJesus
+subreddit:LifeProTips
+score:2277
+numComments:142
+isOver18:False
+hasPostBody:False

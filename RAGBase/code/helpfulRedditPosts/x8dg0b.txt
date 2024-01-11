@@ -1,0 +1,13 @@
+title:
+LPT: When you send someone an Excel file, it opens up to whatever YOUR view was when you last saved it - that includes what tab you were on, what cell you were last clicked in, and what zoom level you were on. Keep this in mind when sending Excel deliverables to clients!
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/x8dg0b/
+author:scottyboy218
+subreddit:LifeProTips
+score:11880
+numComments:313
+isOver18:False
+hasPostBody:False

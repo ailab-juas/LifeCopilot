@@ -1,0 +1,15 @@
+title:
+YSK in the uk if you call 911 for emergency services (instead of 999) you will be directed to the emergency services anyway
+
+content:
+This is because lots of young children watch American tv and think the emergency services number in the uk is 911
+
+edit: thanks for the gold!
+
+url:https://reddit.com/r/YouShouldKnow/comments/crs2fo/
+author:sea-lo-que-sea
+subreddit:YouShouldKnow
+score:7871
+numComments:258
+isOver18:False
+hasPostBody:True

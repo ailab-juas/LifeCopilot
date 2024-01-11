@@ -1,0 +1,15 @@
+title:
+LPT: Got a rebate debit card? Instead of carrying it around and inevitably losing the last few dollars on it, buy an Amazon gift card for the full amount and apply it to your own account.
+
+content:
+I hate carrying around debit cards I get in the form of rebates. They're usually $10-$20, so they don't last more than a couple purchases. They're useless when there's &lt; $5 available on them, and I always end up losing them/throwing them away. Plus, you never really know what the balance is and it's embarrassing when a charge doesn't go through.
+
+What I do now is immediately buy an Amazon gift card for the full amount, and apply the gift card to my own account. The balance can stay on forever (and let's face it, you're buying something from Amazon soon anyways).
+
+url:https://reddit.com/r/LifeProTips/comments/1qekyt/
+author:bin161
+subreddit:LifeProTips
+score:1523
+numComments:104
+isOver18:False
+hasPostBody:True

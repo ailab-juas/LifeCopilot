@@ -1,0 +1,28 @@
+title:
+LPT: Dial a number with an extension often? Save the number with two commas between them. Example: 555-555-5555,, 123456
+
+content:
+If you put two commas after the phone number followed by the extension, your phone will call the number, pause, then dial the extension.
+
+
+Edit 1: Thanks to u/vonaudy who explained how it works.
+Each comma is 2 second pause, so you can place 3 commas to have it wait 6 seconds before sending the extension.
+
+You could also take multiple breaks like 
+555-555-5555,,7,,,,,45,,7890#
+
+And thanks to u/bizzattles for mentioning the semi colon which prompts you on screen to send the extension when you want to.
+
+Edit 2: credit to u/provanilla. To get the comma key when on the dial pad, you need to press and hold the * key.
+
+Edit 3: removed spaces after commas. Stupid phone...
+
+Edit 4: Thanks for the Platinum and gold kind strangers.
+
+url:https://reddit.com/r/LifeProTips/comments/crv38f/
+author:LauraD2423
+subreddit:LifeProTips
+score:31170
+numComments:414
+isOver18:False
+hasPostBody:True

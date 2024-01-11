@@ -1,0 +1,15 @@
+title:
+LPT: Rice is an inexpensive way to stretch every meal.
+
+content:
+In undergrad, and grad school my roommate and I would make large meals from scratch to store for later (soup, chili, pot roast). We were able to ration even further or feed more people when these meals were served over rice. Bonus tip: add vegetables to every meal.
+
+*Quick edit*: I'm not recommending gorging yourself on rice. I thought the use of "ration" would imply that we didn't have alot. So yeah half-serving of rice with half-serving of prepared meal.
+
+url:https://reddit.com/r/LifeProTips/comments/qabgvi/
+author:edogfu
+subreddit:LifeProTips
+score:1568
+numComments:181
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+YSK: Automated temperature scanners are practically tablets. They record video and audio that can be monitored live or saved.
+
+content:
+Why YSK: Practically be mindful of what you say or do around them. Also, even if the screen is turn off the camera and microphone are still operational.
+
+Edit: A lot of people are pointing out your phone can do the same. I just wanted to emphasize in this post that this device can do this things on a internal level as in the people in the IT/security departments can access the footage.
+
+url:https://reddit.com/r/YouShouldKnow/comments/krtesf/
+author:greenphrog
+subreddit:YouShouldKnow
+score:14476
+numComments:356
+isOver18:False
+hasPostBody:True

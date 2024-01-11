@@ -1,0 +1,13 @@
+title:
+LPT: Press "k" instead of the "space bar" when wanting to pause a video on Youtube. No more scrolling down past the video.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/8kdnsf/
+author:BurningMan94
+subreddit:LifeProTips
+score:5085
+numComments:164
+isOver18:False
+hasPostBody:False

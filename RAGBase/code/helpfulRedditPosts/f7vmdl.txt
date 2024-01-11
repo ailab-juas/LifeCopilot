@@ -1,0 +1,19 @@
+title:
+LPT: You can pay $0 to medications that cost $1000s by just applying to manufacturers’ websites!
+
+content:
+When I initially relocated from Canada to the US and they told me that monthly cost of Xarelto (a type of blood thinner) is $550, and my thousands dollar a year student insurance only covered about $15/month, I was shocked.
+
+Long story short, I googled lots of coupons and most of them didn’t work as promised.
+
+I luckily came across with manufacturer’s coupon, which asked a few basic questions. Whether I could pay the medication without financial hardship (No), and name, address, insurance type. It than gave me a pdf card (they mailed a regular card later), with which I went to my pharmacy. The cashier at the pharmacy tried the card and told me that my total was $5. That was it! I didn’t pay a penny for the remaining 3 years.
+
+Tl;dr: If your medication is expensive and your insurance isn’t very helpful, go to the manufacturer’s website for manufacturer’s coupons, which may bring the cost to $0.
+
+url:https://reddit.com/r/LifeProTips/comments/f7vmdl/
+author:funinnewyork
+subreddit:LifeProTips
+score:13257
+numComments:786
+isOver18:False
+hasPostBody:True

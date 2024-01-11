@@ -1,0 +1,13 @@
+title:
+YSK: Many Universities have surplus department that sell to the public, and can be a good source of inexpensive furniture.
+
+content:
+Why YSK: Furnishing a new place can be expensive, and Universities always have stuff to get rid of. Sometimes even cool vintage stuff. At my local U surplus, I've seen everything from basic office supplies, file cabinets, monitors, desks, to pianos and weird old lab equipment. It's a crap-shoot, and places may or may not be open at the moment, but take a look. You might find something great.
+
+url:https://reddit.com/r/YouShouldKnow/comments/nhaxni/
+author:brocktoon2000
+subreddit:YouShouldKnow
+score:13447
+numComments:305
+isOver18:False
+hasPostBody:True

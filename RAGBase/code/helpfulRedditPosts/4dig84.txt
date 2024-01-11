@@ -1,0 +1,16 @@
+title:
+YSK: You can boost productivity with background sound websites
+
+content:
+According to studies listening to a website like http://www.moodil.com can increase your productivity.
+
+Read more:
+http://www.huffingtonpost.com/2015/05/26/productivity-tips-nature-_n_7314216.html
+
+url:https://reddit.com/r/YouShouldKnow/comments/4dig84/
+author:unska
+subreddit:YouShouldKnow
+score:1052
+numComments:72
+isOver18:False
+hasPostBody:True

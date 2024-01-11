@@ -1,0 +1,13 @@
+title:
+LPT: If you're tired of pop-up messages of a website asking you to send notifications on Chrome, paste chrome://settings/content/notifications on your adress bar and unmark the first option.
+
+content:
+For PC users: **chrome://settings/content/notifications**.
+
+url:https://reddit.com/r/LifeProTips/comments/9t95y6/
+author:zViola
+subreddit:LifeProTips
+score:2189
+numComments:68
+isOver18:False
+hasPostBody:True

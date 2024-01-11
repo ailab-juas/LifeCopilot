@@ -1,0 +1,22 @@
+title:
+YSK that YSK is frequently full of misinformation and nonsense.
+
+content:
+Always read the comments, and keep checking back. Here's an example from today:
+
+http://www.reddit.com/r/YouShouldKnow/comments/uhcgn/ysk_that_by_taking_your_basic_vitamin_b_pill/
+
+
+**edit**
+
+Another one that just kind of gets it a little wrong. But when you're trying to put something out as important knowledge, you should get it right:
+
+http://www.reddit.com/r/YouShouldKnow/comments/uecst/ysk_begs_the_question_does_not_mean_asks_the/
+
+url:https://reddit.com/r/YouShouldKnow/comments/uhikh/
+author:HPDerpcraft
+subreddit:YouShouldKnow
+score:1646
+numComments:102
+isOver18:False
+hasPostBody:True

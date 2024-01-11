@@ -1,0 +1,13 @@
+title:
+LPT: Have a valid .gov/.mil/.edu email address? You can get full digital access to The Washington Post for free
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1ld4h1/
+author:DerekReinbold
+subreddit:LifeProTips
+score:2418
+numComments:269
+isOver18:False
+hasPostBody:False

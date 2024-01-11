@@ -1,0 +1,13 @@
+title:
+LPT:Hard to translate a technical concept to another language? Search it in Wikipedia and then click on another language to find an accurate translation.
+
+content:
+Sometimes it's hard to find the specific translation of a technical word (eg:pathologies, animal names, etc.) that is actually used in another language. Try to search the word in english Wikipedia and then look at the "Languages" tab (bottom left). If you're lucky, the language will be there. Clicking it, you will be able to see the proper name of the entry. 
+
+url:https://reddit.com/r/LifeProTips/comments/204kho/
+author:cyberlem
+subreddit:LifeProTips
+score:1243
+numComments:59
+isOver18:False
+hasPostBody:True

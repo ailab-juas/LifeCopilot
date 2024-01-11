@@ -1,0 +1,13 @@
+title:
+LPT: See a Redditor expressing suicidal thoughts or appearing to be depressed? You can request Reddit to reach out to a Redditor from their profile, by clicking 'More Options' on the side-bar and clicking 'Get them Help and Support' in which they will have a trained counsellor speak to them.
+
+content:
+EDIT: Please do not abuse this feature! I didn't expect that people would try and use this to spam others, as this could really end up being the difference between life and death when it comes to someone who is not well.
+
+url:https://reddit.com/r/LifeProTips/comments/hb74uv/
+author:Mrblue630
+subreddit:LifeProTips
+score:7431
+numComments:290
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+YSK: The ASPCA has printable cards you can keep in your wallet, so that in the event of an emergency that leaves you unable to return home, whoever is helping you will know to alert someone to check on your pets.
+
+content:
+Why YSK: Especially if you live alone, this is important. If you're in an accident and unable to communicate, or god-forbid worse, it might be a while before anyone considers checking on your home. Your animals will need to be taken care of and fed.
+
+https://www.aspca.org/pet-care/pet-planning/getting-started
+
+url:https://reddit.com/r/YouShouldKnow/comments/m0jzt2/
+author:CivilizedPsycho
+subreddit:YouShouldKnow
+score:7872
+numComments:76
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Complete a simple task like making up your bed or preparing an actual breakfast when you wake up in the morning. The feeling of even the smallest accomplishment has been proven to make you more productive during the day.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/59x8lp/
+author:ScubaStomp
+subreddit:LifeProTips
+score:5105
+numComments:1000
+isOver18:False
+hasPostBody:False

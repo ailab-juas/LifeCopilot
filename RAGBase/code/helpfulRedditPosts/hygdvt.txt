@@ -1,0 +1,13 @@
+title:
+LPT: When learning a new language, have a “say something!” phrase
+
+content:
+Whenever anyone found out that I was learning German as my second language their first response was always “oooo say something!” So I practiced a phrase I could say in perfect German that sounded super fancy but all I would say was “sometimes I put pickles on my sandwich” People who didn’t speak German had no idea what I said but I said it so clearly that they were always impressed!
+
+url:https://reddit.com/r/LifeProTips/comments/hygdvt/
+author:girp123
+subreddit:LifeProTips
+score:24628
+numComments:2016
+isOver18:False
+hasPostBody:True

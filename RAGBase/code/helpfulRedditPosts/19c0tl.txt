@@ -1,0 +1,13 @@
+title:
+If you break up, change your text notification sound.
+
+content:
+This way you won't think about the person who likely was usually texting you.
+
+url:https://reddit.com/r/LifeProTips/comments/19c0tl/
+author:AdamJaz
+subreddit:LifeProTips
+score:2240
+numComments:597
+isOver18:False
+hasPostBody:True

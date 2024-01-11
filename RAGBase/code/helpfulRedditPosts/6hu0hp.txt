@@ -1,0 +1,13 @@
+title:
+YSK that Firefox has a 64-bit version, which is used by less than 2% of users despite that &gt;60% of users are on 64-bit systems.
+
+content:
+[Download page](https://www.mozilla.org/en-US/firefox/all/?q=English%20(US\)). And you can find the numbers in [this blog post](https://blog.mozilla.org/nnethercote/2016/07/22/firefox-64-bit-for-windows-can-take-advantage-of-more-memory/)
+
+url:https://reddit.com/r/YouShouldKnow/comments/6hu0hp/
+author:Connguy
+subreddit:YouShouldKnow
+score:5118
+numComments:427
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+YSK that if you’re in a foreign country and don’t know the emergency number call 112.
+
+content:
+Why YSK: If you are in a foreign country and need to call for help, but don't know the emergency number, call 1 1 2. It's the international emergency number and will automatically connect you to the nearest help line.
+
+url:https://reddit.com/r/YouShouldKnow/comments/qatlhg/
+author:hunytart
+subreddit:YouShouldKnow
+score:9191
+numComments:350
+isOver18:False
+hasPostBody:True

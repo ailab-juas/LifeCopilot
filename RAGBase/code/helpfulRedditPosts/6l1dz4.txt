@@ -1,0 +1,13 @@
+title:
+LPT: In the USA, more pets go missing near the 4th of July than any other time of year; assume that fireworks will be set off nearby &amp; plan accordingly.
+
+content:
+Keep your pets inside and make sure they have access to their favorite 'safe space'
+
+url:https://reddit.com/r/LifeProTips/comments/6l1dz4/
+author:Tackle3erry
+subreddit:LifeProTips
+score:2813
+numComments:100
+isOver18:False
+hasPostBody:True

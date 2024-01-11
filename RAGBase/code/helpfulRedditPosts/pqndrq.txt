@@ -1,0 +1,13 @@
+title:
+LPT: do not deduce feelings from text based comunication
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/pqndrq/
+author:0OOO00000OO00O0O0OOO
+subreddit:LifeProTips
+score:3192
+numComments:133
+isOver18:False
+hasPostBody:False

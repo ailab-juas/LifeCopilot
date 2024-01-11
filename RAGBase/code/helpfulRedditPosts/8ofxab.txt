@@ -1,0 +1,13 @@
+title:
+LPT go for that run, no one is looking at you, dont overthink it, do it
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/8ofxab/
+author:Northernirelandguy
+subreddit:LifeProTips
+score:37009
+numComments:1669
+isOver18:False
+hasPostBody:False

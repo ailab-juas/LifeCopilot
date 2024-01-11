@@ -1,0 +1,27 @@
+title:
+YSK how to jump start a car.
+
+content:
+**Why YSK.** Car batteries can die, especially if the car hasn't been used for a while. To jump start a car you'll need a car that can turn on, and a set of jumper cables. Here are the steps.
+
+1. Pull jumper (good) car next to dead car so the batteries are close together. (Note, not all batteries are under the hood. Find where the battery is in each car before aligning the vehicles.)
+2. Have both cars turned off.
+3. Take the **red** jumper cable and clip it onto the **positive** terminal of the **good car's** battery. (That terminal should have a plus sign on it.)
+4. Take the other end of the **red** cable and attach it to the **positive** terminal of the **dead car's** battery.
+5. Take the **black** cable and attach it to the **negative** terminal of the **good car's** battery.
+6. Take the other end of the **black** cable and attach it to an **unpainted metal surface on the dead car's engine block.** **DO NOT ATTACH THE BLACK END TO THE DEAD CAR'S BATTERY.**
+7. Start the jumper car. Let it idle for a couple of minutes.
+8. Start the dead car.
+9. Remove the cables in the reverse order.
+
+There's a simple phrase to remember that can help. **Red good, red dead. Black good, black block.**
+
+If the dead car doesn't start, it's probably time for a tow truck.
+
+url:https://reddit.com/r/YouShouldKnow/comments/u7x5xf/
+author:ButtholeBanquets
+subreddit:YouShouldKnow
+score:1981
+numComments:172
+isOver18:False
+hasPostBody:True

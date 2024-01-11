@@ -1,0 +1,25 @@
+title:
+YSK There's a spot in Android phones(And probably IOS devices) where you can enter emergency information that can be accessed by EMS in an emergency.
+
+content:
+You can enter emergency contacts, Allergy information, medications you are on, blood type, and if you are an organ donor. 
+
+Keep that information up to date. It could save your life. 
+
+Here's where to find it.   
+
+Go into your setup menu and look for the USERS option. the emergency information section is in there.  See below. 
+
+https://support.google.com/nexus/answer/7055029?hl=en
+
+Will show you how to get there. It should be pretty similar for most phones with recent versions of Android. 
+
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/8hk1ja/
+author:Alacritous
+subreddit:YouShouldKnow
+score:2646
+numComments:140
+isOver18:False
+hasPostBody:True

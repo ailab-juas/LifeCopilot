@@ -1,0 +1,13 @@
+title:
+LPT: Always be prepared to leave your employer because they are prepared to leave you.
+
+content:
+As a rule of thumb, it's always a good idea to have a backup plan in case things don't work out with your current employer. Whether it's saving up money, networking, or updating your resume, being prepared can make all the difference in securing a new job quickly. Plus, it's never a bad idea to have a safety net in case your employer decides to let you go.
+
+url:https://reddit.com/r/LifeProTips/comments/zm6sem/
+author:thegreatparanoia
+subreddit:LifeProTips
+score:1765
+numComments:94
+isOver18:False
+hasPostBody:True

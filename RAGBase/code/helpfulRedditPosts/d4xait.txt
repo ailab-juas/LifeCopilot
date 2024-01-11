@@ -1,0 +1,13 @@
+title:
+LPT: If a you or a family member has to have a medical device plugged into a wall, you may be eligible to contact your electricity company and they will take money off your bill because it’s considered a necessity for life.
+
+content:
+My father has PF and he recently found out he can get a lot of money off his electricity bill because he has his oxygen plugged into the wall.
+
+url:https://reddit.com/r/LifeProTips/comments/d4xait/
+author:TassiaTessa
+subreddit:LifeProTips
+score:1748
+numComments:46
+isOver18:False
+hasPostBody:True

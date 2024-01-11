@@ -1,0 +1,17 @@
+title:
+YSK It's EDT/CDT/MDT/PDT, not EST/CST/MST/PST, now that it's daylight saving's time
+
+content:
+All too often, folks refer to times in time zones with the "ST" (standard time) suffix. But, when it's daylight saving time, the suffix is "DT" (daylight time). If you use "ST" during daylight saving, your time will technically be one hour earlier than it should be.
+
+To be completely safe, just forget the "S" and "D" and leave it at "T."
+
+Edit: Saving, not saving's. Thanks, /u/TWFM
+
+url:https://reddit.com/r/YouShouldKnow/comments/4d9hmw/
+author:ki85squared
+subreddit:YouShouldKnow
+score:1610
+numComments:206
+isOver18:False
+hasPostBody:True

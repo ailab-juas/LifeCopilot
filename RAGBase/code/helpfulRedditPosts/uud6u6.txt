@@ -1,0 +1,13 @@
+title:
+LPT: For when I can't fall asleep, keeping a notebook next to my bed and writing whatever thought that's keeping me up. It works best when it's things I have to do the next day, but even if it's just random thoughts, putting them on paper helps my brain understand that we'll deal with them tomorrow
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/uud6u6/
+author:AGirlHasNoName19
+subreddit:LifeProTips
+score:27470
+numComments:357
+isOver18:False
+hasPostBody:False

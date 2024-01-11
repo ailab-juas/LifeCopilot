@@ -1,0 +1,13 @@
+title:
+LPT: if someone gets interrupted in the middle of a conversation, encourage them to continue by saying something like “you were telling us about…”. It will help them feel comfortable and make them feel like their voice matters.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/yr3yi5/
+author:__init__2nd_user
+subreddit:LifeProTips
+score:33561
+numComments:428
+isOver18:False
+hasPostBody:False

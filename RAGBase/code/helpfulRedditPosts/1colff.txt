@@ -1,0 +1,49 @@
+title:
+YSK: Facts about CISPA without all the hyperbole
+
+content:
+No, CISPA does not mean constant government surveillance of the internet. No, this is not SOPA/PIPA in a different form. No, the IRS isn't going to monitor what you say on Facebook. No, IBM did not bribe a bunch of Congressmen to co-sponsor it. No, no, no.
+
+My reading of most of the Reddit coverage of CISPA makes it clear that 95% of folks here have no idea what CISPA is, does, or is meant to cover. A lot of people think it's just a rewarmed version of SOPA. With so much hyperbole and hysteria, I think Reddit could stand for some facts.
+
+**[HERE](http://thomas.loc.gov/cgi-bin/bdquery/z?d112:HR03523:@@@D&amp;summ2=m&amp;) is the actual bill summary from Congress.**
+
+**[HERE](http://www.gpo.gov/fdsys/pkg/BILLS-112hr3523rfs/pdf/BILLS-112hr3523rfs.pdf) is actual bill text that the HOR has passed.**
+
+**Myth:** The definition of "cyber threat information" is so broad that it could be used to justify anything.
+
+**Fact:** Verbatim from the bill above, page 23, Line 2: ‘‘(A) IN GENERAL.—The term ‘cyber threat information’ means information directly pertaining to— ‘‘(i) a vulnerability of a system or network of a government or private entity or utility; ‘‘(ii) a threat to the integrity, confidentiality, or availability of a system or network of a government or private entity or utility or any information stored on, processed on, or transiting such a system or network; ‘‘(iii) efforts to deny access to or degrade, disrupt, or destroy a system or network of a government or private entity or utility; or ‘‘(iv) efforts to gain unauthorized access to a system or network of a government or private entity or utility, including to gain such unauthorized access for the purpose of exfiltrating information stored on, processed on, or transiting a system or network of a government or private entity or utility.”
+**tl;dr: companies can only share anonymous threat information, on a voluntary basis, when they want to protect their systems or networks.**
+
+
+**Myth:** The government can now go after all of my personal records.
+
+**Fact:** The bill language specifically prohibits the government from gathering your personal medical, tax, library or gun records.
+
+
+**Myth:** Private companies can share personal data about you for marketing purposes.
+
+**Fact:** CISPA only allows companies to share data that is *directly related* to a cyber security threat, and they can only share threat information.
+
+
+**Myth:** Under CISPA, the government will be able to read your private emails, browsing history, etc. without a warrant.
+
+**Fact:** Cyber threat information ONLY, not private email or browsing histories, can be used or retained by the government for four specific purposes: (1) cybersecurity; (2) investigation and prosecution of cybersecurity crimes; (3) protection of individuals from the danger of death or physical injury; (4) protection of minors from physical or psychological harm.
+
+
+**Myth:** IBM flew in 200 senior execs to twist arms in Congress to pass CISPA.
+
+**Fact:** IBM has a strict corporate ban on political contributions. **[Source](http://www.ibm.com/ibm/responsibility/policy5.shtml)** (feel free to look this up yourself on OpenSecrets.org)
+
+Moreover, the 36 new co-sponsors announced that day had been in the procedural pipeline for months. IBM is far more interested in the immigration and STEM H1B visa policy changes underway. 
+
+
+**EDIT:** /u/asharp45 has now cross-posted this YSK to /r/POLITIC and /r/conspiracy for "outing" me as an IBM employee. Keep it classy, reddit.
+
+url:https://reddit.com/r/YouShouldKnow/comments/1colff/
+author:Ntang
+subreddit:YouShouldKnow
+score:1721
+numComments:404
+isOver18:False
+hasPostBody:True

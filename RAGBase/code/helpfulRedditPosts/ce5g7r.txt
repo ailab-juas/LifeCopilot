@@ -1,0 +1,13 @@
+title:
+LPT: Almost every Kidde Fire Extinguisher sold in the last 10 years has been recalled as defective. Please check your home and workplace fire extinguishers and replace them for free through the recall program.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ce5g7r/
+author:4Eights
+subreddit:LifeProTips
+score:49585
+numComments:1205
+isOver18:False
+hasPostBody:False

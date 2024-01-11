@@ -1,0 +1,15 @@
+title:
+YSK to never fill a gas can unless it is resting on the ground
+
+content:
+I learned this several years ago while watching one of those top 10 shows on TruTV when one of the clips shown was [this video](https://youtu.be/QgAaj3DkA-w?t=43s).
+
+If you are filling a gas can at a gas station and the can doesn't have a direct route to the ground, a spark can result and ignite the gasoline. This has something to do with static electricity, but you'll have to ask someone smarter than me if you want to know exactly how it works.
+
+url:https://reddit.com/r/YouShouldKnow/comments/6bhbcr/
+author:DrywallJackson
+subreddit:YouShouldKnow
+score:4127
+numComments:492
+isOver18:False
+hasPostBody:True

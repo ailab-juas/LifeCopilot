@@ -1,0 +1,13 @@
+title:
+LPT: Having a light on behind your monitor, like a small lamp, greatly reduces eyestrain at night.
+
+content:
+It's great if you don't want to light your entire room. Also very moody and cozy!
+
+url:https://reddit.com/r/LifeProTips/comments/3r39fz/
+author:animalsafari
+subreddit:LifeProTips
+score:5258
+numComments:740
+isOver18:False
+hasPostBody:True

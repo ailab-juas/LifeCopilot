@@ -1,0 +1,13 @@
+title:
+LPT: when you do laundry, shake out your clothes before you put them in the dryer.
+
+content:
+If you've taken the time to turn them to the right side, button it up, and separate the clothes from each other (like when underwear get stuck in your pants) and shake them out, you can significantly reduce wrinkles and drying time.
+
+url:https://reddit.com/r/LifeProTips/comments/3hbsoq/
+author:iswearimachef
+subreddit:LifeProTips
+score:4564
+numComments:853
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+YSK, while trying on clothes in a store, make sure to sit down to confirm fit and comfort
+
+content:
+Why YSK, it's easy to see and feel whether clothes fit while standing... so I used to think when I was younger. But to make sure that clothes fit and are comfortable, make sure to sit down while you are trying them on
+
+url:https://reddit.com/r/YouShouldKnow/comments/pviwo5/
+author:jmcbuzz
+subreddit:YouShouldKnow
+score:7018
+numComments:84
+isOver18:False
+hasPostBody:True

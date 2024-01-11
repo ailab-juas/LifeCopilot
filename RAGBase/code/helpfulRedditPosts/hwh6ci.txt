@@ -1,0 +1,13 @@
+title:
+LPT: Wasps don’t stay in their nests during winter. The queens ditch the nests and the workers starve. So you can remove the nest during winter without fear of angry wasps.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/hwh6ci/
+author:SheWhoBreaksTheChain
+subreddit:LifeProTips
+score:2380
+numComments:185
+isOver18:False
+hasPostBody:False

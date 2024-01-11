@@ -1,0 +1,13 @@
+title:
+LPT: Confirmed with photo proof - order your pizza uncut.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/zh4r0/
+author:jordanrinke
+subreddit:LifeProTips
+score:1074
+numComments:483
+isOver18:False
+hasPostBody:False

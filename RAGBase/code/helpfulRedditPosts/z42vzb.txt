@@ -1,0 +1,19 @@
+title:
+YSK: If you are a California resident, you can access all of Coursera for free
+
+content:
+**Edit:** [direct link to register for CA residents](https://c4b-integration.com/csl); **courtesy of** u/sf_d
+
+**Edit Edit:** Apparently [New York](https://dol.ny.gov/online-learning-coursera) and [Iowa](https://www.iowaworkforcedevelopment.gov/iowaworks-begin-offering-grow-google-training-certificates-no-cost-help-job-seekers-fill-high-demand) offer similar programs as well! Thanks to u/Ravenseye and u/Padankadank for pointing these out :). TLDR - make sure to check out your local / state govt's resources even if you're not in California, you might just be surprised. 
+
+Why YSK: Coursera is a one of the biggest providers of MOOC's (massive open online courses) out there, and has thousands of courses on a wide variety of topics from machine learning to mental health and wellbeing. It can prove invaluable for anyone wanting to switch careers, and while it's not necessarily a free ticket to a job, it comes pretty damn close to getting you one. You can see if your local public library offers this service [on this page](https://library.ca.gov/services/to-public/career-pathways/#map), and follow the directions particular to your local library.
+
+I can't believe that I went this long without knowing this existed; I literally stumbled upon this in the comments section of an unrelated reddit post today lol. Hope this helps someone!
+
+url:https://reddit.com/r/YouShouldKnow/comments/z42vzb/
+author:stuffingmybrain
+subreddit:YouShouldKnow
+score:11093
+numComments:297
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+YSK that "standing on your brakes" after coming to a stop from speed is the top contributing factor to warped brake rotors.
+
+content:
+After coming to a stop from high to moderate speeds (especially after *hard* braking), the metal brake rotors on disc brake systems are very hot and more susceptible to warping via the brake caliper/brake pads.  The force you apply to the brake pedal is translated to pressure in the brake lines and ultimately the amount of squeezing force the brake calipers apply to the brake rotor.  Try to use just enough pedal force to keep the vehicle from moving -- you'll likely extend the lifetime of your brakes significantly.  
+
+Edit: *a top contributing factor.  Thanks to all for additional and more in-depth information!
+
+url:https://reddit.com/r/YouShouldKnow/comments/2kem7i/
+author:highvolkage
+subreddit:YouShouldKnow
+score:1967
+numComments:239
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,17 @@
+title:
+LPT: Write all of your school papers in google docs.
+
+content:
+You can access/print/download from any computer with internet access, everything is backed up, saves happen automatically for you, and it has all of the basic features you need to get it done. 
+
+Plus if it's a group project you can easily collaborate and edit the document together in real time without being in the same room.
+
+Edit: Some good points a being brought up. A better title would have been "Keep some subset of your important documents in some sort of online hosting and/or editing service." Nobody likes a fanboy.
+
+url:https://reddit.com/r/LifeProTips/comments/1d6el6/
+author:MalasNoches
+subreddit:LifeProTips
+score:1623
+numComments:433
+isOver18:False
+hasPostBody:True

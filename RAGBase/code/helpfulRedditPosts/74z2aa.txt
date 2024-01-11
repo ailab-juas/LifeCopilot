@@ -1,0 +1,15 @@
+title:
+YSK That Excel does not automatically check for spelling errors. Before finishing an Excel document, always run the spell checker manually.
+
+content:
+In Excel, there are no red squiggly lines that tell you that you spelled something wrong. I figured this out after submitting an Excel document with an absurd amount of spelling errors. Ensure to run the spell checker manually before finishing an excel document
+
+EDIT: Grammar
+
+url:https://reddit.com/r/YouShouldKnow/comments/74z2aa/
+author:Vicinity613
+subreddit:YouShouldKnow
+score:8630
+numComments:201
+isOver18:False
+hasPostBody:True

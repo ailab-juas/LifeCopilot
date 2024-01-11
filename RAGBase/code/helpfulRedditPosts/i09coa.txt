@@ -1,0 +1,13 @@
+title:
+LPT: If you need a turning table to decorate your cake, try the glass plate in your microwave along with the wheely ring at the bottom.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/i09coa/
+author:eipiminus1
+subreddit:LifeProTips
+score:18699
+numComments:205
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: The first person to treat your teen like an adult will have great influence over them.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/3h2swf/
+author:RedPresident
+subreddit:LifeProTips
+score:6233
+numComments:1154
+isOver18:False
+hasPostBody:False

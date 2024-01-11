@@ -1,0 +1,13 @@
+title:
+Use unscented dental floss to cut cakes, cheeses, and other soft solids perfectly.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/xojg0/
+author:egotrip
+subreddit:LifeProTips
+score:1633
+numComments:116
+isOver18:False
+hasPostBody:False

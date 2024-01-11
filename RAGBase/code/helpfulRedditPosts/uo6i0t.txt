@@ -1,0 +1,13 @@
+title:
+LPT: If you're eating ice cream directly out of a pint-sized container, you can stick the container in an oven mitt and hold the oven mitt. That way, your fingers don't freeze and your body heat doesn't melt the ice cream faster.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/uo6i0t/
+author:[deleted]
+subreddit:LifeProTips
+score:3312
+numComments:205
+isOver18:False
+hasPostBody:True

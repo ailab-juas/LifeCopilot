@@ -1,0 +1,13 @@
+title:
+LPT: If you’re reading this; relax your jaw muscle. It’ll help you relax.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/eyrkiu/
+author:dontsitonthecookies
+subreddit:LifeProTips
+score:29479
+numComments:918
+isOver18:False
+hasPostBody:False

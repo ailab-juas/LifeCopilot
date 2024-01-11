@@ -1,0 +1,13 @@
+title:
+LPT: if you're looking for a job, mention it to everybody that you come in contact with. You never know whose sister's neighbor's uncle is hiring.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/rud0t2/
+author:jacksghjgh
+subreddit:LifeProTips
+score:2408
+numComments:55
+isOver18:False
+hasPostBody:False

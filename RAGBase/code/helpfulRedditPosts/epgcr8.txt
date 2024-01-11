@@ -1,0 +1,29 @@
+title:
+YSK about the Amazon scam known as "Brushing"
+
+content:
+Recently my wife and I began recieving random packages from Amazon with no return address. They were completely useless to us and had no reason to order such as a power strip, watch rewinder, and red reflective tape. Since they were in my wife's name, we thought someone was messing with her and that things might escalate (e.g. stalking). We confirmed with family and friends that nobody sent these and none of the items were in our order history. Amazon wouldn't tell us who sent them due to "security concerns" but that a friend must've sent them. *Spoiler alert:* They were wrong. The clue that gave it all away was an Amazon charge to her credit card that she did not make. Amazon then confirmed a second account in her name was made and that's where these random purchases had come from.
+
+But why would third-party sellers send merchandise to you if you didn’t order it? Or in our case, make an account and use her credit card? They are simply using the address and your Amazon information to make it look like you wrote a great review of their merchandise, and that you are a verified buyer of that merchandise. They then post a fake, positive review to improve their products’ ratings, which means more sales for them.
+
+**Why it’s bad news for you**
+
+1. It means that they have your Amazon account information. Certainly, they have your name and address and possibly, your phone number and a password.
+2. The fake online review angle is only one way they benefit. In some cases they aren’t really purchasing the items since the payment goes right back to them, but in others they may be using your own debt/credit card/pay-pal to pay themselves. Increased sales numbers, even though padded with fake purchases, look good for them.
+
+**What can you do?**
+
+* **Notify Amazon**. Brushing and fake reviews are against Amazon’s policies so contact Customer Service if this happens to you. If they are unwilling to tell you who sent the package(s) to you, they will let you send it back and you will receive credit back to your Amazon account. If the charge is made to your bank account, an investigation will be opened but you will receive a refund.
+* **Monitor your bank account**. Scammers get by with this tactic because most people are too lazy to keep up with charges on their bank account. Seeing a charge made by Amazon, and thinking "That must've been what I ordered" is how they slip by. Always cross reference your digital receipts, credit report and credit card bills.
+* **You are allowed to keep the merchandise.** The Federal Trade Commission says you have a legal right to keep unordered merchandise. But, you can send back the merchandise and get money back for it even if a charge wasn't made to your bank account.
+* **Consider changing your account passwords**. This should always be a go-to when there is a compromise to your personal information.
+
+Hopefully our experience can help others!
+
+url:https://reddit.com/r/YouShouldKnow/comments/epgcr8/
+author:runchkinator
+subreddit:YouShouldKnow
+score:9916
+numComments:320
+isOver18:False
+hasPostBody:True

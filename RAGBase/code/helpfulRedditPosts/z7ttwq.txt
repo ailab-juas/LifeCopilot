@@ -1,0 +1,15 @@
+title:
+LPT: When buying/renting a home with a partner/friend, create a unique email account for that home and forward emails to your individual emails
+
+content:
+When you find yourself buying/renting a new place with another person such as a significant other, create a new email account for that location then have it forwarded to your individual unique email accounts. Use the new email account when setting up your utilities and bills unique to the house.  
+
+This way you can both receive electronic bills, emails, and can easily reset passwords without waiting for the other.  2FA is the only potential speed bump to be concerned with here.
+
+url:https://reddit.com/r/LifeProTips/comments/z7ttwq/
+author:theonlybuster
+subreddit:LifeProTips
+score:1091
+numComments:22
+isOver18:False
+hasPostBody:True

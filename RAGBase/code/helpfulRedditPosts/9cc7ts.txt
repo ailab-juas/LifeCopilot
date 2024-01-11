@@ -1,0 +1,13 @@
+title:
+YSK: For a few select languages, the DeepL website offers near flawless translations
+
+content:
+If you need texts translated between French, English, German, Spanish, Italian, Dutch or Polish, [DeepL.com](https://DeepL.com) offers extremely good translations. It goes beyond simple word by word translations and properly transcribes more complexe expressions and syntaxes than any other translator I've ever used. Highly recommend it.
+
+url:https://reddit.com/r/YouShouldKnow/comments/9cc7ts/
+author:Liteplane
+subreddit:YouShouldKnow
+score:4212
+numComments:147
+isOver18:False
+hasPostBody:True

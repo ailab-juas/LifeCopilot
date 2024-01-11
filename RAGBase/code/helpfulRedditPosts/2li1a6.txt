@@ -1,0 +1,13 @@
+title:
+YSK the anatomy of your vehicle and how it works.
+
+content:
+[This interactive (click on the left to read the descriptions) was very interesting and could come in handy down the road.](https://www.budgetdirect.com.au/how-a-car-works/) 
+
+url:https://reddit.com/r/YouShouldKnow/comments/2li1a6/
+author:[deleted]
+subreddit:YouShouldKnow
+score:1098
+numComments:55
+isOver18:False
+hasPostBody:True

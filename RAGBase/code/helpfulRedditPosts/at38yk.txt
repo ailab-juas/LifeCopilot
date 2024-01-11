@@ -1,0 +1,13 @@
+title:
+LPT: If a company has a chat feature, chat with a representative instead of calling. Then save your chat transcript. That way you have written proof in the even a company tries to screw you over about a service.
+
+content:
+Had to use this against Mediacom to stop them from applying “Tech-Fees” and “One-Time-Charges” to my bill. 
+
+url:https://reddit.com/r/LifeProTips/comments/at38yk/
+author:btrocke
+subreddit:LifeProTips
+score:43965
+numComments:1153
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+How to tell if an egg is fresh
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/10c0ev/
+author:nthensome
+subreddit:LifeProTips
+score:3653
+numComments:212
+isOver18:False
+hasPostBody:False

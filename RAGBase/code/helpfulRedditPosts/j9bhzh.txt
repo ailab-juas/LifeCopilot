@@ -1,0 +1,15 @@
+title:
+LPT: If you sell your Blue-ray player, log out of Netflix first.
+
+content:
+I picked up a used Blu-ray player from my local thrift shop, and the previous family did not do this. I have a Netflix, so I logged them out, but they could've had an unwanted Netflix moocher. Be careful folks.
+
+Edit: Changed blue to blu.
+
+url:https://reddit.com/r/LifeProTips/comments/j9bhzh/
+author:Walking_in_Circles
+subreddit:LifeProTips
+score:4313
+numComments:169
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,22 @@
+title:
+LPT: Wait till July 1st to switch from Google Reader
+
+content:
+The reason is simple. Only yesterday, people have begun to realize what a huge potential market Google reader is and many would start developing alternate readers starting today and many others would tweak their existing ones at a rapid pace.
+
+Bottomline, within the next 3 months there will be massive resources spent on building the best feed reader. By switching now, you will be choosing the feed reader on really old data and capabilities.
+
+In 4 months, You will have plenty of good choices, many of them more polished than the ones currently available.  You can select the one that matches your needs.
+
+
+Also, there is a tiny chance that Google may itself respond to the backlash and put resources back and save Google Reader.
+
+**TL:DR; Don't waste time on researching today's best feed reader. That data will be obsolete in 3 months.**
+
+url:https://reddit.com/r/LifeProTips/comments/1aanp2/
+author:qroshan
+subreddit:LifeProTips
+score:1602
+numComments:187
+isOver18:False
+hasPostBody:True

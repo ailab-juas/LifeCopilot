@@ -1,0 +1,26 @@
+title:
+YSK: You can freely and legally download the entire Wikipedia database
+
+content:
+Why YSK: 
+Imagine a scenario with prolonged internet outages, such as wars or natural disasters. Having access to Wikipedia(knowledge) in such scenarios could be extremely valuable and very useful. 
+
+The full English Wikipedia *without images/media* is only around 20-30GB, so it can even fit on a flash drive. 
+
+Links:
+
+https://en.wikipedia.org/wiki/Wikipedia:Database_download 
+
+or 
+
+https://meta.wikimedia.org/wiki/Data_dump_torrents
+
+Remember to grab an offline-renderer to get correct formatting and clickable links.
+
+url:https://reddit.com/r/YouShouldKnow/comments/whxmhc/
+author:hl3official
+subreddit:YouShouldKnow
+score:14880
+numComments:449
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,17 @@
+title:
+YSK that in 38 U.S. states you can record your conversations without getting approval from the other party.
+
+content:
+It's called *One Party Permission*, meaning that as long as one party to the conversation gives approval for the recording of the conversation, then it's perfectly legal to record without getting approval, or even notifying anyone else involved in the conversation. 
+
+The states that require all parties to consent are: CA, CT, FL, HI, MD, MA, MT, NV, NH, PA and WA.   All other states, including DC are one-party states. 
+
+Source -- http://en.wikipedia.org/wiki/Telephone_recording_laws
+
+url:https://reddit.com/r/YouShouldKnow/comments/2a5d6i/
+author:Mongo1021
+subreddit:YouShouldKnow
+score:1577
+numComments:158
+isOver18:False
+hasPostBody:True

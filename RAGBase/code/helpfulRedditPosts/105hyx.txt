@@ -1,0 +1,15 @@
+title:
+YSK the difference between "e.g." and "i.e."
+
+content:
+["E.g."](http://en.wikipedia.org/wiki/Exempli_gratia#exempli_gratia) is latin for "exempli gratia" which means "for example." ["I.e."](http://en.wikipedia.org/wiki/I.e.#id_est) is latin for "id est" which means "that is."
+
+So, when you're writing a sentence, use the correct one (i.e., the appropriate abbreviation) and you will be rewarded with something awesome (e.g., style points, eternal life).
+
+url:https://reddit.com/r/YouShouldKnow/comments/105hyx/
+author:iwenttocharlenes
+subreddit:YouShouldKnow
+score:1757
+numComments:155
+isOver18:False
+hasPostBody:True

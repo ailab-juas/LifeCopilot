@@ -1,0 +1,13 @@
+title:
+LPT: if you have an Amaxon Alexa device and say "Alexa activate emergency CPR" it will guide you through what you need to do. In stressful situations people panic and being instructed can really help
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/elz4g4/
+author:allthekos
+subreddit:LifeProTips
+score:9918
+numComments:225
+isOver18:False
+hasPostBody:False

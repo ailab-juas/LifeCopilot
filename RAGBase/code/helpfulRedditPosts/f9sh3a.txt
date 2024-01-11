@@ -1,0 +1,15 @@
+title:
+YSK hulu.com is streaming low quality content to your desktop PC. They advertise high quality steaming but it only works on a TV or streaming device. They acknowledged the issue over a year ago with no fix.
+
+content:
+Source: [https://community.hulu.com/s/question/0D51L00006PQiwJSAT/poor-video-quality-on-my-pc-but-not-firestick](https://community.hulu.com/s/question/0D51L00006PQiwJSAT/poor-video-quality-on-my-pc-but-not-firestick)
+
+I thought this important to share because it seems to be getting ignored. Spreading awareness might help get this issue finally fixed. If anything, you should know what you're getting if you sign up for this service with the intent on using it on your computer or web browser.
+
+url:https://reddit.com/r/YouShouldKnow/comments/f9sh3a/
+author:XGhozt
+subreddit:YouShouldKnow
+score:18138
+numComments:493
+isOver18:False
+hasPostBody:True

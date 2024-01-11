@@ -1,0 +1,13 @@
+title:
+LPT If you think someone has forgotten your name, skip the awkwardness and mention it in third person.
+
+content:
+Last night someone I’ve volunteered with on-and-off for 2 years, I’m pretty sure forgot my name, so I worked into conversation said something like *“I have a tendency to leave things till the last minute, and my roommate is like ‘Alybank! Why are you like this?”* I could see the relief on the other persons face when I said it.
+
+url:https://reddit.com/r/LifeProTips/comments/dwuexa/
+author:Alybank
+subreddit:LifeProTips
+score:54464
+numComments:1495
+isOver18:False
+hasPostBody:True

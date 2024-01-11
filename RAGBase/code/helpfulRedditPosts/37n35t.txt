@@ -1,0 +1,13 @@
+title:
+YSK how much food you should store per person in case of emergency situations.
+
+content:
+This is mostly for preppers, but it could be used for any family. [Here are the recommendations for food and water per adult for one year.](http://www.foodstorage.com/prepperfeed/blog/food-storage-pyramid/)
+
+url:https://reddit.com/r/YouShouldKnow/comments/37n35t/
+author:[deleted]
+subreddit:YouShouldKnow
+score:1032
+numComments:132
+isOver18:False
+hasPostBody:True

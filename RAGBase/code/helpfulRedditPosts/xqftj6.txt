@@ -1,0 +1,18 @@
+title:
+YSK: You shouldn't buy a new Bluetooth speaker, once its battery wears off. You most often just need to replace the battery!
+
+content:
+Why YSK: For most speakers you can order a new battery for your model online for about 10-20€/$ and replace the battery in 10-20 minutes and the device will be like new. 
+
+My experience: I bought the JBL charge 3 in 2017 and it started to turn off and make weird fart noises after about 3 years even though it was fully charged. I opened it up and the battery was fully bloated, so I checked for a tutorial on YouTube and ordered a new battery for 16€ and put it in. Voilà! The speaker is just as on the first day, when I bought it. And it really didn't take much. If you have similar problems with yours, check if there's an easy way to replace it online. Mostly, you'll just need a small screwdriver. You will save a lot of money and some of the environment by not throwing away an otherwise  perfectly fine speaker.
+
+This is also true for other devices that have a built in battery.
+Note that the warranty of the device runs out when you open in. Coincidentally (!) though, most of these problems start to appear after the warranty runs out.
+
+url:https://reddit.com/r/YouShouldKnow/comments/xqftj6/
+author:Cyan-Panda
+subreddit:YouShouldKnow
+score:7479
+numComments:285
+isOver18:False
+hasPostBody:True

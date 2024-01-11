@@ -1,0 +1,17 @@
+title:
+YSK How to mute individual tabs in Google Chrome from the tab icon
+
+content:
+What I'm talking about: http://i.imgur.com/uEJzCEx.gifv
+
+On Google Chrome type/copy 'chrome://flags/#enable-tab-audio-muting' into the searchbar. Hit enter, then click enable under where it says "Enable tab audio muting UI control".
+
+Restart Google Chrome and you're done!
+
+url:https://reddit.com/r/YouShouldKnow/comments/4f6ois/
+author:litstu
+subreddit:YouShouldKnow
+score:2078
+numComments:114
+isOver18:False
+hasPostBody:True

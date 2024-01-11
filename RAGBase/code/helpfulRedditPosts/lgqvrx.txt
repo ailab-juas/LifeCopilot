@@ -1,0 +1,13 @@
+title:
+LPT: for fast food workers. If your restaurant has a tray return area on top of the bins, when ever you clear the trays. Leave one empty tray. When people see an example they'll most likely follow it. This reduces the number of customers who leave trash on top of the bins.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/lgqvrx/
+author:TheDarkBob
+subreddit:LifeProTips
+score:32407
+numComments:630
+isOver18:False
+hasPostBody:False

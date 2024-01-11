@@ -1,0 +1,27 @@
+title:
+LPT: When buying new glasses online, find your frame measurements printed on the arm of your current glasses.
+
+content:
+Nearly every pair of prescription glasses obtained in North America has sizing numbers written on the inside of the arms or on the bridge (the part that sits on your nose).
+
+The first two numbers affect overall width. Those two numbers are the Lens Diameter (how wide each lens is across), and the Bridge Width (The space that sits upon your nose). You will also need to know the length of the arms called the Temple Length. Typically this number is in the 100’s with an average range of 125-150 mm.
+
+https://s3.amazonaws.com/helpjuice_production/uploads/upload/image/314/874/Glasses-Fit-Temple-Numbers.jpg
+
+NOTE - This does not include your pupillary distance, which is required when ordering glasses online but not included with your prescription information.
+
+To measure your PD:
+
+* Place a mm ruler up against your eyes, resting it on the bridge of your nose. 
+* Line up the starting point (0 mm) with your left (or right) pupil. This measurement is only accurate if you are looking straight ahead. 
+* Look at yourself in the mirror or have someone else read the ruler. If someone else is reading the ruler they must be at the same height as you. 
+* When the 0 mm mark on the ruler is lined up correctly on the left (or right) pupil the mark that lands in the center of the right (or left) pupil is your distance PD. 
+
+
+url:https://reddit.com/r/LifeProTips/comments/1f7diw/
+author:BadVogonPoet
+subreddit:LifeProTips
+score:1707
+numComments:234
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+My phone fell in coffee and I brought it back from the dead with a new method.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1not9o/
+author:MKG24
+subreddit:LifeProTips
+score:1675
+numComments:594
+isOver18:False
+hasPostBody:False

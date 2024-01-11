@@ -1,0 +1,37 @@
+title:
+LPT: Before throwing away your expensive TV bring it back to life by power cycling it; unplug all cords and hold the power button on the unit for a 10 second count.
+
+content:
+I worked as a cable guy for years and the amount of times I fixed customers TVs by doing this simple trick is staggering. From No audio issues, no signal, to backlit problems this seemed to done the trick and had them back up and running.
+
+Feel free to try it on any other electronics as it has the same effect, laptops, remotes, handhelds etc. Just remember to remove the power source first.
+
+EDIT: Thanks for the love yall! Just to add on to the original post, when I mean try with other electronics... I mean really try it out... Some ideas that some have commented below include dishwashers, laundry machines, phones, speakers. Use this as a first method for troubleshooting, but remember its not a fail safe. 
+
+Also please power down whatever it is your attempting to fix first!
+
+Process:
+
+Power Off - &gt; Remove Power Cord -&gt; Remove Battery(if available) -&gt; Hold Power button -&gt; Test.
+
+Why it works?
+
+When you do this you're basically discharging any stored power inside the units capacitors, this allows the units computer to "forget" the last failed attempt to turn on or run properly, allowing it to reset and run in its intended state. 
+
+What if there's no power button?
+
+Did ya check under? The sides? Behind? Every TV has a button(as im aware), but in the rare occasion it does not...
+
+Power it down and leave it unplugged overnight, it'll provide the same effect.
+
+Phones that I can't remove the battery? 
+
+Hold vol up + vol down + power for 20 seconds
+
+url:https://reddit.com/r/LifeProTips/comments/i55lfg/
+author:SoSwrv
+subreddit:LifeProTips
+score:25128
+numComments:1091
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,36 @@
+title:
+LPT: Use an infrared thermometer to check for drafts around windows, doors, electrical outlets, it doubles as a quick cooking thermometer. They cost under $20.
+
+content:
+EDIT 2: At the top now, since people don't like reading all the pretty words I wrote:
+
+
+EDIT: Yes, you should check meat for an internal temperature prior to eating, should that be it's own LPT?
+
+Got one last year, was surprised at how cheap and effective it is.
+
+Our house is relatively new yet the downstairs gets frigid, my wife mentioned that the windows felt drafty yet they were solidly shut. We used this and found very slight cracks in the chaulking that were letting cold air in. After using it to find all the weak spots and rechaulking along with fixing some door insulation and closing a flue the house is much more comfortable.
+
+Bonus: you can aim it at pans/foods and tell temps within a few degrees (surface only of course).
+
+Double bonus: Aim it at your SO and say you found something hot.
+
+You can get them on Amazon shipped right to you and the batteries last forever, enjoy!
+
+EDIT 3: It's clear from this thread why warning labels and EULAs exist.
+
+No this isn't a 100% perfect item, it's cheap and does a few things and is neat. Don't eat raw/undercooked meat. People are weird, including myself. 
+
+ 
+
+Another poster kindly sent this to explain the (approximate) zone of temperature reading:
+
+I’m way too late to get seen in your thread but I wanted to add the ir scanner makes a cone of scan. Some are 12:1, 16:1 or even 30:1 so the distance from the scanned surface will reveal the average temp of a circle 1/12 diameter the distance to the object. 12 ft away makes a 1 ft circle, 24’ = 2’ circle etc.
+
+url:https://reddit.com/r/LifeProTips/comments/7nnmjy/
+author:shoppedpixels
+subreddit:LifeProTips
+score:40723
+numComments:1926
+isOver18:False
+hasPostBody:True

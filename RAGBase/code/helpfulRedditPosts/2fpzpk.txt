@@ -1,0 +1,15 @@
+title:
+YSK this list of Cognitive Biases and how they affect your beliefs
+
+content:
+Ok, so I was listening to the [Tim Ferriss podcast](http://fourhourworkweek.com/podcast/) and he was interviewing the famous chess and martial arts champion[ Josh Waitzkin](http://www.amazon.com/The-Art-Learning-Journey-Performance/dp/0743277465/ref=sr_1_1?ie=UTF8&amp;qid=1410101565&amp;sr=8-1&amp;keywords=the+art+of+learning). They discussed the importance of knowing our Cognitive Biases, and how they often cause us to stand in the way of our own success.
+
+[Here is a list of Cognitive Biases](http://en.wikipedia.org/wiki/List_of_cognitive_biases)
+
+url:https://reddit.com/r/YouShouldKnow/comments/2fpzpk/
+author:Tim_Finnigan
+subreddit:YouShouldKnow
+score:1482
+numComments:136
+isOver18:False
+hasPostBody:True

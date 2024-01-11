@@ -1,0 +1,17 @@
+title:
+YSK if you're signing up for the Disney+/Hulu/ESPN bundle, you should sign up for the ad-free plan on Hulu first, because if you don't, you will be stuck with the ad-supported plan.
+
+content:
+I found out about it here:
+
+https://thestreamable.com/news/how-to-get-disney-plus-bundle-with-hulu-no-ads-and-hulu-live-tv
+
+I'm really mad because I was under the impression all of the bundles would be ad-free and didn't require any special tricks or jumping through hoops.
+
+url:https://reddit.com/r/YouShouldKnow/comments/dves5t/
+author:yomjoseki
+subreddit:YouShouldKnow
+score:16764
+numComments:684
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,27 @@
+title:
+YSK: The FCC just approved a $50 a month subsidy for low-income households to get high-speed internet, plus a $100 discount on a computer.
+
+content:
+Why YSK: This is great for those struggling to pay for internet. Hopefully this subsidy will help reduce the number of people having to choose between paying for groceries and internet access. 
+
+Here’s who qualifies:
+
+To be eligible, at least one member of the household must meet one of the following criteria:
+
+- Qualify for the FCC's Lifeline program, including those that are on Medicaid or accept SNAP benefits.
+- Receive benefits under the free and reduced-price school lunch or breakfast program.
+- Have lost jobs and seen their income reduced in the last year.
+- Have received a Federal Pell Grant.
+- Meet the eligibility criteria for a participating broadband providers' existing low-income program.
+
+Here’s an article with more information:
+
+https://www.businessinsider.com/personal-finance/how-to-claim-federal-broadband-subsidy-high-speed-internet-grant-2021-2
+
+url:https://reddit.com/r/YouShouldKnow/comments/lwv8ip/
+author:struggling_dude110
+subreddit:YouShouldKnow
+score:56251
+numComments:3741
+isOver18:False
+hasPostBody:True

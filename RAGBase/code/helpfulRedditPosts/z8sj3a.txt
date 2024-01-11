@@ -1,0 +1,13 @@
+title:
+LPT: If you have Tiktok - Delete Random &amp; Old Numbers from your Contact List.
+
+content:
+The App informs other users of those phone numbers that (A) you still have their phone number saved and (B) identifying your account to them.
+
+url:https://reddit.com/r/LifeProTips/comments/z8sj3a/
+author:guiballmaster
+subreddit:LifeProTips
+score:6218
+numComments:513
+isOver18:False
+hasPostBody:True

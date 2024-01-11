@@ -1,0 +1,13 @@
+title:
+LPT: When your partner asks you a question and you are happy with either option, say "I don't mind" rather than "I don't care".
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1cxqt4/
+author:[deleted]
+subreddit:LifeProTips
+score:1948
+numComments:379
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,15 @@
+title:
+LPT: If you're the go to "tech support" for non-technical family members, take photos of all remote controls/appliance control panels
+
+content:
+Did this a few years ago for my grandparents, absolute life saver, take photos of everything they could possibly ask a question about - TV remotes, heating controllers, microwave oven/washing machine control panels.  That way when you get the inevitable phone call it ends up being much easier seeing exactly what they have in front of them instead of having to play a game of 21 questions - "Do you see a button labelled something like source or input or maybe a box with an arrow pointing to it?" "I pressed it, it's turned off now" "That was the power button" "You said press the box with an arrow" "Yes, but you pressed the one with a circle and a line"
+
+As an example I got a panicked call from my Granny along the lines of "[Grandad] was using the TV and did something now it's all snowy" - I knew immediately that he'd somehow managed to switch it to the analogue tuner input (which was never tuned in) so it was incredibly useful being able to look up a picture of the remote, see a button labelled "TV" that looked like it would switch the input back and tell her exactly what to press.
+
+url:https://reddit.com/r/LifeProTips/comments/7yaqal/
+author:camerongray
+subreddit:LifeProTips
+score:4990
+numComments:220
+isOver18:False
+hasPostBody:True

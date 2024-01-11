@@ -1,0 +1,13 @@
+title:
+YSK that checks deposited with a mobile app can be re-deposited by someone else if they find them. You are held responsible if that happens. The actual checks take precedent over the photos of them taken by your phone via the app.
+
+content:
+It happened to me. Make sure you write "void" with a permanent marker across the front after you make your deposit.  Bank of America allowed someone to deposit my checks after I had deposited them.  They took the money from my account and will not give it back.  The checks were stolen out of my vehicle.
+
+url:https://reddit.com/r/YouShouldKnow/comments/5pro4a/
+author:thefutureeye
+subreddit:YouShouldKnow
+score:4241
+numComments:383
+isOver18:False
+hasPostBody:True

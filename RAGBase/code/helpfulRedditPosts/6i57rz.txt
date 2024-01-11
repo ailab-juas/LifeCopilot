@@ -1,0 +1,13 @@
+title:
+LPT: Mute your phone when on hold to a call center, you are likely being recorded the entire time.
+
+content:
+Call centers often retain the entire audio log when you dial, so assume anything you say can be used against you should you get into a legal dispute. To save on headaches later, just mute your phone. Hoping this isn't a repost - if I'm regurgitating a previous LPT my bad.
+
+url:https://reddit.com/r/LifeProTips/comments/6i57rz/
+author:anonprogtada
+subreddit:LifeProTips
+score:6640
+numComments:395
+isOver18:False
+hasPostBody:True

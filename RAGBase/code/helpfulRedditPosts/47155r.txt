@@ -1,0 +1,57 @@
+title:
+LPT: When convoying with other cars, the lead car should turn the blinker on first, followed by the 2nd, 3rd ect cars. Then the last car makes the lane change, and creates room in front for the next car to make their change. This prevents breaking the line up.
+
+content:
+Sorry if that's a bad explanation, I mean something like this.
+
+We have our convoy;
+
+\|
+
+\|
+
+\|
+
+First car turns his blinker on, then the 2nd, then the last;
+
+\|,
+
+\|,
+
+\|,
+
+Then the last car moves the lane over;
+
+\|,__
+
+\|,__
+
+__\|
+
+Then the second to last car;
+
+\|,__
+
+__\|
+
+__\|
+
+Then the lead car;
+
+__\|
+
+__\|
+
+__\|
+
+The last car can keep pace with the convoy from a lane over, creating room for the 2nd to last car to switch lanes, and preventing the convoy leader from going somewhere the rest can't follow, or from having to wait till there is a big enough opening for the whole convoy.
+
+Hope this helps some summer trips go more smoothly.
+
+url:https://reddit.com/r/LifeProTips/comments/47155r/
+author:mwerte
+subreddit:LifeProTips
+score:4601
+numComments:1022
+isOver18:False
+hasPostBody:True

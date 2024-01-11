@@ -1,0 +1,13 @@
+title:
+YSK taking pictures of the interior of your home can help you in a home owners insurance claim.
+
+content:
+For example, if your belongings get stolen, or get destroyed in a fire or natural disaster you will have evidence that the list of items in your claim is accurate.
+
+url:https://reddit.com/r/YouShouldKnow/comments/22201o/
+author:Genocyclone
+subreddit:YouShouldKnow
+score:1008
+numComments:86
+isOver18:False
+hasPostBody:True

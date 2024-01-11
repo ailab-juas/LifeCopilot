@@ -1,0 +1,19 @@
+title:
+LPT: How to put on a really tight extension spring....
+
+content:
+Recently, I had to change a beefy extension spring on my snowblower.  The old one was worn out and came off pretty easily.  The new one was stiff and I had a impossible time stretching it out to hook it around its holder.  It was in a tight space and I had next to zero leverage without pulling the entire blower apart.  I looked for a tool for the job (opposite of a spring compressor), but none was to be found.  It was 0 degree Fahrenheit so I wanted to be in and out with this job.
+
+I looked online and many motorcycle forums have a trick where people stretch the spring with a vice or other method and shove pennies in between the coils.  Mine was a little larger, so I pulled it apart while my wife shoved quarters in there (&lt;- there is a joke in there somewhere)
+
+Low and behold-- this was the best tip I had found online.  I thought I would share.  You can also use this tip to get a spring off.  While open on your car/motorcycle/bike etc, you can shove pennies in there and it will be easier to come off.
+
+http://i890.photobucket.com/albums/ac107/edhaeuser/CB750/_DSC3810a_zps763a1b55.jpg
+
+url:https://reddit.com/r/LifeProTips/comments/2wb0tn/
+author:wpiman
+subreddit:LifeProTips
+score:2227
+numComments:200
+isOver18:False
+hasPostBody:True

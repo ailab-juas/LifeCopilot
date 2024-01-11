@@ -1,0 +1,13 @@
+title:
+LPT: when you want to buy something but don’t actually need it, put it off until your next pay check. The wait will teach you how much you want it, and help you avoid overspending.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/cflsz4/
+author:JJBrazman
+subreddit:LifeProTips
+score:20418
+numComments:399
+isOver18:False
+hasPostBody:False

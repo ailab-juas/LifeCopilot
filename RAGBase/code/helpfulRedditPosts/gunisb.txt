@@ -1,0 +1,13 @@
+title:
+LPT: If you get bitten by a bug and it turns red, draw a circle around the edge of the redness. That way, you can see if the infection is getting bigger or if it’s staying the same.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/gunisb/
+author:[deleted]
+subreddit:LifeProTips
+score:15299
+numComments:232
+isOver18:False
+hasPostBody:True

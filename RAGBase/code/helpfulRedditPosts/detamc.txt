@@ -1,0 +1,56 @@
+title:
+YSK how to make sense of cold medicines.
+
+content:
+It’s getting to be that time of year again, when you get all sniffly and snotty and have to lug yourself over to the drugstore to try to find something to make you less miserable, only to be faced with something like [this.](https://imgur.com/MDcXoXc)   
+I once spent half an hour on the phone with someone trying to explain to them which medicines they should pick up based on their symptoms, so I figured this was something that could be useful to a fair number of people.
+
+Here’s the main takeaway: cold medicines are branded in a ton of different ways, and usually contain multiple active ingredients that fall into just a few distinct categories. Disregard all the marketing stuff and pay attention to what’s actually in it, then correlate those to your symptoms. I tried to give plenty of detail but there's a TL;DR at the bottom!
+
+**Decongestants** [(obligatory citation)](https://www.webmd.com/allergies/decongestants)  
+Use these if you have sinus pressure or stuffiness. They constrict the blood vessels in your nasal passages to reduce the swelling. As such, they should NOT be used by people who have high blood pressure – these people should look for brands with “HBP” at the end, as these are decongestant-free. They are also pretty activating, so can cause sleep problems if you take them at night.  
+Names:  
+Phenylephrine – these are the ones with “PE” at the end of the name, which have now taken over after pseudoephedrine (see below) became behind-the-counter only in most states.  
+Pseudoephedrine – if you find that this works better (I do), you can ask for it behind the counter, just don't use it to make meth.
+
+**Antihistamines** [(obligatory citation)](https://www.webmd.com/allergies/antihistamines-for-allergies)  
+These drugs simply block histamines – the substances that give you a runny, sniffly nose, sneezing, and itchy, watery eyes. All will make you drowsy, so are not ideal during the day but great at night. The presence of antihistamines is actually the main difference between “daytime” and “nighttime” formulas of cold medicines.  
+Names:  
+Diphenhydramine  
+Doxylamine  
+Chlorpheniramine  
+Cetirizine  
+Loratadine
+
+**Mucolytic/expectorant** [(obligatory citation)](https://www.rxlist.com/consumer_guaifenesin_mucinex/drugs-condition.htm)  
+This drug loosens mucus, helping you cough up the junk that feels like it’s stuck in your chest.  
+Name: Guaifenesin
+
+**Cough suppressants** [(obligatory citation)](https://www.drugs.com/drug-class/antitussives.html)  
+These also help with cough, but at the level of the brain, by actually suppressing your cough reflex. This is also the main category for which prescription medicines also exist, if you find that the over-the-counter ones aren’t doing enough. But keep in mind that if you're coughing up a lot of junk, suppressing your cough will just keep all the junk in there, so try to only use these when your cough is really bothersome, like at night.  
+Names:  
+Dextromethorphan (look for “DM” at the end of the name)  
+Codeine (prescription-only)  
+Benzonatate (prescription-only)
+
+**Pain/fever relievers** [(obligatory citation)](https://www.webmd.com/pain-management/guide/pain-relievers)  
+Help with that generalized achy, crappy feeling of having a cold, as well as reduce fever and target specific pain (e.g. sore throat, sinus headache). One of these is found in a ton of combination cold medicines, but a lot of people already have these at home, so make sure you’re not unintentionally doubling up.  
+Names:  
+Acetaminophen/paracetamol   
+Ibuprofen (should not be used by people with kidney issues or GI bleeds)  
+Naproxen (same warnings as above) 
+
+
+**TL;DR  
+Sinus pressure and stuffiness: phenylephrine (“PE”), pseudoephedrine (behind pharmacy counters only)  
+Sneezing and sniffling: diphenhydramine, doxylamine, cetirizine, chlorpheniramine (all will make you drowsy)  
+Cough: guaifenesin (loosens mucus), dextromethorphan (“DM,” suppresses cough reflex)  
+Aches and fevers: ibuprofen, acetaminophen, naproxen**
+
+url:https://reddit.com/r/YouShouldKnow/comments/detamc/
+author:flamants
+subreddit:YouShouldKnow
+score:7071
+numComments:311
+isOver18:False
+hasPostBody:True

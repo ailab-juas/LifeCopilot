@@ -1,0 +1,24 @@
+title:
+YSK: Airbnb charges a 3% Currency Conversion Fee
+
+content:
+I'm hoping Reddit can help point out something I'm missing here, or at the very least that I can point out a practice some folks may not know.
+
+When travelling overseas and using Airbnb for stay, the host will charge in their local currency - let's say in Switzerland, it would be in Francs.
+
+For those of you with "no foreign transaction fee" credit cards in the US or elsewhere, you would prefer to pay in the local currency and let Visa/Mastercard do the conversion for you at market rates. However, **Airbnb will force you to pay in USD and charge you a 3% currency conversion fee**.
+
+This appears to be against the rules of [Mastercard](http://www.mastercard.com/elearning/dcc/docs/DCC%20Guide%2020.02.17%20EN.pdf) and [Visa](https://usa.visa.com/dam/VCOM/download/merchants/visa-acceptance-guide-for-lodging-and-cruise-line-merchants-vbs-%2001.MAR.16.pdf).
+
+&gt; The cardholder must be offered a choice to accept or decline DCC and must actively choose the DCC
+option prior to the merchant processing the transaction. 
+
+Is this legal?
+
+url:https://reddit.com/r/YouShouldKnow/comments/63l868/
+author:ComfortablyNumber
+subreddit:YouShouldKnow
+score:2787
+numComments:150
+isOver18:False
+hasPostBody:True

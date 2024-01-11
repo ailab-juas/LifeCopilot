@@ -1,0 +1,15 @@
+title:
+LPT: For those of you who are interviewing on Zoom, these tips helped me get three job offers.
+
+content:
+- Raise your camera to eye level or slightly higher. I prop my laptop up on a couple books. This keeps your gaze from pointing down. Eye contact is important, even on a video conference.
+- Create a brief doc outlining key points you want them to know about you (including a "tell me about yourself" intro) and several questions you have for them.
+- Open the doc on your computer, and launch Zoom in a small window at the top center of your screen above this doc. Doing this keeps your eyes focused on the top of the screen while they are talking, making you appear more engaged than if you were looking, say, at the bottom left corner at the person talking. And having your notes just below just in case helps to calm nerves and keeps your thoughts clear.
+
+url:https://reddit.com/r/LifeProTips/comments/qw5ubt/
+author:pflugster
+subreddit:LifeProTips
+score:3197
+numComments:125
+isOver18:False
+hasPostBody:True

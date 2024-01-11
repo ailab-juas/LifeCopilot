@@ -1,0 +1,13 @@
+title:
+LPT: Learn some basic information about your car, (engine type, model, year) and relay it confidently when getting maintenance. It will significantly reduce the amount of stuff they try to sell you on.
+
+content:
+I learned this from years of getting maintenance/repairs done at various locations. You almost always get asked the engine type, or year of your vehicle. If you memorize some basic information about your car, and respond quickly and confidently, it comes across that you know a lot about cars, and they won't try to rip you off with things you don't need. 
+
+url:https://reddit.com/r/LifeProTips/comments/6ddnut/
+author:bhemblem
+subreddit:LifeProTips
+score:16556
+numComments:2112
+isOver18:False
+hasPostBody:True

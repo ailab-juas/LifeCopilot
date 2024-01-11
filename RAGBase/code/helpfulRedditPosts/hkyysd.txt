@@ -1,0 +1,13 @@
+title:
+YSK if you are ever training someone on something new, you should teach them how to fix a mistake at every step of the process.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/YouShouldKnow/comments/hkyysd/
+author:[deleted]
+subreddit:YouShouldKnow
+score:36004
+numComments:431
+isOver18:False
+hasPostBody:True

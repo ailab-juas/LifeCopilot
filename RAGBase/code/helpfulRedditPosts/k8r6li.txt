@@ -1,0 +1,20 @@
+title:
+LPT delete your social media apps from your phone. Use the web version instead
+
+content:
+Social media is fun and a great tool for many things, although it can consume huge chunks of your time.   
+
+The apps are designed to keep you on them for as long as possible.  
+Don’t try to compete with it, because you will eventually lose.   
+
+Just delete the app, and use the web version on your phone which is much less optimized. 
+
+Also huge privacy improvement!
+
+url:https://reddit.com/r/LifeProTips/comments/k8r6li/
+author:KvotheOfTheHill
+subreddit:LifeProTips
+score:1143
+numComments:97
+isOver18:False
+hasPostBody:True

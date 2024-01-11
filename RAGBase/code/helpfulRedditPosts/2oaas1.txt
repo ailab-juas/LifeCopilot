@@ -1,0 +1,17 @@
+title:
+YSK: If you book a flight using the "skiplagged" method, and your flight is cancelled (2.5% are), then you may be rerouted to your ticket's "final destination" without ever passing through your "desired destination".
+
+content:
+There is a popular AMA from skiplagged right now, so I thought people should be informed of this potential risk.
+
+**Skip this paragraph if you're familiar with the skiplagged concept** For those unfamiliar with skiplagged, they help find lower fares on plane tickets. They do it by searching flights with connections. Due to a variety of reasons, a plane ticket from Point A to Point B is sometimes *more expensive* than a ticket from Point A to Point B to Point C. (i.e. has a layover in B). skiplagged is a site that helps you find these cheaper A to C tickets. You book the ticket from A to C and just get off the plane at point B.
+
+The thing people who don't travel often may not think of is this: flights get cancelled. According to [this link](http://www.transtats.bts.gov/homedrillchart.asp) 2.5% of flights have been cancelled in 2014. When this occurs, Airlines are not obligated to get you to your final destination using the same routing as your original ticket. Just because your ticket says A to B to C does not mean they must take you through B. They are only required to fly you from A to C. In fact *"they"* aren't even required to fly you from A to C, they can stick you on a different airline entirely. When this happens, it is very improbable that you will end up in the city that you wanted to travel to.
+
+url:https://reddit.com/r/YouShouldKnow/comments/2oaas1/
+author:badgolfer503
+subreddit:YouShouldKnow
+score:2174
+numComments:228
+isOver18:False
+hasPostBody:True

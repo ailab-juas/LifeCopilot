@@ -1,0 +1,28 @@
+title:
+LPT: Annoyed by video content that plays automatically when you open a webpage? You can stop this from happening in about 30 seconds!
+
+content:
+In Chrome:
+
+1. **Go to Settings** from the button in the upper right corner
+2. At the bottom, click **Show advanced settings**
+3. **Click Content settings**
+4. Under **Plugins**, select **Let me choose when to run plugin content**
+5. **Browse without being deafened** by videos you didn't ask for!
+
+Edit: Instructions for Firefox and IE can also be found here: http://www.pcworld.com/article/2858421/internet/how-to-stop-autoplay-videos.html
+
+Edit2: Since this is still getting views, I'll just point you to some helpful comments:
+
+* u/district_ten has [better instructions for firefox](https://www.reddit.com/r/LifeProTips/comments/57auji/lpt_annoyed_by_video_content_that_plays/d8r0vjf)
+* u/k-del and u/azureice recommend a plugin called [Disable HTML5 Autoplay](https://chrome.google.com/webstore/detail/disable-html5-autoplay/efdhoaajjjgckpbkoglidkeendpkolai) for some videos this LPT doesn't cover
+* u/happycj has [instructions for Mac Chrome users](https://www.reddit.com/r/LifeProTips/comments/57auji/lpt_annoyed_by_video_content_that_plays/d8qzpm2)
+* u/MizarsAsterism and others like the NoScript Firefox extension to select which sites are allowed to run scripts
+
+url:https://reddit.com/r/LifeProTips/comments/57auji/
+author:UncrunchyTaco
+subreddit:LifeProTips
+score:5505
+numComments:384
+isOver18:False
+hasPostBody:True

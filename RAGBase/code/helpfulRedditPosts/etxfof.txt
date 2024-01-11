@@ -1,0 +1,13 @@
+title:
+LPT: Check in on your friends every so often, even the happy ones.
+
+content:
+A lot of people struggling with depression and other mental illness, these people often hide it from others and a simple “hello” or “hey, how’s it going” can mean a lot to someone. It takes a couple minutes of your time and it could save someone’s life.
+
+url:https://reddit.com/r/LifeProTips/comments/etxfof/
+author:crumball15
+subreddit:LifeProTips
+score:1218
+numComments:48
+isOver18:False
+hasPostBody:True

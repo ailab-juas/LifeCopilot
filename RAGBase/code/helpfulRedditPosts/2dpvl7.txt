@@ -1,0 +1,15 @@
+title:
+LPT: Avoid pets and children from opening off-limit doors by turning the handle upside down, resulting in a pull up instead of push down.
+
+content:
+Lots of people seem to think this is impossible, it isn't and has worked for lots of people. The idea is to not have to install a lock as it is only generally a tempory measure, for example while the kids are too young to be taught to leave their room at night. 
+Oh and here in the UK/Europe we primarily use handles not knobs, and in my experience ones that only open when pushed down - this may have changed in recent years but not to my knowledge. 
+When it is done the handle does not stick out irregularly towards the door frame, it lies it the same direction, simply upside down. 
+
+url:https://reddit.com/r/LifeProTips/comments/2dpvl7/
+author:scott94
+subreddit:LifeProTips
+score:1821
+numComments:435
+isOver18:False
+hasPostBody:True

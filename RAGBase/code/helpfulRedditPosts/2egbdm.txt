@@ -1,0 +1,15 @@
+title:
+YSK: If you do the ALS Ice Bucket challenge, you're still supposed to donate money!
+
+content:
+Everyone is doing it for Facebook likes, that's not the point.  It's $20 if you do it, and $100 if you decline.
+
+EDIT: $10 donation if you do it.
+
+url:https://reddit.com/r/YouShouldKnow/comments/2egbdm/
+author:[deleted]
+subreddit:YouShouldKnow
+score:2324
+numComments:612
+isOver18:False
+hasPostBody:True

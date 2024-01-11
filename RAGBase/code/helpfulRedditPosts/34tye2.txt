@@ -1,0 +1,13 @@
+title:
+LPT: When someone asks you to help them move... Say, "I can help you move boxes and large items as long as you are packed and ready to go when I arrive."
+
+content:
+There's nothing worse than arriving and finding nothing has been packed and it's all dirty and gross. That's when you say, "You're not ready. Call or text me when everything is packed and ready to go. Hopefully by then I'm still available to help."
+
+url:https://reddit.com/r/LifeProTips/comments/34tye2/
+author:rob5i
+subreddit:LifeProTips
+score:3145
+numComments:1523
+isOver18:False
+hasPostBody:True

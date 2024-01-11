@@ -1,0 +1,13 @@
+title:
+LPT: Always read the comments of any tips you see on this subreddit before doing them. There are often important corrections.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/g36p2l/
+author:PlatformerKing
+subreddit:LifeProTips
+score:2033
+numComments:48
+isOver18:False
+hasPostBody:False

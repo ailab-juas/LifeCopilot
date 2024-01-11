@@ -1,0 +1,13 @@
+title:
+LPT: If you have a cat that constantly focuses on one spot in the house get it checked out
+
+content:
+Cats can hear things that humans can't. If you notice a cat focusing on one spot get that spot checked out. It could be mice, rats, roaches, termites or even problems with the electrical wiring in the wall. It may prevent a fire or alert you to other hazards that are present.
+
+url:https://reddit.com/r/LifeProTips/comments/vnswui/
+author:SuperVancouverBC
+subreddit:LifeProTips
+score:29518
+numComments:1544
+isOver18:False
+hasPostBody:True

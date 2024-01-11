@@ -1,0 +1,13 @@
+title:
+ProTip- Carrying things make you look busy.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ytxt4/
+author:mexus37
+subreddit:LifeProTips
+score:1234
+numComments:114
+isOver18:False
+hasPostBody:False

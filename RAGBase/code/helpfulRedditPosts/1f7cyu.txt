@@ -1,0 +1,13 @@
+title:
+YSK how sequestration cuts are impacting the National Parks. Already they have forced Yellowstone to cut $1.75 million from its budget and had to open 2 weeks late this year, costing them 50,000 visitors. Ellis Island and the Museum is unlikely to open at all.
+
+content:
+More information about what all is impacted: http://www.nationalparkreservations.com/supportourparks/
+
+url:https://reddit.com/r/YouShouldKnow/comments/1f7cyu/
+author:readcommentbackwards
+subreddit:YouShouldKnow
+score:1073
+numComments:132
+isOver18:False
+hasPostBody:True

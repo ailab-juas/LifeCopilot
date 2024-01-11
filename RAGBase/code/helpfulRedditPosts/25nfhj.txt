@@ -1,0 +1,13 @@
+title:
+YSK that Google Now can notify you where you parked your vehicle.
+
+content:
+I didn't realize this until I got a card notifying me where my car was. The url here is from the "learn more" from the card. https://support.google.com/websearch/answer/6015842?hl=en&amp;p=ws_now_find_car&amp;version=300304160&amp;rd=1
+
+url:https://reddit.com/r/YouShouldKnow/comments/25nfhj/
+author:itreignsfyre
+subreddit:YouShouldKnow
+score:1232
+numComments:236
+isOver18:False
+hasPostBody:True

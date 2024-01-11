@@ -1,0 +1,13 @@
+title:
+YSK: If you use TurboTax and select 'Pay with refund option', they will discretely add an addition $29.99 fee.
+
+content:
+I helped a friend finish his taxes. He was using turbo tax. The Federal return was free but the state return came to $27.99.  He wanted to pay the $27.99 fee with his refund, so I selected the option. When I was reading the agreement form I noticed the total fee added to $57.98.  Thinking I made a mistake I went back and tried to figure It out. Turns out if you select the 'Pay with your refund' option, you have to purchase their service. So watch out!
+
+url:https://reddit.com/r/YouShouldKnow/comments/2z8zid/
+author:Knowwhat
+subreddit:YouShouldKnow
+score:2548
+numComments:146
+isOver18:False
+hasPostBody:True

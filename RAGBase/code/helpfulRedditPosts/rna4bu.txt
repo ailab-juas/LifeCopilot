@@ -1,0 +1,15 @@
+title:
+LPT: If you live in a cold apartment buy a heated blanket not a space heater. It will save you so much energy!
+
+content:
+I was recently introduced to a heated blanket as a gift and I realized that it is only around 80 w and can get me uncomfortably warm at full power. Just some quick napkin math here but let's say you use this blanket for 6 hours a day when you're not at work, even at full power it would only cost $0.07 a day, assuming you were paying around 15 cents per kilowatt hour. Compare that to a 1200 watt space heater running a 70% duty cycle which would cost $0.76 a day. Now granted an extra $20 a month isn't insane savings but it can get you a Spotify and Netflix subscription.
+
+It also gives you a good excuse to cuddle up with your partner / wife's boyfriend.
+
+url:https://reddit.com/r/LifeProTips/comments/rna4bu/
+author:Too_Much_Gnar
+subreddit:LifeProTips
+score:9655
+numComments:397
+isOver18:False
+hasPostBody:True

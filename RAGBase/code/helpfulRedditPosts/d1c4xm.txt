@@ -1,0 +1,17 @@
+title:
+YSK: Ingredients on a food label are listed in order of quantity from high to low.
+
+content:
+This is helpful when you are looking for an item with a high or low concentration of a particular ingredient in products that have multiple ingredients, like cereal, juice, sauce, pesto, salsa, soup, protein powder, and even pet food.
+
+It's also helpful for gauging the concentration of an active ingredient in non-food items like skin care products, tooth paste, deodorant, and soap.
+
+Note - the first ingredient listed isn't necessarily the majority ingredient, its the highest ranking in terms of quantity.
+
+url:https://reddit.com/r/YouShouldKnow/comments/d1c4xm/
+author:rustyfinch
+subreddit:YouShouldKnow
+score:4263
+numComments:128
+isOver18:False
+hasPostBody:True

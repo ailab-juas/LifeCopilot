@@ -1,0 +1,21 @@
+title:
+LPT: If you are going to a concert, fair, festival, or other event that uses electronic tickets, open your ticket and take a screenshot of it before you leave the house.
+
+content:
+Crowded areas often have significant mobile data congestion which can make it extremely slow to load an e-ticket from an email link or app.  Take a screenshot before you leave the house, pull it up when you are 2-3 people back in line from the entrance.  A quick beep and you're good to go.
+
+## Time constrained tickets
+
+**edit** Certain ticket types are "live" and screenshots don't work.  For those, you can often add them to Apple / Google wallet on your phone.  See comments where folks have done this.
+
+## Get bright
+
+Other commenters have noted it's much easier to get scanned if you turn your phone brightness up before you get to the gate.
+
+url:https://reddit.com/r/LifeProTips/comments/wf7msv/
+author:wanderingbilby
+subreddit:LifeProTips
+score:19377
+numComments:483
+isOver18:False
+hasPostBody:True

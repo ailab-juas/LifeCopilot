@@ -1,0 +1,41 @@
+title:
+LPT: To have longer conversations, say "Tell me about your day" instead of asking "How was your day?"
+
+content:
+It helps to have a longer conversation instead of getting a simple "It's been fine" response resulting (almost always) in awkward silences.
+
+Another tip that can help you have longer conversations is to be interested in the other person's answers, and keep asking questions about them. 
+
+Example of a short conversation:
+
+"What is your job?"  
+"I'm a student"  
+"Nice, I am a builder"  
+"Great."
+
+(Awkward silence)
+
+  
+Example of long conversation:  
+"What do you do for a living?"  
+"I'm a student."  
+"Oh, what are you studying?"  
+"Psychology."  
+"And how is it? Difficult?"  
+"No, maybe a little stressful because of the exams, but I like it."  
+"That's good. When do you graduate?"  
+"This year."  
+"Great, you're going to make it."  
+"Thanks!"  
+"So, will you open your own practice or will you work for someone?"  
+
+
+ (Conversation continues)
+
+url:https://reddit.com/r/LifeProTips/comments/n69zf9/
+author:BETOSCORPION92
+subreddit:LifeProTips
+score:9332
+numComments:241
+isOver18:False
+hasPostBody:True

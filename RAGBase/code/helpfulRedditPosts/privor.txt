@@ -1,0 +1,13 @@
+title:
+LPT: If you’re thinking about going on a road trip or vacation with someone, first try to imagine what it would be like to be locked in a small room with that person 24 hours a day for a week (or weeks) straight. Because that’s what it will be like.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/privor/
+author:mynewnameonhere
+subreddit:LifeProTips
+score:24889
+numComments:670
+isOver18:False
+hasPostBody:False

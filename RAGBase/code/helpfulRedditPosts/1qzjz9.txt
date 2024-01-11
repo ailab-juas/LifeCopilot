@@ -1,0 +1,15 @@
+title:
+YSK There is a Chrome extension that delays playing gifs until fully loaded - and that it works with RES and Hoverzoom.
+
+content:
+It's called [Gif Delayer](https://chrome.google.com/webstore/detail/gif-delayer/cmfcdkambpljcndgdmaccaagladfnepa)
+
+And yes, I made it.  Feel free to give me any feedback or bugs :D
+
+url:https://reddit.com/r/YouShouldKnow/comments/1qzjz9/
+author:octatone
+subreddit:YouShouldKnow
+score:2338
+numComments:284
+isOver18:False
+hasPostBody:True

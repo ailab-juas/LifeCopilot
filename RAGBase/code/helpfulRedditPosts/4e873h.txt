@@ -1,0 +1,13 @@
+title:
+LPT: you can use + in an @gmail.com account to set up an unlimited amount of accounts. Google recognizes them as the same
+
+content:
+For example, if your email address is mytestaccount@gmail.com you can sign up for other services with mytestaccount+hulu@gmail.com mytestaccount+netflix@gmail.com etc and they will all forward to mytestaccount@gmail.com.  Set a filter and enjoy!
+
+url:https://reddit.com/r/LifeProTips/comments/4e873h/
+author:prestonjohnlewis
+subreddit:LifeProTips
+score:4167
+numComments:581
+isOver18:False
+hasPostBody:True

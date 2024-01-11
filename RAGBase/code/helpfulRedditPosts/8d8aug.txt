@@ -1,0 +1,17 @@
+title:
+YSK: Everyone over 50 should get the new Shingrix shingles vaccination (even if you've had Zostavax or shingles)
+
+content:
+There is a fairly new vaccination for shingles called Shingrix available, which is more effective than the old Zostavax.  The CDC recommends that everyone over 50 get the two-shot sequence of Shingrix.  My health insurance covered the cost 100% with no co-pay; I think most if not all will.
+
+Shingles is a *very* painful infection of the nerves caused by the same virus that causes chickenpox.  It hits older people, starting at age 50 or 60 or so.  The old Zostavax apparently wasn't so great; this new one is more effective.
+
+The CDC recommendations can be found [here](https://www.cdc.gov/vaccines/vpd/shingles/public/shingrix/index.html)
+
+url:https://reddit.com/r/YouShouldKnow/comments/8d8aug/
+author:tgeliot
+subreddit:YouShouldKnow
+score:3066
+numComments:358
+isOver18:False
+hasPostBody:True

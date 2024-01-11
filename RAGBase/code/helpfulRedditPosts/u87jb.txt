@@ -1,0 +1,13 @@
+title:
+People always tell me how good of an idea this was, so I thought I'd share. Never lose your remotes again!
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/u87jb/
+author:actusual
+subreddit:LifeProTips
+score:1697
+numComments:219
+isOver18:False
+hasPostBody:False

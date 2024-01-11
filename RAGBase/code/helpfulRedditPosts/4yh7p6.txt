@@ -1,0 +1,13 @@
+title:
+LPT: Never eat until you are full, eat until you are no longer hungry.
+
+content:
+Helped me maintain weight for wrestling through my high school and college years. Eating until you're full is usually eating too much.
+
+url:https://reddit.com/r/LifeProTips/comments/4yh7p6/
+author:DefoeForPresident
+subreddit:LifeProTips
+score:1397
+numComments:314
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: The tag on sheets indicates it is to be placed at the bottom-right corner of the bed.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/2uxlxc/
+author:TheShooter93
+subreddit:LifeProTips
+score:1927
+numComments:276
+isOver18:False
+hasPostBody:False

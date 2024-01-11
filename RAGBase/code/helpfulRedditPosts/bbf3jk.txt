@@ -1,0 +1,42 @@
+title:
+YSK: Swimming season is approaching - learn the (actual) signs of drowning
+
+content:
+The signs of drowning and common misconceptions are from [this article](https://mariovittone.com/2010/05/154/):
+
+1.	Except in rare circumstances, **drowning people are physiologically unable to call out for help**. The respiratory system was designed for breathing. Speech is the secondary or overlaid function. Breathing must be fulfilled, before speech occurs.
+
+1.	**Drowning people’s mouths alternately sink below and reappear above the surface of the water.** The mouths of drowning people are not above the surface of the water long enough for them to exhale, inhale, and call out for help. When the drowning people’s mouths are above the surface, they exhale and inhale quickly as their mouths start to sink below the surface of the water.
+
+1.	**Drowning people cannot wave for help.** Nature instinctively forces them to extend their arms laterally and press down on the water’s surface. Pressing down on the surface of the water, permits drowning people to leverage their bodies so they can lift their mouths out of the water to breathe.
+
+1.	Throughout the Instinctive Drowning Response, **drowning people cannot voluntarily control their arm movements.** Physiologically, drowning people who are struggling on the surface of the water cannot stop drowning and perform voluntary movements such as waving for help, moving toward a rescuer, or reaching out for a piece of rescue equipment.
+
+1.	From beginning to end of the Instinctive Drowning Response people’s **bodies remain upright in the water, with no evidence of a supporting kick.** Unless rescued by a trained lifeguard, these drowning people can only struggle on the surface of the water from 20 to 60 seconds before submersion occurs.
+
+___
+
+Edit: since this is getting more attention and I feel I should include a next steps if you find someone in this situation. Above all, your safety is your primary concern. Each further step increases ypur own risk. Note that there is *far* more info in a lifesaving course than I can put in a text post. 
+
+1.	**Talk.** Yell and wave to try to get their attention and talk them back to the edge/shore/boat. 
+2.	**Signal for help**. If there is a certified lifeguard around they can help best. They are responsible for the waters and are trained on these situations. We practice responding to these scenarios quarterly. 
+ Assuming there is no lifeguard around and you are alone, proceed as follows. 
+
+3.	**Throw**. Try to throw a flotation device toward them. 
+4.	**Reach**. Reach with buoyant device or long stick
+5.	**Wade**. Try to get closer in shallower water if available and try to reach or throw a flotation device. 
+6.	**Swim.** Provide a buoyant aid directly to the drowning victim with extreme caution. Lifeguards are taught to drive a buoyant aid directly into their arms *using their feet*. The victim ***WILL*** attempt to latch onto you to save themselves, and it is easier to kick them off. Prioritize yoir safety and give them an aid before they instinctively latch onto you, the lifesaver. 
+
+• If they are too aggressive, swim down. The last place a drowning victim wants to go is further below the water.
+
+• Use physical force if absolutely necessary (As mentioned in the comments). It is advantageous in the end to diffuse an aggressive situation.
+
+Again, do not use this in place of a Lifesaving course (Bronze Medallion, Bronze Cross in Canada).
+
+url:https://reddit.com/r/YouShouldKnow/comments/bbf3jk/
+author:Bigmitch2
+subreddit:YouShouldKnow
+score:1335
+numComments:70
+isOver18:False
+hasPostBody:True

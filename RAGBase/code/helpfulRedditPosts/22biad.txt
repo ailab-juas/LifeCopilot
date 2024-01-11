@@ -1,0 +1,17 @@
+title:
+LPT: Spring is here! It's time to check your tire pressure once again.
+
+content:
+If you aired up your tires during the winter, chances are your tires are over-inflated, add that to the copious potholes on the road this spring and you have a recipe for a flat tire.  If you haven't done it already, it's time to revisit you tires and see how they're doing.
+
+An over-inflated tire reduces traction and causes uneven wear on the tires. A definite seasonal must.
+
+I just checked my tires this week and they were 12psi over the recommended level, and I had a very noticeable gain in traction when I corrected them.
+
+url:https://reddit.com/r/LifeProTips/comments/22biad/
+author:BeginningIsEasy
+subreddit:LifeProTips
+score:1473
+numComments:275
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+LPT: Before drinking a soda, chug a glass of water. This helped me kick the soda habit.
+
+content:
+By drinking soda (and other sugary drinks), your body learns to associate thirst with sweetness.  But, often when you crave a sweet drink, you're really just thirsty.  So, back when I was trying to kick the soda habit, I made a rule: before any soda, I would first chug a full glass of water.  Over time, I sipped my sodas more slowly; then reduced the number of sodas per day; then eventually it became easier to chug some water and then say "I guess I don't need that soda after all."
+
+It still took a lot of will power, don't get me wrong, but this "trick" helped a lot, and now I've been soda-free for several years.  I hope it helps some others.
+
+url:https://reddit.com/r/LifeProTips/comments/1h7qey/
+author:sawdust_maker
+subreddit:LifeProTips
+score:2048
+numComments:517
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: If you stand up too fast and you start to black out, tighten your abs as hard as you can.
+
+content:
+Tightening your abs forces the blood back into your head, stopping you from greying or blacking out.
+
+url:https://reddit.com/r/LifeProTips/comments/130i4j/
+author:spamonkey24
+subreddit:LifeProTips
+score:1943
+numComments:441
+isOver18:False
+hasPostBody:True

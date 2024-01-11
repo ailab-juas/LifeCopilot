@@ -1,0 +1,15 @@
+title:
+LPT: if meeting someone for lunch at a busy place, avoid meeting exactly on the hour.
+
+content:
+Everyone decides to meet places on the hour.  "Meet you at 11 for brunch!" etc.
+
+If it's a busy cafe, my friends and I just say we'll meet at say, ten-to, and get seated and served before the crowds arrive.
+
+url:https://reddit.com/r/LifeProTips/comments/3g4plc/
+author:DrBort
+subreddit:LifeProTips
+score:4380
+numComments:390
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Daylight Savings Time is ending soon; if you feed your pet on a schedule, start pushing it back a few minutes a day soon.
+
+content:
+Pets have no way to tell what time of day it is other than what nature tells them, and DST is a human construct.  If they get fed at 7am now, then they'll want to be fed at 6am on November 1st.  If you start pushing their feeding time back a little each day starting soon (the 20th would be perfect if you use 5 minute increments) then your pets won't be StArViNg! and deny you that blissful hour of sleeping in on November 1st.
+
+url:https://reddit.com/r/LifeProTips/comments/jc7w54/
+author:toforama
+subreddit:LifeProTips
+score:1722
+numComments:130
+isOver18:False
+hasPostBody:True

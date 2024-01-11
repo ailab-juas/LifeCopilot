@@ -1,0 +1,13 @@
+title:
+LPT: When heating leftovers, space out a circle in the middle, it will heat up much more evenly.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/zx48c/
+author:Omgpolly
+subreddit:LifeProTips
+score:2356
+numComments:234
+isOver18:False
+hasPostBody:False

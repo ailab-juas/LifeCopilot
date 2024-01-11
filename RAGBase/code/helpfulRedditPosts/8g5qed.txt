@@ -1,0 +1,15 @@
+title:
+YSK that if you need documents scanned and sent electronically, you can just use your cell phone
+
+content:
+There are many apps out there that will produce scanner-like quality pictures of documents. I cannot tell the difference if a document was scanned by my scanner or by my phone. You can then mail the scanned documents to yourself and send them electronically. The one I personally use is CamScaner  but there are other options. The app autocrops and adds a scanner filter. These days not many people have scanners and they are expensive anyways. Just use your phone.
+
+edit: I forgot to mention that CamScanner is free and so are other many apps. Some do cost money though or give you only a few scans.
+
+url:https://reddit.com/r/YouShouldKnow/comments/8g5qed/
+author:FruitloopsXD
+subreddit:YouShouldKnow
+score:4914
+numComments:214
+isOver18:False
+hasPostBody:True

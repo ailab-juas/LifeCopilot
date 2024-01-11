@@ -1,0 +1,13 @@
+title:
+LPT: Brush your teeth with your non-dominant hand. This will prevent you to brush your teeth too fast and too hard, which can damage your gums, and using your non-dominant hand more often is a good exercice to keep your brain healthy.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/s9r1ln/
+author:jaceapoc
+subreddit:LifeProTips
+score:5299
+numComments:206
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: If you're a student, always befriend and talk with people who are a few years older than you. They will tell you things that they wished they knew a couple years ago. Learn from other peoples mistakes, they don't have to be yours.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/9idzxs/
+author:StormsEye
+subreddit:LifeProTips
+score:1272
+numComments:48
+isOver18:False
+hasPostBody:False

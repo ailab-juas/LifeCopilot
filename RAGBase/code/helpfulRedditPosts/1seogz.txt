@@ -1,0 +1,15 @@
+title:
+LPT: If using Alien Blue (on iOS), triple tap the top bar of the app (underneath the time) to switch to night mode.
+
+content:
+Not sure if it works for Android phones but triple tapping the bar next to the back button switches to night mode. Triple tapping again switches back. 
+
+I love night mode but found it cumbersome to have to go to settings each time so this feature is particularly helpful.
+
+url:https://reddit.com/r/LifeProTips/comments/1seogz/
+author:Buzz_Lightweight
+subreddit:LifeProTips
+score:2424
+numComments:388
+isOver18:False
+hasPostBody:True

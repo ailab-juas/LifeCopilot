@@ -1,0 +1,21 @@
+title:
+YSK if your car's blinker starts blinking more quickly than usual you need to check your bulbs. One of them is likely not working.
+
+content:
+My wife casually mentioned that her left blinker was blinking at double speed and it was bugging her. I went to check her car, and the left rear blinker was completely blown. 
+
+Most modern cars will do this to alert the driver that one of the bulbs isn't working correctly.
+
+*Edit:* I agree everyone should already know this, but I’ve talked to enough people lately who didn’t know - particularly my 17 &amp; 18 year old students - that I though t warranted a YSK. Also, in full disclosure, I didn’t know this until I was in my 30s. 
+
+I also had no idea that it was an unintentional “feature” created when one bulb dies his decreasing the resistance in the circuit (did I say that right?). Thanks for everyone educating me a little more.
+
+*edit 2:* I’m out of the loop...what the hell are muffler bearings?
+
+url:https://reddit.com/r/YouShouldKnow/comments/81zsvn/
+author:CranialFlatulence
+subreddit:YouShouldKnow
+score:13813
+numComments:471
+isOver18:False
+hasPostBody:True

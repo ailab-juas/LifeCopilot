@@ -1,0 +1,13 @@
+title:
+LPT: Procrastinating? Your brain feels overwhelmed by the task. Tell yourself that you're going to spend 15 minutes on it and do what you can. You're far more willing to dive in.
+
+content:
+Taking on the whole task feels overwhelming so you don't start.  Tell yourself that you're not trying to complete it, only that you'll spend 15 minutes working on it, which feels much more achievable.  So you start the task, and usually end up spending more than 15 min on it and realize it's not as bad as you thought.  Even if  you don't finish it, you got over the hump of starting.  Next time spend another "15 minutes".  
+
+url:https://reddit.com/r/LifeProTips/comments/94vpmk/
+author:jamikula
+subreddit:LifeProTips
+score:3518
+numComments:126
+isOver18:False
+hasPostBody:True

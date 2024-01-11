@@ -1,0 +1,13 @@
+title:
+LPT: When signing up for a free trial, use a used gift card (MasterCard, visa, etc)to register so you can't be billed after the trial period.
+
+content:
+Did this earlier this summer.
+
+url:https://reddit.com/r/LifeProTips/comments/3i4ijm/
+author:America_123
+subreddit:LifeProTips
+score:1491
+numComments:75
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+YSK that father's day is 18 days from now, on Sunday, June 15
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/26pw7d/
+author:MKorostoff
+subreddit:YouShouldKnow
+score:1349
+numComments:173
+isOver18:False
+hasPostBody:False

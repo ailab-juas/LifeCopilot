@@ -1,0 +1,17 @@
+title:
+LPT: If you have a voicemail that means a lot to you, BACK IT UP.
+
+content:
+I used to work for a phone retailer, and I have had it happen a dozen times or more in less than a year where some change on their account (ie dumb phone to smartphone) screwed up their voicemail and they lost what was on it. 
+
+I've had mothers who lost their son to a motorcycle accident cry in the store when they try calling their voicemail to check voicemail she kept of his. I've seen adult sons get angry that their dad's last words were gone forever. 
+
+The easiest way is to get a call recording app on your smartphone, and call your voicemail while it's recording. You can also take an Aux cord to a computer and record it. 
+
+url:https://reddit.com/r/LifeProTips/comments/6htocl/
+author:im_from_detroit
+subreddit:LifeProTips
+score:5854
+numComments:287
+isOver18:False
+hasPostBody:True

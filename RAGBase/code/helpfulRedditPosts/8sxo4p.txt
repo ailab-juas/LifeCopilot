@@ -1,0 +1,13 @@
+title:
+LPT: After cleaning up large shards of glass, use a wet paper towel over the area to pick up the remaining tiny fragments.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/8sxo4p/
+author:HeyBlenderhead
+subreddit:LifeProTips
+score:5933
+numComments:221
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,15 @@
+title:
+YSK: SciHub is a free recourse to get access to the majority of research papers
+
+content:
+Why YSK: So many journal articles in science specifically are locked behind extreme paywalls, especially recently published papers with exciting information. I've seen paywalls that range from $50-$200 just to get access to one article. SciHub was founded by a Kazakhstan woman, Alexandra Elbakyan, to make scientific information more accessible to the general public. As a STEM major, I look through tons of research papers every week and a friend of mine recently told me about this, so I wanted to share incredible resource for anyone who is unaware, especially people in the scientific community.
+
+Edit: So glad to see everyone sharing additional resources &amp; information about the inner workings of publishing research in general. I had no idea that it was such a monopolized industry &amp; scientists actually have to pay if they want people to read their research. Thanks to everyone &amp; please continue sharing this vital info! - signed a future scientist.
+
+url:https://reddit.com/r/YouShouldKnow/comments/r69hrq/
+author:celestialleila
+subreddit:YouShouldKnow
+score:6330
+numComments:144
+isOver18:False
+hasPostBody:True

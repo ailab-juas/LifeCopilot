@@ -1,0 +1,13 @@
+title:
+LPT: If an ad on YouTube is unskippable and long, you can tap the (i) in bottom left hand corner, then "stop seeing this ad", then choose irrelevant, repetitive, or inappropriate (all work). It will end immediately and earlier than if you had watched the entire ad.
+
+content:
+Edit: Guys, everyone knows that adblock exists. This is mainly useful for watching YouTube on mobile. 
+
+url:https://reddit.com/r/LifeProTips/comments/8mry96/
+author:Arcanas1221
+subreddit:LifeProTips
+score:36529
+numComments:991
+isOver18:False
+hasPostBody:True

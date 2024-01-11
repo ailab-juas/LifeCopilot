@@ -1,0 +1,13 @@
+title:
+YSK that the smell of your house from when you come back from a trip is what others always smell, when they meet you
+
+content:
+This will be helpful when inviting guests over or keeping your house clean
+
+url:https://reddit.com/r/YouShouldKnow/comments/clolob/
+author:ColosieQuavo
+subreddit:YouShouldKnow
+score:17444
+numComments:443
+isOver18:False
+hasPostBody:True

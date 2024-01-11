@@ -1,0 +1,17 @@
+title:
+YSK: T-Mobile is trying to undercut Verizon's Unlimited plan, by rolling back tethering and video throttling. Current customers need to manually activate these features.
+
+content:
+http://www.androidpolice.com/2017/02/13/t-mobile-trying-undercut-verizons-unlimited-plan-rolls-back-tethering-video-throttling/
+
+T-Mobile is increasing their video streaming quality from 480p to "HD." You can also tether at "high speed" up to 10gb. Changes go into effect Feb 17th. Current customers need to manually activate these features online or in the app. &gt;28gb/mo deprioritization.
+
+https://newsroom.t-mobile.com/news-and-blogs/tmobile-one-ups-verizon.htm
+
+url:https://reddit.com/r/YouShouldKnow/comments/5tx7fr/
+author:Stroker
+subreddit:YouShouldKnow
+score:1472
+numComments:128
+isOver18:False
+hasPostBody:True

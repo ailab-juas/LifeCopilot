@@ -1,0 +1,13 @@
+title:
+LPT: When calling out sick from work, use the word 'contagious'.
+
+content:
+It shifts the focus from how you feel, to what your effect might be on your co-workers if you actually came in.  I've notice that I generally get a much more positive response if I use that word vs. just saying I'm 'not felling well'.
+
+url:https://reddit.com/r/LifeProTips/comments/5j7psz/
+author:greeneyedguru
+subreddit:LifeProTips
+score:14200
+numComments:1203
+isOver18:False
+hasPostBody:True

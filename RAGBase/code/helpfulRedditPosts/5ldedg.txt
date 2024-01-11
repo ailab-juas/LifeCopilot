@@ -1,0 +1,13 @@
+title:
+LPT: Have old towels/sheets/blankets? Donate them to a local animal shelter!
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5ldedg/
+author:faceofjace
+subreddit:LifeProTips
+score:3694
+numComments:127
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: After someone does a kind act or something to help you, nothing will make them happier than telling the person that they made your day.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/4pwg1c/
+author:Burkstein
+subreddit:LifeProTips
+score:2291
+numComments:126
+isOver18:False
+hasPostBody:False

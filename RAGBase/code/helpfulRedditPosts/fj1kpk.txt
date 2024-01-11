@@ -1,0 +1,15 @@
+title:
+YSK: Price gouging is illegal in most US states.
+
+content:
+https://consumer.findlaw.com/consumer-transactions/price-gouging-laws-by-state.html
+
+Most states have their own definition and penalties so check your state.
+
+url:https://reddit.com/r/YouShouldKnow/comments/fj1kpk/
+author:Danyell619
+subreddit:YouShouldKnow
+score:2277
+numComments:107
+isOver18:False
+hasPostBody:True

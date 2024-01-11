@@ -1,0 +1,13 @@
+title:
+If you have a new puppy or kitten, don't ever feed it first thing in the morning. They will grow up having no reason to wake you up.
+
+content:
+Make the morning as boring as possible, don't play with them, just ignore them for the first 25 minutes or so, I did this with my 2 cats and it worked perfectly.  They don't even wake up when I do, they stay in bed for about an hour then come downstairs to hang out. 
+
+url:https://reddit.com/r/LifeProTips/comments/1pxxiv/
+author:meeroom16
+subreddit:LifeProTips
+score:2519
+numComments:695
+isOver18:False
+hasPostBody:True

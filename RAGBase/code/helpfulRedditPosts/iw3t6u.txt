@@ -1,0 +1,13 @@
+title:
+LPT: The biggest raise you'll get is when you find a new job.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/iw3t6u/
+author:ThePervyGeek90
+subreddit:LifeProTips
+score:46038
+numComments:1766
+isOver18:False
+hasPostBody:False

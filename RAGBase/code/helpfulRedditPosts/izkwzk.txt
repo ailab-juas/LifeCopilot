@@ -1,0 +1,33 @@
+title:
+YSK that if you or your mother have an all-male direct lineage to a Luxembourg citizen, you have held Luxembourg citizenship since birth - you just need to claim it!
+
+content:
+Why YSK: I just found this out last night and I'm jumping off the walls from my excitement. Under Article 7 of Luxembourg nationality law, anyone born in Luxembourg before 1942 is a Luxembourg citizen. Their children (regardless of where they were born), are also Luxembourg citizens. Like most countries, Luxembourg only allowed citizenship to pass from fathers (not mothers) until 1969. So in order to qualify for citizenship, all of your ancestors must be male. If you were born after 1969, your mother can also grant you citizenship.
+
+In my case, my lineage looks like this:
+
+1. Me (born after 1969)
+
+2. Mother
+
+3. Grandfather
+
+4. Great-grandfather
+
+5. Great-great-grandfather (born in Luxembourg as a citizen, emigrated to the US)
+
+Luxembourg is part of the EU, so if you are a Luxembourg citizen, you are free to work/study/live/retire in any EU country. As someone who's always dreamed of moving to Europe, this is amazing news.
+
+Also - under the current nationality law, all of your children are also automatic dual-citizens. Your spouse can apply for Luxembourg citizenship provided they've been married to you for at least 3 years and they pass a Luxembourgish language test. (This test is only required for your spouse, not you.) The 3 year requirement is waived if you live in Luxembourg together (I think).
+
+Because you are technically already considered a citizen, you're not applying for citizenship, you're "reclaiming" citizenship. Thus, you have lowest priority in the process vs. people who are true applicants with deadlines. The timeline estimates I read online were about 12-24 months.
+
+I've only known about this for 12 hours so definitely do your own research here, but I thought more people should know! Luxembourg is a tiny country but there are probably thousands of descendants throughout the world. If you think you're qualified, let me know! I'd love to hear from more people going through the process.
+
+url:https://reddit.com/r/YouShouldKnow/comments/izkwzk/
+author:TooManyPoisons
+subreddit:YouShouldKnow
+score:26484
+numComments:962
+isOver18:False
+hasPostBody:True

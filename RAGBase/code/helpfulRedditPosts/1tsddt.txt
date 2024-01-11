@@ -1,0 +1,21 @@
+title:
+LPT: How to force Netflix into HD
+
+content:
+After being frustrated trying to play the "new" season of Top Gear in HD I found this helpful little piece of info
+
+First make sure you aren't in fullscreen mode, then:
+
+For MAC - (Ctrl+Shift+Option+S for Mac) : Stream Manager (Stream bit rate; Manual rate selection)
+
+For PC - Ctrl+Shift+Alt+S or Shift +Alt+ Left Click
+
+and set the rate to most it will allow
+
+url:https://reddit.com/r/LifeProTips/comments/1tsddt/
+author:ICBPenguin
+subreddit:LifeProTips
+score:2284
+numComments:313
+isOver18:False
+hasPostBody:True

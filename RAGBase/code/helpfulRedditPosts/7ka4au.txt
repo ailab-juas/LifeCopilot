@@ -1,0 +1,26 @@
+title:
+YSK an easy way to write down numerical codes that almost no one else will decipher.
+
+content:
+So the key is the word Quicktrade. Q=1, U=2, I=3...E=0
+
+So say your locker combo is: 13, 22, 42
+
+You could put a piece of tape on the back of the lock with...
+
+QI, UU, CU
+
+This is really useful for numerical codes that aren't practical to save elsewhere but you seldom use. 
+
+
+I was told it was the only 10 letter word in English with no repeating letters. I'm not sure I fully by that but there are very few if there are more. [edit] Ok, clearly wrong, there are shit tons more. 
+
+--THANKS FOR THE GOLD--
+
+url:https://reddit.com/r/YouShouldKnow/comments/7ka4au/
+author:bassbeatsbanging
+subreddit:YouShouldKnow
+score:11312
+numComments:887
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+Some new uses (x-post from r/pics)
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/smfv9/
+author:Franne_
+subreddit:LifeProTips
+score:1043
+numComments:177
+isOver18:False
+hasPostBody:False

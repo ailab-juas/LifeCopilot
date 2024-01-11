@@ -1,0 +1,13 @@
+title:
+LPT: Before sending a client e-mail, read it to yourself aloud in a super snarky tone. If it still sounds ok, then send it.
+
+content:
+Sorry if this is a repost...we got some new client managers in my office who were sending unintentionally mean e-mails &amp; this tip helped improve clients' responses almost immediately.
+
+url:https://reddit.com/r/LifeProTips/comments/3dg3di/
+author:Rowsdower_was_taken
+subreddit:LifeProTips
+score:4365
+numComments:372
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,17 @@
+title:
+YSK about Harvard CS50, Harvard's introductory course to computer science, available as open courseware. If you're in isolation and have some free time, this is a great time to learn to code, be it as a hobby or if you're looking into it as a career.
+
+content:
+This course takes you through several weeks of classes led by a fantastic instructor. The course is split into roughly one-hour classes.
+
+https://cs50.harvard.edu/x/2020/
+
+Edit: this course does not grant any sort of degree, certification, or credits.
+
+url:https://reddit.com/r/YouShouldKnow/comments/fjl9v6/
+author:GO_Nyxton
+subreddit:YouShouldKnow
+score:19627
+numComments:280
+isOver18:False
+hasPostBody:True

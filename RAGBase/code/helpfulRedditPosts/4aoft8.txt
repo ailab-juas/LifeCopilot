@@ -1,0 +1,13 @@
+title:
+LPT: If you ever get mail from Nielsen (the TV ratings group), open it. There should be a crisp $5 bill in it. They will send you another one if you fill out the short survey and return it.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/4aoft8/
+author:Daelty
+subreddit:LifeProTips
+score:7255
+numComments:1416
+isOver18:False
+hasPostBody:False

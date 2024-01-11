@@ -1,0 +1,25 @@
+title:
+LPT: sick of web ads that play sound and video? If you're using google chrome, open settings, show advanced settings, and then from content settings set plug-ins to 'Click to play.'
+
+content:
+Oh, hey, we're on the front page.  Good work, people.  Together we can make this world a better place.
+
+Lots of people are suggesting adblock and ghostery.  I used to use both, but realized they were making chrome noticeably slower.  Disabling them, and turning off plugins, actually makes Chrome faster.  (Edit: I run my computer in a low, low power state, which may explain the impact on speed) To me that's well worth the tiny effort of moving the cursor and clicking every time I want to watch or listen to something online.
+
+Edit: Gilded!  You're too kind.  Glad I could help!
+
+Edit #2: /u/blartivol points out that adblock does everything ghostery does, so running both is unnecessary.
+
+Edit #3: several redditors have pointed out that this doesn't turn off HTML5 or, apparently, 'old-school embedded audio.'  Sad.  
+
+Edit #4: this *can* break websites or make them unusable, but /u/uakaleeroy comes to the resce and succinctly explains [how to get them working again.](http://www.reddit.com/r/LifeProTips/comments/2jfjai/lpt_sick_of_web_ads_that_play_sound_and_video_if/clbiz7j)
+
+Edit #5: /u/Strange_Meadowlark points out that turning off plugins is also good security.  It [protects against some exploits and malware.](http://www.reddit.com/r/LifeProTips/comments/2jfjai/lpt_sick_of_web_ads_that_play_sound_and_video_if/clbhsbw)
+
+url:https://reddit.com/r/LifeProTips/comments/2jfjai/
+author:deteugma
+subreddit:LifeProTips
+score:4150
+numComments:528
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,20 @@
+title:
+LPT: You should check everywhere on your body every once in awhile to see if you have a new mole or a body mark bigger than an eraser at the top of a pencil.
+
+content:
+If you see you have a new mole or body mark on your body that wasn’t there before, go to the doctor because it could be skin cancer.
+
+EDIT: The ABCDE rule which signals for signs of melanoma (skin cancer) 
+A= ASYMMETRY: if 2 half’s look different it could be skin cancer 
+B= BORDER: a round smooth border of the mole or skin mark is a good sign, but if it has a unnatural border, get it checked out. 
+C= COLOR: one color is good, but multiple colors could be a sign of skin cancer. 
+D= DIAMETER: if once again, it’s bigger than a pencil erasers, it could be a sign of skin cancer. 
+E= EVOLUTION: if it has change in size, color, or shape, get it checked out.
+
+url:https://reddit.com/r/LifeProTips/comments/h9vkhj/
+author:iwantsofttacos
+subreddit:LifeProTips
+score:4123
+numComments:187
+isOver18:False
+hasPostBody:True

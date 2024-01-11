@@ -1,0 +1,17 @@
+title:
+LPT: Before hiking, download a free U.S. Geological Survey topographic map of the area you are hiking in and print a copy
+
+content:
+The U.S. Geological Survey (USGS) has been producing detailed topographic maps for more than 125 years. Today they are nearly all digitized and free to download through the [USGS Map Store](http://store.usgs.gov/).
+
+EDIT: Somebody gets it: http://www.reddit.com/r/LifeProTips/comments/2jd33k/lpt_before_hiking_download_a_free_us_geological/clb59pa?context=2
+
+Also, smart phones get dropped, get wet, or sometimes just die on you. Don't rely on a smart phone. Bring a map as well. Print one out and put it in a ziplock bag (and leave a copy with your planned route marked in your car at the trailhead) or buy a high-quality waterproof topo map. 
+
+url:https://reddit.com/r/LifeProTips/comments/2jd33k/
+author:electronics-engineer
+subreddit:LifeProTips
+score:2695
+numComments:321
+isOver18:False
+hasPostBody:True

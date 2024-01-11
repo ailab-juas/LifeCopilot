@@ -1,0 +1,13 @@
+title:
+LPT: If you are making a word document with lots of pictures in it, first insert a 1x1 table and then the picture in it. The weird things that happen with pictures in word won't happen. A bit of an extra work but it makes formatting the document that much easier.
+
+content:
+Edit: thanks for the gold kind soul.
+
+url:https://reddit.com/r/LifeProTips/comments/dmw4nb/
+author:rukuto
+subreddit:LifeProTips
+score:26663
+numComments:556
+isOver18:False
+hasPostBody:True

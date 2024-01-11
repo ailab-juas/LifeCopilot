@@ -1,0 +1,13 @@
+title:
+LPT: If you are a naturalized citizen, do NOT post pictures of yourself with your naturalization certificate online.
+
+content:
+I keep seeing people post pictures of themselves with their Certificate of Naturalization. You risk having your identity stolen by not blotting out the certificate itself. Even if the info is blurry, a determined person can and will be able to figure out what is on there. Your A number, name, date of birth, and country of birth are all on there. Don't risk it.
+
+url:https://reddit.com/r/LifeProTips/comments/ye751e/
+author:Particular-Canary696
+subreddit:LifeProTips
+score:1850
+numComments:129
+isOver18:False
+hasPostBody:True

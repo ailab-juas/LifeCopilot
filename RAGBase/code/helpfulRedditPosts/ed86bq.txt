@@ -1,0 +1,21 @@
+title:
+LPT: Learn excel. It's one of the most under-appreciated tools within the office environment and rarely used to its full potential
+
+content:
+How to properly use "$" in a formula, the VLookup and HLookup functions, the dynamic tables, and Record Macro.
+
+Learn them, breathe them, and if you're feeling daring and inventive, play around with VBA programming so that you learn how to make your own custom macros.
+
+No need for expensive courses, just Google and tinkering around.
+
+My whole career was turned on its head just because I could create macros and handle excel better than everyone else in the office.
+
+If your job requires you to spend any amount of time on a computer, 99% of the time having an advanced level in excel will save you so much effort (and headaches).
+
+url:https://reddit.com/r/LifeProTips/comments/ed86bq/
+author:ravnicrasol
+subreddit:LifeProTips
+score:58027
+numComments:2797
+isOver18:False
+hasPostBody:True

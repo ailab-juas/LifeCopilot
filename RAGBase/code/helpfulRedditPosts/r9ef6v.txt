@@ -1,0 +1,13 @@
+title:
+YSK: Bleach expires and becomes almost useless
+
+content:
+Why YSK: Bleach degrades over time into its constituent parts. It doesn't become more dangerous but it will absolutely lose its potency, thus limiting it's cleaning capabilities. If you're having a hard time getting bleach to work as you'd expect, think back to how long ago you bought it, as it could be almost completely inert if it's a few years old.
+
+url:https://reddit.com/r/YouShouldKnow/comments/r9ef6v/
+author:NLALEX
+subreddit:YouShouldKnow
+score:9163
+numComments:369
+isOver18:False
+hasPostBody:True

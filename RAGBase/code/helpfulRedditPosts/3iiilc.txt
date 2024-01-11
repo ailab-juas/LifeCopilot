@@ -1,0 +1,13 @@
+title:
+LPT: A bunch of useful tricks for using Google more effectively
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/3iiilc/
+author:nicnacks
+subreddit:LifeProTips
+score:1634
+numComments:92
+isOver18:False
+hasPostBody:False

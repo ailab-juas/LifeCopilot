@@ -1,0 +1,15 @@
+title:
+LPT: Do not resign your current job until your next job’s background check is completed.
+
+content:
+I just watched this scenario unfold: Employee gets a new job - hurrah! Employee resigns from current job sure that their background check is clean. Background check comes back and there is red flags. Red flags causes employer to revoke the job offer. Person has now resigned their current position (no takebackies) and hasn’t truly secured their current position.
+
+Don’t do that. Just wait until your background check is completed before quitting.
+
+url:https://reddit.com/r/LifeProTips/comments/t4prew/
+author:CaspinK
+subreddit:LifeProTips
+score:4027
+numComments:324
+isOver18:False
+hasPostBody:True

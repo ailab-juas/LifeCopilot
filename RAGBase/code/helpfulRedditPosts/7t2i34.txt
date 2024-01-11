@@ -1,0 +1,13 @@
+title:
+LPT: If you want to prove you're right, try to prove yourself wrong.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/7t2i34/
+author:wonder-maker
+subreddit:LifeProTips
+score:1877
+numComments:112
+isOver18:False
+hasPostBody:False

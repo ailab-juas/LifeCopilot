@@ -1,0 +1,13 @@
+title:
+LPT: Tie the strings on your hoodie or sweatpants before putting them in the washer and dryer. It will prevent the string from falling out.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/l0o0oi/
+author:Travitsu
+subreddit:LifeProTips
+score:4401
+numComments:110
+isOver18:False
+hasPostBody:False

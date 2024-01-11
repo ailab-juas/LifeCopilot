@@ -1,0 +1,19 @@
+title:
+YSK that if you like to read, your local library might have an app where you can download ebooks and audiobooks for free.
+
+content:
+Why YSK: It's free! As someone who has paid for services like Audible or has had yearly memberships to Barnes and Noble, I feel like such an idiot for just now discovering this tool.
+
+Many public libraries have an app, or use a third party service like Hoopla or Libby by Overdrive, where you can download tons of ebooks and audiobooks just by using your library card. 
+
+There may still be a wait list on certain books, but it's definitely worth using, especially since you already pay the taxes to use them.
+
+Happy reading!
+
+url:https://reddit.com/r/YouShouldKnow/comments/ukfidv/
+author:marlizaa
+subreddit:YouShouldKnow
+score:1359
+numComments:62
+isOver18:False
+hasPostBody:True

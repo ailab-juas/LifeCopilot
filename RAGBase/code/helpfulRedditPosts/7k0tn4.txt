@@ -1,0 +1,21 @@
+title:
+LPT: When answering a suspected spam robocall, pick up and remain silent for two seconds before saying hello.
+
+content:
+Most automated robocallers have a built in program to help distinguish the phone numbers of real people vs the phone numbers of other automated phone systems.
+
+There's no sense in robocall spamming a number where no human is listening.
+
+If the robocaller doesn't receive an immediate response when the connection is made, it flags your number as not a real person, it doesn't play the automated robocall message it normally would, and auto hangs up after about six seconds.
+
+This effect also helps cut down the frequency of robocalls in general.
+
+If the call is from a real human being, they will wait through the two second pause.
+
+url:https://reddit.com/r/LifeProTips/comments/7k0tn4/
+author:TheLGBTprepper
+subreddit:LifeProTips
+score:3638
+numComments:168
+isOver18:False
+hasPostBody:True

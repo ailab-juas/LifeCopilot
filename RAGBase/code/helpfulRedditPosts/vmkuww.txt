@@ -1,0 +1,13 @@
+title:
+LPT: Assume that the name people share with you is the name they want to be called. Avoid using nicknames that haven’t been shared with you.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/vmkuww/
+author:tysmily
+subreddit:LifeProTips
+score:1308
+numComments:232
+isOver18:False
+hasPostBody:False

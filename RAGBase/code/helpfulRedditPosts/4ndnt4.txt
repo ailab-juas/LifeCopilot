@@ -1,0 +1,29 @@
+title:
+YSK the FDA has labeling rules for pet food, and the labels can help you figure out whether "Tuna Cat Food" actually has tuna in it
+
+content:
+[FDA and AAFCO's model pet food labeling guidlines](http://www.fda.gov/AnimalVeterinary/ResourcesforYou/ucm047113.htm) include four broad rules regarding pet food names. 
+
+1. **The 95% Rule**. Applies to products with few ingredients. They have simple names, such as "Beef for Dogs" or "Tuna Cat Food." In these examples, at least 95% of the product must be the named ingredient (beef or tuna, respectively), not counting the water added for processing and "condiments." Counting the added water, the named ingredient still must comprise 70% of the product. Because ingredient lists must be declared in the proper order of predominance by weight, "beef" or "tuna" should be the first ingredient listed, followed often by water, and then other components such as vitamins and minerals. If the name includes a combination of ingredients, such as "Chicken 'n Liver Dog Food," the two named ingredients together must comprise 95% of the total weight. 
+
+2. **The 25% or "Dinner" Rule**.  If the named ingredients comprise at least 25% of the product (not counting the water for processing), but less than 95%, the name must include a qualifying descriptive term, such as “Dinner” as in "Beef Dinner for Dogs." Counting the added water, the named ingredients still must comprise 10% of the product. Many descriptors other than "dinner" are used, however, with "Platter," "Entree," "Nuggets" and "Formula" being a few examples. In the example “Beef Dinner for Dogs” only one-quarter of the product must be beef, and beef would most likely be the third or fourth ingredient on the ingredient list. Because the primary ingredient is not always the named ingredient, and may in fact be an ingredient that the consumer does not wish to feed, the ingredient list should always be checked before purchase. For example, a cat owner may have learned from his or her finicky feline to avoid buying products with fish in it, because the cat doesn't like fish. However, a "Chicken Formula Cat Food" may not always be the best choice, since some "chicken formulas" may indeed contain fish, and sometimes may contain even more fish than chicken. So watch out for the dog's dinner.  
+
+3. **The 3% or "With" Rule**. A can labeled "Dog Food With Chicken!" for example, only needs to contain 3% chicken. Be very careful about the word "with" or variations thereof. A can of "Cat Food With Tuna" could be confused with a can of "Tuna Cat Food," but, whereas the latter example must contain at least 95% tuna, the first needs only 3%.  
+
+4. **The Flavor Rule**. Under the "flavor" rule, a specific percentage is not required, but a product must contain an amount sufficient to be able to be detected. There are specific test methods, using animals trained to prefer specific flavors, which can be used to confirm this claim. In the example of "Beef Flavor Dog Food," the word "flavor" must appear on the label in the same size, style and color as the word "beef." The corresponding ingredient may be beef, but more often it is another substance that will give the characterizing flavor, such as beef meal or beef by-products.
+
+    With respect to flavors, pet foods often contain "digests," which are materials treated with heat, enzymes and/or acids to form concentrated natural flavors. Only a small amount of a "chicken digest" is needed to produce a "Chicken Flavored Cat Food," even though no actual chicken is added to the food. Stocks or broths are also occasionally added. Whey is often used to add a milk flavor. Often labels will bear a claim of "no artificial flavors." Actually, artificial flavors are rarely used in pet foods. The major exception to that would be artificial smoke or bacon flavors, which are added to some treats.  
+
+FDA regs also specify that net quantity labels must be accurate (they can't short you on the weight), guaranteed analysis of quantities of crude protein, fats, and water (water is important, as dry food often contains more than twice the amount of nutrient as canned food by weight), calorie statements, etc. Nutritional guarantees like "complete diet" must be verified.
+
+However claims like "gourmet" or "premium" don't have any regulations behind them at all, nor do pet foods that claim to be "natural." 
+
+There are currently no regulations regarding pet foods that claim to be "organic."
+
+url:https://reddit.com/r/YouShouldKnow/comments/4ndnt4/
+author:jetpacksforall
+subreddit:YouShouldKnow
+score:1706
+numComments:163
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Don’t connect your phone number to your Facebook. People on dating apps who you give your number to can paste it into Facebook and find you without knowing your last name.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/eqsh0b/
+author:david4011
+subreddit:LifeProTips
+score:11311
+numComments:656
+isOver18:False
+hasPostBody:False

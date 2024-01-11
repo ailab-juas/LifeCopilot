@@ -1,0 +1,13 @@
+title:
+LPT: Instead of clicking the 'accept all cookies' button that pops up on most websites now, click options. Most websites have it so that when users click this options button, all of the optional cookies are already set to off, so it only takes one extra click.
+
+content:
+Not sure if anyone will care about this, but I was lazily accepting all cookies for awhile and then tried selecting options on a few websites and they would automatically have all optional cookies set to off in the options tab/window.
+
+url:https://reddit.com/r/LifeProTips/comments/w3xguc/
+author:Karma_collection_bin
+subreddit:LifeProTips
+score:1951
+numComments:73
+isOver18:False
+hasPostBody:True

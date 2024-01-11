@@ -1,0 +1,13 @@
+title:
+LPT: Change Mac Volume by Quarter Increments
+
+content:
+If you hold down the option and shift keys while changing the volume on a Mac, it will change by a quarter increment. This also applies to brightness and the keyboard illumination. 
+
+url:https://reddit.com/r/LifeProTips/comments/365sic/
+author:ang7401
+subreddit:LifeProTips
+score:1826
+numComments:222
+isOver18:False
+hasPostBody:True

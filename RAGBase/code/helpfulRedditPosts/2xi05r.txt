@@ -1,0 +1,23 @@
+title:
+YSK: Weather.gov is a faster way to get your weather than weather.com
+
+content:
+http://www.weather.gov really fast and reliable
+
+Per /u/ordinaryuser if u want adblock in android: ***I'm not trying to tell you what to do, but if you were to use Firefox as your browser on your phone (Android, not sure about iOS) it's just like the desktop version and allows you to install add-ons, such as Adblock. [Screenshot](https://i.imgur.com/9fPRZuC.jpg)***
+
+Video taken from my one plus one phone comparing the two websites: http://youtu.be/Hl1EI1Lv3DY
+
+Im sorry that I don't have a stopwatch that compares how fast it takes to load it. I'm pretty bored at work so ill do it right now. I think it takes a bit for YouTube to make it HD video so sorry about that. This was recorded using Screen cast which is a feature of the one plus one phone which I really enjoy
+
+Speedtest for internet that I used: http://imgur.com/Bx3rkQN
+
+Webpagetest.org provided by /u/dogsalt loaded weather.com at 7 seconds and weather.gov in 2 seconds.
+
+url:https://reddit.com/r/YouShouldKnow/comments/2xi05r/
+author:2DOLLAHBILL
+subreddit:YouShouldKnow
+score:2035
+numComments:225
+isOver18:False
+hasPostBody:True

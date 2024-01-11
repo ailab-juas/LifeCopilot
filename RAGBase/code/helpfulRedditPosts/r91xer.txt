@@ -1,0 +1,19 @@
+title:
+YSK: Ceiling fans have a winter setting.
+
+content:
+Why YSK: Most ceiling fans are capable of warming a room which is counterintuitive. On a lot a fans there's a switch somewhere on the side that can be either up or down, flipping this switch will switch the blades rotation so instead of blowing air down, it sucks air up (so having some space between the fan blades and the ceiling is ideal) which moves the cool air from below disturbing the warm air above which warms the room. (This is probably common knowledge that is worth repeating for those who didn't know)
+
+Edit: Really important point not in my original post brought up by a smart comment: Vacuum/dust the top of your blades before doing this! (thank you aquaman67!)
+
+Edit: Funktastic34 is right and I quote: "How are you gonna make a post about this and not mention which direction does what??
+
+Clockwise = winter Counterclockwise = summer"
+
+url:https://reddit.com/r/YouShouldKnow/comments/r91xer/
+author:[deleted]
+subreddit:YouShouldKnow
+score:1163
+numComments:51
+isOver18:False
+hasPostBody:True

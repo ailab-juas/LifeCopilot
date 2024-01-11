@@ -1,0 +1,13 @@
+title:
+LPT: Inflate your tires and change your oil and filter. Doing this made my average mpg go from 22.4 to 26.5 (huge difference)
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/2m6qkn/
+author:Karlsonn
+subreddit:LifeProTips
+score:1101
+numComments:540
+isOver18:False
+hasPostBody:False

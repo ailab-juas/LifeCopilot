@@ -1,0 +1,15 @@
+title:
+LPT: If you made less than $57,000 in 2012, the IRS has a list of websites that you can use to file your federal taxes free of charge
+
+content:
+http://www.irs.gov/uac/Free-File:-Do-Your-Federal-Taxes-for-Free
+
+Most of these cost between $20-$40 if you were to just go directly to them.  Make sure you visit them through the link on the IRS page to file for free.
+
+url:https://reddit.com/r/LifeProTips/comments/17rpsw/
+author:Ganonderp_
+subreddit:LifeProTips
+score:2570
+numComments:293
+isOver18:False
+hasPostBody:True

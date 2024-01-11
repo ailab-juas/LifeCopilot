@@ -1,0 +1,13 @@
+title:
+LPT: if you're working with someone who is capable of doing their job but you know they're nervous about their abilities, be sure to vocally express your confidence in them. Simply knowing someone believes you can do something often gives one the courage to do that something confidently.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5sbm7b/
+author:alexander_karamazov
+subreddit:LifeProTips
+score:1515
+numComments:31
+isOver18:False
+hasPostBody:False

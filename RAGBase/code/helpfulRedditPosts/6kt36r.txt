@@ -1,0 +1,13 @@
+title:
+LPT: Always change the batteries in your CO2 and smoke detectors on your birthday. Make it a birthday present to yourself to be safe for another year.
+
+content:
+This way you always have working batteries in your detectors. 
+
+url:https://reddit.com/r/LifeProTips/comments/6kt36r/
+author:Korleonis
+subreddit:LifeProTips
+score:1261
+numComments:62
+isOver18:False
+hasPostBody:True

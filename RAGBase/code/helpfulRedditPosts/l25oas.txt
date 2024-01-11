@@ -1,0 +1,17 @@
+title:
+YSK the irs website has links to 100% free filing services by popular tax services.
+
+content:
+Why YSK: these filing services will not advertise them as to make you use the pay for services instead, even though you don't need to. There was even a lawsuit filed against them for such practices.
+
+The basic qualification is to be under a certain income range (30-75k a year in income depending on service provider.)
+
+great if you're someone who's doing their taxes for the first time, or don't have a complex tax situation.
+
+url:https://reddit.com/r/YouShouldKnow/comments/l25oas/
+author:oldman_artist
+subreddit:YouShouldKnow
+score:2356
+numComments:74
+isOver18:False
+hasPostBody:True

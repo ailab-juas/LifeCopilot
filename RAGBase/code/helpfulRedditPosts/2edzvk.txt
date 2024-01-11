@@ -1,0 +1,13 @@
+title:
+LPT: when shopping with children, the best parking spot is right next to the cart corral and not necessarily the spot closest to the entrance.
+
+content:
+After you put your groceries in the car, you won't have to leave the kids alone in the car for very long while your return your cart.  
+
+url:https://reddit.com/r/LifeProTips/comments/2edzvk/
+author:Dotsmantooth
+subreddit:LifeProTips
+score:2649
+numComments:631
+isOver18:False
+hasPostBody:True

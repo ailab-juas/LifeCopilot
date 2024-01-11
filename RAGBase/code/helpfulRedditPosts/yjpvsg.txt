@@ -1,0 +1,13 @@
+title:
+LPT: 10 minutes of extra sleep isn’t going to be significant, but 10 minutes of extra time to get ready really will be.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/yjpvsg/
+author:Noriadin
+subreddit:LifeProTips
+score:5144
+numComments:230
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+YSK about edX, a site where you can audit online courses from top universities for free
+
+content:
+You can audit any course on their site for free (just have to register). They offer courses in 30 different areas of study, from universities such as Harvard, MIT, and Cal Tech. [Link to their website](https://www.edx.org/).
+
+url:https://reddit.com/r/YouShouldKnow/comments/2scouk/
+author:zachalicious
+subreddit:YouShouldKnow
+score:1323
+numComments:44
+isOver18:False
+hasPostBody:True

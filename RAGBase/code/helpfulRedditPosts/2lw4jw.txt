@@ -1,0 +1,22 @@
+title:
+YSK you can get Botulism from consuming olive oil infused with raw garlic, especially if it's not refrigerated.
+
+content:
+Throwing in some garlic into olive oil is a popular salad dressing, especially since many commercially-made dressings use variations on it. However, many might not realize how dangerous it can be if proper precautions are not taken in its storage and preparation.
+
+&gt; As for home-prepared mixtures of garlic in oil, the FDA recommends that these “be made fresh for use and not left at room temperatures.” Any leftovers should be refrigerated for use within three days, frozen for longer storage, or discarded.
+
+&gt; The reason for the concern is that unrefrigerated garlic in oil mixtures lacking antimicrobial agents have been shown to permit the growth of C. botulinum bacteria and its toxins, without affecting the taste or smell of the products. 
+
+&gt; Toxin production has been known to occur even when a small number of C. botulinum spores were present in the garlic. When the spore-containing garlic is bottled and covered with oil, an oxygen-free environment is created that promotes the germination of spores and the growth of microorganisms at temperatures as low as 50 F.
+
+
+[Source](http://www.ext.colostate.edu/pubs/foodnut/09340.html)
+
+url:https://reddit.com/r/YouShouldKnow/comments/2lw4jw/
+author:kakanczu
+subreddit:YouShouldKnow
+score:1457
+numComments:134
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+YSK that if you notice a sulphuric smell while your bar tender is pulling your pint then they're not cleaning their lines often enough
+
+content:
+Beer lines should be cleaned every 10-14 days. If they aren't cleaned then gunk will build up within the lines (like cholesterol) and bacteria will thrive on it. This produces gases that smell like rotten eggs that you can notice if standing close to the tap when an ale or lager is being poured. Have a word with your guv'ner if this is going on at your local pub since it ruins the quality of your pint.
+
+url:https://reddit.com/r/YouShouldKnow/comments/6oz0bn/
+author:Halman
+subreddit:YouShouldKnow
+score:7441
+numComments:440
+isOver18:False
+hasPostBody:True

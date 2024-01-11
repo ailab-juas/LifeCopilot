@@ -1,0 +1,13 @@
+title:
+LPT: When boiling water for coffee (or anything else really) pour a little leftover hot water on your kitchen sponge and let it cool down before ringing it out. It kills a lot of the microorganisms that make the sponge mildewy, I find that this can extend the life of a sponge greatly.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/wfdncq/
+author:NumberOneJewBoi
+subreddit:LifeProTips
+score:2755
+numComments:259
+isOver18:False
+hasPostBody:False

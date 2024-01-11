@@ -1,0 +1,17 @@
+title:
+YSK Compact Fluorescent Lightbulbs contain mercury and should be properly recycled to prevent its release into the environment.
+
+content:
+While it is not enough mercury to be a danger to your home or family, it is enough to warrant proper disposal. Mercury is toxic and can hurt animals and contaminate groundwater.
+
+However, CFLs actually help reduce total mercury emmissions in the U.S. because of their significant energy savings, according to the EPA. But you should still dispose of them properly if they break or go out.
+
+More info: http://www2.epa.gov/cfl/recycling-and-disposal-after-cfl-burns-out#important
+
+url:https://reddit.com/r/YouShouldKnow/comments/20qaxd/
+author:Cael450
+subreddit:YouShouldKnow
+score:1080
+numComments:139
+isOver18:False
+hasPostBody:True

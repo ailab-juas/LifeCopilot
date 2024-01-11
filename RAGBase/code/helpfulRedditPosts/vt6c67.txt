@@ -1,0 +1,13 @@
+title:
+LPT: If you come across a random USB drive, don't plug it into anything.
+
+content:
+People have been known to leave spyware/malware as well as an assortment of other viruses on USB drives and will drop them purposefully in busy areas to target unsuspecting victims. This is called USB baiting.
+
+url:https://reddit.com/r/LifeProTips/comments/vt6c67/
+author:thishurtsdotjpg
+subreddit:LifeProTips
+score:7870
+numComments:503
+isOver18:False
+hasPostBody:True

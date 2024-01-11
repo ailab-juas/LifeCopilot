@@ -1,0 +1,13 @@
+title:
+YSK that some urinal screens have splashback prevention features built into it
+
+content:
+Try to aim your pee directly at it to prevent that nasty splashback.
+
+url:https://reddit.com/r/YouShouldKnow/comments/6u1jr6/
+author:parserrr
+subreddit:YouShouldKnow
+score:1292
+numComments:188
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: image dump of 100+ study guides/spark notes posters - maths, language, history, study tips, etc.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/yyrae/
+author:slanghype
+subreddit:LifeProTips
+score:1280
+numComments:137
+isOver18:False
+hasPostBody:False

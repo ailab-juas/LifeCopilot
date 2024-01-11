@@ -1,0 +1,13 @@
+title:
+LPT: When you open a new box of cereal, flip the bag upside down before cutting the bag open so all the small crumbs that have settled on the bottom of the bag are now on top and will be evenly distributed rather than wasted
+
+content:
+This will reduce the amount of wasted crumbs when you get to the bottom of the bag.    Each time you pour a bowl of cereal, some of those smaller crumbs will be mixed in with the full pieces of cereal and you don’t even notice it.  It’s fulfilling to finish a box of cereal and have less wasted food to throw in the garbage or to eat that last bowl full of crumbs.
+
+url:https://reddit.com/r/LifeProTips/comments/xgnkh4/
+author:dbcoop24
+subreddit:LifeProTips
+score:1251
+numComments:103
+isOver18:False
+hasPostBody:True

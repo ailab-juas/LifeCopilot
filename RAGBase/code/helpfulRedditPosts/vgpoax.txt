@@ -1,0 +1,23 @@
+title:
+YSK that thermal blackout curtains can make a 5-15° temperature difference during heat waves.
+
+content:
+Why YSK: It's only June and already we're seeing record heatwaves around the world. Sharing this because it's an incredibly low-cost solution for how much of a difference it can make, in some cases enough to literally save lives.
+
+**Get thermal blackout curtains**. Windows are responsible for 25-30% of heating/cooling energy loss, which in the middle of the summer means a 5-15° difference in temperature when the sun is up. You'll notice a huge change as soon as you have them up.
+
+Before heat waves this is also $300-$450/year in energy bills saved, during the summer and with gas/oil prices what they are right now it's potentially even more. If you can, look for "coated" blackout fabric because it's 100% and insulated. It's made with "flocking" on the back rather than a laminated plastic material (important because it's a light color which helps prevent heat from getting trapped between the back of the curtains and the glass).
+
+Also, make sure you look for OEKO-TEX certified fabric if you can. OEKO tests for harmful substances and many blackout fabrics are treated with chemicals during production that help block light, but also leak/off gas into your bedroom the second the sun hits them. OEKO guarantees they don't have these.
+
+Full disclosure: we make portable blackout curtains (home version too this summer but not yet), did a whole bunch of research on fabric types when we started a year ago etc. We're not the right fit for every situation but regardless I'm more than happy to add anything I can on what fabric/curtains to look for and which to avoid. Blackouts also make a big difference for sleep quality/duration :)
+
+**TLDR: thermal blackout curtains make a huge difference for temperature and sleep quality, look for OEKO TEX certified and coated blackout if you can find it.**
+
+url:https://reddit.com/r/YouShouldKnow/comments/vgpoax/
+author:hannahfromsleepout
+subreddit:YouShouldKnow
+score:1021
+numComments:47
+isOver18:False
+hasPostBody:True

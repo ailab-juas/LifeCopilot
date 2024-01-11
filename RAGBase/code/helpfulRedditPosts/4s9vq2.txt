@@ -1,0 +1,13 @@
+title:
+YSK What to do if you're stopped by the police
+
+content:
+This is an old guide written by the ACLU but it's still very relevant and something EVERYONE should read: https://www.aclu.org/know-your-rights/what-do-if-youre-stopped-police-immigration-agents-or-fbi
+
+url:https://reddit.com/r/YouShouldKnow/comments/4s9vq2/
+author:brett_riverboat
+subreddit:YouShouldKnow
+score:1394
+numComments:680
+isOver18:False
+hasPostBody:True

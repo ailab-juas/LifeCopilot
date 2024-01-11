@@ -1,0 +1,15 @@
+title:
+LPT: When buying a comforter for your bed, buy one size bigger
+
+content:
+Example: if you have a queen size bed, buy a king size comforter! Especially if you share your bed, as this should help with blanket thieves.
+
+Edit: comforter = duvet
+
+url:https://reddit.com/r/LifeProTips/comments/xkrtfm/
+author:Ndseiler144
+subreddit:LifeProTips
+score:3185
+numComments:258
+isOver18:False
+hasPostBody:True

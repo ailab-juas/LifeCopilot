@@ -1,0 +1,13 @@
+title:
+LPT: Everytime you ask yourself "Are they judging me? Do I look weird?" just remember that they are most probably asking themselves that too.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/g5dren/
+author:bohoxmermaid
+subreddit:LifeProTips
+score:1456
+numComments:62
+isOver18:False
+hasPostBody:False

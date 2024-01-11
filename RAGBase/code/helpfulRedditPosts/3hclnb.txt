@@ -1,0 +1,23 @@
+title:
+YSK: Tylenol should not be taken beyond 3000mg per day, and never mixed with alcohol.
+
+content:
+http://www.webmd.com/mental-health/addiction/news/20131104/tylenol-and-alcohol-a-bad-mix-study-suggests
+
+http://www.medicalnewstoday.com/articles/231915.php
+
+Bonus: Tylenol overdose antidote N-acetylcysteine available as a supplement. Maybe appropriate to keep on hand if you are worried about tylenol overdose? Probably impractical, but for the super-prepared who also keep activated charcoal around...
+
+http://www.webmd.com/vitamins-supplements/ingredientmono-1018-n-acetyl%20cysteine.aspx?activeingredientid=1018&amp;activeingredientname=n-acetyl%20cysteine
+
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3036554/
+
+(Tylenol is the same as paracetamol or acetaminophen, usually sold as non-aspirin pain reliever.)
+
+url:https://reddit.com/r/YouShouldKnow/comments/3hclnb/
+author:[deleted]
+subreddit:YouShouldKnow
+score:1500
+numComments:243
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: if you’re shopping for a new item, invest in the highest quality you can reasonably afford. People buy the cheapest option possible even though they don’t have to and ultimately spend more money over the years replacing that thing repeatedly. Help reduce the sheer consumerism.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/hqqyhg/
+author:appleweasel
+subreddit:LifeProTips
+score:1215
+numComments:173
+isOver18:False
+hasPostBody:False

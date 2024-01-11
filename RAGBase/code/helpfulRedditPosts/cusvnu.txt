@@ -1,0 +1,13 @@
+title:
+YSK NEVER reply "No" to "Reply Yes/No" interest texts. It just confirms that your number works and that will only cause problems later on (Example in text)
+
+content:
+Example: https://preview.redd.it/vsp4y96br9i31.png?width=877&amp;auto=webp&amp;s=ca7a8d70f8c1858467c443c84e5266e6b95f0e09
+
+url:https://reddit.com/r/YouShouldKnow/comments/cusvnu/
+author:yomnmnm
+subreddit:YouShouldKnow
+score:1166
+numComments:49
+isOver18:False
+hasPostBody:True

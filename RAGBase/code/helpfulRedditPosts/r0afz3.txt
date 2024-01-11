@@ -1,0 +1,21 @@
+title:
+LPT: it’s not always correct to use “and I” instead of “and me”.
+
+content:
+You can tell what you should use by removing the second person. 
+
+Correct Example: “John and I went to the shop.”
+If you remove John, it reads “I went to the shop” which is correct. 
+
+Incorrect Example: “The shop sent items to John and I.”
+If you remove John, it reads “The shop sent items to I” which is incorrect as it should be “to me”.
+
+Always do the check to make sure you’re using it correctly!
+
+url:https://reddit.com/r/LifeProTips/comments/r0afz3/
+author:odohega
+subreddit:LifeProTips
+score:8650
+numComments:554
+isOver18:False
+hasPostBody:True

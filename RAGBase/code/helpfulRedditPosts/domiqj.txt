@@ -1,0 +1,13 @@
+title:
+YSK that in the UK, the speed limit on a street with street lights is 30mph UNLESS OTHERWISE STATED
+
+content:
+This is good for people who aren't sure about the limit on roads and end up going slower to be safe. This is confirmed by the police.
+
+url:https://reddit.com/r/YouShouldKnow/comments/domiqj/
+author:dankmemesarenoice
+subreddit:YouShouldKnow
+score:7138
+numComments:290
+isOver18:False
+hasPostBody:True

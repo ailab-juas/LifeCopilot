@@ -1,0 +1,13 @@
+title:
+LPT: “e.g.” and “i.e.” are not interchangeable. e.g. means “for example,” while i.e. means “in other words.”
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/9hgpvj/
+author:youcaneatmypudding
+subreddit:LifeProTips
+score:65164
+numComments:1612
+isOver18:False
+hasPostBody:False

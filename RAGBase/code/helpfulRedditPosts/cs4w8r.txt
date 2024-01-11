@@ -1,0 +1,13 @@
+title:
+YSK If your printer is out of black ink, and you need urgent printout Just change the color of the font #010101, which is 99% grey, it will help you quite a lot.
+
+content:
+This is useful for those desperate times you need to print but run out of ink.
+
+url:https://reddit.com/r/YouShouldKnow/comments/cs4w8r/
+author:ColosieQuavo
+subreddit:YouShouldKnow
+score:2082
+numComments:39
+isOver18:False
+hasPostBody:True

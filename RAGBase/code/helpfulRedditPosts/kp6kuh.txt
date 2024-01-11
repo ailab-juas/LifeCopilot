@@ -1,0 +1,15 @@
+title:
+LPT: Police don't need a warrant to enter your phone if they use your biometrics. If you turn off your phone before arrest, your phone should default to using the password instead upon restart causes the police to need a warrant to access it.
+
+content:
+EDIT: it seems that in California police need a warrant for biometrics as well
+
+To those saying you shouldn't have anything to hide, you obviously don't realize how often police abuse their power in the US. You have a right to privacy. It is much easier for police to force you to use biometrics "consentually" than forfeit your passcode.
+
+url:https://reddit.com/r/LifeProTips/comments/kp6kuh/
+author:linguiniluigi
+subreddit:LifeProTips
+score:57414
+numComments:2300
+isOver18:False
+hasPostBody:True

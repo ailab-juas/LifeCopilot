@@ -1,0 +1,27 @@
+title:
+YSK Exposing Testicles to Heat (Hottub, Sauna, etc.) Negatively Impacts Sperm Health
+
+content:
+YSK that exposure to high temperatures such as hot tubs and saunas is associated with an increase in DNA damage to sperm cells as well as low sperm count and motility.
+
+The good news is this appears to be reversible with 6-months absence of exposure to high heat.
+
+Why YSK: If you are planning to conceive in the near term, avoiding high-temperature exposure to the testicles will likely improve the chances of conception.
+
+Link to Study: [https://pubmed.ncbi.nlm.nih.gov/23411620/](https://pubmed.ncbi.nlm.nih.gov/23411620/)
+
+Edit: Other sources of reduced sperm count based on various submissions in replies:
+
+1. [Laptop computers](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5219578/)
+2. Extended exposure to hot stoves (i.e. chefs) based on [Gordon Ramsay's experience](https://www.thenorthernecho.co.uk/news/7158873.answer-ramsays-kitchen-nightmare/)
+3. [Cycling over 5 hours per week may impact sperm count](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3043154/).
+
+Edit 2: Some people are inquiring about specifics of temperature, do hot showers also affect sperm health, etc.  From the literature I've been able to find, studies were typically performed at temperatures greater than body temperature.  This one references [hot tub use at temperatures higher than body temperature for &gt;30 minutes per week for 3 months leading up to the study](https://www.scielo.br/j/ibju/a/DZ7qfNnKzYGk6vdMC8HWjRB/?lang=en).  I've been unable to find a study referencing hot showers, but a reasonable conclusion might be showers above body temperature may have an impact on sperm health.
+
+url:https://reddit.com/r/YouShouldKnow/comments/xctlev/
+author:nomad3721
+subreddit:YouShouldKnow
+score:4351
+numComments:301
+isOver18:False
+hasPostBody:True

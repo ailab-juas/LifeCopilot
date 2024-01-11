@@ -1,0 +1,17 @@
+title:
+LPT: Double check the tire pressure on your spare. If it’s been a while since you used it, or if you have never used it, it may be totally flat.
+
+content:
+This happened to me a year or two ago, when I got a flat while driving cross-country. I got all the tools out, took off the flat tire, replaced it with the full-sized spare tire, then realized the spare was totally flat, too. It was *not* a fun experience, but it would’ve been easily avoidable had I just checked the tire pressure on the spare in advance. 
+
+I’m sure lots of you already do this, but I never thought about it until it happened to me, so I figured I would post this here in the hopes that perhaps it reaches someone else who might have overlooked doing this.
+
+*edit: several people in the comments mentioned how useful it can be to keep a small air compressor that can be plugged into your cigarette socket (or a AC/jumpstart combo box) in your vehicle for scenarios like this.*
+
+url:https://reddit.com/r/LifeProTips/comments/uqyzz6/
+author:diverareyouok
+subreddit:LifeProTips
+score:26635
+numComments:770
+isOver18:False
+hasPostBody:True

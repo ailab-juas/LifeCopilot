@@ -1,0 +1,13 @@
+title:
+LPT: Save the job description when you start a new job. It makes updating your resume a lot easier.
+
+content:
+When you get hired for new position, save a copy of the job description on your computer. When you need to update your resume, just use the points on the job description. 
+
+url:https://reddit.com/r/LifeProTips/comments/1vdp30/
+author:elcooljj
+subreddit:LifeProTips
+score:3154
+numComments:201
+isOver18:False
+hasPostBody:True

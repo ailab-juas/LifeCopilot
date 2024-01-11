@@ -1,0 +1,13 @@
+title:
+YSK you can avoid paying for YT red and listen to videos in the background on mobile by using firefox app and switching to desktop version of the site
+
+content:
+I hope this saves some cash for those who are subbed to it mostly for this feature
+
+url:https://reddit.com/r/YouShouldKnow/comments/8uy4iy/
+author:Jhhenson
+subreddit:YouShouldKnow
+score:4209
+numComments:185
+isOver18:False
+hasPostBody:True

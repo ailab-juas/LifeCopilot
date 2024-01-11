@@ -1,0 +1,13 @@
+title:
+LPT: Consider adopting two kittens instead of one. They entertain each other endlessly and are great for each other.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/k9kg90/
+author:KiniShakenBake
+subreddit:LifeProTips
+score:33849
+numComments:964
+isOver18:False
+hasPostBody:False

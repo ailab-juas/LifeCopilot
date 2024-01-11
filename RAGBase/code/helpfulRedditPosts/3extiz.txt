@@ -1,0 +1,15 @@
+title:
+YSK the signs and symptoms of ovarian cancer. There are over 30 types of the cancer and they will not be detected by a pap or cervical smear test.
+
+content:
+[This has a lot of good information that outlines the symptoms of ovarian cancer.](https://www.myriad.com/ovarian-cancer-awareness/) 
+
+It's a cancer that causes over 140,000 deaths per year and is hard to detect. Recognizing the symptoms early could help save the life of you or a loved one. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/3extiz/
+author:cappy2008
+subreddit:YouShouldKnow
+score:1191
+numComments:91
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT Always take a picture of your valet parking ticket or coat check ticket in case you lose it.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/2lsib7/
+author:kristofersen
+subreddit:LifeProTips
+score:3424
+numComments:340
+isOver18:False
+hasPostBody:False

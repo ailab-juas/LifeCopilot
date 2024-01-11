@@ -1,0 +1,17 @@
+title:
+LPT: If you're unsure about a decision, flip a coin. Your reaction will show you which decision you really prefer.
+
+content:
+Example: You are not sure whether you should take a job offer or you should stay at your old job. There are arguments gor both an you just can't come up with a decision. You flip a coin, the outcome says "stay", you are unhappy with it. That way you know you should tke the new job.
+
+This little trick helped me a lot of times and never failed me. That way you can be aware of your position regarding a difficult decision. It is not about the coin flip but about your spontanteous reaction.
+
+(Put it in the career flair since I didnt see anything more fitting...)
+
+url:https://reddit.com/r/LifeProTips/comments/s602f4/
+author:LeBr0wn
+subreddit:LifeProTips
+score:37129
+numComments:840
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,16 @@
+title:
+LPT: If you use a product or a system and you find it has some annoying flaw, give the the developers a friendly headsup about it. If its bothering you its probably bothering a lot of other people. Sometimes whats obvious from a users perspective is not so obvious for the creator.
+
+content:
+ This is especially applicable if its a system that you have to use at a workplace.
+
+An example: I worked at an insurance company and we had to go through massive drop-down menus to specify the type of company every time we made an insurance. I asked around what people thought of a search function instead. Turns out they had been wanting it for years. I made a support ticket to the IT department with exactly what i suggested and a napkin calculation of how much time it would save the company.  
+Next update of the software we got it fixed. Turns out that even though people had wanted it no one had bothered to go through the proper channels to let IT know.
+
+url:https://reddit.com/r/LifeProTips/comments/feb1r7/
+author:Loopro
+subreddit:LifeProTips
+score:7496
+numComments:249
+isOver18:False
+hasPostBody:True

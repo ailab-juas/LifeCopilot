@@ -1,0 +1,88 @@
+title:
+YSK companies are tracking your every move online and how you can attempt to make their job a little harder
+
+content:
+Every time you visit imgur.com these companies know it:
+
+* Double Click
+
+* Facebook Social Plugins
+
+* Federated Media
+
+* Google Analytics
+
+* Quantcast
+
+* Rubicon
+
+* Torbit
+
+[Proof](http://imgur.com/ekgtLxl)
+
+They are specialized in gathering browsing data and creating personal profiles of you.
+
+There are browser PlugIns that make these trackers visible and blockable for you. I highly recommend using one.
+Oh, and if you visited Facebook with your browser without deleting your cookies after, these trackers can link your browsing data directly to your name.
+
+---------------------------------------
+
+
+**What you can do:**
+
+A good set of Add-Ons for firefox and chrome is in my opinion:
+
+* [Ghostery](https://www.ghostery.com/) / [Do Not Track Me](https://addons.mozilla.org/en-US/firefox/addon/donottrackplus/) / [Disconnect](https://addons.mozilla.org/en-US/firefox/addon/disconnect/) - They block WebBugs and Trackers 
+
+* [NoScript](https://addons.mozilla.org/en-US/firefox/addon/noscript/?src=ss) - Blocks Java Scripts you do not manually allow
+
+* [Better Privacy](https://addons.mozilla.org/en-US/firefox/addon/betterprivacy/?src=ss) - Deletes flash cookies that cannot be deleted otherwise 
+
+* [uBlock Origin](https://www.ublock.org/) - like AdBlock Plus, just better 
+
+* [HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/) - Secure Connection where available
+
+EDIT:
+
+* Thanks to /u/AVeryHeavyBurtation , I've noticed that I missed browser fingerprinting. You can use Random Agent Spoofers like [this](https://github.com/dillbyrne/random-agent-spoofer) to randomize the information your browser presents to websites. This should render fingerprint tracking impossible.
+
+If you really want to be safe, consider using a (payed) VPN provider and DNS that is preferably not hosted on U.S. soil, since the patriot act and equivalent laws really do not play out in your favor.
+
+
+
+--------------------------------
+**Why you should care:**
+
+
+The knowledge that one's actions could be monitored by the authorities leads to assimilation of your behaviour. Only by appearing non-threatening, boring and assimilated can you be sure that your actions cannot potentially be used against you in the future. 
+
+The philosopher Michel Foucault addresses this phenomenon in [*Discipline and Punish*](http://en.wikipedia.org/wiki/Panopticism#Foucault.27s_Discipline_and_Punish). Foucault uses Benthams panopticon to illustrate this issue. This panopticon is a tower in the center of a prison facility. When standing on top of the tower, you can see into all cells of the prison, albeit only one at the time. The prisoners have no way of knowing whether or not they are being scrutinised at a given moment.   
+Despite the fact, that you can never monitor the behaviour of all prisoners completely, the possibility alone, that an inmate could be under surveillance at any given moment is sufficient to suppress unwanted behaviour.
+
+In our age, NSA, GCHQ, etc. take the place of this "anonymous power". 
+
+&gt;"If the inmates are convicts, there is no danger of a plot, an attempt at collective escape, the planning of new crimes for the future, bad reciprocal influences; if they are patients, there is no danger of contagion; if they are madmen there is no risk of their committing violence upon one another; if they are schoolchildren, there is no copying, no noise, no chatter, no waste of time; if they are workers, there are no disorders, no theft, no coalitions, none of those distractions that slow down the rate of work, make it less perfect or cause accidents"
+
+Foucault theorises, that the constant thread of surveillance alone is a way of exercising power. It leads to self-policing of the individuals of the scrutinised population. Thus, dissent and rebellion against power are suppressed in its earliest stages. 
+
+
+Glenn Greenwald, the Guardian journalist who worked with Edward Snowden, held [an excellent TED Talk](http://www.ted.com/talks/glenn_greenwald_why_privacy_matters?language=en) on this issue. 
+
+
+
+_______________________________
+**Sources:**
+
+* As I said, browser Plugins make the trackers visible, so just check for yourselves.
+
+* Wikipedia article on [Web Bugs](http://en.wikipedia.org/wiki/Web_bug#On_web_pages)
+
+* Articles discussing the issue [1](http://www.bbc.co.uk/news/technology-11899092) [2](http://www.businessinsider.com/this-is-how-facebook-is-tracking-your-internet-activity-2012-9?op=1) [3](http://www.bbc.co.uk/news/technology-11665120)
+
+url:https://reddit.com/r/YouShouldKnow/comments/5140ln/
+author:MisguidedBuffalo
+subreddit:YouShouldKnow
+score:2077
+numComments:240
+isOver18:False
+hasPostBody:True

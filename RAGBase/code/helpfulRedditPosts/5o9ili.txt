@@ -1,0 +1,13 @@
+title:
+LPT: If you're looking at someone and don't want them to catch you looking, instead of darting your eyes away or turning your head when they start to look your way, blink your eyes instead and then change where you're looking while your eyes are shut
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5o9ili/
+author:alpha1zeta
+subreddit:LifeProTips
+score:4184
+numComments:386
+isOver18:False
+hasPostBody:False

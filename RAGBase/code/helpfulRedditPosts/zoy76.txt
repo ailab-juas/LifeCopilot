@@ -1,0 +1,13 @@
+title:
+Use a spring from an old pen to keep your charger from bending, and breaking (found on Snapguide.com)
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/zoy76/
+author:omglikewtf
+subreddit:LifeProTips
+score:3178
+numComments:405
+isOver18:False
+hasPostBody:False

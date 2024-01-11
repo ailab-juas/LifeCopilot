@@ -1,0 +1,13 @@
+title:
+YSK: If you're in a car accident and you have a child car seat in the back, even if it doesn't look damaged, you should still report it to your insurance company. They will reimburse you for the full amount. Safety first.
+
+content:
+Why YSK: Car seats are expensive and usually extremely safe. Even if your child car seat takes no damage during an accident, your insurance company should still replace or reimburse you for the full amount.
+
+url:https://reddit.com/r/YouShouldKnow/comments/kntjay/
+author:Oneiric19
+subreddit:YouShouldKnow
+score:28187
+numComments:366
+isOver18:False
+hasPostBody:True

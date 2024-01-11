@@ -1,0 +1,91 @@
+title:
+YSK you can run the internet over the coaxial ("cable") wires in your home to get wired internet in additional rooms
+
+content:
+**tl;dr You can run internet in your home over the coaxial lines (cable lines, like your cable modem) uses with far more reliable service/faster speeds/lower ping than powerline adapters or wifi repeaters. Long post below with the details if you want to learn more about it**.
+
+-------------------------------------
+
+So maybe you're living in a home that's not brand new and while your internet is great downstairs in the basement or living room where your modem is, the wifi is weak or intermittent, and your downloads slow/lag when you play online games. Crud. You've tried powerline adapters that suck, and wifi repeaters that aren't reliable or worsen your ping. Fear not, as there is something you can try: Multimedia over CoAxial (MoCA) adapters that run your internet over the [coaxial outlets that you already have](https://i.imgur.com/onVeFIL.jpg). You can get high speeds (up to 1gbps) over them, and get great ping (have them in a family members house, with them going to an internet speedtest server they can get results below 10ms).
+
+They're pretty easy to connect, but before you dive in, you want to make sure that you only buy what you need, that you buy the right things, and you consider whether or not MoCA is an option for you.
+
+------------------------------------------------
+
+*What do I need to buy? What are the components?*
+
+To start, you need at least two MoCA adapters: One will act as a "bridge" that will be wired to your source of internet (e.g. your primary router) to get the devices on the coaxial (cable) wire connected to your home network. Then you will have an adapter in a room where you want wired internet for one or more devices.
+
+*Wait, might I have a MoCA bridge already?*
+
+Yes, but most cable companies (at least in the United States) do not use MoCA. If you certain newer models of Tivo, the main Tivo (Premiere 4, Roamio Plus/Pro, Bolt/Bolt+) can act as a MoCA bridge (connect Tivo to ethernet, then set it up in options as a MoCA bridge). If you have Verizon FiOS as your ISP and they wire the [ONT](https://en.wikipedia.org/wiki/Network_interface_device#Optical_network_terminals) (grey box outside or inside your home that their fiber optic cable is wired to) to the coaxial wire in your home, then you can use the included Actiontec router they give you as a MoCA adapter (easiest way to tell is if your router is connected via coaxial (RG6) cable, instead of the RJ45 cable [RJ45 is like a phone jack but wired, e.g. wired internet port on a desktop computer, Xbox/Playstation, etc.])
+
+*Okay, I don't have a MoCA bridge. What do I need?*
+
+As mentioned earlier, you need two MoCA bridges. The generally recommended model right now is the ECB6200. One adapter averages online sale for around $75-$100 and a kit of two (ECB6200K02) goes for around $150-$200 online. You should also install a MoCA PoE filter [example of one on Amazon](https://www.amazon.com/Antronix-Filter-GLF-1002-Coaxial-Networking/dp/B01EXRMIIC/), there are others but you shouldn't pay more than $10 for one). This screws in between where the cable enters your house and the first splitter you have on the input line (a splitter [looks like this](https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6651/6651202_rd.jpg, although a splitter might have anywhere between 2-8 outputs). This prevents signals over 1000mhz from leaving/entering your home, which will both increase the security of your MoCA network (by preventing neighbors on the same coax run from joining your network) and blocking signals in these ranges from your neighbors that might diminish the performance of my network. If you want to connect more than one device in the room where you have a MoCA adapter, you'll also need to buy a 4 or 8 port gigabit switch. These go on sale for less than $30 online on a pretty regular basis (8 port models).
+
+You may also need to replace the splitter in your home if it is an older model. If it doesn't list the frequencies it supports, or it isn't labeled for 5-2400mhz, then you probably want to replace it. Splitters are generally cheaper online (an 8 port splitter from Monoprice is less than $9 on Amazon, and less than $5 from Monoprice directly).
+
+*Okay, sounds good. Anything I should know before I order?*
+
+Yes. MoCA generally works well in most scenarios. **It will not work if you have satellite TV running over those wires**. MoCA was designed to cooperate with incoming cable television and cable internet signals. If you have a larger home especially, then there may be narrowband splitters (e.g. those that don't go up to 2400mhz) that were used and put behind walls in home construction. This isn't common, and most homes will only have an accessible splitter in the basement. If you do have a narrowband splitter in the walls, it may limit your maximum speed achievable well below a gigabit per second. Your best bet is to buy from a merchant with a good return policy. Some credit cards (especially American Express Cards issued by Amex themselves [examples: not an Amex from Macy's or Bank of America] and many Citi credit cards) offer extended return protection, where they will refund you for the purchase price of an item if the merchant won't take it back within 90 days of purchase. Check with your issuer.
+
+**Alright, I've ordered everything and it's arrived. Now what?**
+
+Setting up a MoCA network is pretty simple typically. 
+
+1) If you need to replace your splitter, do so. Unscrew all of the cables from your existing splitter and take out the new one. Keep track of which wire went to the "IN" of your existing splitter (mark it with a label or a piece of tape).
+
+2) After you have unscrewed the input, screw on the MoCA PoE filter the "IN"/"INPUT" of your splitter. Then screw on the cable that previously went on to the "IN"/"INPUT" of the spliter to the PoE filter. [Example of what this looks like](https://i.imgur.com/3KBOKhF.jpg) - the cable on the top of the metal piece with blue/red sticker is the incoming cable, the red/blue stickered metal piece is the PoE filter, and the golden RCA thing is the splitter, with the PoE filter connected to IN.
+
+3) Unbox your first MoCA adapter and prepare to connect it to your home network. Go to a location that has both a place to connect to your home network (e.g. where your router is) and a coaxial line. Connect a coaxial (cable) wire from the wall to the "coax in" of the adapter. If you've had to steal a wire from either your cable box or cable modem to do so, connect a coaxial (cable) wire from the "coax out" of the MoCA adapter to your existing cable modem/cable box. Plug in the wired internet (ethernet/RJ45) port of the MoCA adapter to one of the LAN ports on your router. Plug in the power.
+
+4) Repeat #3, but in the room where you want wired internet (and don't have it now, but do have coaxial available), except you connect the wired internet port of the MoCA adapter (ethernet/RJ45) to either a switch or to the device you want to have wired internet.
+
+5) Within a minute, you should see the lights "POWER", "ETHERNET", and "COAXIAL" all go on and turn green on both MoCA adapters. When this happens, you can try a speedtest and to access the internet. If that works, you're done - you've set up a MoCA network in your home!
+
+----------------
+
+**Further questions**
+
+*I tried it and it didn't work...*
+
+Try to make sure all the connections you did are tight/fully plugged in. Try the old reboot, unplug both MoCA bridges and plug in the one connected to your router first, wait a minute, and then plug in the additional bridges. If all else fails after following the troubleshooting guide, you might consider returning them.
+
+*I tried it and it worked, but I'm not getting a gigabit...*
+
+If you're doing an internet speedtest, you may simply not have gigabit internet. If you do test locally and there is no other bottleneck (e.g. a switch or router that can't process gigabit speeds) then it may be the maximum that your home network conditions permit.
+
+*I tried it and it worked. I want internet in a [second/third/fourth] room. Can I buy additional adapters and have them work?*
+
+Yes, assuming the coaxial jacks in those rooms work (e.g. they are connected to your splitter where all the other MoCA devices are connected to), you can buy additional bridges.
+
+*I want to check the security settings/upgrade firmware/see the statistics of the bridges*
+
+[There's a configuration page you can access to do these things](http://helpdeskgeek.com/networking/upgrade-actiontec-ecb6200-firmware/). Bear in mind that if you change the encryption passphrase on one adapter, you must change it on all additional adapters.
+
+Hope this info helps and feel free to ask questions.
+
+--------------------
+
+**Personal story**
+
+My grandparents bought a home that was constructed in the late 1800s and was traditionally restored (e.g. plaster with metal/concrete behind it) in the 1990s. The home is beautiful, but in the 1990s most people didn't have the internet, and if they did it was dial-up - so no wired internet, just coaxial and phone lines. The home construction means wifi quickly dies, meaning signal gets blocked from much of the house. Wifi repeaters don't really help when there is barely any or no signal to repeat, and powerline adapters simply didn't work (never connected).
+
+I bought them (a few years ago) MoCA adapters capable of speeds up to 270mbps. I bought four adapters total: one to connect to the router, and three to connect in different rooms.  I also bought three Netgear Nighthawk X10 routers, to be configured in access point mode (connect to wired ethernet from the bridges and broadcast a wifi access point, but not try to act as a router and put all devices on the network of the primary router).
+
+In two of the target rooms, the MoCA adapter worked flawlessly - they can max out their 60mbps down/25mbps up internet with pings below 10ms to internet speed tests. In one target room (second floor, with coax run to the basement) the MoCA adapter would not work, I presume because the builders used a splitter buried behind the walls. I returned the third router (unopened) and the MoCA bridge. 
+
+With the router at the base of the first floor, internet know reaches outside the front of the house, and through the floor construction to their second and third floors, with reliable wifi throughout the entire house and hardwired internet available at those key locations.
+
+---------------------
+
+Hope this helps, and feel free to ask questions.
+
+url:https://reddit.com/r/YouShouldKnow/comments/6nta9x/
+author:coopdude
+subreddit:YouShouldKnow
+score:3512
+numComments:191
+isOver18:False
+hasPostBody:True

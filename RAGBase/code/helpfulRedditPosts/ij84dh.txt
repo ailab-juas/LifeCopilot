@@ -1,0 +1,13 @@
+title:
+LPT: If you looking into buying a new game and want to ask questions, head over to Twitch, search for the game, and sort by the least amount of views. The users there are usually more than happy to interact with and answer any question for you.
+
+content:
+Tried this with Flight Simulator 2020, had a few questions so I went into the top channel and was drowned out by the chat. Decided to sort by the lowest number of views and clicked into a few channels, was able to get streamers to answer all questions and even show me some of the stuff I was just curious to see.  Smaller streamers love to interact with the chat more than the larger ones.
+
+url:https://reddit.com/r/LifeProTips/comments/ij84dh/
+author:ridge9
+subreddit:LifeProTips
+score:40530
+numComments:575
+isOver18:False
+hasPostBody:True

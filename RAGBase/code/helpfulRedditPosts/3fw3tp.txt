@@ -1,0 +1,27 @@
+title:
+YSK how to become an excel master
+
+content:
+I did some digging and here are a list of sites that I found that can improve your excel skills.
+
+http://www.contextures.com/
+
+http://excelexposure.com/
+
+https://www.udemy.com/tutorials/learn-excel/
+
+http://www.improveyourexcel.com/
+
+http://www.excel-easy.com/
+
+http://www.free-training-tutorial.com/
+
+If you guys have any of your own that you know are good as well, tell us in the comments!
+
+url:https://reddit.com/r/YouShouldKnow/comments/3fw3tp/
+author:ckfighter2
+subreddit:YouShouldKnow
+score:3040
+numComments:273
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+YSK about rainymood: a website that makes it sound like it's raining outside. It's amazing if you need to concentrate on your studies and cancel noise around you
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/14kmaz/
+author:discharge
+subreddit:YouShouldKnow
+score:2063
+numComments:118
+isOver18:False
+hasPostBody:False

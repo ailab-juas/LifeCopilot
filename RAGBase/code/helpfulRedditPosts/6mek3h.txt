@@ -1,0 +1,13 @@
+title:
+LPT: When folding/packing baby clothes, fold a shirt around the corresponding pants so you never have to search for a matching outfit.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/6mek3h/
+author:emptyvitamins
+subreddit:LifeProTips
+score:1372
+numComments:73
+isOver18:False
+hasPostBody:False

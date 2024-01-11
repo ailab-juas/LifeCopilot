@@ -1,0 +1,15 @@
+title:
+YSK that Spotify doesn't just have music--it also has lots of stand-up comedy!
+
+content:
+I was pleasantly surprised to find out that Spotify has a spoken word category, including stand-up comedy.  There is material that hasn't been posted on Netflix or YouTube, and in the "Word" category on browse there are collections of comedians that have helped me discovered new ones.
+
+Not sure if this is big news for anyone else, but I want to pass it along!
+
+url:https://reddit.com/r/YouShouldKnow/comments/2hde8v/
+author:curryo
+subreddit:YouShouldKnow
+score:2134
+numComments:180
+isOver18:False
+hasPostBody:True

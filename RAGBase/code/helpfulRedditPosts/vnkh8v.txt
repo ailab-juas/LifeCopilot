@@ -1,0 +1,13 @@
+title:
+LPT: Colleges have boring on-campus jobs that are just manning a desk, you can get paid and use the downtime to study.
+
+content:
+Even if you don't need the money, it knocks out two birds with one stone, and you get beer money while pretty much having dedicated time to study and do homework while you check people into the library or whatever
+
+url:https://reddit.com/r/LifeProTips/comments/vnkh8v/
+author:WorkingContext
+subreddit:LifeProTips
+score:3486
+numComments:158
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,26 @@
+title:
+YSK about the base rate fallacy, or why the 'nothing to hide' argument won't matter a jot when the NSA come a-knocking.
+
+content:
+A base rate fallacy is committed when a person judges that an outcome will occur without considering prior knowledge of the probability that it will occur. They focus on other information that isn't relevant instead.
+
+
+Let us imagine a town with 1million inhabitants. 100 of those are dangerous terrorists. Fortunately, the authorities have an amazing device to scan all inhabitants and will identify a terrorist (by ringing a bell) with an accuracy of 99%.
+
+Citizen K is scanned, and the bell goes off. What is the chance that he is a terrorist? If you said 99%, you are wrong. It is nearer 1%. By assuming the two probabilities are related (they're not), you have just committed the base-rate fallacy. Look:
+
+In this town of 1million, this device will correctly identify 99 of the 100 terrorists, and incorrectly identify 9,999 of the remaining 999,900 citizens.  This gives us 10,998 people loaded onto a bus to Guantanamo, of which only 99 are actually terrorists, or roughly 1%.
+
+Boring numbers aside, what's the takeaway from this? Terrorists are hard to identify not because they are especially secretive, but because they are rare.  Data is noisy, especially when collected en masse. Noise (useless data) can be incorrectly identified as signal when not properly studied.
+
+Stay in school kids, and learn maths.
+
+EDIT: This isn't just about terrorism, obviously. This is a very useful tool for questioning statistics in general. Just adding that.
+
+url:https://reddit.com/r/YouShouldKnow/comments/1gdb63/
+author:thenewlove
+subreddit:YouShouldKnow
+score:1961
+numComments:207
+isOver18:False
+hasPostBody:True

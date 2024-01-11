@@ -1,0 +1,15 @@
+title:
+LPT: Don’t base your entire identity and self-worth off of a skill (coding, violin, soccer, etc). You will be unhappy and feel like a failure when others surpass you.
+
+content:
+My coworker who has based much of his identity at being a “coding nerd” becomes rude and defensive when anyone suggests edits and dismissively says a lot of things like “you wouldn’t understand.” Don’t be that person. 
+
+When you remove everything in your life, what is left?
+
+url:https://reddit.com/r/LifeProTips/comments/okfg1r/
+author:gilgalou
+subreddit:LifeProTips
+score:6458
+numComments:189
+isOver18:False
+hasPostBody:True

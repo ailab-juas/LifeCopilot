@@ -1,0 +1,43 @@
+title:
+YSK that your teeth and gums are linked directly to your heart, and keeping them healthy by practicing good dental hygiene can help protect your heart, too
+
+content:
+ **Why YSK:** While dental health is very important in general, one reason that often gets overlooked is that your teeth and gums are directly linked to your heart, and poor dental hygiene can potentially lead to heart problems if left unattended.
+
+Some of those can include:
+
+* Gum disease, which can increase your risk of developing heart disease.
+* If you don't take care of your mouth, you risk developing a bacterial infection in your bloodstream. This, in turn, can potentially affect your heart (specifically heart valves -- be very careful if you've had heart surgery to repair/replace them).
+* Poor dental care can lead to type 2 diabetes, and there's an apparent link between type 2 and cardiovascular disease.
+
+It's worth noting that more research is needed to determine exactly what the links are, why they occur and how prevalent they are. But studies seem to indicate that they do, at the very least, exist in some capacity, and you can never be too careful when it comes to your health (especially not with your heart).
+
+Practice good dental hygiene by doing some or, ideally, all of the following:
+
+* Brushing your teeth twice a day for 2 minutes at a time (make sure you are brushing all the way to the back).
+* Flossing once a day.
+* Using mouthwash frequently.
+* If possible, use toothpaste with or drink water that contains fluoride.
+* See a dentist regularly for check-ups and cleanings.
+
+Obviously, you can have heart issues regardless of the state of your teeth. And if you *do* have heart issues (of any kind, whether congenital or adult), it's still important to maintain good oral hygiene so that you don't potentially make those problems worse.
+
+Regardless, it's still a good idea to brush your teeth twice a day. It keeps more than just your mouth happy!
+
+Sources:
+
+[Mayo Clinic](https://www.mayoclinic.org/healthy-lifestyle/adult-health/expert-answers/heart-disease-prevention/faq-20057986)
+
+[American Heart Association](https://www.heart.org/en/news/2018/11/07/bad-tooth-brushing-habits-tied-to-higher-heart-risk)
+
+[Healthline](https://www.healthline.com/health/gum-disease-and-heart-disease)
+
+(Disclaimer: I am not a dentist or a doctor, so please let me know if I have misinterpreted any of the sources, or if they are somehow not considered legit.)
+
+url:https://reddit.com/r/YouShouldKnow/comments/rcw7ap/
+author:ZekesLeftNipple
+subreddit:YouShouldKnow
+score:2733
+numComments:92
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Everytime you cancel a monthly expense (like cable), send the money saved automatically to your savings account instead.
+
+content:
+I learnt this "trick" from my mom: Everytime you cancel a monthly expense, because you don't need it anymore, set up a standing order and send the money to your savings account. E.g. I canceled my netflix subscription this month, because I don't really watch it anymore. Instead of just have more spending money, I set up a standing order to my savings account. 
+
+url:https://reddit.com/r/LifeProTips/comments/7zoi03/
+author:jadzia11
+subreddit:LifeProTips
+score:1447
+numComments:49
+isOver18:False
+hasPostBody:True

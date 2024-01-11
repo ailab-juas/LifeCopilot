@@ -1,0 +1,18 @@
+title:
+LPT; Cell phone alarm users, set a vibrating alarm first, then an audible.
+
+content:
+I’ve worked rotating shift work for 15 years, and find this method works best for early shifts. The slight vibration on my nightstand or corner of my bed gently pulls me out of REM sleep and the audible alarm ensures I wake. 
+
+I do two vibrating alarms 5 min apart, and two audible 5 min apart after. 
+
+
+It’s widely used in my career field, and I highly recommend it.
+
+url:https://reddit.com/r/LifeProTips/comments/sam7fr/
+author:docgima
+subreddit:LifeProTips
+score:5675
+numComments:235
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+YSK that the US Postal Service offers a free service that will send you daily emails of what's going to be sent to your physical mail box.
+
+content:
+I signed up last week and it's awesome. https://informeddelivery.usps.com
+
+url:https://reddit.com/r/YouShouldKnow/comments/7zxaac/
+author:g1bb
+subreddit:YouShouldKnow
+score:14500
+numComments:492
+isOver18:False
+hasPostBody:True

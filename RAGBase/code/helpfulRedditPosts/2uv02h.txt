@@ -1,0 +1,19 @@
+title:
+YSK about the digital signature import tool built into OSX's "Preview" software. Just hold up your signature on a piece of paper to the camera and it will vectorise it for you, ready to be imported into your documents or emails.
+
+content:
+A little known gem of software engineering. Very quick, very clever... and it actually works well.
+
+If you own a Mac, open up a document in Preview. Then press the little briefcase button on the top next to the search bar. Press the "signature" button and you can select to either "write" it on a trackpad or use the camera. Select the camera option.
+
+Write your signature on a piece of paper and hold it up to the camera. VOILA! A vectorised version of your signature ready to import!
+
+[More info here!](http://www.guidingtech.com/34246/sign-pdf-mac/)
+
+url:https://reddit.com/r/YouShouldKnow/comments/2uv02h/
+author:evenstevens280
+subreddit:YouShouldKnow
+score:1373
+numComments:74
+isOver18:False
+hasPostBody:True

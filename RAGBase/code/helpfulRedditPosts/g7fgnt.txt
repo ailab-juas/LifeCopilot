@@ -1,0 +1,20 @@
+title:
+LPT: if you think something can be custom made cheaper than a mass-produced item, you’re nearly always wrong.
+
+content:
+I run a custom woodworking business and I regularly am asked to quote projects from photos of a clearly mass-produced item from someone else’s catalog or web site. If there’s any way possible that I can make one of an item for less than the retail cost, one of three things is happening:
+1. I’m using inferior materials or techniques
+2. I’m not paying myself or my employees a living wage
+3. I’m not compensating the designer for their intellectual property. 
+
+I generally think it reflects poorly on the person asking, but I realize it’s generally driven by ignorance rather than malice. Hopefully now we’ve taken care of the ignorant part. 
+
+That said, if you want custom, expect to pay double at least what it would cost retail and make sure you really want what you think you want. If I didn’t think there was value in custom work, I wouldn’t be in this business, but I’m not making you a Billy Bookcase cheaper than IKEA.
+
+url:https://reddit.com/r/LifeProTips/comments/g7fgnt/
+author:acatinasweater
+subreddit:LifeProTips
+score:7050
+numComments:585
+isOver18:False
+hasPostBody:True

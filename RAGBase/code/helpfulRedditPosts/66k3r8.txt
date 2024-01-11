@@ -1,0 +1,13 @@
+title:
+YSK: You can just cancel most 30-day "free" trials immediately after you begin them and still enjoy the service for the duration of the trial without worrying about forgetting, and being tricked into subscribing.
+
+content:
+This always struck me as a very slightly sketchy business practice, anyway.
+
+url:https://reddit.com/r/YouShouldKnow/comments/66k3r8/
+author:Alcnaeon
+subreddit:YouShouldKnow
+score:6012
+numComments:167
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+YSK that a percent increase in a statistic may not mean what you think. If 10% of people like chocolate milk more than strawberry but there was an 80% increase over the last year, now 18% of people like chocolate milk, not 90%.
+
+content:
+This may be obvious to you but to a lot of people it's new information, which is okay because it's easy to see a statistic and not think of it too much. I myself used to be the same way and most of the people I talk to thought the same thing as well.
+
+url:https://reddit.com/r/YouShouldKnow/comments/e5znev/
+author:LTDToast
+subreddit:YouShouldKnow
+score:2155
+numComments:69
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: The temperature rating for a sleeping bag is the temp at which it will keep you from dying, not the temp at which you'll be comfortable
+
+content:
+Made this mistake after being evicted a few years back during a New York winter and having to take drastic measures. If a sleeping bag is rated down to 20° F, at 20° you'll be alive, but only just, and certainly not happy or comfortable. If you're going somewhere with an average temperature at that time of year of below freezing and really must sleep outside, go all in on a good sleeping bag, at least something rated at 0° F.
+
+url:https://reddit.com/r/LifeProTips/comments/lg509a/
+author:VivaBlasphemia
+subreddit:LifeProTips
+score:1223
+numComments:88
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Considering upgrading your living situation but not sure you can handle the increase of cost? Try “paying” the new amount, and put the difference in a savings account.
+
+content:
+For instance, say you’re currently paying $1,000 a month for rent and considering moving to a bigger place that’s going to be $1,500. Pay your $1,000 rent and put the additional $500 into a savings account. *Do this for at least 3 months*. Sometimes your budget numbers will work on paper but once you start buying Dunkins and Taco Bell you’ll find you don’t have as much left over as you thought.
+
+url:https://reddit.com/r/LifeProTips/comments/epsce6/
+author:BlueberryPuffy
+subreddit:LifeProTips
+score:43887
+numComments:1000
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,17 @@
+title:
+YSK If you’ve ever given the Amazon app on your phone microphone access, the app will be always listening when open, ostensibly for Hey Alexa keyword detection
+
+content:
+Why YSK: This is a potential privacy concern. I had used the voice button in app to make Alexa add an item to my cart, only way to access an offer on said item. Today I noticed the mic activity indicator was on while using the app.
+
+EDIT: To everyone saying it's only used for hotword detection: Cool, so you're absolutely positive Amazon's hotword detection is 100% accurate, they don't send sample recordings for diagnostic purposes, say for techs to manually review to improve their matching algorithms. I'm not saying they do, since I don't have the time to read their terms of service, nor the time to analyze the code or sit and monitor the data going in and out of the app with a packet sniffer. But it's not something I'm personally comfortable with.
+
+I allowed the app microphone privileges under the assumption it would only be used when when I hit the microphone button, I may have skipped the part where they disclosed the app would indeed be always listening. Since I overlooked it, I assumed others might too, so I made this post.
+
+url:https://reddit.com/r/YouShouldKnow/comments/khgmm4/
+author:WolfRamAlpha12
+subreddit:YouShouldKnow
+score:28001
+numComments:865
+isOver18:False
+hasPostBody:True

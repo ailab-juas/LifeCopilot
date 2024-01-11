@@ -1,0 +1,13 @@
+title:
+LPT: If you're not good at making a lot of friends, put all your effort into making one good friend who is.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/7q5crf/
+author:spacejunkie451
+subreddit:LifeProTips
+score:3356
+numComments:198
+isOver18:False
+hasPostBody:False

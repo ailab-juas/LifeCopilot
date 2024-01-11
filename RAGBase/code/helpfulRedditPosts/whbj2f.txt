@@ -1,0 +1,27 @@
+title:
+YSK: When you need hot water, run it all the way hot.
+
+content:
+Why YSK: When you don't run full hot you waste a lot of water.
+
+If you, like many, have a pretty good idea of where your ideal sink or shower hot water setting is you may set it there and then wait for it to warm up.  However, it will take significantly longer for your hot water to reach temperature and, while you wait, all that cold water is wasted. Also, on tub shower combos, run the tub until it is hot (but that just gets you hot water quicker)
+
+On a shower/spigot with dual controls turn the hot water on only. The mixer will only bring in water from the hot water side. This clears the hot water line of the air temperature water that is sitting in the pipes and the water heater heated water gets to you sooner, especially in a restricted flow shower.  If you use the tub fill, its even faster.
+
+On single control units (more common) you typically cannot get only hot water (unless its older) but you dont waste as much cold water coming from the cold water lines. Newer spigots have very small ranges and will always have a mix.
+
+A tub runs 4-7 gpm (gallons per minute). Your shower is 1.5 - 2.5.  This means that using your tub on full hot will get your hot water to you 2-3 times quicker.  
+
+When you "know" your preferred setting and place it there, you take even longer AND all that cold water is a waste.
+
+I am aware that on buildings with water curculation systems this is not true.
+
+Edit: Once the water gets hot, then turn on the cold water to mix to the right temperature.
+
+url:https://reddit.com/r/YouShouldKnow/comments/whbj2f/
+author:theregularprofessor
+subreddit:YouShouldKnow
+score:4143
+numComments:277
+isOver18:False
+hasPostBody:True

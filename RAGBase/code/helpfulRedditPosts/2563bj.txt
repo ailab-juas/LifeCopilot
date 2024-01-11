@@ -1,0 +1,17 @@
+title:
+YSK Beats by Dre are just headphones with a built-in equalizer
+
+content:
+When you turn Beats "off" the EQ is actually set to a bad sounding preset. This creates the illusion of an improvement when Beats is turned "on".
+
+Edit: This is true for anything with Beats
+
+2nd Edit: This explains everything: http://www.youtube.com/watch?v=Cdbn_pmxFic I apologize for not originally posting this link
+
+url:https://reddit.com/r/YouShouldKnow/comments/2563bj/
+author:HardHandle
+subreddit:YouShouldKnow
+score:2260
+numComments:651
+isOver18:False
+hasPostBody:True

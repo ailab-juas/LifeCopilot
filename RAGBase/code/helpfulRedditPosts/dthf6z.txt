@@ -1,0 +1,16 @@
+title:
+YSK about send.firefox.com which allows you to share any file via a link that encrypts the file and it allows you to restrict either the number of downloads via the link or minutes after which the link gets expired so that it only reaches the desired user/s.
+
+content:
+This is useful for sending large files upto 2.5 GB which sending over the air otherwise, is a big hassle. 
+Its been useful at times when I didnt want to use even my email to send confidential info to someone and then have that link expired.
+
+Edit: My first Silver ! Thank you kind stranger !
+
+url:https://reddit.com/r/YouShouldKnow/comments/dthf6z/
+author:Zackk90
+subreddit:YouShouldKnow
+score:15693
+numComments:217
+isOver18:False
+hasPostBody:True

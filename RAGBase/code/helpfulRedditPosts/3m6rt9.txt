@@ -1,0 +1,13 @@
+title:
+LPT: When making frozen pot pies, pop the frozen pie out of the pan, spray a little Pam in it and replace the pie. Bake as usual and enjoy how easily the pie comes out of the pan without getting stuck.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/3m6rt9/
+author:dooflotchie
+subreddit:LifeProTips
+score:3075
+numComments:535
+isOver18:False
+hasPostBody:False

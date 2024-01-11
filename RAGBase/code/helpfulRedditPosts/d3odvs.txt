@@ -1,0 +1,17 @@
+title:
+YSK: When buying paint, don't be fooled by the term "Paint and Primer in One." This is a catchy marketing term that is misleading. It just means the paint covers well, it will not fully prepare an unprepped surface.
+
+content:
+There will be instances when a primer is required: bare surfaces like wood, drywall, and concrete, fresh patchwork like spackling, freshly removed wallpaper, etc. Skipping the primer step can lead to peeling paint, shiny spots called "flashing," and poor color and sheen uniformity.
+
+If you are changing colors, but the wall is in sound condition, then the "Paint and Primer in One" will cover well. But don't be misled by a salesperson claiming you can skip steps; it's not always advisable to skip the primer step. 
+
+Source: I have been a Sherwin-Williams store manager for over almost a decade. I've seen many customers and contractors try to skip the priming step because of this marketing term. Proper preparation can save time, appearance, and lots of money in the long run.
+
+url:https://reddit.com/r/YouShouldKnow/comments/d3odvs/
+author:thatsnotahotdog
+subreddit:YouShouldKnow
+score:3408
+numComments:78
+isOver18:False
+hasPostBody:True

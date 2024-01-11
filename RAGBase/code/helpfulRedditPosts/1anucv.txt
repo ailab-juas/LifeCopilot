@@ -1,0 +1,19 @@
+title:
+YSK that CPR never restarts the heart, it only buys time till help arrives
+
+content:
+You should never expect CPR to restart the heart in case a person stops breathing or collapses. It just keeps blood flowing around the body till a defibrillator and professional help can come in.
+
+And, you should also know that even if you have NO first aid training, dont know a single thing about CPR, and there is nobody else around to help, you are better off pressing up and down on the chest then just leaving the person there.
+
+Any sort of movement of the chest is better than no movement at all. You dont have to breath into the mouth if you think its difficult or dont have training.
+
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/1anucv/
+author:SuperMachoBoy
+subreddit:YouShouldKnow
+score:1610
+numComments:467
+isOver18:False
+hasPostBody:True

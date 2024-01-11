@@ -1,0 +1,13 @@
+title:
+LPT: If you’re not sure whether someone is waving at you or someone behind you, just smile at them.
+
+content:
+It’ll save you the very awkward feeling of receiving a greeting meant for someone else.
+
+url:https://reddit.com/r/LifeProTips/comments/bml707/
+author:Coffeecor25
+subreddit:LifeProTips
+score:7816
+numComments:198
+isOver18:False
+hasPostBody:True

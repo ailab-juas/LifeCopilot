@@ -1,0 +1,13 @@
+title:
+YSK: Always make a copy of a document while making changes.
+
+content:
+Why YSK: Nowadays the auto save doesn't let you say 'dont save' easily and also the number of undo steps are limited in various softwares.
+
+url:https://reddit.com/r/YouShouldKnow/comments/qs4yvy/
+author:MINORARC13
+subreddit:YouShouldKnow
+score:3332
+numComments:124
+isOver18:False
+hasPostBody:True

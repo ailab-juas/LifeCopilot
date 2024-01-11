@@ -1,0 +1,13 @@
+title:
+LPT: Take upon yourself to learn one little skill- a skill that you’ve always dreamed of being able to know how to do- per month. Practice that skill for a little bit per day. You’d be surprised at how quickly you’ll acquire the ability to do some cool things you never thought you’d do.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/dijid9/
+author:AkivaE
+subreddit:LifeProTips
+score:4695
+numComments:319
+isOver18:False
+hasPostBody:False

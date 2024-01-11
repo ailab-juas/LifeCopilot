@@ -1,0 +1,13 @@
+title:
+[LPT] WhatsApp group having only yourself can be used to exchange data between PC and phone. Can be useful if you don't have cable
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/dhn6yz/
+author:[deleted]
+subreddit:LifeProTips
+score:4196
+numComments:330
+isOver18:False
+hasPostBody:False

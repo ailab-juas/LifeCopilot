@@ -1,0 +1,33 @@
+title:
+LPT: When creating a temporary file, name it or prefix it "ToDelete"
+
+content:
+So when you browse your files, you'll remember to remove the useless stuff. Also, when you want to clean your desktop, it gets easier, you don't have to think *what was that again?*
+
+I use this for : 
+
+- test projects
+- drafts
+- drawings you want to share on social media
+
+**Edit** 
+
+Wow I didn't expect this post to get that much attention!
+
+For those who suggested to put the files in a specific folder, there's something to consider:
+
+When you save a file, the program you're using remembers the folder, and will suggest this folder for the next time you want to save a file (on Mac OS)
+
+As I often save the same kind of files in the same place, this works well for me. And if I start to save files in different folders, it means I have to change the folder all the time. So the file naming system saves me time.
+
+However the folder system as other mentioned is good, especially if you have a folder that empties itself when you reboot your computer.
+
+
+
+url:https://reddit.com/r/LifeProTips/comments/2s9uyc/
+author:JClemenceau
+subreddit:LifeProTips
+score:1610
+numComments:448
+isOver18:False
+hasPostBody:True

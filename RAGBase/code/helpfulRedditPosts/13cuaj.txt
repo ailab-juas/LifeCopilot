@@ -1,0 +1,13 @@
+title:
+If you're traveling and need to go #2, stop at a hotel and use the lobby bathroom.
+
+content:
+Bathrooms in hotels are usually much nicer than a gas station bathrooms.
+
+url:https://reddit.com/r/LifeProTips/comments/13cuaj/
+author:jwhitte
+subreddit:LifeProTips
+score:1551
+numComments:455
+isOver18:False
+hasPostBody:True

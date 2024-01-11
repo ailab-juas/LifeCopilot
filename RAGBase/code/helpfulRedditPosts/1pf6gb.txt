@@ -1,0 +1,13 @@
+title:
+LPT: Instead of just making to-do lists, use the Eisenhower Matrix, which organizes tasks by importance vs. urgency.
+
+content:
+Basically, the matrix sets urgency on the x-axis from very urgent to not urgent and importance on the y-axis from important to not important. In the upper left quadrant (very urgent, very important), the most crucial tasks go. This is the quadrant you complete first. In the upper right quadrant (very important, not urgent) goes long term tasks (e.g. long term planning, projects, research paper, etc.). These tasks are accomplished second. Next is the bottom left quadrant (urgent, not important), where you can find tasks like unimportant emails, updating Facebook, checking Reddit, etc. Finally, the bottom right quadrant are the least urgent and the least important tasks. [HERE](https://timegt.com/2010/07/14/what-is-the-eisenhower-matrix/) is a great article that gives a better background on the idea. It's helped me a lot over the past couple weeks since I started using it, helping to prioritize tasks in a more efficient manner.
+
+url:https://reddit.com/r/LifeProTips/comments/1pf6gb/
+author:danthecryptkeeper
+subreddit:LifeProTips
+score:1995
+numComments:202
+isOver18:False
+hasPostBody:True

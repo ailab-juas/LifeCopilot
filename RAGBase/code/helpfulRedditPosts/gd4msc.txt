@@ -1,0 +1,13 @@
+title:
+YSK that forest fire season is about to start and firefighting aircraft will abort active fire-fighting missions if they see any drones due to limited visibility from the smoke and unpredictable flight paths of recreational use drones.
+
+content:
+A lot of recreational drone pilots think it’s cool to fly over these fires and check out what’s happening not knowing that they are in temporary flight restricted airspace. I am a retired air traffic control facility manager and we regularly briefed the number of aborted fire-fighting missions due to unauthorized/recreational drones. Drones are definitely cool and can be lots of fun, but following airspace rules keeps everyone safe and enables emergency response aircraft do their mission.
+
+url:https://reddit.com/r/YouShouldKnow/comments/gd4msc/
+author:lotusblossom520
+subreddit:YouShouldKnow
+score:9402
+numComments:178
+isOver18:False
+hasPostBody:True

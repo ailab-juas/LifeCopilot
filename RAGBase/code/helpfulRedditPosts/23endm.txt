@@ -1,0 +1,13 @@
+title:
+LPT: if you're lost and in desperate need of directions, don't bother stopping at at gas station. Go to a pizza place, or if that fails, a hotel
+
+content:
+Pizza delivery drivers would know directions to everywhere in the city pretty much (a good one will), and hotel clerks answer navigation questions all day long. Even if the clerk doesn't know, they have a computer and can find it for you.
+
+url:https://reddit.com/r/LifeProTips/comments/23endm/
+author:MyNameIsSkittles
+subreddit:LifeProTips
+score:1873
+numComments:364
+isOver18:False
+hasPostBody:True

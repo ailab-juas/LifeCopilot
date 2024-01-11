@@ -1,0 +1,13 @@
+title:
+Going out drinking tonight and tend to lose your phone? Set a screenshot of your contact info from notepad as your lockscreen before you head out!
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/10md9n/
+author:TechFocus
+subreddit:LifeProTips
+score:1964
+numComments:448
+isOver18:False
+hasPostBody:False

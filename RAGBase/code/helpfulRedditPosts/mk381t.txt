@@ -1,0 +1,13 @@
+title:
+LPT: To prevent the feeling that life is just whizzing by, change your routine and do new things as much as possible. Novelty keeps the brain fully aware, recording and remembering, it makes life feel more enriched and that time isn't passing so quickly.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/mk381t/
+author:zazzlekdazzle
+subreddit:LifeProTips
+score:1788
+numComments:42
+isOver18:False
+hasPostBody:False

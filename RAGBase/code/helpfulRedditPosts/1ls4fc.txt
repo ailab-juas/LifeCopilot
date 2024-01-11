@@ -1,0 +1,13 @@
+title:
+LPT: For major purchases, put the warranty expiration date on your calendar
+
+content:
+Set a reminder for one month in advance so you have time to find any problems and have them taken care of. You should always have a mechanic inspect your vehicle at this time so that any necessary repairs can be done under warranty.
+
+url:https://reddit.com/r/LifeProTips/comments/1ls4fc/
+author:stevez28
+subreddit:LifeProTips
+score:2001
+numComments:149
+isOver18:False
+hasPostBody:True

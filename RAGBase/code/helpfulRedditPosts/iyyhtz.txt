@@ -1,0 +1,17 @@
+title:
+YSK that Project Gutenberg has an online library of over 60,000 free eBooks
+
+content:
+Why YSK: In these times getting your hands on things to read can be hard – especially if your local library doesn't have freely available web resources.
+
+Project Gutenberg has a massive library of eBooks as well as audio books you can download to your device, or read directly in your browser. Its collection includes works that are not currently protected by copyright in the United States, most commonly classics with expired rights, like [Pride and Prejudice by Jane Austen](https://www.gutenberg.org/files/42671/42671-h/42671-h.htm).
+
+[Project Gutenberg's website](https://www.gutenberg.org/).
+
+url:https://reddit.com/r/YouShouldKnow/comments/iyyhtz/
+author:inejghafas
+subreddit:YouShouldKnow
+score:14417
+numComments:133
+isOver18:False
+hasPostBody:True

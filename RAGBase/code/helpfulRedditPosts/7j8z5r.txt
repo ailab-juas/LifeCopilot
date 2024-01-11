@@ -1,0 +1,13 @@
+title:
+LPT: When closing Chrome, don't close use using the X in the top right corner. Instead, click the 3 dots right below the X and click Exit. It'll save you more RAM and CPU usage.
+
+content:
+Clicking exit closes everything related to chrome, no just your browser window.
+
+url:https://reddit.com/r/LifeProTips/comments/7j8z5r/
+author:minicrops1
+subreddit:LifeProTips
+score:2917
+numComments:222
+isOver18:False
+hasPostBody:True

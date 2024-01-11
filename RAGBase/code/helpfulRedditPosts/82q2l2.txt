@@ -1,0 +1,13 @@
+title:
+LPT: Think of money in terms of hours. You make $10/hour and wanna buy that $150 coat? Is that coat really worth 15 hours of work?
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/82q2l2/
+author:ThanksIObama
+subreddit:LifeProTips
+score:31506
+numComments:2362
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,15 @@
+title:
+LPT: Put a wall calendar in your toddler/young child's room.
+
+content:
+My four-year-old had been asking about how long it would be until his next birthday.  Seeing as it's currently January and his birthday is in October, it was hard for him to grasp the concept of that length of time.  He's had a pretty decent concept of weekly time for a little while now, but anything beyond that is pretty abstract (as expected).  
+
+As a result, my wife and I got him a wall calendar to put in his room.  He really likes birds, so we [got him one](https://smile.amazon.com/gp/product/1523506180/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&amp;psc=1) that fits his interest.  Together with him we marked important dates on it--mostly family birthdays and holidays.  Now if events are more than a week out and they pertain to him, we add them to the calendar as well, and he can count down the number of days/weeks until said events.  In the process, he's learning about the days of the week and months of the year (and birds!).  At the end of each day before going to bed, we cross off the day together.
+
+url:https://reddit.com/r/LifeProTips/comments/ew3rj4/
+author:SquaredCircle84
+subreddit:LifeProTips
+score:7287
+numComments:217
+isOver18:False
+hasPostBody:True

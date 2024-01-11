@@ -1,0 +1,22 @@
+title:
+LPT: Remove Tourists from your Travel Photos
+
+content:
+Put your camera on a tripod
+
+Take about 15 pictures about every 10 seconds 
+
+Open them all in Photoshop from File-&gt;Scripts-&gt;Statistics
+
+Choose "median"
+
+Example:
+http://i.imgur.com/Gkn1ngK.jpg
+
+url:https://reddit.com/r/LifeProTips/comments/1hivuk/
+author:recipriversexcluson
+subreddit:LifeProTips
+score:3592
+numComments:843
+isOver18:False
+hasPostBody:True

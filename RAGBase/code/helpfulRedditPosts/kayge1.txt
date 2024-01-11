@@ -1,0 +1,15 @@
+title:
+LPT: When learning something new, it is actually much harder to unlearn a bad practice than to learn it in the first place. So always make sure that you take your time to properly learn the fundamentals, even if they seem boring.
+
+content:
+One of my guitar teachers always said that practice does not make perfect, but makes permanent.  And I believe this can't be truer. If you practice something wrong over and over again, you will end up being very good at getting it wrong.  And to unlearn those mistakes will be a long and painful process.
+
+So if you start learning anything, be it playing an instrument, a new language, profession or hobby or whatever, always make sure that you master the basics before jumping to the more advanced stuff. Resist the urge to do those admittedly more interesting things for which you are not ready yet.
+
+url:https://reddit.com/r/LifeProTips/comments/kayge1/
+author:ConsciousnessWizard
+subreddit:LifeProTips
+score:31055
+numComments:688
+isOver18:False
+hasPostBody:True

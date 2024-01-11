@@ -1,0 +1,13 @@
+title:
+YSK: If you're ever at a theme park, check if there's a single riders line. It's typically quicker than queuing, but your party will be split up.
+
+content:
+You might just save yourself some time, at the expense of having to ride separately from your friends.
+
+url:https://reddit.com/r/YouShouldKnow/comments/7ly4v8/
+author:malwaremachine
+subreddit:YouShouldKnow
+score:8776
+numComments:318
+isOver18:False
+hasPostBody:True

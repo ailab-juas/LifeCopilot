@@ -1,0 +1,27 @@
+title:
+YSK: The *One* Knot Everyone Should Know
+
+content:
+The web is full of lists detailing the 5-9 knots "everyone" should know, but let's get real - unless you work with rope frequently you're not going to remember the knots on those lists. But there is one simple, easy to remember knot that will suffice for 90% of your knot tying needs.
+
+[The Figure 8 knot.](http://www.animatedknots.com/fig8_/index.php)
+
+The Figure 8 is a stopper knot. Useful, but once you have it down, you can use it for so much more.
+
+Need to tie two ropes together? Tie a loose Figure 8 near the end of one rope, and then thread the end of the second rope through that Figure 8 in reverse to form a [Figure 8 Bend.](http://www.animatedknots.com/fig8join/index.php)
+
+Need a tie the rope around an object? Tie a Figure 8 a bit further down, take the end around the object, and back through the Figure 8 in reverse to form a [Figure 8 Follow Through.](http://www.animatedknots.com/fig8follow/index.php)
+
+Need to form a loop in the middle of your rope? Just fold the rope in half, and tie a Figure 8 using the doubled rope for a [Figure 8 on a Bight.](http://www.animatedknots.com/fig8follow/index.php#Figure8Loop)
+
+So now you can tie a stopper knot, a bend, an end loop, and a midline loop. You can tie a rope to an object, or tie two ropes together. These aren't the fastest knots to tie, but they are secure, easy to remember, and easy to check that you've tied them correctly. 
+
+If you're willing to learn one more simple knot - [two half hitches](http://www.animatedknots.com/roundturn/index.php) - you have all of the pieces you need for the [Trucker's Hitch](http://www.animatedknots.com/truckers/index.php), an incredibly useful combination of knots used to create mechanical advantage to draw a rope tight - to tie something to the top of your car, for example. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/7i6to7/
+author:VowOfScience
+subreddit:YouShouldKnow
+score:3960
+numComments:201
+isOver18:False
+hasPostBody:True

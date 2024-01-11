@@ -1,0 +1,13 @@
+title:
+YSK the rate of house fires increases during the holiday season due to poor/outdated maintenance of Christmas decorations/lights.
+
+content:
+Please remember to do your due diligence this year when setting up decorations for your home.
+
+url:https://reddit.com/r/YouShouldKnow/comments/e4l2ba/
+author:TerrenJamal
+subreddit:YouShouldKnow
+score:1218
+numComments:45
+isOver18:False
+hasPostBody:True

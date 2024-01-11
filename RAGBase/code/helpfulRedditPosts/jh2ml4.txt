@@ -1,0 +1,15 @@
+title:
+YSK: Human beings are very susceptible to bias called 'affective forecasting', i.e. if you feel good now you think you will feel good in the future. If you feel bad now, you are likely to predict you will feel bad in the future. Emotional states are shorter than we expect.
+
+content:
+Why YSK: There are a number of practical applications: 1) If you're in a bad place emotionally it's easy to predict that you will be in a bad state for much longer than you actually will. Remembering your susceptibility to the affective forecasting bias will help you get better perspective. Equally, if you're in a great mood you might make lots of plans based on how you feel in the moment only to find yourself exhausted later. Remember to check in and ask yourself if you'll have the energy.
+
+Here's a wiki: [https://en.wikipedia.org/wiki/Affective\_forecasting](https://en.wikipedia.org/wiki/Affective_forecasting)
+
+url:https://reddit.com/r/YouShouldKnow/comments/jh2ml4/
+author:sampebby
+subreddit:YouShouldKnow
+score:13437
+numComments:128
+isOver18:False
+hasPostBody:True

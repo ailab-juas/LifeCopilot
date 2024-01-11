@@ -1,0 +1,15 @@
+title:
+YSK that there is an app called TraffickCam that enables you to help combat human trafficking by uploading photos of hotel rooms you stay in when you travel.
+
+content:
+Traffickers often post photos of their victims posing in hotel rooms for online advertisements. These photos are evidence and can be used to locate and prosecute traffickers, but investigators must be able to determine where these photos were taken in order to use them. 
+
+When you take pictures of hotel rooms and upload them to TraffickCam’s database of hotel room images, you make it much easier for investigators to find other images that were taken in the same location as an image that’s part of an investigation.
+
+url:https://reddit.com/r/YouShouldKnow/comments/c08s4c/
+author:evanthomp
+subreddit:YouShouldKnow
+score:10700
+numComments:233
+isOver18:False
+hasPostBody:True

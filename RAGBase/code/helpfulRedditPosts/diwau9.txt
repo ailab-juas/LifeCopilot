@@ -1,0 +1,23 @@
+title:
+YSK that GMO foods are safe to grow and eat, have fewer mycotoxins, reduce the use of pesticides, have increased shelf life, increased crop yields, increased nutrients, and have less environmental impacts when growing than non-GMO foods.
+
+content:
+* [https://www.nature.com/articles/s41598-018-21284-2#Sec2](https://www.nature.com/articles/s41598-018-21284-2#Sec2) (Results: “GMO corn varieties increased crop yields 5.6 to 24.5 percent relative to their non-GMO equivalents. Also, GMO corn crops had lower percentages of mycotoxins (-28.8 percent), fumonisins (-30.6 percent) and thricotecens (−36.5 percent), all of which can lead to economic losses and harm human and animal health”)
+* [https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0111629](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0111629) (Results: the use of GMOs reduces the use of pesticides, increases farmer profit, and increases crop yields)
+* [http://sitn.hms.harvard.edu/flash/2015/will-gmos-hurt-my-body/](http://sitn.hms.harvard.edu/flash/2015/will-gmos-hurt-my-body/) (Results: “GMOs as a class are no more likely to be harmful than traditionally bred and grown food sources”)
+* [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3791249/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3791249/) (Results: Genetically modified foods can be resistant to many diseases and insects, can be grown out of season, and can be resistant to droughts. GM food is also known to taste better, need fewer pesticides to grow, have an increased shelf life, and are higher in nutrients than non-GM food)
+* [https://www.ncbi.nlm.nih.gov/pubmed/12767699](https://www.ncbi.nlm.nih.gov/pubmed/12767699) (Results: GM crops are safe to feed animals)
+* [https://www.sciencedirect.com/science/article/pii/S0278691511006399](https://www.sciencedirect.com/science/article/pii/S0278691511006399) (Results: Results from all the 24 studies do not suggest any health hazards from the long term consumption of GM crops)
+* [https://www.pewresearch.org/wp-content/uploads/sites/9/2016/09/2014-survey-of-AAAS-members-full-survey-questionnaire-and-topline.pdf](https://www.pewresearch.org/wp-content/uploads/sites/9/2016/09/2014-survey-of-AAAS-members-full-survey-questionnaire-and-topline.pdf) (This survey is interesting and proves the fact that the less educated you are in GMOs, the more likely you are to believe that they’re unhealthy. 90% of scientists said that GMOs are safe, whereas only 37% of the general public say they’re safe)
+
+In conclusion, GM crops are safe to grow and consume, pose no health risks for humans or livestock, increase crop yields, are larger in size, have more nutritional benefits, increased shelf life, need fewer pesticides to grow, have lower levels of mycotoxins, are more environmentally friendly to grow, AND are more profitable than non-GM crops.
+
+To be anti-GMO is to be pro-pesticide, pro-environmental degradation, and anti-science.
+
+url:https://reddit.com/r/YouShouldKnow/comments/diwau9/
+author:SprinklesOfFun
+subreddit:YouShouldKnow
+score:8209
+numComments:839
+isOver18:False
+hasPostBody:True

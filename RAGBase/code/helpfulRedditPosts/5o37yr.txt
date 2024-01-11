@@ -1,0 +1,13 @@
+title:
+LPT: Add /zip to the end of an imgur gallery URL to download it
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5o37yr/
+author:bob1689321
+subreddit:LifeProTips
+score:4386
+numComments:109
+isOver18:False
+hasPostBody:False

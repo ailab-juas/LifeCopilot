@@ -1,0 +1,21 @@
+title:
+YSK: Most types of wrapping paper are not recyclable.
+
+content:
+Why YSK: Many people try to recycle wrapping paper around the holidays because they feel guilty that all of this paper is going to waste. While the thought is noble, the reality is that trying to recycle items that aren't recyclable just bogs the recycling centers down and is ultimately counterproductive to your goals.
+
+Papers that are not recyclable:
+
+* Any paper with a metallic (shiny) finish on even part of the surface.
+
+* Any paper with a waxy or plastic coating. Basically if you have any confidence that a few drops of water would bead off the paper rather than soak it up like a tissue paper, then it's probably no good.
+
+* Any portions of paper containing contaminants such as tags, tape, adhesives, bows, etc.
+
+url:https://reddit.com/r/YouShouldKnow/comments/zusfo6/
+author:Revenge_of_the_Khaki
+subreddit:YouShouldKnow
+score:3323
+numComments:122
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+YSK that is it very easy to apply for federal student loan forgiveness
+
+content:
+Why YSK: most people expect a huge hassle when dealing with government services (for good reason: a lot of gov't programs are incredibly difficult to navigate). But for this program, they've focused on making the application very easy. You can get up to $20k cancelled if you have had Pell Grants or $10k if you haven't, which is a potentially life changing amount of money for a lot of people.
+
+Source: [https://studentaid.gov/debt-relief/application](https://studentaid.gov/debt-relief/application)
+
+url:https://reddit.com/r/YouShouldKnow/comments/y6kj8s/
+author:_______user_______
+subreddit:YouShouldKnow
+score:4398
+numComments:353
+isOver18:False
+hasPostBody:True

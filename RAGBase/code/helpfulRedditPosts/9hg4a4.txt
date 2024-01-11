@@ -1,0 +1,13 @@
+title:
+LPT: When pizza is cut right after cooking, the oils soak into the crust edges and make the slices seem soggy. Order your takeout/delivery pizza uncut and slice it when you eat it, for a crisper, fresher tasting (and perfect size) slice.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/9hg4a4/
+author:G8r
+subreddit:LifeProTips
+score:6459
+numComments:897
+isOver18:False
+hasPostBody:False

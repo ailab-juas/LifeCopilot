@@ -1,0 +1,15 @@
+title:
+YSK about Cold Turkey, a program that blocks you from accessing unproductive sites and programs while studying or working. Like Reddit.
+
+content:
+To all of you who are currently avoiding your schoolwork, or what ever assignments you might have, by browsing Reddit.
+
+http://getcoldturkey.com/
+
+url:https://reddit.com/r/YouShouldKnow/comments/2ufsyp/
+author:TidalSky
+subreddit:YouShouldKnow
+score:1455
+numComments:109
+isOver18:False
+hasPostBody:True

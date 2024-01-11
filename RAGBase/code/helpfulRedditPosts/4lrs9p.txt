@@ -1,0 +1,18 @@
+title:
+YSK - Google Maps knows traffic informations, jams and length of your route because it tracks every Android phone on that route that hasn't disabled location tracking.
+
+content:
+Most people do not even think about the precision of traffic information, Google Maps and Navigation provide. In most cases, their realtime information is better than local radio station's. Estimated times for routes are deadly precise most of the times.
+Yes - this works because some people do not disable phone tracking within their android system. They can even look-up where they were on a specific date and time.
+
+// Since many people complain about people who turn off their phone tracking - it's everyones own decision to support or not support those mechanisms. For a truly paranoic being like me, there is no way, i would allow companies or governments to track my movements (of course, i know they are still able to triangulate my phone). But that isn't the point. Most people don't care and that's ok.
+
+The point is, on most phones, location tracking is activated by default which should be clearly communicated to its user. Most people are not very technophile and they don't even know that they are virtually wiretapped.
+
+url:https://reddit.com/r/YouShouldKnow/comments/4lrs9p/
+author:GooftyOofty
+subreddit:YouShouldKnow
+score:3065
+numComments:434
+isOver18:False
+hasPostBody:True

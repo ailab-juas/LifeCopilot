@@ -1,0 +1,13 @@
+title:
+LPT: Use an egg slicer to cut your whole mushrooms
+
+content:
+Makes the slices look legitimately professional and saves you a ton of time. 
+
+url:https://reddit.com/r/LifeProTips/comments/6psf89/
+author:ScheminRieman
+subreddit:LifeProTips
+score:1252
+numComments:160
+isOver18:False
+hasPostBody:True

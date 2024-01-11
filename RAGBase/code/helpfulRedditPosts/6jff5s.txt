@@ -1,0 +1,13 @@
+title:
+LPT: If you are given a prepaid debit card as a gift, save it after you spend the money. You can use it to sign up for free trials online without worry of being scammed.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/6jff5s/
+author:41sa
+subreddit:LifeProTips
+score:70803
+numComments:1112
+isOver18:False
+hasPostBody:False

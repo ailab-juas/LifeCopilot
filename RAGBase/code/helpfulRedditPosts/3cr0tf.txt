@@ -1,0 +1,18 @@
+title:
+LPT: Find out how long it takes to get a sunburn with Wolfram Alpha
+
+content:
+I recently discovered Wolfram Alpha had the capability to calculate the time it takes to get a sunburn, it factors in weather, skin type, time, UV index, required SPF and more. 
+
+You can send a query via a search containing the word 'sunburn', you can also include locations, dates, and times. 
+
+For example,
+http://www.wolframalpha.com/input/?i=sunburn+in+cuba+on+july+10th+at+1PM would return the time it takes to sunburn in cuba on july 10 at 1PM. 
+
+url:https://reddit.com/r/LifeProTips/comments/3cr0tf/
+author:KeenWolfPaw
+subreddit:LifeProTips
+score:1486
+numComments:141
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,17 @@
+title:
+YSK: You can refuse transport by ambulance if you do not need immediate hospital treatment.
+
+content:
+Why YSK:
+
+In the USA a short ambulance ride can cost up to $4,000. Even with insurance.
+
+ If you can have a friend or family member give you a ride to the hospital instead, do it.
+
+url:https://reddit.com/r/YouShouldKnow/comments/yj9e3x/
+author:Te_Quiero_Puta
+subreddit:YouShouldKnow
+score:8948
+numComments:947
+isOver18:False
+hasPostBody:True

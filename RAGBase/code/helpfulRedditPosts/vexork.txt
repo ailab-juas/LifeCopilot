@@ -1,0 +1,19 @@
+title:
+LPT: Learn Excel early and don’t stop with addition and subtraction
+
+content:
+There are virtually no US based required K-12 (and even most college) courses, aside from finance and accounting, that teach you the powers of Excel.  I spent 10 years in engineering and the last 6 years in operations / business management and the single most important skill that has helped me throughout my career is excel. 
+
+Every company I’ve ever worked for has had a ton of data, all of it segregated and fractured requiring a ton of difficult joining to get the data points required for analysis.  If you aren’t familiar with SQL this may require huge manual digging in order to perform ad hoc analysis. Learning a simple formula:
+
+VLOOKUP
+
+Will resolve this issue and provide relationships between data sets that are not connected. In addition, it will teach you a bit about coding (VBA), data structures, cardinality, data types, and much more.  That formula merely scratches the surface of excel as any repetitive calculation can be done through data tables and more advanced users can use VBA or Power Query to automate data collection.  Don’t just know about this software. Learn the crap out of it, plus it’s mind numbingly easy once you know what to type has all formulas have an auto fill function with help tips.
+
+url:https://reddit.com/r/LifeProTips/comments/vexork/
+author:TwoArmedWolf
+subreddit:LifeProTips
+score:5275
+numComments:359
+isOver18:False
+hasPostBody:True

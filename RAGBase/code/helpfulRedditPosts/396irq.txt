@@ -1,0 +1,13 @@
+title:
+LPT: How to remove "Get Windows 10" icon, permanently
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/396irq/
+author:Sinuce
+subreddit:LifeProTips
+score:4114
+numComments:1302
+isOver18:False
+hasPostBody:False

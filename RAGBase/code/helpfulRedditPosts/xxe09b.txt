@@ -1,0 +1,13 @@
+title:
+LPT: If you are trying to get in shape, consistency (making it a habit) is more important than workout duration. Start low duration.
+
+content:
+You can accomplish a lot with merely a 10 minute workout.  If you try to bite off a long workout, like 60 minutes at the gym you have to drive to, you are much less likely to find the fortitude to keep that up each day.  But a 10 minute workout is easy to add to your *daily routine*.  Make it a habit.  Use your OCD to keep that streak going!
+
+url:https://reddit.com/r/LifeProTips/comments/xxe09b/
+author:RedditAtWorkIsBad
+subreddit:LifeProTips
+score:10213
+numComments:243
+isOver18:False
+hasPostBody:True

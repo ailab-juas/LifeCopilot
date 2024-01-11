@@ -1,0 +1,13 @@
+title:
+LPT: When you're talking about someone who isn't present, pretend that the person is listening to what you say. This is an effective way to avoid the conversation slipping into gossip.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/dreqbr/
+author:[deleted]
+subreddit:LifeProTips
+score:2592
+numComments:30
+isOver18:False
+hasPostBody:False

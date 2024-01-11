@@ -1,0 +1,19 @@
+title:
+LPT: If you owe the IRS less than $10,000, don't get taken in by "tax resolution" con artists.
+
+content:
+If you owe the IRS less than $10,000 in unpaid personal income tax debt, then you can obtain what is called a "Guaranteed Installment Agreement".
+
+Call the telephone number in the upper left corner of your bill (or call 800-829-1040). Explain that you want to set up a Guaranteed Installment Agreement. As long as you can pay the entire tax bill within 36 months and can pay at least $25 per month in payment, they are required to give you the payment plan by law.
+
+If they start asking about your income and expenses, inform them that the law does not require you to provide this information for a Guaranteed IA (actually say "IA" -- they'll think you know what you're talking about).
+
+At the same time, if this is your first time owing back taxes, be sure to ask for the "first time penalty abatement". Explain you made an honest mistake or just didn't have the money, and they'll usually alleviate the penalties if it's a first offense. "First offense" *generally* means you've had a clean federal tax history for at least three years.
+
+url:https://reddit.com/r/LifeProTips/comments/1t448c/
+author:jassenb
+subreddit:LifeProTips
+score:2785
+numComments:359
+isOver18:False
+hasPostBody:True

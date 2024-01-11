@@ -1,0 +1,21 @@
+title:
+YSK: Amazon's 2nd "prime"day tomorrow will have many things priced higher than typical, and remember bad reviews are ignored and rarely count to star total
+
+content:
+Why YSK: download the app Keepa and TryCamel (or use camel camel camel website). They let you view historical pricing on items. They both also let you set a price alert for something you want to get cheaper but don't have to buy today.
+
+Prime day may have been decent the first year, but now it's full of items that had the price jacked way up last week so they can discount it and make it appear like a deal.
+
+For any item that you're trusting reviews on, remember the actual star rating is adjusted (fake) 99% of the time. Click on the actual stars to see the real numbers, and then you'll see the blurb where they use their fancy algorithm to weed out inaccurate reviews... Always the low star reviews.
+
+If you need to read reviews, it's imperative that you get to the more reviews button (android) so you ultimately get to the reviews, then sort by recent. This removes all the "helpful" reviews that get pushed to the front. Yes the helpful reviews you can Google search to see how much it is to buy them.
+
+Ultimately Amazon does have good deals, you just need to remember it's designed to hide bad information, so it's on you to dig through the crap to find the deal.
+
+url:https://reddit.com/r/YouShouldKnow/comments/y0pmef/
+author:sliight
+subreddit:YouShouldKnow
+score:1643
+numComments:78
+isOver18:False
+hasPostBody:True

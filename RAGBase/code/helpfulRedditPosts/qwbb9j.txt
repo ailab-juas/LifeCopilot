@@ -1,0 +1,19 @@
+title:
+LPT : avoiding paywalls / subscriptions when trying to read articles on a computer
+
+content:
+I’ve never seen this one on here, so here goes:
+
+If you are trying to access an article via computer that has a pay wall, just hit refresh, and while the page is loading, hit the print button before the subscription notice pops up. 
+
+This works sooooo often for me. And you can even drop down the destination and select save to PDF if you want to view it easier. 
+
+Happy reading
+
+url:https://reddit.com/r/LifeProTips/comments/qwbb9j/
+author:Mhester2232
+subreddit:LifeProTips
+score:1246
+numComments:67
+isOver18:False
+hasPostBody:True

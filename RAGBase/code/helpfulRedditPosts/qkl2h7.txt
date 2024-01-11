@@ -1,0 +1,17 @@
+title:
+LPT: If you can't afford a medication or are uninsured, call the drug company and ask for a SmartCard or compassionate pricing. They'll ask 3 questions, which no verification, and then give you a policy number to give to your pharmacist that will usually cover 60-100% of the cost.
+
+content:
+Needed a fill a new ADHD medication. I'm uninsured so the cost was going to be $160 for 30 pills. Called the drug company, they asked me three questions, and then gave me a policy for 100% coverage, or $0 medication. No verification needed for any of the answers. Good for 1 year. 
+
+Drug companies have budgets to give away their medication to people who can't afford it or don't have insurance. If it's a highly competitive medication (like ADHD) they also have 30 pills for free to try it out (in hopes you'll ask your doctor to prescribe their medication). 
+
+Don't let cost be the factor in getting the medication you need.
+
+url:https://reddit.com/r/LifeProTips/comments/qkl2h7/
+author:CrackerJackJack
+subreddit:LifeProTips
+score:2756
+numComments:169
+isOver18:False
+hasPostBody:True

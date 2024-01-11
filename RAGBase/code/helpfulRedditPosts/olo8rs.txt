@@ -1,0 +1,13 @@
+title:
+LPT: No matter how much you *think* you understand something, remain close to the idea that there's always more that you don't know.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/olo8rs/
+author:[deleted]
+subreddit:LifeProTips
+score:6903
+numComments:180
+isOver18:False
+hasPostBody:True

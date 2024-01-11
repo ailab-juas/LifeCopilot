@@ -1,0 +1,13 @@
+title:
+LPT: If you have criticism of someone or their work, it costs nothing to be polite. "Brutal honesty" is not always the best option, or even sought, and just telling someone "just being honest" does not excuse hurt feelings or mean you can be as abrasive as possible.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ne6ju5/
+author:Ian_Storm
+subreddit:LifeProTips
+score:1046
+numComments:61
+isOver18:False
+hasPostBody:False

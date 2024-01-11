@@ -1,0 +1,51 @@
+title:
+YSK what kind of fires your fire extinguisher(s) can put out.
+
+content:
+Why YSK- because if you have a fire at your house, you could potentially make it worse depending on what type of extinguisher you use.
+
+I learned this at a fire safety class at my workplace.
+
+First off, there are 3 elements to a fire: Heat, Oxygen, and Fuel. Remove one of those, and the fire will die.
+
+Now for the extinguishers themselves, let’s first talk about the types of fires.
+
+There are 5 types of fire categories- A, B, C, D, and K.
+
+Type A- These are ordinary combustibles like paper and wood. 
+
+Type B- These are fires that are caused by liquids like gas or oil.
+
+Type C- These are fires called by electrical conduction from sources such as wires, and circuit boards.
+
+Type D- These are fires caused by combustible metals like magnesium.
+
+Type K- These are fires caused by cooking fats or grease.
+
+So why does this matter? Because the extinguishers may have been meant to put fires out for one or maybe two specific types, but not all of them.
+
+For example, Using a Type-A fire extinguisher on a Type-C Fire could potentially cause you to get electrocuted because it’s water based (water and electricity don’t mix as we all know).
+
+You can tell what type of fires it meant to extinguished based upon the letter(s) displayed on the fire extinguisher’s label.
+
+Also, when using it, aim low at the base of the fire and spray sweeping from side-to-side. (P.A.S.S. - Pull, aim, squeeze, sweep).
+
+I hope this helps. 
+
+Note: I’m seeing images of tables that have categories that say E &amp; F. I’m going based off what my workplace’s training taught me. I’m not sure if there are different standards for each country or not so I can’t comment on those.
+
+Note: Thank you all for the upvotes and awards!
+
+[Dangers of using the incorrect Fire Extinguisher](https://www.cheshirefire.net/news/dangers-using-incorrect-fire-extinguisher/)
+
+[What are the dangers of using the incorrect fire extinguisher?](https://aaafirepro.com/2018/06/what-are-the-dangers-of-using-the-incorrect-fire-extinguisher/)
+
+https://www.reddit.com/r/Whatcouldgowrong/comments/l9aekc/using_the_wrong_type_of_fire_extinguisher/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf
+
+url:https://reddit.com/r/YouShouldKnow/comments/l1noww/
+author:[deleted]
+subreddit:YouShouldKnow
+score:4693
+numComments:154
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,25 @@
+title:
+YSK cleaning your tongue fights bad breath, all you need is your toothbrush
+
+content:
+Why YSK: I was never taught this growing up, but in addition to brushing your teeth and flossing you should also be cleaning your tongue— especially if you’re prone to bad breath ([source](https://www.healthline.com/health/dental-oral-health/brushing-your-tongue)). You can just brush with your toothbrush or use a dedicated tongue scraper.
+
+Be mindful towards the back where it might trigger your gag reflex. You don’t have to clean all the way back for this to help.
+
+Here’s to keeping your mask a little fresher!
+
+**Edit:** thanks for the awards and all your comments! Turns out y'all know a shocking amount about inhibiting the gag reflex (gripping your thumb with the other fingers of the same hand, humming, pinching your nose bridge, breathing out through your mouth, hold a deep breath)...
+
+I want to add that I always rinse my mouth out really well after brushing my tongue with toothpaste in case the extra toothpaste exposure is bad for you. It’s probably not rational, but I’m more scared of mouth cancer from whitening toothpaste than I am of not getting enough fluoride. To maximize fluoride leave it on your teeth for 30 minutes.
+
+Also, please remember not to take the word of strangers on the internet as gospel. I posted based on my personal experience and a couple people pointed out that the source article is unconvincing (thanks /u/Der_Pimmelreiter, /u/Atomic254 and others). It seems there are not enough large studies for this to be settled science, but there is some evidence this helps with bad breath. Some random papers I found: [2013 meta analysis showing benefit](https://pubmed.ncbi.nlm.nih.gov/24165218/); [RCT for gingivitis patients shows benefit](https://link.springer.com/article/10.1007/s00784-018-2617-5); It might actually [improve the mouth microbiome](https://www.frontiersin.org/articles/10.3389/fcimb.2019.00039/full?fbclid=IwAR0cEeIS7D2C2w_cBNdfK-KthqCE0HRxV7GCAoQHAY7eZVu4HCBy6CapOmI#h5); [combining with mouthwash might be the most effective](https://cdn.vivarep.com/contrib/va/documents/al_hnd.20190708144636280.pdf#page=34).
+
+Other helpful comments: if you still have bad breath, it could be tonsil stones or a digestive tract issue you should see a doctor about. People love (LOVE) their tongue scrapers (at least one person thinks brushing works better though). Floss or those floss picks work too. Drinking lots of water also helps.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ijzaxh/
+author:004A
+subreddit:YouShouldKnow
+score:24276
+numComments:918
+isOver18:False
+hasPostBody:True

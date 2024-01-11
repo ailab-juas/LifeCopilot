@@ -1,0 +1,21 @@
+title:
+LPT: A Modest Tip to Improve your English (Specifically Regarding "I" and "Me")
+
+content:
+Being able to write correctly in English is always a useful life skill (if you interact with other English speakers, that is!) - potential employers, for example, will often make judgements about you based on how you present yourself in writing.
+
+I thought it would be better to write this as an LPT than be one of those snarky grammar nazis that keep popping up correcting specifics. So here it is:
+
+A LOT of people get "I" and "me" confused. For example, which do you say: "It was a perfect summer for Sebastian and (I|me)" ?   A large percentage of people get this wrong because they were always taught to say "Jerry and I went fishing" when, for some reason, as children, we always want to say "Jerry and me", and so they always assume "and I" is always correct. However, that is not the case! 
+
+The easy way to figure out which one to say is to leave out the other person. So "I went fishing" is obviously correct, and "Me went fishing" is clearly not. So with the more difficult example above, which is better, "It was a perfect summer for me" or "It was a perfect summer for I"?  Clearly the first.
+
+I see headlines on Reddit all the time like this one: "For my cake day I thought I'd share an old picture of my father and I doing something" - now take "my father and" out of the sentence - see how it's suddenly clearly wrong?
+
+url:https://reddit.com/r/LifeProTips/comments/25p61h/
+author:md81544
+subreddit:LifeProTips
+score:2543
+numComments:667
+isOver18:False
+hasPostBody:True

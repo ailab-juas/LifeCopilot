@@ -1,0 +1,19 @@
+title:
+LPT: New earbuds? Make them last using super glue for strain relief.[Pic in comments]
+
+content:
+I've gone through several pairs of earbuds from cheapo gas station products to Shure Triple Driver buds... They have basically all broken the same way, which is losing connection from wire to the bud contacts themselves. (I resoldered the Shure ones a few times since they were fantastic earbuds).
+
+Now, I superglue the wires in - any time they get hung up or pulled out of your ears, the wire will be pulling on the case, not on the terminals. 
+
+Because it's plastic on plastic, super glue will take a little longer to dry, and since it's still wet, you probably don't want to run power through them for a few minutes. (I'm not sure how conductive wet super glue is, but dry is fine.)
+
+[See image](http://imgur.com/sjULrlQ)
+
+url:https://reddit.com/r/LifeProTips/comments/4sjppf/
+author:FreeBribes
+subreddit:LifeProTips
+score:3158
+numComments:553
+isOver18:False
+hasPostBody:True

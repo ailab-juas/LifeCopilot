@@ -1,0 +1,13 @@
+title:
+LPT: Become knowledgeable in Excel/Google Sheets. Spreadsheets make life 100x easier
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/h9xni3/
+author:ijakebeltran
+subreddit:LifeProTips
+score:3046
+numComments:189
+isOver18:False
+hasPostBody:False

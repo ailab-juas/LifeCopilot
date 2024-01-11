@@ -1,0 +1,17 @@
+title:
+LPT: When you get married or commit to living with your SO you should create a joint email to use when setting up smart devices
+
+content:
+When we were adding all our smart things to Google assistant and Alexa it kept asking for credentials to which my wife and I kept having to guess which account we set it up under.
+
+Yes, we could set up a spreadsheet with a list of which devices are linked to which accounts, but it's so much easier if you just have one account that both of you would use to set things up under.
+
+Edit: just so everyone knows. It's not about not knowing passwords and not wanting to share them. It's about not knowing which account we set devices up under. We had to try to remember who's account we used. I don't think a password manager would fix this when you combine households. And if it would I'm all ears. Please explain.
+
+url:https://reddit.com/r/LifeProTips/comments/pe22i7/
+author:guster09
+subreddit:LifeProTips
+score:5167
+numComments:180
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Don't be the person that always tells long-winded stories unprompted. First, state exactly what happened (I fell off my bike/My friend shot a tiger/My family crash-landed in a snow storm), and if people want to hear how that came about, they'll ask—allowing you to then deliver the backstory.
+
+content:
+I used to be 'that guy' so I've been working on this lately. Started noticing eyes glazing over whenever I'd recount something I found interesting to friends. Using this method I get to discover if they're interested because they'll genuinely ask about details. Otherwise they'll just say something like "oh cool," and we move on. Everybody wins. It's worked really well so far.
+
+url:https://reddit.com/r/LifeProTips/comments/7qjpga/
+author:captainhowdy27
+subreddit:LifeProTips
+score:1019
+numComments:64
+isOver18:False
+hasPostBody:True

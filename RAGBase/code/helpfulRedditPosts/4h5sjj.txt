@@ -1,0 +1,15 @@
+title:
+YSK that, your pupils should be the same size, even if light is shone in only one of your eyes.
+
+content:
+This is due to the pupillary light reflex. A difference in the size of someone's pupils is known as anisocoria. Causes of anisocoria can range from being physiologically normal to immediately life threatening.
+If you notice a sudden, unexplained, or persistent difference in your pupil size you should seek the professional advice of a doctor (which I am not).
+The number of people in the comments section of the front page post (linked in a comment) that thought pupils constrict independently of each other is way to high.
+
+url:https://reddit.com/r/YouShouldKnow/comments/4h5sjj/
+author:ALIVE_IN_TUCSON
+subreddit:YouShouldKnow
+score:1843
+numComments:162
+isOver18:False
+hasPostBody:True

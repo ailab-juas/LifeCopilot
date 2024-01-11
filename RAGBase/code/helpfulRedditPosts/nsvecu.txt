@@ -1,0 +1,13 @@
+title:
+LPT: If you'll be headed out of town on an extended vacation, cook and freeze meals (such as a tray of lasagna) for when you return. It's much easier than getting home and realizing you have to go grocery shopping immediately.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/nsvecu/
+author:BetaFlyer
+subreddit:LifeProTips
+score:2961
+numComments:107
+isOver18:False
+hasPostBody:False

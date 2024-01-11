@@ -1,0 +1,21 @@
+title:
+YSK that internet providers sell speeds in bits and not bytes(the typical unit of data transfer speed you're used to)
+
+content:
+Why YSK: Oftentimes when you're purchasing or signing up for new service at a certain speed, like 1 gbps, you might think this means you're transferring 1 gigabyte of data per second, when this is actually not the case.
+
+You begin downloading a file and notice the actual transfer rate shown on your device is 110-130 megabytes per second. Some shrug it off, but some may be confused and upset that this isn't the speed they purchased.
+
+What you're purchasing is speed in megabits and gigabits. And bits are smaller units of data than bytes. 
+
+There are 8 bits in 1 byte of data. So for every megabit of speed, you're only getting .125 megabytes per second. 1 gigabit, you'll get 125 megabytes per second.
+
+This is just good information to better understand what you're buying and why it translates the way it does in your everyday use, downloading and uploading files/data.
+
+url:https://reddit.com/r/YouShouldKnow/comments/wyg9ek/
+author:Svargas05
+subreddit:YouShouldKnow
+score:2218
+numComments:127
+isOver18:False
+hasPostBody:True

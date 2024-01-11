@@ -1,0 +1,30 @@
+title:
+YSK that if you are shoveling a running vehicle out of the snow, make sure you clear the tailpipe FIRST.
+
+content:
+A car can continue to run with a blocked tailpipe filling the vehicle with CO, which can be fatal in high concentrations. 
+  
+Multiple CO poisoning incidents occurred last year during heavy snow as loved ones waited in the warm car.
+
+Clear your tailpipe!
+
+edit: some confusion around whether the tailpipe is actually truly blocked or exhaust gases surrounding the car. according to the CDC source below: 
+&gt;The cause of the CO poisonings was directly related to exposure to automobile exhaust from vehicle exhaust systems blocked with snow.
+
+I'd suggest clearing both obstructions in or around the tailpipe as well as underneath the vehicle to be certain.
+http://imgur.com/cKXC0CK
+  
+
+some sources 
+
+* http://www.cdc.gov/mmwr/preview/mmwrhtml/00039929.htm
+* http://www.huffingtonpost.com/2013/02/09/nemo-death_n_2653687.html
+* http://www.boston.com/metrodesk/2013/02/09/boston-boy-dies-carbon-monoxide-poisoning-after-shoveling-out-from-blizzard/jTgqG3MSPPRMy7CrIB7fbM/story.html
+
+url:https://reddit.com/r/YouShouldKnow/comments/1xmaha/
+author:victor47
+subreddit:YouShouldKnow
+score:1241
+numComments:95
+isOver18:False
+hasPostBody:True

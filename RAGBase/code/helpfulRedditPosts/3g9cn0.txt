@@ -1,0 +1,13 @@
+title:
+LPT: if you're running late to a party, text the host and ask them if there is anything they may need last second.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/3g9cn0/
+author:iDeeeeeedIt
+subreddit:LifeProTips
+score:1106
+numComments:70
+isOver18:False
+hasPostBody:False

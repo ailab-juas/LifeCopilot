@@ -1,0 +1,23 @@
+title:
+LPT: Quick word searches can make your formal writing better
+
+content:
+You have just finished your formal  essay, email, presentation, etc. Here are a few easy edits that will make your writing sound more professional:
+
+- ctrl+f "get" and "got"- The words "get" and "got" can almost always be changed to something more specific. "I got new car" can be changed to "I purchased a new car"
+
+- ctrl+f " ' "-  You can use apostrophes to show ownership and for other grammatical purposes, but remove contractions. Change "can't" to "can not" and "won't" to "will not".
+
+- ctrl+f "really" and "very"- instead of using "really" and "very", try changing the word being modified into something more descriptive. "I was very excited" becomes "I was ecstatic". Sometimes it is better to remove the words "really" and "very" from a sentence without altering it in any other way.
+
+- ctrl+f pronouns- Go through your writing and make sure each pronoun has a clear antecedent. If you write "John and Richard went to HR. He was reprimanded for his actions", then it may not be 100% clear who "he" is.
+
+These are just a few quick and easy things I do after I write my essays. Remember to use discretion, and do not just change things blindly. Sometimes it is perfectly fine to have the word "really" in a sentence, and sometimes a more descriptive or "bigger" word is not appropriate in a broader context. Be careful with the pronoun one especially, and only change a pronoun when there's confusion.
+
+url:https://reddit.com/r/LifeProTips/comments/91vr3u/
+author:bergeronprocess69
+subreddit:LifeProTips
+score:2122
+numComments:64
+isOver18:False
+hasPostBody:True

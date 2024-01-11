@@ -1,0 +1,13 @@
+title:
+LPT: Next time you have a cold or flu getting you down, take a warm shower and get dressed. There's science to show that it can help both how you feel about yourself and improve your breathing.
+
+content:
+I thought of this today when I woke up feeling like crap. Although all I really wanted to do was lie around in my pajamas, I took a shower and got dressed. So how does that help? First, researchers have term called [enclothed cognition](https://www.sciencedirect.com/science/article/abs/pii/S0022103112000200). Basically, it means you think more of yourself when you wear better clothing. Granted, it won't actually improve your health, but looking in the mirror won't reinforce that you feel bad. Second, standing in a steamy shower helps to [soothe and open your nasal passages](https://www.healthline.com/health/steam-inhalation). Don't get me wrong, I still feel like crap. But at least I don't look like crap.
+
+url:https://reddit.com/r/LifeProTips/comments/zyh18i/
+author:dbroo55
+subreddit:LifeProTips
+score:1339
+numComments:57
+isOver18:False
+hasPostBody:True

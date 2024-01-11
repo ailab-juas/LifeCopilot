@@ -1,0 +1,15 @@
+title:
+YSK: For US passports, other countries won't let you in if your passport expires within X months of the passport's expiration date
+
+content:
+Why YSK: For example, Europe requires all passports to expire at least 3 months from departure date. If your passport expires in July, and your trip is scheduled for May, they will not let you in.
+
+The airlines see this as your responsibility to know this and will not be held accountable.
+
+url:https://reddit.com/r/YouShouldKnow/comments/um47jp/
+author:coalcracker462
+subreddit:YouShouldKnow
+score:8408
+numComments:339
+isOver18:False
+hasPostBody:True

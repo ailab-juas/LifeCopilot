@@ -1,0 +1,13 @@
+title:
+LPT: Own a stand alone camera, like a Gropro/DSLR? Take a picture of your contact information and never delete it. If you ever lose your camera, the person who finds it will know how to find you.
+
+content:
+I've seen too many posts along the lines of "It might be a long shot but does anyone recognize this person? I found their camera." If you take a picture of your name/address/phone number on every SD card you use, you'll have a much greater chance of having your camera returned to you!
+
+url:https://reddit.com/r/LifeProTips/comments/3powus/
+author:watchthenlearn
+subreddit:LifeProTips
+score:3108
+numComments:359
+isOver18:False
+hasPostBody:True

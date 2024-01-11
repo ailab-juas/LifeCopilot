@@ -1,0 +1,13 @@
+title:
+LPT: Turn off notifications on your social media apps. Check them when you want or at scheduled times. You’re use will be less compulsive, and you’ll be less distracted while trying to get stuff done.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/kugneq/
+author:VandyMike
+subreddit:LifeProTips
+score:1102
+numComments:81
+isOver18:False
+hasPostBody:False

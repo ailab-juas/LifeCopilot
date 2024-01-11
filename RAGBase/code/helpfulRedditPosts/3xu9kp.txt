@@ -1,0 +1,21 @@
+title:
+YSK about f.lux if you work with computers at night; it restored my circadian rythms and i no longer have tired eyes.
+
+content:
+[This](https://justgetflux.com/) is pretty much the first *actual* app i install in any new machine (Windows, Linux or Mac).
+
+It works in a remarkably simple way by automatically adjusting the color temperature of your screen trying to match whichever indoor lighting you may be using - blocking most of the blue light coming out of your display in the process, which is what keeps you awake.
+
+It's a very underrated piece of free software imo; it may take you a few days to get used to it but once you do you won't even notice it's running.
+ 
+PS: There are alternatives for Android, but i can't recall now.
+
+EDIT: Thanks /u/kthomaszed, Twilight for Android.
+
+url:https://reddit.com/r/YouShouldKnow/comments/3xu9kp/
+author:Didi_Midi
+subreddit:YouShouldKnow
+score:3085
+numComments:415
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,76 @@
+title:
+LPT: How To Save Money On TextBooks
+
+content:
+It's back to school season again and for those incoming freshmen it may come as a bit of a shock to spend $500+ on a semester's worth of textbooks. Here's a comprehensive guide to avoiding that as much as possible.
+
+* **
+
+#Preface: 
+Unfortunately, if the class you're taking requires an online code or online service to turn in assignments, you're pretty much shit out of luck and need to bite the bullet and *at least* buy the access code for full price as they're typically tied to your name or school ID. The positive outcome of this case however is that the pdf of the book associated is found rather easily. With that said, for those that do not have online codes, here's how to save money.
+
+* **
+
+#Digital books:
+* **
+
+* **Many books have pdf counterparts or Ebooks that others may have uploaded.** Google will be your best resource for finding these PDFs. The first method to try is **[title of book] filetype:pdf**  this brings up only pdfs related to the title you input, if that doesn't yield results (often links to powerpoint presentations or worksheets based on the book) try **[isbn] filetype:pdf**. While doing either of these, **DO NOT CLICK THROUGH SITES THAT REQUIRE A PAYMENT TO ACCESS THE PDF, OR A PDF WITH AN EXTERNAL LINK**. These are meant to trick gullible and desperate students and rarely have the book you're looking for. Last case scenario, **[here is a custom search engine](https://cse.google.com/cse/publicurl?cx=011394183039475424659:5bfyqg89ers)** that indexes several sites that may have your book **[this is also a good search engine.](http://gen.lib.rus.ec/)** PDFs and ebooks are also great because you can read them on your tablet/smartphone and that's less weight to carry.
+
+* **
+
+* **Google didn't help? Try a request in** r/scholar
+
+* **
+
+* **As with anything online, be careful and smart about what you download**, be sure of the filetype you're downloading, avoid any and all .exe files for ebooks, and don't get tricked into paying for access to a site.
+
+* **
+
+* **If you still cannot find a pdf of your book, check Amazon or Chegg.** They have several textbooks that you can *rent* via kindle or physical, often at a much cheaper rate than what your university may charge for renting. Amazon is perfect if you have prime (students get a 6 month trial). Also their kindle service is nice because it has a search engine as well as a flashcard generator for key terms and methods within a chapter.
+
+* **
+
+#Physical books:
+
+* **
+
+* **Check your university's library.** Many libraries have access to a service called International Library Loaning (ILL), this allows your library to request the book from any local libraries that may have it. The downside with this service is time is limited anywhere from 2 weeks to 1^1/2 months depending on your library's guidelines. 
+
+* **
+
+* **Talk to your Professors**. Many professors are well aware of the textbook extortion to students, and in some cases you can ask if the previous edition is acceptable to study from. These can usually be found used on Amazon for &lt;$50. More often than not previous editions of books are exactly the same other than a different cover and rearranged question order. If you are permitted to use a previous edition, you will need to take pictures of a classmate's book to ensure you're doing the correct problems/questions/equations. 
+
+* **
+
+* **Talk to your classmates**. In the war against the textbook mafia, our greatest ally is eachother. Found a pdf of the book? Offer it to your classmates. And Vice-Versa, ask your classmates if anyone has found a pdf. In special cases where an ebook doesn't exist, find a classmate who's willing to go in half on a textbook. This not only cuts the price of the book in half, it also instantly gives you a *study buddy* and homework help. 
+
+* **
+
+* **Talk to your seniors**. Older students within your major have already taken your class and will probably have the book you need. Ask to borrow it, rent it, or even buy it off of them if they're willing to part with it. 
+
+* **
+
+* **International/Instructor editions**. These textbooks have the exact same contents as the retail/US version (with some exceptions, i.e. a book I had a few years ago was in black and white while the retail/US version was in color) These are marginally much cheaper than the retail/us version while still maintaining the same content.
+
+* **
+
+* **Actually buying a used book**. If you're absolutely out of luck and feel forced to buy a textbook, you can't go wrong with a used copy. Great resources for these are Ebay, Amazon, and Abebooks (check here for international editions first). Also check facebook pages for your university, you'll often find Buy/Sell/Trade groups for your campus and hopefully a classmate is selling the book you need. 
+    
+* **
+* From u/unexpectedly_violent : https://www.textbookly.com a website that compares prices on textbooks from 40 different sites
+
+* **
+
+-edit- 
+
+added chegg and other resources from the comments
+
+#Good Luck and Happy Savings!
+
+url:https://reddit.com/r/LifeProTips/comments/4zqpec/
+author:MrRecon
+subreddit:LifeProTips
+score:2880
+numComments:267
+isOver18:False
+hasPostBody:True

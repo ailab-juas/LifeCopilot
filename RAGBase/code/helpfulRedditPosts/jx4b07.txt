@@ -1,0 +1,13 @@
+title:
+LPT: If you’re bored during the pandemic and feeling a bit down, buy yourself a bird feeder if you can. Just going out each day to feed the birds gives me at least one accomplishment for the day and brings me joy.
+
+content:
+I live in upstate NY so winter time is when they need the food the most.
+
+url:https://reddit.com/r/LifeProTips/comments/jx4b07/
+author:Carthonn
+subreddit:LifeProTips
+score:3780
+numComments:174
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,25 @@
+title:
+YSK how to convert Fahrenheit to Celsius in your head
+
+content:
+This isn't the most accurate way, but if you're on the phone to someone who uses the different system and you aren't familiar when they say that it's 90 degrees outside today, you'll know that's a little over 30'C.
+
+c -&gt; f = double it, add 30.
+
+f -&gt; c = subtract 30, half it.
+
+If you happen to have a calculator handy, but not a converter, 
+
+c -&gt; f = multiply by 1.8 then add 32
+
+f -&gt; c = subtract 32, then divide by 1.8.
+
+I know people are going to get confused and get different answers here so [BOMDAS people.](http://www.mathsisfun.com/operation-order-bodmas.html)
+
+url:https://reddit.com/r/YouShouldKnow/comments/1i0mcq/
+author:theskymoves
+subreddit:YouShouldKnow
+score:1068
+numComments:165
+isOver18:False
+hasPostBody:True

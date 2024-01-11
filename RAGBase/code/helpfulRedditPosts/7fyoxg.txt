@@ -1,0 +1,15 @@
+title:
+YSK: If you are having a problem with a state or federal agency, your state/federal representatives have staff who a specifically there to help you, and they have special channels to those agencies.
+
+content:
+If you have a problem with the DMV, Medicare/Medicaid, Social Security, any benefits you are due, or anything involving government, every agency has staff that are required to respond to requests from state and federal representatives, and every state and federal lawmaker's office is set up to help their constituents with exactly those problems.
+
+If you have a problem with a state or federal agency call your state or federal representatives, they can help cut through red tape and get things worked out.
+
+url:https://reddit.com/r/YouShouldKnow/comments/7fyoxg/
+author:WarpvsWeft
+subreddit:YouShouldKnow
+score:1504
+numComments:37
+isOver18:False
+hasPostBody:True

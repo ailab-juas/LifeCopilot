@@ -1,0 +1,17 @@
+title:
+YSK that if you are a US citizen you can and should register your trip with the US State Department.
+
+content:
+*if travelling internationally. Oops
+
+Register your trip using STEP, the [Smart Traveler Enrollment Program](https://step.state.gov/).
+
+This allows the US Embassy to contact you in the event of an emergency, locate you, and help you; as well as contact any emergency contacts you designate and allow them to contact you in case something goes wrong.
+
+url:https://reddit.com/r/YouShouldKnow/comments/cp335h/
+author:etnguyen03
+subreddit:YouShouldKnow
+score:1562
+numComments:62
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: When you get a business card, take a picture of it and set it as the picture for the contact.
+
+content:
+Title is pretty self explanatory.
+
+url:https://reddit.com/r/LifeProTips/comments/3ik8py/
+author:MikeTheLinguist
+subreddit:LifeProTips
+score:3728
+numComments:462
+isOver18:False
+hasPostBody:True

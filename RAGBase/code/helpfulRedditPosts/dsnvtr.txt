@@ -1,0 +1,13 @@
+title:
+LPT: Freeze a block of cheese for 30 minutes before shredding it. It will shred quicker, smoother, and won't chunk up on the shredder.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/dsnvtr/
+author:improbablydrunknlw
+subreddit:LifeProTips
+score:61724
+numComments:1290
+isOver18:False
+hasPostBody:False

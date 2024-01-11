@@ -1,0 +1,13 @@
+title:
+YSK The etiquette of shaking hands differs by culture. If you're traveling to a foreign country, or interacting with a diverse group of people, do a little research.
+
+content:
+Some cultures require a firm handshake. Some require a looser handshake. Some require you to look in the eye. Some require you to greet the oldest in the group first. Some think it's inappropriate to shake the hand of a woman. Some require a bow. It all depends.
+
+url:https://reddit.com/r/YouShouldKnow/comments/6ku5id/
+author:MM2236
+subreddit:YouShouldKnow
+score:1348
+numComments:223
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Those who gossip with you, will gossip against you.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/3z7eyw/
+author:staticdialectic
+subreddit:LifeProTips
+score:1131
+numComments:86
+isOver18:False
+hasPostBody:False

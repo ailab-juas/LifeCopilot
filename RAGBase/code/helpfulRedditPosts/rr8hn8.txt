@@ -1,0 +1,13 @@
+title:
+LPT: If you know anyone that has passed from COVID, FEMA has had a program for almost a year now that reimburses up to $9k for funeral expenses. Only 25% have claimed it.
+
+content:
+[https://www.fema.gov/disaster/coronavirus/economic/funeral-assistance](https://www.fema.gov/disaster/coronavirus/economic/funeral-assistance)
+
+url:https://reddit.com/r/LifeProTips/comments/rr8hn8/
+author:brucekeller
+subreddit:LifeProTips
+score:41707
+numComments:850
+isOver18:False
+hasPostBody:True

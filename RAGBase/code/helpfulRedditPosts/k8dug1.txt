@@ -1,0 +1,13 @@
+title:
+LPT: If you want to open the task manager, don't use Ctrl+Alt+Delete, instead try using Ctrl+Shift+Esc. It'll get you there quickly and saves you a few seconds of your time.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/k8dug1/
+author:tsunaxsawada10
+subreddit:LifeProTips
+score:3900
+numComments:157
+isOver18:False
+hasPostBody:False

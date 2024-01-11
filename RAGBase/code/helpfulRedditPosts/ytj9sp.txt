@@ -1,0 +1,13 @@
+title:
+LPT: if someone offers you an object with 2 hands, accept it with 2 hands.
+
+content:
+It can be either culturally significant to accept something with two hands or it can be something heavier than it looks that needs 2 hands.
+
+url:https://reddit.com/r/LifeProTips/comments/ytj9sp/
+author:slowlybackwards
+subreddit:LifeProTips
+score:19990
+numComments:706
+isOver18:False
+hasPostBody:True

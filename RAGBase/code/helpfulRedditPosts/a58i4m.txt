@@ -1,0 +1,15 @@
+title:
+YSK that you can enable digital receipts in the CVS app so you don’t get those 2 feet receipts.
+
+content:
+Once you enable [Digital Receipts](https://i.imgur.com/OnXJ9NJ.jpg) in the app, they will no longer give you a paper receipt in-store, but will instead tell you that your receipt will be emailed to you. 
+
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/a58i4m/
+author:NotJimIrsay
+subreddit:YouShouldKnow
+score:2444
+numComments:134
+isOver18:False
+hasPostBody:True

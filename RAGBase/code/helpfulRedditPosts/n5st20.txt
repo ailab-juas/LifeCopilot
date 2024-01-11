@@ -1,0 +1,15 @@
+title:
+YSK everyone can hear the calls you take/make through your car's speakers
+
+content:
+why ysk: cars are not soundproof, the speakers in them are usually set to be very bass-y, everyone outside of the car can *feel* the rings when you are making a call. 
+
+if you don't want everyone around your car to hear you, you might want to reconsider using the car speakers to take your calls
+
+url:https://reddit.com/r/YouShouldKnow/comments/n5st20/
+author:needlebeach
+subreddit:YouShouldKnow
+score:13820
+numComments:354
+isOver18:False
+hasPostBody:True

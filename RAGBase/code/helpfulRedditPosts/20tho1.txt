@@ -1,0 +1,38 @@
+title:
+YSK when to ACTUALLY use "I" vs. "Me"
+
+content:
+In honor of the guy who incorrectly corrected me today, let's all improve our English skills a little bit.
+
+It is common knowledge that when you are referring to yourself along with another person, you say something like "Sally and I" instead of "Sally and me". This is only sometimes correct! First let's talk about the more technical grammar stuff, and then I'll give you a simple rule to follow.
+
+I is used as a subject in a sentence, and me is used as an object. Let's use a simple set of sentences as an example:
+
+ * I saw you at the mall. *(I am the subject, I did the seeing... so we use "I")*
+ * You saw me at the mall. *(I am the object, I am the thing that was seen... so we use "me")*
+
+**This does not change when you are referring to someone else along with yourself.** If you are referring to yourself as a subject, you still use the word "I", and if you are referring to yourself as an object, you still use the word "me". So our examples become:
+
+ * **Sally and I** saw you at the mall. *(This one is obvious)*
+ * You saw **Sally and me** at the mall. *(This one is where people make their mistakes. You are still referring to yourself as an object in the sentence, so you still use the word "me". Regardless of the fact that Sally is involved as well.)*
+
+And now here's the simple rule to follow (**TL;DR**): If you are referring to yourself along with someone else and don't know whether to use "I" or "me", change the sentence so that you are only referring to yourself. Whichever word you would use then is the correct word to use even when adding someone else in with you.
+
+Examples:
+
+ * **Correct:** You and I should go out. *(I should go out)*
+ * **Incorrect:** You and me should go out. *(Me should go out)*
+ * **Correct:** You should talk to Dave and me about that. *(You should talk to me about that*)
+ * **Incorrect:** You should talk to Dave and I about that. *(You should talk to I about that)*
+
+Edit: Words. (But who really cares about grammar... right?)
+
+Edit again: Gold! Thank you kind internet stranger!
+
+url:https://reddit.com/r/YouShouldKnow/comments/20tho1/
+author:thorlil
+subreddit:YouShouldKnow
+score:2274
+numComments:406
+isOver18:False
+hasPostBody:True

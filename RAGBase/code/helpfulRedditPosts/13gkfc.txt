@@ -1,0 +1,13 @@
+title:
+LPT: Taking a bath in cold weather? Don't drain the tub right away.
+
+content:
+A few winters ago, I dated an engineer who constantly left bath water in her tub. When confronted, she explained that the tub wasn't full of water so much as it was full of heat. That heat was now dissipating into the air, helping to warm the apartment and add a bit of sorely missed humidity. I might not have liked looking at that used water, but her logic was flawless. From a thermodynamic point of view, draining the tub immediately after a bath is pouring money down the drain.
+
+url:https://reddit.com/r/LifeProTips/comments/13gkfc/
+author:photolouis
+subreddit:LifeProTips
+score:2070
+numComments:431
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT - It's tax season, so make sure you don't waste money on Turbotax. Turbotax is wildly overpriced and you're wasting a lot of money when you could use Freetaxusa and other services that are literally over a hundred dollars cheaper. Freetaxusa is $15 to file your state return - federal is free.
+
+content:
+Turbotax AT MINIMUM costs $89 for federal (which is free on freetaxusa), and $39 for state (which is $15 on freetaxusa), and if you have any investments or other extras to your taxes, you have to upgrade to some bullshit extra level in Turbotax so filing usually costs between $150 and $200. Don't do it. Turbotax is a trap. That's all.
+
+url:https://reddit.com/r/LifeProTips/comments/stxhyc/
+author:bkornblith
+subreddit:LifeProTips
+score:3217
+numComments:456
+isOver18:False
+hasPostBody:True

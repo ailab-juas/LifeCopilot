@@ -1,0 +1,15 @@
+title:
+YSK that there’s a thing called Rosetta@home that lets you contribute to stuff like research by donating computing power when you’re not actively using your computer.
+
+content:
+For example: Right now my laptop is helping with something from U of Washington: “Determine the 3-dimensional shapes of proteins in research that may ultimately lead to finding cures for some major human diseases. By running Rosetta@home you will help us speed up and extend our research in ways we couldn’t possibly attempt without your help. You will also be helping our efforts at designing new proteins to fight diseases such as HIV, malaria, cancer, and Alzheimer’s.”
+
+Edit: Wow, thanks for more than doubling my karma lol
+
+url:https://reddit.com/r/YouShouldKnow/comments/7p93go/
+author:qu1et1
+subreddit:YouShouldKnow
+score:2888
+numComments:182
+isOver18:False
+hasPostBody:True

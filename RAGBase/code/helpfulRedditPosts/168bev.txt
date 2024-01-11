@@ -1,0 +1,13 @@
+title:
+LPT: Write a to-do list before going to bed in order to reduce stress and sleep better.
+
+content:
+I've found that it's a good idea to quickly note down what needs to be done the next day. That way, your mind can be cleared of trying to remember information that you would otherwise be worrying about. Especially useful for people with hectic lifestyles!
+
+url:https://reddit.com/r/LifeProTips/comments/168bev/
+author:[deleted]
+subreddit:LifeProTips
+score:1418
+numComments:104
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+YSK That if you have a hard time seeing your lane when driving on dark roads because you're getting blinded by oncoming cars, you can just focus on the outside white line to stay within your lane.
+
+content:
+I learned this 12 years ago from my driving instructor, who was also a cop. This works especially well on country roads that have bad or no street lighting as oncoming cars completely blind you to your lane but if you just focus on that outside white line, you can see it really easily and can stay on course.
+
+Edit: Thanks for the info! TIL: That white line is called the "fog line"  - https://en.wiktionary.org/wiki/fog_line
+
+url:https://reddit.com/r/YouShouldKnow/comments/a16rul/
+author:xarzilla
+subreddit:YouShouldKnow
+score:4526
+numComments:204
+isOver18:False
+hasPostBody:True

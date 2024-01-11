@@ -1,0 +1,14 @@
+title:
+YSK That for t-mobile users there is a scam currently going on where you are called for a survey offering $20 and they ask for information to steal your identity
+
+content:
+This happened to me yesterday and I was not sure where to post this but I want everyone to know about this situation. I know this is a scam after confirming with t-mobile representatives. These scammers have hacked t-mobile and use official sounding t-mobile automated systems. Also when you call the scammers back they can actually put you on queue with real t-mobile representatives. Most of us know to be careful with our SSN but please tell anyone you know especially you're parents.
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/1v2hqy/
+author:Moose_o
+subreddit:YouShouldKnow
+score:1722
+numComments:98
+isOver18:False
+hasPostBody:True

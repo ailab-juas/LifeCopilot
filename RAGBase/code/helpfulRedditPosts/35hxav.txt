@@ -1,0 +1,15 @@
+title:
+LPT: If someone uses a made-up fact during an argument, reply with "Why do you think that ...?"
+
+content:
+It works so much better than "No, it's not true, actually [something else]". Instead of escalating the conflict and antagonising the other person, it makes them slow down to think and actually present their rationale to you... or notice they don't have a good one.
+
+You can continue with "Okay, but I think that..." and you end up with 2 voiced opinions that you can compare and contrast.
+
+url:https://reddit.com/r/LifeProTips/comments/35hxav/
+author:kosashi
+subreddit:LifeProTips
+score:2255
+numComments:382
+isOver18:False
+hasPostBody:True

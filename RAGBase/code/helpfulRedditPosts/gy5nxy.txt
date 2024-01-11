@@ -1,0 +1,25 @@
+title:
+LPT: Your browser's Private mode does NOTHING to protect you from Fingerprinting. Nor does using a VPN, deleting Cookies, or removing Cached files. There is almost nothing you can do, so never assume you have privacy.
+
+content:
+In light of the class action lawsuit against Google for continuing to track visitors' private sessions, I went down a rabbit hole to see if it was possible to avoid being "fingerprinted" by websites like Amazon &amp; Google.
+
+Turns out, it's almost impossible. There is literally almost *nothing* you can do to stop these websites from tracking your actions. I can't believe there haven't been MASSIVE class-action lawsuits against these companies before now. The current private-browsing suit doesn't even scratch the surface.
+
+Even when you delete your Cookies, clear your Cache, and use a VPN or a browser like Brave (effectively telling websites you do NOT want to be tracked), these websites will still track &amp; build every action you take into a robust profile about who you are, what you like, and where you go.
+
+This goes deeper than just websites. Your Spotify music history is added into this profile, your Alexa searches, your phone's GPS data, any text you have typed into your phone, and more. Companies like Amazon and Google purchase all of this and build it into your profile.
+
+So when you are 'Fingerprinted' by these websites, it's not just your past website history they are attaching to your session. It's **every single thing about you.**
+
+This should be illegal; consumers should have the right to private sessions, should they chose. During this time of quarantine, there is no alternative option: we are forced to use many of these sites. As such, this corporate behavior is unethical, immoral, and in legal terms, a contract of adhesion as consumers are forced into wildly inappropriate terms that erase their privacy.
+
+**TL;DR LPT**: You are being fingerprinted and tracked by Google, Amazon, every other major website. Not just your website actions, but your Spotify listening history, phone GPS data, Alexa searches, emails, and more are all bought &amp; built into these 'fingerprint' profiles. Private browsing does not stop this. Don't ever assume your browsing habits are private.
+
+url:https://reddit.com/r/LifeProTips/comments/gy5nxy/
+author:Rand0mly9
+subreddit:LifeProTips
+score:58907
+numComments:3662
+isOver18:False
+hasPostBody:True

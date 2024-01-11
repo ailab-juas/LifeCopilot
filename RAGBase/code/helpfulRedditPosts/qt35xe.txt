@@ -1,0 +1,15 @@
+title:
+LPT: Take your random vacation days on Mondays, not Fridays
+
+content:
+Fridays are special on their own, everyone tends to be in a better mood and it almost feels like the weekend has started. Monday's, however, suck.
+
+By taking Monday off, you can enjoy your weekend more and have a shorter week to look forward to.
+
+url:https://reddit.com/r/LifeProTips/comments/qt35xe/
+author:fpscolin
+subreddit:LifeProTips
+score:8447
+numComments:342
+isOver18:False
+hasPostBody:True

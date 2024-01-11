@@ -1,0 +1,13 @@
+title:
+LPT: Wikipedia is usually considered an unreliable source by teachers or professors when assigning essays, however most Wikipedia pages have all their references from (mostly) reliable sources at the bottom of the page.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/a4ew1g/
+author:Piercethewizard
+subreddit:LifeProTips
+score:4845
+numComments:178
+isOver18:False
+hasPostBody:False

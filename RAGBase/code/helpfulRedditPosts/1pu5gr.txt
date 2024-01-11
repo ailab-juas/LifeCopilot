@@ -1,0 +1,13 @@
+title:
+LPT: If you're single and live alone, always keep a new (unopened) toothbrush in one of your bathroom drawers.
+
+content:
+When you have an... unexpected guest who spends the night, she/he will appreciate it.
+
+url:https://reddit.com/r/LifeProTips/comments/1pu5gr/
+author:rbrawney
+subreddit:LifeProTips
+score:1908
+numComments:529
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+YSK that you can search a huge database of libraries by ISBN with a Wikipedia internal page
+
+content:
+[This Wikipedia page](https://en.wikipedia.org/wiki/Special:BookSources) lets you specify an ISBN and get a very large amount of data, like libraries around you (sorta) that carry it, booksellers you can get it from, and citation data.
+
+url:https://reddit.com/r/YouShouldKnow/comments/5rr69d/
+author:EnterprisePaulaBeans
+subreddit:YouShouldKnow
+score:1575
+numComments:15
+isOver18:False
+hasPostBody:True

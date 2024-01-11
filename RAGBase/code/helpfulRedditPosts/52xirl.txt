@@ -1,0 +1,16 @@
+title:
+LPT: When writing a thesis or a scientific paper, don't end your day with a completed section. Write at least one or two sentences into the next topic to make it easier for your future self to continue writing the next day.
+
+content:
+As a lazy person, I have big trouble starting to write. When I am in, it helps me a lot to think through my next logical steps and write a few sentences into that direction so I can continue seamlessly the next day..
+
+Also sorry if that was bad english (I am not studying english :D)
+
+
+url:https://reddit.com/r/LifeProTips/comments/52xirl/
+author:regressio
+subreddit:LifeProTips
+score:6033
+numComments:475
+isOver18:False
+hasPostBody:True

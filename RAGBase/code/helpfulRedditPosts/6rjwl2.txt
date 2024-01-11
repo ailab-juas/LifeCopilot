@@ -1,0 +1,13 @@
+title:
+LPT: If you want to develop a habit of waking up early, do something you like when you wake up.
+
+content:
+Personally, I like watching TV shows, so I tried watching an episode of whatever's interesting when I wake up. I wake up early like clockwork now.
+
+url:https://reddit.com/r/LifeProTips/comments/6rjwl2/
+author:tlst9999
+subreddit:LifeProTips
+score:25867
+numComments:2740
+isOver18:False
+hasPostBody:True

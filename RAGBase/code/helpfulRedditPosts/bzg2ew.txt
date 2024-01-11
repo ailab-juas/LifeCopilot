@@ -1,0 +1,17 @@
+title:
+YSK: A Safety Recall has been issued for the Amazon Basics Space Heater. Stop using it, and check your email for an easy refund
+
+content:
+https://www.cpsc.gov/Recalls/2019/Amazon-Recalls-AmazonBasics-Ceramic-Space-Heaters-Due-to-Fire-and-Burn-Hazards-Recall-Alert
+
+Luckily mine broke and stopped turning on, but there have been multiple reported incidents of fire hazards and outlet damage.
+
+I got an email about this from Amazon and all I had to do was reply to it to get a full refund.
+
+url:https://reddit.com/r/YouShouldKnow/comments/bzg2ew/
+author:gnulynnux
+subreddit:YouShouldKnow
+score:5569
+numComments:109
+isOver18:False
+hasPostBody:True

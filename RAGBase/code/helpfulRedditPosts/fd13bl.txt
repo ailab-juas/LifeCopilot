@@ -1,0 +1,13 @@
+title:
+LPT: Make a QR code so your guests can easily connect to your WIFi
+
+content:
+Made a QR code an hung it on my wall. Now when people ask me for the wifi password all they have to do is point their phone to the wall.
+
+url:https://reddit.com/r/LifeProTips/comments/fd13bl/
+author:hastaluegobaby
+subreddit:LifeProTips
+score:2191
+numComments:309
+isOver18:False
+hasPostBody:True

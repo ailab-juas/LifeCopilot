@@ -1,0 +1,15 @@
+title:
+LPT: If you’re alone and trying to find the correct breaker to do electrical work, plug a radio into the outlet where you need to work and turn it up all the way. When the music stops, you’ll know you’ve got the right breaker.
+
+content:
+They make tools to do this, but this works in a pinch rather than walking back and forth.  
+
+Also you should ABSOLUTELY still test the outlet/fixture if it’s still hot or not.   
+
+url:https://reddit.com/r/LifeProTips/comments/7rryk3/
+author:Deuceman927
+subreddit:LifeProTips
+score:16791
+numComments:596
+isOver18:False
+hasPostBody:True

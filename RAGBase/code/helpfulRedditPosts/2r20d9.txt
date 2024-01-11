@@ -1,0 +1,13 @@
+title:
+YSK You can email pictures (from your phone or otherwise) to Imgur, and they will be uploaded to your account and you will receive a confirmation with a link to your image(s)
+
+content:
+Just go into the preferences of your Imgur account and configure the email address that you send from, and you're done. Just send your pictures to upload@imgur.com This is how I typically upload from my phone. There are other ways, this is just an option should you prefer email.
+
+url:https://reddit.com/r/YouShouldKnow/comments/2r20d9/
+author:BiggityBates
+subreddit:YouShouldKnow
+score:1295
+numComments:42
+isOver18:False
+hasPostBody:True

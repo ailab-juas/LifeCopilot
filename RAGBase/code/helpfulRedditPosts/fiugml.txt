@@ -1,0 +1,21 @@
+title:
+LPT: Don’t want Pinterest in your Google search results? Add -Pinterest to the end of your search terms.
+
+content:
+I can’t be alone in HATING the million Pinterest results that come with every google search. This LPT is an easy solution.
+
+For example. . .
+
+Before: “Cool sunset pictures”
+Result: A bunch of photos that you can’t access because they’re locked through Pinterest
+
+After: “Cool sunset pictures -Pinterest”
+Result: No Pinterest results
+
+url:https://reddit.com/r/LifeProTips/comments/fiugml/
+author:thatcityinAlaska
+subreddit:LifeProTips
+score:7300
+numComments:204
+isOver18:False
+hasPostBody:True

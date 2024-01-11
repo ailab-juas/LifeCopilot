@@ -1,0 +1,15 @@
+title:
+LPT For those frustrated by Youtube's new ad testing, the best thing you can do is to browse away or close your browser and not watch those ads. Google is a data heavy organization and if they don't see a significant reduction in people watching ads, they'll roll out platform wide.
+
+content:
+Yes ad blockers can be valuable, however I would imagine a huge percentage of Youtube's audience doesn't use them. The best thing you can do is show your feelings through data by not watching those ads.
+
+Youtube doesn't care about your memes or if you're inconvenienced, they will point to the data showing you still watched the ads.
+
+url:https://reddit.com/r/LifeProTips/comments/xfzo8j/
+author:ih82luz
+subreddit:LifeProTips
+score:1566
+numComments:146
+isOver18:False
+hasPostBody:True

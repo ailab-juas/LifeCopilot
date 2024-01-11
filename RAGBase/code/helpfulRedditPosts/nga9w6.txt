@@ -1,0 +1,25 @@
+title:
+YSK about the security code scam on sites like Craigslist
+
+content:
+EDIT as per u/NotsoGrump23's suggestion: Don't share your G-##### code with anyone
+
+Why YSK: There's currently a scam being run on classifieds such as Craigslist, Facebook, etc. in an attempt to obtain access to your Google account. People tie their Google account to just about everything these days, so a malefactor getting their hands on your Gmail account could very well spell incredible danger for the rest of your online accounts -- often including your bank.
+
+The scam works like this. They list a vehicle or property for sale/rent/whatever. Then they give you their phone number. You call/text/whatever and they say they're going to send you a "code" to verify you are who you say you are. What happens is, you get a notification from Google giving you a security code -- this is the thing they want. It will look like G-##### where the #'s are numbers. It is how Google uses your phone to identify you when you try to log in from a different location than is normal -- or when you're trying to, say ***reset your password.***
+
+You unknowingly paste the code to the scammer, they paste the code into their Google pw reset screen, and wham bam thank you ma'am -- as far as Google knows, they are you.
+
+NEVER share a G# code with ANYONE. If you receive a notification on your phone, consider it to be for YOUR EYES ONLY. Because it is.
+
+This is my first time posting here, so please lmk if I made any mistakes in your required formatting!
+
+Obligatory edit to say thanks for awards: thanks for the awards
+
+url:https://reddit.com/r/YouShouldKnow/comments/nga9w6/
+author:summonern0x
+subreddit:YouShouldKnow
+score:16327
+numComments:494
+isOver18:False
+hasPostBody:True

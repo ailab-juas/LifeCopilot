@@ -1,0 +1,13 @@
+title:
+LPT: When you have a list of chores, do the most difficult/annoying/time consuming one first. You’ll feel your most accomplished and everything else will be easier in comparison.
+
+content:
+Edit: Just because a different way is easier for you, doesn’t mean this way is wrong.
+
+url:https://reddit.com/r/LifeProTips/comments/picl37/
+author:cricket9818
+subreddit:LifeProTips
+score:12045
+numComments:297
+isOver18:False
+hasPostBody:True

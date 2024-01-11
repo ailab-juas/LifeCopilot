@@ -1,0 +1,15 @@
+title:
+YSK that you need to set your clocks back one hour tonight (in the US).
+
+content:
+Yay for an extra hour of sleep! 
+
+*Edit: Unless you're in Arizona, Hawaii, and the territoires: Guam, Puerto Rico, Virgin Islands and American Samoa.
+
+url:https://reddit.com/r/YouShouldKnow/comments/5bd90f/
+author:Lyd_Euh
+subreddit:YouShouldKnow
+score:3086
+numComments:290
+isOver18:False
+hasPostBody:True

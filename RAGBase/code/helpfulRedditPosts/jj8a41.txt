@@ -1,0 +1,13 @@
+title:
+LPT: Work life is only one area of your life. Don’t forget to nurture and grow other aspects of your life. This includes but is not limited to friendships, relationships, personal hobbies, physical health and emotional health.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/jj8a41/
+author:briannabethesda
+subreddit:LifeProTips
+score:1339
+numComments:82
+isOver18:False
+hasPostBody:False

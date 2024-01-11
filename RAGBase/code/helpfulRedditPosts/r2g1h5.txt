@@ -1,0 +1,13 @@
+title:
+YSK: that you can buy a fire extinguisher for about 20 dollars. Please get one for your kitchen and car. It's a very low cost for it's impact in case you need it.
+
+content:
+Why YSK: because you can stop a fire from becoming an inferno with a fire extinguisher. And if it's an oil fire, there's nothing you can do unless you have a fire extinguisher.
+
+url:https://reddit.com/r/YouShouldKnow/comments/r2g1h5/
+author:Pyrited
+subreddit:YouShouldKnow
+score:9337
+numComments:232
+isOver18:False
+hasPostBody:True

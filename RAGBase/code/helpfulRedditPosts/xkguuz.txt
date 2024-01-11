@@ -1,0 +1,13 @@
+title:
+YSK Harvard has an online resource PDF for Resumes and Cover Letters.
+
+content:
+Why YSK: Resumes and Cover Letters are vital to helping you navigate a career or advance, yet they are often poorly made or written. So, if you ever find yourself struggling to come up with a Resume, Cover letter, or want to update your current for a new job/position, [Harvard](https://hwpi.harvard.edu/files/ocs/files/hes-resume-cover-letter-guide.pdf) gives well thought-out advice and examples for each.
+
+url:https://reddit.com/r/YouShouldKnow/comments/xkguuz/
+author:elijahbeck
+subreddit:YouShouldKnow
+score:4076
+numComments:77
+isOver18:False
+hasPostBody:True

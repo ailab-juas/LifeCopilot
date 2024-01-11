@@ -1,0 +1,13 @@
+title:
+LPT: In the tech field, learning to use simple analogies to explain complex processes will get you far in your career, since many managers in tech usually don't understand tech.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/9br6cm/
+author:intelligentx5
+subreddit:LifeProTips
+score:34898
+numComments:1309
+isOver18:False
+hasPostBody:False

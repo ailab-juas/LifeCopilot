@@ -1,0 +1,25 @@
+title:
+LPT: When you meet someone for the first time at a party, skip awkward introductions by asking things like "What's new with you?"
+
+content:
+Someone did this to me this weekend, and I fell in love with it.
+
+Introductions are awkward. You spend a couple minutes trying to ask and answer all the basic questions--what do you do? Where are you from? What are your hobbies? What you get in response are often fairly dull, straightforward answers.
+
+When you're meeting someone in an informal context, it's not necessary. Skip it. Instead, after you've swapped names, try asking the sort of question you'd ask a friend when you were catching up, like:
+
+* What's new with you?
+
+* What have you been up to?
+
+By doing this, you focus on *the stories in their life* rather than *who they are*. It punches through the awkwardness, and the answers you get will inevitably tell you about the person, probably much better than if they just recited their hometown, job, hobbies, and so on. It's starting your relationship [in medias res](http://en.wikipedia.org/wiki/In_medias_res).
+
+I've already done this a couple times this weekend since having someone do it to me, and it works delightfully. People usually do a double-take, but then grin and play along--and then you're well on your way to *actually* getting to know them.
+
+url:https://reddit.com/r/LifeProTips/comments/2j4p77/
+author:SpencerDub
+subreddit:LifeProTips
+score:1088
+numComments:334
+isOver18:False
+hasPostBody:True

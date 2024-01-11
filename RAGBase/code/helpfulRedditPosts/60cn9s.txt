@@ -1,0 +1,15 @@
+title:
+YSK if you use parrafin emollient creams for psoriasis, excema, dry skin, etc, that you should wash your sheets and clothes very regularly.
+
+content:
+BBC article - Skin creams containing paraffin linked to fire deaths - http://www.bbc.co.uk/news/uk-39308748
+
+Basically, residue from these creams can build up and impregnate fabric, making it highly inflammable and acting as an accellerant. 46 deaths linked to them from London fire brigade alone. Advice is to regularly clean and change clothes and bedsheets especially. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/60cn9s/
+author:kwn2
+subreddit:YouShouldKnow
+score:1627
+numComments:71
+isOver18:False
+hasPostBody:True

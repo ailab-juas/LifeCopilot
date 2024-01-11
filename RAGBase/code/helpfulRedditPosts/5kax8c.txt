@@ -1,0 +1,15 @@
+title:
+LPT: Dont know if your house is the only one without power? Check surrounding WiFi networks, if none are showing up, your house isnt the only one
+
+content:
+EDIT: Oh my goodness, front page! Thanks Reddit! I guess something good did happen this Christmas :). Also in my situation, the power went out during the day time so I couldn't tell if people's lights were on or off. I guess if it is night time then looking outside would be easier, but checking the WiFi is just another option. Merry Christmas / Happy Holidays everyone!
+
+EDIT2: I think some people are getting the wrong message. This really only applies to suburban residents, and is only particularly useful when it is day time. Nevertheless, I understand the controversy. This LPT is only for a select few, sorry if it doesn't apply to you
+
+url:https://reddit.com/r/LifeProTips/comments/5kax8c/
+author:Vicinity613
+subreddit:LifeProTips
+score:30766
+numComments:1736
+isOver18:False
+hasPostBody:True

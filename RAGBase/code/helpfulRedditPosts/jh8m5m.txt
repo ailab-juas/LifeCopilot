@@ -1,0 +1,13 @@
+title:
+LPT: If you enjoy a movie/show/game/album that you believe was criminally underrated, find a critic that scored it highly and then check out their other reviews since you likely have similar tastes as them.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/jh8m5m/
+author:dontcommentonmyname
+subreddit:LifeProTips
+score:43712
+numComments:379
+isOver18:False
+hasPostBody:False

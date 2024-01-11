@@ -1,0 +1,13 @@
+title:
+LPT: Curling your index finger against your thumb while leaving the tiniest gap, creates a small aperture that can correct for poor/blurry vision when reading or looking at things far away.
+
+content:
+It's not perfect and no substitute for glasses but is certainly a neat trick.
+
+url:https://reddit.com/r/LifeProTips/comments/rmglkg/
+author:nickel4asoul
+subreddit:LifeProTips
+score:3736
+numComments:250
+isOver18:False
+hasPostBody:True

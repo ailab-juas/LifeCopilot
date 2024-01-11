@@ -1,0 +1,29 @@
+title:
+YSK: There is free software to keep your PC from forcibly upgrading to Windows 10.
+
+content:
+The software is called [GWX Control Panel](http://ultimateoutsider.com/downloads/) and it can (at least for now) prevent Windows 10 from installing without your consent. It can also keep Windows 10 and associated files from being stored on your hard drive and being used as a download source for other Windows 10 downloads.
+
+The software is free and amounts to a few pushes of a button.
+
+Note this may not be a permanent solution. Microsoft has shown that it's willing to circumvent users trying to prevent forced upgrades but the nice thing is GWX Control Panel is updated regularly to (hopefully) stay ahead of Microsoft's efforts to get everyone up to 10.
+
+EDIT: Common responses
+
+**"OMG just upgrade!"** = Your computer is *your* computer and as such the final decision about installing, updating, upgrading, and other modifications to the system are yours. I am not here to advocate for or against Windows 10 but I do strongly believe that it's a bad idea to have software strongarm a serious system change without giving you a choice if you want that change. If we're not ok with adware doing this, we shouldn't be ok with our OS doing it.
+
+**"Just get Linux."** = I personally don't disagree with this, I roll Linux myself on my laptop. That said, as much as I love Linux, it's not a realistic choice for everyone. Some people may need to keep Windows for work or school or else may not have the time to invest in learning a new OS. I am 110% behind more Linux users but to expect everybody to just switch over because of this isn't realistic. If you do want to think about this option, check out [Mint](https://www.linuxmint.com/). The Cinnamon version looks and feels a lot like Windows XP and the adjustment period for a regular Windows user is pretty brief.
+
+**"There's nothing wrong with W10!"** = I never said there was, necessarily. The issue is with *how* the rollout is being done. There have been many, many, *many*, pages written already about problems with W10 by far more tech savvy people than I, address your concern to them.
+
+**"This is better for security so people should be forced to upgrade."** = This is probably the most valid argument but for myself I don't feel that forcibly changing someone's system so dramatically is worth the potential gain and I posted this software for people who feel the same.
+
+**"Just &lt;insert registry change step&gt; and it does the same thing."** = While this is potentially something you can do a lot of the registry changes and update blocks don't work anymore. Microsoft has specifically tried to get around them to prevent people from locking the upgrade out. Some work, some don't. The point of this tool is even the least tech savvy user can fire it up, press a few buttons, and they're covered. Speaking as someone who does IT, I really don't want fifty calls from people who tried dicking with their registry to block the upgrade and ended up bricking the OS.
+
+url:https://reddit.com/r/YouShouldKnow/comments/4lzrh2/
+author:HeloRising
+subreddit:YouShouldKnow
+score:1734
+numComments:414
+isOver18:False
+hasPostBody:True

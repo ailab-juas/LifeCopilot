@@ -1,0 +1,15 @@
+title:
+YSK that there is an app that makes contacting your government representatives, voting on legislation and signing petitions incredibly simple.
+
+content:
+It's called [Countable](http://getcountable.com) and it's so easy to use.
+
+EDIT: I thought I'd include [this screenshot](https://imgur.com/a/s0OMw) as an example. It's a very simple interface and it gives you thorough details on what happens if you support or oppose each action.
+
+url:https://reddit.com/r/YouShouldKnow/comments/5t5ppi/
+author:SpaceGhost1992
+subreddit:YouShouldKnow
+score:2448
+numComments:100
+isOver18:False
+hasPostBody:True

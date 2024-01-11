@@ -1,0 +1,23 @@
+title:
+YSK that you can BLUR your house out from Google Street View.
+
+content:
+Why YSK: It's nice to not have the entire world easily see what your house looks like with a simple Google search and click.
+
+Delivered something to a house today and when I arrived Google maps showed it as Blurred out on the GPS app. Only one on the street. Never seen anything like it. Anyways, I did some research and here's how you do it:.
+
+Go to Google Maps and enter your home address.
+
+Enter into Street View mode by dragging the small yellow human-shaped icon, found in the bottom-right corner of the screen, onto the map in front of your house.
+
+With your house in view, click "Report a problem" in the bottom-right corner of the screen.
+
+Center the red box on your home, and select "My home" in the "Request blurring" field.
+
+url:https://reddit.com/r/YouShouldKnow/comments/nlquz3/
+author:v-shizzle
+subreddit:YouShouldKnow
+score:11763
+numComments:489
+isOver18:False
+hasPostBody:True

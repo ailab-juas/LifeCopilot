@@ -1,0 +1,15 @@
+title:
+LPT: When building a house take photos of every wall after the plumbing and electrical is run
+
+content:
+For even better results tape a measuring tape across the wall before taking the photo. Later when you want to hang things, run wires, or anything that involves drilling into the walls you'll know where everything is.
+
+Edit: as pointed out by /u/2fishel make sure you label the wall with a piece of paper in the photo, or give the image a good name
+
+url:https://reddit.com/r/LifeProTips/comments/hyc9d7/
+author:Catalyzm
+subreddit:LifeProTips
+score:6588
+numComments:172
+isOver18:False
+hasPostBody:True

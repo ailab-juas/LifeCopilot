@@ -1,0 +1,13 @@
+title:
+LPT: Tell older people your dreams. They just might help you on the way.
+
+content:
+Old people who I get to know are always trying to help me. Getting me jobs. Cash for holidays. Advice. It's amazing!
+
+url:https://reddit.com/r/LifeProTips/comments/3kcp59/
+author:PolaroidsOfPenguins
+subreddit:LifeProTips
+score:3087
+numComments:458
+isOver18:False
+hasPostBody:True

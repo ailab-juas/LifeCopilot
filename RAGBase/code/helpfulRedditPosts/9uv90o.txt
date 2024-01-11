@@ -1,0 +1,30 @@
+title:
+YSK: Duncan Hines cake mixes are being recalled due to salmonella
+
+content:
+Some Duncan Hines cake mixes have been found to contain salmonella and Conagra Brands (the company that owns Duncan Hines) is recalling the following products:
+
+Product | UPC | Best Used by
+--------|------|--------------
+Duncan Hines Classic White Cake 15.25 oz | 644209307500 | MAR 7 2019; MAR 8 2019; MAR 9 2019; MAR 10 2019; MAR 12 2019; MAR 13 2019 
+Duncan Hines Classic Yellow Cake 15.25oz. | 644209307494 | MAR 9 2019; MAR 10 2019; MAR 12 2019; MAR 13 2019
+Duncan Hines Classic Butter Golden Cake 15.25oz. | 644209307593 | MAR 7 2019; MAR 8 2019; MAR 9 2019
+Duncan Hines Signature Confetti Cake 15.25oz. | 644209414550 | MAR 12 2019; MAR 13 2019
+
+These items can be returned to the store where you purchased them.
+
+Please visit these websites for more information:
+
+https://www.prnewswire.com/news-releases/duncan-hines-classic-white-classic-butter-golden-signature-confetti-and-classic-yellow-cake-mixes-recalled-due-to-potential-presence-of-salmonella-300744302.html?tc=eml_cleartime
+
+https://www.duncanhines.com/
+
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/9uv90o/
+author:BingeRedditor
+subreddit:YouShouldKnow
+score:2388
+numComments:63
+isOver18:False
+hasPostBody:True

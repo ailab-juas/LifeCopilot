@@ -1,0 +1,15 @@
+title:
+YSK: Dollar store pregnancy tests are just as effective as drug store tests.
+
+content:
+Manufacturing standards are the same across the board. 
+
+Why ysk: $1 vs $10 to $15.
+
+url:https://reddit.com/r/YouShouldKnow/comments/j7cqr7/
+author:FemaleNurse
+subreddit:YouShouldKnow
+score:30155
+numComments:716
+isOver18:False
+hasPostBody:True

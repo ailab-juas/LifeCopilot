@@ -1,0 +1,13 @@
+title:
+YSK you can now send text messages at a specific time by holding the send button (Android phones)
+
+content:
+Why YSK, because you can finally send delayed text messages on Android phones! Do you work early in the morning and often find yourself wanting to message people before they are awake? Now by holding the send button you can select a specific time for the messages to go out.
+
+url:https://reddit.com/r/YouShouldKnow/comments/yn0b75/
+author:effortfulcrumload
+subreddit:YouShouldKnow
+score:7811
+numComments:457
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: When you get a new notebook, leave the first page blank. When you finish using the notebook, you can number the pages and use the first page as a table of contents.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/94tres/
+author:BiohackedGamer
+subreddit:LifeProTips
+score:45956
+numComments:800
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,17 @@
+title:
+YSK that if you're a HS/college/university student that is learning to code, Github offers free perks at 20+ services and a free premium account
+
+content:
+You can apply [here](https://education.github.com/pack) if you have your school email or any other proof of being enrolled there. The discounts are crazy and are more than $1000 worth, and therefore are useful for anybody interested in computer science.
+
+https://i.imgur.com/6eXGAxe.png
+
+Also, you can apply for free [JetBrains](https://www.jetbrains.com/shop/eform/students) software, which is amazing, as their programs cost *a lot*. You also might be lucky enough to get free [Autodesk](https://www.autodesk.com/education/prepare-and-excel/authorized-academic-partner/find-a-partner) perks, but they have a more complicated application process.
+
+url:https://reddit.com/r/YouShouldKnow/comments/80q33u/
+author:AlenF
+subreddit:YouShouldKnow
+score:4026
+numComments:100
+isOver18:False
+hasPostBody:True

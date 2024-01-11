@@ -1,0 +1,55 @@
+title:
+YSK unlimited vacation policies end up being a scam that ends up paying you less
+
+content:
+Unlimited vacation policies (pioneered and popularized originally by Netflix) sound like a great deal but in practice usually result in lower total compensation and no greater vacation.
+
+First, background: unlimited vacation is usually described to employee as "we are all mature adults, so you can take vacation whenever you want, as long as you get your work done."  Usually your direct manager's agreement is necessary - the whole "unlimited" thing just means HR isn't tracking some number somewhere.
+
+Sounds great, right?  Not so fast.
+
+One of the oft-raised objections is that (since these policies are popular in tech companies and startups) no one takes any vacation anyways, and if you are one of the people who actually uses the policy to take vacation, your coworkers and boss will look down on you and your advancement will be limited.
+
+This isn't the biggest issue.  It's a flaw in regular vacation policies anyways - employees who never take vacation days and work all the time tend to be viewed more favorably as being "more devoted to the company" etc.  The real problem is much more insidious.
+
+To understand, here is how vacation policies are implemented on the HR tracking side: 
+
+Let's assume you have a "2 weeks of vacation per year" vacation policy.  Specifically, that's "80 hours (10 workdays x 8 hours/day) of vacation per every 24 biweekly pay periods."  These units are key - every pay period, the system accumulates 3.33 hours of vacation in your "bank" of vacation "days" (hours).  After 24 pay periods (one year), you'll have accumulate 80 hours of vacation, the equivalent of 2 weeks off.  When you take a vacation (let's say you take 3 days off), the system subtracts 24 vacation hours from your "bank."  Now here's the key:
+
+When you quit your job, if you have any hours left in your "bank" of vacation days, *by law you must then be paid for all those hours.* (in the US)
+
+The way "paid vacation" is implemented is that as you work, you are essentially "earning" more hours/days for which you are paid.  You "take days off" by spending those but any you don't spend are owed to you as paid time when you leave.
+
+Here's the kicker: **unlimited vacation policies take away all of these paid days and reduce them to zero.**
+
+In practice, unlimited vacation policies don't result in people taking more total days off.  You're there to work, and most people just take time off around the holidays plus a handful of personal days throughout the year.  Anyone on such a policy who (under a real paid vacation policy) would have even a single remaining unused vacation day doesn't end up getting paid for it upon leaving.
+
+Let me make this clear:
+
+Under a typical paid-vacation policy (for salaried employees), when you take a paid vacation day off, you're paid twice: you're still receiving your salary as though you were in the office, and you're using a vacation day that you earned.  If you did not take this day off, you'd get paid for being in the office and when you leave the company, you get paid for that vacation day.
+
+Under an unlimited vacation policy, when you take a paid vacation day off, you're paid only once: you're receiving your salary as though you were in the office, and that's it.  If you hadn't taken that day off, then when you leave the company, you don't get paid anything at all.
+
+What is incredibly ironic here is that HR people understand this fully and have attempted in many cases to advise their companies and fellow employees NOT to go to unlimited vacation policies, because it results in lower total compensation, but the "cultural" notion around unlimited vacation as an "enlightened" policy is so strong that they are often over-ridden.
+
+I remember working for a well-known internet company many years ago whose employees began agitating for a change to unlimited vacation.  An HR rep tried to get up in front of the company and explain that "unlimited vacation really means zero vacation" but he wasn't a great speaker/explainer and got shouted down and mocked, his reputation at the company forever stained  as a backwards wet towel bureaucrat.
+
+Only years later when I was called upon by employees of another company to shift to an unlimited vacation policy did I suddenly realize upon examining the mechanics of the policy that unlimited vacation actually acts against the interests of employees.  (They are certainly somewhat more advantageous to companies from an accounting standpoint, because then you never have overhang liabilities from outstanding vacation days)  However, I too was unable to argue down the more popular call for unlimited vacation policy.
+
+Hope this helps, and that your company doesn't fall into the same mistake.  Keep your vacation days!  If you want more vacation, ask for a more generous vacation policy, *not* unlimited vacation!
+
+---
+
+Edits for accuracy from comments
+
+---
+
+EDIT 2: I should not have left "send replies to my inbox" checked.
+
+url:https://reddit.com/r/YouShouldKnow/comments/64ezlj/
+author:yishan
+subreddit:YouShouldKnow
+score:4706
+numComments:337
+isOver18:False
+hasPostBody:True

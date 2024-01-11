@@ -1,0 +1,20 @@
+title:
+YSK that no-income/homeless Americans are eligible for the $1,200 IRS stimulus check and the deadline to file is October 15
+
+content:
+Why YSK: There are half a million homeless Americans and I’m sure a majority of them do not understand that they have access to $1,200. The only requirements are that they must have a valid social security number and that they can’t be claimed as a dependent of another taxpayer.
+
+I have a homeless guy that is well known in my town who we were able to get set up for the stimulus. We used a local mailing address and went with him to cash the check and then place the money on a gift card. Obviously this is rare as this guy is known and loved by the entire community, but just too proud to accept much help. I don’t suggest going around to random people on the streets and offering help as it could be dangerous. But you never know who this information could help. $1,200 could change their life  tremendously.
+
+You can search online for IRS Non-Filers tool to submit.
+
+
+EDIT: Just to clarify there has only been one stimulus check approved by the US government. This information only applies to people who may not have known they were eligible for the original stimulus check. There is currently no second stimulus check available to claim.
+
+url:https://reddit.com/r/YouShouldKnow/comments/j16auj/
+author:utspoony
+subreddit:YouShouldKnow
+score:16684
+numComments:406
+isOver18:False
+hasPostBody:True

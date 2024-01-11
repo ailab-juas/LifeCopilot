@@ -1,0 +1,21 @@
+title:
+LPT: Don't wash your chicken before cooking dinner
+
+content:
+I just dug this up for another comment, and thought it was good advice.  When preparing chicken or any meat, there's no need to wash/rinse it. In fact it could spread germs and bacteria.  When you put that roast in the oven, properly cooking it will kill any bacteria.
+
+From the USDA:
+
+"Washing raw poultry, beef, pork, lamb, or veal before cooking it is not recommended. Bacteria in raw meat and poultry juices can be spread to other foods, utensils, and surfaces. We call this cross-contamination.
+
+Some consumers think they are removing bacteria and making their meat or poultry safe. However, some of the bacteria are so tightly attached that you could not remove them no matter how many times you washed. But there are other types of bacteria that can be easily washed off and splashed on the surfaces of your kitchen. Failure to clean these contaminated areas can lead to foodborne illness. Cooking (baking, broiling, boiling, and grilling) to the right temperature kills the bacteria, so washing food is not necessary."
+
+http://www.fsis.usda.gov/wps/portal/fsis/topics/food-safety-education/get-answers/food-safety-fact-sheets/safe-food-handling/washing-food-does-it-promote-food-safety/washing-food
+
+url:https://reddit.com/r/LifeProTips/comments/21gcvz/
+author:vettenyy
+subreddit:LifeProTips
+score:1628
+numComments:643
+isOver18:False
+hasPostBody:True

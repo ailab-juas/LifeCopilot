@@ -1,0 +1,18 @@
+title:
+YSK that every cosmetics item (face wash, shampoo, cologne, etc.) has a period-after-opening symbol that shows how long the product will last after being opened.
+
+content:
+This is something I only realized very recently - every single cosmetics item, whether it be makeup, moisturizer, shampoo, body wash, cologne, hair cream, etc. is required in the EU and likely by the FDA to have an open container symbol with the time period, in months, that the product will last after being opened. Here's what it looks like:
+
+http://i.imgur.com/lWyb9Ht.jpg
+
+
+From personal experience, the length of time varies, but I've never seen any product under 12 months. For example using things around my house, a container of face moisturizer will last 12 months, while a bottle of cologne lasts between 12-24 months (depending on the cologne), and a tub of hair pomade lasts 24 months.
+
+url:https://reddit.com/r/YouShouldKnow/comments/3h63c1/
+author:BipolarBear0
+subreddit:YouShouldKnow
+score:1221
+numComments:66
+isOver18:False
+hasPostBody:True

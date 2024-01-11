@@ -1,0 +1,25 @@
+title:
+YSK The mobile app Sync.me is turning your contact list into a giant reverse lookup (without consent of those listed). Your number may be listed!
+
+content:
+http://sync.me
+
+Not the consent of the user uploading the contacts, I mean. It IS listed in the TOS under "Special Features", but what about those in that person's contact list that didn't consent?
+
+First, i did a google search of my number.
+
+It came up, I was little miffed.
+
+I started searching for friends, and they came up too.
+
+Then I searched for a friend who has a unique nickname, and lo and behold, their unique nickname showed up when I searched.
+
+How can someone who has my info in their contacts give consent to release my information? How is that okay?
+
+url:https://reddit.com/r/YouShouldKnow/comments/3fqrga/
+author:beard_the_fuck_up
+subreddit:YouShouldKnow
+score:2114
+numComments:197
+isOver18:False
+hasPostBody:True

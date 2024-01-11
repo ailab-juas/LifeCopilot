@@ -1,0 +1,15 @@
+title:
+LPT: When you compliment somebody on their artwork, say something nice about the technique instead of the subject matter.
+
+content:
+So, for example, if someone has drawn a picture of a robot, say something like "I really like the way you've shaded the darker areas" instead of "I think it's cannons/legs/wings are cool."
+
+While the second statement certainly has value, the first shows that you appreciate the person's artistic skill and not just their design.
+
+url:https://reddit.com/r/LifeProTips/comments/a3yw3z/
+author:echoinoz
+subreddit:LifeProTips
+score:1775
+numComments:96
+isOver18:False
+hasPostBody:True

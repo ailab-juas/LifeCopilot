@@ -1,0 +1,13 @@
+title:
+LPT: If you’re having a hard time trying to be in the mood to do homework or a project because it looks hard and stressful, save the easy assignments and do them before jumping to the stressful ones, it helps get into the mood because it makes you feel more at ease and you don’t get overwhelmed.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/mcxapy/
+author:TheFakeDogzilla
+subreddit:LifeProTips
+score:1250
+numComments:51
+isOver18:False
+hasPostBody:False

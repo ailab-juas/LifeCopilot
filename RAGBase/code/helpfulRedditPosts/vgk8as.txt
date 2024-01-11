@@ -1,0 +1,33 @@
+title:
+YSK under US Labor Law, 100% of tips have to be paid to workers. It's illegal for employers to take your tips.
+
+content:
+Why YSK: there are state laws still in existence that say the employer can confiscate tips if they pay you a direct minimum wage. The federal law prohibiting this went into effect in April 2021. So these state laws are obsolete and unenforceable.
+
+The employer is totally prohibited from confiscating or dipping into tip money. They can deduct card fees used to send tips, or if they operate a tip pool they can pool all tips and pay them out later, but overall 100% of tips have to be paid to workers.
+
+It's illegal for employers, managers, supervisors, HR, to take any tip money or use tip money to pay for property damage, stolen meals, uniforms, PPE, missing cash from registers, etc. Tip pools can't be used to pay managerial staff, but they can be used to pay backroom workers like cooks.
+
+&gt;an employer cannot keep employees’ tips under any circumstances; managers and supervisors also may not keep tips received by employees, including through tip pools.
+
+[https://www.dol.gov/agencies/whd/flsa/tips](https://www.dol.gov/agencies/whd/flsa/tips)
+
+&gt;Section 3(m)(2)(B) prohibits employers, regardless of whether they take a tip credit, from keeping tips, “including allowing managers or supervisors to keep any portion of employees' tips.” 29 U.S.C. 203(m)(2)(B). The prohibition applies to managers or supervisors obtaining employees' tips directly or indirectly, such as via a tip pool. To clarify which employees qualify as managers or supervisors for purposes of section 3(m)(2)(B), the 2019 NPRM proposed § 531.52(b)(2), which would codify the Department's current enforcement policy under FAB No. 2018-3 (Apr. 6, 2018).
+
+[https://www.federalregister.gov/documents/2020/12/30/2020-28555/tip-regulations-under-the-fair-labor-standards-act-flsa](https://www.federalregister.gov/documents/2020/12/30/2020-28555/tip-regulations-under-the-fair-labor-standards-act-flsa)
+
+Note that Federal law supersedes state law. Also under NLRB laws, workers cannot waiver their labor rights and any policies, handbooks, contracts that say they can take your tips are illegal. You can't legally agree to forfeit tips to your employer.
+
+If the employer takes your tips, or introduces policies or conditions of employment saying that they can take your tips, file a complaint with the Department of Labor.
+
+[https://www.dol.gov/agencies/whd/contact/complaints](https://www.dol.gov/agencies/whd/contact/complaints)
+
+Complaints are investigated by the Department. If they find the employer did something illegal, they will prosecute it themselves, fine the company, and force them to pay lost wages plus interest to you. You don't need a lawyer unless you have massive damages you need to get back (like if you missed paying medical bills because they were stealing tips). You may also consider filing a class action lawsuit if the practice was pervasive across the company, like if a franchise was stealing tips at hundreds of their stores.
+
+url:https://reddit.com/r/YouShouldKnow/comments/vgk8as/
+author:adimwit
+subreddit:YouShouldKnow
+score:34836
+numComments:808
+isOver18:False
+hasPostBody:True

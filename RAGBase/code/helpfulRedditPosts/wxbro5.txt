@@ -1,0 +1,15 @@
+title:
+LPT: if you’ve made payments starting March 2020 on your federal student loans, you can request a refund. Since the Biden-Harris student loan forgiveness was announced, federal student loan websites are allowing refund requests.
+
+content:
+EDIT: According to the Covid Relief Act, if you made any payments towards your federal student loans since March 2020, you may request a refund of those payments by calling your loan servicer. List of servicers and numbers can be found here: https://studentaid.gov/manage-loans/repayment/servicers
+
+If you want to check whether you’ve ever received a Pell grant, login to https://studentaid.gov (traffic right now is very high so the website might not load).
+
+url:https://reddit.com/r/LifeProTips/comments/wxbro5/
+author:MalonesChiliRecipe
+subreddit:LifeProTips
+score:1423
+numComments:268
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: How to fold a napkin
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/3h4zdc/
+author:[deleted]
+subreddit:LifeProTips
+score:1658
+numComments:56
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: Seek out and befriend kind people. That way you will be always surrounded with kindness, and you yourself will learn to be more kind.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/yzfj4h/
+author:forking_bench
+subreddit:LifeProTips
+score:2716
+numComments:73
+isOver18:False
+hasPostBody:False

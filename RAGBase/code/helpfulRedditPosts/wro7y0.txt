@@ -1,0 +1,37 @@
+title:
+YSK: In the US, prices of the majority of Prime-eligible products sold on Amazon may rise by a minimum of $0.50 - $1.00 this fall, due to Amazon triple-dipping on fees to sellers by adding unprecedented "Inflation" and "Holiday" surcharges, forcing us to raise prices.
+
+content:
+Why YSK: Value items are already hard to sell on Amazon, and sellers will start to lose money on them unless they raise prices this holiday. It is not out of the seller's greed. 
+
+As some context; there are 3 ways to sell products on Amazon;
+
+___
+
+* **Seller FBA (Fulfilled by Amazon)** - The seller keeps their inventory in Amazon's warehouse. At the time of sale, a fee is paid to Amazon to have them pick &amp; ship the product to you. AFAIK, 100% of this product is Prime-eligible since it's in Amazon's control.
+* **Seller FBM (Fulfilled by Merchant)** - The seller keeps the inventory at the seller's warehouse. No fee is paid to Amazon for picking and shipping, since the seller is doing it themselves. A portion of this product is prime-eligible if the seller has proven they are reliable.
+* **Vendor** - An application/invitation only program where the seller sells large volumes of product directly to Amazon. It's then owned by Amazon and they can resell it however and whenever they please. AFAIK 100% of this product is Prime-eligible.
+
+___
+
+For the purpose of this YSK, we will be talking exclusively about FBA (Fulfilled by Amazon), which accounts for arguably the largest chunk of Prime-eligible products.
+
+Amazon charges the following amounts to pick and ship a seller's product: https://sellercentral.amazon.com/gp/help/external/GPDC3KPYAGDTVDJP
+
+* The cost to pick &amp; ship an 12oz (340g) product is $4.52
+* Earlier this year (included in the above link), Amazon announced that they are adding 5% surcharge to this fee to account for inflation... So that $4.52 became $4.75
+* 2 days ago, [Amazon announced that they are adding an additional Holiday fulfillment fee surcharge](https://sellercentral.amazon.com/forums/t/2022-holiday-peak-fulfillment-fee/1201404). That originally $4.52 fee [is now costing us $5.06](https://sellercentral.amazon.com/gp/help/external/GABBX6GZPA8MSZGW)
+
+Both this "Inflation Surcharge" and "Holiday Peak Surcharge" have never been introduced before, and are new as of 2022 (and with the Holiday surcharge, is new as of 2 days ago).
+
+An increase of $0.54 may not sound like much, but you have to keep in mind that many sub-$25 product are operating at tiny margins as it stands, often $1-3 after you consider sourcing, transportation, storage, overhead, operational costs, and fees. So this change, just announced 2 days ago to go into effect in 2 months, is going to garnish 15%-50% of sellers' profits for lower cost items during the highest volume season unless we raise our prices to accommodate.
+
+Many sellers are very angry about this change, because our entire forecasting strategy (with long lead times for manufacturing and transportation) informed decisions 6 months ago on how much product we should source and at which target price point. Now a $19.99 product is not profitable, and because of psychology increasing it to $20.99 drops demand noticeably (since it's above that comfort threshold or gets filtered out of search results). But we have no choice but to increase the price.
+
+url:https://reddit.com/r/YouShouldKnow/comments/wro7y0/
+author:MrMusAddict
+subreddit:YouShouldKnow
+score:24109
+numComments:868
+isOver18:False
+hasPostBody:True

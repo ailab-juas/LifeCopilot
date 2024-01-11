@@ -1,0 +1,13 @@
+title:
+LPT: Can't focus at the computer? Play music from a video game soundtrack. It's designed to keep you engaged, and helps you focus on what you're working on.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/2isjtd/
+author:tekjester1
+subreddit:LifeProTips
+score:4060
+numComments:864
+isOver18:False
+hasPostBody:False

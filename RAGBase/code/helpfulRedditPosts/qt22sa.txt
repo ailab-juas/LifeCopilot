@@ -1,0 +1,13 @@
+title:
+LPT: If you plan on buying a lottery ticket, buy it from a local mom-and-pop convenience store rather than a large chain.
+
+content:
+On the off-chance you happen to win, the store will get a bonus from the lottery and will likely spend that money locally.
+
+url:https://reddit.com/r/LifeProTips/comments/qt22sa/
+author:boofin19
+subreddit:LifeProTips
+score:5597
+numComments:159
+isOver18:False
+hasPostBody:True

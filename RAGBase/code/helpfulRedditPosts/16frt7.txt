@@ -1,0 +1,20 @@
+title:
+With the passing of Aaron Schwartz, I think its important everyone be aware of the different types of support Reddit offers especially /r/suicidewatch
+
+content:
+There are multiple subs for all kinds of problems;
+/r/depression
+/r/alcoholism
+/r/abuse
+/r/bullying
+
+Edit: Lots of downvoting happening here, please consider the impact that these subs can have on human life and mind your reddiquette. http://code.reddit.com/wiki/help/reddiquette
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/16frt7/
+author:fearluck
+subreddit:YouShouldKnow
+score:1975
+numComments:145
+isOver18:False
+hasPostBody:True

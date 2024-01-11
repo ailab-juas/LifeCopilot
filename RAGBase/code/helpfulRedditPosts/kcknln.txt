@@ -1,0 +1,15 @@
+title:
+YSK delivery apps charge restaurants 15%-30% on top of the fees they charge you, often eliminating the restaurants profits. Ordering directly is the best way to support local restaurants.
+
+content:
+Why YSK:
+
+Restaurants often operate on \~30% or less profit margins, so by using delivery apps they are often breaking even or losing money, essentially working for free. Most people think they are helping the restaurant but they could actually be hurting it.
+
+url:https://reddit.com/r/YouShouldKnow/comments/kcknln/
+author:playnothingDOTcom
+subreddit:YouShouldKnow
+score:41587
+numComments:1681
+isOver18:False
+hasPostBody:True

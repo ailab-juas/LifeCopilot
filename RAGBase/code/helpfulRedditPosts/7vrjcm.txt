@@ -1,0 +1,15 @@
+title:
+LPT: If you’re a boss, supervisor, or team leader, tell the people who report to you that they’ve done a good job and be specific
+
+content:
+It’s a lot easier to give critical feedback if your team knows you notice when they do something well. It’s also easier to reinforce good things about people’s work than change the bad. Plus, it makes people feel good. 
+
+Source: have a boss, am also a boss. 
+
+url:https://reddit.com/r/LifeProTips/comments/7vrjcm/
+author:laugh_forget
+subreddit:LifeProTips
+score:1736
+numComments:67
+isOver18:False
+hasPostBody:True

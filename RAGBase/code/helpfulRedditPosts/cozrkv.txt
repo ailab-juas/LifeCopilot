@@ -1,0 +1,13 @@
+title:
+YSK: at Walgreens Pharmacies, Naloxone (Narcan) is available over the counter in 46 states
+
+content:
+This excludes Delaware, Hawaii, North Dakota and Wyoming. At CVS Pharmacies it’s available in 43 states besides Delaware, Hawaii, Maine, Michigan, Nebraska, Oklahoma and Wyoming.
+
+url:https://reddit.com/r/YouShouldKnow/comments/cozrkv/
+author:Pimpchimp99
+subreddit:YouShouldKnow
+score:1059
+numComments:98
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+YSK that you can check to see if your email password has been breached.
+
+content:
+Within the past 2 years, there have been many breaches on websites where you entered an email and password for a login, and your passwords could be online somewhere for scammers to access. You can check to see if your email has been breached at https://haveibeenpwned.com and see the exact sites and dates that your account was hacked.
+
+url:https://reddit.com/r/YouShouldKnow/comments/9llfpf/
+author:barkooka1
+subreddit:YouShouldKnow
+score:2285
+numComments:174
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+YSK about TOS;DR (terms of service; didn't read), a website that reviews and rates terms of services for websites.
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/xyqez/
+author:Nicoscope
+subreddit:YouShouldKnow
+score:1456
+numComments:47
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: Save your sanity, delete tiktok
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/z9f23q/
+author:Xiballistic
+subreddit:LifeProTips
+score:3814
+numComments:569
+isOver18:False
+hasPostBody:False

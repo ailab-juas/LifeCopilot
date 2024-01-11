@@ -1,0 +1,17 @@
+title:
+YSK: There is an emergency service on Android phones that when enabled, if you press the power button 3 times very fast it will immediately send an SOS message to designated people, as well as sending your GPS location, a picture from both front and back cameras, and record/send a 5 second audio.
+
+content:
+The power button is the easiest to access, especially in an emergency. If you're running from someone, or hiding, or your phones about to be ripped away from you, hitting the power button 3 times is easier than trying to call 911 or sending a discrete text, etc.
+
+Go to Settings&gt;Advanced Features&gt;Send SOS Message. Turn it to on and it allows to you choose which people (I believe up to 4) you'd like the alerts sent to.
+
+I'm not sure if Apple phones have anything similar but if so it'd probably be good for people to know
+
+url:https://reddit.com/r/YouShouldKnow/comments/dslyr3/
+author:blackmidianxiety
+subreddit:YouShouldKnow
+score:2325
+numComments:115
+isOver18:False
+hasPostBody:True

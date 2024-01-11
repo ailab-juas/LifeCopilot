@@ -1,0 +1,13 @@
+title:
+LPT: Don't stop CPR because they are not awake, CPR keeps blood and oxygen circulating the body and is not primarily there to regain consciousness
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/dfnd95/
+author:cheese_the_acid
+subreddit:LifeProTips
+score:1192
+numComments:100
+isOver18:False
+hasPostBody:False

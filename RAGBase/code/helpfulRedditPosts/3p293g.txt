@@ -1,0 +1,25 @@
+title:
+LPT: When you place items on the microwave plate, avoid the centre.
+
+content:
+Humans tend to like symmetry, so we place items to be heated in the centre of the microwave plate. This is actually the worst place to put your food, and will explain the cold points mixed with the molten lava points. Due to standing waves which cancel the microwaving effect at certain points.
+
+Placing your food asymmetrical near the edge of the plate has several benefits.
+
+1. The microwaves bounce off the metal interior and are more consistent and energy intense there.
+
+2. The food heats quicker.
+
+3. The standing waves are far less, so a more consistent cooking time.
+
+4. The heating is therefore more thermally consistent.
+
+Quicker, cheaper, more consistent.
+
+url:https://reddit.com/r/LifeProTips/comments/3p293g/
+author:ziptime
+subreddit:LifeProTips
+score:3230
+numComments:406
+isOver18:False
+hasPostBody:True

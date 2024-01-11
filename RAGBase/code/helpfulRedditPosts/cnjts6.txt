@@ -1,0 +1,15 @@
+title:
+YSK how to access all of the data Google has collected about you (and how to disable it)
+
+content:
+Google stores basically everything you do, so if your account is hacked the hackers will know _everything_ about you. This includes audio conversations, web history, and location history. So it’s important to know how to turn it off. Head over [here](https://myaccount.google.com/u/1/data-and-personalization) and you can easily change your preferences to protect your safety.
+
+You can also download all of the data Google has collected about you.  [Click here](https://takeout.google.com/u/1/?pli=1) to customize what you want to download. You will receive the link to the download in an email. If you want, it even has an option to send you your data very 2 months for a year.
+
+url:https://reddit.com/r/YouShouldKnow/comments/cnjts6/
+author:Dorkmeister579
+subreddit:YouShouldKnow
+score:16856
+numComments:497
+isOver18:False
+hasPostBody:True

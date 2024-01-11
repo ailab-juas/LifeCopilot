@@ -1,0 +1,16 @@
+title:
+LPT: Having trouble remembering how many feet are in a mile? Five tomatoes!
+
+content:
+Five Tomatoes  
+Five Two-mEight Ohs  
+Five Two Eight O  
+5,280  
+
+url:https://reddit.com/r/LifeProTips/comments/2a2c03/
+author:Jibeker
+subreddit:LifeProTips
+score:2400
+numComments:1238
+isOver18:False
+hasPostBody:True

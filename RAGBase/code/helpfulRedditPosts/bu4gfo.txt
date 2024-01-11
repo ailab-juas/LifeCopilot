@@ -1,0 +1,13 @@
+title:
+LPT: If you have a big problem at work and you need to break the bad news to your boss, try to come up with a couple of ideas for how to fix the issue before you talk to them. It will come off better and help everyone focus on the next steps. Problems happen, always try to be part of the solution.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/bu4gfo/
+author:OfficialAndySamberg
+subreddit:LifeProTips
+score:39965
+numComments:724
+isOver18:False
+hasPostBody:False

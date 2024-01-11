@@ -1,0 +1,13 @@
+title:
+LPT: If you're still hungry shortly after you've eaten, you're probably dehydrated. Try drinking water before consuming more food.
+
+content:
+Update: Nutrition is a very complicated subject. Water is just one solution to a problem that can have many causes. If you do drink plenty of water on a regular basis and you're still hungry, then you're body is probably craving nutrients that you're not getting. So while you're eating plenty of food, you're starving on a nutritional level. There is a very insightful documentary on netflix called "Hungry for change" that I recommend everyone watch. 
+
+url:https://reddit.com/r/LifeProTips/comments/3l9lq9/
+author:oHCo12
+subreddit:LifeProTips
+score:5458
+numComments:939
+isOver18:False
+hasPostBody:True

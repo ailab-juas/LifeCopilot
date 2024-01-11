@@ -1,0 +1,53 @@
+title:
+YSK The Takata airbag recall is the biggest worldwide product recall in history and you should check if your vehicle is involved now
+
+content:
+Why YSK Hello my friends faulty Takata airbags have the potential to rupture on deployment during an accident.This can lead to metal fragments exploding into the face of vehicle occupants.
+
+
+29 people have been killed and 320 injured worldwide.
+
+
+In Australia alone there is still 180000 vehicles still outstanding with faulty Takata airbags.
+
+
+Here is a link for checking outstanding vehicles in [Australia](https://ismyairbagsafe.com.au/).
+
+
+I also found this site for the [USA](https://www.nhtsa.gov/equipment/takata-recall-spotlight) 
+
+
+It is also possible to go to your vehicle manufacturers website in your country and check if your vehicle is affected.
+
+
+I maintain the best way is to call your local dealer.Quote your VIN(which can be found on your registration papers)they will check if you vehicle is involved and also if it has any other outstanding recalls.
+If your vehicle is affected they will do the booking straightaway and the whole process should be relatively pain free.
+
+
+Please people check your vehicle's.
+
+
+If any friendly neighbour hood Redditors could link similar websites for your country's like the ones I've linked above that would be outstanding and you will have done a good deed for the day cheers my friend's.
+
+
+Edit-Thanks to some friendly neighbourhood Redditors I've got some more country's VIN checker links
+
+
+[New Zealand Jacinda rocks](https://www.vehiclerecallsafety.nzta.govt.nz/takata/takataalpha.html)
+
+
+[EU](https://www.google.com/amp/s/car-recalls.eu/vin-check-recalls/%3famp)
+
+
+[UK](https://www.check-mot.service.gov.uk/) not sure about this link but let me if it works
+
+
+[Canada](https://tc.canada.ca/en/road-transportation/defects-recalls-vehicles-tires-child-car-seats/takata-recalls-canada)
+
+url:https://reddit.com/r/YouShouldKnow/comments/iki9ng/
+author:assclownmonthly
+subreddit:YouShouldKnow
+score:14353
+numComments:386
+isOver18:False
+hasPostBody:True

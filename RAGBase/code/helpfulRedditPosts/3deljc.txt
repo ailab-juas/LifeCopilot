@@ -1,0 +1,13 @@
+title:
+LPT: When making a sandwich in the morning for your lunch break, put your condiments between the meat and cheese to keep your bread from getting soggy.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/3deljc/
+author:ZombieLibrarian
+subreddit:LifeProTips
+score:1506
+numComments:246
+isOver18:False
+hasPostBody:False

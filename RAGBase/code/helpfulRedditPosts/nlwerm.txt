@@ -1,0 +1,15 @@
+title:
+YSK: Immediate skin-to-skin contact with mother increases newborn's chances of survival
+
+content:
+Why YSK: It's long been known that immediate skin-to-skin contact between a newborn and its mother is a very important moment in childbirth. But new research shows that it even increases the chances of survival in babies who are unstable. It's not known what exactly causes this effect, but there's a clear positive neonatal response in immediate contact with its mothers skin.
+
+context: [article](https://medlifestyle.news/2021/05/26/immediate-skin-to-skin-contact-with-unstable-newborns-improves-premature-babies-chances-of-survival/)
+
+url:https://reddit.com/r/YouShouldKnow/comments/nlwerm/
+author:IntelligentLaugh4530
+subreddit:YouShouldKnow
+score:1598
+numComments:98
+isOver18:False
+hasPostBody:True

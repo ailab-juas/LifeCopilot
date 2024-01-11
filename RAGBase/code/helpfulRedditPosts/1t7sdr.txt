@@ -1,0 +1,13 @@
+title:
+LPT: Trade your games in for store credit at Gamestop instead of for the lesser cash amount. Use the store credit to reserve something, and then cancel the reserve; they will refund you in cash.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1t7sdr/
+author:CaptainKurahadol
+subreddit:LifeProTips
+score:1050
+numComments:122
+isOver18:False
+hasPostBody:False

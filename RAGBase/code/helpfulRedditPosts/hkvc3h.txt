@@ -1,0 +1,13 @@
+title:
+LPT Most modern microwaves have a mute function that activates by holding start for 3 seconds
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/hkvc3h/
+author:frizzycornerstone
+subreddit:LifeProTips
+score:34358
+numComments:906
+isOver18:False
+hasPostBody:False

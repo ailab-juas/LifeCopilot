@@ -1,0 +1,15 @@
+title:
+LPT Flip the pill bottle after taking pills
+
+content:
+So I was recently prescribed some pills that I have to take every 12 hours. One of the occasionally difficult things is remembering if I've taken my pills or not. 
+
+What I've done is written "take morning" on the bottle right side up, and "take evening" upside down. Now, every time I take my pill, I flip the bottle. If I'm worried about whether or not I've taken my pills, I just look for my note- if "take evening" is right side up, and it's the evening, then I haven't taken the pills yet. Etc.
+
+url:https://reddit.com/r/LifeProTips/comments/1jw1vz/
+author:Jeckari
+subreddit:LifeProTips
+score:2451
+numComments:373
+isOver18:False
+hasPostBody:True

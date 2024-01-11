@@ -1,0 +1,13 @@
+title:
+LPT: When negotiating ANYTHING have one condition at the top of the list that you don’t care about. That way you can use it as a concession and not concede anything.
+
+content:
+It’s a basic anchoring technique that works incredibly well. Never underestimate just how far even a minor concession can move the needle in even a small potatoes negotiation.
+
+url:https://reddit.com/r/LifeProTips/comments/izw7gz/
+author:Chilipatily
+subreddit:LifeProTips
+score:1999
+numComments:173
+isOver18:False
+hasPostBody:True

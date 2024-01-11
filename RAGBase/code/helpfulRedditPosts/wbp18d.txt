@@ -1,0 +1,13 @@
+title:
+YSK: Amazon employees have very little say in how the product is shipped to you.
+
+content:
+Why YSK: We are at the whims of a metric. The computer tells us to put the product in said box or no box at all. If you suggest  a different  box, you get flagged. That barcode printed on the box tells the computer upstairs if it's the right box according to the computer you're working with. When they don't match up, it gets kicked out and sent back down creating issues. Also, if you picture an Amazon warehouse looking like any kind of normal store, with sections and stuff, you're sorely mistaken. It's all kinds of shit just randomly thrown in to bins. Hope this helps!
+
+url:https://reddit.com/r/YouShouldKnow/comments/wbp18d/
+author:Valuable-Total-4334
+subreddit:YouShouldKnow
+score:1597
+numComments:92
+isOver18:False
+hasPostBody:True

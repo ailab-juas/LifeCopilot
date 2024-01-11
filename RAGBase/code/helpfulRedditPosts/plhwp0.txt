@@ -1,0 +1,17 @@
+title:
+YSK: Deactivate your authenticators when getting a new phone number
+
+content:
+Why YSK: if someone gets your old phone number, they will have access to your 2FA and thus the accounts they are affiliated with. For example if this is your Microsoft account, they would have access to your files in OneDrive, etc.
+
+Full credit: to [u/lawndartdanger666](https://www.reddit.com/user/lawndartdanger666/) in [this](https://www.reddit.com/r/privacy/comments/plfwa0/two_factor_allowed_me_into_someone_elses/) post
+
+Edit: as u/bawznero pointed out, as long as you did not have to activate the authenticator using a phone number, this does not apply
+
+url:https://reddit.com/r/YouShouldKnow/comments/plhwp0/
+author:LetalisSum
+subreddit:YouShouldKnow
+score:1499
+numComments:64
+isOver18:False
+hasPostBody:True

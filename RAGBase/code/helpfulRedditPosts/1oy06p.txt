@@ -1,0 +1,17 @@
+title:
+LPT: Take a screen-shot on the payment confirmation screen of every purchase you make online.
+
+content:
+Whether its tickets for travel, tickets for events, or online shopping. Take a screen shot, or save a PDF from the print option. Save them in a folder called "Receipts"
+
+This can be used to get the tracking numbers for orders that haven't yet arrived, for helping you search your email inbox for the right search terms to find tickets, for confirming your order if it's not received, for contesting purchases if you have an issue with the order, and as a backup if you are locked out of your email or don't have internet.
+
+Edit: Additionally, this also helps with tracking spending over time, these files can be sorted by date to give an online "purchase history."
+
+url:https://reddit.com/r/LifeProTips/comments/1oy06p/
+author:alpha_m
+subreddit:LifeProTips
+score:1100
+numComments:153
+isOver18:False
+hasPostBody:True

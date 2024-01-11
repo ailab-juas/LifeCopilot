@@ -1,0 +1,13 @@
+title:
+YSK: Your HDR-capable TV may not have HDR enabled by default
+
+content:
+Why YSK: Some models of TV require you to manually enable HDR, for some reason. I recently discovered this on my new Sony Bravia when trying to watch HDR content on Netflix and play games that were HDR capable.
+
+url:https://reddit.com/r/YouShouldKnow/comments/znet1o/
+author:ThePwnR4nger
+subreddit:YouShouldKnow
+score:2472
+numComments:72
+isOver18:False
+hasPostBody:True

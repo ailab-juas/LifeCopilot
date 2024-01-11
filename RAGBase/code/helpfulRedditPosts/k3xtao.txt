@@ -1,0 +1,15 @@
+title:
+YSK: Daytime Running Lights do NOT activate your tail lights, making your vehicle more difficult to see in the rain/fog/snow
+
+content:
+Why YSK: It’s very rainy and foggy today and I passed dozens of people on the highway with no tail lights on, but their headlights on. Apparently this happens with daytime running lights. In bad weather, turn your lights FULLY on to make sure you are more visible to other motorists.
+
+Edit: some people are saying their DRLs do activate their tail lights. It seems like some vehicles do and some don’t.
+
+url:https://reddit.com/r/YouShouldKnow/comments/k3xtao/
+author:GunksBoiis09
+subreddit:YouShouldKnow
+score:1166
+numComments:101
+isOver18:False
+hasPostBody:True

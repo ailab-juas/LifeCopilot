@@ -1,0 +1,13 @@
+title:
+LPT: When cleaning your windows clean the inside vertically and outside horizontally. That way if there are streaks you know which side of the glass they're on.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/821762/
+author:pheret87
+subreddit:LifeProTips
+score:19527
+numComments:460
+isOver18:False
+hasPostBody:False

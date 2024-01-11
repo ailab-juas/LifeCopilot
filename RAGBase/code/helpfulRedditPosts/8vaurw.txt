@@ -1,0 +1,27 @@
+title:
+YSK that in the USA you should always exercise your 5th Ammendment rights when questioned by government officials. Judges, lawyers and even law enforcement personnel themselves recommend that you do not talk to the police if stopped/detained until after you have spoken to an attorney.
+
+content:
+Former United States Supreme Court Justice Robert Jackson stated, "[A]ny lawyer worth his [or her] salt will tell the [client] in no uncertain terms to make no statement to the police under any circumstances."  
+
+First talk to an attorney, even if you’re guilty, even if you want to confess and get it off your chest.  
+
+You may be guilty of a *lesser offense* eventhough you are being accused of committing another offense. Don’t throw away your bargaining chips.  
+
+People sometimes exaggerate their statements and tell a little white lie on accident when asserting their innocense. That lie could later destroy your credibility if it is brought up at trial.  
+
+The police are allowed to lie to you while they are doing their investigation/questioning you. They cannot make deals, negotiate plea agreements or grant you immunity, only attorneys representing the government can (ex. State or County Attorney).  
+
+Because of hearsay rules, any statements that may help you that you tell the police cannot be introduced into evidence.  
+
+If the police have any evidence that any of your statements are false, even if they are really true, your answers can still be used against you.  
+
+Paraphrased from Law Professor James Dwayne’s video lecture ‘Don’t talk to the Police.’
+
+url:https://reddit.com/r/YouShouldKnow/comments/8vaurw/
+author:BronxLens
+subreddit:YouShouldKnow
+score:4517
+numComments:319
+isOver18:False
+hasPostBody:True

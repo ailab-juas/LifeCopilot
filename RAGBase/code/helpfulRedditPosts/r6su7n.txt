@@ -1,0 +1,26 @@
+title:
+YSK The build-up of black soot on the bottom of your pots and pans is not normal. It can be a sign of excess carbon monoxide.
+
+content:
+Why YSK:   Carbon monoxide (CO) is known as the "silent killer" for a reason.  It's odourless and colourless, so it's very hard to detect.   For this reason, it's always a good idea to ensure your fire detector/smoke alarm also has CO detection  (most of the newer fire detectors come standard with this nowadays).      
+
+
+I'm making this post because I noticed a lot of black soot (black powdery substance) building up on the bottom of my girlfriend's pots and pans when we cook at her condo.  I also have a gas range stove at my place but have never seen build-up of soot on my cooking equipment.  This soot will come off as black dust on your finger if you rub the bottom of a pan after it cools.  Recently, the CO alarm went off on the smoke detector at my girlfriend's place, which obviously caused some concern and I started to look into the potential causes while she called the fire department.  Be sure to get out of the house and/or ventilated it by opening the windows.  Getting out of the home right away is the safest option and highly recommended. 
+
+One of the best articles I found was this one:   [https://www.abe.iastate.edu/extension-and-outreach/carbon-monoxide-poisoning-checking-for-complete-combustion-aen-175/](https://www.abe.iastate.edu/extension-and-outreach/carbon-monoxide-poisoning-checking-for-complete-combustion-aen-175/)
+
+The article shows that soot can be a sign that your natural gas stove is has an incorrect mixture of air and gas, which can lead to an incomplete burn.  This incomplete burn can cause the build-up of soot and carbon monoxide in your home.   While this typically creates CO in amounts that are not deadly, they can cause a lot of health problems over time and if the ventilation in your home is poor, it can potentially be fatal. 
+
+Some symptoms of CO poisoning are headaches, shortness of breath, dizziness, weaknesss, confusion, and nausea.  If you have any of these symptoms that seem to clear up when you leave home, check the bottom of your pots and pans for clues.    The article above goes into a lot better detail than I ever could, and I'm definitely no expert in this field.   I figured this could be life-saving information and was worth a share.     If anyone who's an expert in this that has corrections for my info and/or more information on this, I encourage you to share it in the thread. 
+
+Stay safe out there,
+
+Sillyist
+
+url:https://reddit.com/r/YouShouldKnow/comments/r6su7n/
+author:Sillyist
+subreddit:YouShouldKnow
+score:10169
+numComments:287
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: If you do charity work, invite those you know to join you. Many people would happily participate in charity work but don't for fear of not knowing anyone in the group.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/j8juw0/
+author:definitelyged
+subreddit:LifeProTips
+score:41190
+numComments:413
+isOver18:False
+hasPostBody:False

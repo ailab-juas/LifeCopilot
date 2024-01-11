@@ -1,0 +1,17 @@
+title:
+LPT: Use the Socratic Method to persuade others
+
+content:
+I put this as a tip because my instinct is to defend my views with facts rather than questions and I need to constantly work at this. 
+
+Humans are egocentric and we don't usually contradict the data we generate from our own mind. Therefore, when persuading someone of a particular course of action, do not set it up as a you vs me debate. Rather, ask good questions that get the other person to think through all the options. By portraying yourself as a curious individual who wants truth rather than an enemy to be fought against, you can collaboratively find answers rather than become opponents.
+
+Example: I want to live in City #1 and fiancee wants to live in City #2. Rather than each of us picking a city to defend, I would ask questions about what are the most important qualities of a city for each of us and how they are ranked, then invite my SO to do the research with me and figure out which city scores the most objectively on those metrics.
+
+url:https://reddit.com/r/LifeProTips/comments/2eqhf9/
+author:DINKcatgamer
+subreddit:LifeProTips
+score:3170
+numComments:876
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Learn to use MS excel while you’re young
+
+content:
+There are so many uses for excel in a variety of fields. Learning the basics can really save you time and a lot of manual labour.
+
+url:https://reddit.com/r/LifeProTips/comments/yjrsbs/
+author:gameguygames29
+subreddit:LifeProTips
+score:11190
+numComments:893
+isOver18:False
+hasPostBody:True

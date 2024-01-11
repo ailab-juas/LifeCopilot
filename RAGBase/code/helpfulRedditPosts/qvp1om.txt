@@ -1,0 +1,13 @@
+title:
+LPT:Don't take unsolicited advice personally. Most of the time, the person giving the advice is giving advice they wish they’d had, not advice they think you need.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/qvp1om/
+author:AlyssaEBode
+subreddit:LifeProTips
+score:27887
+numComments:451
+isOver18:False
+hasPostBody:False

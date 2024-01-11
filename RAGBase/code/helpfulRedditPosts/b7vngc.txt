@@ -1,0 +1,13 @@
+title:
+LPT: if you are uninsured and get any kind of hospital bill, never pay the full stated amount, always contact the billing department and ask to pay for the insurance rate
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/b7vngc/
+author:FUCKING_HATE_REDDIT
+subreddit:LifeProTips
+score:1673
+numComments:199
+isOver18:False
+hasPostBody:False

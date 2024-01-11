@@ -1,0 +1,13 @@
+title:
+YSK: If you live in a house you should do a walk-around whenever you get a hard rain
+
+content:
+Why YSK: You aren't going to find issues like blocked gutters, poorly performing drains, bad grading, water pooling at the foundation or other problems when it's not raining.  It's better to find them pro-actively then after the water has ended up in your basement, etc.
+
+url:https://reddit.com/r/YouShouldKnow/comments/njzhg0/
+author:Twentysix2
+subreddit:YouShouldKnow
+score:14674
+numComments:303
+isOver18:False
+hasPostBody:True

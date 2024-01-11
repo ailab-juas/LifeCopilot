@@ -1,0 +1,15 @@
+title:
+YSK: You can easily control the text cursor on iPhone by holding down the spacebar and moving your thumb around
+
+content:
+Why YSK: When trying to edit posts on Reddit, or trying to fix a typo in a link on your mobile web browser, it can be a pain since you can’t really see the cursor and when you let go of the cursor it snaps to odd places. Holding down spacebar on the iPhone keyboard and moving your thumb around gives you full control of the cursor. I personally didn’t know this. Ever since Apple removed the magnifying glass when highlighting text, it has been a serious pain to navigate text.
+
+Edit: If your iPhone has the 3D Touch feature you can hold anywhere to get this to happen. Unfortunately a few recent models of iPhone don’t have 3D Touch and those users must hold spacebar for this function to work. And as many people have said, this works on almost all models of androids as well. And thank you for all the positive feedback! Happy to hear my post helped someone’s day.
+
+url:https://reddit.com/r/YouShouldKnow/comments/nfuzgs/
+author:Aroxis
+subreddit:YouShouldKnow
+score:3611
+numComments:213
+isOver18:False
+hasPostBody:True

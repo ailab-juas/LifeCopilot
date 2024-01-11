@@ -1,0 +1,13 @@
+title:
+LPT: Check on a person before making a "Happy Birthday" post on their social media page.
+
+content:
+It's painful seeing "friends" of my mother wishing her a happy birthday, oblivious that she died two years ago.
+
+url:https://reddit.com/r/LifeProTips/comments/z9ql1l/
+author:EmergencyRaisin2
+subreddit:LifeProTips
+score:3944
+numComments:304
+isOver18:False
+hasPostBody:True

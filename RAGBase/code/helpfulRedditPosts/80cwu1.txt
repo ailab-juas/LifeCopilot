@@ -1,0 +1,13 @@
+title:
+LPT: If, starting tomorrow, you set your alarm 5 minutes earlier each day for the next 12 days, you can gradually ease yourself into daylight savings time.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/80cwu1/
+author:azuntik
+subreddit:LifeProTips
+score:4441
+numComments:273
+isOver18:False
+hasPostBody:False

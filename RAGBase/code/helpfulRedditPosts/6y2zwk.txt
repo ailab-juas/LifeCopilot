@@ -1,0 +1,13 @@
+title:
+LPT: When streaming a video, if you can't get your mouse cursor to go away, press comma. On most sites this should turn your cursor invisible.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/6y2zwk/
+author:gabewil
+subreddit:LifeProTips
+score:5046
+numComments:133
+isOver18:False
+hasPostBody:False

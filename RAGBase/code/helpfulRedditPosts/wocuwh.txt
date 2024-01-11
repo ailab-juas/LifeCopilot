@@ -1,0 +1,34 @@
+title:
+LPT: Hang pictures on your wall at 57” on center, which is the standard gallery viewing height.
+
+content:
+You’ve probably been hanging them too high, and it will feel weird at first!
+
+57” (145cm) puts pictures right at an optimal position, and is the accepted “standard gallery” viewing height.  When you use this as a standard, your living space will look much cozier.  There is always an exception of course but this is a good rule of thumb.
+
+Do a little math to figure out where to poke your hole on the wall:
+
+1.	Measure your picture’s height and halve it. 
+
+2.	Figure out how far the distance from the top edge of the picture is to what the picture will actually hang on.  Sometimes that’s a piece of wire - take your finger and pull the wire up like it’s hanging on a wall, and measure from your finger to the top of the frame.  Or, if it’s a hanging clip, measure the distance from the top of the clip to the top of the frame.  Subtract this from the first value.
+
+3.	Add 57 if working in inches, (or 145 if working in centimeters)
+
+Example:  
+I have a picture that’s 24” tall.  Half of that is 12”.  The hanging wire when fully taught leaves 3.25” from the top of the picture.
+
+So, 12 - 3.25 + 57 = 65.75”
+
+Measure up from the floor 65.75” and make your hole!
+
+Edit:  I was informed about the error in my original math, and have corrected it
+
+Edit: I never imagined how sensitive people would be over this tip, it’s not a law, it just looks nice when you do it lol
+
+url:https://reddit.com/r/LifeProTips/comments/wocuwh/
+author:burlapballsack
+subreddit:LifeProTips
+score:25282
+numComments:797
+isOver18:False
+hasPostBody:True

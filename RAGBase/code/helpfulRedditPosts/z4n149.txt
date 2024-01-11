@@ -1,0 +1,13 @@
+title:
+LPT: Baking is chemistry and cooking is creativity. Follow baking recipes precisely to the tiniest detail, get creative and adventurous when cooking. What an eye opener!
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/z4n149/
+author:BonesMcFly
+subreddit:LifeProTips
+score:6557
+numComments:190
+isOver18:False
+hasPostBody:False

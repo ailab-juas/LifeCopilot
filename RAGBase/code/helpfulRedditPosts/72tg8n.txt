@@ -1,0 +1,13 @@
+title:
+YSK: that the dot near the nozzle on an aerosol spray can indicates the curvature of the pick up tube and by aligning the nozzle with the dot you get the maximum product from the can.
+
+content:
+[As seen here](https://imgur.com/a/7pe2G)
+
+url:https://reddit.com/r/YouShouldKnow/comments/72tg8n/
+author:BearItChooChoo
+subreddit:YouShouldKnow
+score:3081
+numComments:44
+isOver18:False
+hasPostBody:True

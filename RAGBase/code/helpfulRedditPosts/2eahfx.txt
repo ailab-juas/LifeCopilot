@@ -1,0 +1,13 @@
+title:
+YSK about www.dispostable.com , a website that allows you to generate a "disposable" email address for sites requiring you to sign up in order to get access to something you'll probably use only once
+
+content:
+http://www.dispostable.com/    - Say you just need a quick file, or access to a forum for a quick answer, but it requires registration first. You can just use this, get an email, use it to "confirm", and then never have to deal with it ever again.   I'm sure you guys can come up with many other uses.  :)
+
+url:https://reddit.com/r/YouShouldKnow/comments/2eahfx/
+author:50x
+subreddit:YouShouldKnow
+score:1844
+numComments:104
+isOver18:False
+hasPostBody:True

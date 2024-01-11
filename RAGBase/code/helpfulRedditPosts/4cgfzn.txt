@@ -1,0 +1,13 @@
+title:
+LPT: Search Craigslist for 'Divorce' to find good deals on used tools
+
+content:
+Look for anything that 'Lifetime Guarantee' tools,  LLBean boots, etc.   If they are damaged, bring them back for replacement/reworked for free.
+
+url:https://reddit.com/r/LifeProTips/comments/4cgfzn/
+author:GueroCabron
+subreddit:LifeProTips
+score:5297
+numComments:900
+isOver18:False
+hasPostBody:True

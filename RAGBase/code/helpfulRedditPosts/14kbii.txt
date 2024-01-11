@@ -1,0 +1,13 @@
+title:
+LPT: You can order a .99 Cheesy Cheddar burger at Wendy's and have them put all the toppings on it (lettuce,tomato, onions, pickles) for no extra cost. They won't put anything on it unless you ask. 
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/14kbii/
+author:[deleted]
+subreddit:LifeProTips
+score:1370
+numComments:323
+isOver18:True
+hasPostBody:False

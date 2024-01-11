@@ -1,0 +1,15 @@
+title:
+LPT: In Emergency or Disaster Situations, You Can Relay Important Information to Others Via Your Outgoing Voicemail Greeting.
+
+content:
+In an effort to conserve phone power or if it looks like you will have no way to re-charge in an emergency, leave your last location, general safety status, or other important information on your outgoing voicemail message. 
+
+
+
+url:https://reddit.com/r/LifeProTips/comments/6z752a/
+author:LTCVCD
+subreddit:LifeProTips
+score:36158
+numComments:538
+isOver18:False
+hasPostBody:True

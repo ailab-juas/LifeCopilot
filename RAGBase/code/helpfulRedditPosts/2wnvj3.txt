@@ -1,0 +1,19 @@
+title:
+LPT: Avoid using the word "just" in email and text to strengthen your messages
+
+content:
+The word "just" is often misused in text form due to the nature of the way we think. It naturally weakens your message and makes things sound overly nice.
+
+For example things like:
+
+"I was just doing that because..." comes off as validation seeking while "I was doing that because..." implies that you have no wavering opinion of why you did something.
+
+"I just want some clarification on this going forward" is much weaker sounding compared to  "I want some clarification on this going forward".
+
+url:https://reddit.com/r/LifeProTips/comments/2wnvj3/
+author:flightmac
+subreddit:LifeProTips
+score:2935
+numComments:355
+isOver18:False
+hasPostBody:True

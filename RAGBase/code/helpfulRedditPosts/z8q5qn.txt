@@ -1,0 +1,13 @@
+title:
+YSK this way to set your MS Teams status to Available- and it won't change to idle after 5 minutes
+
+content:
+Why YSK: In Teams, go to Calendar, and then Meet Now. This will create a meeting with just yourself. Once the meeting is started, your status will be set to red/on a call. Click on your icon bubble and set your status to green/available. As long as the meeting is active your status will not change back to orange, even if you have Teams minimized.
+
+url:https://reddit.com/r/YouShouldKnow/comments/z8q5qn/
+author:longislandtoolshed
+subreddit:YouShouldKnow
+score:1921
+numComments:239
+isOver18:False
+hasPostBody:True

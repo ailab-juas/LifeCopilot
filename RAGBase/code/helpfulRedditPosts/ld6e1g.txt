@@ -1,0 +1,21 @@
+title:
+YSK that you can use VLC Player to play YouTube videos in the background, with a sleep timer and without ads.
+
+content:
+VLC Player is a very popular app for PCs, but is also available for mobile. You can play most online videos and streams by pasting the link to them into the application. It will play without ads and you can use such features as sleep timer, background playing, only audio etc. It's a bit slower, because you have to copy and paste the link, but especially for longer videos it's definitely worth it. 
+
+Why YSK: I personally allways wanted to play music steams or videos in the background while doing other stuff, but that is normally a premium YouTube feature. Using this technique you can get around that limitation pretty easily. It's also great for falling asleep to YouTube videos.
+
+EDIT: Just as a specification for some, this is mainly useful on mobile. On desktop you could just minimize the window which has youtube playing, aswell as using an adblocker.
+
+EDIT2: This does not seem to work on ios. There are some alternatives though, mainly YouTube Vanced.
+
+And of course the obligatory thanks for all the awards!
+
+url:https://reddit.com/r/YouShouldKnow/comments/ld6e1g/
+author:noidea139
+subreddit:YouShouldKnow
+score:33315
+numComments:774
+isOver18:False
+hasPostBody:True

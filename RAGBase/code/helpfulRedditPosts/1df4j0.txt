@@ -1,0 +1,13 @@
+title:
+LPT: If you don't wish to tip on a credit card transaction, make sure to write "0", "cash", or put a line through the tip portion of the merchant receipt and then write your final total. This helps prevent credit card fraud!
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1df4j0/
+author:FiftyShadesOfClay
+subreddit:LifeProTips
+score:1615
+numComments:599
+isOver18:False
+hasPostBody:False

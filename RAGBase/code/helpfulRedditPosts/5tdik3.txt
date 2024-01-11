@@ -1,0 +1,13 @@
+title:
+LPT: When signing up to websites, set your birthday to a day in December. That way when they send out promotional birthday vouchers, you can use them to save money on Christmas gifts.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5tdik3/
+author:davidgreenoptions
+subreddit:LifeProTips
+score:3398
+numComments:105
+isOver18:False
+hasPostBody:False

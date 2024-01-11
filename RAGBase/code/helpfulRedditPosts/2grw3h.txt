@@ -1,0 +1,17 @@
+title:
+LPT - If "somebody from the IRS" calls and threatens to have you arrested if you don't pay, it's a scam. Somebody in my office just fell for this and I talked him down.
+
+content:
+http://www.irs.gov/uac/Newsroom/IRS-Reiterates-Warning-of-Pervasive-Telephone-Scam
+
+http://www.delawareonline.com/story/news/crime/2014/09/02/irs-warns-telephone-scam/14975109/
+
+
+
+url:https://reddit.com/r/LifeProTips/comments/2grw3h/
+author:ludlology
+subreddit:LifeProTips
+score:3552
+numComments:710
+isOver18:False
+hasPostBody:True

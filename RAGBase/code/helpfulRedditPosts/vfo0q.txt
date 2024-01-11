@@ -1,0 +1,13 @@
+title:
+LPT: Tired of coworkers stealing your pen? Try this.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/vfo0q/
+author:MiloMuggins
+subreddit:LifeProTips
+score:4311
+numComments:495
+isOver18:False
+hasPostBody:False

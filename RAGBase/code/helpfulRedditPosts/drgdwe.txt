@@ -1,0 +1,31 @@
+title:
+YSK that Seasonal affective disorder (SAD) is a type of depression that's related to changes in seasons.
+
+content:
+SAD begins and ends at about the same times every year. If you're like most people with SAD, your symptoms start in the fall and continue into the winter months, sapping your energy and making you feel moody. Less often, SAD causes depression in the spring or early summer.
+
+Treatment for SAD may include light therapy (phototherapy), medications and psychotherapy.
+
+Don't brush off that yearly feeling as simply a case of the "winter blues" or a seasonal funk that you have to tough out on your own. Take steps to keep your mood and motivation steady throughout the year.
+
+Signs and symptoms of SAD may include:
+
+* Feeling depressed most of the day, nearly every day
+* Losing interest in activities you once enjoyed
+* Having low energy 
+* Having problems with sleeping
+* Experiencing changes in your appetite or weight
+* Feeling sluggish or agitated 
+* Having difficulty concentrating
+* Feeling hopeless, worthless or guilty 
+* Having frequent thoughts of death or suicide
+
+[https://www.mayoclinic.org/diseases-conditions/seasonal-affective-disorder/symptoms-causes/syc-20364651](https://www.mayoclinic.org/diseases-conditions/seasonal-affective-disorder/symptoms-causes/syc-20364651)
+
+url:https://reddit.com/r/YouShouldKnow/comments/drgdwe/
+author:cleanhappylife
+subreddit:YouShouldKnow
+score:8526
+numComments:354
+isOver18:False
+hasPostBody:True

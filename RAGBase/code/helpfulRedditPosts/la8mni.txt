@@ -1,0 +1,13 @@
+title:
+YSK No matter what headspace you’re in. You are not alone. Don’t give up
+
+content:
+Why YSK : many are suffering with mental health issues especially now and i just want to remind everyone that it’s ok to talk, it’s ok to not be ok. There’s always hope, don’t give up, don’t let it win
+
+url:https://reddit.com/r/YouShouldKnow/comments/la8mni/
+author:ColdBloodedReptiles
+subreddit:YouShouldKnow
+score:4071
+numComments:197
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+YSK: If you missed the stimulus paychecks because your parents claimed you as a dependent in 2019, but you're independent in 2020, you can get the payments as tax credit.
+
+content:
+Why YSK: Many of us college kids got screwed out of the stimulus payments because we were claimed as a dependent in 2019. If you meet the requirements for a stimulus check and were independent in 2020 you can file for a Recovery Rebate Credit on your 2020 tax returns using a 1040/1040-SR tax form. The worksheet to see if you qualify is here: [https://www.irs.gov/pub/irs-pdf/i1040gi.pdf](https://www.irs.gov/pub/irs-pdf/i1040gi.pdf) (page 59)
+
+url:https://reddit.com/r/YouShouldKnow/comments/l6qqip/
+author:edbred
+subreddit:YouShouldKnow
+score:10540
+numComments:212
+isOver18:False
+hasPostBody:True

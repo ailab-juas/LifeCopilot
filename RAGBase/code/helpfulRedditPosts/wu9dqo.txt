@@ -1,0 +1,13 @@
+title:
+LPT- If you have trouble reading a lot, read at least 10 pages a day. It does not seem like a lot, and it isn't, but if you stay consistent with it and never miss a day, you will have read a minimum of 3650 pages per year.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/wu9dqo/
+author:LearningMath99
+subreddit:LifeProTips
+score:1202
+numComments:76
+isOver18:False
+hasPostBody:False

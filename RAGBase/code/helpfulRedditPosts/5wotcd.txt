@@ -1,0 +1,78 @@
+title:
+LPT: Need to make a phone call but don't want the recipient to know your number? Dial #31# before the number, it will show up as 'Unknown number'
+
+content:
+I have been using this LPT since I was the proud owner of a Nokia 3310 and I thought I would share. I know you can just change the caller ID settings on most phones these days, but this makes it easier when making a single phone call and you don't have to change it back after the call.
+
+In some countries, the pre-dial code is different. See list below:
+
+Albania: #31# (cell phones)
+
+Argentina: *31# (landlines) or #31# (most cell phone companies)
+
+Australia: 1831 (landline and mobile phones)
+
+Bulgaria: #31# (mobile phones)
+
+Denmark: #31#
+
+Canada: #31# (mobile phones) or *67 (landlines)
+
+France: #31# (cell phones) or 3651 (landlines)
+
+Germany: On most landlines and mobiles, *31#, however some mobile providers use #31#.
+
+Greece: *31* (landlines), #31# (cell phones).
+
+Hong Kong: 133
+
+Iceland: *31*
+
+India: #31# after network unlocked
+
+Ireland: Mobile: #31# Landline: 141
+
+Israel: *43 (landlines) or #31# (most cell phone companies)
+
+Italy: *67# (landlines) or #31# (most cell phone companies)
+
+Japan: 184
+
+New Zealand: 0197 (Telecom/Spark) or *67 (Vodafone)
+
+NEPAL: *9# (NTC)
+
+North America: *67, 1167 (rotary phone), #31# (AT&amp;T Wireless)
+
+Netherlands: *31*, #31# (KPN)
+
+Pakistan: *32# PTCL
+
+Romania: *31*
+
+South Africa *31* (Telkom)
+
+South Africa #31#(Cell Phones)
+
+South Korea: *23 or *23# (most cell phone companies)
+
+Spain: #31#(Cell Phones); 067 (landlines)
+Sweden #31#
+
+Switzerland Landline:*31# (or *31+Targetnumber -&gt; Call-by-Call disable)
+
+Switzerland Mobile:#31# (or #31+Targetnumber -&gt; Call-by-Call disable)
+
+United Kingdom: 141
+
+Other countries and networks vary, however on GSM mobile networks, callers may dial #31# before the number they wish to call to disable it.
+
+[Source](https://en.m.wikipedia.org/wiki/Caller_ID?wprov=sfla1)
+
+url:https://reddit.com/r/LifeProTips/comments/5wotcd/
+author:atirblow
+subreddit:LifeProTips
+score:1330
+numComments:109
+isOver18:False
+hasPostBody:True

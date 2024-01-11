@@ -1,0 +1,19 @@
+title:
+YSK that you can go to YourOnlineChoices.com to see which ad providers are collecting your data. You can also turn tracking from individual providers on and off.
+
+content:
+Why YSK: because your data belongs to you, and you should know who is collecting it.
+
+EU: [https://www.youronlinechoices.com](https://www.youronlinechoices.com/)
+
+US/Canada: [https://optout.networkadvertising.org](https://optout.networkadvertising.org/) (Thanks u/ViciousAppeal)
+
+*Edit: YourOnlineChoices is associated with the EDAA and works in accordance with the 'European Principles' which regulate digital advertising in Europe. As such, it appears only to be available to those in Europe. I am updating a list of links above for people in other jurisdictions.*
+
+url:https://reddit.com/r/YouShouldKnow/comments/ixkvu9/
+author:Shart-Garfunkel
+subreddit:YouShouldKnow
+score:19403
+numComments:247
+isOver18:False
+hasPostBody:True

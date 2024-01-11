@@ -1,0 +1,19 @@
+title:
+YSK that there is a chrome extension that helps get rid of website ads and paywalls
+
+content:
+I found this recently and am over the moon about it haha. 
+
+It is called Mercury Reader, and you can install it as a chrome extension from the chrome web store. Here's the link: [Mercury Reader](https://chrome.google.com/webstore/detail/mercury-reader/oknpjjbmpnndlpmnhmekjpocelpnlfdi?hl=en). Make sure to pin the extension on chrome.
+
+Once you install it, head over to any website (ex. NY times articles to get rid of paywalls, sparknotes pages to get rid of excessive ads everywhere, etc.) and just click on the Mercury reader icon in your extensions bar. It immediately creates a clean, ad-free page where you can read. Even on NYT when a paywall pops up, just click the extension and it passes the paywall and gives you the article/
+
+Why YSK: It's so useful if you want to read articles without having to pay or see annoying ads pop up everywhere and also makes your computer lag way less.
+
+url:https://reddit.com/r/YouShouldKnow/comments/x2nqq8/
+author:ilikefrenchfries0713
+subreddit:YouShouldKnow
+score:1134
+numComments:63
+isOver18:False
+hasPostBody:True

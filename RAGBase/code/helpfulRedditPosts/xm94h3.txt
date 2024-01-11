@@ -1,0 +1,13 @@
+title:
+LPT: if you feel like an imposter, compare yourself to the average person not the expert. if you asked 100 random people, how many people would know what you know or be able to do what you do?
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/xm94h3/
+author:knockout350
+subreddit:LifeProTips
+score:16953
+numComments:423
+isOver18:False
+hasPostBody:False

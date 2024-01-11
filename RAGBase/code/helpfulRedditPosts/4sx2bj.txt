@@ -1,0 +1,13 @@
+title:
+LPT: when using a GoPro (or any camera) make the first picture your business card/contact info so if it's lost it can find its way home easier.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/4sx2bj/
+author:tal20
+subreddit:LifeProTips
+score:4479
+numComments:376
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,28 @@
+title:
+YSK: Truffle oil does not contain any truffles, but rather uses a chemical to poorly imitate the aroma.
+
+content:
+Why YSK: Once upon a time, truffle oil was just oil infused with truffles. [These days, it is oil infused with 2,4-dithiapentane,](https://en.m.wikipedia.org/wiki/Truffle_oil ) a hydrocarbon with a flavor that can best be described as a parody of truffle.
+
+I actually kind of liked truffle oil, until I ate the real deal, which is so much more subtle, deep and pleasant in flavor. It’s also far more expensive, sure—Italian white truffles can be over $200 per oz. But cheaper varieties, like Burgundy black truffles, are about a tenth of that: an expense well worth it in my opinion.
+
+What irks me most is that restaurants will have dishes on their menu described as having truffles—truffle risotto, truffle fries, etc, but are really using truffle oil instead of the real thing. Not only do they use this as an excuse to upcharge the dish by ten dollars because of the “luxury” status, they also overwhelm the food with a pungent chemical inferior to the advertised product.
+
+But don’t take my word for it:
+"One of the most pungent, ridiculous ingredients ever known to chef," Gordon Ramsay once told a competitor on MasterChef.
+
+Reaching for the oil is "a sure sign of someone who doesn't know what they're doing," Joe Bastianich said in the same episode.
+
+"Fake truffle flavoring is one of those things that's especially upsetting, because not only does it taste like a bad chemical version of the real thing, it's the flavor that almost everyone now associates with truffles," Jonathan Gold says.
+
+So, if you enjoy truffle oil, power to you. But be aware that it is not truffles that you are tasting and paying big money for. And if you ever get a chance, try some real truffles: they rule.
+
+ADDENDUM: As some people have pointed out, truffle oil made with real truffles does still exist. It is hard to find (specialty stores), and priced accordingly (at least $30 for a small bottle). The vast majority of truffle oil you will encounter in stores and restaurants is not this.
+
+url:https://reddit.com/r/YouShouldKnow/comments/rf47q6/
+author:herzbergdesign
+subreddit:YouShouldKnow
+score:8810
+numComments:331
+isOver18:False
+hasPostBody:True

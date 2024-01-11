@@ -1,0 +1,13 @@
+title:
+LPT: Have a Samsung Galaxy device? Disable useless animations to have a much faster response.
+
+content:
+First enable developer options by going to Settings, General, About Device, then tap "Build number" 7 times(You have now enabled Developer Options!). Press back once to go back to the about device tab, then go to the new "Developer Options" menu. Set Window animation scale, Transition animation scale, and Animation duration scale to *Animation off*. This will make opening/closing apps faster. 
+
+url:https://reddit.com/r/LifeProTips/comments/2ec6n7/
+author:HxHfeitan
+subreddit:LifeProTips
+score:2461
+numComments:825
+isOver18:False
+hasPostBody:True

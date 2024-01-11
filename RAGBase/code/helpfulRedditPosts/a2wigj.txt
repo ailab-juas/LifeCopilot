@@ -1,0 +1,13 @@
+title:
+LPT: When using a website chat feature type your messages in word or something else and copy and paste them into the chat. Support reps can see everything you type as you type it regardless if you send it.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/a2wigj/
+author:jomacm04
+subreddit:LifeProTips
+score:18065
+numComments:751
+isOver18:False
+hasPostBody:False

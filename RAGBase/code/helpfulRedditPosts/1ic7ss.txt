@@ -1,0 +1,26 @@
+title:
+LPT: Improve your Wireless network speed
+
+content:
+Change the channels the bandwith operates on. You need to log in to your router do to that.
+
+To find out what channel you should be using you can use one of two programs
+
+1. [inSSIDer](http://www.metageek.net/support/downloads/). You can see what channel you are on and what channel your neighbours are on. Choose the one that is least crowded, most of the time that is around channel 12-14.
+2. Android App [WiFi Analyzer](https://play.google.com/store/apps/details?id=com.farproc.wifi.analyzer&amp;feature=search_result#?t=W251bGwsMSwxLDEsImNvbS5mYXJwcm9jLndpZmkuYW5hbHl6ZXIiXQ..) I don't know what app to use on iOS, sorry. Again, choose the channel that is least crowded, mostly between 12-14. It even has a function for that, if you press the eye symbol, and choose Channel Rating you can see which channel has the most stars, pick that one.
+
+To acces your router just type in either [192.168.1.1](http://192.168.1.1) or [192.168.0.1](http://192.168.0.1). These work for 90% of the routers. Other IP's could be [192.168.2.1](http://192.168.2.1) or 10.0.0.*
+
+Other things you can do is to move your router away from other  sources of interference  such as phones, wiring and microwaves.
+
+Changing these things made my network speed go from  ~30 Mbps to ~60Mbps. I do have a good router and connection though.
+
+Of course these tips may not work for everyone, sorry if it didn't.
+
+url:https://reddit.com/r/LifeProTips/comments/1ic7ss/
+author:Executive_
+subreddit:LifeProTips
+score:2785
+numComments:619
+isOver18:False
+hasPostBody:True

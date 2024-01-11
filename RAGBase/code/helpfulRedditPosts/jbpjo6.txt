@@ -1,0 +1,13 @@
+title:
+LPT: Sort Amazon’s customer reviews by “Most Recent” instead of “Top.” Many of the “Top” reviews are fake or old. The more recent reviews will give you a better idea of the product’s quality.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/jbpjo6/
+author:DontWasteYourUpvote
+subreddit:LifeProTips
+score:1505
+numComments:42
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,33 @@
+title:
+YSK if you are a server/ bartender it’s completely illegal to be forced by an employer to pay for a walked tab.
+
+content:
+
+Why YSK: I’ve had it happen to me, I’ve seen it happen countless times. But it’s straight up illegal. Simple as that. In no case is it okay for a manager or owner to make you pay for someone else’s food because they decided to walk out on you without paying. 
+
+According to the US Department of Labor;
+
+*Where deductions for walk-outs, breakage, or cash register shortages reduce the employee’s wages below the minimum wage, such deductions are illegal. Where a tipped employee is paid $2.13 per hour in direct (or cash) wages and the employer claims the maximum tip credit of $5.12 per hour, no such deductions can be made without reducing the employee below the minimum wage (even where the employee receives more than $5.12 per hour in tips).*
+
+
+**Unfortunately... they can still get angry and petty, and find a way to fire you if they feel like it / are that shitty...** but who really wants to work for those people, anyway?
+
+Don’t let them convince you you have any *obligation* to pay for a tab, ever. 
+
+
+Source: https://www.dol.gov/agencies/whd/fact-sheets/15-flsa-tipped-employees
+
+EDIT: so in the comments it’s mentioned I need to “make this post accurate” about that the reason it is illegal is if it pulls you under minimum wage. That part is clearly stated in the quoted part of the post, but just gonna double down on letting people know to read the whole thing. This is the important part-
+
+**Where a tipped employee is paid $2.13 per hour in direct (or cash) wages and the employer claims the maximum tip credit of $5.12 per hour, no such deductions can be made without reducing the employee below the minimum wage (even where the employee receives more than $5.12 per hour in tips).**
+
+
+Edit 2: since it wasn’t enough to bold it in the post, YES I KNOW it IS ILLEGAL TO FIND ANOTHER REASON TO FIRE SOMEONE. That has been clarified already. Employers can fire you for any reason, so pick your battles.
+
+url:https://reddit.com/r/YouShouldKnow/comments/o1m2t5/
+author:dearghewls
+subreddit:YouShouldKnow
+score:16862
+numComments:728
+isOver18:False
+hasPostBody:True

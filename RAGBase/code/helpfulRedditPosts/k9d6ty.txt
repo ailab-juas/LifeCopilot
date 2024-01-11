@@ -1,0 +1,13 @@
+title:
+LPT: When satisfied with a service, go out of your way to talk to the manager about it. Managers aren't just for complaints. A good manager will mention it to the employee (and it will make their day) and will increase their chances at a promotion.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/k9d6ty/
+author:chrismatsias
+subreddit:LifeProTips
+score:26394
+numComments:397
+isOver18:False
+hasPostBody:False

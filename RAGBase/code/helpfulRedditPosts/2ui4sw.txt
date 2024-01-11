@@ -1,0 +1,13 @@
+title:
+LPT : You can crtl + click on tabs in Chrome, so you can move them around together and make a new window for them together
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/2ui4sw/
+author:[deleted]
+subreddit:LifeProTips
+score:3319
+numComments:320
+isOver18:False
+hasPostBody:False

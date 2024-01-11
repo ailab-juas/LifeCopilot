@@ -1,0 +1,15 @@
+title:
+LPT: you can turn off those irrelevant and annoying Reddit notifications which have started popping up all of a suddon by clicking on the button in the top-left, going to settings, notifications, and then toggling off 'Trending'
+
+content:
+Don't deny it. Deep down, you always knew you could. You've just not gotten round to it, and we're putting up with it for absolutely no reason.
+
+You can do it in under 10 seconds. It's okay. You got this.
+
+url:https://reddit.com/r/LifeProTips/comments/92m1tk/
+author:ChaosKeeshond
+subreddit:LifeProTips
+score:25630
+numComments:787
+isOver18:False
+hasPostBody:True

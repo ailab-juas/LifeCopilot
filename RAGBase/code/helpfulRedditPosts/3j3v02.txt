@@ -1,0 +1,15 @@
+title:
+LPT: Windows users, alt-space is your friend when a window opens up outside the visible area of your screen
+
+content:
+Sometimes (especially when changing from multiple to single display configurations), a window or popup will open up outside your display area, making it impossible to proceed. 
+
+Hit alt-space to bring up the window menu.  Click on "move".  Then use your arrow keys to reposition the window within your visible display area.
+
+url:https://reddit.com/r/LifeProTips/comments/3j3v02/
+author:DosGuru
+subreddit:LifeProTips
+score:4609
+numComments:363
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: The more times you vent about a problem without doing anything about it, the less people care.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/hknn4j/
+author:[deleted]
+subreddit:LifeProTips
+score:28499
+numComments:566
+isOver18:False
+hasPostBody:True

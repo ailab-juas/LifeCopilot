@@ -1,0 +1,17 @@
+title:
+LPT: Easy tip to help clean up broken glass
+
+content:
+**This only works well on hard surfaces and works best if the glass is transparent:**
+
+After picking up the largest and most obvious pieces of glass, grab a flashlight or turn on the flare feature of your phone's flash. Turn off the room's lights and hold the flashlight at ground level, parallel to the floor, and shine it across the room. The tiny shards you missed will catch the light and glint, making them very easy to spot. Use a damp paper towel to wipe them up. Teamwork definitely makes this more efficient, but doing this will make sure one of these doesn't end up lodged in your foot.
+
+**Edit:** I suppose I should add that I do take a broom or vacuum over it first, but even after that, I find that it's hardly a sure thing.
+
+url:https://reddit.com/r/LifeProTips/comments/viwsi/
+author:Omnidoom
+subreddit:LifeProTips
+score:1143
+numComments:216
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,73 @@
+title:
+YSK What happens when you post an unpopular opinion on Reddit.
+
+content:
+A few days ago, I posted a **[YSK on CISPA.](http://www.reddit.com/r/YouShouldKnow/comments/1colff/ysk_facts_about_cispa_without_all_the_hyperbole/)** Irritated by much of the uninformed, misguided and frankly ignorant commentary on this issue on reddit, I wrote a clarification of myths/facts, linking to primary sources. I also continued addressing criticisms in the comments. Supporting CISPA, in case you haven't heard, is an extremely unpopular position to take on Reddit.
+
+The commentary quickly got ugly. But it was nothing compared to the PMs I got. Here's a small sample of about three dozen I got:
+
+&gt; Fuck off, IBM dog.
+
+&gt; go suck on a revolver
+
+&gt; Hey, you really are a fucking asshole. Go die in a hole.
+
+&gt; hi ntang, your moms name is [redacted], you went to [redacted] high school and you live in [redacted]. We're comign for you
+
+&gt; corporate shill suck my hairy dick
+
+&gt; SHILL SHILL SHILLONGGGG
+
+&gt; I hope you die a painful death, shill.
+
+&gt; [redacted name, fortunately incorrect]? Thought so - gonna find you now
+
+&gt; Pizzas on its way shill
+
+&gt; Just sent your boss an email about you, shill
+
+&gt; [redacted imgur link appearing to show a woman being raped] when i find u ntaaaang
+
+&gt; go fuck urself ntang
+
+&gt; So you're going to throw our privacy in the fire like your company did jews in the holocaust? People like you are why we own guns.
+
+&gt; Where's a noose when you need one?
+
+&gt; Go suck on one of these. [redacted imgur link showing a bloody penis]
+
+&gt; You're a real prick, get the fuck off this site.
+
+&gt; I found your facebook site. Just wanted you to know I'm sharing that link.
+
+&gt; Oh, so you live in [redacted town]? Good to know.
+
+&gt; CISPA shill, better watch ur back
+
+&gt; your turn is soon [redacted imgur link showing a group of men kicking someone on the ground]
+
+&gt; You'll never take my privacy, you fucking asshole.
+
+&gt; Fuck you.  [Received at least five exactly the same]
+
+&gt; Just saw a picture of your dog. If I ever see him, youll never see him again.
+
+
+
+Now, I've got a thick skin, and I know that most of this is just bullshit. I've also been careful to not disclose too much personal information on reddit. Nevertheless, **people PMed me about the names of my kids, my dog, my job, my hometown, my parents (including my dead father), and more.** I'm pretty sure no one will be able to truly dox me, but still - pretty sobering stuff.
+
+So consider this a reminder: **never post personal information on reddit.** If you do, make sure to delete those comments afterwards. Some people WILL and DO trawl through your entire history looking for this stuff to dox you. After receiving some of the PMs above, I went through my history and deleted a lot of stuff. I'm also never using this handle again.
+
+The gang that went through systematically downvoting every single post of mine didn't bother me that much - I think it's sadder more than anything. And I do appreciate the several users who were interested in earnest debate or discussion. But the malicious focus of the hivemind I experienced was enough to convince me never to do that again.
+
+By the way - I'm not a paid IBM shill, and this **was** my personal account. Any fair review of my posts/comments should confirm that for all but the incredibly paranoid. CISPA has nothing whatsoever to do with 99.8% of IBM, including me. I'm a fairly senior technical person working in big data analytics, and we certainly won't make any money from it that I know of. IBM is utterly irrelevant to the discussion, but I guess reddit just hates corporations enough to latch on.
+
+And finally, while most of the comments were extremely negative, my post still had about a 2:1 upvote-to-down ratio. So I'm glad some folks were able to get some use out of it. The misinformation and hysteria about this issue coming from some quarters does no one any favors.
+
+url:https://reddit.com/r/YouShouldKnow/comments/1cv2x4/
+author:[deleted]
+subreddit:YouShouldKnow
+score:2607
+numComments:1407
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,21 @@
+title:
+LPT: If somebody asks you a question and you don't know the answer, admit you don't know. Don't beat around the bush or guess, especially if you're an expert.
+
+content:
+Nobody should expect you to know everything, but people should be able to expect you to give the best answer you can.
+
+This is especially true of experts - if you're a doctor or an electrician or a pharmacist or a networking specialist, you're still allowed to say if you don't know.
+
+When you give somebody a beat around the bush answer, they will have less respect for any other information you give them and they will lose confidence in you.
+
+If you give them a guessed or bullshit answer, you may actually do them more harm than not answering at all.
+
+If you think you know, but you're not sure, that's fine too - tell them with that caveat and, better yet, use your resources to either follow up or point them to somebody else who can.
+
+url:https://reddit.com/r/LifeProTips/comments/j0tmbv/
+author:Xenton
+subreddit:LifeProTips
+score:2047
+numComments:80
+isOver18:False
+hasPostBody:True

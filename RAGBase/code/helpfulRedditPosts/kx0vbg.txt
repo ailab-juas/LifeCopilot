@@ -1,0 +1,14 @@
+title:
+YSK: You should know when looking at non public schools for your child make sure to read employee reviews of the school
+
+content:
+
+Why YSK: This is important for parents who need/want to look into non public schools for their child. All non public schools will promise great things ( different types of therapy, community outings, personalized lessons.) It can be hard to determine what is real and what is just them selling you lies. Go to GlassDoor/Indeed and type in the schools name. See how employees feel about the school. See what the cons are. If most cons are about school being understaffed or not properly trained to deal with certain behaviors that’s a red flag. If if mentions admin bullying or being dismissive of lower level employees that’s another red flag. Make sure to see if cleanliness is another thing mentioned. If a lot of reviews complain about there being no custodian or aides being forced to clean  up blood or feces that’s again a red flag. All these issues point to not a good environment for your child.
+
+url:https://reddit.com/r/YouShouldKnow/comments/kx0vbg/
+author:prancingbuffalo
+subreddit:YouShouldKnow
+score:7820
+numComments:104
+isOver18:False
+hasPostBody:True

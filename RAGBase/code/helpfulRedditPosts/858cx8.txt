@@ -1,0 +1,13 @@
+title:
+YSK: you can ask Google to blur you house out on Street View
+
+content:
+Noticed my neighbors house was blurred out and was curious how they did it. Turns out if you go to your house and then hit report you can ask google to blur it out for privacy reasons.
+
+url:https://reddit.com/r/YouShouldKnow/comments/858cx8/
+author:msvard
+subreddit:YouShouldKnow
+score:4516
+numComments:374
+isOver18:False
+hasPostBody:True

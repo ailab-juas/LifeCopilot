@@ -1,0 +1,13 @@
+title:
+LPT: When emailing a resume to a prospective employer, avoid sending it as a word (doc/docx) document.
+
+content:
+Send it as a pdf. This helps hide any spelling and grammatical errors, when the resume is opened in a pdf reader, that would otherwise show up if the resume is opened in Microsoft Word. If you've missed the error, there is a good chance the person reading your resume will miss it as well.  Everyone makes mistakes. We are human after all.
+
+url:https://reddit.com/r/LifeProTips/comments/t1izfm/
+author:thyflash
+subreddit:LifeProTips
+score:2116
+numComments:189
+isOver18:False
+hasPostBody:True

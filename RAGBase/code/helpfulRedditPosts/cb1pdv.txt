@@ -1,0 +1,13 @@
+title:
+LPT: When in the middle of a heated discusssion and you feel your point isn't getting across. Instead of saying "you're not understanding my point" say "I'm not explaining myself correctly, let my try again" this is more likely to keep the other person engaged as they won't feel offended.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/cb1pdv/
+author:Koum91
+subreddit:LifeProTips
+score:4019
+numComments:89
+isOver18:False
+hasPostBody:False

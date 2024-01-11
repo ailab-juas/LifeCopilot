@@ -1,0 +1,13 @@
+title:
+YSK: if you think you are getting a scam call about an account of yours being breached or charged, ask: "what is my name"? If they cannot give you the information that they are calling about, it is a scam.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/YouShouldKnow/comments/j4027f/
+author:[deleted]
+subreddit:YouShouldKnow
+score:13755
+numComments:313
+isOver18:False
+hasPostBody:True

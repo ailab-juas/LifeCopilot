@@ -1,0 +1,15 @@
+title:
+YSK that it's usually much cheaper to refill propane tanks than to exchange them.
+
+content:
+Your standard propane tank that you use on a gas grill has a 20 pound capacity (about 4.7 gallons). Big box stores like Home Depot and Lowes have exchange programs where you drop off an empty tank in exchange for a "full" one. YSK that they're only filling them to 75% capacity, 15lbs (about 3.5 gallons).
+
+It's $19.97 at my local Home Depot to exchange for 15lbs of propane. It's $2.29 gallon to refill at my local Tractor Supply, or $8 for the same amount. I can get a full 20lbs for about $11.
+
+url:https://reddit.com/r/YouShouldKnow/comments/5wha8h/
+author:adamdavenport
+subreddit:YouShouldKnow
+score:3604
+numComments:250
+isOver18:False
+hasPostBody:True

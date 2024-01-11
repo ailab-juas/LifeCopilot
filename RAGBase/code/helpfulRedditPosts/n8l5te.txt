@@ -1,0 +1,19 @@
+title:
+YSK: waiting 24-48 hours to report a missing person is a Hollywood myth. Those hours are the most crucial to getting help.
+
+content:
+Why YSK:
+
+Hollywood has brainwashed a lot of people into thinking that the police will simply shrug and say "sorry, we can't do anything until so-and-so has been missing for 48 hours".  This is absolutely not true, and an extremely dangerous lie.  
+
+The first hours after someone has been noted to be missing are far and away the most important.  If you genuinely suspect that something has happened to somebody, ***do not wait to call the police*****.**  
+
+The sooner you call, the better.  It may save a life.
+
+url:https://reddit.com/r/YouShouldKnow/comments/n8l5te/
+author:AlwaysTheNoob
+subreddit:YouShouldKnow
+score:19876
+numComments:410
+isOver18:False
+hasPostBody:True

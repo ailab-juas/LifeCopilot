@@ -1,0 +1,35 @@
+title:
+YSK that in the US, if you are arrested and you choose to remain silent, you must "unambiguously" invoke this right before the police are required to stop questioning.
+
+content:
+In [Berghuis v. Thompkins](https://supreme.justia.com/cases/federal/us/560/370/), the US Supreme Court ruled that in order to invoke the "right to cut off questioning" from the police, you must "unambiguously" state that you are exercising your right to remain silent. Simply saying nothing is not considered enough to invoke this right. 
+
+The decision states:
+
+&gt;    In sum, a suspect who has received and understood the Miranda warnings, and has not invoked his Miranda rights, waives the right to remain silent by making an uncoerced statement to the police. Thompkins did not invoke his right to remain silent and stop the questioning. Understanding his rights in full, he waived his right to remain silent by making a voluntary statement to the police. The police, moreover, were not required to obtain a waiver of Thompkins’s right to remain silent before interrogating him.
+
+Thompkins was accused (and ultimately found guilty) of murder. At an interrogation, he was practically silent until near the end, when an officer asked him, three questions: "Do you believe in God?",' "Do you pray to God?", and "Do you pray to God to forgive you for shooting that boy down?". His one-word response to the final question, "Yes", was considered an admission of guilt and used to convict him. He argued that he was coerced into making that statement and that it violated his 5th amendment right. 
+
+My understanding is that although you *can* simply not say anything, the police can continue to question you until you say you will not answer any questions. Once you've been Mirandized, waiving your right to remain silent can be implied by making any response to a question. Further, police are not required to obtain a waiver that you know your rights and choose to waive them. 
+
+Sources:
+
+* [Analysis: Tilting Miranda toward the Police](https://www.scotusblog.com/2010/06/analysis-tilting-miranda-toward-the-police/)
+
+* [Berghuis v. Thompkins](https://supreme.justia.com/cases/federal/us/560/370/)
+
+* [Oyez](https://www.oyez.org/cases/2009/08-1470)
+
+* [SCOTUS Blog](https://www.scotusblog.com/case-files/cases/berghuis-v-thompkins/)
+
+* [When does a suspect waive his right to remain silent?](https://www.scotusblog.com/2010/03/when-does-a-suspect-waive-his-right-to-remain-silent/)
+
+* [You Have to Speak Up to Remain Silent](https://leb.fbi.gov/articles/legal-digest/legal-digest-you-have-to-speak-up-to-remain-silent-the-supreme-court-revisits-the-miranda-right-to-silence)
+
+url:https://reddit.com/r/YouShouldKnow/comments/cdmgt9/
+author:Tananar
+subreddit:YouShouldKnow
+score:8864
+numComments:400
+isOver18:False
+hasPostBody:True

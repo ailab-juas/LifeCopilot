@@ -1,0 +1,13 @@
+title:
+YSK always put the word "attached" in an email when you are going to put an attachment because if you forget to put an attachment, most email applications will remind you to attach it.
+
+content:
+Why YSK: I used to always draft emails and say something like "Refer to document XYZ" and then forget the attachment. By changing my habits to always say the word "attached", or a variation of that word, applications like Outlook will remind you to include the attachment. Simply including that wording (eg "Refer to document XYZ (attached)") has saved me so much time in resending emails. So many of my colleagues didn't know this and even my own partner, who meticulously re-reads emails but forgets to attach things, didn't know this.
+
+url:https://reddit.com/r/YouShouldKnow/comments/pz32bs/
+author:ihaveneverdonemeth
+subreddit:YouShouldKnow
+score:4066
+numComments:62
+isOver18:False
+hasPostBody:True

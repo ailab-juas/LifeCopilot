@@ -1,0 +1,24 @@
+title:
+YSK: Most locks available today are not very secure.
+
+content:
+Why YSK: Most locks that we use to discourage people from gaining access to our homes, property, and danger are easily picked by a novice.
+
+Lock manufacturers rely of "security through obscurity" to make locks effective. The idea being that it no one knows how poor the locks are, then no one will try to pick them. 
+Personally I would like a lock that is just hard to pick, rather than relying on a thief not knowing how hard it is to pick. Let me be clear that locks are never foolproof, but the amount of time it takes to pick changes how long the thief is exposed to being caught. Alternatively if they break a window or break the lock; they've left proof that they have broken in. Lock picking leaves no such proof.
+
+I've been following the LockPickingLawyer on youtube for a while now, and I just watched his lecture at SAINTSCON (link below). I didn't realize how bad it has gotten. I want this to change and it's in your best interest to know. The conference is kinda long, so I'll link a quick picking video to give an idea of how bad it can be.
+
+Pick video: https://youtu.be/KHYpSERxcC4
+
+Conference: https://youtu.be/IH0GXWQDk0Q
+
+Edit: spelling &amp; grammar
+
+url:https://reddit.com/r/YouShouldKnow/comments/t7nlce/
+author:Dragonov02
+subreddit:YouShouldKnow
+score:8585
+numComments:425
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+YSK that anyone can apply to be a member of your local Selective Service (Military Draft) Board
+
+content:
+These boards would, in the event of a war and subsequent draft, decide cases where draftees are requesting deferments for any number of reasons. You can check it out here: https://www.sss.gov/About/Agency-Structure/Local-Boards
+
+You can serve for 20 years and it requires laughably minimal effort. I've been doing it for 10 years now and have never even met the other board members. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/8bilkt/
+author:equityengineer
+subreddit:YouShouldKnow
+score:1974
+numComments:213
+isOver18:False
+hasPostBody:True

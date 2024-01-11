@@ -1,0 +1,15 @@
+title:
+LPT: You can almost always remove "just" or "really" from a sentence and achieve a stronger meaning.
+
+content:
+Example: "I would pay to have you ~~just~~ follow me around and narrate my life."
+
+Example: "It makes me ~~really~~ mad when you say that."
+
+url:https://reddit.com/r/LifeProTips/comments/40atex/
+author:ZSpice
+subreddit:LifeProTips
+score:4039
+numComments:1061
+isOver18:False
+hasPostBody:True

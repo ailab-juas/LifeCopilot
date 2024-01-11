@@ -1,0 +1,13 @@
+title:
+LPT: If you're trying to use your phone less, buy a watch. It prevents you from checking the time on your phone and potentially sucked in.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/62zvj4/
+author:w_motto
+subreddit:LifeProTips
+score:2925
+numComments:144
+isOver18:False
+hasPostBody:False

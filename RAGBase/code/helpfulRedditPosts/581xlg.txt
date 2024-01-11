@@ -1,0 +1,19 @@
+title:
+YSK: Saying "I'm sorry" or apologizing CAN be used against you in court in the United States
+
+content:
+Recently a thread hit the front page on Ontario's Apology Act, which provides that certain kinds of apologies can't be used against you to support liability in a civil lawsuit.
+
+As you know, mildly persuasive wording in a one-sentence post title is all it takes to convince the average reddit commenter of almost anything. Because this post title suggested that it's a bad idea to let a jury hear some things that are said in the moments after a traumatic event if they can be deemed apologies, everyone in the comment section simply joined the chorus in favor of such a rule. Several confidently asserted that the same rule exists in the US through common law and the Federal Rules of Evidence.
+
+For now I'll pass by whether apologies SHOULD be used in court (which just means whether the jury can even hear what was said and weigh it against explanations, evidence, and argument, not that anyone who apologizes automatically loses). The simple fact is that in most cases they CAN be used in court, unless your lawyer can prove by a preponderance of the evidence (usually) that it shouldn't be heard because it falls into an exception. Exceptions exist for settlement communications, offers to pay medical expenses, and in some states, to specific contexts (doctors often get sorry statutes in their favor). But the burden would be on your lawyer to find these exceptions, research them, and prove they apply. 
+
+Please don't listen to legal advice on Reddit. Not even this post. If you apologize to someone after an incident, there's a chance that a jury might hear that some day. That may matter less to you than the risk of not apologizing. But remember the risk. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/581xlg/
+author:aubrey1987
+subreddit:YouShouldKnow
+score:1422
+numComments:54
+isOver18:False
+hasPostBody:True

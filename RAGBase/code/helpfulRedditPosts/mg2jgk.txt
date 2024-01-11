@@ -1,0 +1,17 @@
+title:
+YSK: Some people are covertly abusive, manipulative and controlling
+
+content:
+Why YSK: learning to recognise the techniques and patterns of behaviour will help you protect yourself and better support friends or family suffering psychological or emotional abuse. A significant amount of harm has already been done if you have to learn this the hard way.
+
+[Abusive power and control](https://en.wikipedia.org/wiki/Abusive_power_and_control)
+
+[What is emotional abuse?](https://www.verywellmind.com/identify-and-cope-with-emotional-abuse-4156673)
+
+url:https://reddit.com/r/YouShouldKnow/comments/mg2jgk/
+author:Y3VkZGxl
+subreddit:YouShouldKnow
+score:15462
+numComments:699
+isOver18:False
+hasPostBody:True

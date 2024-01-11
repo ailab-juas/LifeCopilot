@@ -1,0 +1,14 @@
+title:
+LPT: It’s important to understand that some people will not change. You could beat them with a stick everyday and they will be the exact same person. Sometimes we have to accept this and do what’s best for us.
+
+content:
+Some history on using a metaphorical stick. It’s not super relevant, but it’s interesting.
+[“The People’s Stick”](https://en.m.wikipedia.org/wiki/The_People%27s_Stick)
+
+url:https://reddit.com/r/LifeProTips/comments/gbo8u3/
+author:LowKeyAF93
+subreddit:LifeProTips
+score:3045
+numComments:148
+isOver18:False
+hasPostBody:True

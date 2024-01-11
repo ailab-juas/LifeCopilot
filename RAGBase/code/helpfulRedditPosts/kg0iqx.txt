@@ -1,0 +1,13 @@
+title:
+LPT: When moving into a new home with a garage, reset the garage door opener so it “forgets” existing remote codes. Then program your remotes / vehicles. This prevents previous tenants / owners from using their vehicles / remotes stored codes to access your garage.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/kg0iqx/
+author:browncm28
+subreddit:LifeProTips
+score:4824
+numComments:96
+isOver18:False
+hasPostBody:False

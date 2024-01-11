@@ -1,0 +1,24 @@
+title:
+YSK: Apple iPhones have started saving images as HEIC files, which are not easily readable on non-Apple devices. You can default to saving in 'more compatible' mode, which are familiar formats that work on most devices.
+
+content:
+Why YSK: if you send an HEIC image from your iPhone, it may be unreadable unless the person on the other end has an Apple device. Windows devices [can't read HEIC without a paid extension](https://www.howtogeek.com/345504/how-to-open-heic-files-on-windows-or-convert-them-to-jpeg/) (*edit: see footnote*), so this can affect work, finance, and social activities.
+
+There is a way to [revert to saving in more compatible formats](https://backlightblog.com/iphone-heic-to-jpg). (Go to Settings-&gt; Camera -&gt; Formats -&gt; Most Compatible). These images will be larger for the same image quality, but can be read without additional software on non-Apple devices.
+
+HEIC has its advantages over JPG encoding and others, but they are ~~proprietary~~ *new and not widely implemented* and not readily usable on many devices. If compatibility is important to you (eg, in a Windows-dominated industry), you may consider changing the way your iPhone saves images.
+
+
+---
+
+edit: /u/ictsol linked [this package](https://www.tenforums.com/software-apps/192715-how-obtain-free-hevc-heic-extensions-microsoft-store.html) which appears to be able to open HEIC files for free on Windows 10. Some people are reporting that Windows 11 can open them without additional software.
+
+Also, the format is not proprietary to Apple as several articles said, but they were the first major adopter. Samsung, for example, has a setting to save in HEIF/HEIC.
+
+url:https://reddit.com/r/YouShouldKnow/comments/uxsp2q/
+author:persondude27
+subreddit:YouShouldKnow
+score:1328
+numComments:98
+isOver18:False
+hasPostBody:True

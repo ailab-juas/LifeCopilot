@@ -1,0 +1,23 @@
+title:
+The Difference Between /r/YouShouldKnow and /r/TodayILearned, and the Mentality of the Hivemind
+
+content:
+Over as little time as the last month, I (and I know I’m not the only one) have noticed a change in the content posted in this subreddit.
+
+For me, /r/TodayILearned is a subreddit where one can post something they just learnt and feel that it’s interesting enough to share with the rest of the community. For me, this is not the function of /r/YouShouldKnow. /r/YouShouldKnow should be a subreddit that promotes the betterment of the readers. For example, the [top submission of all time](/www.reddit.com/r/YouShouldKnow/comments/q3dq6/ysk_how_to_google_properly/) (submitted 5 months ago) brings attention of how to Google properly. Since nearly everyone uses Google multiple times a day, and this is genuinely helpful information to refine searches, this is something that *you should know*. And it was up-voted accordingly. Great!
+
+[This](/http://www.reddit.com/r/YouShouldKnow/comments/yhv81/ysk_that_when_nazi_germany_desired_a_eugenics/) recent submission regarding the impact of the sterilisation programmes in the US on Nazi Germany eugenics schemes is not something that I “should know”. Yes, it is better for me to know it than to not, but I would strongly argue that I should not necessarily “should know” it. Firstly, I, along with 94% of the world, am neither American nor German. Second, this occurred 80 years ago, and is not even that relevant in the grand scheme of the War. 
+
+The up-votes in this last post are hardly surprising, given the popularity of the perennial circlejerk topic of US bashing in /r/atheism, /r/politics, /r/worldnews, /r/AskReddit, and many others. It is pretty well understood, I think, that the vast majority of Redditors will up-vote anything that conforms to their worldview (and vice versa). 
+
+Because the community can’t control themselves (/r/WTF and /r/bestof are two great examples of good subreddits gone bad), I am asking the mods to step in to stop the decline toward /r/TodayILearned. Please, for the future of this fantastic subreddit, consider removing submissions that *you deem* not something that *You Should Know*. 
+
+Thank you
+
+url:https://reddit.com/r/YouShouldKnow/comments/yiz9n/
+author:Eist
+subreddit:YouShouldKnow
+score:1229
+numComments:135
+isOver18:False
+hasPostBody:True

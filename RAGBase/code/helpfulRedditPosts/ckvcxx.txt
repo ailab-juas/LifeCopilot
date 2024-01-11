@@ -1,0 +1,15 @@
+title:
+YSK most phones with Google maps will allow you to download maps and use GPS offline. This can prove invaluable if you want to save money while overseas, or if you need to travel in the wake of a disaster that disables nearby towers.
+
+content:
+I have no clue how or why this works, but it does. 
+
+I discovered this not too long ago, and downloaded a 50 mile radius in two directions onto my SD card. I didn't think I'd need it, but I actually lost cell service for a bit during a storm, when I was driving in an area I'm not familiar with, and it was very useful.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ckvcxx/
+author:Milkshaketurtle79
+subreddit:YouShouldKnow
+score:5682
+numComments:129
+isOver18:False
+hasPostBody:True

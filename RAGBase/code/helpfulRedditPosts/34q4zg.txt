@@ -1,0 +1,13 @@
+title:
+LPT: Ask your SO to write down all their clothing sizes for you
+
+content:
+That way you always have them on-hand should you want to buy them a gift. Get all their sizes, from hat size to shoe size. For bonus points, get them to write down their favourite colour, too.
+
+url:https://reddit.com/r/LifeProTips/comments/34q4zg/
+author:dbarefoot
+subreddit:LifeProTips
+score:2973
+numComments:641
+isOver18:False
+hasPostBody:True

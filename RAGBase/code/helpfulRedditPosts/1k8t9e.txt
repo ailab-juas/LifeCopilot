@@ -1,0 +1,13 @@
+title:
+After boiling vegetables, use the water to cook rice. The nutrients boiled out of the vegetables will be absorbed by the rice.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1k8t9e/
+author:HardHandle
+subreddit:LifeProTips
+score:1019
+numComments:122
+isOver18:False
+hasPostBody:False

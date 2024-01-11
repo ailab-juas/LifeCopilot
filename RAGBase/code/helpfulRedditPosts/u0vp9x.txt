@@ -1,0 +1,25 @@
+title:
+YSK that equipment with small engines that could sit for a long time should use ethanol-free fuel, often called "recreational fuel" or "REC-90", to avoid the carburetor from gunking up due to aging gasoline in the bowl. Many local gas stations will have a separate pump for this fuel.
+
+content:
+Why YSK: Engines in things like lawnmowers, snow blowers, trimmers, and other small equipment tend to sit for extended periods of time. When this happens, the gas in the tank, or even just the carburetor bowl after the tank has been run dry, will congeal into a substance that gunks the fuel systems due to ethanol additives and can cost nearly as much as the cost of a new piece of equipment to fix. 
+
+Many gas stations will have a separate pump (often not even grouped with the other pumps) labeled as "REC-90" or "Recreational Fuel" or "Ethanol Free Fuel" meant to help prevent this phenomenon. The fuel typically costs about 25% more than standard gasoline, but for small equipment that typically won't amount to more than a few dollars a year, that can save you hundreds on equipment repairs or new equipment.
+
+Of course, these other precautions should also be followed:
+
+1. Run your fuel tanks dry if they won't be used for more than about a month.
+
+2. When you purchase fuel for equipment that is currently being used regularly, run a splash of that fresh fuel through your out-of-season equipment to clear out the old fuel from the carb.
+
+3. Add a bit of fuel stabilizer to each tank of gas you purchase for small engine equipment.
+
+Edit: [Here](https://www.pure-gas.org/extensions/maps.jsp?statecode=ALL) is a source posted by a commenter to find a local gas station that carries ethanol-free fuel. At almost 17,000 locations in North America alone, they are more common than McDonald's, so maybe double-check before giving up hope. The pumps are often very inconspicuous so it's very easy to miss them. It looks like some areas call them "clear gas" as well, so that might help some people find them.
+
+url:https://reddit.com/r/YouShouldKnow/comments/u0vp9x/
+author:Revenge_of_the_Khaki
+subreddit:YouShouldKnow
+score:7365
+numComments:332
+isOver18:False
+hasPostBody:True

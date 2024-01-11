@@ -1,0 +1,13 @@
+title:
+LPT: To help with proscrastination, think of the reward you gain for completing the task rather than the task itself.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/2tup55/
+author:radstorybro
+subreddit:LifeProTips
+score:1785
+numComments:332
+isOver18:False
+hasPostBody:False

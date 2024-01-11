@@ -1,0 +1,13 @@
+title:
+LPT: if you own a cat or dog, and they cannot see out of the window, try to put a chair there, or similar, so they can finally see out of the window. This is their version of Nexflix.
+
+content:
+Correction: spelling Netflix.
+
+url:https://reddit.com/r/LifeProTips/comments/g20ap6/
+author:A_Bruised_Reed
+subreddit:LifeProTips
+score:2518
+numComments:102
+isOver18:False
+hasPostBody:True

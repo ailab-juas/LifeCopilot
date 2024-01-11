@@ -1,0 +1,13 @@
+title:
+LPT: If you ever hit the space bar accidentally and you scroll down, you can scroll back up with Shift+Space.
+
+content:
+Also, you can pause YouTube videos  by pressing 'K', so now you'll never accidentally scroll down!
+
+url:https://reddit.com/r/LifeProTips/comments/4kboc2/
+author:creepermarcer
+subreddit:LifeProTips
+score:3689
+numComments:180
+isOver18:False
+hasPostBody:True

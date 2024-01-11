@@ -1,0 +1,75 @@
+title:
+LPT: Know the Signs of Stroke. My dad had stroke on Christmas Eve. Got him to ER in 30 mins. He should be fine.
+
+content:
+Know F.A.S.T.    
+
+F - Face Drooping    
+
+A - Arm Weakness    
+
+S - Speech    
+
+T - Time to call 911 in U.S./999 in U.K (even better to drive them immediately if you can get them into a vehicle, "Time is Brain", meaning the longer the stroke lasts the worse the damage can be.  And I often heard the stroke doctors talking about the short window of time they had to be able to give the TPA protocol when I worked in the hospital)
+
+EDIT:  "IV tPA should be administered to all eligible acute stroke patients within 3 hours of last known normal and to a more selective group of eligible acute stroke patients (based on ECASS III exclusion criteria) within 4.5 hours of last known normal. Centers should attempt to achieve door-to-needle times of &lt;60 minutes in ≥50% of stroke patients treated with IV tPA."    
+
+https://www.acc.org/latest-in-cardiology/ten-points-to-remember/2018/01/29/12/45/2018-guidelines-for-the-early-management-of-stroke#:~:text=IV%20tPA%20should%20be%20administered,hours%20of%20last%20known%20normal.    
+
+
+EDIT:  Getting messages saying it is bad advice to advise not to call 911.  Let me be clear, you should call 911 for their advice and on which hospital you should go to, and if the person can't walk, obviously they need an ambulance.  But in my specific case, my parents live in the country so we would have been waiting AT LEAST 30 minutes for an ambulance to arrive, precious time to assess and load my dad into the ambulance, and then drive back into the city. In my case, it made sense to just load up and go, but we probably should have had 911 on the line while we were driving.
+
+-----
+
+Additional symptoms:
+
+
+Sudden Numbness
+
+Sudden Confusion
+
+Sudden Trouble-Seeing
+
+Sudden Trouble-Walking
+
+Sudden Severe Headache
+
+-----
+
+Prologue:  I worked at a hospital that is a stroke center from 2010-2014 as a grunt.  Dad is a retired doctor.
+
+I went to my parent's early on Christmas Eve 2020, was helping dad put heavy stuff in the attic.  Afterward, he said he needed to vacuum but could not say the word "vacuum", and then said "am I having a stroke?"   I thought, "fuck".  Then he said vacuum, and walked to his bedroom, and I hoped it was just a brain fart and he was fine.  Nope, he comes into living room and sits down in chair, and he can't speak.  At all.  He points to his mouth. No facial drooping.  I later learned he meant he was drooling.  I thought, "fuck, fuck, fuck".  I knew he was having a stroke.  Mom walked by, I said "dad is having a stroke".  She said "no no no,", and gave him an aspirin.  I said we can't wait,  we gotta go to the hospital now.  Got dad into the car and had mom drive to the stroke hospital I used to work at, in about 30ish minutes from onset of stroke.  They gave him the TPA protocal.  They said he most likely had the stroke due to him being in Atrial Fibrillation, which fired off a clot to his head.  He went up to the ICU that night, Christmas Eve.  He was able to speak that night.  The next day, Christmas Day, even better.  He was released on 12.26.20, able to speak very understandably with only a slight defect that should go away, because the neurologist said he should recover fully.    
+    
+
+If they can walk, don't wait on an ambulance, throw them in a vehicle and get them to a major hospital ASAP.  It would probably have been at least an hour longer wait if we had waited on an ambulance.  Ideally, know what your local medical facilities are known for (heart, stroke/neurological, children, etc) and where they are so you can make an educated choice about which you should drive to.
+
+-----
+
+EDIT 1:  Woke up so grateful to see that many people are seeing this info.  My dad told me once he was able, "you saved my ass", so hopefully this info will allow you save someone else's ass.    
+
+EDIT 2:  Per u/SquiddlyGiggly, giving aspirin is a no-no because it can make the stroke worse.  Good to know, I'll pass that info along.  I think my mom gave him aspirin because my dad had a quadruple bypass when he was 64 and she probably thought he might be having a heart attack and just couldn't speak due to being out of breath.  Which leads me to...    
+
+EDIT 3:  My dad had a quadruple bypass when he was 64.  He said his blood pressure has been fine even without medications, so he stopped taking his medications for his heart awhile ago.  And apparently he was right about not having heart blockages or high blood pressure, but those aren't the only heart worries it seems.  I thought he was still getting checkups, but I learned after this that he has been refusing to go see his doctor.  If he had, perhaps they would have caught the Atrial Fibrillation (A Fib) and treated it before this happened.  My mom thinks this was a blessing because hopefully it will be a wake up call for him to take ongoing checkups seriously.    
+    
+
+So one more thing to add to this LifeProTip, show your family members this story and the importance of getting checked out and addressing issues before they become worse.  Dad said another stroke patient came in while he was there, and the guy was basically a vegetable.  Remind family that they may be ready to die, but are they ready to live with permanent handicaps like not being able to speak or use half their body.    
+
+EDIT 4:  I just remembered a stroke patient I had when I worked at the hospital.  Guy was late 40s, maybe early 50s, looked like he was in great shape (thin body type) and like he worked a manual job.  He was laying there with his eyes closed and not able to speak, just grunt.  I "think" that was his 2nd or 3rd stroke, progressively getting worse I think.  Anyway, my point is, do not judge their age or outer appearance as to whether they can have a stroke.    
+
+-----
+
+EDIT 5:  Credit to u/RetardedinRetrospect for linking this video that shows a Stroke as it happens:
+
+https://www.youtube.com/watch?v=4kgmqPahsSE&amp;feature=youtu.be    
+
+Also, an informative TEDtalk on the subject:    
+
+https://www.youtube.com/watch?v=mYD7Y9CXeUw
+
+url:https://reddit.com/r/LifeProTips/comments/kkyl76/
+author:MinMaxRex
+subreddit:LifeProTips
+score:36821
+numComments:1067
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+YSK that there are thousands of vacant opportunities out there unnoticed, because companies are reluctant to advertise their open positions in public platforms. Trust me, there are unexplored resources for those who are hit by unemployment crisis
+
+content:
+**Why YSK**: Not all companies post up-to-date open positions on regular job boards. Some of them would have expired by the time they post on job boards. So, the best bet would be to bookmark company career pages, internal job portals and revisit them regularly for latest updates. Candidates found to have better response rate from recruiters when they apply from respective career page or internal job portals. Make sure that you don't miss out great resources like the one [reported by CNN](https://edition.cnn.com/2020/11/22/us/cal-state-job-database-trnd/index.html) recently. Do not just rely on any specific job boards and go for referrals if possible. Ultimately, you would want to minimize negative experience from job applications, hence the need of different approach.
+
+url:https://reddit.com/r/YouShouldKnow/comments/k062zo/
+author:Satire1408
+subreddit:YouShouldKnow
+score:22439
+numComments:570
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,23 @@
+title:
+YSK a majority of people experience "significant" or "extreme" tonic immobility during sexual assault.
+
+content:
+Rape survivors are often asked why they didn't "fight back" or "resist", and many survivors experience painful self-doubt when they ask themselves the same question. So YSK: freezing is a counterintuitive but extremely common response.
+
+As discussed in this https://www.scientificamerican.com/article/sexual-assault-may-trigger-involuntary-paralysis Scientific American article, studies suggest that many survivors experience some level of this phenomenon:
+" [of] 300 women who visited the rape clinic, 70 percent experienced at least “significant” tonic immobility and 48 percent met the criteria for “extreme” tonic immobility during the rape."
+
+Why does this happen? It's all part of what you probably learned is the "fight or flight" response. But it's a little more complicated: "Typically, nonhuman animals are programmed to go through each of the states as the proximity of the danger escalates. The stages are: arousal (alertness to possible danger); freezing (momentarily putting flight or fight on hold while assessing danger); “flight or fight”; tonic immobility; collapsed immobility (fainting in fear); and quiescent immobility (a subsequent state of rest that promotes healing). People who experience sexual assault may go through several of these stages, or skip straight to tonic immobility."
+
+How does that manifest? This Washington Post article https://www.washingtonpost.com/news/grade-point/wp/2015/06/23/why-many-rape-victims-dont-fight-or-yell/?utm_term=.3726d9ab80f1 gives some explanation:
+"Some people describe feeling “like a rag doll” as the perpetrator did whatever he wanted. And thanks to rapid drops in heart rate and blood pressure, some become faint and may even pass out. Some describe feeling “sleepy.” Another, more common reflexive response is dissociation: spacing out, feeling unreal, disconnected from the horrible emotions and sensations of such an intimate violation."
+
+All of these responses are involuntary, and can be so confusing and upsetting for survivors trying to understand their own behavior. The WaPo article suggests male survivors might be especially vulnerable to this self-doubt, questioning not only whether a man can be raped (YES) but whether their passivity is unmanly. Survivors of all genders question whether they didn't fight back because they secretly wanted the assault to happen. So YSK: freezing is the body trying to protect itself in a situation of extreme distress and danger, prioritizing sheer survival. It does not suggest consent. Quite the opposite. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/7pwxif/
+author:chunkyrice13
+subreddit:YouShouldKnow
+score:3731
+numComments:147
+isOver18:False
+hasPostBody:True

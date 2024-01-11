@@ -1,0 +1,15 @@
+title:
+YSK You can download an e-book from any set of Wikipedia articles, with formats like PDF, ODF, ZIM and EPUB.
+
+content:
+Wikipedia has a tool named *Create a book* where you can arrange several articles and export them as an e-book with some different formats.
+
+[Here is it.](http://imgur.com/yms8Wbl)
+
+url:https://reddit.com/r/YouShouldKnow/comments/1lc2o4/
+author:tonosecundino
+subreddit:YouShouldKnow
+score:1567
+numComments:78
+isOver18:False
+hasPostBody:True

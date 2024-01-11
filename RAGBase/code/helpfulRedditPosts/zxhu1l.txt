@@ -1,0 +1,15 @@
+title:
+LPT: If you work an office job, save your time off for non-holiday seasons
+
+content:
+During Christmas, for example, most people use their PTO. Therefore, the flow of work is slow, and it can feel like a holiday anyway. If possible, take time off when most of your peers will not be taking time off. 
+
+(I learned this lesson too late in my career. Instead of wondering why I feel burned out after the holidays when everyone is back in the office, I take time away after the holidays instead.)
+
+url:https://reddit.com/r/LifeProTips/comments/zxhu1l/
+author:supermagicpants
+subreddit:LifeProTips
+score:2875
+numComments:179
+isOver18:False
+hasPostBody:True

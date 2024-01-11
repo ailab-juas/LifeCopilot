@@ -1,0 +1,13 @@
+title:
+LPT: If your video games start to feel like work or you plan your life around it, then it is time to quit.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/v4t375/
+author:nashj001
+subreddit:LifeProTips
+score:5704
+numComments:396
+isOver18:False
+hasPostBody:False

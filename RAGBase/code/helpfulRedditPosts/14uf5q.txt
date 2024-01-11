@@ -1,0 +1,19 @@
+title:
+LPT: Make it so your dryer's automatic cycle dries your clothes properly
+
+content:
+Inside pretty much all dryers that have an automatic cycle, there will be a pair of electrodes. These generally take the form of two long steel bars mounted in plastic. [(They look like this).](http://imgur.com/PAT7v) As your wet clothes rub against the bars, a voltage is transferred from one bar to the other. This voltage decreases as the clothes dry out. Once it drops to a certain point (based on where you put the knob), the dryer will shut off.
+
+If you use dryer sheets, they tend to coat everything in the dryer with a film over time. This film builds up an insulating layer on top of the electrodes, and prevents them from accurately measuring the moisture content of your clothes. So, the dryer thinks that it has finished before it really has.
+
+The simple fix is to periodically scrub the electrodes with a scotch-brite pad, or very fine steel wool or emery paper.
+
+Of course, you should also make sure your ducts are clean, and while you are at it, scrub your lint filter with a bristle brush. The dryer sheets also form a film over the mesh, causing a measurable reduction in the amount of air that can flow through the filter. 
+
+url:https://reddit.com/r/LifeProTips/comments/14uf5q/
+author:spasticpoodle
+subreddit:LifeProTips
+score:1890
+numComments:228
+isOver18:False
+hasPostBody:True

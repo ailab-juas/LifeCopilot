@@ -1,0 +1,13 @@
+title:
+YSK You can report Text Message SPAM to your carrier by forwarding the messages to 7726 (S-P-A-M)
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/yfmyg/
+author:killerwin
+subreddit:YouShouldKnow
+score:1289
+numComments:98
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: Wrapping your sandwich in a paper towel before placing in a plastic bag or container will keep your sandwich from getting soggy.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/3n8mes/
+author:Cala_Mari
+subreddit:LifeProTips
+score:4847
+numComments:560
+isOver18:False
+hasPostBody:False

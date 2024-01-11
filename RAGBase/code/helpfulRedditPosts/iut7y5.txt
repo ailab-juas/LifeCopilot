@@ -1,0 +1,21 @@
+title:
+LPT: replace the "en." on Wikipedia with "simple." to get a far less complicated version of the article like it was written for five-year-olds
+
+content:
+Example: [https://en.wikipedia.org/wiki/Quantum\_mechanics](https://en.wikipedia.org/wiki/Quantum_mechanics) is super complicated. [https://simple.wikipedia.org/wiki/Quantum\_mechanics](https://simple.wikipedia.org/wiki/Quantum_mechanics) is way easier to understand
+
+&amp;#x200B;
+
+This really helps when you want to understand complex subjects without slogging through pages of details that you don't want. It's like ELI5 but for Wikipedia. It doesn't work on every article but the vast majority have a simple English version.
+
+EDIT: Thanks for the gold but use that money to support Wikipedia instead of me!
+
+EDIT 2: ...HOLY CRAP! Hi r/all! I'm honored and I'll be reading literally every last one of your comments.
+
+url:https://reddit.com/r/LifeProTips/comments/iut7y5/
+author:30phil1
+subreddit:LifeProTips
+score:61247
+numComments:756
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,19 @@
+title:
+YSK: If you accidentally delete all your work on a Google software (docs, sheets, etc) there's a way to easily recover your work
+
+content:
+Why YSK: I have this problem a lot where I would accidentally wipe my document and return to docs home screen "permanently" erasing it.
+
+If this has happened to you, just do this:
+
+1. Go back to the document you wish to recover
+2. At the top of the screen, next to the "Help" button, there's a clickable link that takes you to your version history (usually labelled "Last edit was on ///")
+3. You should be able to view all the changes and edits you made every time you opened the document while giving you the option to restore that version.
+
+url:https://reddit.com/r/YouShouldKnow/comments/iqij54/
+author:shupaoasado
+subreddit:YouShouldKnow
+score:15338
+numComments:156
+isOver18:False
+hasPostBody:True

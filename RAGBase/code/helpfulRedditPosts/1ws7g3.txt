@@ -1,0 +1,18 @@
+title:
+LPT: Amazon will refund you the difference if the product's price drops 7 days after purchase
+
+content:
+Caveats:
+
+* 7 Calendar Days after the delivery date
+* Only works for things that are sold and shipped by Amazon
+
+[***Proof***](http://i.imgur.com/EDFdkpM.jpg)
+
+url:https://reddit.com/r/LifeProTips/comments/1ws7g3/
+author:yolonoexceptions
+subreddit:LifeProTips
+score:1197
+numComments:103
+isOver18:False
+hasPostBody:True

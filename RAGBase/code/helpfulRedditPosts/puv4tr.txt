@@ -1,0 +1,17 @@
+title:
+LPT: Create an email address for your car.
+
+content:
+This has worked so well for me. You can send everything regarding the car to it: maintenance records, gas receipts, registration, even pictures of it before you let a friend borrow it or leave it parked for a while (for insurance reasons).  Doing this keeps everything in one place and puts a time/date stamp on everything you send it.  When you sell the car, you can turn over the email address or just forward the new owner everything that's relevant.  
+
+Bonus: this also works great for a house!
+
+edit:  Yes 243 commenters, we all know about gmail folders and Dropbox. This is just a nice, clean, fun way to do things.  Enjoy your folders!  But seriously, protonmail people, way more secure.
+
+url:https://reddit.com/r/LifeProTips/comments/puv4tr/
+author:RobotPreacher
+subreddit:LifeProTips
+score:14601
+numComments:587
+isOver18:False
+hasPostBody:True

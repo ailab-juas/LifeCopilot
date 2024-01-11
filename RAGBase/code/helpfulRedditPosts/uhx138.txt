@@ -1,0 +1,17 @@
+title:
+LPT: A gift that comes with an unexpected obligation is a bad gift
+
+content:
+Unexpected is the important part.
+
+A pet can be a good gift if they pick it out, know it's coming, and are willing to care for it. 
+
+Tickets can be a good gift if they like the show and have the day off.
+
+url:https://reddit.com/r/LifeProTips/comments/uhx138/
+author:Ajreil
+subreddit:LifeProTips
+score:2258
+numComments:247
+isOver18:False
+hasPostBody:True

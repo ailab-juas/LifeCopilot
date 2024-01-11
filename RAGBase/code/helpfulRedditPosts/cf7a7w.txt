@@ -1,0 +1,13 @@
+title:
+YSK of "Be My Eyes", an app that allows sighted volunteers to assist visually impaired people
+
+content:
+The feeling of being able to help another person navigate their everyday life despite visual impairments is truly like no other. I installed this app after reading an article about it back in January, and so far was able to help a blind man adjust his thermostat, another to find out the expiration date of some food in his fridge, helped a woman color co-ordinate an outfit, and so on. This is an amazing initiative, and all it takes is a mobile phone with internet connection and a working microphone. The calls are few and far between, and could happen at any moment - but I don't need to worry if I can't immediately respond, as there are thousands of volunteers and someone is bound to pick the call.
+
+url:https://reddit.com/r/YouShouldKnow/comments/cf7a7w/
+author:faousa
+subreddit:YouShouldKnow
+score:1435
+numComments:63
+isOver18:False
+hasPostBody:True

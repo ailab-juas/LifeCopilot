@@ -1,0 +1,13 @@
+title:
+YSK It's that time of year again to check your tire pressures. Colder air will occupy less volume.
+
+content:
+Why YSK: weather cold, pressure low.
+
+url:https://reddit.com/r/YouShouldKnow/comments/qdtd07/
+author:HarbourAce
+subreddit:YouShouldKnow
+score:1453
+numComments:59
+isOver18:False
+hasPostBody:True

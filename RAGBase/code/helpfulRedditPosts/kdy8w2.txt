@@ -1,0 +1,13 @@
+title:
+LPT: Read the ENTIRE recipe before you start cooking. It will spare you frustration, save you time, and allow you to be prepared for each step instead of scrambling around. It also allows you to mise en place (measure, cut, chop, etc.) your ingredients.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/kdy8w2/
+author:somuchgnarly
+subreddit:LifeProTips
+score:1209
+numComments:89
+isOver18:False
+hasPostBody:False

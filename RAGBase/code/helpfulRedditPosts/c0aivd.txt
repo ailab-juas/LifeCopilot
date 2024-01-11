@@ -1,0 +1,13 @@
+title:
+LPT: Use a hole puncher to punch a hole in the sticky part of a post-it and use that to cover the webcam of your laptop
+
+content:
+Edit: Obviously use the small circle that you punched out and not the part with the hole in it...
+
+url:https://reddit.com/r/LifeProTips/comments/c0aivd/
+author:bdvtje
+subreddit:LifeProTips
+score:1220
+numComments:182
+isOver18:False
+hasPostBody:True

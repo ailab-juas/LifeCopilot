@@ -1,0 +1,23 @@
+title:
+YSK if you’re paying TurboTax to file your taxes, don’t choose to have it deducted from your refund
+
+content:
+Why YSK: TurboTax claims to be totally free, but charges you for claiming additional credits or deductions on your returns each year. 
+
+I just finished my taxes and paid $80 on the deluxe version so I could claim an education credit. 
+
+At some point, TurboTax gives you the option to deduct that charge from your federal refund, rather than paying out of pocket.
+
+DO NOT DO THAT. 
+
+They charge you an additional $40 service fee on top of what you already paid for the service charge. Save yourself the money and just pay up front with a debit or credit card. $40 may not seem like much, but it’s $40 more you’ll get back on your return!
+
+Edit: after doing some research, honestly just stay away from TurboTax all together. There’s plenty of other ways to file your taxes for cheaper or even free, and it’s definitely worth the extra effort if it means more money back
+
+url:https://reddit.com/r/YouShouldKnow/comments/l8nr7m/
+author:vilify97
+subreddit:YouShouldKnow
+score:22847
+numComments:885
+isOver18:False
+hasPostBody:True

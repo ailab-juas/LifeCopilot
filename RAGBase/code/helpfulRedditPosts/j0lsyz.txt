@@ -1,0 +1,30 @@
+title:
+LPT: Use a ‘simple’ number code to create and safely record virtually limitless unique passwords.
+
+content:
+I work in a job with endless applications and passwords that constantly need updating. Believe me when I say that if you have the same password for everything or simple variations of it, your access is not secure.  If you work on different machines or work computers, you may not be able to use a password manager. You may also have work restrictions on writing down passwords, or consequences if unauthorized access occurs.  
+
+Use a code to produce multiple unique passwords. Have a consistent base phrase followed by a coded phrase followed by a number of a certain character. 
+
+For example:
+
+Base phrase: “PURPLE”
+
+Coded phrase (1-12): months of the year i.e. “january”
+
+Character (1-10): “%”
+
+Now you can type out a sheet with every application and just put a number code next to it.  a “23” would mean the password “PURPLEfebruary%%%”.  “51” would mean the password “PURPLEmay%”.  116 would be “PURPLEnovember%%%%%%” etc...
+ 
+
+It satisfies all requirements and there’s tons of combinations you could make with those codes and have all your passwords “written down” but virtually indecipherable, it’d just look like a list of numbers with no discernible sequence.  Furthermore, if frequent password changes are required, you have plenty to pick from without really changing your code.
+
+Edit: addressing some of the comments... I know this isn’t the *most* secure method from a cipher point of view.  Using a password manager is ideal, but as I pointed out, some work consoles don’t allow that.  Also, a password manager is vulnerable at the master password level.  The ideal use for this is in a work environment where you can’t use a password manager and have ~10-15 applications that require password changes every 6-12 months.  You’ll inevitably end up writing out a list of passwords, and that list becomes the chief vulnerability.  I didn’t say use this exact code; it’s very basic.  You could use a more complex code, or even use something like a VBA script as a sort of bootleg encryption key... This is just a simple example to get the imagination juices flowing.
+
+url:https://reddit.com/r/LifeProTips/comments/j0lsyz/
+author:DopyWantsAPeanut
+subreddit:LifeProTips
+score:1046
+numComments:199
+isOver18:False
+hasPostBody:True

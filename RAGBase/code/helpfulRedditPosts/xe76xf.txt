@@ -1,0 +1,15 @@
+title:
+LPT: Especially for those looking for their first job, if a job description mentions anything close to or about sales, that is all you'll do at that job.
+
+content:
+A lot of job postings try to lure sales people in by mentioning other aspects of the job because sales is super important to most companies and it's not the most desirable first job.
+
+A lot of times you'll see job titles like Marketing Associate, Project Coordinator, etc that will have vague descriptions like "work cross functionally with people across the company to educate prospective clients about processes and products" etc, and they'll mention stuff like "fielding inbound inquiries", some are more tricky than others, but if you read between the lines you'll realize it's just a sales job
+
+url:https://reddit.com/r/LifeProTips/comments/xe76xf/
+author:WorkingContext
+subreddit:LifeProTips
+score:1205
+numComments:33
+isOver18:False
+hasPostBody:True

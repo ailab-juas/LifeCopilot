@@ -1,0 +1,13 @@
+title:
+YSK about listentoamovie.com, a site that hosts audio-only versions of hundreds of popular movies. Great for background noise while you're at work.
+
+content:
+If you're in a line of work with a lot of downtime or periods where you're doing work that doesn't require your full attention, but don't want to have movies obviously playing on your screen, listen to your favorite movies.
+
+url:https://reddit.com/r/YouShouldKnow/comments/f9ba2u/
+author:non_troppo
+subreddit:YouShouldKnow
+score:2144
+numComments:65
+isOver18:False
+hasPostBody:True

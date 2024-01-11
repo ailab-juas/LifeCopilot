@@ -1,0 +1,13 @@
+title:
+LPT: When buying bedsheets, look for striped ones. It will make it much easier to find the long and short sides.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/88r4px/
+author:Blargle33
+subreddit:LifeProTips
+score:36222
+numComments:862
+isOver18:False
+hasPostBody:False

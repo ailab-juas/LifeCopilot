@@ -1,0 +1,13 @@
+title:
+LPT: Act like your future self is a real person. So when you see a chore that needs to be done, you can say "I'll do this now to be nice to my future self". Helps motivate to get things done because you're doing work for someone you want to help.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ddpbj2/
+author:boibuster
+subreddit:LifeProTips
+score:50958
+numComments:1008
+isOver18:False
+hasPostBody:False

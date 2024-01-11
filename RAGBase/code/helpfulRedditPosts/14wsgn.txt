@@ -1,0 +1,13 @@
+title:
+In light of yesterday's tragedy (r/LPT)
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/14wsgn/
+author:i_watch_u_p
+subreddit:YouShouldKnow
+score:1261
+numComments:175
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+Found this nugget of wisdom in the washroom of my university.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/100sn4/
+author:VirtuousHeathen
+subreddit:LifeProTips
+score:1270
+numComments:147
+isOver18:False
+hasPostBody:False

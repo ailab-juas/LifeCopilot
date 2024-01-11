@@ -1,0 +1,17 @@
+title:
+YSK about uBlock, the better alternative to AdBlock.
+
+content:
+Recently, AdBlock announced the Acceptable Ads Program. Companies can use that service to pay money to AdBlock so their ads can be added to the whitelist (AdBlock has been doing this for quite some time now). Also, AdBlock is doing some shady stuff with a new owner. I suggest you change to uBlock, a lightweight alternative where you can't pay them to display your ads. Be sure to install uBlock Origin though, because that's the version that's made by the original developers.  
+**Chrome**: https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm  
+**Firefox**: https://addons.mozilla.org/nl/firefox/addon/ublock-origin/  
+**Safari**: https://extensions.apple.com/details/?id=net.gorhill.uBlock-96G4BAKDQ9 (Not by original devs)  
+Edit: Added Safari.
+
+url:https://reddit.com/r/YouShouldKnow/comments/3n8z21/
+author:NAMELESSdotTXT
+subreddit:YouShouldKnow
+score:4510
+numComments:365
+isOver18:False
+hasPostBody:True

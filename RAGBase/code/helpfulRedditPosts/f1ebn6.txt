@@ -1,0 +1,15 @@
+title:
+LPT: If you have a metal water bottle/flask that has a dent on it, fill it with water and put it in the freezer for a few hours. The expansion should pop the dent out.
+
+content:
+*Do not use this with double wall vacuum insulated bottles*
+
+*Leave just a little bit of space so that it doesn't over expand*
+
+url:https://reddit.com/r/LifeProTips/comments/f1ebn6/
+author:the_mika
+subreddit:LifeProTips
+score:2152
+numComments:72
+isOver18:False
+hasPostBody:True

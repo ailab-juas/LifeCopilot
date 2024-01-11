@@ -1,0 +1,13 @@
+title:
+LPT: If something mechanical is behaving oddly and needs repairs, make a quick recording of it on your phone so you can show the technician in case the issue is not present when they arrive.
+
+content:
+I've had many calls about things making an odd noise or a unit not working correctly, then nothing happens while I am there. Sitting around for half an hour just to tell them to keep an eye on it and leaving never makes anyone happy.
+
+url:https://reddit.com/r/LifeProTips/comments/ikc0ny/
+author:FullaLead
+subreddit:LifeProTips
+score:5242
+numComments:68
+isOver18:False
+hasPostBody:True

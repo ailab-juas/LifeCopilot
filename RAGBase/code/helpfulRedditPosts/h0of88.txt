@@ -1,0 +1,15 @@
+title:
+YSK that the "9/10 dentists recommend" on toothpaste adds is misleading.
+
+content:
+In surveys where they gather this data, dentists are allowed to recommend multiple brands.  Since almost all brands of toothpaste are good enough, most dentists recommend all of them.  It does not mean that their brand is better than others.
+
+Source:  [https://www.telegraph.co.uk/news/uknews/1539715/Colgate-gets-the-brush-off-for-misleading-ads.html](https://www.telegraph.co.uk/news/uknews/1539715/Colgate-gets-the-brush-off-for-misleading-ads.html)
+
+url:https://reddit.com/r/YouShouldKnow/comments/h0of88/
+author:3570n3
+subreddit:YouShouldKnow
+score:1185
+numComments:59
+isOver18:False
+hasPostBody:True

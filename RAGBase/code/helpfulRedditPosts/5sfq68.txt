@@ -1,0 +1,15 @@
+title:
+LPT: Your toner cartridge is lying to you, you aren't out of toner. You can get way more pages out of your cartridge.
+
+content:
+Laser printers these days will not allow you to print if they think you are out of toner. The printer will usually tell you that you are out long before you actually need to replace the cartridge. If you have a black and white laser printer (not sure how this works with color), take out the toner cartridge and find the little plastic window on the side. Your printer will use a laser to measure how dark it is in there to determine how much toner is left. You can trick it into thinking you are full by putting a piece of electrical tape or masking tape with black marker on it. I did this a couple years ago and am still printing perfectly dark pages. Save your money!
+
+Edit: as many down below have said, many newer printers have a microchip counter instead of an optical sensor.  There are ways to override these too,  but they don't involve tape.
+
+url:https://reddit.com/r/LifeProTips/comments/5sfq68/
+author:trinitrocubane
+subreddit:LifeProTips
+score:1324
+numComments:140
+isOver18:False
+hasPostBody:True

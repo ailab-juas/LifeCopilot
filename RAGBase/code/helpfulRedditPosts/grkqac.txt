@@ -1,0 +1,13 @@
+title:
+YSK if your upper back and shoulders are constantly sore, you may need to stretch your chest muscles
+
+content:
+We tend to assume the muscles that hurt are the ones that need stretching, but you should also stretch the opposing muscles. Muscles work in pairs - your upper back muscles to pull your shoulders back, and your chest muscles to pull your shoulders forward. Your back could be sore because your chest muscles are tight, causing extra strain on your back. Here's an article with pictures and descriptions of some chest stretches:  https://www.acefitness.org/education-and-resources/lifestyle/blog/5657/5-chest-stretch-variations/
+
+url:https://reddit.com/r/YouShouldKnow/comments/grkqac/
+author:WetBiscuit-McGlee
+subreddit:YouShouldKnow
+score:6212
+numComments:140
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,27 @@
+title:
+YSK: There is no such thing as a "better" HDMI cable - if it appears to be working well, it is working perfectly.
+
+content:
+From HDMI.org:
+
+"There are five HDMI cable types to choose from, each designed to meet a particular performance standard"
+
+There are only 5 distinct types of HDMI cables, and if you are using the right type, there is no difference between how the cable will perform, if it indeed follows the official HDMI specification.  The types are as follows:
+
+* Standard HDMI Cable (up to 1080i or 720p)
+* Standard HDMI Cable with Ethernet (same as above with ethernet data channel)
+* Standard Automotive HDMI Cable (for use in automotive systems)
+* High Speed HDMI Cable (for anything 1080p or above)
+* High Speed HDMI Cable with Ethernet (same as above with ethernet data channel)
+
+Any other "specification" or "feature" listed on a cable's packaging is not going to make a difference in terms of what is being relayed through the cable.  There are different versions of HDMI (e.g.: 1.2, 1.3, etc.) that have added new features along the way, but the fact remains that if a display device connected via HDMI is showing a picture, it is working 100% and the quality cannot be "improved" by purchasing a $250 cable with a thicker diameter and unobtainium plated connectors.
+
+[Source] (http://www.hdmi.org/)
+
+url:https://reddit.com/r/YouShouldKnow/comments/1cmvlr/
+author:shockdroids
+subreddit:YouShouldKnow
+score:1323
+numComments:167
+isOver18:False
+hasPostBody:True

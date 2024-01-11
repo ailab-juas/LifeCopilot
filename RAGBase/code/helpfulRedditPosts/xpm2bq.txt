@@ -1,0 +1,19 @@
+title:
+LPT: When getting a new Windows PC, uninstall any anti virus software it came with and just use Windows Defender.
+
+content:
+Windows Defender comes with Windows 10 and 11, but it turns itself off if you have another antivius app. The two most popular antivius apps are McAfee and Norton. Windows Defender works just as good as both of those if not better, is free, doesn't use nearly as many system resources, and won't bug you every hour over stupid stuff.
+
+There are other apps you can get to compliment Windows Defender but most people, if they are smart about their internet usage, don't really need anything more.
+
+Save yourself some money, and make your pc just a little bit faster by not using those antiqued antivius apps and stick with the free built in Defender. Your pc will be much happier going forward as will you.
+
+Edit: Hey linux people, we get it, you use the command line and shit. Nobody cares about your godlike computer skills.
+
+url:https://reddit.com/r/LifeProTips/comments/xpm2bq/
+author:RjBass3
+subreddit:LifeProTips
+score:5010
+numComments:445
+isOver18:False
+hasPostBody:True

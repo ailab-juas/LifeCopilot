@@ -1,0 +1,15 @@
+title:
+YSK: if you need to speak into a microphone speak directly at the top and about 2 inches away.
+
+content:
+Why YSK: the difference between doing it right and even slightly wrong makes a huge difference in the quality of sound that your audience hears. Rarely will someone come up and fix it for you mid speech so u will just sound badly.
+
+Edit 1: I understand this does not apply to every microphone but it probably applies to about 95% of the situations in which you would be asked to speak to address a crowd.
+
+url:https://reddit.com/r/YouShouldKnow/comments/v4s6eg/
+author:fusionblast
+subreddit:YouShouldKnow
+score:1473
+numComments:78
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,31 @@
+title:
+YSK that Bing Maps is much more accurate than Google Maps for locating addresses, but Google is better with giving directions.
+
+content:
+This seems contradictory, but let me explain.
+
+I am a route auditor for a local solid waste hauling company (garbage). I ensure all routes are efficient and all accounts are up to date with no errors in their routing or any other information.
+
+When we get new accounts in, or accounts are having issues with our service, I have to look up the account's addresses and go from there to determine the best route or to find out if they were placed on the correct route.
+
+9 times out of ten, Bing Maps is much more accurate and correct at finding addresses than Google Maps. Most of our accounts are located in rural West Virginia, and many times Google is listing roads with outdated road names and incorrect addresses, or it can't even find the addresses to begin with. Not to mention it will list the address in a completely wrong location, even. Like in the middle of the forest...
+
+Bing I have found is almost always correct with road names, latitude and longitude location, and addresses.
+
+As per my job, I also use County Assesor's maps to verify addresses as well, and once again, Google has proven to be more inaccurate with there pin-point lat-long placements compared to Bing. Bing is almost always spot-on.
+
+&amp;#x200B;
+
+That said, Bing is HORRIBLE with directions, with many times resulting in no suitable directions available between 2 locations. So I use google most of the time, but I hand place pins if Google can't find the address that Bing found.
+
+&amp;#x200B;
+
+One last thing. As good as bing is with finding addresses and roads, their search engine is absolute shit. 0/10 would not recommend. Thanks for reading.
+
+url:https://reddit.com/r/YouShouldKnow/comments/cbv74y/
+author:BlightBorn
+subreddit:YouShouldKnow
+score:8705
+numComments:270
+isOver18:False
+hasPostBody:True

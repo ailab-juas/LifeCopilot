@@ -1,0 +1,13 @@
+title:
+YSK that Mother’s Day (US) is next Sunday, May 9.
+
+content:
+Why YSK: if you’re going to mail something, you need to send it soon.
+
+url:https://reddit.com/r/YouShouldKnow/comments/n1tqzn/
+author:rotflolosaurus
+subreddit:YouShouldKnow
+score:1043
+numComments:36
+isOver18:False
+hasPostBody:True

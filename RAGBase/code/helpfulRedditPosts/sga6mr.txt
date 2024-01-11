@@ -1,0 +1,13 @@
+title:
+LPT: When someone has a habit of replying "huh" after you say something do not instantly repeat what you said.
+
+content:
+From my experience, usually, people do in fact hear what you said and it is just a natural reaction to say "huh" to buy more time or just out of instinct. Often times if you just let it sit for a few seconds they will end up replying regardless to your initial comment.
+
+url:https://reddit.com/r/LifeProTips/comments/sga6mr/
+author:Dopeyting
+subreddit:LifeProTips
+score:3086
+numComments:303
+isOver18:False
+hasPostBody:True

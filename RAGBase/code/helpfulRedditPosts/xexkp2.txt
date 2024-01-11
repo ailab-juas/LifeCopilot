@@ -1,0 +1,17 @@
+title:
+LPT: Most cars with push button start rely on the key fob with a working battery. So always keep a spare in the car!
+
+content:
+EDIT: SPARE BATTERY THAT IS
+
+I learned it the hard way with my Mazda 3. In the middle of the night I was at a petrol station and my key fob battery gave up. This meant the push button could no longer turn on the car engine. The little store at the service station didn't have the CR2025 batteries. Neither did the supermaket 1 km down the road, but I finally found it from a third store. Made sure to get a pack and now keeping the spare in the car for when this happens again in the future :)
+
+EDIT: I did try the workaround of pushing the button with the key fob itself. I'm not sure if that requires the key fob battery to still have some life in it, because unfortunately it didn't work for me. The push button light remained red and the engine didn't start. FYI the video explainer [Link Here](https://youtu.be/p5iwTUYOKWs).
+
+url:https://reddit.com/r/LifeProTips/comments/xexkp2/
+author:Individual_Walk7032
+subreddit:LifeProTips
+score:1851
+numComments:339
+isOver18:False
+hasPostBody:True

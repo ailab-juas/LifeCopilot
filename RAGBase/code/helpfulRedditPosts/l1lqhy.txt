@@ -1,0 +1,47 @@
+title:
+LPT: if you have a DSLR, use it as a high quality webcam for free
+
+content:
+If you're like anyone else and you're taking a lot of meetings on Zoom (or Teams or WebX or Meet, etc.), one of the best things you can do is have a nice quality camera. The built-in cameras on laptops and desktops usually have a very wide angle, poor-quality lens, and have to run at high ISO in slightly dim settings, which leads to a lot of noise when the room isn't incredibly bright.
+
+Up until recently, if you wanted good quality video on a video conferencing app, you'd have to buy a webcam, which could get pretty expensive. The other option was to buy a video switcher with software (like OBS) and use that to interface your DSLR with your computer.
+
+In 2020, it got a lot easier. Manufacturers like Canon, Nikon, Fujifilm and others released free webcam software to easily use your DSLR as a webcam. All you need is a USB-to-mini-HDMI cable or USB-to-mini-USB cord, depending on your camera's port.
+
+**Here are some links to the webcam utilities of the most popular manufacturers:**
+
+[Canon EOS and Powershot](https://www.usa.canon.com/internet/portal/us/home/support/self-help-center/eos-webcam-utility)
+
+[Nikon](https://www.nikonusa.com/en/learn-and-explore/webcam-utility.page)
+
+[Fujifilm](https://fujifilm-x.com/en-us/support/download/software/x-webcam/)
+
+[Panasonic LUMIX - Beta](https://www.panasonic.com/global/consumer/lumix/lumix_webcam_software.html)
+
+[Sony](https://support.d-imaging.sony.co.jp/app/webcam/en/download/)
+
+[GoPro](https://community.gopro.com/t5/en/How-to-Use-Your-GoPro-as-a-Webcam/ta-p/665493)
+
+[Olympus](https://learnandsupport.getolympus.com/olympus-om-d-webcam-beta)
+
+Tip: make sure your model camera is supported by the software. Some manufacturers only support a selection of models.
+
+Credit for much of the content of this post goes to [Maarten Heilbron](https://www.youtube.com/watch?v=XZfIbNGccgw), who runs a great YouTube channel on photography, videography, and sound.
+
+EDIT: added GoPro to the list, credit to u/Gamereric21
+
+EDIT 2: yes, you can also use an old phone as a dedicated webcam if you don't have a DSLR. However, just like you wouldn't buy a new phone just to use as a webcam, I don't think most people are going out and buying DSLRs for webcam use. If you happen to *already have* a DSLR, the quality difference between a phone camera lens and a proper camera lens is massive.
+
+EDIT 3: be aware that most of these utilities output at 1024x576. If you want even higher resolution, you'll need to buy a capture card. Credit to u/universal_rehearsal.
+
+EDIT 4: added Olympus to the list, credit to u/The_Arjdroid
+
+EDIT 5: according to u/pauljs75, using older DSLRs as a webcam for extended periods *can* cause sensor burnout, leading to more noise and blown pixels. If you have the choice, aim for cameras with more notable video features over still features.
+
+url:https://reddit.com/r/LifeProTips/comments/l1lqhy/
+author:NegativeBee
+subreddit:LifeProTips
+score:6200
+numComments:287
+isOver18:False
+hasPostBody:True

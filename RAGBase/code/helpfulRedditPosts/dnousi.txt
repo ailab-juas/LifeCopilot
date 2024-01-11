@@ -1,0 +1,13 @@
+title:
+LPT: Study in the hour before you go to bed to maximize retention for learning material. Learning information right before you go to bed has been proven to lead to higher levels of recognition.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/dnousi/
+author:Lemonade__728
+subreddit:LifeProTips
+score:3778
+numComments:103
+isOver18:False
+hasPostBody:False

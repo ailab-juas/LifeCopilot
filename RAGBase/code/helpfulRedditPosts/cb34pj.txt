@@ -1,0 +1,19 @@
+title:
+YSK that private/incognito mode on your browser does not protect your privacy
+
+content:
+ 
+
+Sure, when you close the browser in incognito mode it erases history. You can also do that manually in regular browser mode. Still, what you searched can still be found on your computer by someone with tech savvy even after you deleted the history on your browser from you Pornhub visit.
+
+AND, your internet service provider (ISP) can still see - and sell your search history - to all sites you visited in incognito mode, AND 3rd party cookies by Google and the like can still see what sites you visit in incognito mode to use for advertising.
+
+If you truly want privacy, you will need a virtual private network (VPN - and pay $5 a month for one as the free ones track you) so your ISP can't see what sites you visit and a privacy browser like Brave browser that blocks 3rd party cookies and other trackers. Google search also tracks you, but Startpage gives exact Google results with no tracking. Do those three things with browser in private/incognito mode, and you will have actual privacy (there is more you can do, but that is a solid basic start).
+
+url:https://reddit.com/r/YouShouldKnow/comments/cb34pj/
+author:blue_pill_90210
+subreddit:YouShouldKnow
+score:2122
+numComments:234
+isOver18:False
+hasPostBody:True

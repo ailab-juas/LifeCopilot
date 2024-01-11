@@ -1,0 +1,15 @@
+title:
+YSK that Abbott is offering baby formulas that were previously on hold for free with a doctor’s recommendation.
+
+content:
+If you are in need, call Abbott directly at 1-800-881-0876.
+
+Why YSK: As all parents of infants in the US know, there is a terrible shortage of infant formula right now.  If you are in need, and your doctor will vouch for that, this could help you through the shortage.
+
+url:https://reddit.com/r/YouShouldKnow/comments/upoxi6/
+author:ExNihiloAdInfinitum
+subreddit:YouShouldKnow
+score:7791
+numComments:516
+isOver18:False
+hasPostBody:True

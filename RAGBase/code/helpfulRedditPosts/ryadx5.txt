@@ -1,0 +1,27 @@
+title:
+YSK In the US, it is illegal for for-profit companies to offer unpaid internships unless a very strict set of criteria is met.
+
+content:
+Why YSK: Companies will often try to exploit folks who are desperate to get into a field of work. They will offer unpaid internships when they absolutely should be paying you. 
+
+Unpaid internships MUST be for the benefit and education of the intern, not the company to be legal.
+
+1. The intern is aware that they will be uncompensated.
+2. Training is comparable to training received at an educational institution.
+3. The internship is tied to the intern's current educational program (e.g., with academic credit).
+4. The internship accommodates that intern's academic calendar.
+5. The internship is limited to the period during which the intern receives beneficial learning.
+6. The intern's work complements (not replaces) existing employees' work, while still providing beneficial learning.
+7. It is understood that the internship does not provide entitlement to a job at its conclusion.
+
+Non-profit organizations like charities, the government, and schools can offer unpaid internships that do not meet these qualifications.
+
+Many many unscrupulous companies offer illegal unpaid internships when they should be paying you. If you did an unpaid internship that did not meet these criteria (and many dont!), it may be worth talking to a lawyer or reporting the company to the Department of Labor.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ryadx5/
+author:LearningFinance23
+subreddit:YouShouldKnow
+score:2258
+numComments:51
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Since Adblock Plus automatically allows acceptable ads by default, beware of websites that request you whitelist them. They are far more likely to be serving up malware or crypto-miners.
+
+content:
+If their ads were acceptable, they wouldn't have been blocked to start with.
+
+url:https://reddit.com/r/LifeProTips/comments/8h00i5/
+author:RavingRationality
+subreddit:LifeProTips
+score:1718
+numComments:156
+isOver18:False
+hasPostBody:True

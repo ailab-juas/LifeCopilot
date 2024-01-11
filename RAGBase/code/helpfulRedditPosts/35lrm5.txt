@@ -1,0 +1,19 @@
+title:
+LPT: Avoid the second person ("you") in discussions or arguments as they needlessly make the stakes of the conversation personal.
+
+content:
+Examples:
+
+* Instead of "Why do **you** think abortion should be illegal?" use "Why should abortion be illegal?"
+* Instead of "Why do **you** think we should introduce this product?" use "Why should we introduce this product?"
+* Instead of "**You** want to go to Restaurant A, or we could go to Restaurant B" use "We could go to Restaurant A, or we could go to Restaurant B."
+
+Using the second person implies that the other person is invested in an idea that you oppose, which turns an abstract conversation into a personal one.  Avoiding "you" makes it more difficult for a discussion to take a combative turn.  
+
+url:https://reddit.com/r/LifeProTips/comments/35lrm5/
+author:disposable_pants
+subreddit:LifeProTips
+score:3844
+numComments:370
+isOver18:False
+hasPostBody:True

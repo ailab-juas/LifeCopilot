@@ -1,0 +1,13 @@
+title:
+LPT: Never expect gratitude. Instead, assume your work will always go unnoticed. That way you can be genuinely thankful when someone does show appreciation instead of being constantly letdown.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5n5bk5/
+author:zach461
+subreddit:LifeProTips
+score:1054
+numComments:43
+isOver18:False
+hasPostBody:False

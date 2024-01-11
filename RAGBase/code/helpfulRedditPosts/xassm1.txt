@@ -1,0 +1,29 @@
+title:
+LPT - How you format your resume MATTERS
+
+content:
+Hi there! I am a former tech recruiter and I have sifted through thousands of resumes throughout my career. A couple of tips:
+
+&amp;#x200B;
+
+1)Have an easy-to-read resume file name. First name + last name+ “resume”. Example John\_Smith\_Resume.
+
+&amp;#x200B;
+
+2) Use bullet points!!! Long paragraphs are a no-no and we do not want to read them. We look for keywords.
+
+&amp;#x200B;
+
+3) each bullet point should start with a verb. What did you do, and what was the result? Ex: “Created a customer analytics dashboard that helped team increase revenue by 10%”.
+
+&amp;#x200B;
+
+Feel free to dm or comment if you have questions!
+
+url:https://reddit.com/r/LifeProTips/comments/xassm1/
+author:blairstones95
+subreddit:LifeProTips
+score:1957
+numComments:167
+isOver18:False
+hasPostBody:True

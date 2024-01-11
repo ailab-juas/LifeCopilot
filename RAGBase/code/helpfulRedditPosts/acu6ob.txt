@@ -1,0 +1,21 @@
+title:
+YSK that if you change your Google Play country setting to a different country (say, while traveling), Google won't let you change back for 1 year.
+
+content:
+I just completed a trip abroad for three weeks and while I was there, I decided to change my Google Play country setting so that I could download and use local apps. Google didn't give me a warning or anything, they just let me do it. Now that I'm back home, I wanted to change it so I could get back to using Play Store US and Google does not have the option. They straight up removed that selection, and when I looked up the [help/support page](https://support.google.com/googleplay/answer/7431675?hl=en), they say that I can't change my country for a whole year. 
+
+This is incredibly frustrating for frequent travelers. 
+
+~~Edit: as far as I'm aware, there is no way to contact Google directly to fix this. They don't have a customer service email or number to call. Google Productforums seems to be one option, although there's no guarantee of a response there. If anyone knows a way to talk to a _human being_ at Google about this, please let us know.~~
+
+#EDIT 2: There's a call option in the Help and Feedback section in the Play Store sidebar. They call back within 30 seconds and help you out. 
+
+#TL;DR: you have to pick one payment profile and remove all others for it to reset. You can do this on the [Google Payments](https://pay.google.com) page. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/acu6ob/
+author:diveintothe9
+subreddit:YouShouldKnow
+score:2227
+numComments:46
+isOver18:False
+hasPostBody:True

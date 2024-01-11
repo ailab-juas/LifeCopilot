@@ -1,0 +1,13 @@
+title:
+LPT: Find a barber that actually tells you what your hairstyle should be, not one that says “well you tell me, you’re the one that has to wear it!” A proper barber is trained not just to cut hair, but to achieve symmetry with your face shape, jaw line, hair line, etc.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/qbdpwp/
+author:SoupIsAHotSmoothie
+subreddit:LifeProTips
+score:13626
+numComments:418
+isOver18:False
+hasPostBody:False

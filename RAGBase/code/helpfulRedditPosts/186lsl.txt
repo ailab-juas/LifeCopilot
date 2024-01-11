@@ -1,0 +1,13 @@
+title:
+YSK about Spoon.net which allows you to use applications hosted over the cloud, without installing them, as if you've installed them to your computer.
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/186lsl/
+author:greendabre
+subreddit:YouShouldKnow
+score:1069
+numComments:53
+isOver18:False
+hasPostBody:False

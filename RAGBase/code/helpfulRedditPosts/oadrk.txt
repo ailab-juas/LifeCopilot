@@ -1,0 +1,13 @@
+title:
+LPT: Make double batches of soup and freeze the extra in a muffin pan.  Store them in a freezer bag and defrost one serving for a quick meal.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/oadrk/
+author:potator
+subreddit:LifeProTips
+score:1040
+numComments:73
+isOver18:False
+hasPostBody:False

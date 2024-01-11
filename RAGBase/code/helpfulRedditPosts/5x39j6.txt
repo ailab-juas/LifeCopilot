@@ -1,0 +1,13 @@
+title:
+LPT: If you're doing renovations and not sure how it looks because you have seen it so many times, film it with an app that mirror images it. It's like seeing it for the first time
+
+content:
+I use photo booth on my Mac air 
+
+url:https://reddit.com/r/LifeProTips/comments/5x39j6/
+author:picketcricket
+subreddit:LifeProTips
+score:12781
+numComments:437
+isOver18:False
+hasPostBody:True

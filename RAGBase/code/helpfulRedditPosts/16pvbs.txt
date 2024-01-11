@@ -1,0 +1,18 @@
+title:
+LPT: Want to make your computer start up faster? Search 'msconfig' in taskbar, go to 'startup', deactivate programs you don't want started until you manually start them.
+
+content:
+See figure for details:
+
+http://imgur.com/z8LV1
+
+
+edit: dont uncheck things that you dont recognize... the point of this is to minimize startup time by not allowing such programs as Skype, Steam, Quicktime, iTunes, etc (nonessential programs) to be started when you start your computer
+
+url:https://reddit.com/r/LifeProTips/comments/16pvbs/
+author:Suq
+subreddit:LifeProTips
+score:1189
+numComments:143
+isOver18:False
+hasPostBody:True

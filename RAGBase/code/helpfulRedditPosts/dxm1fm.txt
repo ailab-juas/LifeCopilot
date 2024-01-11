@@ -1,0 +1,41 @@
+title:
+YSK to use Power button on microwave because not all food need blast of high heat
+
+content:
+I initially looked into this because I didn't want to reheat food in plastic container on high heat.
+
+Set time + Power + # for power level (1 - 10 with 1 being lowest) + Start
+
+[https://www.cooksillustrated.com/articles/1843-microwave-cooking-when-to-use-the-power-levels](https://www.cooksillustrated.com/articles/1843-microwave-cooking-when-to-use-the-power-levels)
+
+Tips for Using Your Microwave’s Power Levels
+
+**HIGH POWER-**No need to lower power level when:
+
+Heating water (or watery soups or beverages)
+
+Making popcorn (or other foods less than ½ inch thick)
+
+**MED**:  Lower power level to 50 percent when: 
+
+Heating/reheating foods that can’t be stirred, such as lasagna, frozen chicken, potatoes
+
+Bringing food to specific temperatures: softening butter, tempering chocolate
+
+**LOW**: Lower power level OR stir frequently when:
+
+Heating dairy-based foods such as chowder that can curdle 
+
+Heating splatter-prone foods such as tomato sauce 
+
+Melting splatter-prone butter
+
+EDIT: Thank you for all who contributed in the comment section about the technical part of this, especially about the heat level doesn't go down but rather the heating process stops momentarily.  TIL.
+
+url:https://reddit.com/r/YouShouldKnow/comments/dxm1fm/
+author:nuocmam
+subreddit:YouShouldKnow
+score:6908
+numComments:308
+isOver18:False
+hasPostBody:True

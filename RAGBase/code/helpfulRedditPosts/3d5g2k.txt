@@ -1,0 +1,23 @@
+title:
+LPT: Turn the sharpness of your TV down to 0. Anything above 0 sharpness is artificial sharpening added by your TV and ruins the image quality.
+
+content:
+Final edit (everything else was erased): OOOOOOOOOOOkay. Many of you who are commenting feel that my post is either condescending, rude, or bossy. I'm not sure where that is coming from, because I posted this with the intention to help people improve their picture quality. Trust me, I will never post in lpt again after all of this bs.
+
+In hindsight, I should have posted that you should *try* setting your sharpness at 0, to see if you like it, because *most* tvs default with artificial sharpening on. Forgive me for saying something absolute rather than leaving a bit of wiggle room in there.
+
+Another thing people keep saying is that a lower than native resolution image will actually be improved with some artificial sharpening. Personally, I disagree and I will post two images below. The first is a 480p image being played on what I think is a 720p television (I'm in a hotel so forgive me for not knowing exactly what it is). The second image is that same television with the sharpness turned on.
+
+[Sharpness off](http://i.imgur.com/1ozYVjr.jpg)
+
+[Sharpness on](http://i.imgur.com/H7DDcUE.jpg)
+
+Do you see how much smoother the lines are with the sharpness off? The sharpness setting just exaggerates the aliasing and makes the image look awful.
+
+url:https://reddit.com/r/LifeProTips/comments/3d5g2k/
+author:ToTouchAnEmu
+subreddit:LifeProTips
+score:1586
+numComments:174
+isOver18:False
+hasPostBody:True

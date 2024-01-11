@@ -1,0 +1,25 @@
+title:
+YSK how to identify the older, safer 'PYREX' glass from the newer, "exploding" 'pyrex' glass cookware.
+
+content:
+A couple of decades ago, Corning sold the Pyrex brand name to another company called World Kitchen.  Unfortunately, they changed the formula for the glass, and the new dishes have a reputation for *exploding*.  (Not just breaking or cracking, but actually exploding in the microwave or convection oven.)    
+  
+So, how can you tell whether you have older or newer Pyrex?  From the website [Frugalista Files](http://www.network54.com/Forum/500426/thread/1335966143/Identifying+old+vs+new+clear+Pyrex):  
+  
+&gt;According to Wikipedia, Corning's responsibility extends to this formality:
+
+&gt;When trademarked as PYREX® (all UPPER CASE LETTERS plus, in the USA, a trademark notice comprising a capital R in a circle) the trademark includes clear, low-thermal-expansion borosilicate glass used for laboratory glassware and kitchenware, plus other kitchenware including opaque tempered high-thermal-expansion soda-lime glass, pyroceram, stoneware, and metal items See. e.g.,http://www.amazon.co.uk/s?index=kitchen-uk&amp;field-keywords=pyrex. European trademark usage differs from American and the encircled "R" is not present on European PYREX items.
+
+&gt;When trademarked as pyrex® (all lower case letters plus a trademark notice comprising a capital R in a circle) the trademark includes clear tempered high-thermal-expansion soda-lime glass kitchenware, plus other non-glass kitchenware, made by World Kitchen. See, e.g.,http://www.amazon.com/s/ref=bl_sr_kitchen?node=1055398&amp;field-brandtextbin=Pyrex
+
+So, in short, look for the trademark in ALL UPPERCASE LETTERS.  
+
+I checked mine, and it looks like I have about half old, and half new.  But now I know what to look for when scouring the thrift stores to replace by cookware.
+
+url:https://reddit.com/r/YouShouldKnow/comments/7h7ehf/
+author:mlhradio
+subreddit:YouShouldKnow
+score:2826
+numComments:109
+isOver18:False
+hasPostBody:True

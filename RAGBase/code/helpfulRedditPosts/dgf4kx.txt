@@ -1,0 +1,48 @@
+title:
+YSK You Can Make it Illegal For Telemarketers to Call You
+
+content:
+The countries all have different rules, however, they are mostly similar
+
+* You can only register a home or mobile phone
+* Once you do so, telemarketers have 30 (or so) days before it is completely illegal for them to call you, punishable by fine
+* Some charities, political organisations, research companies and educational institutions are except from this (depending on the country)
+* This does extend to overseas businesses
+
+Here are some countries that have one, if you find more, I will add them.
+
+* [Do Not Call Register (Australia)](https://www.donotcall.gov.au/)
+* [National Do Not Call List (Canada)](https://lnnte-dncl.gc.ca/en)
+* [National Customer Preference Register (India)](http://www.nccptrai.gov.in/nccpregistry/) or [NDNC](http://ndnc.net/)
+* [New Zealand Name Removal Service](https://www.marketing.org.nz/Services/Do_Not_Call)
+* [Telephone Preference Service (United Kingdom)](https://www.tpsonline.org.uk/tps/number_type.html)
+* [National Do Not Call Registry (United States)](https://www.donotcall.gov/) **(See edit No. 1 and read the comments, apparently it doesn't work)**
+* [Do Not Call Registry (Singapore)](https://www.dnc.gov.sg/index.html)
+* [The DMA National OPT OUT Database (South Africa)](https://www.nationaloptout.org/)
+* [The Robinson List (Denmark)](https://www.borger.dk), found the [exact page!](https://www.borger.dk/Handlingsside?selfserviceId=721aa293-dae3-4199-829a-16367a318672&amp;referringPageId=18590414-2f02-4e33-8b94-7813c88ee88d&amp;type=DK), thank you u/Nosyeye!
+* [Registro Nacional No Llame (Argentina)](http://www.nollame.gob.ar/)
+* [Finland](https://www.maistraatti.fi/fi/Palvelut/tietopalvelut/Tietojenluovutuskiellot/)
+* [Nix Telefon (Sweden)](https://www.nixtelefon.org/)
+* [Bloctel (France)](http://www.bloctel.gouv.fr/)
+* [Bel Me Niet Register (Netherlands)](https://www.bel-me-niet.nl/)
+* [Não Me Perturbe (Brazil)](https://www.naomeperturbe.com.br)
+* [Registro delle Opposizioni (Italy)](http://www.registrodelleopposizioni.it/)
+* [Registro Público para Evitar Publicidad (Mexico)](https://www.gob.mx/profeco/documentos/librate-de-las-llamadas-y-mensajes-molestos-de-publicidad?state=published)
+* [Robinsonliste (Austria)](https://www.wko.at/branchen/information-consulting/werbung-marktkommunikation/robinsonliste.html)
+* [Ne Zovi (Croatia)](https://rnz.hakom.hr/)
+
+Your number is essentially added to a list that telemarketers are legally required to check against when they make calls, meaning, after adding your number, you shouldn't receive any more telemarketing calls. If they still call, you can report them to the relevant authority.
+
+This may be a repost, but I feel that it's pretty important.
+
+**EDIT:** Looking at a lot of comments, the US site apparently doesn't work that well and telemarketers still call, I am an Australian citizen, and our service has worked for me, perfectly. According to [this user](https://www.reddit.com/r/YouShouldKnow/comments/dgf4kx/ysk_you_can_make_it_illegal_for_telemarketers_to/f3bb2zz?utm_source=share&amp;utm_medium=web2x) the US service may even increase the number of calls received, so maybe try it out for a bit, to see if it works for you. I have also edited the list, and added some more countries.
+
+**EDIT 2: Attack of the Clones** Some people in America are suggesting using [nomorobo](https://www.nomorobo.com/). And also to contact your local US House representative to have them support the passing of the [TRACED Act](https://www.govtrack.us/congress/bills/116/s151)  according to the [top comment.](https://www.reddit.com/r/YouShouldKnow/comments/dgf4kx/ysk_you_can_make_it_illegal_for_telemarketers_to/f3bbvi3?utm_source=share&amp;utm_medium=web2x)
+
+url:https://reddit.com/r/YouShouldKnow/comments/dgf4kx/
+author:Pyraxil
+subreddit:YouShouldKnow
+score:10695
+numComments:477
+isOver18:False
+hasPostBody:True

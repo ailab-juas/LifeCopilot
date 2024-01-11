@@ -1,0 +1,13 @@
+title:
+LPT: If someone attempts to do something, especially for the first time, don't encourage them by telling them it's easy, it puts pressure on them to do it right first time and downplays their success when they achieve it.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/61erlu/
+author:BigWaveSmallOcean
+subreddit:LifeProTips
+score:17745
+numComments:405
+isOver18:False
+hasPostBody:False

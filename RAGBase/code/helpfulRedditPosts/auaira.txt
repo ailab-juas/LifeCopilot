@@ -1,0 +1,31 @@
+title:
+YSK: That antibiotics will do nothing for the flu, or any other virus. Antibiotics only work for bacterial related illnesses. Taking antibiotics when not necessary will do nothing to help, and can do more harm by making them less effective in the future.
+
+content:
+Antibiotic resistance is a very real thing and the overuse or misuse of antibiotics can create super strains of bacteria that are immune to antibiotics. 
+
+I just finished up my bachelors of science in Human biology with an emphasis in neuroscience last year. I plan to head into the medical field and I started working at a medical facility. We get an alarming number of people coming in asking for antibiotics because they think they need them for the flu. 
+
+Antibiotics work most often by “punching” holes in a cell wall of a bacteria or by preventing cell walls from being built in the first place. This means the bacteria cannot survive and thus eliminates an infection such as a UTI for example (Urinary Tract Infection).
+
+A virus on the other hand is not a living cell, and is DNA or RNA (genetic material) surrounded by a protein coat. Antibiotics have nothing to “attack” on a virus and as such will do nothing whatsoever to help. 
+
+If you are prescribed antibiotics by a doctor, take the full bottle as prescribed even if you are feeling better towards the end. Not finishing the course can leave traces of the bacteria to regrow, and developing resistance to the antibiotic. 
+
+Source: http://www.drbarrydworkin.com/articles/medicine/infectious-disease-articles/microbiology-101-why-antibiotics-dont-kill-viruses/
+
+Edit: I see this coming up in the comments and it’s a good point so I will add this: 
+Viral infections can cause a secondary bacterial infection if you are left immunocompromised for example. In that case antibiotics can be prescribed as a preventative treatment or to treat an already present bacterial infection.  Though this is not going to be needed for a majority of the people with the flu.
+The classic example of this is AIDS/HIV. It’s not the actual virus that kills you, it’s the fact that it ruins your immune system and you can no longer defend against simple bacteria as before. 
+
+2nd Edit: Thank you for my first gold kind stranger! This post got way more attention that I thought it would. 
+
+Also I’ve had many people commenting that it sounds like I said the doctors don’t know how antibiotics work. Didn’t mean to word it this way. I just meant there is a surprising number of patients that come in thinking antibiotics will cure their flu symptoms. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/auaira/
+author:Almost_Mature
+subreddit:YouShouldKnow
+score:6180
+numComments:196
+isOver18:False
+hasPostBody:True

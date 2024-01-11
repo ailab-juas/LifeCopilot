@@ -1,0 +1,13 @@
+title:
+LPT: If you're roasting a 20 lb turkey for Thanksgiving you should begin thawing it in the fridge today.
+
+content:
+It takes roughly 24 hours to thaw 5 lbs of turkey, so 20 lbs will take 4 days. Putting it in today will  mean it's perfectly thawed by Thursday.
+
+url:https://reddit.com/r/LifeProTips/comments/9y844v/
+author:what_ok
+subreddit:LifeProTips
+score:1609
+numComments:116
+isOver18:False
+hasPostBody:True

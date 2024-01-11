@@ -1,0 +1,17 @@
+title:
+YSK about the Fundamental Attribution Error, a key concept in psychology where we judge others based on their actions but ourselves based on our intent.
+
+content:
+Why YSK: if someone is annoying you or does something that you disagree with, remember that you can’t see inside their thoughts.   
+
+When you cut someone off in traffic, it’s because you were being absentminded or because you’re late to sing lullabies to your newborn, right? But when someone cuts YOU off, it’s because they’re a jerk. You don’t know their inner thoughts, just the result of their actions in the world.   
+
+So: take it easy on your fellow people this holiday season, and remember the fundamental attribution error. You’ll be less stressed, less annoyed, and maybe even happier!
+
+url:https://reddit.com/r/YouShouldKnow/comments/rob9kl/
+author:bearjew64
+subreddit:YouShouldKnow
+score:41288
+numComments:467
+isOver18:False
+hasPostBody:True

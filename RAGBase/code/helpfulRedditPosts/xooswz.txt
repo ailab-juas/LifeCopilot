@@ -1,0 +1,21 @@
+title:
+YSK: Air Fryers are just small convection ovens
+
+content:
+Why YSK: You might want to purchase an air fryer for yourself or as a gift to open up new cooking opportunities, without realizing that you may already be able to do the same thing with cooking instruments you already have.
+
+Air fryers popped up as a "hot new" kitchen gadget a few years ago, but their cooking mechanism is something that has already existed for a long time.  It's called "convection cooking" and involves heating the air and also using a fan to circulate the air inside the cooking cooking area, which gets more heat to the surface of food and tends to make things more crispy than standard, still-air baking.
+
+Before buying an air-fryer, check if your oven has a "convection" setting.  If it does, you can use that setting to get the same results as using an air fryer.  If you have a [countertop toaster oven](https://imgur.com/AIOzuU1.jpg), check this as well since many of them also have a convection setting.  Either of these options will provide a higher capacity than most air fryers.
+
+If you don't have a kitchen device that does convection cooking, and want to air fry, you may also consider getting a convection toaster oven instead of an air fryer, since it is more versatile and has a larger capacity (though also a larger footprint and usually more expensive).
+
+e: This post has shown me why the "disable inbox replies" option exist.  Some of you get really defensive about your air fryers.
+
+url:https://reddit.com/r/YouShouldKnow/comments/xooswz/
+author:kabukistar
+subreddit:YouShouldKnow
+score:3397
+numComments:405
+isOver18:False
+hasPostBody:True

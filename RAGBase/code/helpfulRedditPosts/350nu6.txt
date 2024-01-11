@@ -1,0 +1,15 @@
+title:
+LPT: A few changes to Chrome extensions that may dramatically speed up your computer.
+
+content:
+I often have a lot of tabs open in Chrome.  My somewhat old computer used to lock up when switching tabs and it would take forever to even close a tab.  At times, Chrome would use over half of my system resources.  I thought I had a virus that the antivirus software was missing but it turns out it was just Chrome and some extensions.  First, I disabled all the extensions that I never use, which seemed to help a bit.  Another thing that helped quite a bit was ditching AdBlock and getting [uBlock](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) instead.  This cut down on memory usage quite a bit.  The thing that helped a ton was [The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg?hl=en) which suspends tabs that have been open for a while and frees up resources.  Now my computer runs like new again.  
+
+No, I'm not affiliated with those software companies.
+
+url:https://reddit.com/r/LifeProTips/comments/350nu6/
+author:cbbuntz
+subreddit:LifeProTips
+score:4990
+numComments:902
+isOver18:False
+hasPostBody:True

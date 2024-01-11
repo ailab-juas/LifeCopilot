@@ -1,0 +1,15 @@
+title:
+YSK searching for jobs via Google will check all the job sites at once.
+
+content:
+Forgive me if this is a DUH thing to share. But I’ve come across several people who were not aware of this, so passing along the info in case it helps anyone else! 
+
+Why YSK: If you google jobs, it checks every job site. And it organizes like a job search site where you can filter specifics and save listings.
+
+url:https://reddit.com/r/YouShouldKnow/comments/yto6ht/
+author:jup1ter20
+subreddit:YouShouldKnow
+score:6634
+numComments:83
+isOver18:False
+hasPostBody:True

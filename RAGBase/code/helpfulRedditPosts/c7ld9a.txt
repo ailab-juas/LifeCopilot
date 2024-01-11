@@ -1,0 +1,13 @@
+title:
+LPT: Treat your monthly savings goal like a bill. At the end of the month, hold yourself accountable to “pay it off” like you would your rent or your utilities. This will keep you on track for your savings goals.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/c7ld9a/
+author:_Zelko_
+subreddit:LifeProTips
+score:23605
+numComments:500
+isOver18:False
+hasPostBody:False

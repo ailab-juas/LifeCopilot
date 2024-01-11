@@ -1,0 +1,13 @@
+title:
+YSK That you can put non-professional things in resumes as well
+
+content:
+If you’re talent, hobbies or out of work activities require a certain skill or characteristic that relates to the job, you can absolutely use it as a skill reference. Companies like to see growth outside of work in their perspective employees as well.
+
+url:https://reddit.com/r/YouShouldKnow/comments/f4iegx/
+author:ItsJustGrandpa
+subreddit:YouShouldKnow
+score:10418
+numComments:506
+isOver18:False
+hasPostBody:True

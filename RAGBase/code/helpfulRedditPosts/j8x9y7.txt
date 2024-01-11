@@ -1,0 +1,21 @@
+title:
+YSK that if you sleep five hours or less a day, you will probably have false memories and your memory will suffer
+
+content:
+Why YSK: This information helped me a lot, because I am studying psychology and I began to wake up a lot, so much that I barely slept two or three hours a day for work and study, to the point that I began to create false memories of things that I had supposedly done, that I had read, which he had seen, but they were false memories. 
+
+A fellow student realized what was happening and sent me to read the study and from there I began to sleep for more hours, so you should know that this information will be useful at some point in case you sleep very few hours or in the case that you hear a false memory of another person. In my case, when someone remembers something that has not happened or that nobody has said, the first thing I do is ask how many hours they sleep.
+
+Source: https://time.com/3328149/sleep-deprivation-false-memories/
+
+https://www.researchgate.net/publication/264010267_Sleep_Deprivation_and_False_Memories
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3768102/
+
+url:https://reddit.com/r/YouShouldKnow/comments/j8x9y7/
+author:Marte1984
+subreddit:YouShouldKnow
+score:41017
+numComments:1038
+isOver18:False
+hasPostBody:True

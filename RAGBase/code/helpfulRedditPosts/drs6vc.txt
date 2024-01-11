@@ -1,0 +1,13 @@
+title:
+LPT: Inflation is currently ~2% per year. If you are not getting more than that per year as a raise, you are getting a pay cut. Make sure to take inflation into account when you get a raise.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/drs6vc/
+author:Mi-yeon_2
+subreddit:LifeProTips
+score:60297
+numComments:2766
+isOver18:False
+hasPostBody:False

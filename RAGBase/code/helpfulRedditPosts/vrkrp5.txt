@@ -1,0 +1,13 @@
+title:
+LPT - If you're studying your country's history, make sure to read sources external to your country in addition to the popular texts in your country. For example if you're reading about a war, read sources from the opposing country too. You will get a more balanced understanding of the event
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/vrkrp5/
+author:wine-friend
+subreddit:LifeProTips
+score:2561
+numComments:94
+isOver18:False
+hasPostBody:False

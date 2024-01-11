@@ -1,0 +1,13 @@
+title:
+LPT: When you are at Target or Walmart and you change your mind about something in your cart, just give it to the cashier. They have a “restock box” and this will prevent unwanted steaks from being abandoned on a random shelf.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/srkktb/
+author:1under50
+subreddit:LifeProTips
+score:2827
+numComments:241
+isOver18:False
+hasPostBody:False

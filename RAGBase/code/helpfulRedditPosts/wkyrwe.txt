@@ -1,0 +1,31 @@
+title:
+YSK how to accommodate hidden disabilities.
+
+content:
+Why YSK: In a recent meeting, I mentioned making our workplace a bit more accessible. The response was "If someone needs it, we'll build a ramp". It's so valuable to understand and be able to meet the needs of people around you, especially if your work or personal life involve diverse groups of people. Thus, I've compiled a list of a few ways to accommodate the unique needs that can, at one point or another, impact all of us. 
+
+I have listed permanent or semi-permanent conditions under a few types of disability, but it is completely possible people temporarily experience these things. For instance, someone with a severe cold might temporarily have similar difficulty moving or breathing as someone with a chronic condition. Because it can be frustrating to explain a chronic condition to everyone in order to receive accommodation, there are many things we can do by default to make life just a bit easier for everyone.
+
+**Sensory Disorders.** Autism, OCD, chronic anxiety, and a number of other conditions can come with sensory processing disorders, in which a loud, bright, smelly, or otherwise intense environment can become completely overwhelming. To accommodate sensory disorders, it is often helpful to turn down the lights, turn off any extra noise, and avoid touching the person unless asked to do so. Sometimes, sensory issues mean someone has to step out and relax somewhere calm, so it can be valuable to leave a quiet space available if you can. Predictability also helps with sensory disorders, so it is helpful to explain how the environment might change.
+
+**Gastrointestinal Disorders.** It can be confusing at first, but chronic gastrointestinal issues can be crippling. These can include food allergies, IBS, Crohn's/UC, Celiac, and a number of other conditions. These issues can be embarrassing to discuss, so it's good to use discretion. If you are providing food for people, it is always helpful to ask if anyone has dietary restrictions in advance. In situations where you have control over it, it is best to give direct instructions to a restroom. If you work somewhere with a large amount of foot traffic, it can make the difference between a close call and a ruined afternoon if you know the fastest way to a restroom.
+
+**Breathing Conditions.** Asthma and a host of other conditions can make it difficult to breathe. Everyone's situation is different, but in general, it is best to allow people time to sit and rest. It's generally good to be aware of dusty environments, and it's helpful to ask the people around you beforehand if you need to start a project that will stir up a dust or powder.
+
+**Auditory Conditions.** If someone cannot hear or understand you, there are a few ways to communicate effectively. Speak a bit louder than normal and as clearly as you can. If they still do not understand, typing a message on a phone or writing it down can be an effective way to communicate if you don't know sign language.
+
+**Other Conditions.** There are hundreds of ways someone might temporarily or permanently experience disability. When possible, it is good to be aware of the needs of people you're often around (family, friends, coworkers, etc). There are a few general principles to live by:
+
+* If someone expresses the need to go to a quiet or safe place, a restroom, or somewhere private, it is good form to help them find one and offer them privacy once there. 
+* If someone's behavior strikes you as strange but not concerning (i.e. playing with a toy or pen in a meeting), it's probably best to let them do their thing. Accepting different abilities means accepting that some people will act differently than others, and that's okay.
+* If you see a need you can fill, ask before helping someone (especially a stranger). A simple "may I reach that for you?" or "can I help you find something?" can suffice, and it gives people a chance to opt out if they don't want help.
+
+This is far from a complete list, but these are conditions that affect my family and myself. If you have other advice for helping accommodate people's needs, I would love to hear it.
+
+url:https://reddit.com/r/YouShouldKnow/comments/wkyrwe/
+author:chequecipote
+subreddit:YouShouldKnow
+score:2695
+numComments:213
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,31 @@
+title:
+LPT: It's better to have no opinion on something than an uninformed one
+
+content:
+Too many people feel like they must have an opinion on *everything*.
+
+You don't. Just like admitting when you don't know something, you can also admit that you're not informed enough about that topic to form a genuine opinion.
+
+**EDIT:**
+
+To be informed just means to know the 5 W's:
+
+- Who did that?
+
+- What happened?
+
+- Where did it take place?
+
+- When did it take place?
+
+- Why did that happen?
+
+Example: when an article gets linked on Reddit and the comments (uninformed opinions) are based on the title, when in fact the article means something else completely.
+
+url:https://reddit.com/r/LifeProTips/comments/3uebr8/
+author:the_one_vb
+subreddit:LifeProTips
+score:4855
+numComments:681
+isOver18:False
+hasPostBody:True

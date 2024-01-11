@@ -1,0 +1,13 @@
+title:
+LPT: If someone asks you a question that can be easily googled, please consider the fact that this person might just want to talk with you.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5yp1e3/
+author:thecocolovesme
+subreddit:LifeProTips
+score:53433
+numComments:2010
+isOver18:False
+hasPostBody:False

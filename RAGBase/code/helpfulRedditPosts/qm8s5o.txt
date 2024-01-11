@@ -1,0 +1,13 @@
+title:
+LPT: ‘Work friends’ are colleagues first and friends second. Never forget that. Be careful about gossip and how much you share.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/qm8s5o/
+author:BowTrek
+subreddit:LifeProTips
+score:62984
+numComments:1556
+isOver18:False
+hasPostBody:False

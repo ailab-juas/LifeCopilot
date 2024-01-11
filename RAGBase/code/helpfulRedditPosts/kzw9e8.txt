@@ -1,0 +1,13 @@
+title:
+LPT: Today, the third Monday in January, is generally known as the most depressing day of the year. It’s been dark and cold for and New Years resolutions have likely failed. Be extra nice to everyone today, give a smile :) you never know what people are going through. Cheers!
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/kzw9e8/
+author:newherel
+subreddit:LifeProTips
+score:80524
+numComments:2332
+isOver18:False
+hasPostBody:False

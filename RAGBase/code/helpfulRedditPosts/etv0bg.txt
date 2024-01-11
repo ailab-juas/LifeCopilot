@@ -1,0 +1,16 @@
+title:
+YSK that you can track the spread of the coronavirus globally nearly in real time as reports come in using this dashboard.
+
+content:
+I know a lot of people have been sharing links on here but this one is very insightful, comprehensive and updates every few minutes in a very easy to understand dashboard format. Best I’ve seen so far. 
+
+
+https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
+
+url:https://reddit.com/r/YouShouldKnow/comments/etv0bg/
+author:OurInsectOverlords
+subreddit:YouShouldKnow
+score:15987
+numComments:851
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Learn to identify when you are in a "No win situation" at work, and be sure to politely call it out as such. No Win is defined as, "You have all the responsibility for the result, and none of the control to affect the outcome."
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/po3fpv/
+author:hyteck9
+subreddit:LifeProTips
+score:1481
+numComments:44
+isOver18:False
+hasPostBody:False

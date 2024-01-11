@@ -1,0 +1,17 @@
+title:
+YSK that if you signed up for a "free membership" that only lasts a limited time, chances are it will automatically start charging your card once the free membership ends.
+
+content:
+You should know this because free memberships will automatically start charging you *without your knowledge* if you didn't read the terms of agreement. I didn't realize that a certain free college membership for a certain online store would automatically renew itself and I got charged a lot of money. A lot of money for a broke college student, that is.
+
+This applies to pretty much any membership or trial that normally costs money but is advertised as free for a limited amount of time.
+
+EDIT: Lots and lots of people commenting "no shit" but it does happen, and there are sites that make it not so obvious that your subscription will get renewed. Also, I think it goes with out saying that there are plenty of people who don't bother to read terms of agreements. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/2w38dd/
+author:FuturePOTUS
+subreddit:YouShouldKnow
+score:1354
+numComments:204
+isOver18:False
+hasPostBody:True

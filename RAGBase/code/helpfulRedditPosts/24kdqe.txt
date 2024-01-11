@@ -1,0 +1,35 @@
+title:
+LPT: If you're struggling with a concept and are looking for help or more information, Google the subject with "site:.edu" and "type:.ppt". This will give you powerpoint lectures from universities.
+
+content:
+Not sure how widely known/used this is, but the combination of the two have saved me many, many times in economics. Sometimes it just needs to be explained in a different way for me to get it.
+
+edit: Glad I could help some people out! The search that inspired this post was me looking for information on the economics concept of the Solow Model. I typed into google:
+
+&gt;solow model site:.edu type:.pptx
+
+and got a couple helpful slides from colleges and universities.
+
+Doing the same thing but replacing .pptx with .pdf also brought up lecture outlines (the first two were from MIT and William &amp; Mary) which are just as helpful.
+
+Another example is 
+
+&gt;site:.edu type:pptx design patterns
+
+(thanks, /u/baggerboot!)
+
+Also, thanks to /u/Malagate for the tip on .pptx to return more recent presentations, and thanks to a bunch of you for the tip that .pdf brings up great things as well!
+
+Another edit: thanks to /u/luigibrotha for [this great link](http://geoscience.wisc.edu/geoscience/wp-content/uploads/2011/12/google1.gif) which explains even more tips!
+
+Bonus lpt: sometimes adding type:.pdf instead of type:.ppt allows you to find additional homework problems and solutions.
+
+Good luck studying, everyone!
+
+url:https://reddit.com/r/LifeProTips/comments/24kdqe/
+author:Inverse0
+subreddit:LifeProTips
+score:4622
+numComments:173
+isOver18:False
+hasPostBody:True

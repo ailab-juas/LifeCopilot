@@ -1,0 +1,17 @@
+title:
+LPT: Set your flashlight on your phone to turn on when you double press the lock button. One of the most useful button shortcuts, I use it almost daily.
+
+content:
+Using a shortcut for your flashlight can be super helpful instead of fumbling through the options to find it. Obviously you can choose whatever shortcut you like or if you have an iPhone there may already be a shortcut on the lock screen.
+
+Here is a tutorial for Samsung Galaxy phones = [https://www.youtube.com/watch?v=\_9TlHTRUzQ0](https://www.youtube.com/watch?v=_9TlHTRUzQ0)
+
+Edit: For those demanding why I use my flashlight *almost* daily, this is really not the focus of the LPT. The point is to offer a useful tip regardless of how much you use your flashlight (or how often I use it, for that matter)
+
+url:https://reddit.com/r/LifeProTips/comments/vynsj6/
+author:Soarx0
+subreddit:LifeProTips
+score:8020
+numComments:1091
+isOver18:False
+hasPostBody:True

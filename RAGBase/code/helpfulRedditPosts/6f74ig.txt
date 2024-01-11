@@ -1,0 +1,13 @@
+title:
+LPT: if you're shopping at a new website, sign in and leave stuff in your cart. They'll usually send you a discount code within the next day or two.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/6f74ig/
+author:akelkar1
+subreddit:LifeProTips
+score:8086
+numComments:211
+isOver18:False
+hasPostBody:False

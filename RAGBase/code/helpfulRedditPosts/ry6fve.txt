@@ -1,0 +1,17 @@
+title:
+YSK: If you're stuck in your car during a blizzard and snow is piling up around your car, do not leave the engine running if your tailpipe is at risk of being blocked by the snow. Carbon monoxide will come into the car interior and kill you.
+
+content:
+Why YSK: As more severe winter weather moves in in many parts of the world, inevitably once or twice a year there are tragic stories of this exact thing happening. People just don't think about it and they end up losing their life over something so preventable.
+
+https://www.snopes.com/fact-check/carbon-monoxide-snowed-in-car/
+
+https://m.imgur.com/a/NfDIUIV
+
+url:https://reddit.com/r/YouShouldKnow/comments/ry6fve/
+author:_FIDEL_CASHFLOW33
+subreddit:YouShouldKnow
+score:11666
+numComments:380
+isOver18:False
+hasPostBody:True

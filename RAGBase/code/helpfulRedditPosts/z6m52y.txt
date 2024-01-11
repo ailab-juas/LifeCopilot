@@ -1,0 +1,13 @@
+title:
+LPT: Whenever you buy a new plastic bottle of honey, transfer it immediately to a glass jar or container, so when the honey eventually hardens, you could either spoon out some honey or microwave the entire jar instead of throwing away an unusable plastic bottle of hardened honey.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/z6m52y/
+author:drrdf
+subreddit:LifeProTips
+score:1759
+numComments:306
+isOver18:False
+hasPostBody:False

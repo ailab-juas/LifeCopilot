@@ -1,0 +1,13 @@
+title:
+YSK In order for the waitstaff to be eligible to receive your gratuity, it MUST be non mandatory. Required gratuity or "service charges" often are (at least partially) kept by the house through a legal loophole.
+
+content:
+[US] Important to remember in order to not stiff the waitstaff and stay in their good graces. When a restaurant or any other venue with usually tipped employees requires a service charge (or just adds a 20% gratuity to your bill) they have no legal obligation to give this to the server. Oftentimes, they will say it is a "tip" but then keep it for the house. Per the IRS, a legal gratuity must be optional for an amount determined by you.
+
+url:https://reddit.com/r/YouShouldKnow/comments/7q8yvc/
+author:FatSammyHD
+subreddit:YouShouldKnow
+score:4563
+numComments:625
+isOver18:False
+hasPostBody:True

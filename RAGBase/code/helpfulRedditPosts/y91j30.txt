@@ -1,0 +1,32 @@
+title:
+YSK The Application for Forgiveness of $10k-$20k of Your Federally Held Student Loans is Now Available!
+
+content:
+Why YSK: While communications have indicated that most student loan relief under this program will be applied automatically, it is still recommended that you apply!
+
+The Biden Administration has approved a program to forgive $10,000-$20,000 of federally held student loans for those who meet certain criteria. You can view the link below to see the eligibility requirements, and if you qualify for the $10,000 relief or $20,000 relief!
+
+https://studentaid.gov/manage-loans/forgiveness-cancellation/debt-relief-info
+
+It’s a super short form to apply, and it only takes a minute to do so!
+
+https://studentaid.gov/debt-relief/application/confirmation
+
+
+**Reminder to be careful and avoid scams!**
+
+Quote directly from studentaid.gov:
+
+“You might be contacted by a company saying they will help you get loan discharge, forgiveness, cancellation, or debt relief for a fee. You never have to pay for help with your federal student aid. 
+
+Make sure you work only with the U.S. Department of Education and our loan servicers, and never reveal your personal information or account password to anyone. Our emails to borrowers come from noreply@studentaid.gov, noreply@debtrelief.studentaid.gov, or ed.gov@public.govdelivery.com. 
+
+You can report scam attempts to the Federal Trade Commission by calling 1-877-382-4357 or by visiting reportfraud.ftc.gov.”
+
+url:https://reddit.com/r/YouShouldKnow/comments/y91j30/
+author:notmydepartment
+subreddit:YouShouldKnow
+score:7391
+numComments:364
+isOver18:False
+hasPostBody:True

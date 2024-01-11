@@ -1,0 +1,15 @@
+title:
+LPT: While looking for a job, if you have enough knowledge and experience, don't reject yourself just by looking at the job description. Go ahead and still hit apply, if you are not a correct fit, they will reject you.
+
+content:
+Many times candidate get overwhelmed by looking at the job description. Many of those duties are coachable with little or no training. 
+
+If candidate has enough experience and qualifications, they should not worry about other requirements which are not matching.
+
+url:https://reddit.com/r/LifeProTips/comments/hcxghz/
+author:no_rules_to_life
+subreddit:LifeProTips
+score:1361
+numComments:45
+isOver18:False
+hasPostBody:True

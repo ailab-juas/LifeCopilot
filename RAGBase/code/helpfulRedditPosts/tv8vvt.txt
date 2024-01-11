@@ -1,0 +1,13 @@
+title:
+LPT: To split rents equally with a friend. If one of the rooms is better than the other first divide the rent by 50/50 then auction how much more you/ your friend are willing to pay
+
+content:
+For example, the combined rent is 200, first split into 100 and 100. You bid 5 more USD (105 - 95) he bid 20 USD (80 - 120) until the other guy won't bid more.
+
+url:https://reddit.com/r/LifeProTips/comments/tv8vvt/
+author:chervilious
+subreddit:LifeProTips
+score:19013
+numComments:767
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+YSK that when typing, holding CTRL + hitting backspace deletes one entire word at a time.
+
+content:
+Rather than just holding the backspace button and hoping to stop at the beginning of a word, just hold CTRL and hit the backspace button.
+
+url:https://reddit.com/r/YouShouldKnow/comments/2067bv/
+author:Im_High_Tech
+subreddit:YouShouldKnow
+score:1945
+numComments:135
+isOver18:False
+hasPostBody:True

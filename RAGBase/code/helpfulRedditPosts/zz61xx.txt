@@ -1,0 +1,13 @@
+title:
+YSK that a lot of newer microwaves have a mute feature.
+
+content:
+Why ysk: I discovered this when I noticed a microwave I had said “hold for 3 seconds to mute” on the 0 button. It eliminates the alarm as well as key sounds. If you haven’t, it’s worth talking a look at yours because it’s awesome.
+
+url:https://reddit.com/r/YouShouldKnow/comments/zz61xx/
+author:burnerbummer666
+subreddit:YouShouldKnow
+score:5287
+numComments:239
+isOver18:False
+hasPostBody:True

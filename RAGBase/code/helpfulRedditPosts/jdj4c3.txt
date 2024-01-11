@@ -1,0 +1,45 @@
+title:
+YSK: Visine eye drops are not lubricating eye drops and if used regularly are actually bad for your eyes.
+
+content:
+Why YSK: Visine could be causing you more harm than good by temporarily fixing the issue of red eyes without actually addressing the underlining problems. 
+
+Visine is, fundamentally, a decongestant. Redness in your eyes can be caused by swollen and congested blood vessels; these blood vessels, when irritated, become filled with blood and get backed up. Visine solves the problem by causing the affected blood vessels to artificially constrict.
+
+The active ingredients in Visine cause blood vessels to physically shrink. This accomplishes the immediate goal of lessening the eye’s redness, however, as the medication eventually wears off, a phenomenon known to eye doctors as “rebound redness” may occur, which makes the initial problem that much worse.
+
+In fact, over a prolonged period of continuous Visine usage, the rebound redness may actually become the default condition of the patient’s eyes. It’s true: Visine can permanently imprint on your eyes the very condition that it was originally intended to improve.
+
+This is because Visine makes a basic mistake: it temporarily addresses the patient’s symptom (redness) without adequately solving the underlying cause (which may vary). And it can be even worse for contact lens wearers, because Visine can also dilate a patient’s pupils when used too much, too often. Contact lens wearers may become increasingly sensitive to light and experience blurry vision.
+
+If you are looking for dry eye relief be sure to look for "Artificial Tears" not "Red Eye Treatment". Artificial tears are used to lubricate the eye where red eye treatment just constrict the blood vessels. Warm compress on the eyes, lid washes, and fish oil supplements are even better ways to address and possibly solve red, itchy eyes without causing harm. 
+
+*I've worked in the eye care industry for 10 years and it's very common for people to think Visine is just a regular eyedrop because their marketing has been very successful but has lacked the proper education on how the drop actually works. 
+
+Edit: wow what a response! Thanks for all the awards, comments, and upvotes. I am seeing some common trends with questions so thought I'd expand on the post.
+
+Any eye drops with a "decongestant" is going to work by constricting the blood vessels. These ingredients may include Naphazoline , Phenylephrine, Oxymetazoline or Tetrahydrozoline.  Eye drops that claim to fix red eye usually contains one of these ingredients.  Read ingredients carefully or make sure red eye is not listed on the box. Visine and other brands that use these ingredients DO have other products without them in it but for Visine or Rohto eye drops their lines primarily consist of decongestant drops.  Same goes for other brands that sell primarily artificial/natural tears for dry eyes, they may have a product in their line that is a decongestant so reading ingredients is the easiest way to tell them apart.  
+
+If you are a marijuana smoker your best bet is not to smoke when you need clear eyes. If its not possible try a cold compress as cold can also work to reduce the size of blood vessels that make your eyes look red.  At the VERY LEAST switch to an eye drop called Lumify. Its still not great to use regularly but has better ingredients than Visine. 
+
+Brands I liked for artificial tears are Hydrasense, and Systane.  They also have preservative free eyedrops on the market now. These are great for those who may not be finding relief from regular eye drops. Preservatives can be irritants so preservative free is a good option. 
+
+If you have been using Visine regularly for a long time I suggest visiting your Optometrist. Long term use can cause changes to your eye . Your Optometrist will be able to see if the Visine has caused changes and tell you what to use going forward. 
+
+If you need relief from allergies, an antihistamine allergy eyedrop is a better bet. This will actually address the allergen instead of just changing the appearance of your eyes.  You can buy them OTC or ask your Optometrist about prescription/other options for allergy season.  If you need to use a allergy drop regularly/long-term speak with your Optometrist first as these are also better used short term. 
+
+
+
+
+
+
+Citation: 
+[America Academy of Opthalmology. ](https://www.aao.org/eye-health/treatments/redness-relieving-eye-drops)
+
+url:https://reddit.com/r/YouShouldKnow/comments/jdj4c3/
+author:oceansidedrive
+subreddit:YouShouldKnow
+score:28890
+numComments:1187
+isOver18:False
+hasPostBody:True

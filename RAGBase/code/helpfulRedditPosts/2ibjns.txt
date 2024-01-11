@@ -1,0 +1,15 @@
+title:
+YSK about Brain Pump which plays random educational videos to teach you something new
+
+content:
+[http://lifehacker.com/brain-pump-plays-random-educational-videos-to-teach-you-1641947752](http://lifehacker.com/brain-pump-plays-random-educational-videos-to-teach-you-1641947752)
+
+**Direct link: [http://brainpump.net](http://brainpump.net)**
+
+url:https://reddit.com/r/YouShouldKnow/comments/2ibjns/
+author:[deleted]
+subreddit:YouShouldKnow
+score:1638
+numComments:37
+isOver18:False
+hasPostBody:True

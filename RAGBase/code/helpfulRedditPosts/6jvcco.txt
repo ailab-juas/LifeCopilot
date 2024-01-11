@@ -1,0 +1,19 @@
+title:
+LPT: Make a QR code that will automatically connect your house guests to the WiFi when scanned. Then print it out and put wherever works.
+
+content:
+I like to use this [website](https://qifi.org/), but there are a number of others that work as well. Copy and paste it into a doc and print it out.
+
+No more telling your guests super long passwords and telling them when it’s upper or lower case. Just show them the code and scan away.
+
+It seems silly not too what with iOS 11 now being able to scan QR codes natively right from the camera app. Android will still have to get a third party app though. And even if they can’t scan it the password will still work.
+
+Hope this makes you’re life a little bit easier! Whether you’re the guest or the host.
+
+url:https://reddit.com/r/LifeProTips/comments/6jvcco/
+author:TickNut
+subreddit:LifeProTips
+score:5815
+numComments:523
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Putting on stickers without getting an air bubbles
+
+content:
+When putting on something that has an adhesive backing (in my case, "NITROX" stickers for scuba tanks) squirt down the surface the sticker will be placed on with windex. This will make the sticker slip around for a bit so you can place it where it needs to be and so you can squeeze all the air bubbles out. The windex will evaporate and everything will be in place. Also works for "stick-on" window tint and just about anything of that nature
+
+url:https://reddit.com/r/LifeProTips/comments/1jdzv6/
+author:IchBinEinKrispyKreme
+subreddit:LifeProTips
+score:1126
+numComments:101
+isOver18:False
+hasPostBody:True

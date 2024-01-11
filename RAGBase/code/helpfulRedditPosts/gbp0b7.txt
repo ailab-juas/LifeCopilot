@@ -1,0 +1,13 @@
+title:
+LPT: If someone asks you a question while trying to get to know you, ask them it back. Simple but they probably asked because they want to be asked themselves
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/gbp0b7/
+author:theuntamed000
+subreddit:LifeProTips
+score:5244
+numComments:83
+isOver18:False
+hasPostBody:False

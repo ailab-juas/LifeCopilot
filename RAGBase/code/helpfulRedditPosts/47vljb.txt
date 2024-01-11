@@ -1,0 +1,19 @@
+title:
+YSK there is a list online of ways to access paywalled scientific journals.
+
+content:
+Here is a list of approaches used by people to access scientific papers that are hidden behind a paywall:
+
+http://hubrishubrishubris.com/2016/02/27/the-price-of-knowledge/
+
+Due to the legal brouhaha surrounding the sci-hub approach I must stress I am not advocating that approach but merely documenting what people are doing in their quest for knowledge that is hidden behind paywalls. 
+
+EDIT: I've edited the text above as per mod request. Thanks to /u/ani625 for reinstating this post.
+
+url:https://reddit.com/r/YouShouldKnow/comments/47vljb/
+author:BooRadleyBoo
+subreddit:YouShouldKnow
+score:1231
+numComments:25
+isOver18:False
+hasPostBody:True

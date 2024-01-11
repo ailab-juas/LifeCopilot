@@ -1,0 +1,13 @@
+title:
+LPT: Place the back of your hand on the pavement. If you can't hold it there for more than 5 seconds. It's too hot to walk your dog.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5mgl1d/
+author:mlvc1958
+subreddit:LifeProTips
+score:28030
+numComments:1719
+isOver18:False
+hasPostBody:False

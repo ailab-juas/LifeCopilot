@@ -1,0 +1,13 @@
+title:
+LPT: When your power goes out, check for WiFi SSIDs to see if it's just you or not.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/2j727f/
+author:[deleted]
+subreddit:LifeProTips
+score:2542
+numComments:546
+isOver18:False
+hasPostBody:False

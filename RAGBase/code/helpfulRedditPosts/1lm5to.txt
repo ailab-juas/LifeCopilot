@@ -1,0 +1,13 @@
+title:
+LPT: If you find a lost (and locked) iPhone 4S or iPhone 5, you may be able to return it easily by using Siri to call a family member.
+
+content:
+If you're like me, you keep your iPhone locked for personal security reasons. I ran across a locked phone the other day on campus and was able to contact the young lady's mom by using Siri and saying "Call mom". She was then able to arrange for me to return the phone. You could also try other family members, spouses, or things like 'boy/girlfriend' or 'my boss'. I haven't used those, but I'm sure they'd work for some people.
+
+url:https://reddit.com/r/LifeProTips/comments/1lm5to/
+author:rubikscube95
+subreddit:LifeProTips
+score:1784
+numComments:271
+isOver18:False
+hasPostBody:True

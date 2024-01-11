@@ -1,0 +1,13 @@
+title:
+LPT: If you have a screen addiction, get a normal wrist watch so that you don't have to check your phone for the time.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ctw5wp/
+author:floating_bells_down
+subreddit:LifeProTips
+score:1554
+numComments:98
+isOver18:False
+hasPostBody:False

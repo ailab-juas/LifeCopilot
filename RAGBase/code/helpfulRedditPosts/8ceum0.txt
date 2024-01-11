@@ -1,0 +1,13 @@
+title:
+LPT: When new friends are invited to your party, ask them to come earlier than the other guests so they can feel more comfortable upon arrival, then meet your other guests one by one as they arrive.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/8ceum0/
+author:Pjones2127
+subreddit:LifeProTips
+score:3789
+numComments:56
+isOver18:False
+hasPostBody:False

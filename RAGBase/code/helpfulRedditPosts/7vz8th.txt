@@ -1,0 +1,13 @@
+title:
+LPT: A 14" pizza has the same area as two 10" pizzas
+
+content:
+You now have a choice, depending on your preference of more or less crust, if you want a very large pizza.
+
+url:https://reddit.com/r/LifeProTips/comments/7vz8th/
+author:dem503
+subreddit:LifeProTips
+score:2171
+numComments:168
+isOver18:False
+hasPostBody:True

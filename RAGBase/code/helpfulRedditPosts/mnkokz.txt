@@ -1,0 +1,13 @@
+title:
+YSK: Just because someone questions you does not mean you are required to provide them answers.
+
+content:
+Why YSK: A lot of people take on a self appointed authoritative role in certain circumstances.  This is specifically regarding regular people feeling they need to find out what you’re doing, who you are, or any other information they aren’t entitled to know. Not saying to purposefully be an asshole or arouse suspicion, but you don’t need to provide them the satisfaction of giving you the “okay” to proceed minding your own business
+
+url:https://reddit.com/r/YouShouldKnow/comments/mnkokz/
+author:NalaJax
+subreddit:YouShouldKnow
+score:1331
+numComments:62
+isOver18:False
+hasPostBody:True

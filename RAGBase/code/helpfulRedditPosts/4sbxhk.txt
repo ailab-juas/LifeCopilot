@@ -1,0 +1,44 @@
+title:
+LPT: Before buying something expensive online, take a screenshot of the confirmation price
+
+content:
+I could also post this as a TIFU.
+
+I just purchased an airline ticket with a travel agency (Flight Network) only to be charged $250 more than the actual ticket price. I only realised later when I checked my credit card statement. To clarify, the confirmation screen showed about $650, but when the charges and receipt came through, I was charged $900. I also messed up by not carefully checking the receipt. 
+
+I made the calls. Amex will not do anything without evidence, and neither will the travel agency. "Do whatever you wanna do, we're not fixing this" is what the agency said. 
+
+**A corollary to this LPT** is never ever pay off your credit card without verifying the charges. Because I was often paying off my card immediately based on my quoted purchase price (not what they actually charged me), it implies consent to the purchases.
+
+**NEVER BUY ANYTHING FROM FLIGHTNETWORK.COM**
+
+I hope you guys and gals can learn from my mistakes. 
+
+*Further thoughts*:
+
+The current ticket price, close to departure, is about $700. It's obvious that I was overcharged, because international flights only go UP closer to departure date. All sources on flights online indicate this. If what I charged was legitimate, how could've the price ***dropped*** by 22%?
+
+---------------------------------------------------------------
+
+
+EDIT: as /u/pjp2000 points out the **bigger LPT**: Buy from the airlines directly instead. Other places I've posted this, experienced travellers suggest the same. In my experience, however, I've gotten significantly cheaper deals going through agencies instead of directly through airlines. So I don't know, it depends in the level of risk you're willing to take. 
+
+---------------------------------------------------------------
+
+**UPDATE**: It's only fair I do this update. They've given me a credit of approximately the equivalent amount to be used with them in the future. 
+
+---------------------------------------------------------------
+
+**Another LPT** from /u/convalla : 
+
+1. ALWAYS search for travel and hotels in incognito mode, cause lots of sites use cookies to see what you have searched for earlier and ramps up the price. 
+
+2. When you find something you like, open a new tab and go to the company's page directly.
+
+url:https://reddit.com/r/LifeProTips/comments/4sbxhk/
+author:throwitupwatchitfall
+subreddit:LifeProTips
+score:4271
+numComments:729
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+YSK: AddressDoctor.com Tells You The International Address Formats For Many Countries, To Assure That Your Mail Gets Delivered Safely.
+
+content:
+On [this](https://www.addressdoctor.com/en/countries-data/address-formats.html#fbid=5ImqF3PxGa2) page you can look up the address format of any country available. This service also includes many other useful features, such as interactive maps and ISO country code tables.
+
+Alternatively, you can use [this](http://www.bitboost.com/ref/international-address-formats.html) site. BitBoost gives the same information but already printed all on the same page (if you would like to print it or archive the page).
+
+url:https://reddit.com/r/YouShouldKnow/comments/3vphi8/
+author:JU570
+subreddit:YouShouldKnow
+score:1124
+numComments:52
+isOver18:False
+hasPostBody:True

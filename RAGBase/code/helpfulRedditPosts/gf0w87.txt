@@ -1,0 +1,13 @@
+title:
+LPT: When starting something new always do a Google search for "Things I wish I knew when I started X". For example, if you just started surfing do a search for "Things I wish I knew when I started surfing". There will be a ton of info from people that have learned valuable lessons the hard way.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/gf0w87/
+author:ritzz2_0
+subreddit:LifeProTips
+score:23510
+numComments:325
+isOver18:False
+hasPostBody:False

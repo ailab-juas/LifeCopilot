@@ -1,0 +1,13 @@
+title:
+LPT: Never say something is 'easy' when explaining it to someone
+
+content:
+Try phrase it as "It's not as complicated as you think". It seems like a little thing but it is the difference between them thinking "Why can't I get it if it's so easy?" and "I need to step back, clear my head, and tackle this again". 
+
+url:https://reddit.com/r/LifeProTips/comments/4achu7/
+author:CraigJDuffy
+subreddit:LifeProTips
+score:4328
+numComments:741
+isOver18:False
+hasPostBody:True

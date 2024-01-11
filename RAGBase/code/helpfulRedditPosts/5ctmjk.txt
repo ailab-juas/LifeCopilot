@@ -1,0 +1,13 @@
+title:
+YSK that if you've got a .edu, .gov, or .mil e-mail account, you've got a free digital subscription to the Washington Post
+
+content:
+[here](http://help.washingtonpost.com/link/portal/15067/15080/Article/628/How-do-I-activate-my-gov-mil-edu-free-subscription)
+
+url:https://reddit.com/r/YouShouldKnow/comments/5ctmjk/
+author:bravo14
+subreddit:YouShouldKnow
+score:6125
+numComments:369
+isOver18:False
+hasPostBody:True

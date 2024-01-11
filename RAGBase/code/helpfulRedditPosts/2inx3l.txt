@@ -1,0 +1,14 @@
+title:
+YSK about Gresham College, they do over 100 free public lectures every year featuring top professors in many subjects. And they put them all on Youtube!
+
+content:
+Hours and hours of quality learning - for free:
+https://www.youtube.com/user/GreshamCollege
+
+url:https://reddit.com/r/YouShouldKnow/comments/2inx3l/
+author:DasPhilosophist
+subreddit:YouShouldKnow
+score:1756
+numComments:49
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Drink a couple of glasses of water when feeling hungry. Most likely you're dehydrated too and this will prevent you from overeating.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/68egdu/
+author:IRMagic
+subreddit:LifeProTips
+score:10326
+numComments:414
+isOver18:False
+hasPostBody:False

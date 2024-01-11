@@ -1,0 +1,13 @@
+title:
+LPT: Soaking cotton swabs in wax makes for a light weight easy to use fire starter.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/3afldn/
+author:Wanderer_Takezo
+subreddit:LifeProTips
+score:4035
+numComments:540
+isOver18:False
+hasPostBody:False

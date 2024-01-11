@@ -1,0 +1,19 @@
+title:
+YSK working a delivery job with your own car is (almost) always a terrible idea.
+
+content:
+Generally speaking, your personal line of auto insurance DOES NOT cover commercial use. 
+
+Commercial auto use means delivering product for pay, or even driving for pay (like Uber and Lyft*). That means your auto premium, which isn't nothing!, does NOTHING to protect you if you have an incident while delivering stuff. And your employer, if they're leaning on you to drive your own car to deliver their shit, likely won't have the funds to help you out of it. Realistically, they knew the risk YOU were taking by delivering pizzas for them in your own car and were just glad you never questioned if they had a commercial policy to protect you on the road. 
+
+You might think your insurance company or even the insurance industry as a whole is being a real dick about not protecting you while working. I'd say it's more on the fault of businesses that skimp out on their commercial policies, which often include company vehicles. Next time you get a pizza delivered, ask the guy/girl if they're driving their own car and if their employer arranged for a commercial policy to protect them.  
+
+*[Uber](http://blog.uber.com/ridesharinginsurance) and [Lyft](https://www.lyft.com/drive/help/article/1229170) have included commercial policies for their drivers, and it's pretty interesting how they managed it.  
+
+url:https://reddit.com/r/YouShouldKnow/comments/2m9l4d/
+author:lvnshm
+subreddit:YouShouldKnow
+score:1797
+numComments:275
+isOver18:False
+hasPostBody:True

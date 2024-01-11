@@ -1,0 +1,15 @@
+title:
+YSK: T-Mobile's "Binge-On" (which is opt-out) does not "optimize" video. It throttles ANY video stream or download to 1.5Mbps (187KB/sec.)
+
+content:
+"Binge-On" is a service where Tmobile does not count video streams against your account's data quota, if you agree to let them "optimize" the video for you. This "optimization" is throttling the connection to 1.5Mbps. Some streaming services will detect the slow speed and downgrade the stream resolution to around 480p.
+
+Further info can be found [on the Electronic Frontier Foundation's website](https://www.eff.org/deeplinks/2016/01/eff-confirms-t-mobiles-bingeon-optimization-just-throttling-applies). The EFF believes TMobile is violating net neutrality regulations.
+
+url:https://reddit.com/r/YouShouldKnow/comments/5oqyfb/
+author:alltheacro
+subreddit:YouShouldKnow
+score:1446
+numComments:148
+isOver18:False
+hasPostBody:True

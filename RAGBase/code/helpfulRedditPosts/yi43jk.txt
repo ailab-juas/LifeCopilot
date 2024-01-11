@@ -1,0 +1,17 @@
+title:
+Ysk: Amazon delivery drivers don’t always have a van, some use their personal cars
+
+content:
+Why ysk: For safety and awareness with holidays coming up, people will be ordering more stuff for delivery. If you are expecting a package it might show up via Amazon flex which is a program that lets people deliver with their personal vehicle. They can seem suspicious since these routes can be early in the morning or late at night, and not all drivers wear Amazon vests which easily identify them. 
+
+These drivers are getting to be pretty common with the rise of prime and same day delivery. It works pretty similar to door dash and all the other delivery apps. Logistics is tricky and one of the ways Amazon fills the gaps with delivery routes is with flex drivers that use their own cars. Sometimes a route doesn’t have enough packages to fill a whole van or there are not enough drivers to handle all of the packages that day so they will give these packages to flex drivers a lot of times. 
+
+If you see someone delivering packages in an unmarked vehicle that’s likely what it is. Keep your dogs inside if you’re expecting a package, give delivery instructions if you live in an apartment, gated community etc. Be safe and be nice to delivery folk :)
+
+url:https://reddit.com/r/YouShouldKnow/comments/yi43jk/
+author:Bubbledood
+subreddit:YouShouldKnow
+score:6204
+numComments:278
+isOver18:False
+hasPostBody:True

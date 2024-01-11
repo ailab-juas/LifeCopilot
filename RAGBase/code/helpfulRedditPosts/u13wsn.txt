@@ -1,0 +1,15 @@
+title:
+LPT: if a headline is written as a question, the answer is always 'no.' This is because if the answer were 'yes,' they wouldn't need to write it as a question.
+
+content:
+If a headline reads 'Do mangoes cure cancer?' you can sure as shit bet they don't, because if mangoes actually cured cancer the headline would instead read 'Mangoes cure cancer.' By writing it as a question, the author lures you into the story - a form of clickbait.
+
+This is especially important to know in an era full of misinformation, clickbait, and propaganda.
+
+url:https://reddit.com/r/LifeProTips/comments/u13wsn/
+author:Bulky_Action5482
+subreddit:LifeProTips
+score:2462
+numComments:96
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+YSK that you can get free HDMI cables from Comcast by asking!
+
+content:
+That's right, just call Comcast and tell them you need some HDMI cables (when I asked, they didn't say there was a maximum) and they will send right to your home!   
+The source I'm linking you to is from 2008, but I tried it recently and they are still doing it. 
+[Source](http://gizmodo.com/5095995/comcast-gives-away-free-hdmi-cables-if-you-ask)
+
+url:https://reddit.com/r/YouShouldKnow/comments/1wz6lv/
+author:FireCrouch
+subreddit:YouShouldKnow
+score:1196
+numComments:114
+isOver18:False
+hasPostBody:True

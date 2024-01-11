@@ -1,0 +1,17 @@
+title:
+LPT: Flour is highly flammable.
+
+content:
+Every now and again we see individuals joking around by throwing flour at people during birthdays and other events.
+
+Flour is highly flammable when in a dust cloud. Any contact with an open flame or hot enough source will cause a dangerous flame.
+
+Don't throw flour for fun!
+
+url:https://reddit.com/r/LifeProTips/comments/uy7ic1/
+author:DanteSeldon
+subreddit:LifeProTips
+score:1019
+numComments:168
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,24 @@
+title:
+YSK: Buy a domain name, and set up a catch-all to forward emails to your actual email address
+
+content:
+I feel like this should be a LPT, but those guys are pricks.  Anyway:
+
+Domains are pretty cheap these days. You might not get your own name, but you can get something fun instead perhaps.
+
+Congratulations! You can now have a bunch of email addresses!
+For example:
+
+amazon@example.com ebay@example.com reddit@example.com email@example.com shadystuff@example.com work@example.com
+
+The bonus to this, is that you can set your proper email to filter incoming mail based on the address it was sent to.
+
+edit:  here is the namecheap help page on this subject: https://www.namecheap.com/support/knowledgebase/article.aspx/310/2214/how-to-set-up-a-catchall-wildcard-email-address
+
+url:https://reddit.com/r/YouShouldKnow/comments/98o7rs/
+author:WouldISmellHerPussy
+subreddit:YouShouldKnow
+score:4408
+numComments:298
+isOver18:False
+hasPostBody:True

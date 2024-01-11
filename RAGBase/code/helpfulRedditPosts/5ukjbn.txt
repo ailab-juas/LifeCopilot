@@ -1,0 +1,13 @@
+title:
+LPT: My recently deceased uncle always told me this. Never skimp on two things, your shoes or your mattress. You spend too much time in them to be uncomfortable.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5ukjbn/
+author:kilot1k
+subreddit:LifeProTips
+score:14660
+numComments:825
+isOver18:False
+hasPostBody:False

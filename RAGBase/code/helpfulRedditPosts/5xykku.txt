@@ -1,0 +1,13 @@
+title:
+LPT: To easily figure out what month someone was conceived, instead of going back 9 months, go forward 3 months.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5xykku/
+author:nathanblan11
+subreddit:LifeProTips
+score:5048
+numComments:392
+isOver18:False
+hasPostBody:False

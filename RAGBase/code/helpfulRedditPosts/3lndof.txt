@@ -1,0 +1,13 @@
+title:
+LPT: A falling knife has no handle.
+
+content:
+Never try to catch it, (yes. I've seen people try) just jump back as fast as you can. Worked in restaurants for years and I still have all my digits.
+
+url:https://reddit.com/r/LifeProTips/comments/3lndof/
+author:richwallace247
+subreddit:LifeProTips
+score:4441
+numComments:995
+isOver18:False
+hasPostBody:True

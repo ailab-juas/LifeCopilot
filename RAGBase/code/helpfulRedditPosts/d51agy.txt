@@ -1,0 +1,13 @@
+title:
+LPT: If you find yourself overthinking too much, focus on your senses: breathing, feeling, tasting, seeing - to relax your mind and get out of the thinking loop.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/d51agy/
+author:deadclams
+subreddit:LifeProTips
+score:1626
+numComments:69
+isOver18:False
+hasPostBody:False

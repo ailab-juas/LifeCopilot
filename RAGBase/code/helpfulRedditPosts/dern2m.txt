@@ -1,0 +1,13 @@
+title:
+LPT : When buying something with a warranty, set an event in your phone a month before the warranty expires. If there's anything wrong with it that gives you time to get it sorted.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/dern2m/
+author:Joehsmash
+subreddit:LifeProTips
+score:4953
+numComments:64
+isOver18:False
+hasPostBody:False

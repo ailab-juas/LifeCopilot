@@ -1,0 +1,13 @@
+title:
+YSK: running ceiling fans in reverse in the winter causes an updraft, forcing warm air downward
+
+content:
+Why YSK: this is an inexpensive way to recirculate air possibly save a little on heating
+
+url:https://reddit.com/r/YouShouldKnow/comments/ye2m7m/
+author:Lagavulin16_neat
+subreddit:YouShouldKnow
+score:3061
+numComments:138
+isOver18:False
+hasPostBody:True

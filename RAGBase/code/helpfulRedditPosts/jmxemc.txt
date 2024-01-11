@@ -1,0 +1,17 @@
+title:
+YSK: If you drop out of WiFi or Data coverage, most cellphones will work overtime to find a connection. Leaving WiFi or Data on can be a big drain on your battery as your phone pushes more power through its internal antenna trying to connect to a network.
+
+content:
+Why YSK:  
+
+I used to work in an office that had no data or wifi signal. I started to notice after the first few months working there, that my phone would always be at 20 - 30% battery by the end of the day, where before I would always have between 60 &amp; 70% even while leaving my data on all day.
+
+My co-workers said they had the same problem, and eventually we figured out it was our phones wasting battery trying to find a signal.
+
+url:https://reddit.com/r/YouShouldKnow/comments/jmxemc/
+author:KingSulley
+subreddit:YouShouldKnow
+score:20984
+numComments:228
+isOver18:False
+hasPostBody:True

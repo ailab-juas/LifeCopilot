@@ -1,0 +1,15 @@
+title:
+LPT: Extend your home network wifi/boost signal strength by using your PC as a virtual router
+
+content:
+Using software you can turn your PC into a hotspot (I use Codeplex's Virtual Router Manager).
+
+It shares the wired connection and broadcasts a virtual wifi network for your devices to connect to, allowing a more stable connection in that area.  
+
+url:https://reddit.com/r/LifeProTips/comments/2r8lo0/
+author:CSKarasu
+subreddit:LifeProTips
+score:2987
+numComments:414
+isOver18:False
+hasPostBody:True

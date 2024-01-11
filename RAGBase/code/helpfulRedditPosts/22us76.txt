@@ -1,0 +1,17 @@
+title:
+YSK these are the websites that need a new password because of the heartbleed bug
+
+content:
+http://mashable.com/2014/04/09/heartbleed-bug-websites-affected/?utm_cid=mash-com-fb-main-link
+
+The recent heartbleed bug compromised two thirds of the internet so you really need to know which websites need a new password now to make sure you are secure and safe, those include Facebook, Instagram and Google and many more.
+
+edit: use [**this site**](https://lastpass.com/heartbleed/) to check if a website has been fixed or not to know whether to change password now or wait.
+
+url:https://reddit.com/r/YouShouldKnow/comments/22us76/
+author:silent_thunder_89
+subreddit:YouShouldKnow
+score:1371
+numComments:133
+isOver18:False
+hasPostBody:True

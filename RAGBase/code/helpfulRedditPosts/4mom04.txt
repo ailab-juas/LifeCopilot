@@ -1,0 +1,13 @@
+title:
+LPT: Line a measuring cup with plastic wrap when measuring sticky ingredients
+
+content:
+If you need to measure out an ingredient, like peanut butter, that is difficult to scoop out of a measuring cup, put plastic wrap loosely over the measuring cup and let it serve as a liner. The wrap will lift easily out of the measuring cup, and the peanut butter (or whatever) won't stick to it.
+
+url:https://reddit.com/r/LifeProTips/comments/4mom04/
+author:JoeInAtlanta
+subreddit:LifeProTips
+score:3886
+numComments:597
+isOver18:False
+hasPostBody:True

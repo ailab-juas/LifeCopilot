@@ -1,0 +1,13 @@
+title:
+LPT: When microwaving leftover rice put a glass of water next to it. It will allow the rice to be softer.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/awud6s/
+author:Chris_9002
+subreddit:LifeProTips
+score:19611
+numComments:876
+isOver18:False
+hasPostBody:False

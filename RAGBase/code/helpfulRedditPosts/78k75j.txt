@@ -1,0 +1,13 @@
+title:
+LPT - When someone speaks to you harshly and you don't know what to say, just stare at them. You're not required to respond.
+
+content:
+I'm learning that this is fun to actually practice.
+
+url:https://reddit.com/r/LifeProTips/comments/78k75j/
+author:Ivyblueberryhill
+subreddit:LifeProTips
+score:3414
+numComments:308
+isOver18:False
+hasPostBody:True

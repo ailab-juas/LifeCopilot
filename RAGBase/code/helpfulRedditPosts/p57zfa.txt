@@ -1,0 +1,19 @@
+title:
+LPT: when buying tickets for a concert or sporting event, Ticketmaster’s fees can vary wildly depending on how you access their site.
+
+content:
+I was recently looking to purchase tickets for an NFL game this fall. The team sells their tickets through Ticketmaster. While checking the prices for different seat locations at different times, I noticed the fees could change quite a lot depending on how I accessed Ticketmaster. 
+
+These are the exact same tickets, verified from the team, not resale from another person. The only difference is they are viewed from either the iPhone app or the website on a laptop. I am logged into the same account in both places. 
+
+[app on phone: $110 in fees](https://imgur.com/gallery/zAsoeeX)
+
+[website on laptop: $3.45 in fees](https://imgur.com/gallery/93aUWyv)
+
+url:https://reddit.com/r/LifeProTips/comments/p57zfa/
+author:02K30C1
+subreddit:LifeProTips
+score:7478
+numComments:345
+isOver18:False
+hasPostBody:True

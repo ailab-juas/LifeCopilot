@@ -1,0 +1,25 @@
+title:
+LPT: Set Your Plugins (Flash, etc.) to be activated only with your click. Then, when you mouse over them, you can see if the prompt to click-to-play appears. If not, you've found yourself an overlay or maybe a fake video/whatever.
+
+content:
+You could then use whatever blocking or hiding software you use to permanently remove it or just up the console for that webpage, find that element, and delete it yourself(literally by using the delete key). It's easier to just right click the overlay and hit inspect element but some overlays respond to even right clicks so the safer way would be to just get it from the console.  
+
+
+  Oftentimes, you'll find gaps where the overlay doesn't cover the video so if you just wanna get the video to play, you can move your mouse over it, find the gap, and start the video/whatever it is.  
+
+
+  Edit: How to actually do it in some popular browsers (using Flash as an example plugin in some cases)  
+
+Chrome:  Settings &gt; Show advanced &gt; Content Settings &gt; Plug-ins &gt; Let me choose  
+Firefox: Menu &gt; Add-ons &gt; Plugins &gt; Shockwave Flash &gt; Ask to Activate  
+Internet Explorer (IE? Really): Gear &gt; MAnage Add-ons &gt; Toolbars and Extensions &gt; Right click Shockwave Flash Object &gt; More information &gt; Remove all sites  
+Safari: Menu &gt; Preferences &gt; Security &gt; Manage Website Settings &gt; Adobe Flash Player &gt; Ask  
+
+
+url:https://reddit.com/r/LifeProTips/comments/32ybgz/
+author:milleniumsamurai
+subreddit:LifeProTips
+score:1293
+numComments:66
+isOver18:False
+hasPostBody:True

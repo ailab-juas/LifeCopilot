@@ -1,0 +1,41 @@
+title:
+LPT: If you are being terminated this week, you do not have to sign anything immediately. Go home and read your severance contract with a clear head and don't be hesitant to negotiate.
+
+content:
+I'm C + P something my friend wrote:
+
+To anyone at Meta, or elsewhere who is staring down layoffs this week (or year.. as the 2023 recession looms), here’s what to likely expect:
+
+🗓 A random meeting will be added to your calendar with no description. You may notice your credentials are no longer working for critical company systems.
+
+🧐 HR (and likely your manager) will explain the terms of your termination and give you some documents.
+
+✍️ They might urge you to agree to the conditions and sign their paperwork.
+
+🐻 If you live in California, you will be provided with your final paycheck.
+
+Now, I am not your manager nor your lawyer, but remember you don’t have to sign anything during the meeting. If they say “you can’t leave without signing” this is not true. [If you’re under 40, overnight consideration is reasonable. If you’re over 40, you have at least 21 days to consider](https://www.law.cornell.edu/wex/older_workers_benefit_protection_act_(owbpa)). ~~And everyone has 7 days to revoke agreement to the settlement offer even after signing.~~
+
+**There may be stipulations in your contract (working for a competing company). Read the fine print.**
+
+If you don’t have pre-negotiated severance in your contract, now is the time to put on your negotiation hat and ask for (more) money. You can also negotiate continuation of your healthcare coverage or for the company to buy back your shares for a good rate. You can think about bringing in a lawyer and asking for more that way. 
+
+Once you feel comfortable with the terms, you will likely be asked to sign an NDA and waive your right to sue. Again, don’t feel rushed to sign anything without considering the entire package.
+
+Then go home (or stand up from your desk) and do nothing. Take care of yourself. You’ll have a busy week ahead, between applying for unemployment and dealing with benefits like health and life insurance.
+
+It’s okay to be sad, but don’t let it eat you up.
+
+Edit: To include sources and include what user gustav\_mannerheim says: 
+
+*"Severance packages have terms, they're essentially a bribe from the company saying you won't do XYZ. It might forbid you from starting lawsuits against them, or it might involve a non-compete. If an employee was able to negotiate more money, it means the company really wanted them to sign that agreement. If they don't have something they want you to agree to, they can just fire you and pay unemployment."*
+
+**TL;DR: You do not need to sign anything in a meeting. Take the time to read through your contract (at least overnight) without rushing as you may miss the fine print.**
+
+url:https://reddit.com/r/LifeProTips/comments/ypsmwv/
+author:EveFluff
+subreddit:LifeProTips
+score:7832
+numComments:262
+isOver18:False
+hasPostBody:True

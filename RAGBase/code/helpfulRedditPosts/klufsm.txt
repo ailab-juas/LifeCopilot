@@ -1,0 +1,35 @@
+title:
+YSK In the US, if you have a landline phone #, you can probably save a significant amount of money by switching it to the free Google Voice Service. You will be able to have this number work on your cell phone, effectively giving you 2 numbers on your cell phone without losing your home phone #.
+
+content:
+Why YSK:  Many people keep their landline # at a cost of \~$15/month because so many people have the number and it is too difficult to tell everybody to use a new number.  This is potentially wasted money.
+
+It's a 2-step process.  You can't directly transfer to Google Voice.  It will cost about $45, or 3 months of landline service to pay for itself.
+
+Step 1 - Port your landline to a cell service.  In my case, I used T-Mobile prepaid.  I paid $25 for the cheapest plan ($10 sim card with $15 for 1 month of service).  When you buy the prepaid sim, they will ask if you want to port the service, say yes, and put in your current details.  After the SIM arrives, place it in an old phone, (or your current one if you don't have an old one around).  Try to place a call, etc. and confirm the number has been ported.  It may take a few days.
+
+Step 2 - Port your (new) cell service to Google Voice. [Google Voice Porting Check.](https://www.google.com/voice/b/0/porting?pli=1)  There is a one time $20 fee for this.  Once complete, your cell service will be cancelled.  
+
+At this point, you can install the Google Voice app on your phone, and you will be able to receive calls to this number on your cell phone, in addition to your regular cell #.
+
+If you want to get super fancy, you can purchase a  VoIP Adapter.  This will essentially give you landline service with that number.  You can plug your landline phone into the adapter, just like any wall socket.  When somebody rings that landline #, it will ring both your cell and VoIP, so you can answer it on either phone.  The  Obihai OBi200 is probably the best device for this, but there are others.  This device costs about $50, so this will increase the payback time, but it will still pay itself back in a few months.
+
+&amp;#x200B;
+
+Important note:  You will lose 911 service on that landline.  If you need 911, you should use your regular cell phone, from your regular cell phone #. 
+
+Edit: 
+
+If you get the obitalk device, you can get 911 service for $15/year
+
+If you don't like Google, other options include VOIP.ms, which starts at 85 cents per month and offers unlimited for 5 bucks a month with 911.  Still a huge savings over regular landline. 
+
+If Google drops Google Voice, you will have plenty of time to move over to VOIP.ms, which starts at 85 cents per month.
+
+url:https://reddit.com/r/YouShouldKnow/comments/klufsm/
+author:grandlewis
+subreddit:YouShouldKnow
+score:13666
+numComments:432
+isOver18:False
+hasPostBody:True

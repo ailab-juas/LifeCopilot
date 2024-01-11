@@ -1,0 +1,29 @@
+title:
+YSK: you shouldn't reply "stop" to spam text messages
+
+content:
+Why YSK: Spammers send out mass spam text messages telling you to reply "stop" if you want them to stop contacting you. However, when you reply to them, they have now verified that you are an active phone number. Now they can call or text you from other numbers or sell your info to other spammers. The same thing applies to answering phone calls from unknown numbers.
+
+Note: you may choose to reply "stop" if the message is from a recognized company or service that you recently signed up for, but when in doubt, don't respond and delete the text.
+
+*\*\*\* I'm reposting this because my previous post was deleted for including info about the National Do Not Call List. Do your own research on how to stop spam, but the above YSK is a good place to start.*
+
+**Edit to add sources:** 
+
+[Verizon's website says](https://www.verizon.com/about/account-security/smishing-and-spam-text-messages):
+
+&gt;Don’t respond to unwanted/suspicious texts. (Not even to say STOP).
+
+[FTC website says](https://consumer.ftc.gov/articles/phone-scams#how%20to%20stop):
+
+&gt;When you get a robocall, don't press any numbers. Instead of letting you speak to a live operator or remove you from their call list, it might lead to more robocalls.
+
+&amp;#x200B;
+
+url:https://reddit.com/r/YouShouldKnow/comments/x2q37p/
+author:johnnylines
+subreddit:YouShouldKnow
+score:11055
+numComments:540
+isOver18:False
+hasPostBody:True

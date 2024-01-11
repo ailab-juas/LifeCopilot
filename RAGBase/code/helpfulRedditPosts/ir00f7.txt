@@ -1,0 +1,15 @@
+title:
+YSK Target.com changes prices based on your local market -- even if they are shipping something to you from a central warehouse. Choose a lower cost area to have good shipped to you for less.
+
+content:
+Target has decided that the prices online should match the price of the good in your local store. 
+
+Why YSK: This is a problem if you live in a higher cost region (like CA or NYC) as you used to be able to buy stuff online and pick it up in store for less. Now even if you are shipping something to your house but your local store is set, the price to buy will reflect the higher in-store price. Change "My Store" to a lower cost region in the middle of the country and instantly save 15% or more on many goods shipped home.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ir00f7/
+author:adambadam
+subreddit:YouShouldKnow
+score:8413
+numComments:152
+isOver18:False
+hasPostBody:True

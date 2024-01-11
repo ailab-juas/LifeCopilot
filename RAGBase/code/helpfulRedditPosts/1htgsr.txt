@@ -1,0 +1,79 @@
+title:
+YSK Your *actual* basic rights when dealing with the police, and some of theirs
+
+content:
+**I know there's stuff I've left out. You don't have to tell me.**
+
+First, you should know that any federal or state law empowering the citizen is a *privilege* that can be taken away, not a right. The only rights we have are part of the constitution one way or another: through the text, what it implies, or a SCOTUS case. 
+
+So this post is going to be split into rights and privileges, and it will *only* concern the Constitution of the United States and rights granted through SCOTUS cases. Before the Constitution's Bill of Rights was implemented in 1791, many states had their own bills of rights and all of them still do, so you need to read your state constitutions to find out if there's anything that goes past the federal constitution. Remember that we are 50 semi-sovereign states united, not a unitary government. 
+
+###**Rights**
+
+1) Some states require that you identify yourself, but you need to ask whether or not you are being detained. If not, you can walk away. As always, don't be a dick. At finish your conversation and move on. Do *not* become hostile just because someone stopped you. 
+
+2) You have the right to refuse a search of yourself, your car, or your home. Your home has the most stringent standard of evidence, then your car, then you. 
+
+3) If you are arrested, you have the right to a lawyer. 
+
+4) You invoke the right to silence by explicitly stating what you're doing. 
+
+5) If you're a photographer like me, don't delete that picture! No one can make you do it. It's unconstitutional in more ways than one. 
+
+###**Rights Subsequently Granted by SCOTUS**
+
+**1959**
+
+- *Bartkus v. Illinois* = Crimes that are tried in state court *and* in federal court do not violate Dual Jeopardy Clause due to the doctrine of dual sovereignty.
+
+**1963**
+
+- *Gideon v. Wainright* = All indigent persons must be given an attorney at the state's expense. 
+
+**1966** 
+
+- *Miranda v. Arizona* = Law enforcement required to inform suspect of right to remain silent and right to counsel.
+
+**1984**
+
+In my opinion, this case has a very... we'll say "interesting" year...
+
+- *Nix v. Williams* = Inevitable discovery exception to exclusionary rule. Police may introduce unconstitutionally discovered evidence at trial if they can prove that they would have found the evidence anyway through constitutional means. 
+
+**1987**
+
+- *Arizona v. Hicks* = Established plain view doctrine. Irrelevant evidence in plain view may be legally gathered. 
+
+**1990**
+
+- *Horton v. California* = Expands the in plain view doctrine by removing the requirement that evidence was *inadvertently* discovered. 
+
+**1998**
+
+- *Knowles v. Iowa* Automobiles can not be searched on routine traffic stops because it counts as unreasonable search and seizure. 
+
+**1999**
+
+- *Wyoming v. Houghton* Police may search the belongings of all passengers in the car when lawfully seeking evidence against the driver. 
+
+You are going to get in trouble if someone is doing something illegal in your car while you are driving. 
+
+**2010**
+
+- *Berghuis v. Thompkins* = Suspect's silence does not itself invoke right to silence. Suspect must explicitly state invocation of the right, and will forfeit right by breaking subsequent silence provided that the suspect was given and understood the Miranda warning. 
+
+###**Privileges**
+
+- You *generally* have the right to photograph anything in plain view. People do not have a right to privacy when they're in public and that includes law enforcement. Exceptions are shooting into homes and on private property, where the people have no reasonable expectation but the property owner can deprive you of the right to photograph.
+
+- You *generally* have the right to not identify yourself to a police officer who does not suspect you of anything. 24 states have stop-and-identify laws. 
+
+- You *generally* have the right to record what happens. 38 states are one-party-consent states. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/1htgsr/
+author:[deleted]
+subreddit:YouShouldKnow
+score:2501
+numComments:613
+isOver18:False
+hasPostBody:True

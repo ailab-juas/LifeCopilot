@@ -1,0 +1,17 @@
+title:
+LPT: Save your resume as a PDF before sending it out. This guarantees the layout, structure, typography to be 100% consistent for all viewers, and no one will have issues opening it.
+
+content:
+If you've ever struggled with layout consistency between .word, .docx, .txt, and Google Docs, this is for you.  
+
+**Edit**: As many are pointing out, there are always outliers and some industries are more specific than others, however it seems like most are in consensus that this is a good baseline. For all the formatting requirement hell you go through in high school and college, I wish someone had told me this when applying to my first few jobs. 
+
+**Edit 2**: First time home-pager!! Thanks everyone, and great additional advice in comments! Good luck job hunting in 2018!! 
+
+url:https://reddit.com/r/LifeProTips/comments/7oc0l7/
+author:SableElephant
+subreddit:LifeProTips
+score:62144
+numComments:2078
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: If you get lost in the city, don't stop at a gas station for directions. A pizza place's deliverers know the area much better.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/fznv43/
+author:[deleted]
+subreddit:LifeProTips
+score:10211
+numComments:341
+isOver18:False
+hasPostBody:True

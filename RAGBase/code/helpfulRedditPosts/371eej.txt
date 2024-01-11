@@ -1,0 +1,13 @@
+title:
+LPT: Use a picture of your favorite takeout menu as the contact photo. No more searching desperately for a menu in the junk drawer of your house.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/371eej/
+author:transientavian
+subreddit:LifeProTips
+score:4357
+numComments:647
+isOver18:False
+hasPostBody:False

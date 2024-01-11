@@ -1,0 +1,17 @@
+title:
+LPT: Working from home on your own PC? Create a work user account.
+
+content:
+Since I work from home and I'm often distracted I created a separate user account on my PC that has a bland wallpaper and no video game shortcuts. My browser logs me in as my work-related google account. 
+All of my docked program shortcuts are related to my work.
+When work is over, I switch users and return to my personal account.
+
+It's almost like working on two different machines.
+
+url:https://reddit.com/r/LifeProTips/comments/1l3gd5/
+author:[deleted]
+subreddit:LifeProTips
+score:2295
+numComments:200
+isOver18:False
+hasPostBody:True

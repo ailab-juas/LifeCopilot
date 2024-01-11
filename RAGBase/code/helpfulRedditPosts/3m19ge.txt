@@ -1,0 +1,15 @@
+title:
+LPT: If it will take less than 2 minutes, do it now.
+
+content:
+You have no idea how much time and stress you'll save yourself.
+
+Edit: apparently this is David Allen's advice. He also apparently invented time management, good to know my thoughts have credible sources!
+
+url:https://reddit.com/r/LifeProTips/comments/3m19ge/
+author:esteele23
+subreddit:LifeProTips
+score:4256
+numComments:533
+isOver18:False
+hasPostBody:True

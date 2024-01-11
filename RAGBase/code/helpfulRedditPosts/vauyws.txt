@@ -1,0 +1,13 @@
+title:
+LPT: Instead of asking your SO where they wanna eat, try asking them, "Guess where I was going to take you to eat?" Their first response is usually where they wanna go. Works for gifts too.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/vauyws/
+author:itsallaroundu
+subreddit:LifeProTips
+score:20794
+numComments:783
+isOver18:False
+hasPostBody:False

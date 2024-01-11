@@ -1,0 +1,13 @@
+title:
+LPT: Always pack emergency clothes in your carry on when traveling. An airline losing your luggage is only a matter of time, even if it's never happened to you. It's far more disruptive to your trip than you can imagine.
+
+content:
+Source: In Montreal with no luggage.
+
+url:https://reddit.com/r/LifeProTips/comments/cg1t34/
+author:my1stone
+subreddit:LifeProTips
+score:2788
+numComments:230
+isOver18:False
+hasPostBody:True

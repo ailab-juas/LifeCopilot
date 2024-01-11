@@ -1,0 +1,13 @@
+title:
+LPT: The US Postal Service offers a free service called Informed Delivery that will send you a daily email with a digital preview of all your letter-sized mail. Users receive emails containing grayscale images of the exterior, address side of postal mail that is arriving soon.
+
+content:
+[https://informeddelivery.usps.com/box/pages/intro/start.action](https://informeddelivery.usps.com/box/pages/intro/start.action)
+
+url:https://reddit.com/r/LifeProTips/comments/sj8kn5/
+author:grandlewis
+subreddit:LifeProTips
+score:1973
+numComments:187
+isOver18:False
+hasPostBody:True

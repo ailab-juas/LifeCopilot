@@ -1,0 +1,23 @@
+title:
+YSK That Using the Same Password on Multiple Accounts is 99.9% of the Time, How Your Accounts Are Compromised.
+
+content:
+I’m familiar with the “cracking” process. I think it’s important for people to understand how it works, to know how to protect yourself.
+
+“Crackers” hijack and steal your accounts to sell them for profit. The way they obtain these accounts is surprisingly simple. But also easy to prevent.
+
+They run tools on outdated websites that can be exploited. These websites can change daily, depending on new software. If you made an account with your email and password on one of these sites, they can dump the logs in a matter of minutes. Getting thousands of email and password “combos”. For example, if you signed up for an account with a local news site, and that local news site website can be exploited, congratulations. A cracker has your email and pass combo. 
+
+They then take these email and password combos and run them through “Checkers”. Which are scripts that are capable of running hundreds of combos per minutes on sites that might have rewards point or your credit card saved. If you used the same password as you did from that news site on the McDonalds app, they can now order McDonald’s with your credit card. (If you saved it on the app).
+
+As you can see, if you use the same password for everything, that same cracker can find many valuable accounts with your credentials. If you’ve always used the same password, your combo is already in the hands of crackers and is just waiting to be ran through a checker.
+
+Use different passwords for accounts. Even if it’s 1 number higher every-time, it prevents this. Using a password manager is one of the most secure ways to protect your accounts.
+
+url:https://reddit.com/r/YouShouldKnow/comments/i7frts/
+author:Decaopik
+subreddit:YouShouldKnow
+score:22406
+numComments:856
+isOver18:False
+hasPostBody:True

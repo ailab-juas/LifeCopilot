@@ -1,0 +1,23 @@
+title:
+YSK that the Hover Zoom Extension is Spyware
+
+content:
+My manager just pulled me up because my companies internal URLs were on similarweb.com (a website traffic marketing site). He called me because all the URLs had my User ID. Confused as hell I started looking into the Chrome extensions I have installed. It turns out HoverZoom has a tracking option turned on by default. It collects data about EVERY website you visit and sells that information to different companies, SimilarWeb being one of them.
+
+The developer of that extension has been caught:
+
+* [collecting browsing data including form data including passwords](http://www.reddit.com/r/technology/comments/1t4ubn/hoverzoom_for_chrome_is_infected_with_malware/)
+* [selling data on what you typed in](https://code.google.com/p/hoverzoom/issues/detail?id=489)
+
+This article goes into some more detail: [Warning: Your Browser Extensions Are Spying On You](http://www.howtogeek.com/180175/warning-your-browser-extensions-are-spying-on-you/)
+
+Uninstall that extension ASAP and spread the word as the articles above explain there are other similar extensions you can use that don't have scumbag developers trying to steal your personal info.
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/1wjrc8/
+author:abhinay99
+subreddit:YouShouldKnow
+score:3360
+numComments:409
+isOver18:False
+hasPostBody:True

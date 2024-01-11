@@ -1,0 +1,13 @@
+title:
+LPT: If someone is really drunk and about to pass out, lay them on their side and put a full backpack on them to prevent them from rolling on their back
+
+content:
+It's better to check on them every so often to make sure they are ok. This is for cases where no one is available to stay with them.
+
+url:https://reddit.com/r/LifeProTips/comments/128yof/
+author:Just_Another_Brick
+subreddit:LifeProTips
+score:1254
+numComments:186
+isOver18:False
+hasPostBody:True

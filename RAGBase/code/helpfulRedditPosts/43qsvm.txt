@@ -1,0 +1,13 @@
+title:
+LPT: If you made less than $54,000 last year you can have someone else do your taxes for free.
+
+content:
+From the IRS website: "The Volunteer Income Tax Assistance (VITA) program offers free tax help to people who generally make $54,000 or less, persons with disabilities, the elderly and limited English speaking taxpayers who need assistance in preparing their own tax returns. IRS-certified volunteers provide free basic income tax return preparation with electronic filing to qualified individuals." Find a location here: http://irs.treasury.gov/freetaxprep/ 
+
+url:https://reddit.com/r/LifeProTips/comments/43qsvm/
+author:xupaxupar
+subreddit:LifeProTips
+score:1826
+numComments:270
+isOver18:False
+hasPostBody:True

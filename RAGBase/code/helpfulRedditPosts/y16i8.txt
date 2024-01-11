@@ -1,0 +1,13 @@
+title:
+LPT: take pictures of friends holding items you've lent them with your iPhone, so you will remember down the road.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/y16i8/
+author:Patbenn
+subreddit:LifeProTips
+score:1200
+numComments:448
+isOver18:False
+hasPostBody:False

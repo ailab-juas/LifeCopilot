@@ -1,0 +1,13 @@
+title:
+LPT: The bowline knot may be the most useful knot, because it it secure and can be tied and untied easily. You can do it in 4 simple steps.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/3enr7n/
+author:RalphiesBoogers
+subreddit:LifeProTips
+score:6051
+numComments:1296
+isOver18:False
+hasPostBody:False

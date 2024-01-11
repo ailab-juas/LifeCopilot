@@ -1,0 +1,15 @@
+title:
+YSK Google Public Alerts allows you to see emergencies worldwide with in depth information
+
+content:
+http://www.google.org/publicalerts
+
+Found this earlier via Google Now's emergency alert system.
+
+url:https://reddit.com/r/YouShouldKnow/comments/1xpshp/
+author:kentoe
+subreddit:YouShouldKnow
+score:1060
+numComments:56
+isOver18:False
+hasPostBody:True

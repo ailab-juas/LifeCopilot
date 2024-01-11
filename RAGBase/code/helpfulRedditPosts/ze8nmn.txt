@@ -1,0 +1,13 @@
+title:
+LPT: Need to divide something fairly between 2 kids? Let one kid make the split and let the other kid choose the partition. Because kid making the allocation won't know which partition he/she is getting, it will incentivize him/her to make the fairest possible split.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ze8nmn/
+author:ky4tz
+subreddit:LifeProTips
+score:53840
+numComments:1698
+isOver18:False
+hasPostBody:False

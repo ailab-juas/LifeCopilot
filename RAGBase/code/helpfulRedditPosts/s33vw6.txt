@@ -1,0 +1,17 @@
+title:
+YSK that Turbotax isn't going to be free this year
+
+content:
+Intuit, the parent company of Turbotax is no longer participating in the Free File Alliance, meaning if you use Turbotax to do your taxes, it's not going to be free this year.
+
+[Here](https://www.irs.gov/filing/free-file-do-your-federal-taxes-for-free) is a link to the IRS' website about free file, it opens up tomorrow.
+
+Why YSK, when it comes to Americans and doing their taxes, we sometimes skim over details to just get it over with, and Intuit is hoping that when users go to their site this year, that they'll gloss over the fact that you've got to pay to use their services. Intuit and Turbotax are the scum of the Earth and a scourge to American civil life, they're hoping to use this opportunity to get more of your money, but this could be are chance to stick it to these guys. The IRS has plenty of resources for people to responsibly pay their taxes, let's utilize them.
+
+url:https://reddit.com/r/YouShouldKnow/comments/s33vw6/
+author:PicklesMcG33
+subreddit:YouShouldKnow
+score:33196
+numComments:1485
+isOver18:False
+hasPostBody:True

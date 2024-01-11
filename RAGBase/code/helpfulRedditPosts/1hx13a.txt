@@ -1,0 +1,13 @@
+title:
+LPT: Receive the best possible service when shopping retail by checking your watch.
+
+content:
+I used to work in the electronics section of a big department store. The store, and many others, hire mystery shoppers; people paid to shop and score the sales people on their level of service. The first thing they look for is how long it takes before someone helps them. If the sales person sees you check your watch or phone just as they serve you there is a good chance that they will assume you are a mystery shopper and that they are being evaluated.
+
+url:https://reddit.com/r/LifeProTips/comments/1hx13a/
+author:Carrmann
+subreddit:LifeProTips
+score:1051
+numComments:333
+isOver18:False
+hasPostBody:True

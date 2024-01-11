@@ -1,0 +1,15 @@
+title:
+YSK: Firearm blanks are dangerous. Often portrayed as safe, blanks fired at very close range can burn, blind, deafen, or kill the person they're pointed at.
+
+content:
+Treat all guns as if they are loaded all the time.
+Always be aware of your backstop.
+Don't point a gun at anyone you're not prepared to kill.
+
+url:https://reddit.com/r/YouShouldKnow/comments/c7twan/
+author:ACrazyTopT
+subreddit:YouShouldKnow
+score:11635
+numComments:447
+isOver18:False
+hasPostBody:True

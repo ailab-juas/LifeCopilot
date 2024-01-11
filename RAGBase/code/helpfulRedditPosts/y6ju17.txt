@@ -1,0 +1,13 @@
+title:
+LPT: Don't forget to claim your $10k Student Loan forgiveness. The application is now open.
+
+content:
+https://studentaid.gov/welcome/?redirectTo=%2Fmanage-loans%2Fforgiveness-cancellation%2Fdebt-relief-info
+
+url:https://reddit.com/r/LifeProTips/comments/y6ju17/
+author:FlipantPirate
+subreddit:LifeProTips
+score:16916
+numComments:1324
+isOver18:False
+hasPostBody:True

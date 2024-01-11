@@ -1,0 +1,23 @@
+title:
+YSK about Sumatra PDF, a (free!) quick loading pdf/ebook reader that loads nearly instantly and far, far outshines Adobe Reader XI in nearly every way!
+
+content:
+^^* ^^I ^^suppose ^^I ^^should ^^start ^^this ^^out ^^by ^^saying ^^I ^^am ^^in ^^no ^^way ^^affiliated ^^with ^^Sumatra ^^PDF, ^^the ^^company, ^^the ^^creator ^^Krzysztof ^^Kowalczyk, ^^or ^^otherwise ^^in ^^any ^^way, ^^I ^^just ^^love ^^the ^^program! ^^*
+
+ I have been using the program for about 10 weeks now and can honestly say that this fixes all the huge issues I had with Adobe Reader. My professors use a lot of PDF files for us to study and as such I may have 4 or five up at a time. They load SO SO much faster than Reader, scrolling is quicker, individual pages don't need to load, etc. I was trying to read one of my textbooks (an ebook) with Reader and its 600+ pages were taking **forever** to load.  But Sumatra PDF loads it almost immediately and each page is viewable nearly instantly. 
+
+Seriously if you find Reader slow and cumbersome in any way, check out Sumatra PDF. It's my default PDF viewer, and I uninstalled Reader completely, there is nothing it does better than Sumatra PDF.
+
+Check out the guy's website: (warning, ugly site) http://blog.kowalczyk.info/software/sumatrapdf/free-pdf-reader.html
+
+Or, if you'd rather download it from a (once) reputable website: http://download.cnet.com/Sumatra-PDF/3000-18497_4-10698785.html
+
+Try it out, you won't be disappointed!
+
+url:https://reddit.com/r/YouShouldKnow/comments/2h8uvb/
+author:RainbowTuba
+subreddit:YouShouldKnow
+score:1425
+numComments:166
+isOver18:False
+hasPostBody:True

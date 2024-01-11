@@ -1,0 +1,19 @@
+title:
+YSK: If you've saved any passwords through Chrome, Google has a feature that automatically warns you of password breaches. You can activate it under your Google account &gt; Security &gt; scroll to "Enhanced Safe Browsing"
+
+content:
+Why YSK: Altough Google Chrome is a very secure place to store your passwords, it also stores them all in the same place, so succesful account breaches will have access to all your passwords. 
+
+Two-factor authentication (or multi-factor authentication) can help prevent this, but it's not perfect, and many sites don't even offer 2FA.
+
+To counter this, activating *Enhanced Safe Browsing* will let you know if a site has experienced a data / password breach. It also offers advanced warnings for websites, extensions, or downloads by letting you know I they're trusted beforehand.
+
+If you're interested in additional security features, I recommend taking a glance at your Google account'w security page, or consider getting a wireless 2FA device, an offline password manager, or setting up a backup email so that if you phone is stolen, you can still utilize 2FA and protect your data.
+
+url:https://reddit.com/r/YouShouldKnow/comments/tjq371/
+author:OmegaNut42
+subreddit:YouShouldKnow
+score:3209
+numComments:93
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+YSK you can search movies on google by typing “google drive (insert movie title)” and the movie will pop up
+
+content:
+Just checked for a couple movies I loved and there was a file for me to watch it in a google drive!
+
+E: I’m SO SORRY for getting a specific subreddit banned for something I thought was not gonna gain traction. Welp now the world knows...
+
+url:https://reddit.com/r/YouShouldKnow/comments/carxeg/
+author:chilljunky
+subreddit:YouShouldKnow
+score:23964
+numComments:894
+isOver18:False
+hasPostBody:True

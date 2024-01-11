@@ -1,0 +1,17 @@
+title:
+YSK about Profoundly Disconnected, Mike Rowe's organization which promotes the notion that a good living can be made by skilled laborers without a four-year degree.
+
+content:
+Mike Rowe was on Bill Maher last week, talking about how there are three million good jobs out there that are unfilled because people just don't want them.
+
+He cited the example of a Caterpillar (you know, the heavy equipment, not the butterfly precursor) dealer who needs heavy machinery techs and will train someone for the job, which pays about $50k to start... they just can't find anyone who wants to work with tractors.
+
+For more, see http://profoundlydisconnected.com
+
+url:https://reddit.com/r/YouShouldKnow/comments/1ic8ai/
+author:gynoceros
+subreddit:YouShouldKnow
+score:2276
+numComments:302
+isOver18:False
+hasPostBody:True

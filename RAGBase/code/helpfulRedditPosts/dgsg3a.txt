@@ -1,0 +1,13 @@
+title:
+LPT: If you are always worrying if you did something after leaving home, like locking the door or turning off the stove, get in the habit of speaking out the actions as you do it. Saying "I'm turning the stove off." while you do it creates a more concrete memory and will put your mind at ease.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/dgsg3a/
+author:DaGoz
+subreddit:LifeProTips
+score:41466
+numComments:995
+isOver18:False
+hasPostBody:False

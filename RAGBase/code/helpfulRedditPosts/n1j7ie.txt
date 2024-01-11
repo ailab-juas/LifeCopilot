@@ -1,0 +1,17 @@
+title:
+LPT: Don’t use fabric softener on sweat-wicking/performance wear. It clogs the fibers and materials with a waxy film, rendering the clothing’s purpose useless.
+
+content:
+This includes those dryer sheets. That’s all I got, I ain’t no scientist
+
+Edit: For those worried about clothes coming out static-y, the culprit might be that you’re putting your clothes in the dryer for too long or too high of heat. Try less heat or less time:)
+
+Editedit: Don’t use fabric softener.
+
+url:https://reddit.com/r/LifeProTips/comments/n1j7ie/
+author:MountWang
+subreddit:LifeProTips
+score:25266
+numComments:1091
+isOver18:False
+hasPostBody:True

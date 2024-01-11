@@ -1,0 +1,13 @@
+title:
+LPT: If you find a lost wallet in the US, you can drop it in a USPS mailbox and they will return it to its owner free of charge.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/9jih03/
+author:joecat2112
+subreddit:LifeProTips
+score:1956
+numComments:161
+isOver18:False
+hasPostBody:False

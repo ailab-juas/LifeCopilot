@@ -1,0 +1,13 @@
+title:
+LPT: If your camera is ever stolen, visit StolenCameraFinder.com. You can upload an old photo from your camera and it will alert you if anyone’s been uploading images from the same camera.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/prg6bj/
+author:sarahslilbox
+subreddit:LifeProTips
+score:1005
+numComments:24
+isOver18:False
+hasPostBody:False

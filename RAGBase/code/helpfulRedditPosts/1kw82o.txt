@@ -1,0 +1,17 @@
+title:
+YSK that if you get a car loan at a dealership they may include all the expected interest for the full term of the loan in the principle, preventing you from attempting to pay it off early to save on interest fees.
+
+content:
+Knowing that I could have some time without work coming up I wanted the lowest possible monthly payments, so I went with the 84-month term at something like 5% or 6% interest.  I specifically told the salesperson that my plan was to pay it off early so I could save on interest, and he didn't say a damn thing as he added the entire expected amount of interest for the 84-month term to my loan amount.
+
+I'm not really angry about it, and maybe it's even standard practice.  I don't blame the salesperson as much as I blame myself; I was trying to be really smart about my purchase, I avoided a bunch of other hidden fees and "standard extras", etc.  But this one single detail ended up costing me as much as $1500 in interest compared to if I'd been able to pay it off in 3 years instead of 6 years, for example.
+
+If you want to do something similar to my original plan and pay it off in half the time, you'd still break even if you got a loan at a bank with twice the interest rate, so don't worry too much about it maybe being just a couple percent or so above what the dealer's offering.
+
+url:https://reddit.com/r/YouShouldKnow/comments/1kw82o/
+author:nawoanor
+subreddit:YouShouldKnow
+score:1104
+numComments:179
+isOver18:False
+hasPostBody:True

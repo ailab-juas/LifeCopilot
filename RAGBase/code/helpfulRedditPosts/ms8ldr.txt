@@ -1,0 +1,13 @@
+title:
+LPT: Add -pinterest.* to your search query to remove ALL results from Pinterest. The asterisk serves as a boolean wildcard and is more effective than just -pinterest.com.
+
+content:
+Edit: I incorrectly referred to this as a boolean operator, which it is not. Boolean values must be either TRUE or FALSE and, in search terms, uses the values AND, OR, or NOT. See [MIT's LibGuide](https://libguides.mit.edu/c.php?g=175963&amp;p=1158594) or [Open Semantic Search](https://www.opensemanticsearch.org/doc/search/operators) for more information and helpful search terms!
+
+url:https://reddit.com/r/LifeProTips/comments/ms8ldr/
+author:cherryblossomzz
+subreddit:LifeProTips
+score:2193
+numComments:94
+isOver18:False
+hasPostBody:True

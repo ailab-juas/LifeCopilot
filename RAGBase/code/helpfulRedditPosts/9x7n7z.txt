@@ -1,0 +1,13 @@
+title:
+LPT: Learn a few one pot meals for the winter time. There’s nothing cozier than a home that smells of slow cooked food and it provides food for several days.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/9x7n7z/
+author:jhugh2
+subreddit:LifeProTips
+score:5389
+numComments:281
+isOver18:False
+hasPostBody:False

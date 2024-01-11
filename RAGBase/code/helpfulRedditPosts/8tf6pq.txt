@@ -1,0 +1,21 @@
+title:
+YSK that online databases that collect your personal information are creepy as hell, and that you can get your information removed.
+
+content:
+Online databases like Whitepages, BeenVerified, PeopleFinder, and USIdentify may contain your personal information like your phone number, address, birthday, and relatives. These sites make me very nervous and I'm beginning to check them on a regular basis. The information in them could be accessed and used maliciously without your consent, and if you have online privacy concerns you should know this so you can take action to have the information removed.
+
+[Here is a helpful website that lists how to remove your information from a number of databases, for free. NOTE: It advertises a paid service and some of the information may be incorrect. I’m leaving it here for reference but I recommend starting with the two links below. Thanks :)](https://www.abine.com/optouts.php)
+
+edit: I’m realizing that not all of this information is verifiable and can be seen as an advertisement, so I’m going to post some more guides that don’t link to a service that can be paid for. I just want people to know about databases and how to remove their information from them, and hopefully feel safer
+
+[Here’s an article by LiveWire that has a few additional databases and different ways of how to remove your information](https://www.lifewire.com/remove-personal-information-from-internet-3482691)
+
+[This website called Privacy Rights lists many, many online Data Brokers, and if you scroll down some of them (not all :( ) have links to their opt out pages](https://www.privacyrights.org/data-brokers)
+
+url:https://reddit.com/r/YouShouldKnow/comments/8tf6pq/
+author:Gumbo67
+subreddit:YouShouldKnow
+score:6510
+numComments:213
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+YSK: NASA has been uploading daily Astronomy pictures since 1995
+
+content:
+Why YSK: Currently, a huge percentage of people in the world dont truly understand how beautiful space is with it's vast beauties, and I want to expose this rather unkown archive with over 6000 images and diagrams taken from outer space. In addition, all of these images are usable without copyright because NASA is a public funded company.
+
+[Here is the full archive.](https://apod.nasa.gov/apod/archivepixFull.html)
+
+url:https://reddit.com/r/YouShouldKnow/comments/ip7krg/
+author:MrGuccu
+subreddit:YouShouldKnow
+score:17365
+numComments:265
+isOver18:False
+hasPostBody:True

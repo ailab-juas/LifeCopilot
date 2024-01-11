@@ -1,0 +1,17 @@
+title:
+YSK that EPUB files are basically just compressed HTML files. You can rename them from ".epub" to ".zip", unpack them anywhere, then read/bookmark them with any web browser.
+
+content:
+From [Wikipedia](https://en.wikipedia.org/wiki/EPUB):
+
+&gt; **An EPUB file is a ZIP archive that contains, in effect, a website—including HTML files, images, CSS style sheets, and other assets.** It also contains metadata. EPUB 3 is the latest version. By using HTML5, publications can contain video, audio, and interactivity, just like websites in web browsers.
+
+Clearly EPUB is a great format for eReaders, I'm just pointing out that you can read EPUB files without installing an eReader if you want to, just by unzipping it.
+
+url:https://reddit.com/r/YouShouldKnow/comments/4lj40d/
+author:OmitsWordsByAccident
+subreddit:YouShouldKnow
+score:3635
+numComments:129
+isOver18:False
+hasPostBody:True

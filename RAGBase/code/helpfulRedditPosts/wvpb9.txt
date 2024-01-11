@@ -1,0 +1,13 @@
+title:
+LPT: Make use of the copy machine to make a template for hanging smaller things.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/wvpb9/
+author:TheBedSloth
+subreddit:LifeProTips
+score:1153
+numComments:100
+isOver18:False
+hasPostBody:False

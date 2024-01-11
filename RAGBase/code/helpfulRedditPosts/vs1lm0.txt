@@ -1,0 +1,15 @@
+title:
+YSK: Yes you absolutely do need to test your smoke and CO detectors regularly
+
+content:
+WHY YSK: we depend on these detectors to keep us alive in the event of a fire or malfunction.  They are reliable enough and the beep is unpleasant enough that most of us neglect testing them.
+
+I recently tested my smoke detector and it didn't work!  It was only four months old, and it was one of those with a 10 year lithium battery.  Of course I got it replaced under warranty.
+
+url:https://reddit.com/r/YouShouldKnow/comments/vs1lm0/
+author:tgeliot
+subreddit:YouShouldKnow
+score:5354
+numComments:218
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+YSK that there is an extremely easy way to multiply two digit numbers by two digit or single digit numbers (see below for example)
+
+content:
+I have always had a hard time multiplying numbers by 12, but maybe that is just me, anyways, it goes like this. Say you have to multiply 12x9, you first multiply 9x10 (90) and 9x2 (18), then add them together to get your answer (108). You do the same process for multiplying two digit by two digit. Say you need to find out how many hours in 20 days, one day = 24hrs. You would do 20x20 (400) and 20x4 (80) and then add them together to get your answer (480 hours in 20 days). I know to some of you this may seem juvenile, but it really helped get me through pre-calc. Hopefully this helps someone!
+
+Edit: I guess this is commoncore, wasn't taught that, but from what I hear commoncore is horrid, which is odd because I like this.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ecnezm/
+author:largezimbabwe
+subreddit:YouShouldKnow
+score:8213
+numComments:454
+isOver18:False
+hasPostBody:True

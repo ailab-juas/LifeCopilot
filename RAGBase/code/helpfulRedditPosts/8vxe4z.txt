@@ -1,0 +1,13 @@
+title:
+LPT: Try buying a gaming mouse even if you don't plan to game. The extra buttons can be easily mapped to basic tasks such as cut, copy, paste, etc. which can come in quite handy. Living with the obnoxious RGB lights has to be the trade off.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/8vxe4z/
+author:turmo_turto
+subreddit:LifeProTips
+score:15298
+numComments:991
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+YSK How to use the phonetic alphabet for spelling words out loud
+
+content:
+If you've ever had problems spelling out a word or string of letters on the phone this could really come in useful. You can see the NATO phonetic alphabet here: www.phonetic-alphabet.org hopefully it helps some people! 
+
+url:https://reddit.com/r/YouShouldKnow/comments/2wnl6o/
+author:djadstar
+subreddit:YouShouldKnow
+score:1176
+numComments:261
+isOver18:False
+hasPostBody:True

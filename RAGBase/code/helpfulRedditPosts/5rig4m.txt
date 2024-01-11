@@ -1,0 +1,13 @@
+title:
+LPT: The HR department is there to protect the company, not you.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/5rig4m/
+author:[deleted]
+subreddit:LifeProTips
+score:1115
+numComments:87
+isOver18:False
+hasPostBody:True

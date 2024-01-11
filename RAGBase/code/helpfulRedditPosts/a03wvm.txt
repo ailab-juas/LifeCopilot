@@ -1,0 +1,13 @@
+title:
+LPT: During this shopping season don't forget that Reddit is hands down the best review website on the internet. Type the product your thinking about buying directly into the Reddit search bar to find real reviews and plenty of quality conversation around whatever you're thinking about buying.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/a03wvm/
+author:Tartwhore
+subreddit:LifeProTips
+score:37833
+numComments:760
+isOver18:False
+hasPostBody:False

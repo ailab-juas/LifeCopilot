@@ -1,0 +1,19 @@
+title:
+YSK: Suicides do not increase in the winter. They increase in the early summer
+
+content:
+Why YSK: The winter has been associated with depression and suicide but most suicides happen in the late spring and early summer. So don't forget to reach out to people in the spring to hang out.
+
+&amp;#x200B;
+
+[https://ourworldindata.org/suicide#daylight-patterns](https://ourworldindata.org/suicide#daylight-patterns)
+
+[https://en.wikipedia.org/wiki/Seasonal\_effects\_on\_suicide\_rates](https://en.wikipedia.org/wiki/Seasonal_effects_on_suicide_rates)
+
+url:https://reddit.com/r/YouShouldKnow/comments/kuj8o1/
+author:kysic
+subreddit:YouShouldKnow
+score:1199
+numComments:61
+isOver18:False
+hasPostBody:True

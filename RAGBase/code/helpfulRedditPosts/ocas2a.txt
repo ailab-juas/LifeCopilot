@@ -1,0 +1,13 @@
+title:
+YSK: You Should Flip/Rotate your mattress every 3 - 6 months
+
+content:
+Why YSK: Many people are unaware of this but it actually decreases wear on a specific part of your mattress and makes it last longer, so you won't have to buy a new mattress.
+
+url:https://reddit.com/r/YouShouldKnow/comments/ocas2a/
+author:MadDawg248
+subreddit:YouShouldKnow
+score:1049
+numComments:103
+isOver18:False
+hasPostBody:True

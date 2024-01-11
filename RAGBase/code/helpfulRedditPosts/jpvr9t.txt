@@ -1,0 +1,13 @@
+title:
+LPT: If you have deaf neighbors, get their contact information. They can't hear tornado sirens and you could potentially be the on that saves their lives.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/jpvr9t/
+author:nen_del
+subreddit:LifeProTips
+score:39155
+numComments:707
+isOver18:False
+hasPostBody:False

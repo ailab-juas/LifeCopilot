@@ -1,0 +1,13 @@
+title:
+YSK: If you use the app "SwiftKey" on any of your devices, right now as a Christmas gift all pay themes are free.
+
+content:
+Rather than spending a buck here or there for keyboard themes you don't have to pay a damn thing and can get over 100 themes, if one were so inclined,at the app store. That's why you should know.
+
+url:https://reddit.com/r/YouShouldKnow/comments/5g19wn/
+author:asstasticbum
+subreddit:YouShouldKnow
+score:2457
+numComments:254
+isOver18:False
+hasPostBody:True

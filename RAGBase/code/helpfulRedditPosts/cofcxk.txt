@@ -1,0 +1,15 @@
+title:
+LPT: if your cat is lost, put the litter-box outside. Most cats are lost close to home, and they can smell the litter box from up to half a mile away.
+
+content:
+My cat was lost and I got this great tip from the local vet.
+
+(for the people buying me silver or gold, please save your money and go for a walk with one of the dogs in your local shelter instead)
+
+url:https://reddit.com/r/LifeProTips/comments/cofcxk/
+author:RatherBWriting
+subreddit:LifeProTips
+score:25512
+numComments:457
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,25 @@
+title:
+LPT: The official LEGO website has a section where you can freely download instructions for any set they've ever made
+
+content:
+if you're ever buying LEGO sets secondhand, a lot of sellers will increase the price because they include the original instructions, or even sell the instructions separately. but if you go [here](https://www.lego.com/en-us/service/buildinginstructions) you can download PDFs for ~~every instruction manual ever~~ many instruction manuals, all for free. if course if you really want that physical booklet go for it, but if not the LEGO company's got you covered
+
+or if you just have a jumble of bricks you're pretty sure are a set, this is a good resource to help you recreate your old sets. and the search interface is *very* good
+
+eta: I've been informed they do not have every instruction manual ever, but still a very large amount
+
+and thank you for the awards!
+
+eta2: thanks for the gold! i'm so sorry if i misled people on the "every set ever" bit, i've changed the post to reflect that. i'm glad at least this resource exists at all and is as comprehensive as it is, and i'm happy to have brought it to so many people's attention
+
+eta3: u/minionmemesaregood has [brought to my attention](https://www.reddit.com/r/LifeProTips/comments/j7zt7w/lpt_the_official_lego_website_has_a_section_where/g89bcgk/) a site that has a lot of the older 20th century set instructions, though also maybe not 100% complete- lego.brickinstructions.com
+
+and many others have mentioned bricklink.com and brickset.com, more great LEGO resources
+
+url:https://reddit.com/r/LifeProTips/comments/j7zt7w/
+author:dagnummit
+subreddit:LifeProTips
+score:53327
+numComments:539
+isOver18:False
+hasPostBody:True

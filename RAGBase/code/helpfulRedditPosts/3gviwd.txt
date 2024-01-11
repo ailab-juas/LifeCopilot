@@ -1,0 +1,13 @@
+title:
+LPT: Love to play music while working? Play a video game soundtrack. They are designed to work as background music and not disrupt your focus.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/3gviwd/
+author:Snisflen
+subreddit:LifeProTips
+score:5605
+numComments:2728
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,15 @@
+title:
+YSK that you can create virtual credit card numbers with major credit card companies
+
+content:
+Most people don't realize that they can protect themselves using virtual credit card numbers.  Citi, BoA and CapitalOne all allow you to generate a virtual credit card number on their websites.  You can use these card numbers like any credit card online.  It is tied to your primary account and appears like any other charge on your statement.  
+
+The benefit of these numbers are that if your card number is lost via a website compromise, you'll know exactly where the hacker got the number from (if you use one per site).  You also have the ability to set dollar and date limits per virtual card.  This is very useful if you sign up for a one month subscription and don't want them charging you extra if you forget to cancel...the charge will fail and they will close your subscription for you.
+
+url:https://reddit.com/r/YouShouldKnow/comments/dlyn53/
+author:1h8fulkat
+subreddit:YouShouldKnow
+score:7464
+numComments:184
+isOver18:False
+hasPostBody:True

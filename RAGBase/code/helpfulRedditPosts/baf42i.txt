@@ -1,0 +1,13 @@
+title:
+LPT: Researches have shown that if you spend a lot of time awake in the bed, your brain associates the idea of staying awake to the idea of staying in bed. So, if you have troubles falling asleep, try to go to bed only when really tired,thus modifying the existing pattern.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/baf42i/
+author:ilmattoh
+subreddit:LifeProTips
+score:2339
+numComments:79
+isOver18:False
+hasPostBody:False

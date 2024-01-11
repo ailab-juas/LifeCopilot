@@ -1,0 +1,13 @@
+title:
+YSKYou can bring sandwiches and popcorn and an empty bottle through airport security to save $$
+
+content:
+As long as it's not liquid, food can be brought through security thereby allowing you to enjoy a home made sandwich Instead of paying  exorbitant prices for crappy food.
+
+url:https://reddit.com/r/YouShouldKnow/comments/cp2ehd/
+author:retiredfireman
+subreddit:YouShouldKnow
+score:1254
+numComments:113
+isOver18:False
+hasPostBody:True

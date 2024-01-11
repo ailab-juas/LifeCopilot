@@ -1,0 +1,13 @@
+title:
+LPT: If you are randomly mentioned in a google slides comment by an email you’ve never seen before, do NOT open the google slide doc. It is a new, almost undetectable way to hack your email. Delete it immediately and empty your trash.
+
+content:
+You can try to report it as spam but you may have to open the doc to do that so just delete asap and empty your trash.
+
+url:https://reddit.com/r/LifeProTips/comments/jlgi0m/
+author:ShareekaJones
+subreddit:LifeProTips
+score:7309
+numComments:171
+isOver18:False
+hasPostBody:True

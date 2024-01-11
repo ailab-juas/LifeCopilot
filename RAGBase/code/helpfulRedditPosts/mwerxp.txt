@@ -1,0 +1,15 @@
+title:
+YSK that if you care about the bees, you shouldn't be mowing or killing the dandelions on your lawn in the early springtime.
+
+content:
+Why YSK: According to experts, in early spring dandelions can be a crucial food source for the bees after a long winter of living off their reserves. Spring can be a difficult time for the bees as they become active at 10C/50F, which is usually well before many pollinating flowers have bloomed. Dandelions grow early in the season in large numbers, and quickly generate lots of pollen for the bees to collect. 
+
+Source: [https://www.theweathernetwork.com/ca/news/article/heres-why-you-shouldnt-mow-dandelions-spring-lawn-care-benefits-and-save-bees](https://www.theweathernetwork.com/ca/news/article/heres-why-you-shouldnt-mow-dandelions-spring-lawn-care-benefits-and-save-bees)
+
+url:https://reddit.com/r/YouShouldKnow/comments/mwerxp/
+author:mrekted
+subreddit:YouShouldKnow
+score:18696
+numComments:783
+isOver18:False
+hasPostBody:True

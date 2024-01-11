@@ -1,0 +1,18 @@
+title:
+LPT: If you have a Google Keep note called shopping list and you use the voice command "Add Paper Towels to my shopping list", Google now will add it, handsfree. (xpost /r/android)
+
+content:
+credit to /u/rambantu.
+
+/u/shiftingtech adds
+&gt; This actually seems more flexible : I just used "OK Google, add 1 inch bolts to my home depot list" and it correctly added that to a list which is just titled "home depot" So I think it will add to any list you name, whether or not "list" is actually in the title...
+
+More discussion in the [original thread](https://www.reddit.com/r/Android/comments/4bhdcw/if_you_have_a_google_keep_note_called_shopping/)
+
+url:https://reddit.com/r/LifeProTips/comments/4biiqo/
+author:Darklyte
+subreddit:LifeProTips
+score:5351
+numComments:860
+isOver18:False
+hasPostBody:True

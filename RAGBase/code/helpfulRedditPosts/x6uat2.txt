@@ -1,0 +1,21 @@
+title:
+YSK: homeowners, you should clean your outdoor A/C compressor units regularly
+
+content:
+Why YSK: the outdoor A/C Compressor unit is probably not something you ever think about. But the unit collects a huge amount of gunk, dust, dirt and grime, making it far less efficient and shortening the life of the unit. Cleaning the condenser coils regularly (once a year is recommended) will make it run much better. I am guessing most people know to replace the inside air filter, but never think about the outside unit (at least that was me).
+
+I have been a homeowner for 15+ years, and just discovered this in the past few months. I honestly never thought of the outdoor A/C unit as something that needed to be messed with. But after opening it up and seeing how gross it was, I can’t believe it worked at all. It was surprisingly easy to clean. 
+
+Of course, if you get your A/C professionally serviced, they will do this. But I’d you’re like me and more of a DIYer, this isn’t probably something in most peoples radar.
+
+I’m sure there are many guides out there on how to clean the A/C condenser coils, but here is one I followed:
+
+https://youtu.be/_M-JLzIQHtk
+
+url:https://reddit.com/r/YouShouldKnow/comments/x6uat2/
+author:jackhannigan
+subreddit:YouShouldKnow
+score:4379
+numComments:193
+isOver18:False
+hasPostBody:True

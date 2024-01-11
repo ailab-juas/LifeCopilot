@@ -1,0 +1,14 @@
+title:
+YSK That if you are sent money on PayPal or any other transaction application by someone you do not know. DO NOT TOUCH IT.
+
+content:
+
+If you report it to the company they will take care of it. It is important you ignore any messages saying “my mistake, send it back” as it could be a scam to own money from a stolen Credit Card by the scammer.
+
+url:https://reddit.com/r/YouShouldKnow/comments/dlnq2c/
+author:VenomViper1
+subreddit:YouShouldKnow
+score:7795
+numComments:312
+isOver18:False
+hasPostBody:True

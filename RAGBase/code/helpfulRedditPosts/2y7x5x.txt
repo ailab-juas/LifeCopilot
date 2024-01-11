@@ -1,0 +1,16 @@
+title:
+YSK about betterexplained.com. It is a site that explains confusing mathematical ideas in a very intuitive way instead of "it just works"
+
+content:
+For example, the article on imaginary numbers is very helpful. In general, the way this is taught on schools is very 
+mechanical and unintuitive. The article explains how it is very similar to negative numbers but nowadays we don't look at negative numbers as weird but when you think about it, you are subtracting something more than what you have. The same with imaginary numbers. Where does it lie in the cartesian plane? How does a negative have a square root? Read the article and be amazed with the explanation.
+
+edit: [LINK] (http://betterexplained.com)
+
+url:https://reddit.com/r/YouShouldKnow/comments/2y7x5x/
+author:CraftedLove
+subreddit:YouShouldKnow
+score:4461
+numComments:163
+isOver18:False
+hasPostBody:True

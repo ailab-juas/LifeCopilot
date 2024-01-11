@@ -1,0 +1,13 @@
+title:
+LPT: When having a conversation with someone and they bring up any type of issue they have, even if you know the solution ask "What have you done so far" as opposed to saying "What you should do".
+
+content:
+This allows the other person to feel heard, along with going through the process of elimination on what has already been done.
+
+url:https://reddit.com/r/LifeProTips/comments/rpzmln/
+author:palinsafterbirth
+subreddit:LifeProTips
+score:1723
+numComments:25
+isOver18:False
+hasPostBody:True

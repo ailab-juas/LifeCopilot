@@ -1,0 +1,13 @@
+title:
+YSK to estimate yearly salary, simply double your per hour wage
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/2pmaa0/
+author:kubricks_cube
+subreddit:YouShouldKnow
+score:1313
+numComments:253
+isOver18:False
+hasPostBody:False

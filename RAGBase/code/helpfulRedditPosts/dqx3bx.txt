@@ -1,0 +1,13 @@
+title:
+YSK there is a Jewish holiday called Tu BiShvat, which is the "new year of the trees" it's an ecological awareness day where people go out to plant trees.
+
+content:
+With all the tree planting going on right now, I thought everyone should know this is a thing
+
+url:https://reddit.com/r/YouShouldKnow/comments/dqx3bx/
+author:gitrikt
+subreddit:YouShouldKnow
+score:1587
+numComments:90
+isOver18:False
+hasPostBody:True

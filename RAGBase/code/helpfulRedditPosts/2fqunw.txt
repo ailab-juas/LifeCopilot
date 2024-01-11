@@ -1,0 +1,13 @@
+title:
+LPT: The S.M.A.R.T. Scholarship being offered by the Department of Defense is not a scholarship.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/2fqunw/
+author:[deleted]
+subreddit:LifeProTips
+score:1413
+numComments:121
+isOver18:False
+hasPostBody:False

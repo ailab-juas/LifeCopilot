@@ -1,0 +1,13 @@
+title:
+LPT: If your work's Paid Time Off arrangement allows it, and especially if your company offers unlimited PTO, take some random middle-of-the-week days off every once in a while. Go on a day trip, run some errands, or just sit at home and be unproductive for a day or two. Makes a world of difference.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/yclu7w/
+author:grizzburger
+subreddit:LifeProTips
+score:42782
+numComments:1121
+isOver18:False
+hasPostBody:False

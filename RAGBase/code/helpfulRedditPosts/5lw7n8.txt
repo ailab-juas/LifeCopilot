@@ -1,0 +1,13 @@
+title:
+LPT: Follow the 2-minute rule. If it only takes 2 minutes to do, just do it.
+
+content:
+If you're a big procrastinator, this is a great and easy way to start fixing that problem. If it's something like taking out the trash, folding some clothes, or putting the dishes away, do them right there and then and don't put it off. If it only takes 2 minutes, get it out of the way!
+
+url:https://reddit.com/r/LifeProTips/comments/5lw7n8/
+author:pertater0
+subreddit:LifeProTips
+score:25495
+numComments:1139
+isOver18:False
+hasPostBody:True

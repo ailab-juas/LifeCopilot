@@ -1,0 +1,13 @@
+title:
+LPT: install these.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/y3wan/
+author:Rallo69
+subreddit:LifeProTips
+score:1851
+numComments:260
+isOver18:False
+hasPostBody:False

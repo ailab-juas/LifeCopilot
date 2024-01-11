@@ -1,0 +1,13 @@
+title:
+LPT: Write a random 4 digit number on a small bit of paper and keep it with your bank card/s. Chances are, if your card ever ends up in the wrong hands, they'll assume it's your PIN and just spam that number at a cash point until it blocks your card.
+
+content:
+Make sure the number is random... and not your PIN
+
+url:https://reddit.com/r/LifeProTips/comments/mjlh3k/
+author:Got-a-PhD-in-THC
+subreddit:LifeProTips
+score:2457
+numComments:163
+isOver18:False
+hasPostBody:True

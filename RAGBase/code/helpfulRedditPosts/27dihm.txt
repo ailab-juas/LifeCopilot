@@ -1,0 +1,30 @@
+title:
+LPT: You can turn off the annoying skype banner ads inside chat windows by blocking apps.skype.com on windows web settings.
+
+content:
+Go to the Control Panel
+
+Open the Control Panel\Network and Internet\Internet Options.
+
+Security tab.
+
+Click on 'Restricted sites' icon and click the Sites button - The 'Restricted sites' dialog will appear on the screen.
+
+Type https://apps.skype.com/ in the text box and then press the Add button.
+
+Close Internet Options and restart Skype.
+
+[Source](http://winaero.com/blog/how-to-disable-ads-in-skypes-chat-window/)
+
+Edit: Ok guys, we all know skype sucks balls, no need to tell us. You don't need to waste your energy as some of us don't have a choice due to professional reasons or simply because of less tech-savvy family and friends.
+
+Edit2: Thank yee kind stranger!
+
+
+url:https://reddit.com/r/LifeProTips/comments/27dihm/
+author:N19h7m4r3
+subreddit:LifeProTips
+score:2957
+numComments:325
+isOver18:False
+hasPostBody:True

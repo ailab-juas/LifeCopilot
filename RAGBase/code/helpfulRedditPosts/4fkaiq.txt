@@ -1,0 +1,17 @@
+title:
+YSK that registering as "Independent" for US elections is not the same as registering as "Non-Partisan" or "No Party"
+
+content:
+[Many potential voters across the United States](https://www.rt.com/usa/340177-american-independent-party-registration/) are updating their registration, and marking affiliation with a given political party in order to participate in upcoming Presidential primary elections.
+
+If you register as "Independent", you are declaring your affiliation with the American Independent Party.  Since you are declaring an affiliation, this could actually *make you ineligible* for voting in an otherwise 'open' primary.  If you wish to participate in an open primary, but don't want to actually register for that party, you should have an option to select some version of "No Party".  In different states, there might be different wordings, ranging from "None" to "Unaffiliated". 
+
+As an aside, the American Independent party is considered a *very far right-wing* party.  It has a very Christian-centered, pro-life, strict Constitutional construction platform.  If you are a Bernie Sanders supporter, you don't want to be associated with this party.
+
+url:https://reddit.com/r/YouShouldKnow/comments/4fkaiq/
+author:CatOfGrey
+subreddit:YouShouldKnow
+score:1089
+numComments:72
+isOver18:False
+hasPostBody:True

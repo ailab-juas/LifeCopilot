@@ -1,0 +1,13 @@
+title:
+LPT: The perfect Arnold Palmer
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/3bu6p7/
+author:prettyrickyent
+subreddit:LifeProTips
+score:1191
+numComments:166
+isOver18:False
+hasPostBody:False

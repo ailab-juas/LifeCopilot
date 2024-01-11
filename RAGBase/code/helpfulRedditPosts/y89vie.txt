@@ -1,0 +1,13 @@
+title:
+LPT: When considering a medical procedure don't ask your insurer if 'it is covered' - ask how much it will cost you.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/y89vie/
+author:ggibby
+subreddit:LifeProTips
+score:7905
+numComments:492
+isOver18:False
+hasPostBody:False

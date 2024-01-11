@@ -1,0 +1,13 @@
+title:
+LPT: No matter how angry you are never write your SO in anger via text or online.
+
+content:
+Later when you've patched things up and you go to write them again, your out of context angry words will be last conversation they see from you, rehashing ugly memories. 
+
+url:https://reddit.com/r/LifeProTips/comments/3xt3a0/
+author:skullkandyable
+subreddit:LifeProTips
+score:2583
+numComments:308
+isOver18:False
+hasPostBody:True

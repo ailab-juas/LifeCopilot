@@ -1,0 +1,17 @@
+title:
+YSK that you can read most premium news articles in incognito for FREE.
+
+content:
+Most news sites give you 3 free premium articles to read.
+If you have already read 3 premium articles you cannot read premium articles anymore, but there is a trick.
+
+Copy the URL, go to incognito and paste the link.
+You should be able to view the article now.
+
+url:https://reddit.com/r/YouShouldKnow/comments/era4wn/
+author:JordyEGNL
+subreddit:YouShouldKnow
+score:1983
+numComments:71
+isOver18:False
+hasPostBody:True

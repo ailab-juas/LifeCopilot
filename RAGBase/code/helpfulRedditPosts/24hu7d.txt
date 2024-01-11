@@ -1,0 +1,13 @@
+title:
+LPT: With fire season approaching I made a website to let Californians know at a glance where fires are occuring. Its completely free, I just want to give it exposure so it might help people
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/24hu7d/
+author:Woofington
+subreddit:LifeProTips
+score:1163
+numComments:63
+isOver18:False
+hasPostBody:False

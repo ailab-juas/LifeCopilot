@@ -1,0 +1,15 @@
+title:
+LPT If your power is out and you want to check if your neighbors were affected too, just look for wifi signals around you. No signals = they're out too.
+
+content:
+Edit: Wow Didn't expect this to blow up! Thanks for the gold! 
+
+P.S. oh and I get it... you've got UPS..
+
+url:https://reddit.com/r/LifeProTips/comments/l0lipm/
+author:Ful_Moon
+subreddit:LifeProTips
+score:22534
+numComments:754
+isOver18:False
+hasPostBody:True

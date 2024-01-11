@@ -1,0 +1,15 @@
+title:
+YSK: Keurig's k-cups aren't recyclable currently.
+
+content:
+I don't intend this as a rant to stop people from ever using the product. Just consider an alternative when the convenience of one cup of coffee isn't needed. Keurig is working towards a recyclable product but it's not quite there yet. 
+ http://www.keuriggreenmountain.com/en/Sustainability/SustainableProducts/OurProducts/ReducingProductWaste.aspx
+Edit: Some spelling errors.
+
+url:https://reddit.com/r/YouShouldKnow/comments/3ekwc5/
+author:ABadBear
+subreddit:YouShouldKnow
+score:1835
+numComments:205
+isOver18:False
+hasPostBody:True

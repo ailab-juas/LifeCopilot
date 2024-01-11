@@ -1,0 +1,21 @@
+title:
+YSK that Vinny doesn't actually give you the price the dealer paid for a specific car, it's just an estimate like KBB.
+
+content:
+**[Vinny's Price](http://myvinny.com/)**
+
+*"Vinny calculates the dealers cost for that vehicle using a complex mathematical algorithm."*
+
+**[Where does Vinny's Price come from?](http://myvinny.com/faq.php)**
+
+*"Vinny's Price is calculated through national car auction data and complex mathematical algorithms based on millions of actual transactions."*
+
+The cost is *calculated*, not scraped from some magical dealer auction database that doesn't exist. You can't find out what the dealer paid at auction unless you ask them. You also can't find out how much money they put into the car to make it ready for sale after the auction (where all cars are sold "as is").
+
+url:https://reddit.com/r/YouShouldKnow/comments/1d2x1m/
+author:Konwayz
+subreddit:YouShouldKnow
+score:1328
+numComments:97
+isOver18:False
+hasPostBody:True

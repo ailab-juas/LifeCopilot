@@ -1,0 +1,13 @@
+title:
+LPT: If a Telemarketer calls you by your name, just say "Sorry, Wrong Number".They are more likely to take you off their calling list since they think they have the wrong information profile.
+
+content:
+These cold callers can be a right pain.
+
+url:https://reddit.com/r/LifeProTips/comments/kpjjdv/
+author:fifa_god_786
+subreddit:LifeProTips
+score:1144
+numComments:111
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,36 @@
+title:
+LPT: Send a text message by email, using these addresses.
+
+content:
+Simply add the phone number before the @
+
+like 1234567890@mms.att.net
+
+I find these useful to quickly share a picture from my computer to my phone.
+
+* Alltel **@message.alltel.com**
+* Amp'd Mobile **@vtext.com**
+* AT&amp;T **@txt.att.net**
+* AT&amp;T **@mms.att.net** (pictures, text may work)
+* Boost Mobile **@myboostmobile.com**
+* Cingular **@mobile.mycingular.com**
+* Cricket **@mms.mycricket.com**
+* Einstein PCS **@einsteinmms.com**
+* Nextel **@messaging.nextel.com**
+* Sprint **@messaging.sprintpcs.com**
+* SunCom **@tms.suncom.com**
+* T-mobile **@tmomail.net**
+* VoiceStream **@voicestream.net**
+* US Cellular **@email.uscc.net** (text)
+* US Cellular **@mms.uscc.net** (pictures)
+* Verizon **@vtext.com** (text)
+* Verizon **@vzwpix.com** (pictures)
+* Virgin **@vmobl.com**
+
+url:https://reddit.com/r/LifeProTips/comments/2k3lcr/
+author:the_boyblunder
+subreddit:LifeProTips
+score:4059
+numComments:578
+isOver18:False
+hasPostBody:True

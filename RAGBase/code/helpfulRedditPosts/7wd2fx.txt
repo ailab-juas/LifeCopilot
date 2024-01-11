@@ -1,0 +1,21 @@
+title:
+LPT: Need something done? Call legal
+
+content:
+TL/DR: Can't get a corporation to do their job? Call their legal department and ask/tell them about their liability.
+
+Story: The cable/internet provider's underground junction box on my corner had a broken latch, making the cover not sit correctly on the box. It's a big junction box, about 2'x4', and the kids who gather at the bus stop there were always playing with it and leaving it ajar. I wanted it fixed because (a) didn't want some kid getting hurt, and (b) eventually something would break and I'd lose my internet.
+
+I called the customer service line several times and nothing got done.
+
+So I called the corporate main number and asked for legal. Person asked how to direct my call and I told them I wanted to ask someone about their liability for injuries caused by their equipment.  Got a lawyer on the phone and told them about the situation, and that I was sure they would want to fix it ASAP because "if a child gets hurt there I'm sure you don't want that liability falling on you." Made sure to ask for their name, title, email address, and direct phone line and to mention that I would email my notes from our conversation to them, and would welcome any comments/corrections if I missed anything.
+
+Cover was replaced within 90 minutes.
+
+url:https://reddit.com/r/LifeProTips/comments/7wd2fx/
+author:theWacoKidRidesAgain
+subreddit:LifeProTips
+score:20960
+numComments:861
+isOver18:False
+hasPostBody:True

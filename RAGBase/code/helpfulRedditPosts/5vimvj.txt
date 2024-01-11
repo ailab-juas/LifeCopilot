@@ -1,0 +1,13 @@
+title:
+LPT: If you're working on improving your posture, set the direction of your rear view mirror while sitting with good posture. If you notice that the rear view mirror isn't adjusted properly, then sit up.
+
+content:
+By adjusting the rear view mirror when your posture is good, the rear view mirror won't be set to the proper direction when your posture isn't good.
+
+url:https://reddit.com/r/LifeProTips/comments/5vimvj/
+author:copper_top_m
+subreddit:LifeProTips
+score:1951
+numComments:54
+isOver18:False
+hasPostBody:True

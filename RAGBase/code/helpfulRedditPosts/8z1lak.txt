@@ -1,0 +1,19 @@
+title:
+YSK if you have seasonal allergies, generic Claritin costs as little as $0.03 per dose.
+
+content:
+In dominant major US pharmacy chains at least, loratadine (branded as Claratin) is an [outrageous](https://www.cvs.com/search/?cp=%5B%7B%22key%22%3A%22source%22%2C%22value%22%3A%22sayt%22%7D%5D&amp;searchTerm=loratadine) [gouge](https://www.walgreens.com/search/results.jsp?Ntt=loratadine) at 5 to 50 times the price of other sources.
+
+A year's supply costs as little as [$11.14](https://smile.amazon.com/Signature-Allerclear-Loratadine-Antihistamine-Healthcare/dp/B00EXPTG08/ref=sr_1_7_s_it?s=hpc&amp;ie=UTF8&amp;qid=1531657399&amp;sr=1-7&amp;keywords=loratadine&amp;th=1)
+
+Previously on YSK: generic drugs are legally required to include the same active ingredients as brand names.  Inert ingredients can be different, and some can be allergic to them. [Source from the comments](https://www.fda.gov/downloads/AboutFDA/Transparency/Basics/UCM472258.pdf&amp;ved=2ahUKEwij9Z3hr6HcAhUD7awKHZb1BfwQFjAMegQIARAB&amp;usg=AOvVaw2SdbYb3LWxcLHZj4-PlyXD)
+
+Edit: Clarifying the specifics about the contents of generics, and formatting
+
+url:https://reddit.com/r/YouShouldKnow/comments/8z1lak/
+author:reversebackwards
+subreddit:YouShouldKnow
+score:6083
+numComments:370
+isOver18:False
+hasPostBody:True

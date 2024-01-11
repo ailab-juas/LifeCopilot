@@ -1,0 +1,13 @@
+title:
+LPT: first step to fighting addiction is to find out what exactly you are distracting yourself from.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/f9ziez/
+author:Fazomanzo
+subreddit:LifeProTips
+score:14519
+numComments:545
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,19 @@
+title:
+LPT: Never give out any personal information on an inbound call
+
+content:
+I just received a call today from the "National Student Loan Services of Canada" (I have a student loan). Turns out it was a scam caller. 
+
+If it is an important call, and personal information is required, tell them that you will call their service back after googling their proper phone number; don't call them back on a number that they give you. 
+
+Even if it's a legitimate call, it's better to be safe. 
+
+Edit: Yes, the National Student Loan Services of Canada is real; the caller was pretending to be them.
+
+url:https://reddit.com/r/LifeProTips/comments/58pw3q/
+author:jarretman
+subreddit:LifeProTips
+score:5377
+numComments:759
+isOver18:False
+hasPostBody:True

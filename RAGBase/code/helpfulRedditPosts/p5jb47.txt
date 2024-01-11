@@ -1,0 +1,17 @@
+title:
+YSK: Any citizen of a Commonwealth nation can seek consular assistance at the British Embassy, and even be granted a British Emergency Passport
+
+content:
+Why YSK: an admittedly niche bit of information, however if you ever did need it, it could literally save your life one day. It's also just useful if you've lost your [passport](https://en.wikipedia.org/wiki/British_emergency_passport) and can't get home.
+
+*(Edit to expand a little more)*
+
+For instance say you are stuck in Kabul right now and your home nation either never maintained an embassy in Afghanistan or has already evacuated. You can go to the British Embassy to ask for help as if it was your own. They can set you up with an emergency passport, and they can help you leave the country and get back to yours.
+
+url:https://reddit.com/r/YouShouldKnow/comments/p5jb47/
+author:SecondAccount404
+subreddit:YouShouldKnow
+score:9093
+numComments:216
+isOver18:False
+hasPostBody:True

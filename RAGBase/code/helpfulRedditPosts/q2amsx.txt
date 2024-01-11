@@ -1,0 +1,17 @@
+title:
+LPT: if going to dinner with someone who doesn’t know what they want to eat, play the 5-2-1 game!
+
+content:
+You pick 5 restaurants
+They pick 2 from your five
+You pick 1 from their two
+
+Another much easier method is to ask them to guess where you’re taking them, and then take them to wherever they guessed.
+
+url:https://reddit.com/r/LifeProTips/comments/q2amsx/
+author:[deleted]
+subreddit:LifeProTips
+score:19995
+numComments:651
+isOver18:False
+hasPostBody:True

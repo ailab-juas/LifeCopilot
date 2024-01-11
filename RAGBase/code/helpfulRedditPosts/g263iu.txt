@@ -1,0 +1,31 @@
+title:
+LPT: Do you have an older relative who you want to keep in closer touch with, but who doesn't have a smartphone or computer? You can buy a tablet with a 4G cellular connection, set it up to automatically answer Skype video calls, and then mail it to them.
+
+content:
+**Edit:** Don't forget to sanitize the tablet before you ship it!
+
+Howdy!
+
+We did this for my 96 year old grandmother, since we haven't been able to visit her.  We had to come up with a solution that would work for her, even though she's not in a position to learn any technology at the moment.
+
+I bought an inexpensive tablet with a cellular internet connection from Verizon, and set it up so that it would automatically accept video calls over Skype from me and the rest of my family (the Skype app has a setting for that). Then I sanitized it, and dropped it off for her.
+
+When we call, we're immediately connected. My grandmother doesn't need to tap or touch anything to answer the call. She just needs to keep the tablet plugged into its charger in a place where she can hear our voices when we call.
+
+There was also no need to set the tablet up on WiFi, since it uses a cellular connection. For her, it worked "out of the box."  The tablet's cellular connection only costs us $10/month extra on our existing phone family plan.
+
+My grandmother has really enjoyed it. 🙂
+
+If anyone here wants to set up a tablet like this for a friend or relative, I've written up [some detailed instructions](https://tabletconnect.org/) explaining how to do it.
+
+Feel free to ask me questions here. You can also DM me if you run into any trouble. I'm happy to help however I can!
+
+**EDIT 2:** A quick heads up that the Skype app for iPads and iPhones does not have the "automatically answer calls" setting.  However, iPads and iPhones can be configured to automatically answer FaceTime calls. I just updated the guide with instructions for that.
+
+url:https://reddit.com/r/LifeProTips/comments/g263iu/
+author:Stevaavo
+subreddit:LifeProTips
+score:33746
+numComments:766
+isOver18:False
+hasPostBody:True

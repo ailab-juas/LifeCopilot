@@ -1,0 +1,13 @@
+title:
+YSK You can download the audio book and text version of George Orwell's 1984 for free from the Internet Archive
+
+content:
+YSK With the news that the iconic dystopian book, 1984, reaching the NY Times bestseller list again, you can get it for free [here](https://archive.org/details/NINETEENEIGHTY-FOUR1984ByGeorgeOrwellPDFAudioBook).
+
+url:https://reddit.com/r/YouShouldKnow/comments/5qi802/
+author:cjhest1983
+subreddit:YouShouldKnow
+score:10969
+numComments:340
+isOver18:False
+hasPostBody:True

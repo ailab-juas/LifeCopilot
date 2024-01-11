@@ -1,0 +1,13 @@
+title:
+LPT: if youre using silicone caulk for some project, squeeze out a little dab on a post it or something and keep it next to it. when you inevitably want to poke it to see if its done, you can just poke the little dab instead and wont mess up the actual thing you're working on
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/zr7myi/
+author:haringtiti
+subreddit:LifeProTips
+score:24439
+numComments:339
+isOver18:False
+hasPostBody:False

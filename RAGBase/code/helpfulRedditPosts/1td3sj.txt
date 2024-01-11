@@ -1,0 +1,23 @@
+title:
+YSK about scholarpedia, a peer-reviewed version of wikipedia. Every article is "curated" by an expert in the field AND it's legitimate to cite in an essay!
+
+content:
+www.scholarpedia.com
+
+EDIT: some of you are claiming that scholarpedia is not a legitimate source to cite. I'm going to address some of the concerns raised.
+
+* *Scholarpedia is not an academic journal*
+
+Scholarpedia publishes a journal. Articles are cited in the same format as any other scientific journal. That being said, it is not as large or reputable as other journals, which may be a problem for some people.
+
+* *Scholarpedia is still an encyclopedia, so it's a tertiary source and not acceptable to cite in most papers*
+
+Scholarpedia is a scientific encyclopedia, and in scientific disciplines, the distinction between secondary and tertiary is relative. "Depending on the topic of research, a scholar may use a bibliography, dictionary, or encyclopedia as either a tertiary or a secondary source." ([Source](http://www.lib.umd.edu/ues/guides/primary-sources))
+
+url:https://reddit.com/r/YouShouldKnow/comments/1td3sj/
+author:skrillexisokay
+subreddit:YouShouldKnow
+score:2809
+numComments:189
+isOver18:False
+hasPostBody:True

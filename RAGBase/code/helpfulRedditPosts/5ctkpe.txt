@@ -1,0 +1,13 @@
+title:
+LPT: Explore your work environment, unused stairwells, workspaces, and elevators. If anything were to happen, it could save your life.
+
+content:
+Edit: I'm thinking on an active shooter or fire situation.
+
+url:https://reddit.com/r/LifeProTips/comments/5ctkpe/
+author:Henniferlopez87
+subreddit:LifeProTips
+score:2451
+numComments:256
+isOver18:False
+hasPostBody:True

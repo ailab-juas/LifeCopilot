@@ -1,0 +1,13 @@
+title:
+LPT: If you're starting to work out, make sure your goal is to feel better, not look better.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/2gk4o8/
+author:psychuil
+subreddit:LifeProTips
+score:1236
+numComments:333
+isOver18:False
+hasPostBody:False

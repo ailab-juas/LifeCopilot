@@ -1,0 +1,13 @@
+title:
+LPT: if a friend makes a recommendation, at least check it out. Worst case scenario is it will give you the opportunity to grow closer to them and maybe even understand them a little better. When you ignore recommendations it communicates a lack of investment in the relationship.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/fqvgk7/
+author:TheFlightlessPenguin
+subreddit:LifeProTips
+score:60279
+numComments:993
+isOver18:False
+hasPostBody:False

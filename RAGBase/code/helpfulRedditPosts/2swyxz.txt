@@ -1,0 +1,13 @@
+title:
+LPT: When in college, keep your best written papers saved on your computer for when prospective employers ask for writing samples.
+
+content:
+Just found this out the hard way when I realized after each semester I cleared my computer. Great.
+
+url:https://reddit.com/r/LifeProTips/comments/2swyxz/
+author:ryanblankyouremyhero
+subreddit:LifeProTips
+score:2493
+numComments:414
+isOver18:False
+hasPostBody:True

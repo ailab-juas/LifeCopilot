@@ -1,0 +1,20 @@
+title:
+YSK: Firefox on Android can play videos and audio in the background and with the screen off
+
+content:
+Why YSK: It opens a world of freedom on your mobile device. If you want to play youtube videos, spotify podcasts or any other multimedia in the background (while blocking advertisements) this is the most effective method I know for mobile devices.
+
+[Install this add-on and enjoy](https://addons.mozilla.org/en-US/android/addon/video-background-play-fix/?utm_source=addons.mozilla.org&amp;utm_medium=referral&amp;utm_content=featured) (may require a restart after it's installed the first time)
+
+
+
+
+Edit: [Apparently, if you don't mind an extra step every time, you don't need an extension](https://www.reddit.com/r/YouShouldKnow/comments/xofe5e/ysk_firefox_on_android_can_play_videos_and_audio/ipyr6kg?utm_medium=android_app&amp;utm_source=share&amp;context=3)
+
+url:https://reddit.com/r/YouShouldKnow/comments/xofe5e/
+author:NewEnglandBlueberry
+subreddit:YouShouldKnow
+score:6824
+numComments:222
+isOver18:False
+hasPostBody:True

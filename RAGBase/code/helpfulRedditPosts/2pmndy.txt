@@ -1,0 +1,16 @@
+title:
+LPT: Windows 7, Re-shake a window will return all collapsed windows back to original positions.
+
+content:
+We all have experienced it, you’re moving a window around on your screen and you accidently shake it. Doing so collapses all other windows that are open. If you let go of the window you shook, and re-shake the same window. All of the collapsed windows will return to their original positions.
+(Windows 7, 8, and 8.1)
+
+UPDATE: A few unbelievers out there, behold http://i.imgur.com/Ho41b1n.gifv
+
+url:https://reddit.com/r/LifeProTips/comments/2pmndy/
+author:[deleted]
+subreddit:LifeProTips
+score:1122
+numComments:245
+isOver18:False
+hasPostBody:True

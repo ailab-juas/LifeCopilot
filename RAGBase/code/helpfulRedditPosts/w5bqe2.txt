@@ -1,0 +1,13 @@
+title:
+LPT: When you come across an article that has a really bad hot take, it's clickbait. If you want to mock it, don't link to the article. Take screenshots and post those. This keeps people from going viral with stupidity.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/w5bqe2/
+author:JacobDCRoss
+subreddit:LifeProTips
+score:21500
+numComments:190
+isOver18:False
+hasPostBody:False

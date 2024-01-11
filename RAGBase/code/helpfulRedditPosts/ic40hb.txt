@@ -1,0 +1,13 @@
+title:
+LPT: "Anything you say can and will be used against you" also applies in everyday life. All the time, every time.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ic40hb/
+author:arctic_fox05
+subreddit:LifeProTips
+score:49939
+numComments:1202
+isOver18:False
+hasPostBody:False

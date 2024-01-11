@@ -1,0 +1,21 @@
+title:
+YSK the foods that prevent and aid recovery from depression.
+
+content:
+Why YSK: Most people consider only medication and exercise to fight depression. But, certain nutrients can also help elevate your mood.
+
+The best foods for depression were oysters and mussels, various seafoods, and organ meats for animal foods. The best plant foods were leafy greens, lettuces, peppers, and cruciferous vegetables.
+
+**Antidepressant Nutrients**
+
+Folate, iron, long-chain omega-3 fatty acids (EPA and DHA), magnesium, potassium, selenium, thiamine, vitamin A, vitamin B6, vitamin B12, vitamin C, and zinc.
+
+Published in World journal of psychiatry https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6147775/
+
+url:https://reddit.com/r/YouShouldKnow/comments/xqr2tl/
+author:Altruistic_Mood_8025
+subreddit:YouShouldKnow
+score:1749
+numComments:165
+isOver18:False
+hasPostBody:True

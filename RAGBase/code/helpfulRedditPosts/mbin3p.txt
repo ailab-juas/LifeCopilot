@@ -1,0 +1,15 @@
+title:
+YSK there are many reasons a person's hands might shake and telling them to "just relax" is not helpful
+
+content:
+Why YSK: Hand tremors can be caused by many different things and almost none of them are any of your business. Anxiety, a neurological disorder, drug/alcohol withdrawals, and brain damage are a few possible causes. The only one that can be improved by relaxing is anxiety. But calling attention to someone's anxiety will not help. It's patronizing and is likely to cause more anxiety. You're basically just announcing, "Everyone can see your hands shaking!" This is not an appropriate reaction to any medical symptom.
+
+Citation: https://www.ninds.nih.gov/Disorders/Patient-Caregiver-Education/Fact-Sheets/Tremor-Fact-Sheet
+
+url:https://reddit.com/r/YouShouldKnow/comments/mbin3p/
+author:conandy
+subreddit:YouShouldKnow
+score:13504
+numComments:483
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+Windows LPT: Alt+Enter while a file is highlighted to bring up its properties
+
+content:
+Instead of right clicking and going down to "Properties" (even though it's really just right click, up arrow, enter, but still).
+
+Just discovered this accidentally.
+
+url:https://reddit.com/r/LifeProTips/comments/1houc4/
+author:RayAP19
+subreddit:LifeProTips
+score:1448
+numComments:151
+isOver18:False
+hasPostBody:True

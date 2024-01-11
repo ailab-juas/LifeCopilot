@@ -1,0 +1,13 @@
+title:
+LPT: If you're buying a phone off Craigslist, ask the seller to meet you at your carrier's store so they can check if it's stolen. If they say no, it's probably stolen.
+
+content:
+Also, you probably shouldn't buy phones off Craigslist. Use swappa or another site dedicated to selling phones instead.
+
+url:https://reddit.com/r/LifeProTips/comments/5uwqvd/
+author:Roger_Mexico_
+subreddit:LifeProTips
+score:1586
+numComments:115
+isOver18:False
+hasPostBody:True

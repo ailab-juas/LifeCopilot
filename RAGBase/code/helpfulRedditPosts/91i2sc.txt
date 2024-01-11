@@ -1,0 +1,15 @@
+title:
+YSK: Photos sent via iMessage include the geo-location information by default, giving out your location to the receiver
+
+content:
+Every photo taken by your iPhone contains geo-location information by default (as well as other EXIF attributes). When sending them through most other messaging services, this information is usually removed as part of compression, but not in iMessage. Saving the photo someone sent you will show you the location it was taken at.
+
+To avoid that, you can either turn off Location Services for the stock camera app, or take a picture directly from the iMessage app and send it. Pictures taken from the iMessage app do not contain the geo-location info apparently.
+
+url:https://reddit.com/r/YouShouldKnow/comments/91i2sc/
+author:tyr--
+subreddit:YouShouldKnow
+score:3236
+numComments:128
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,26 @@
+title:
+LPT: get a VPN and change your country before booking on hotel/airline/car rental websites. they often charge vastly different prices based on your location. (explanation in comments)
+
+content:
+here's a gallery I made about this:
+http://imgur.com/a/qCIif
+
+Many hotels, airlines or rental car companies try to charge different prices based on your I.P. address.
+
+It's a fucked up idea in principle until you realize that you can use this system to get the best price for yourself: all you need is a VPN service that allows you to pretend to be in a different country.
+
+I tried to rent a Mercedes-Benz from the german car rental company EuropCar in Hamburg for two days.
+
+They offered me prices from 142,28 EUR (when they thought I was in Canada) all the way to 362,14 EUR when I used an Australian I.P. address.
+
+**If you try this, remember to delete your cookies before switching servers.**
+
+The VPN service I use is Astrill. They're okay but pretty much any other VPN service will work for this, too. I heard good things about bolehvpn and pro xpn.
+
+url:https://reddit.com/r/LifeProTips/comments/1qlf3y/
+author:memostothefuture
+subreddit:LifeProTips
+score:2118
+numComments:364
+isOver18:False
+hasPostBody:True

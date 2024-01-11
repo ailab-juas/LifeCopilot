@@ -1,0 +1,13 @@
+title:
+YSK you can send a scoop of dirt from your backyard to a research group that will analyze it for new antibiotic elements and other medicines.
+
+content:
+The group is called the Natural Products Research Group. Just [request a soil collection kit online](http://npdg.ou.edu/citizenscience) and they will send it to you. Return postage included.
+
+url:https://reddit.com/r/YouShouldKnow/comments/2ywixt/
+author:TrustZero
+subreddit:YouShouldKnow
+score:1794
+numComments:164
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Next time you're at Ikea, take a few of those paper tape measures home. Fold one up and keep it in your wallet...
+
+content:
+...You'll be surprised how often it comes in handy and other people will love you for it if they need a tape measure unexpectedly.
+
+url:https://reddit.com/r/LifeProTips/comments/13b2bv/
+author:ChrisDisco
+subreddit:LifeProTips
+score:1138
+numComments:179
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,14 @@
+title:
+LPT: Whenever I buy a car privately, I make sure to call/text first to screen the seller over the phone with two questions. I ask if the person selling the car if their name on the title. Then, I ask if they would be willing to let me have the car professionally inspected (at my expense of course).
+
+content:
+1. If that person says "No, it's my cousin's car. I'm selling it for them." I know to avoid the trip. In my experience, it's much easier for people to lie to you if they were not the last owner of the car.
+2. And for my second question, I ask them if they would be willing to drive the car to a mechanic near them for a full inspection. If the person starts waffling on such a request, I know not to go either.
+
+url:https://reddit.com/r/LifeProTips/comments/hvh5id/
+author:DeclutteringNewbie
+subreddit:LifeProTips
+score:4501
+numComments:237
+isOver18:False
+hasPostBody:True

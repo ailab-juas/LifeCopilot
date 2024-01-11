@@ -1,0 +1,13 @@
+title:
+LPT: When applying for a job online, copy and paste your answers to their application questions into a word document so you can refer back before attending a later stage interview
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/jyu9lq/
+author:LaVerdadEsQue
+subreddit:LifeProTips
+score:2083
+numComments:39
+isOver18:False
+hasPostBody:False

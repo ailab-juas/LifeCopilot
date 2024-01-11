@@ -1,0 +1,17 @@
+title:
+LPT: Trouble getting small screws started into small holes? use a small paperclip to hold the screw (see images)
+
+content:
+place the screw in the paperclip like this: http://i.imgur.com/nd8Rmvw.jpg
+
+Then you can either hold the paperclip to place the screw over the threaded hole, or lay it flat like this: http://i.imgur.com/yQPyAy1.jpg (sorry holding camera with one hand and screw driver with the other)
+
+EDIT: Forgot to mention that once the screw is started you can just pull the paperclip out. 
+
+url:https://reddit.com/r/LifeProTips/comments/18fvg8/
+author:thejoester
+subreddit:LifeProTips
+score:1381
+numComments:156
+isOver18:False
+hasPostBody:True

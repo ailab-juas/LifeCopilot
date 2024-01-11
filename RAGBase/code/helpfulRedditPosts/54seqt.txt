@@ -1,0 +1,13 @@
+title:
+LPT: even if no one sees your art or photos, don’t stop creating them.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/54seqt/
+author:spencerpll
+subreddit:LifeProTips
+score:5011
+numComments:1002
+isOver18:False
+hasPostBody:False

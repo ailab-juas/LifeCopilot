@@ -1,0 +1,13 @@
+title:
+LPT: Evacuating and worried if your freezer kept your food safe? Put an ice cube in a ziploc bag and keep it in the freezer. If the ice melts and refreezes it will be misshapen indicating a thawing.
+
+content:
+Taking LPT back to its roots! A quick and easy check to see if your freezer loses it's cool. If the ice melts and refreezes in a different shape chances are the food in the freezer isn't safe.
+
+url:https://reddit.com/r/LifeProTips/comments/567w1w/
+author:kcdale99
+subreddit:LifeProTips
+score:7077
+numComments:674
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,55 @@
+title:
+YSK: US app payments received totaling $600 or more in a year can be reported as taxable income
+
+content:
+# Consult tax and accounting professionals regarding your income &amp; tax situations, because I am not one.
+
+**TL;DR:** Payment Card and Third-Party Networks for the 2022 calendar year are now required to report $600+ in total transactions in a year as income via Form 1099-K for 2022 taxes, **unless the transactions are clearly designated as gift/non-business.**
+
+Read the next paragraph for how to potentially avoid this...
+
+# Why YSK:
+
+If you accept at least $600 from any payment-type apps (third-party payment processors), you need to **"be sure to ask those friends or family members to correctly designate the payment as a non-business-related transaction** \[e.g. "Friends and Family"\] and then make a note yourself of what the payment was for and from whom it was received" **or else the amount will be reported to the IRS as taxable income.**
+
+This new income reporting requirement is much lower than the prior reporting requirement of 200 or more transactions in a year totaling $20,000+.
+
+# What are considered "Payment Card and Third-Party Network Transactions"?
+
+PayPal, Venmo, and CashApp. They also include online auction payment facilitators and marketplaces connecting independent sellers with customers, such as eBay and Etsy. Some gig-work platforms, including Uber, Lyft, and TaskRabbit, are either third-party settlement organizations or use them to pay gig workers.
+
+Using cash or Zelle avoids 1099-K reporting. Zelle says:
+
+&gt;Payments between friends and family, and eligible small businesses sent through the Zelle Network are not subject to this law because Zelle facilitates messaging between financial institutions, but does not hold accounts or handle settlement of funds.
+
+This suggests that other bank to bank transfers of funds are also exempt from this 1099-K reporting.
+
+# What if a payment app mistakenly sends me a 1099-K for non-business transactions?
+
+Money received as a gift or reimbursement of a share of a meal should not be reported on a 1099-K. But mistakes may happen.  Next year, if you erroneously receive a 1099-K, you will have to contact the payment app company to request they send a correction to the IRS.  January 31 does not give you a lot of time to fix any incorrect form at that point before filing, so this could be time consuming and affect how fast your return will finish being processed.
+
+**My attempt to search for related YSKs here:** I tried searching for related information about the new 1099-K reporting requirements for 2022 taxes, but the closest I could find was this factually incorrect YSK that had no citations: "If you get a W-2, the $600 IRS reporting mandate does not affect you." FALSE.
+
+# Sources
+
+Primary:
+
+[https://www.irs.gov/businesses/understanding-your-form-1099-k](https://www.irs.gov/businesses/understanding-your-form-1099-k)
+
+[https://www.taxpayeradvocate.irs.gov/news/tas-tax-tip-use-caution-when-paying-or-receiving-payments-from-friends-or-family-members-using-cash-payment-apps/](https://www.taxpayeradvocate.irs.gov/news/tas-tax-tip-use-caution-when-paying-or-receiving-payments-from-friends-or-family-members-using-cash-payment-apps/)
+
+Secondary:
+
+[https://www.washingtonpost.com/business/2022/02/08/venmo-paypal-new-tax-reporting-rule-/](https://www.washingtonpost.com/business/2022/02/08/venmo-paypal-new-tax-reporting-rule-/)
+
+[https://www.journalofaccountancy.com/news/2022/mar/new-lower-form-1099-k-threshold-cautions-criticisms.html#:\~:text=However%2C%20the%20American%20Rescue%20Plan,must%20be%20sent%20by%20Jan](https://www.journalofaccountancy.com/news/2022/mar/new-lower-form-1099-k-threshold-cautions-criticisms.html#:~:text=However%2C%20the%20American%20Rescue%20Plan,must%20be%20sent%20by%20Jan)
+
+EDIT: Added colon to "Why YSK" in case bots are strict about that
+
+url:https://reddit.com/r/YouShouldKnow/comments/vc4vnx/
+author:Renegade_Meister
+subreddit:YouShouldKnow
+score:1062
+numComments:64
+isOver18:False
+hasPostBody:True

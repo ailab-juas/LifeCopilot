@@ -1,0 +1,15 @@
+title:
+YSK: If you pay for turbotax using the 'pay with my refund' option, they charge you an additional $35!
+
+content:
+For starters, there are multiple free options outside of turbotax that you could use to file your taxes but in case you are going to use their paid version I don't want anyone spending an extra $35 just to have them take additional money from your refund.  
+  
+[IRS.gov](https://www.irs.gov/uac/Free-File:-Do-Your-Federal-Taxes-for-Free)
+
+url:https://reddit.com/r/YouShouldKnow/comments/43hzc7/
+author:iCryKarma
+subreddit:YouShouldKnow
+score:3802
+numComments:343
+isOver18:False
+hasPostBody:True

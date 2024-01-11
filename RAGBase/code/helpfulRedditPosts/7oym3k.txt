@@ -1,0 +1,15 @@
+title:
+LPT: If your job involves a lot of talking on the phone, take the time to learn the NATO Phonetic Alphabet.
+
+content:
+If you need to spell something out, you'll always have a way to clarify which letter you've said without having to think about it and it sounds more professional than "B as in boy, L as in...uhhh...Larry", etc.
+
+https://en.wikipedia.org/wiki/NATO_phonetic_alphabet
+
+url:https://reddit.com/r/LifeProTips/comments/7oym3k/
+author:KingPellinore
+subreddit:LifeProTips
+score:35451
+numComments:3352
+isOver18:False
+hasPostBody:True

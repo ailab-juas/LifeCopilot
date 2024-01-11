@@ -1,0 +1,13 @@
+title:
+LPT: If you drop an earring in the carpet and can't find it, turn the lights off and shine a flashlight at a 45° angle, anything reflective will show up immediately.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/s1bugv/
+author:Thisisredred
+subreddit:LifeProTips
+score:1268
+numComments:38
+isOver18:False
+hasPostBody:False

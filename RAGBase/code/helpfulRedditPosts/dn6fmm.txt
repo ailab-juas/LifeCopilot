@@ -1,0 +1,13 @@
+title:
+LPT: When using a website's help chat, be aware that the employee can see what you're typing as you type it (even before you hit send).
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/dn6fmm/
+author:cwoodrow146
+subreddit:LifeProTips
+score:4366
+numComments:234
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: If you should ever worry about the approval of strangers, try to remember just how dumb the average person is and be yourself first and foremost. About half the world is dumber than that person. Might as well be genuine.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/fwa6na/
+author:Glass_Force
+subreddit:LifeProTips
+score:42452
+numComments:989
+isOver18:False
+hasPostBody:False

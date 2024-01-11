@@ -1,0 +1,13 @@
+title:
+YSK that LibraryGenesis (gen.lib.rus.ec) is a completely free library of almost every textbook and college manual known to man.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/YouShouldKnow/comments/gl236l/
+author:[deleted]
+subreddit:YouShouldKnow
+score:1754
+numComments:42
+isOver18:False
+hasPostBody:True

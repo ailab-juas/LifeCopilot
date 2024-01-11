@@ -1,0 +1,13 @@
+title:
+LPT: when buying citrus, pick the heaviest ones you can find. Even if it's not brightly colored or perfectly round, a heavy fruit is a juicy fruit.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/nb12ks/
+author:gaweenbob
+subreddit:LifeProTips
+score:28534
+numComments:527
+isOver18:False
+hasPostBody:False

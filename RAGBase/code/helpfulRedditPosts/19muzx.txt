@@ -1,0 +1,13 @@
+title:
+YSK whether you're tone deaf or not.
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/19muzx/
+author:QuiteOpinionated
+subreddit:YouShouldKnow
+score:1258
+numComments:384
+isOver18:False
+hasPostBody:False

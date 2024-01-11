@@ -1,0 +1,13 @@
+title:
+YSK: if you're staying at a hotel and front desk calls to verify your credit card details, it's a scam (x-post EMSK)
+
+content:
+Copy - paste: Just had "front desk" call me on my room phone at the Hilton Garden Inn in Tampa at 7:45am to verify my details as "our system went down last night". Hung up and called the operator and they told me they hadn't patched through anyone from an outside line, so apparently scammers are now booking hotel rooms and calling from inside the hotels. Crazy shit.
+
+url:https://reddit.com/r/YouShouldKnow/comments/55q84n/
+author:markohol
+subreddit:YouShouldKnow
+score:5059
+numComments:176
+isOver18:False
+hasPostBody:True

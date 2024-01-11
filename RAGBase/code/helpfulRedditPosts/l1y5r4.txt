@@ -1,0 +1,37 @@
+title:
+YSK how to apologise without seeking absolution
+
+content:
+Tl;dr: Making excuses deflects blame and is self-defeating when included in an apology.
+
+**Why YSK:** I realised recently how often I and the people around me are making 'non-apologies' which start with "I'm sorry..." and then digress into avoiding responsibility for doing the wrong thing.
+
+&amp;#x200B;
+
+On the whole, most people are quite forgiving when you sincerely apologise for wronging them in some way. (I'm talking about the normal social missteps we all make, not the "murdered your relative" type wrong). 
+
+But people often end up making things worse when they apologise by phrasing it in a way that removes responsibility. They do this, I think, because if the other party accepts the excuse, then their mistake is completely absolved.
+
+For example:
+
+**(1)** ***"I'm sorry I'm late for the meeting, I got stuck in traffic."***
+
+You are not asking for forgiveness, you are asking for *absolution from wrong-doing.*
+
+We've all used (1) at some point, but I have been reflecting on how it is actually pretty terrible. Because it is immediately followed by an excuse, it actually implies a denial of guilt. And, since it's is the traffic at fault, in the same set of circumstances, you can be relied on to be late again! 
+
+But consider:
+
+**(2)** ***"I am sorry for making you wait for me. I should have anticipated that the traffic would be bad this morning."***
+
+In (2), you are acknowledging the IMPACT of your actions. You are validating the annoyance your coworkers may be feeling. Then, you're explaining that YOU misjudged the traffic, not that the traffic caused your lateness. It's not an excuse, it's just more information to demonstrate that you understand where you went wrong.
+
+I think the key is to admit to committing a human error - you made a bad choice. Luckily, human error is universal and therefore forgivable. Most people just want to know that you understand the consequences of your actions and hear you take responsibility for it.
+
+url:https://reddit.com/r/YouShouldKnow/comments/l1y5r4/
+author:Phoenyx634
+subreddit:YouShouldKnow
+score:10053
+numComments:246
+isOver18:False
+hasPostBody:True

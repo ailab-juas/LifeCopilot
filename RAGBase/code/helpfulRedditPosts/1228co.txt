@@ -1,0 +1,13 @@
+title:
+YSK: How to turn your $60 router into a $600 router
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/1228co/
+author:kiddywinks
+subreddit:YouShouldKnow
+score:1068
+numComments:156
+isOver18:False
+hasPostBody:False

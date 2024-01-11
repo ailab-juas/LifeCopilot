@@ -1,0 +1,13 @@
+title:
+YSK: abusers may try to guilt you into thinking you're a bad person
+
+content:
+Why YSK: a lot of people, especially survivors of trauma, derive satisfaction believing they are good people. Survivors of trauma are also very susceptible to doubting this. Abusers will pick up on these signs and will try to make you feel like you're a bad person so they can manipulate you. They may even gossip about you to others so they can coordinate your social isolation. Believe in yourself and if you have doubts, check in with someone you can trust or better yet a therapist if you have access to one.
+
+url:https://reddit.com/r/YouShouldKnow/comments/wu349y/
+author:ghost_herding
+subreddit:YouShouldKnow
+score:13396
+numComments:402
+isOver18:False
+hasPostBody:True

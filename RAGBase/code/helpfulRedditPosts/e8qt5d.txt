@@ -1,0 +1,13 @@
+title:
+YSK If your teacher or professor doesn't want you using Wikipedia, you can go to the References section and use Wikipedia's sources.
+
+content:
+My seventh grade teacher taught me this. All you have to do is click the down arrow next to References and it shows you all the sources Wikipedia uses and what sections they took the info from.
+
+url:https://reddit.com/r/YouShouldKnow/comments/e8qt5d/
+author:Ethan_ML10
+subreddit:YouShouldKnow
+score:16395
+numComments:253
+isOver18:False
+hasPostBody:True

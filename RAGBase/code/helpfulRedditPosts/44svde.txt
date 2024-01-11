@@ -1,0 +1,13 @@
+title:
+LPT: On average, airline tickets are the absolute cheapest 54 days before the flight.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/44svde/
+author:catpunsfreakmeowt
+subreddit:LifeProTips
+score:1480
+numComments:94
+isOver18:False
+hasPostBody:False

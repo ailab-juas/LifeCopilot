@@ -1,0 +1,15 @@
+title:
+LPT: Put your phone on silent permanently. At first, you might worry you are missing important notifications, but you tend to check your phone every 5 to 10 minutes anyways or when things get slow. It's much more natural than having your stream of thought constantly interrupted by buzzing and tones.
+
+content:
+Just wanted to add that you can select which important calls/texts/notifications come through with Do Not Disturb. I haven't needed to do that so far.
+
+I work as a freelance tutor and have clients calling/texting/emailing at all hours of the day for the first time in my life. 99% of the notifications are not something I need to respond to immediately and I'd imagine most people could get away with responding after 5-10mins. If you don't like checking your phone every 15 minutes, this tip probably won't work for you. It's kinda fun randomly checking the phone and seeing a notification rather than being dragged to the phone by a noise. Also, phones with notification LED's are 👌
+
+url:https://reddit.com/r/LifeProTips/comments/mgvh2k/
+author:worthywhile
+subreddit:LifeProTips
+score:22820
+numComments:1139
+isOver18:False
+hasPostBody:True

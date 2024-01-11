@@ -1,0 +1,15 @@
+title:
+LPT: Ensure the gasket from the old oil filter isn't left behind when putting new one on.
+
+content:
+This could fit in TIL and TIFU as well. I learned this today after putting on a new filter, putting the new oil in and cranking her up. Only to hear a weird spewing. Found out the old gasket from the old filter was still on so it was basically rubber against rubber. 
+
+Fail to check this and you will risk losing all oil so go ahead and have another 5 quarts ready if you aren't a doublechecker. I know I am now.
+
+url:https://reddit.com/r/LifeProTips/comments/2lvogc/
+author:Crayonbuffet
+subreddit:LifeProTips
+score:1990
+numComments:426
+isOver18:False
+hasPostBody:True

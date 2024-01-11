@@ -1,0 +1,18 @@
+title:
+LPT: Always be prepared to leave a job, because your employer is always prepared to leave you.
+
+content:
+Do it to advance your career and shield yourself from layoffs.
+
+* Resume is always up to date.
+* Periodically ask people if they will be your reference.
+* Go on interviews, even if you don't want the job so you can practice this skill.
+* Have money saved for in between jobs.
+
+url:https://reddit.com/r/LifeProTips/comments/4z8z89/
+author:king_pooping
+subreddit:LifeProTips
+score:5932
+numComments:2231
+isOver18:False
+hasPostBody:True

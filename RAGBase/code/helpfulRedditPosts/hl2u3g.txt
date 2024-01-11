@@ -1,0 +1,13 @@
+title:
+LPT: Instead of saying "I don't drink or don't smoke" say 'I stopped drinking or smoking' people will force you less to do that and will appreciate your decision of stopping.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/hl2u3g/
+author:frizzycornerstone
+subreddit:LifeProTips
+score:3123
+numComments:314
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: A good knife does not have to be an expensive knife, it just has to be a decent knife that you always keep well sharpened. Learn how to keep your knives well sharpened.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/js7577/
+author:bkornblith
+subreddit:LifeProTips
+score:2329
+numComments:223
+isOver18:False
+hasPostBody:False

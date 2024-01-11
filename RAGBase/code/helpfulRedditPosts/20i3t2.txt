@@ -1,0 +1,16 @@
+title:
+YSK that if your Mac trackpad has stopped clicking, it may be because of a swollen battery. This is covered under Apple's quality program, even if your device is out of warranty.
+
+content:
+I went to the Apple store to change my battery, and was notified of this. I was prepared to pay for a new battery since the laptop is over 3 years old, but the technician told me that it was all covered under the quality program. Free new battery.
+
+Edit: Mine is a 2011 MacBook Pro. 
+This is not a guarantee that your device is covered. I am simply saying that if your trackpad isn't clicking as it should, it's because of the swollen battery, and that is likely covered under Apple's quality program.
+
+url:https://reddit.com/r/YouShouldKnow/comments/20i3t2/
+author:jesushatedbacon
+subreddit:YouShouldKnow
+score:1166
+numComments:57
+isOver18:False
+hasPostBody:True

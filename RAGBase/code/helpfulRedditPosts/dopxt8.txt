@@ -1,0 +1,15 @@
+title:
+LPT: Take good, clear pictures of all your keys individually and keep them somewhere safe. Any good locksmith should be able to make a key from a picture, and that'll save you lots of time and money if you lose them.
+
+content:
+There are exceptions of course, such as worn out keys, keys with chips that have to be programmed, and some high security keys. But best to have them just in case.
+
+But still, nothing beats having a spare somewhere, a spare key is always cheaper than having one made from nothing, sometimes a few dollars, sometimes a few hundred.
+
+url:https://reddit.com/r/LifeProTips/comments/dopxt8/
+author:itstheleviathan
+subreddit:LifeProTips
+score:1122
+numComments:127
+isOver18:False
+hasPostBody:True

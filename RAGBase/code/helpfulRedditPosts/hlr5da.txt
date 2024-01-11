@@ -1,0 +1,15 @@
+title:
+LPT: Express gratitude, rather than apologize, to keep people on your side when you make a mistake.
+
+content:
+I work retail, and if a customer is waiting for a while, it’s natural for me to say, “Sorry for the wait.” That immediate puts fault on me and puts the customer in a position to either admonish me or forgive me. Neither is appropriate in a sales situation. 
+
+Instead, I’ve started saying things like, “Thank you for waiting. I appreciate your patience.” Then you’ve complimented them. They feel like the bigger person, just for having done the ‘kind gesture’ of not knowing *you still hold the reins.*
+
+url:https://reddit.com/r/LifeProTips/comments/hlr5da/
+author:silashoulder
+subreddit:LifeProTips
+score:29609
+numComments:375
+isOver18:False
+hasPostBody:True

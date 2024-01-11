@@ -1,0 +1,15 @@
+title:
+YSK that you can lower the brightness of your iPhone past below its light bar.
+
+content:
+This is a great way to prevent your eyes from straining for anyone who is on their phone at night or in the dark. The lowest lighting setting doesn’t always do the job, and using a filter in the iphones own settings can dim the screen more.
+
+Here’s how to do it: https://www.google.com/amp/s/www.howtogeek.com/248005/how-to-reduce-your-iphones-brightness-lower-than-ios-allows/amp/
+
+url:https://reddit.com/r/YouShouldKnow/comments/bxkyjx/
+author:Voldemort57
+subreddit:YouShouldKnow
+score:2437
+numComments:112
+isOver18:False
+hasPostBody:True

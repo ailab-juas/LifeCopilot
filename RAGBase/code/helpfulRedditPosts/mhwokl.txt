@@ -1,0 +1,19 @@
+title:
+YSK: Google is surveilling you, even just while using Google Chrome.
+
+content:
+Why YSK: Because your privacy matters, and you should not have your every action tracked and traded for ad revenue by corporations. The reason why Google's products are "free" is because your data is their product, sold to advertisers.
+
+Read more here:
+
+[https://www.forbes.com/sites/zakdoffman/2021/03/20/stop-using-google-chrome-on-apple-iphone-12-pro-max-ipad-and-macbook-pro/?sh=475b894e4d08](https://www.forbes.com/sites/zakdoffman/2021/03/20/stop-using-google-chrome-on-apple-iphone-12-pro-max-ipad-and-macbook-pro/?sh=475b894e4d08)
+
+For simple alternatives, I recommend using Brave or DuckDuckGo. You can also manually configure Firefox with add-ons to remove most tracking.
+
+url:https://reddit.com/r/YouShouldKnow/comments/mhwokl/
+author:Neon-Predator
+subreddit:YouShouldKnow
+score:21887
+numComments:1346
+isOver18:False
+hasPostBody:True

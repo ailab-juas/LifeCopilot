@@ -1,0 +1,48 @@
+title:
+YSK: If turning it on and off again doesn't solve your tech problem, a PROPER google search will almost always get you the answer on the first page.
+
+content:
+Why YSK: Knowing how to search for an answer can save you hundreds of dollars paying someone else to solve your problem and reduce downtime waiting for it to be fixed. A majority of tech problems can be solved using a little bit of googling.
+
+I used to work selling and repairing electronics (computers, laptops, tablets, phones, printers, etc) for a couple years and was baffled by how much people would spend because they refused to learn how to search for the answer themselves. It wasn't rare for a customer to have a problem that I solved by 5 minutes of google-fu. Especially now as money is tight for a lot of people and work at home is becoming a big thing this is probably more relevant than ever.
+
+Since how you should google depends on the problem this is more going to be a list of general guidelines so some may not apply to every type of problem.
+
+1. ALWAYS begin or end your question with the model of device the issue is occurring on. Examples: "HP Spectre x360 13-aw0090ca no audio input", "How to download pictures Samsung S8", "Epson WF-7820 black streaks when printing", etc.
+2. If there is an error code for the love of everything holy **do not click away from it** without reading it. I have seen many people bring machines to me where they show me what's wrong by replicating the problem and then immediately closing the popup with the error code that says exactly what the issue is. I think it is reflexes for most people to close pop up windows so try to resist it.
+3. If you have an error code type the code along with the device model (a la point 1). You'll almost always find an answer that way. Example: "Epson WF-2320 how to fix Error code 0x97"
+4. If you built or worked on your device yourself and it is malfunctioning utilize resources like [Tom's Hardware No Boot Guide](https://forums.tomshardware.com/faq/no-post-system-wont-boot-and-no-video-output-troubleshooting-checklist.1575220/) or forums like [Linus tech tips](https://linustechtips.com/main/) for more specific advice.
+5. If you have to repair or replace a physical part of your device [IFIXIT](https://www.ifixit.com/) has guides on almost every popular device that include step by step instructions, pictures and links to buy repair kits if need be. Search "*DeviceName* *DesiredRepair* ifixit" in google to find what you are looking for. Examples: "Macbook Pro 2013 Battery Replacement ifixit" "samsung s5 screen repair ifixit" "Nintendo Switch Joycon drift fix ifixit"
+6. If google doesn't yield results try YouTube. I've had many my butt saved by finding a fix on a YouTube video. This is also better for visual learners
+7. If you have a software issue always begin or end your search with your operating system. Windows: Windows 10, Windows 7. Mac: MacOS or MacOS *VersionName* | Examples: "100% cpu usage Windows 10", "Change monitor resolution MacOS", "iMessage not syncing MacOS Mojave"
+8. If you are having an issue with a certain program always begin or end your search with the program name at the beginning or end. Examples: "Microsoft Outlook emails won't load", "Microsoft Word can't edit document", "No microphone input Macbook Air Zoom"
+9. If you don't understand technical terms (like cpu, gpu, post, ram, etc) in the answers you find spend a couple minutes googling the terms to learn what they mean and how they work.
+10. If you are getting lots results that include stores or etailers add "-store -buy -new -amazon -ebay" to the end of your google search. That will remove most product listings from your results. Just make sure to not to include the quotation marks.
+11. If you're having issue with a device like a printer, scanner, smart speakers, or a lot of other non-computer devices, looking up the manual (also called a User's Guide) can solve a lot of problems. Most devices only come with a paper "Quick Start Guide" not a full manual. Most devices, especially printers, have **EXTREMELY** detailed manuals which address almost every imaginable problem and error code you could encounter and how to fix them, along with how to set up and tweak every part of the device. The best way to search for this is to search "*DeviceName* Manual .pdf" Examples: "Epson WF-100 manual .pdf", "HP 3830 user guide .pdf", "Bose home speaker 300 manual .pdf"
+12. If you aren't sure what a port or cable is called these two guides [Here](https://removeandreplace.com/2013/04/13/computer-ports-learn-the-name-and-location-of-the-connections-on-your-desktop-computer-or-laptop/) and [Here](https://upload.wikimedia.org/wikipedia/commons/0/00/Cable_Connector_Reference_Chart.pdf) show just about every type of cable or port you'll run into. Knowing the name of the port or cable can change your search from an ineffective "blue rectangle port doesn't work *ModelName*" to "USB 3.0 type A port doesn't work *ModelName*". The latter is much more effective.
+13. Adding "guide" "walkthrough" or "fix" to your search can help narrow down the results if are aren't getting relevant results.
+
+If I am missing anything else let me know and I'll add it to the list
+
+Edit: Adding more suggestions from comments below
+
+* Add solved to the end of your search term if all you are finding is forum threads with the question but no answer. Example: "HP 3830 black streaks solved"
+* If you are having a software or program problem you almost **NEVER** have to download "fixer" software. The vast majority of them are viruses and malware. It Usually looks like this: Example: You search for "How to open .zip" -&gt; Some top result:
+
+&gt;Zip is a common file format. Zip is often used in X, Y, Z. Opening zip may result in X. To open zip use our FREE super-fileconverter-not-a-virus.exe. Download here!  
+&gt;  
+&gt;or  
+&gt;  
+&gt;MOV is a common video format used by Macintosh systems. To convert MOV to x, y or z, download our FREE NotAVirusConverter at *link*
+
+Off topic pro tip: If you really want a program to open .zip or .rar files that isn't build into Windows or MacOS there are only three good options I've found. Windows: 7Zip, WinRAR | MacOS: Keka
+
+* If you can't find your device model number here is how to do it. For most tech products it is located on the bottom or back of the device on a sticker like [this](https://support.ldproducts.com/hc/article_attachments/360024120854/wf_3730_3.JPG) or laser etched into the plastic like [this](https://www.laptopscreen.com/media/1481156886/acer_aspire_v5-571_combined.jpg). Very rarely it is hidden behind a panel or battery plate cover but those are usually smaller devices. Looking for the sticker or etching works most of the time.
+
+url:https://reddit.com/r/YouShouldKnow/comments/jdro50/
+author:Canuck0987
+subreddit:YouShouldKnow
+score:10313
+numComments:220
+isOver18:False
+hasPostBody:True

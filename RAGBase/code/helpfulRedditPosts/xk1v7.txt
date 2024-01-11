@@ -1,0 +1,13 @@
+title:
+Some pro tips for checking into a hotel
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/xk1v7/
+author:kingrobert
+subreddit:LifeProTips
+score:1761
+numComments:1209
+isOver18:False
+hasPostBody:False

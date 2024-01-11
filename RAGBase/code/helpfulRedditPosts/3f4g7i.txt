@@ -1,0 +1,13 @@
+title:
+LPT: If you're looking for a job, spend 8 hours a day applying and looking. Because that is your job right now.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/3f4g7i/
+author:[deleted]
+subreddit:LifeProTips
+score:2522
+numComments:757
+isOver18:False
+hasPostBody:False

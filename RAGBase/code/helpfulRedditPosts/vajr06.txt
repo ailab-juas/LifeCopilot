@@ -1,0 +1,15 @@
+title:
+YSK: if someone yells “behind” in a kitchen, it means “don’t move or I’ll hit you.” They’re not asking you to step aside.
+
+content:
+Why YSK: people have workplace accidents because of this misunderstanding all the time. If somebody is carrying, say, a scalding hot pot of soup and they say “behind,” a lot of newbies first instinct is to jump out of the way, resulting in them colliding with the person who called out. Instead, stand stock still until they’ve passed.
+
+Interestingly, a similar problem occurs on bike paths when someone calls out “coming up on your left!” Many people have the inclination to hop laterally, causing an accident. Instead, just stay where you are, moving predictably.
+
+url:https://reddit.com/r/YouShouldKnow/comments/vajr06/
+author:AMasterfulWriter
+subreddit:YouShouldKnow
+score:36489
+numComments:1367
+isOver18:False
+hasPostBody:True

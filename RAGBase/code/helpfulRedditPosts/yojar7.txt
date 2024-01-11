@@ -1,0 +1,15 @@
+title:
+LPT: Whenever someone you know and like mentions something they'd like to have, write it down. Then, when you need ideas of what to get this person as a gift, you've already got a list of ideas
+
+content:
+Keeping notes written down about people you know might seem weird or creepy, but it comes in handy to already have a list of the kind of things that someone doesn't have but would like getting. I have a bad memory, but keeping a list that you can regularly update year round is a life saver when it's time to start thinking about birthday or christmas gifts.
+
+ Even if the things on the list are altogether way out of your price range, it'll still give you somewhat of a guideline of what *kind* of stuff they like.
+
+url:https://reddit.com/r/LifeProTips/comments/yojar7/
+author:takaperoinen-miete
+subreddit:LifeProTips
+score:1126
+numComments:33
+isOver18:False
+hasPostBody:True

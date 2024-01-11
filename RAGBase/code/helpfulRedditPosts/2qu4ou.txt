@@ -1,0 +1,15 @@
+title:
+YSK that through a US government website you can find out how much money pharmaceutical companies spent on your specific doctor
+
+content:
+https://openpaymentsdata.cms.gov/
+
+This was originally submitted in a TIL, but the mods removed it and suggested I post it here instead. So far, data is available for 2013. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/2qu4ou/
+author:throwawayuc1
+subreddit:YouShouldKnow
+score:1813
+numComments:175
+isOver18:False
+hasPostBody:True

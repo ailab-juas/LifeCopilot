@@ -1,0 +1,13 @@
+title:
+LPT: Unscrewing a screw or connecting an electronic connector that you can't see
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/wac9c/
+author:virnovus
+subreddit:LifeProTips
+score:1511
+numComments:150
+isOver18:False
+hasPostBody:False

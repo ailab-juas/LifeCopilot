@@ -1,0 +1,45 @@
+title:
+LPT: Cool an entire apartment with a single box fan.
+
+content:
+I developed this DIY strategy helping my [also broke] friends make their apartments livable during heat waves. The difference was like night and day. I sure didn't invent it, but I call this strategy
+
+# The Corridor of Cool
+
+1. **Blow out, not in.** Yeah it seems weird, but this is the #1 secret to making this work. Blowing inwards makes a "jet" of air that cools one room very well, but for some reason an exhaust fan seems to make a "vacuum" that can suck in replacement air from an open window *all the way across the house*. That's the basic idea behind the Corridor of Cool.
+
+2. **Choose an air path that goes through the entire place.** If you open the window in the same room, air will only go through that room! Be sure and avoid "short circuits." [Fill in any gaps](https://i.imgur.com/BK9FWBS.jpg) around the fan with boxes or towels. If you do it right, you can actually feel a "wave" of cold air (the eponymous *corridor of cool*) start at the open window and move through the entire house. This takes about 20 minutes, so if you're testing this strategy don't give up right away!
+
+3. **Run the fan at night, "storing up coolth" in the walls/floor/ceiling.** This keeps the place much cooler in the morning, and delays the onset of sweltering heat during the day. You're getting "free" cooling from that night air.
+
+4. **The open window should be on the cool side**, preferably shady / vegetated. Suck in air from the place where *you* would be most comfortable. If the sun is hitting the wall it will warm the surrounding air, so prefer a north- or east-facing window.
+
+5. **Go with the flow.** Hot air rises, so exhaust on an upper floor. Take advantage of any wind.
+
+6. **Minimize heat gain.** Use curtains, sheets, or (yuck) foil over sunny windows. Close windows and turn off the fan when it's colder inside than out (especially in the morning), and turn the fan back on once the heat breaks. Simplest strategy: always run the fan, unless it's warmer out.
+
+7. **Cool yourself.** Not related to the above, but very effective. Wet shirts, wet hats, wet bandannas, drink cold water, point a small fan at your face, put your hands/feet in water, cool shower, eat spicy food, etc.
+
+Hope this helps some folks in this heat wave!
+
+---
+
+**edit:** /u/genericusername4197 suggested in a [sadly buried comment](https://old.reddit.com/r/LifeProTips/comments/8uzu9b/lpt_cool_an_entire_apartment_with_a_single_box_fan/e1k0gkd/) using a lamp timer to control the fan. I've done this, and it works great in case I sleep in or forget. Program it so the fan turns on at ~8 pm, and off at ~7 am. It still works *better* if you shut the windows tight in the morning, but this keeps the fan from sucking in too much hot air.
+
+Folks are also suggesting the fan-in-bucket-of-ice trick, but note that the freezer warms the room when it freezes ice. So don't try to "ice bucket cool" *the entire room* (especially the room the fridge is in, since the room will only get *hotter*), but instead aim the cold air at yourself. You can also make ice at night and use it during the day, "time shifting" heat from day to night. But imo the best use for ice is to drink it or put your hands in ice water, since this cools your body and little else.
+
+**edit2:** As several people have pointed out, the more humid it is the less well this works (still better than nothing, but watch for moisture/mold).  Floridians despair. 😧
+
+From [discussion](https://old.reddit.com/r/LifeProTips/comments/8uzu9b/lpt_cool_an_entire_apartment_with_a_single_box_fan/e1k2b5g/) with /u/topgaming, if all someone has access to is a small desk fan, it probably won't move enough air to make this work. In that case aim the fan inward, preferably at yourself. But I have successfully done this with standing fans (cut cardboard to fill the gap, and if necessary remove the stand and hang just the fan part).
+
+If possible mount the fan in an attic hatch to ventilate the attic space too (big gainz), essentially making a poor man's [whole-house fan](https://en.wikipedia.org/wiki/Whole-house_fan). https://www.youtube.com/watch?v=gon1BszK-h8&amp;t=30s
+
+Oh and to everyone saying "just use A/C," yes that's obviously better. But some of it can't afford that (plus electricity!), yes, even at Walmart/craigslist prices.
+
+url:https://reddit.com/r/LifeProTips/comments/8uzu9b/
+author:spacex_fanny
+subreddit:LifeProTips
+score:2723
+numComments:312
+isOver18:False
+hasPostBody:True

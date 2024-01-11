@@ -1,0 +1,15 @@
+title:
+LPT: If you use Amazon often, ALWAYS check the used some section. Amazon has warehouse deals on a lot of products that can save you a great deal of money in the long run. The products from the warehouse are in original packaging and have never been used.
+
+content:
+I was trying to buy a graphics card for $210, and then I checked the used section and the Amazon Warehouse Deals had it for $175!
+
+If you have Amazon Prime, it is Prime eligible too.
+
+url:https://reddit.com/r/LifeProTips/comments/1fx6u8/
+author:xOrlando
+subreddit:LifeProTips
+score:1666
+numComments:190
+isOver18:False
+hasPostBody:True

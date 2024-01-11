@@ -1,0 +1,15 @@
+title:
+YSK the Spotify Web PLayer lets you choose any song you want to play without a premium account
+
+content:
+Spotify Web Player: https://play.spotify.com
+
+You can also have unlimited skips, no ads (with browser adblocker), and move to a specific time in the songs. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/4b8waq/
+author:M0J4NG
+subreddit:YouShouldKnow
+score:1868
+numComments:206
+isOver18:False
+hasPostBody:True

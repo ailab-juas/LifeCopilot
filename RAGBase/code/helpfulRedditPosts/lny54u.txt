@@ -1,0 +1,13 @@
+title:
+YSK that when you speak to someone who is hard of hearing, slowing down your speech is more important than raising your volume.
+
+content:
+Why YSK: For most hearing impaired people, consonant sounds are muddled and cannot easily be distinguished if pronounced quickly. Vowels are heard more clearly because they carry most of the sound of a word, but consonants happen quickly in speech and aren't as audible or distinguishable. It's easy to confuse similar words because of the inability to distinguish consonants (such as "beer" ... "deer ... "bat" ... "pat" ..."tip" ..."bit") .  So when talking to hearing impaired people, s-l-o-w  d-o-w-n and enunciate each sound!  And, please, be patient when they ask you to repeat what you say (don't get louder; say it again more slowly &amp; clearly).
+
+url:https://reddit.com/r/YouShouldKnow/comments/lny54u/
+author:Bawonga
+subreddit:YouShouldKnow
+score:3845
+numComments:111
+isOver18:False
+hasPostBody:True

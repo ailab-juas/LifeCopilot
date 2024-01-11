@@ -1,0 +1,13 @@
+title:
+LPT: Be careful who you seek advice from, most people will give you advice that validates their own life choices.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/q5k64f/
+author:cryptokhann
+subreddit:LifeProTips
+score:5550
+numComments:142
+isOver18:False
+hasPostBody:False

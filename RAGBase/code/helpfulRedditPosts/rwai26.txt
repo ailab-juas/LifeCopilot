@@ -1,0 +1,14 @@
+title:
+LPT: If you’re going to take something apart, take pictures of it as you go.
+
+content:
+It can be difficult to put something back together without reference photos, even if the thing seems simple.  
+Now I’m off to see if I can find pictures of a specific type of lamp on google because I forgot how the pieces fit together
+
+url:https://reddit.com/r/LifeProTips/comments/rwai26/
+author:Leelubell
+subreddit:LifeProTips
+score:2174
+numComments:68
+isOver18:False
+hasPostBody:True

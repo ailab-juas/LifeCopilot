@@ -1,0 +1,21 @@
+title:
+LPT - You can see if your ice cream carton has been tampered with by how easily the lid comes off. The cartons are “hardened” in freezers upside-down, so the ice cream sticks to the lid. You should have to tug the lid off the first time. If it comes off too easily, that’s evidence of tampering.
+
+content:
+Edit: some brands come with tamper-evident packaging, either a cellophane ring around the lid or a film under the lid. **But many do not**, that natural seal formed by the ice cream hardening against the lid is what they rely on.
+
+Edit 2: okay so to address a common comment here, no, the ice cream softening while being transported from truck to store case or from the store to your house won’t unstick the lid. Even slightly softened the ice cream stays “tacky” and adheres to the lid until it goes back in the freezer and firms up again. 
+
+This form of packaging is just as “tamper evident” as a ring around the lid or a film under the lid. It does have a safety seal. The ice cream IS the seal. 
+
+No, once you really pull lid off, you can’t stick it back on with your spit. It takes softened ice cream pressing right up against the lid then going in a special hardening freezer at about -30F to form the seal. Once you break it, it’s very hard to reproduce.
+
+Edit 3: no, you don’t have to pull the lid off to check if it’s sealed. Just give it a slight tug, you’ll be able to tell it’s secure. If it actually comes off, it was never sealed to begin with.
+
+url:https://reddit.com/r/LifeProTips/comments/ca7dds/
+author:gotham77
+subreddit:LifeProTips
+score:20594
+numComments:1075
+isOver18:False
+hasPostBody:True

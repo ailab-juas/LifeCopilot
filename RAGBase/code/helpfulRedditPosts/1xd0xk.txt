@@ -1,0 +1,18 @@
+title:
+YSK Weblock blocks ads on your iPhone. Use it to block pop ups on Pandora, Youtube, game apps etc. No jail break. It was featured in AppsGoneFree yesterday
+
+content:
+[[itunes.apple.com]](https://itunes.apple.com/us/app/weblock-adblock-for-ios/id558818638?mt=8)
+
+You should know this because an ad blocker that effects all apps across an iphone with no jail break is pretty much unheard of and it works well
+
+Edit&gt; "the catch" is only works with Wifi  
+Edit2&gt; It's no longer free, it's $1.99 now. Although, I would gladly pay more than $2 for this service
+
+url:https://reddit.com/r/YouShouldKnow/comments/1xd0xk/
+author:amanonreddit
+subreddit:YouShouldKnow
+score:1109
+numComments:176
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: If you use a windows computer, get in the habit of using Windows Key + V for pasting to access a history of things you've copied. This way you can save yourself having to re-copy past copies, or even allow you to copy multiple things from one area and then paste them in a row in a new area with
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ylq657/
+author:vidanyabella
+subreddit:LifeProTips
+score:1673
+numComments:75
+isOver18:False
+hasPostBody:False

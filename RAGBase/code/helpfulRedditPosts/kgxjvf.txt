@@ -1,0 +1,13 @@
+title:
+LPT: Do not use your favourite song as your Ringtone or Alarm. You will slowly lose interest in it and wont enjoy it as much anymore
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/kgxjvf/
+author:saymerkayali
+subreddit:LifeProTips
+score:10800
+numComments:496
+isOver18:False
+hasPostBody:False

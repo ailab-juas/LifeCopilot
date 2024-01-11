@@ -1,0 +1,13 @@
+title:
+LPT: When organizing Legos, sort them by size, not color. Once you find the size you need, locating the color you want is almost instantaneous.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/8yp8v0/
+author:perfectionisajourney
+subreddit:LifeProTips
+score:2013
+numComments:85
+isOver18:False
+hasPostBody:False

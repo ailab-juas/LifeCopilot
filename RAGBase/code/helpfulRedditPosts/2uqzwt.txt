@@ -1,0 +1,13 @@
+title:
+LPT: If you live somewhere that's covered in snow right now, and you were thinking about starting a garden in the spring, keep an eye on the places where the snow melts fastest. There's where you get the most sun.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/2uqzwt/
+author:EauEwe
+subreddit:LifeProTips
+score:2097
+numComments:289
+isOver18:False
+hasPostBody:False

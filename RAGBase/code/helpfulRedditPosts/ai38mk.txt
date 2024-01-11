@@ -1,0 +1,13 @@
+title:
+YSK: when you buy digital media online, you don't own it, you're just licensed to watch it. that can be taken away.
+
+content:
+a while big, there was a bit of drama about a guy [losing his movies in apple's ecosystem](https://www.forbes.com/sites/johnarcher/2018/09/17/apple-responds-to-disappearing-itunes-movie-purchases-issue/1). it was a [licensing issue](https://www.macobserver.com/analysis/apple-isnt-deleting-itunes-movies/)
+
+url:https://reddit.com/r/YouShouldKnow/comments/ai38mk/
+author:lost12
+subreddit:YouShouldKnow
+score:5696
+numComments:349
+isOver18:False
+hasPostBody:True

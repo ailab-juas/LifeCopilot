@@ -1,0 +1,14 @@
+title:
+LPT: When browsing en.wikipedia.org, you can replace "en" with "simple" to bring up simple English wikipedia, where everything is explained like you're five.
+
+content:
+simple.wikipedia.org
+
+
+url:https://reddit.com/r/LifeProTips/comments/7y6zpb/
+author:FrenchJello
+subreddit:LifeProTips
+score:45208
+numComments:675
+isOver18:False
+hasPostBody:True

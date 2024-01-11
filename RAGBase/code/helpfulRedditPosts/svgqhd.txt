@@ -1,0 +1,13 @@
+title:
+LPT: if all the toilets in your house are occupied and you're waiting for one to be free, switch off the Wi-Fi.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/svgqhd/
+author:NizarAz
+subreddit:LifeProTips
+score:4865
+numComments:256
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: If you can smell your own perfume/cologne througout the day, you have used it too much. It will annoy people.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/8ebr63/
+author:termonikov
+subreddit:LifeProTips
+score:39613
+numComments:2515
+isOver18:False
+hasPostBody:False

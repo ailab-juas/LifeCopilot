@@ -1,0 +1,13 @@
+title:
+LPT: When you disagree with someone, start with what you agree with them first. This avoids them feeling combative and instead puts them in an agreeable stance, and actually listen to your disagreement instead of trying to disagree with it.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/glcn93/
+author:seanmashitoshi
+subreddit:LifeProTips
+score:1803
+numComments:35
+isOver18:False
+hasPostBody:False

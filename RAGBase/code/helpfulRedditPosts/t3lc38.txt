@@ -1,0 +1,13 @@
+title:
+LPT: "Anonymous" employee surveys are not always anonymous. Be careful how you answer if you value your job.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/t3lc38/
+author:Hawkfrost678
+subreddit:LifeProTips
+score:5308
+numComments:350
+isOver18:False
+hasPostBody:False

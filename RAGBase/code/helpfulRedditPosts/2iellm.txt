@@ -1,0 +1,13 @@
+title:
+YSK Crime in the USA has dropped almost every year for 20 years straight
+
+content:
+By watching the news you would think crime is at an all time high, but actually the opposite is true.  [http://www.fbi.gov/about-us/cjis/ucr/crime-in-the-u.s/2012/crime-in-the-u.s.-2012/tables/1tabledatadecoverviewpdf/table_1_crime_in_the_united_states_by_volume_and_rate_per_100000_inhabitants_1993-2012.xls](http://www.fbi.gov/about-us/cjis/ucr/crime-in-the-u.s/2012/crime-in-the-u.s.-2012/tables/1tabledatadecoverviewpdf/table_1_crime_in_the_united_states_by_volume_and_rate_per_100000_inhabitants_1993-2012.xls)
+
+url:https://reddit.com/r/YouShouldKnow/comments/2iellm/
+author:weiss27md
+subreddit:YouShouldKnow
+score:2949
+numComments:486
+isOver18:False
+hasPostBody:True

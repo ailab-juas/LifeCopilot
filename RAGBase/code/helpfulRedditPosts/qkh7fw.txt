@@ -1,0 +1,15 @@
+title:
+LPT: If your workplace is in the process of firing you, and they ask you to write a letter apologizing to the company, DO NOT. This is an admission of guilt and will torpedo your unemployment case.
+
+content:
+My friend worked at Wal-Mart for 7 years and when he came up for promotion they fired him officially for "using the bathroom too much." The company asked him to write a letter apologizing for it and it caused him to lose his unemployment and a judge ordered him to pay back all the unemployment he'd already gotten.
+
+Do not say or write ANYTHING that can be construed as an admission of guilt.
+
+url:https://reddit.com/r/LifeProTips/comments/qkh7fw/
+author:alegonz
+subreddit:LifeProTips
+score:58630
+numComments:1832
+isOver18:False
+hasPostBody:True

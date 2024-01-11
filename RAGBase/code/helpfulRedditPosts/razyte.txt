@@ -1,0 +1,17 @@
+title:
+LPT: If you order electronics in winter and they are delivered outside. Do not charge them immediately. Let it stay in room temperature before charging it. Charging Li-Io batteries when they are cold would damage them and reduce their life cycle.
+
+content:
+ Doing so even once will result in a sudden, severe, and permanent capacity loss on the order of several dozen percent or more, as well a similar and also permanent increase in internal resistance. This damage occurs after just one isolated 'cold charging' event, and is proportional to the speed at which the cell is charged. 
+
+ But, even more importantly, a lithium ion cell that has been cold charged is ***NOT*** safe and must be safely recycled or otherwise discarded. By not safe, I mean it will work fine until it randomly explodes due to mechanical vibration, mechanical shock, or just reaching a high enough state of charge. 
+
+For more information read the discussions posted [here](https://electronics.stackexchange.com/questions/263036/why-charging-li-ion-batteries-in-cold-temperatures-would-harm-them).
+
+url:https://reddit.com/r/LifeProTips/comments/razyte/
+author:Dazzling_no_more
+subreddit:LifeProTips
+score:3730
+numComments:79
+isOver18:False
+hasPostBody:True

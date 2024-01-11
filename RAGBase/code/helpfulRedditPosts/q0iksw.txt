@@ -1,0 +1,13 @@
+title:
+LPT: Don’t waste your money on fitness app subscriptions that take your data and converts it into a graph. Just input your stats onto a spreadsheet and use the graphing function for a free fitness tracker!
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/q0iksw/
+author:[deleted]
+subreddit:LifeProTips
+score:22056
+numComments:873
+isOver18:False
+hasPostBody:False

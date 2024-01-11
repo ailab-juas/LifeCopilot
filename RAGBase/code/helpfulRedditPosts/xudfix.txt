@@ -1,0 +1,13 @@
+title:
+LPT: Teach your children very early your postcode/zipcode and house number in case they need emergency services. It's also useful to have a 'password' for your kids for trusted adults.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/xudfix/
+author:SabrinaSpellman1
+subreddit:LifeProTips
+score:4471
+numComments:127
+isOver18:False
+hasPostBody:False

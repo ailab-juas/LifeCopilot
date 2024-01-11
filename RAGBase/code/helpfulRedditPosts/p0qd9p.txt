@@ -1,0 +1,13 @@
+title:
+YSK: Colorblindness correcting sunglasses do not instantly allow you to see more colors, they often take hours or even days of wearing to take noticeable effect. Videos of people putting them on and instantly seeing more colors are staged for marketing
+
+content:
+[deleted]
+
+url:https://reddit.com/r/YouShouldKnow/comments/p0qd9p/
+author:[deleted]
+subreddit:YouShouldKnow
+score:1001
+numComments:42
+isOver18:False
+hasPostBody:True

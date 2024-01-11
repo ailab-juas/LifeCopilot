@@ -1,0 +1,13 @@
+title:
+LPT: Now that Google has announced that it will be deleting accounts which are inactive for 2 years, people who store priceless memories on separate Gmail account should look for other safe options or atleast open the account once a year to avoid losing all the data.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/jtg0wa/
+author:psbankar
+subreddit:LifeProTips
+score:1024
+numComments:61
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,24 @@
+title:
+YSK Depression is different from sadness
+
+content:
+Why YSK: people will often say "what do they have to be depressed about? They have a good job/family/home/etc. 
+
+Depression can be brought on by major events that cause sadness, like grief or trauma. But it can also exist without any obvious external cause. 
+
+Sadness is like a stubbed toe: it sucks and is temporary in most cases. Depression is like a broken bone: if not properly cared for, it can heal poorly and be debilitating for life. 
+
+If you're depressed, stop blaming yourself for not having a "reason" and get the help you need to heal as best you can. If you find yourself thinking this about other people, try and step back to remember that depression is not a choice
+
+[How to spot the difference ](https://www.healthline.com/health/depression/depression-vs-sadness).
+
+I'm getting some push back on the "chemical imbalance" phrase so I did a quick fact check on myself. It's an outdated theory. Much research is needed but current thinking is there are many things that cause depression and not all of them are situational, which is my core point. For the scientific report, check the NIH link below or find peer reviewed journals and reliable sources for the most relevant information. 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3181668/
+
+url:https://reddit.com/r/YouShouldKnow/comments/rdky5m/
+author:hackersbevy
+subreddit:YouShouldKnow
+score:9431
+numComments:418
+isOver18:False
+hasPostBody:True

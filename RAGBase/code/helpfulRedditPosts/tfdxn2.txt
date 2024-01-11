@@ -1,0 +1,27 @@
+title:
+LPT: It's important to know the difference between "average" and "median" for statistics reported in the news. Using the wrong one can create a very biased or misleading message, intentional or not.
+
+content:
+(This is very much in line with the old saying that you can make statistics say what you want.)
+
+* *"****Average****"* (also called *"****mean****"*) is when you add up all the measurements and divide by the number of measurements. The *average* of \[9, 12, 30\] is 17
+* "***Median***" is when you sort the numbers in order and pick the middle one (or if there's two in the middle, the average of those two numbers).  The *median* of \[9, 12, 30\] is 12.
+
+Here's an oversimplified example of how picking the one or the other can send an unfair or biased message. 
+
+* An anti-spending politician wants to reduce government payouts to people in need, so they conduct an informal survey. They ask eleven people how much cash they have in the bank. However, one just deposited the take from a winning lottery ticket. 
+* The answers, in order of value, are $12, $14, $80, $130, $250, **$300** (bold because it's the median), $500, $800, $1000, $2000 and (our lottery winner) $500,042. 
+* Now that politician can unfairly say "The **average** amount of money these people have in the bank is **over forty-six thousand dollars**! We should not be paying them anything!". That's clearly not representative of what's going on at all, *but it's still accurate*. 
+* Someone else who wants a better understanding says "The **median** amount of money they have immediately available is **three hundred dollars**, which is far less than a month's rent. It looks like some of these people could use some help".
+
+Now there's lots that's wrong with this example - too small a survey number, a very biased survey, and including a very exceptional circumstance. 
+
+But it's an example of how someone that wants you to know a specific outcome can make truthful statements but still be misleading you on what's going on.
+
+url:https://reddit.com/r/LifeProTips/comments/tfdxn2/
+author:the_original_Retro
+subreddit:LifeProTips
+score:1588
+numComments:99
+isOver18:False
+hasPostBody:True

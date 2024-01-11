@@ -1,0 +1,17 @@
+title:
+LPT: Try to get in the habit of replacing self-deprecating thoughts with understanding thoughts.
+
+content:
+Instead of "I'm so dumb. I only have 2 brain cells to rub together." try to think: "I didn't think of it that way/I didn't know that."
+
+Instead of "I'm so lazy" try to think "I don't have the energy for this right now." And so on.
+
+If you attack yourself with self deprecation, you'll damage your mental health and self esteem.
+
+url:https://reddit.com/r/LifeProTips/comments/khgbe2/
+author:Cipher789
+subreddit:LifeProTips
+score:1517
+numComments:62
+isOver18:False
+hasPostBody:True

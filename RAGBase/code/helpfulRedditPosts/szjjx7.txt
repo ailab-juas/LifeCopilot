@@ -1,0 +1,13 @@
+title:
+LPT: If you wake up in the middle of the night, don't look at the clock before trying to fall asleep again.
+
+content:
+If there's a short time left before your alarm clock goes off, it will only increase your anxiety and you will find it much more difficult to fall asleep. I heard this tip on a podcast and it has helped me a lot. It's even worse of you look at the time on your phone, because the blue light will wake your brain.
+
+url:https://reddit.com/r/LifeProTips/comments/szjjx7/
+author:edinhooesquecido
+subreddit:LifeProTips
+score:3379
+numComments:166
+isOver18:False
+hasPostBody:True

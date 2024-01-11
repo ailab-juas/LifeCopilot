@@ -1,0 +1,13 @@
+title:
+LPT: Before purchasing anything on Amazon, use fakespot.com to have their engine analyze fake or counterfeit reviews.
+
+content:
+I was watching Pleasant Green's youtube video [Can You Really Get Paid to do Amazon Reviews?](https://www.youtube.com/watch?v=3YjEdaU1xTc) and noticed he used Fakespot.com to check for fake or counterfeit reviews. In addition, the website gives the seller a grade (A-F) and their Fakespot Adjusted Rating (0-5 stars). Their overview includes how many reviews were altered, modified, removed by amazon. I thought it would be beneficial for everyone who buys from Amazon.
+
+url:https://reddit.com/r/LifeProTips/comments/ib5jgn/
+author:dogdrinkincoffee
+subreddit:LifeProTips
+score:65626
+numComments:1232
+isOver18:False
+hasPostBody:True

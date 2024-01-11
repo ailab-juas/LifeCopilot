@@ -1,0 +1,13 @@
+title:
+LPT: After popping a bag of popcorn, open it just enough for unpopped kernels to fall out, turn over and shake them all out of the bag!
+
+content:
+...but be a bit careful, the kernels will be ~~hotter than a metal slide in death valley in the summer~~ **VERY HOT**, and also some bags want to open while tossing - just a heads up :)
+
+url:https://reddit.com/r/LifeProTips/comments/2tpaih/
+author:fargoadvice
+subreddit:LifeProTips
+score:2167
+numComments:480
+isOver18:False
+hasPostBody:True

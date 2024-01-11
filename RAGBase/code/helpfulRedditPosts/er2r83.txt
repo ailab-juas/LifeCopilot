@@ -1,0 +1,13 @@
+title:
+YSK that tomorrow, the 21st of January shall be the last day in which the work of George Orwell is copyright protected. After this date, it shall be in Public Domain for all to use.
+
+content:
+Titles include: Animal Farm and 1984
+
+url:https://reddit.com/r/YouShouldKnow/comments/er2r83/
+author:TheDipstick47837
+subreddit:YouShouldKnow
+score:3304
+numComments:90
+isOver18:False
+hasPostBody:True

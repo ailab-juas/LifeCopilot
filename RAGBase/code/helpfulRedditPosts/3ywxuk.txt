@@ -1,0 +1,13 @@
+title:
+LPT: If you use a hairdryer, try laying across your bed with your head hanging off. It gives you great angles for volume, flexibility to rotate, and it's relaxing.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/3ywxuk/
+author:PM_Me_Your_Schnoz
+subreddit:LifeProTips
+score:2953
+numComments:363
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,15 @@
+title:
+YSK: in many US states, drs and med students can legally perform a pelvic/prostate exam you while you’re under anesthesia. Without your knowledge or consent.
+
+content:
+WHY YSK: if you’re planning on getting surgery and need to be under anesthesia, check what hospitals perform this invasive exam so you can be informed about your rights. 
+
+One of MANY sources: https://www.healthywomen.org/your-care/pelvic-exams-unconscious-women/nonconsensual-pelvic-exams-are-still-happening
+
+url:https://reddit.com/r/YouShouldKnow/comments/ukkq07/
+author:reinaesther
+subreddit:YouShouldKnow
+score:5248
+numComments:489
+isOver18:False
+hasPostBody:True

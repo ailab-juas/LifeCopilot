@@ -1,0 +1,13 @@
+title:
+LPT: Its wedding season. Make the gift checks out to the bride and/or groom with their old last name, not the new one. If they haven’t legally changed it yet, they can’t cash the check.
+
+content:
+Source: Got married this weekend. The struggle is real.
+
+url:https://reddit.com/r/LifeProTips/comments/uurvjr/
+author:coffeehandler
+subreddit:LifeProTips
+score:3722
+numComments:305
+isOver18:False
+hasPostBody:True

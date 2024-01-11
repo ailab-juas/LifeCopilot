@@ -1,0 +1,13 @@
+title:
+LPT: If a prospective employer won't move forward unless you disclose your current pay, include your annual 401k match in that figure. Unlike a discretionary bonus, a 401k match is contractually obligated. It just happens to automatically go in your retirement savings.
+
+content:
+Obviously, the employer is trying to see how much they can lowball you by asking your current salary. By giving this answer you're not lying about your total compensation.
+
+url:https://reddit.com/r/LifeProTips/comments/ssdvdp/
+author:MelkorHimself
+subreddit:LifeProTips
+score:30132
+numComments:1266
+isOver18:False
+hasPostBody:True

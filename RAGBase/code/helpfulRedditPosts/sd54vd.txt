@@ -1,0 +1,13 @@
+title:
+LPT: If you're unsure if a piece of mail is junk, check the stamp. If it says "presorted standard," then it is what the USPS calls Marketing Mail. And Marketing Mail = Junk.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/sd54vd/
+author:portraitofpastorius
+subreddit:LifeProTips
+score:6456
+numComments:214
+isOver18:False
+hasPostBody:False

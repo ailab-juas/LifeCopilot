@@ -1,0 +1,13 @@
+title:
+YSK: Many weight loss supplements contain banned and even harmful drugs not shown on the label
+
+content:
+ FDA has a warning about such drugs [here](http://www.fda.gov/Drugs/ResourcesForYou/Consumers/BuyingUsingMedicineSafely/MedicationHealthFraud/ucm234592.htm). Consumer Reports has a more in-depth [article](http://www.consumerreports.org/cro/news/2014/12/taking-diet-pills-don-t-waste-your-money/index.htm).
+
+url:https://reddit.com/r/YouShouldKnow/comments/2yq32c/
+author:tchillarke
+subreddit:YouShouldKnow
+score:1098
+numComments:120
+isOver18:False
+hasPostBody:True

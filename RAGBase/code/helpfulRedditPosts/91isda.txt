@@ -1,0 +1,13 @@
+title:
+LPT: When you go to the beach, throw a brush in the car. It cleans sandy feet better than a towel and is more convenient than using water.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/91isda/
+author:full_skort_press
+subreddit:LifeProTips
+score:12918
+numComments:498
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: If a News Headline Tells you How to Feel, it's Not News.
+
+content:
+If an article's title suggests how you ought to react to the content- that it's shocking or disgusting or heartwarming or threatening- it's not news, it's a propaganda piece at best and clickbait at worst. 
+
+url:https://reddit.com/r/LifeProTips/comments/58ca2h/
+author:ShalmaneserIII
+subreddit:LifeProTips
+score:6601
+numComments:1116
+isOver18:False
+hasPostBody:True

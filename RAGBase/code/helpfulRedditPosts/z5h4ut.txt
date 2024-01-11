@@ -1,0 +1,13 @@
+title:
+LPT: "You are what you eat" also applies to what you watch, what you read, what you listen to, and all your other media choices.
+
+content:
+Basically, "You are what you consume."
+
+url:https://reddit.com/r/LifeProTips/comments/z5h4ut/
+author:PunchMeat
+subreddit:LifeProTips
+score:35426
+numComments:924
+isOver18:False
+hasPostBody:True

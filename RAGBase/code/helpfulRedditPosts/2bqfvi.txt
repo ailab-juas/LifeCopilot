@@ -1,0 +1,28 @@
+title:
+YSK how to turn your PC into a wifi hotspot (without a third-party software)
+
+content:
+* Open cmd as admin and enter:
+
+"netsh wlan set hostednetwork mode=allow ssid=YSK key=12345678"
+
+
+* Then type: "netsh wlan start hostednetwork"
+
+The result should look like [this](https://i.imgur.com/x41fIvT.png)
+
+
+Goto Network and sharing center in control panel, and click on [your main network](https://i.imgur.com/tmbyMAz.png) and properties. Click  sharing tab and check "[allow other network users to connect through this computer's internet connect](https://i.imgur.com/9Ph5A9W.png)"
+
+Done.
+
+
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/2bqfvi/
+author:crazy_hunter
+subreddit:YouShouldKnow
+score:1211
+numComments:219
+isOver18:False
+hasPostBody:True

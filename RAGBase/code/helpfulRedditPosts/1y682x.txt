@@ -1,0 +1,19 @@
+title:
+YSK why gas stations always have a roof built over the pumps, and what happens when you press the fire button. [video]
+
+content:
+[video of the fire retardant chemicals being deployed when man accidentally hits the fire button](http://www.liveleak.com/view?i=acf_1205798056  "Wait for it...")
+
+That 'roof' is the fire fighting system.  When you click the button, a dry powder is jetted down everywhere under that roof.  It's meant to put out the fire when it's a burning liquid. In this case gasoline or diesel, obviously.
+
+I don't know if it uses up the entire supply all at once, but I think we should assume it does.
+
+I hope nobody here is ever thinking of pulling a prank and pressing that button.  Not only will you be charged with the cost of replacing that stuff, but also the cost of lost business while the station can't dispense gas.  
+
+url:https://reddit.com/r/YouShouldKnow/comments/1y682x/
+author:Aerik
+subreddit:YouShouldKnow
+score:1372
+numComments:255
+isOver18:False
+hasPostBody:True

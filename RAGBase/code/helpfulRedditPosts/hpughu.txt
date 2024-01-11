@@ -1,0 +1,17 @@
+title:
+YSK that your brain makes no distinction between being emotional and physical pain.
+
+content:
+This was shown in a landmark study in 2003 by social neuroscientist Naomi Eisenberger at UCLA. It's a fascinating bit of research, showing that being socially rejected can trigger the same neural circuits that process physical injury, and translate it into the experience we call pain. 
+
+This is an important finding because emotional pain often feels like it isn't valid. 
+
+Here's [Eisenberger talking about this] (https://www.edge.org/conversation/naomi_eisenberger-why-rejection-hurts) and follow-on studies (the article includes links to the published research if you want to delve even deeper).
+
+url:https://reddit.com/r/YouShouldKnow/comments/hpughu/
+author:Ellie_D
+subreddit:YouShouldKnow
+score:5787
+numComments:155
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Think of everything you do as reinforcing that action. If you procrastinate, you're training your brain to procrastinate. If you think mean things about other people, you're training your brain to do that more often.
+
+content:
+Everything you do reinforces neural pathways related to that activity. Do you really want to get better at walking past that mess on the floor, or do you want to get better at cleaning it up the first time you notice it?
+
+url:https://reddit.com/r/LifeProTips/comments/dx7gsu/
+author:MadTouretter
+subreddit:LifeProTips
+score:12082
+numComments:187
+isOver18:False
+hasPostBody:True

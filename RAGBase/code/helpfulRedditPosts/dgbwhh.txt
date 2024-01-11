@@ -1,0 +1,13 @@
+title:
+LPT: If you run Windows, check your task manager for "WDF.exe". If you see it, it's a virus, using your CPU as a bitcoin miner. It's surprisingly common on people's computers and most people who have it never realize, they just think their computer got slower.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/dgbwhh/
+author:2SP00KY4ME
+subreddit:LifeProTips
+score:4207
+numComments:252
+isOver18:False
+hasPostBody:False

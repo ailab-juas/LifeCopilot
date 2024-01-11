@@ -1,0 +1,13 @@
+title:
+YSK that sunscreens are only effective for up to 2 hours and that you should reapply sunscreen throughout the day.
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/3b0h5n/
+author:Auspicion
+subreddit:YouShouldKnow
+score:1874
+numComments:177
+isOver18:False
+hasPostBody:False

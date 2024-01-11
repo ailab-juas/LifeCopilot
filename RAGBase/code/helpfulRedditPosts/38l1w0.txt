@@ -1,0 +1,29 @@
+title:
+YSK what you're agreeing to with Uber new privacy policy that go into effect on July 15, 2015. "You hereby expressly consent to Uber’s use of location-based services and expressly waive and release Uber from any and all liability"
+
+content:
+And they have a right to share it to third parties is "under Uber's discretion"
+
+~~EDIT 2: https://www.uber.com/legal/privacy-proposed/driver~~
+
+~~EDIT 3: https://www.uber.com/legal/privacy-proposed/~~
+
+THIS ONE: https://www.uber.com/legal/privacy-proposed/users/en
+
+EDIT 1: Hey thanks for the upvotes. I figured people should know and thought I'd share how they're informing the public. This is what they said in my email
+
+&gt;Your privacy is really important to us. We're committed to being transparent about how we treat your data, so we've re-written our privacy policy using a simpler format and clearer language. Our new Privacy Statement will take effect on July 15, 2015, so we encourage you to find time to review it. Using the Uber app on or after that date will tell us you have read and agreed to the terms of the Privacy Statement. 
+
+EDIT 2: ~~URL fixed~~. also note worthy for those who don't read the comments where there are some direct quotes from there terms, it says if you turn off the tracking in your phones settings they'll track from your phones IP address and they have the access to your full contacts and content of the last app you where in before theres. 
+
+I just deleted the app. I think I'm Lyft'ing from here on out. If they want to keep users they need to respect their right to privacy.
+
+EDIT 3: oops, in EDIT 2 I cut the extension from the URL because it pointed to the driver page and by cutting the the extension it pushed to a different folder of there legal page when selected
+
+url:https://reddit.com/r/YouShouldKnow/comments/38l1w0/
+author:Garrettm10
+subreddit:YouShouldKnow
+score:2439
+numComments:282
+isOver18:False
+hasPostBody:True

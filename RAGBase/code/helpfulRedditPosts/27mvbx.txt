@@ -1,0 +1,13 @@
+title:
+LPT: Windows 8 users who don't know yet, make a folder anywhere and name it: GodMode.{ED7BA470-8E54-465E-825C-99712043E01C} - to configure pretty much anything on your PC
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/27mvbx/
+author:ecky--ptang-zooboing
+subreddit:LifeProTips
+score:2475
+numComments:1507
+isOver18:False
+hasPostBody:False

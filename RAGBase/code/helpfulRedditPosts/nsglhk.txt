@@ -1,0 +1,13 @@
+title:
+LPT: Instead of using a Coinstar and losing 11% of your money, take your change jar when you go shopping and when it's time to pay, use a self checkout machine and just drop change into the coin slot. It counts the change just like a Coinstar and you keep all your money
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/nsglhk/
+author:TheresA_LobsterLoose
+subreddit:LifeProTips
+score:43171
+numComments:2024
+isOver18:False
+hasPostBody:False

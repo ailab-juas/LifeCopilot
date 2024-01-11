@@ -1,0 +1,13 @@
+title:
+LPT: When packing a meal for work, leave your keys on the meal in the fridge. You'll never forget a meal again.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/20tw53/
+author:Ryanwodarski
+subreddit:LifeProTips
+score:2079
+numComments:313
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: If you are putting air in your tires you should also put some air in your spare tire as well. Some spare tires will lose air over time and you never know when you’ll need to use it.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/odjdpp/
+author:[deleted]
+subreddit:LifeProTips
+score:1022
+numComments:34
+isOver18:False
+hasPostBody:True

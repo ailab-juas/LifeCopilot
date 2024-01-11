@@ -1,0 +1,19 @@
+title:
+YSK: Upon request, many companies will either show you the data they've collected on you, or delete said data altogether.
+
+content:
+Why YSK: Your data is constantly being collected and sold without your knowledge. While there is no federal law guaranteeing the erasure of your data, many companies will comply regardless, either because of company policy or through compliance with non-federal or even foreign law.
+
+If any of these companies have extensive business in the EU, they likely have to abide by their right-to-erasure laws, even in the US. You can stop these companies from collecting and holding any data on you, while at the same time reducing clutter in your inbox from unwanted companies. 
+
+When requesting for your data to be deleted, it's important to note that **upon completion,** **your account, if you have one, along with all data linked to it will be deleted and there is no way to get it back.**
+
+To make the process of requesting data deletion easier, there's a website called SayMine that will help you find companies that have data on you and will send a pre-written request for your data to be deleted, and you can have them delete your data when you're done.
+
+url:https://reddit.com/r/YouShouldKnow/comments/qstmu9/
+author:Simbatheia
+subreddit:YouShouldKnow
+score:2181
+numComments:34
+isOver18:False
+hasPostBody:True

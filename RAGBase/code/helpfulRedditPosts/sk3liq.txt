@@ -1,0 +1,13 @@
+title:
+LPT: Make your calls at night for tasks you need to accomplish during business hours
+
+content:
+I often find that trying to keep up with everyone I need to call—scheduling dr.s appointments, following up with insurance, talking to the bank, etc.—is really tricky during the workday. And sometimes I'm too tired or burnt out to take care of it during my lunch break or the second I get home. Over the last few years, I've gotten in the habit of calling and leaving messages at night, when I can spend ten minutes calling 5 places in a row and leaving brief messages with what I need. The offices will return your call in the next day or two, and I find it much easier to pick up a call and finalize a conversation than having to remember to call them. This also works well for places where you may be stuck on hold for some time during work hours.
+
+url:https://reddit.com/r/LifeProTips/comments/sk3liq/
+author:slugsalad
+subreddit:LifeProTips
+score:9101
+numComments:365
+isOver18:False
+hasPostBody:True

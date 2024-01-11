@@ -1,0 +1,17 @@
+title:
+LPT: When buying an appliance, don't overlook its decibel rating. In the long run, a noisy appliance can be more psychologically and physically draining than you would think.
+
+content:
+ This is especially true for appliances that you use very often or which are continuously on (such as a fridge).
+
+Depending on the appliance and the country you live in, there might be a value in db (decibel) written on a sticker on the appliance or it can be found in the specification sheet. Decibel is a logarithmtic value, so a few decibels less make a huge difference for your comfort (and health).
+
+For loud appliances (e.g. lawnmowers) you should wear hearing protection whenever you use them.
+
+url:https://reddit.com/r/LifeProTips/comments/k0on26/
+author:ConsciousnessWizard
+subreddit:LifeProTips
+score:38817
+numComments:1316
+isOver18:False
+hasPostBody:True

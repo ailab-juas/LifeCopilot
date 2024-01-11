@@ -1,0 +1,13 @@
+title:
+YSK Wired.com is telling people to lie to /r/random_acts_of_pizza and overall be immoral people.
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/1ier9c/
+author:youknow99
+subreddit:YouShouldKnow
+score:1134
+numComments:230
+isOver18:False
+hasPostBody:False

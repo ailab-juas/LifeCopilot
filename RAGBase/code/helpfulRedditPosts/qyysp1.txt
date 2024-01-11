@@ -1,0 +1,23 @@
+title:
+YSK: There’s a website available for free that will instantly get you into paywalled sites. No browser extensions needed.
+
+content:
+I hate paywalls, so I searched high and low until I found a website that instantly gets around a lot of them: [12 foot ladder](https://12ft.io). 
+
+So far, it’s worked on every website I’ve tried it with. All you have to do is go to the website, then put in the URL, and it opens it for you. It’s a lot more convenient than downloading browser add-ons or extensions.
+
+If you want to test it out, [here’s](https://cooking.nytimes.com/recipes/1019938-two-ingredient-mashed-potatoes?action=click&amp;amp;amp;amp;module=Collection%20Band%20Recipe%20Card&amp;amp;amp;amp;region=Thanksgiving%20Side%20Dish%20Recipes&amp;amp;amp;amp;pgType=supercollection&amp;amp;amp;amp;rank=1) a paywalled recipe from New York Times Cooking.
+
+Why YSK: you won’t have to spend money or switch devices to read paywalled sites anymore, making your life just a little easier.
+
+Edit: u/SaveFroman pointed out another site, [PrintFriendly](http://www.printfriendly.com) that can do the same thing… meaning that, between the two of these sites, a lot more of the Internet should be accessible.
+
+edit 2: u/userseven says he uses [archive.org](https://archive.org), which also works by copy/pasting the URL - this works with NYT, etc.
+
+url:https://reddit.com/r/YouShouldKnow/comments/qyysp1/
+author:diverareyouok
+subreddit:YouShouldKnow
+score:30603
+numComments:679
+isOver18:False
+hasPostBody:True

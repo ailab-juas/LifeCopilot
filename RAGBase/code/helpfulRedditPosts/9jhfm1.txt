@@ -1,0 +1,23 @@
+title:
+LPT: If a company hires you on with a certain title, but doesn't give you work related to it, get out fast. Don't let them derail your entire career path.
+
+content:
+(EDIT: Adding an example as one was asked for further down in the comments.)
+
+What does such a derailed career look like?
+
+Let's take the example of a software developer who is hired on with that title, but is handed a phone and told to take IT help calls. Let's say this developer trusts the company knows what it's doing and stays on for two years before realizing that the company had no intention of actually fitting them into a role where they actually develop any software.
+
+The developer is now two years out of practice AND two years behind the times in the development world. Even trying to switch jobs back into software development at that point is going to be a significant hurdle to overcome.
+
+Talking to your company about this is a great first step and may help to correct your situation, but be wary of company promises about something in the future; that's basically the situation you're already in!
+
+Two years out of practice is better than five, though. Don't get discouraged, persistence and studying on your own time pays off! Lots of great comments below with advice from success stories, hope to add mine soon!
+
+url:https://reddit.com/r/LifeProTips/comments/9jhfm1/
+author:[deleted]
+subreddit:LifeProTips
+score:7340
+numComments:446
+isOver18:False
+hasPostBody:True

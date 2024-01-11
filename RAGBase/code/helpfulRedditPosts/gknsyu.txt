@@ -1,0 +1,16 @@
+title:
+LPT: If you're in college and are wondering how to get into your dream job, don't go to your advisors or university career center. Talk to people who are working in your dream job, and ask them what skills to learn, classes to take, events centered around them, and memberships to sign up for.
+
+content:
+For me, unless you go to a top tier college or have college professors who have an established career outside of academia, you're better off asking people working your dream jobs what they did to get there, and what you need to do given your current experience and skill set.  
+
+
+Ex.  If you want to be a Crime Analyst, you'll probably want to learn ArcGIS, Excel, Access.  You might also have to start as a police officer in a lot of smaller police departments if you don't live in a big city, or will need a masters degree with years working in similar GIS fields.
+
+url:https://reddit.com/r/LifeProTips/comments/gknsyu/
+author:j450n_1994
+subreddit:LifeProTips
+score:6304
+numComments:230
+isOver18:False
+hasPostBody:True

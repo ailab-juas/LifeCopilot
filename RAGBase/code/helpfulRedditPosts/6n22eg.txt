@@ -1,0 +1,21 @@
+title:
+LPT: If you buy a new car, and the dealership calls and says there's an issue with the contract and you need to come back and re-sign, do not do it until you have them send you the new contract and mark all the changes.
+
+content:
+Someone mentioned car dealerships doing this in another thread, and I didn't even think about it when it happened to me. I went home and looked at the original contract and the contract they had me re-sign and noticed several differences that I didn't notice before because my payment was the same and, due to our friendly conversation, I was admittedly distracted, trusted him, and didn't read the new contract because my payment was exactly the same. 
+
+What the dealership had done was originally financed my car through the dealership for a lower interest rate, then changed a lot of the finance numbers to ensure that everything matched for me in the short term (i.e. my monthly payment) but my interest rate jumped three percent, I assume the commission for the salesman had jumped, and they sold my contract to another finance company. The numbers inside the contract including the final sale price of the car, the trade in of my car, additional warranty for mechanical issues, the gap coverage, and other miscellaneous dealership fees had changed dramatically to suit the needs of the finance contract to ensure that they could get the financing. I'm now getting the paperwork from the finance company to ensure that what the dealership sent them matches what they gave me.
+
+TL:DR - Don't sign anything without reading everything first, and get all changes in writing which highlights all changes before signing a new contract from any dealership.
+
+Edited to remove an assumption on commission.
+
+Edit 2 for clarification - The dealership informed me during the first signing that I was approved through one finance company and had me sign the contract, and idiotically (my fault admittedly, while letting the guy talk to me through the signing and not paying attention to what I was reading,) what I was actually signing was financing through the dealership. The "error" was that in the 12 days between the first and second signing, they had actually sold my contract from their dealership to the finance company that I was already approved for (or that they had informed me I was approved through.) So, the second contract was the exact same form as the first, but the interest rate, many of the numbers were different, as well as the finance company had changed from the dealership to the finance company they had already informed me I was approved through.
+
+url:https://reddit.com/r/LifeProTips/comments/6n22eg/
+author:starfruitstupid
+subreddit:LifeProTips
+score:17124
+numComments:1590
+isOver18:False
+hasPostBody:True

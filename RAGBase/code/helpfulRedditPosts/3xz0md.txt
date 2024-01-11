@@ -1,0 +1,15 @@
+title:
+YSK There's a website where you can play the Claw arcade game and when you win it donates money to help the homeless
+
+content:
+https://www.libertygames.co.uk/content/santa-claws/
+
+It is hooked up to a real Claw game and you control it from your computer. The different prizes (reindeer, santa, etc) are 'worth' different amounts varying from £5-£20. All proceeds go to St Mungo's Broadway which helps 25,000 homeless people per year.
+
+url:https://reddit.com/r/YouShouldKnow/comments/3xz0md/
+author:emmattack
+subreddit:YouShouldKnow
+score:1866
+numComments:48
+isOver18:False
+hasPostBody:True

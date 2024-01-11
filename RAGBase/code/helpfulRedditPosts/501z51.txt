@@ -1,0 +1,13 @@
+title:
+LPT: If someone tells you they don't drink alcohol, don't ask them why.
+
+content:
+It's probably for a personal reason, and may be because they're an alcoholic. In any case, it isn't any of your business.
+
+url:https://reddit.com/r/LifeProTips/comments/501z51/
+author:tereddits
+subreddit:LifeProTips
+score:3454
+numComments:5135
+isOver18:False
+hasPostBody:True

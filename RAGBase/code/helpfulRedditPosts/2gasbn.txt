@@ -1,0 +1,92 @@
+title:
+YSK: How to vote in the midterms on November 4th.
+
+content:
+***VOTING 101***
+
+**STEP 1: Check to see if you're eligible to vote**
+
+***Thanks to /u/tfyuhjnbgf for the find!***
+
+From Register to Vote, via. USA.gov:
+
+"To be eligible to vote, you must be a U.S. citizen. In most states, you must be 18 years old to vote, but some states do allow 17 year olds to vote. States also have their own residency requirements to vote. For additional information about state-specific requirements and voter eligibility, [contact your state election office](http://www.eac.gov/voter_resources/contact_your_state.aspx)."
+
+**STEP 2: Register to vote**
+
+Most states require you to be registered to vote ***at least*** 30 days before an election, so consider **October 1st, 2014** as your last chance to register before the November 4th, 2014 midterms.
+
+ * [Register to Vote | USA.gov](http://www.usa.gov/Citizen/Topics/Voting/Register.shtml)  Official US Government portal for voter registration.
+ * [Mail-in voter registration forms](http://www.eac.gov/voter_resources/register_to_vote.aspx)  Citizens of North Dakota, Wyoming, American Samoa, Guam, Puerto Rico, New Hampshire and the U.S. Virgin Islands are ineligible for mail-in registration and will will have to hit up their [state election office](http://www.eac.gov/voter_resources/contact_your_state.aspx) for more information
+ * [Can I vote?](http://www.canivote.org/) An independent catch-all for voting information, registration and polling locations.
+ * [Rock the Vote](http://www.rockthevote.com/register/register.html?source=rtv.com-topnav) has a step-by-step online process that should help as well.
+
+**STEP 3: Check if you need additional ID to vote**
+
+***THIS IS NEW AND IMPORTANT, YOUR STATE POLICY COULD HAVE CHANGED SINCE YOU LAST VOTED***
+
+Your vote may be relegated to the rank of a provisional ballot if you don't have the required photo ID for your state, you may not be allowed to vote at all.  
+
+ * [National conference of state Legislatures](http://www.ncsl.org/research/elections-and-campaigns/voter-id.aspx#State_Reqs) list of state by state voter ID requirements.
+ * [Can I Vote?](http://www.canivote.org/) Check the "Know what ID to bring" section and type in your zip code.
+ * Do a Google search for "Voter Identification [state]" in which [state] is your state or territory.
+
+**STEP 3a: Acquiring required photo ID**
+ 
+ * [DMV Identification Card](http://www.dmv.org/id-cards.php) By far the easiest way to get a valid photo ID is going to be to go to your local DMV and purchase one.  (If you haven't gone before you should know that the horror stories aren't true, the DMV is just boring.)
+ * Other acceptable forms of ID vary WILDLY by state.  Refer back to the [NCSL List](http://www.ncsl.org/research/elections-and-campaigns/voter-id.aspx) for more information.
+
+**STEP 4: Determine your voting values**
+
+You've got to do some soul searching on your own here.  At the very least you need to determine; for yourself, what you feel the size, scale and scope of government should be.  What responsibilities does the government have to the people and the people to it's government.  Watch the evening news and ask yourself how you really feel about what's going on in the world.
+
+Take your time and be honest with yourself.  You're alone in that voting booth for a reason, no one needs to know your politics but you so don't let anyone pressure you into anything.  Peer pressure is bullshit anyway.  To plagiarize the Buddha:
+
+*“Believe nothing, no matter where you read it, or who said it, no matter if I have said it, unless it agrees with your own reason and your own common sense.”*
+
+Be true to yourself.
+
+ * [i Side With](http://www.isidewith.com/) Can help you focus your values and clarify your opinions through an online quiz, just remember that **only you** can pick your political affiliation.  (***thanks to /u/Aesm70 and /u/Webb819 for the find!***)
+
+**STEP 5: Determine what candidate shares your values**
+
+ * [On The Issues](http://ontheissues.org/default.htm) Has a long list of what candidates and incumbents have said and what they have voted for an on.
+ * [Project Vote Smart](http://votesmart.org/) Also has a decent database of voting records, though the site itself is a PITA to navigate.  (Turn Java on or it won't work)
+ * [Open Secrets](https://www.opensecrets.org/) Is the place to go to find out just who is funding your candidate's election.  Sadly this can often tell you more than campaign promises can.
+ * Also watch and listen to local and national news to hear up to date information on your candidates.
+
+**STEP 6: Find your polling place**
+
+ * Easiest method: Check your voter ID card.  Usually it will be printed clearly on the card.
+ * Second easiest method: Google search "Polling place [zip code]" in which [zip code] is your zip code.
+ * [Can I Vote?](http://www.canivote.org/#) Expand "Find your polling place," select your state and follow through on your state's website.
+ * [Rock the Vote - Election Center](http://www.rockthevote.com/election-center/) Again, select your state and find the nearest polling place.
+ * Dumbest method: Drive around on election day (Tuesday, November 4th, 2014) looking for long lines.
+
+**STEP 6a: Voting from your couch**
+
+ * [Absentee and Early voting via. The National Conference of State Legislatures](http://www.ncsl.org/research/elections-and-campaigns/absentee-and-early-voting.aspx) If you cannot get to a polling place for whatever reason you still have options!  Many states have mail in ballots for early or absentee voting.  Hit up the link for a comprehensive list.
+
+**STEP 7: Going above and beyond**
+
+Check my initial post for lots of ways you can get involved on a local, state or national level.  There are lots of ways to move this country in the direction *you* want it to move in.  Work on a candidate's campaign, get a ballot initiative going, join groups of like-minded voters, change the minds of not-like-minded voters.
+
+This country is yours, go out and claim it!
+
+**NOT A STEP AT ALL: Additional advice**
+
+ * Ask for the day off from work.  For whatever stupid reason election day is *not* a national holiday, you need to plan in advance!
+ * Don't let anyone tell you how to vote or who to vote for.  Your vote is yours and yours alone, no one will know who you voted for unless you tell them.
+ * It's okay to vote opposite of someone you care about.  You are not your parents.
+ * The person that tells you "Voting doesn't matter." doesn't understand our electoral system and doesn't deserve your attention.  An estimated $3,000,000,000.00 will be spent in 2014 trying to buy your vote; OF COURSE your vote matters!
+ * If you get a call on election day saying something along the lines of "Congratuations!  [Your candidate] won by a landslide, stay home and celebrate!" ignore it.  That's a campaign call from your candidate's opponent trying to reduce turnout.  As far as I know this tactic is completely legal.
+ * Spread the word around.  Many people are completely oblivious to electoral cycles, you can and should inform them.
+ * Voting is fast, easy and reasonable fun.  You have no excuse not to vote.  :P
+
+url:https://reddit.com/r/YouShouldKnow/comments/2gasbn/
+author:OneYearSteakDay
+subreddit:YouShouldKnow
+score:1085
+numComments:129
+isOver18:False
+hasPostBody:True

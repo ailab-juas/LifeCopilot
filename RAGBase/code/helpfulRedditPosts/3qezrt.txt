@@ -1,0 +1,19 @@
+title:
+LPT: When writing a check for a wedding gift, make it out to one spouse or the other with old names. 'Mr and Mrs X' checks can't be cashed until the name change is final weeks later.
+
+content:
+Just because someone gets married, doesn't mean the name changes right away (if at all obviously). So if you write a check to someone with their new name, it won't be able to be cashed until that is finalized weeks or months later. 
+
+The other way to get around this is to write OR instead of AND. So if you write Joe AND Nancy Smith, then they both must sign it and be on the account as Joe and Nancy Smith. But if you write Joe Smith OR Nancy Smith, then either one could cash it independently. 
+
+edit: apparently it is different by bank or by area. So seems this isn't universal. However probably still a good thing to follow just in case. 
+
+edit 2: yes, checks are still used pretty frequently in America. Especially for gifts and by older folks. And for things you might not be able to pay online, like rent. 
+
+url:https://reddit.com/r/LifeProTips/comments/3qezrt/
+author:masterofthefire
+subreddit:LifeProTips
+score:4081
+numComments:1441
+isOver18:False
+hasPostBody:True

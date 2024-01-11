@@ -1,0 +1,13 @@
+title:
+YSK: Many public libraries offer access to premium online learning tools for free.
+
+content:
+For example: my library gives access to a [Lynda.com](https://Lynda.com) account for free when you link with your library card.
+
+url:https://reddit.com/r/YouShouldKnow/comments/b7jibf/
+author:thegreatzenith
+subreddit:YouShouldKnow
+score:2754
+numComments:62
+isOver18:False
+hasPostBody:True

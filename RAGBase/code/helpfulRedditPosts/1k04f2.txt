@@ -1,0 +1,13 @@
+title:
+Some basic LPTs on American hotels I've picked up over many years in that business.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1k04f2/
+author:dougan25
+subreddit:LifeProTips
+score:2108
+numComments:678
+isOver18:False
+hasPostBody:False

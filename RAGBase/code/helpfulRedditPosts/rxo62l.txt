@@ -1,0 +1,13 @@
+title:
+YSK when you receive electronic devices in the mail on very cold days, you should not turn them on until they are completely warm and dry.
+
+content:
+Why YSK: Bringing freezing cold electronic devices into your home will cause them to condensate, which also can happen INSIDE the device. Powering them up can potentially damage sensitive electronic circuitry.
+
+url:https://reddit.com/r/YouShouldKnow/comments/rxo62l/
+author:norssk_mann
+subreddit:YouShouldKnow
+score:15216
+numComments:402
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: If you notice a friend is struggling with being able to afford food and you want to help, offer to cook together so that it doesn’t feel like a handout.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/grxwg6/
+author:tysmily
+subreddit:LifeProTips
+score:2827
+numComments:48
+isOver18:False
+hasPostBody:False

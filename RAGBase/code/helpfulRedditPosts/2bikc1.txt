@@ -1,0 +1,15 @@
+title:
+LPT: Put a piece of clear packing tape over the speaker on toys that are loud and obnoxious. It will significantly reduce the volume.
+
+content:
+I learned this when I nannied. Some toys don't have a volume control setting or the lowest setting is still intensely loud which gets super annoying when you've been listening to the toy for hours/days/weeks. A piece of clear packing tape will significantly cut down on the sound. 
+
+Don't use regular tape though as it peels up too easily and kids can choke on it. Packing tape stays put and because it's more clear they won't  notice it.
+
+url:https://reddit.com/r/LifeProTips/comments/2bikc1/
+author:jerrysugarav
+subreddit:LifeProTips
+score:2741
+numComments:347
+isOver18:False
+hasPostBody:True

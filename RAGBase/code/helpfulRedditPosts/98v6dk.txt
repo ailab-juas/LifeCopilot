@@ -1,0 +1,23 @@
+title:
+YSK: FEMA's Emergency Management Institute has dozens of self-guided courses available for free on their website to teach you how to be helpful in an emergency or disaster
+
+content:
+My employer has a team of volunteers on call ready to deploy when disasters occur around the world. As part of the training, they recommend completing study on the National Incident Management System (NIMS) and the Incident Command System (ICS) through FEMA, in addition to first-aid and IT deployment training.  
+
+Course List is available at [the following page](https://training.fema.gov/is/crslist.aspx?all=true)
+
+Even if you don't plan to deploy to hazardous locations worldwide, these courses are still a great resource to have if you want to learn how to get real-time information that hasn't been filtered through the media.  It should also teach you how to behave and act in the event of an emergency.
+
+Edit based on suggestion from u/BellaOxmix:
+
+Link directly to Incident Command Systems [course](https://training.fema.gov/is/courseoverview.aspx?code=IS-100.c).  
+Link directly to National Incident Management System [course](https://training.fema.gov/is/courseoverview.aspx?code=IS-700.b).
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/98v6dk/
+author:SleepyFarts
+subreddit:YouShouldKnow
+score:1997
+numComments:54
+isOver18:False
+hasPostBody:True

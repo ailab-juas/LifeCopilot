@@ -1,0 +1,13 @@
+title:
+LPT: If you use Outlook desktop to manage email add a one minute delay to every email you send. It is always half a second later you hit send that you realize that you forgot to add something. You can then go to outgoing mail and find it waiting for you
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/er7w4i/
+author:guorli
+subreddit:LifeProTips
+score:2287
+numComments:71
+isOver18:False
+hasPostBody:False

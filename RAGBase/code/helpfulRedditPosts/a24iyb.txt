@@ -1,0 +1,14 @@
+title:
+YSK: Khan Academy has a section on Personal Finance that teaches you things such as how to do your taxes, pay for college, and save for retirement
+
+content:
+This is very useful for becoming independent and getting a job.
+You can access their Personal Finance section [Here](https://www.khanacademy.org/college-careers-more/personal-finance)
+
+url:https://reddit.com/r/YouShouldKnow/comments/a24iyb/
+author:jakebirder1
+subreddit:YouShouldKnow
+score:17269
+numComments:177
+isOver18:False
+hasPostBody:True

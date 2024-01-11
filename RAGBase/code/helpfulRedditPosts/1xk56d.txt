@@ -1,0 +1,13 @@
+title:
+LPT: When streaming Netflix on a computer, if the stream quality is sub-par, press control+alt(opt)+shift+s in order to change the buffering rates. Changing to 3000 forces HD video.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/1xk56d/
+author:A_Dodgy_Gentleman
+subreddit:LifeProTips
+score:3943
+numComments:339
+isOver18:False
+hasPostBody:False

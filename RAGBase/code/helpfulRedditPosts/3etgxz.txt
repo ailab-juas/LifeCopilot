@@ -1,0 +1,13 @@
+title:
+YSK about smallpdf.com, a site that lets you compress, split, merge, and convert PDF files for free.
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/3etgxz/
+author:Xanaduuuuu
+subreddit:YouShouldKnow
+score:1153
+numComments:33
+isOver18:False
+hasPostBody:False

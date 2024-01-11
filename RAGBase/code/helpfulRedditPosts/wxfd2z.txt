@@ -1,0 +1,13 @@
+title:
+LPT: Bring a power strip with you on vacation. Hotels rarely have enough outlets for all the stuff we need to plug in and charge these days.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/wxfd2z/
+author:Opus-thePenguin
+subreddit:LifeProTips
+score:7696
+numComments:645
+isOver18:False
+hasPostBody:False

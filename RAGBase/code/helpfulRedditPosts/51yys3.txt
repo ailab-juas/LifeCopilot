@@ -1,0 +1,13 @@
+title:
+LPT: Look at work as an RPG, it's a fun way to get through the day.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/51yys3/
+author:tobyALIVE
+subreddit:LifeProTips
+score:1160
+numComments:213
+isOver18:False
+hasPostBody:False

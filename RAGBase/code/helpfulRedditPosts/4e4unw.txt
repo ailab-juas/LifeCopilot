@@ -1,0 +1,17 @@
+title:
+YSK to Microwave Your Sponges
+
+content:
+According to [this study](http://refhub.elsevier.com/S0956-7135\(13\)00374-5/sref82), microwaving soaked sponges for just 4 minutes killed 100% of the tested microbes, which included E. coli (dead at 30 seconds) and Bacillus cereus (dead at the 4 minute mark). This means instead of tossing every sponge that's been left in the sink over night, you can safely and quickly revitalize them.
+
+Edit: Formatting the hyperlink. Thank you /u/ahcretin!
+
+Edit 2: Guys, please be careful when you try this for the first time. **If you don't soak the sponge first it can catch fire or shrivel up**. Also, some sponges may not tolerate microwave use period, so keep an eye on them for the first run to gauge how long they can be put in safely. Even if they can't tolerate the full 4 minutes, that's OK, your still killing most of the nastier bugs in half or less that time.
+
+url:https://reddit.com/r/YouShouldKnow/comments/4e4unw/
+author:Songoffireandice
+subreddit:YouShouldKnow
+score:1617
+numComments:365
+isOver18:False
+hasPostBody:True

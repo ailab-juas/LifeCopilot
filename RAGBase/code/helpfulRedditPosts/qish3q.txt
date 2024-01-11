@@ -1,0 +1,13 @@
+title:
+LPT: If an online company demands you create an account BEFORE you can view their products/services, they likely have no confidence that you would become a customer AFTER seeing what they offer.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/qish3q/
+author:[deleted]
+subreddit:LifeProTips
+score:7997
+numComments:212
+isOver18:False
+hasPostBody:True

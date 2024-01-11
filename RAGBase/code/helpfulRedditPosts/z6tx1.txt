@@ -1,0 +1,13 @@
+title:
+Foul Bachelor Frog Tip: Take 6 bags of trash out in one trip while maintaining a free hand to open doors.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/z6tx1/
+author:bentika
+subreddit:LifeProTips
+score:1140
+numComments:85
+isOver18:False
+hasPostBody:False

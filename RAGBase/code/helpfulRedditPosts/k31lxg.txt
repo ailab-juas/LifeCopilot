@@ -1,0 +1,17 @@
+title:
+YSK that Google stores your location history, even though that can be shady, you can use it to your advantage to prove your whereabouts.
+
+content:
+Why YSK: Yesterday a letter came in my mail that said our car was found to break some traffic rules and driving recklessly, so the driver is supposed to go to the nearest police station. My insane sister blames me for it, right up until I used this method. I was nowhere near the place where violation of rules occurred. So in my experience, it works well. I figure you can use it at work or anywhere in your life where you need an alibi (Not talking about legal stuff, don't think it'd hold up in court)
+
+To access it, simply go to your Google account page, data and personalisation, activity control then click on location history. Go to manage activity. Here you should be able to select a date and look at where you were that day.
+
+Thank you for reading, I was not sure if this was common knowledge as I had barely seen people talking about it.
+
+url:https://reddit.com/r/YouShouldKnow/comments/k31lxg/
+author:PoisonWanderer
+subreddit:YouShouldKnow
+score:1419
+numComments:71
+isOver18:False
+hasPostBody:True

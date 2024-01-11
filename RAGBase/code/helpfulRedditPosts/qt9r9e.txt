@@ -1,0 +1,13 @@
+title:
+LPT - If your child asks a question, don't immediately give them the answer. Ask them what they think the answer is. This will help their development far more than had they just been given the answer, and they're more likely to remember what they learned, especially if they managed to figure it out.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/qt9r9e/
+author:aedum1111
+subreddit:LifeProTips
+score:13581
+numComments:386
+isOver18:False
+hasPostBody:False

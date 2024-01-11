@@ -1,0 +1,13 @@
+title:
+LPT: When dealing with children, adding an "er" to the end of some verbs can work to your advantage. For example instead of asking a child to "help" you with something, ask them if they can be your "helper".
+
+content:
+This makes them feel more like they are a part of something, and more importantly to them, like they have a bit of importance/control in the situation.  You can also use it in ways such as instead of asking a child to *listen* to you, ask them to be a good *listener*.
+
+url:https://reddit.com/r/LifeProTips/comments/42n41d/
+author:whoapony
+subreddit:LifeProTips
+score:4964
+numComments:604
+isOver18:False
+hasPostBody:True

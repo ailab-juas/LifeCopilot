@@ -1,0 +1,13 @@
+title:
+LPT: "Anonymous" online surveys at work are never anonymous. There is always a digital record of your IP address, employee login ID, or email, tied to your submission which can be tracked back to you. You manager can always retrieve this data without telling you.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/tkuc7b/
+author:YellowB
+subreddit:LifeProTips
+score:22875
+numComments:1164
+isOver18:False
+hasPostBody:False

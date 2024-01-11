@@ -1,0 +1,31 @@
+title:
+LPT: When trying to watch an age blocked youtube video, you can unblock it WITHOUT logging in by simply modifying the URL.
+
+content:
+**Remove** "watch?" and "=", **add** a "/".
+
+Take for example this red band trailer for nightcrawler.
+
+From: 
+
+http://www.youtube.com/watch?v=GRdHmB-EH9o
+
+to:
+
+http://www.youtube.com/v/GRdHmB-EH9o
+
+EDIT:
+
+Thanks for the gold!
+
+Thanks Dylan for the extra tip.
+
+http://www.reddit.com/r/LifeProTips/comments/2kskvr/lpt_when_trying_to_watch_an_age_blocked_youtube/cloj7di
+
+url:https://reddit.com/r/LifeProTips/comments/2kskvr/
+author:NotAg0at
+subreddit:LifeProTips
+score:3227
+numComments:295
+isOver18:False
+hasPostBody:True

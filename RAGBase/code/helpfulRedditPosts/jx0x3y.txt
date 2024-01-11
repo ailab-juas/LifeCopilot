@@ -1,0 +1,13 @@
+title:
+LPT: Whatever the day, situation (stay-at-home), or your mood, get up in the morning, take a shower, wear fresh clothes and get ready for the day, even if you don't have any plans or work. You're more likely to feel good and be in a better mood all day and send good vibes to others around you.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/jx0x3y/
+author:hash1e
+subreddit:LifeProTips
+score:48630
+numComments:1059
+isOver18:False
+hasPostBody:False

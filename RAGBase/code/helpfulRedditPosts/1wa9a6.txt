@@ -1,0 +1,21 @@
+title:
+YSK WD-40 is a solvent, not a lubricant. Mistaking it as a lubricant will only mask the problem, not solve it.
+
+content:
+It's listed on WD-40 official website as a myth.  They say that it's technically a lubricant, it's job is to clean things.  For some tasks around the house, WD-40 offers the job of both cleaning and lubricating.
+
+However, using WD-40 on a job that specifically needs lubrication will not yield the results you desire.
+
+I only recently learned this and wish I knew it before wasting time spraying door hinges to keep them from squeaking.  You should have 3-in-1 oil along side of your WD-40.  Just as versatile.
+
+EDIT: The point of the YSK is that if you're like me, you grew up thinking WD-40 and oil can be interchanged.  Most likely, taught to you by an authority figure (my dad taught this to me) so you never second guessed it.  You start using it everywhere because, hell, that's what you're taught and that's all you know.  You don't read the directions because, heck, you've been using the stuff for years.  I didn't know that WD-40 and oil were different until last week and I'm in my 30s.  Yes, WD-40 is still great to use on a lot of things.  Just don't hang your hat on it for things that are dangerous.
+
+EDIT 2: And the pun was completely unintentional!  Thanks for all of the clarifying comments.  I'm not a DIY wiz...just from what my dad taught me.  Seems like there is a lot of confusion on my part on the definition of a lubricant and solvent.  In either case, I'm glad I know now that WD-40 ≠ grease and are not interchangeable.
+
+url:https://reddit.com/r/YouShouldKnow/comments/1wa9a6/
+author:disco_stewie
+subreddit:YouShouldKnow
+score:2220
+numComments:405
+isOver18:False
+hasPostBody:True

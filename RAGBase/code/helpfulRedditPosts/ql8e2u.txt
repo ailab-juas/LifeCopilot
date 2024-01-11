@@ -1,0 +1,13 @@
+title:
+LPT: Don't be afraid to try something because you're afraid of looking stupid if it doesn't work. It turns out that the bravest, most admirable people aren't any smarter than the rest of us, but they are willing to do things differently and laugh off their mistakes. And people respect them for that.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ql8e2u/
+author:pigeon888
+subreddit:LifeProTips
+score:1703
+numComments:48
+isOver18:False
+hasPostBody:False

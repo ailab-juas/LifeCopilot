@@ -1,0 +1,13 @@
+title:
+LPT: If you are cold, wear a hat. Even in the house.
+
+content:
+The surface area of your head is LARGE. You lose a lot of heat to it. To put this in perspective, you wouldn’t walk around with a hole the size of a cereal box on the back of your jacket or shirt, now would you?
+
+url:https://reddit.com/r/LifeProTips/comments/zp1nxk/
+author:OldFanJEDIot
+subreddit:LifeProTips
+score:1621
+numComments:202
+isOver18:False
+hasPostBody:True

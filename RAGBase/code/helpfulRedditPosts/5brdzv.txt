@@ -1,0 +1,17 @@
+title:
+YSK: You can detect fake Amazon sales during the Holidays, by using browser addons
+
+content:
+Some Amazon sellers jack up the price of their products before the holidays to qualify as being "on sale" during the holidays.
+
+You use browser addons to see price history for products and detect such price changes.  
+
+Personally, I've found Keepa on Firefox to be useful, but others might know of better ones.
+
+url:https://reddit.com/r/YouShouldKnow/comments/5brdzv/
+author:constructivCritic
+subreddit:YouShouldKnow
+score:1491
+numComments:66
+isOver18:False
+hasPostBody:True

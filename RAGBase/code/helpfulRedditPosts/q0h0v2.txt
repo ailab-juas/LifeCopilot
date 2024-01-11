@@ -1,0 +1,13 @@
+title:
+LPT: Whenever you fly, keep your passport, wallet, phone and keys with you in your pockets (or fanny pack or something else attached to you) during the whole flight. In case of emergency evacuation, you will be able to leave the plane quickly with all your important items without taking luggage.
+
+content:
+A recent post of people evacuating an airplane due to engine fire and too many people are trying to take their luggage. This slows down evacuation, increases risk of injuries on the slide and puts people's lives in danger. All luggage is expendable.
+
+url:https://reddit.com/r/LifeProTips/comments/q0h0v2/
+author:bttrflyr
+subreddit:LifeProTips
+score:3145
+numComments:180
+isOver18:False
+hasPostBody:True

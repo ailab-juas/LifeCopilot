@@ -1,0 +1,17 @@
+title:
+YSK There are hundreds of different Sign languages that differ by geography, even between English-speaking countries.
+
+content:
+Why YSK: There is a common misconception that Deaf people in English-speaking countries all sign ASL. There is American Sign Language, British Sign Language, Irish Sign Language, etc. and these sign languages are vastly different from each other.
+
+If you go to the UK and start signing in ASL, you will be greeted with a puzzled look. Learn the right sign language for the community you want to engage with.
+
+As a bonus: Black American Sign Language is a distinct [dialect](https://m.youtube.com/watch?v=3HDm3kx3rhY) which has it’s own grammatical syntax and history.
+
+url:https://reddit.com/r/YouShouldKnow/comments/xfuqbf/
+author:HippityHopMath
+subreddit:YouShouldKnow
+score:1088
+numComments:76
+isOver18:False
+hasPostBody:True

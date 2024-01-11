@@ -1,0 +1,13 @@
+title:
+YSK: Restaurants with large menus that have something for everyone should be avoided if you want a nice meal.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/YouShouldKnow/comments/p31zkk/
+author:[deleted]
+subreddit:YouShouldKnow
+score:23660
+numComments:1183
+isOver18:False
+hasPostBody:True

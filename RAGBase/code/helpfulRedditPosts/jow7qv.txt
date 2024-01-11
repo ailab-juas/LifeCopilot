@@ -1,0 +1,13 @@
+title:
+LPT: Right after you finish a job interview, dump the interview questions in a text file as soon as you can, while you still remember them. Post them to glassdoor later/after you get the job. Millions of job seekers will be thanking you.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/jow7qv/
+author:CircleBox2
+subreddit:LifeProTips
+score:3329
+numComments:170
+isOver18:False
+hasPostBody:False

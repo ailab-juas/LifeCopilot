@@ -1,0 +1,13 @@
+title:
+YSK that, if you joined a gym at the beginning of the year and you're not getting results yet, that's about right for this much time working out.
+
+content:
+This is also the time a lot of people give up. Keep going, it takes time!
+
+url:https://reddit.com/r/YouShouldKnow/comments/5soppn/
+author:CraptainHammer
+subreddit:YouShouldKnow
+score:4143
+numComments:255
+isOver18:False
+hasPostBody:True

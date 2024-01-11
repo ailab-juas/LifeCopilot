@@ -1,0 +1,13 @@
+title:
+LPT: Quora blocking you from reading an answer because you aren't logged in? Add "?share=1" to the end of the URL.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/d7nn51/
+author:DanGaEb12
+subreddit:LifeProTips
+score:29503
+numComments:536
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: Stay away from hustler/no-sleep lifestyle. It creates unsustainable expectations, promotes burnout, and results in an unhealthy lifestyle. Working to exhaustion is rarely a wise choice. Instead, learn to use your time wisely and enforce realistic boundaries and expectations!
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/qih1wz/
+author:himalayanNinja
+subreddit:LifeProTips
+score:2851
+numComments:58
+isOver18:False
+hasPostBody:False

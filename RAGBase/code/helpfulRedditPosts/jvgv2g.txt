@@ -1,0 +1,27 @@
+title:
+YSK When people say "find a therapist", it can be really hard to find a good therapist, and bad therapists exist
+
+content:
+ Why YSK: If you give the advice to "go see a therapist" and people take your advice, it might not be a helpful endeavor. And the reason it's not helping right away is sometimes that the therapy was wrong. It was not a failure of the individual.
+
+While browsing online forums, I constantly see this phrase being given as advice: "consider going to see a therapist". There seems to be an increasing awareness and destigmatizing of mental health issues. And that's great.
+
+What isn't brought up is the limits and failures of therapy.
+
+In my personal experience, and through reading numerous online support groups, there are dozens of stories of a particular therapists or therapy approach not working for a given individual. And it feels like a very not talked about part of counseling as a health offering.
+
+Finding a therapist can be hard. Similar to doctors, there are more competent and less competent individuals. There are specialists who may excel in one area but be clueless in another area. A lot of therapists tend to be arrogant. The power dynamic is scary - there is very little accountability, outside of professionalism, for a therapist making a client worse.
+
+It saddens me, because I very much believe in the idea of mental health support. There are many stories of wonderful health outcomes. But there are also negative stories.
+
+Finding an effective therapist can be really hard. It's an issue within the field. Part of it could be improved. And part of it is like dating - it helps to find someone you "click" with and it can be hard to predict that without trying a few people and risking some bad experiences. 
+
+The challenges of seeking therapy are something more people could/should know.
+
+url:https://reddit.com/r/YouShouldKnow/comments/jvgv2g/
+author:18nUP
+subreddit:YouShouldKnow
+score:9704
+numComments:336
+isOver18:False
+hasPostBody:True

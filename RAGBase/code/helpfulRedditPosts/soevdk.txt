@@ -1,0 +1,13 @@
+title:
+LPT - use commas in your passwords. So when they inevitably get dumped in a leak, it really messes up the CSV they'll be using
+
+content:
+If you think about how data is stored and formulas used, you can see where it would cause issues.
+
+url:https://reddit.com/r/LifeProTips/comments/soevdk/
+author:IvePlowedYourMother
+subreddit:LifeProTips
+score:1142
+numComments:197
+isOver18:False
+hasPostBody:True

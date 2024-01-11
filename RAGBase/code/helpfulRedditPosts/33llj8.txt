@@ -1,0 +1,32 @@
+title:
+YSK How Internet Hate Marketing Works
+
+content:
+This particular YSK will focus on larger brands who are looking for [Brand Awareness](http://en.wikipedia.org/wiki/Brand_awareness). Particularly, [top of mind awareness](http://en.wikipedia.org/wiki/Top-of-mind_awareness).
+
+Brand awareness is just the extent to which your brand is recognized. Top of mind awareness is when your brand is the first to come to a consumer's mind. 
+
+So, let's make up a fictional character to help illustrate the point. Let's say, oh I don't know, you're aiming to be the first lady president. There's another lady out there who also wants to be president and you want to make sure people think of you before they think of her.
+
+Your first goal would be to raise yourself, your brand, to the level of "top of mind" for you category, politician. You might do this by creating controversy before announcing your candidacy. Not anything too drastic, just something to get your name floating around. Maybe you used a personal fax machine for public business. Who knows? I'm just spit balling.
+
+Once you have that top of mind awareness, you can work on changing the connotation of your brand. This is the one two punch that works wonders on the anonymous internet:
+
+1. Rile people up early to put yourself top of mind.
+2. Spend all your money between now and launch day to shift perception.
+
+Another example: Let's say you're a video game company and your new game "Waranterior" is coming out this christmas. First, you would want to announce the game 6-12 month out from release date. In that announcement, give information about the game that might be controversial, and let people get their ire out right away.
+
+Then, when the game comes out 8 months later, the initial wave of hate has died down and you're better able to pitch your game to less rabid fans.
+
+The fact of the matter is this - the world, and the way the world communicates, is now diverse enough to give champions and detractors equally loud voices. That means the new game in marketing is to give the detractors a safe, contained area early in the game in which they can wear themselves out, then build a megaphone late game for the champions to yell in.
+
+Never think that just because something is bad then it's not marketing. The hardest task isn't getting people to see you positively, it's getting them to see you at all.
+
+url:https://reddit.com/r/YouShouldKnow/comments/33llj8/
+author:theresamouseinmyhous
+subreddit:YouShouldKnow
+score:1364
+numComments:182
+isOver18:False
+hasPostBody:True

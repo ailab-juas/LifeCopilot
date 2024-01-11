@@ -1,0 +1,15 @@
+title:
+Give special consideration to the advice when "laid back" friends tell you not to do something risky, or when more "uptight" and cautious friends tell you to take a chance.
+
+content:
+EDIT:
+
+Phrasing could've been better. Perhaps instead of "laid back" I should have written "wild" or something similar.
+
+url:https://reddit.com/r/LifeProTips/comments/5cq7im/
+author:nehala
+subreddit:LifeProTips
+score:20492
+numComments:638
+isOver18:False
+hasPostBody:True

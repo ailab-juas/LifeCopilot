@@ -1,0 +1,13 @@
+title:
+LPT: If you're struggling to force yourself to do a tedious task, try concentrating on the first step of this task. I.e. insted of thinking "I have to vacuum the house" think "I will go to the closet and pick up the vacuum" and then your "autopilot" will kick in.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/z0760w/
+author:Stahlboden
+subreddit:LifeProTips
+score:3846
+numComments:66
+isOver18:False
+hasPostBody:False

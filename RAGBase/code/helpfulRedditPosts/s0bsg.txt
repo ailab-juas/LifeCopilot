@@ -1,0 +1,13 @@
+title:
+LPT: How to whistle using your fingers. 
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/s0bsg/
+author:Advantageous
+subreddit:LifeProTips
+score:1463
+numComments:185
+isOver18:False
+hasPostBody:False

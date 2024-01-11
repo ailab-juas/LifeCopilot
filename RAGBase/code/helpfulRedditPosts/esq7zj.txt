@@ -1,0 +1,13 @@
+title:
+LPT: When making any kind of instant drink with powder, mix the powder with a few teaspoons of water before adding it to the rest of the liquid. This turns the powder into a syrup that mixes in way more evenly and easily.
+
+content:
+Best Swiss Miss Hot Chocolate I’ve ever had!
+
+url:https://reddit.com/r/LifeProTips/comments/esq7zj/
+author:Slap-Happy
+subreddit:LifeProTips
+score:1260
+numComments:96
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+YSK how Rotten Tomatoes works
+
+content:
+[deleted]
+
+url:https://reddit.com/r/YouShouldKnow/comments/e68r6c/
+author:[deleted]
+subreddit:YouShouldKnow
+score:2104
+numComments:131
+isOver18:False
+hasPostBody:True

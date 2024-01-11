@@ -1,0 +1,15 @@
+title:
+LPT: Listen to a youtube playlist with VLC
+
+content:
+http://www.makeuseof.com/tag/watch-entire-youtube-playlists-in-vlc-heres-how/
+
+I use this feature when I'm going to take a while fix something and need music to focus, but don't want my web browser open, because it crashes sometimes when browsing youtube. I's very convenient to just have a link to the playlist right there in my win7 startbar, two clicks away.
+
+url:https://reddit.com/r/LifeProTips/comments/2ean57/
+author:permafrost_jack
+subreddit:LifeProTips
+score:1296
+numComments:90
+isOver18:False
+hasPostBody:True

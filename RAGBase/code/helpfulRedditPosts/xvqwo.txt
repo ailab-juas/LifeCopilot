@@ -1,0 +1,13 @@
+title:
+YSK Ctrl+L will highlight the address bar in Chrome, eliminating the need to select it with your mouse
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/xvqwo/
+author:pwick
+subreddit:YouShouldKnow
+score:1834
+numComments:209
+isOver18:False
+hasPostBody:False

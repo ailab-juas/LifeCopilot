@@ -1,0 +1,17 @@
+title:
+YSK about Ballotpedia, a website that lets those living in the US look up sample ballots of their state's upcoming elections
+
+content:
+https://ballotpedia.org/Main_Page
+
+As a US citizen, a new voter (turning 18 next week!), and someone who cares about the political situation of my country I believe strongly all people should vote if they are able. Not only should they vote, but they should know what they are voting for. As we all recently saw from the Brexit fiasco the second biggest google search in the UK the next day was "what is the EU" ([link](http://www.npr.org/sections/alltechconsidered/2016/06/24/480949383/britains-google-searches-for-what-is-the-eu-spike-after-brexit-vote)). Ballotpedia helps so much because you can easily search for what issues will be on your state's ballot and are provided with a summary, history, list of supporting and opposing political parties, and argument for and against each issue. Each ballot also shows the topics and propositions that didn't make it on the ballot along with general election information. Also, you can search got your already elected officials in your area if you aren't sure what they are.
+
+Honestly, when I found this I was very happy to know I have these resources. I felt that although I wanted to be prepared for voting on issues of my state and country I had no idea where to look. Just thought I should share this great resource around! I hope you get good use out of it!
+
+url:https://reddit.com/r/YouShouldKnow/comments/4v4r9y/
+author:herowcatsmanzzz
+subreddit:YouShouldKnow
+score:1189
+numComments:19
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Lies lead to nothing but trouble. Being known as trustworthy is an excellent trait to maintain and can be beneficial for both your career and social life.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/zfwjgp/
+author:djdan01
+subreddit:LifeProTips
+score:4639
+numComments:179
+isOver18:False
+hasPostBody:False

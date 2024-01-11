@@ -1,0 +1,13 @@
+title:
+LPT: "e.g." does not stand for "ergo." It stands for "exempli gratia," and should be read aloud as "EG" or "for example."
+
+content:
+I didn't know this was a common misconception, but the other day I heard two different people in two different situations say "ergo" when reading over a text that contained "e.g.", so I thought I'd put it out there. "Ergo" means "therefore" or "as a result," and "e.g." means "for example," so mixing them up could be genuinely confusing.
+
+url:https://reddit.com/r/LifeProTips/comments/syh554/
+author:flyingdics
+subreddit:LifeProTips
+score:1990
+numComments:257
+isOver18:False
+hasPostBody:True

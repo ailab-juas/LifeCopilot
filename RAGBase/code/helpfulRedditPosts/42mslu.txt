@@ -1,0 +1,13 @@
+title:
+LPT: You're not the only who forgets names. If you suspect a person you're talking has forgotten your name, then stealthily let him know by telling him a story where someone mentions your name, such as "Oh, yesterday, I suddenly heard someone call 'Simon?' behind me. I answered yes, and..."
+
+content:
+Depending on your tale, it doesnt even have to be obvious that you realised they forgot your name.
+
+url:https://reddit.com/r/LifeProTips/comments/42mslu/
+author:Qwernakus
+subreddit:LifeProTips
+score:1324
+numComments:210
+isOver18:False
+hasPostBody:True

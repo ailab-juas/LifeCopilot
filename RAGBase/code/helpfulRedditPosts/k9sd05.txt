@@ -1,0 +1,13 @@
+title:
+LPT: During salary negotiation, always ask for salary range. Prepare raw salary figures based on your experience and salaries listed on Glassdoor/Ambitionbox. Recruiters will always try for lower pay scale in contrast to the pay scale they actually offer to their employees
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/k9sd05/
+author:[deleted]
+subreddit:LifeProTips
+score:17436
+numComments:676
+isOver18:False
+hasPostBody:True

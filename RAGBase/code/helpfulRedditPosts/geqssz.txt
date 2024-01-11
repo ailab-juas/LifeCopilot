@@ -1,0 +1,13 @@
+title:
+LPT: If an advertisement for an American flag says not available in Minnesota, it normally means the flag was not made in the USA. MN has a law requiring American made American flags.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/geqssz/
+author:mdsram
+subreddit:LifeProTips
+score:68989
+numComments:729
+isOver18:False
+hasPostBody:False

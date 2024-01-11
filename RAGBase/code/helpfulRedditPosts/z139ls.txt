@@ -1,0 +1,21 @@
+title:
+YSK: when filling a dishwasher you have to make sure the spinning blades aren’t blocked by anything
+
+content:
+Why YSK: I thought this was common sense until the last two roommates I had. In most dishwashers, there are 2 to 3 spinning blades that shoot water at the dishes. There’s one under the bottom rack and typically one under the second rack, plus others if you have a 3-rack dishwasher or something fancy. 
+
+If you load something tall on the bottom rack, the blade for the top rack won’t be able to spin, and it won’t get your top rack dishes clean. If you load something like a spoon, chopstick, or a reusable straw in a utensil basket that sticks out of the bottom and blocks the blade, then the bottom dishes also won’t get clean. 
+
+You can test if the blades are blocked before you run your dishwasher by pushing the racks in and manually spinning the blade. If it knocks into something, it won’t spin during the cycle. 
+
+Bonus tip: if your dishwasher has two separated spots for dish soap that are side-by-side, typically one smaller than the other, the smaller one is meant for the pre-wash cycle. You may even notice as you close the door that soap leaks out of the smaller soap intake. *If you use a dishwasher soap pod instead of liquid or powder, your dishes won’t get a soaped pre-rinse cycle, and won’t get as clean.* 
+
+I should mention that I only have experience with US under-counter dishwashers. This may not be the case elsewhere.
+
+url:https://reddit.com/r/YouShouldKnow/comments/z139ls/
+author:unknowncinch
+subreddit:YouShouldKnow
+score:4794
+numComments:200
+isOver18:False
+hasPostBody:True

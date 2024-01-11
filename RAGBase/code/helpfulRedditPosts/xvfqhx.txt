@@ -1,0 +1,13 @@
+title:
+LPT: A cool idea of tradition for your family can be planting a tree for each one of you, symbolizing your lives. It'll possibly outlive everyone, and future generations can visit them, and plant trees as well.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/xvfqhx/
+author:SauloJr
+subreddit:LifeProTips
+score:1376
+numComments:68
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,21 @@
+title:
+LPT: Use zero trust with unfamiliar incoming calls - Control the conversation - Do not confirm anything - Ask for their info, hang up, and research!
+
+content:
+I can't say this enough because I feel like as time goes on the frequency of hearing about fraud from family/friends/co-workers is increasing.
+
+If a you receive a call and you don't know the number, **do not confirm any information** \- Example: You pick up the call and hear "Hi, am I speaking with Bob?" Don't even respond to their question, ask them for their information and reason for calling. **Do not let them have control of the conversation**. Collect information from them, not the other way around. Tell them you will call them back.
+
+Do your research, Google their information. Is it a company that is familiar to you? Do you remember doing business with them? **Search your bank and email history using their information.**
+
+If you can't find links between you and the person your calling, don't call them back. If they call you back and are persisting you owe them money just follow the rules above and continue to try and get information from them. Ask them for times/days of transactions, anything you can think of.
+
+I'm truly saddened at how people are so easily being taken advantage of. Please spread awareness.
+
+url:https://reddit.com/r/LifeProTips/comments/zxcj43/
+author:sibble
+subreddit:LifeProTips
+score:14450
+numComments:791
+isOver18:False
+hasPostBody:True

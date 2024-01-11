@@ -1,0 +1,14 @@
+title:
+LPT: When making a Pros and Cons list, assign a value from 1-5 in importance next to each listed item. At the end, add it all up and see which list has more points. This allows you to make a more correctly weighted decision
+
+content:
+1 = not that important 
+5 = Very important 
+
+url:https://reddit.com/r/LifeProTips/comments/5zsrx3/
+author:upupvote2
+subreddit:LifeProTips
+score:2453
+numComments:56
+isOver18:False
+hasPostBody:True

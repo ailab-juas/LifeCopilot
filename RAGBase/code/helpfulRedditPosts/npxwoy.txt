@@ -1,0 +1,15 @@
+title:
+YSK: If you're picking someone up from the airport, take them a water bottle.
+
+content:
+Why YSK:
+
+Flying tends to dehydrate you because of the lower humidity. ([https://health.clevelandclinic.org/dehydration-exhaustion-and-gas-what-flying-on-an-airplane-does-to-your-body/](https://health.clevelandclinic.org/dehydration-exhaustion-and-gas-what-flying-on-an-airplane-does-to-your-body/))  Also, some people don't drink as much as they should on flights because they don't want to go to the bathroom. When you first get off a plane, a water bottle is exactly what you want, so the person you're picking up will appreciate it if you give them one. I know I've appreciated when people who have picked me up have brought me water! Bonus points if you can offer a granola bar or other small snack.
+
+url:https://reddit.com/r/YouShouldKnow/comments/npxwoy/
+author:mysterious_jedi
+subreddit:YouShouldKnow
+score:2976
+numComments:102
+isOver18:False
+hasPostBody:True

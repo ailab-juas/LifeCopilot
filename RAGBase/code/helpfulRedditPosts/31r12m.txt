@@ -1,0 +1,29 @@
+title:
+YSK how to stream ANYTHING from one computer to another in the same network
+
+content:
+By using Steam
+
+Steam can stream games from one PC to another, for example I'm using it to stream games from my PC (very powerful) to my laptop (can't even Notepad properly) and since the game will actually run on the more powerful PC you can still play it smoothly.
+Now here's the kicker: you can use it to stream anything, even your desktop or games that are not on Steam, over your network and especially for games it works far better than almost any other solution.
+
+Now, how to do this:
+Start Steam on both machines, they have to be connected to the same network (if one is on wifi and the other one is wired it doesn't matter).
+
+Make sure to go into the settings on both machines and verify that under "In-Home Streaming" it's enabled. On the client (laptop in my example) find a game that's not too demanding (I'm always using Shank 2) and click on the "Stream" button (or click on the small arrow next to "Play" if it's installed locally as well).
+
+Minimize the game by hitting ALT + TAB or the Windows button on the keyboard of the server (the desktop PC in my example). If you're only getting a black screen when minimizing the game it doesn't work with that one and you have to try a different one, that's what happened to me when I tried to make this work with Space Pirates and Zombies.
+
+Run any applications you need, including other games. That's how I play Heroes of the Storm in the kitchen (not being afk while cooking mind you, it's just more comfortable depending on what my future wife is doing), no input lag at all.
+
+If you're experiencing lag you can change the graphics quality in Steam, this will only affect the quality of the stream but not change any actual settings in the game you're playing. Open the settings menu on the server and click on "In Home Streaming".
+
+X- post /r/TechnologyProTips
+
+url:https://reddit.com/r/YouShouldKnow/comments/31r12m/
+author:CaptainOnBoard
+subreddit:YouShouldKnow
+score:1140
+numComments:74
+isOver18:False
+hasPostBody:True

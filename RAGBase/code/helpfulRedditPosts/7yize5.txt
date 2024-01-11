@@ -1,0 +1,13 @@
+title:
+LPT: If you’re trying to find a digital copy of a book, search for it as “[book name] filetype:pdf” which will restrict the search to only PDFs of said book.
+
+content:
+This works for textbooks as well, or can be beneficial while researching.
+
+url:https://reddit.com/r/LifeProTips/comments/7yize5/
+author:ishan0102
+subreddit:LifeProTips
+score:1118
+numComments:18
+isOver18:False
+hasPostBody:True

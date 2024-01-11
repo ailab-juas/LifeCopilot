@@ -1,0 +1,15 @@
+title:
+YSK about Supercook.com, a site that tells you what you can make out of ingredients you have around.
+
+content:
+If you're anything like me, you might panic when stressed to make something out of whatever is lying around for company or for a 2-year old. This site tells you what you can make and if you're only 1 ingredient away, it will tell you what to go buy.
+
+https://www.supercook.com/#/recipes
+
+url:https://reddit.com/r/YouShouldKnow/comments/b3ec2e/
+author:eldri7ch
+subreddit:YouShouldKnow
+score:8414
+numComments:173
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Instead of buying expensive cereal that has dried fruit, nuts, etc, simply buy a basic cereal (like Chex, corn flakes, bran flakes) and add bulk nuts and dried fruit. Add your own mix to the cereal- it’ll be cheaper and give you more variety!
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ek274p/
+author:ms5h
+subreddit:LifeProTips
+score:1244
+numComments:70
+isOver18:False
+hasPostBody:False

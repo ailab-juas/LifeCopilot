@@ -1,0 +1,13 @@
+title:
+LPT: Peel a potato easily without a knife
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/wc4fv/
+author:iamablackbeltman
+subreddit:LifeProTips
+score:1828
+numComments:279
+isOver18:False
+hasPostBody:False

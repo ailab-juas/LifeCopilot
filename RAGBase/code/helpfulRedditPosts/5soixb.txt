@@ -1,0 +1,13 @@
+title:
+LPT: I find the best way to communicate 'how' to do something is to explain *why* it's done like that. The inclusion of 'why' creates a mental framework to understand what someone is doing rather than just correctly following steps.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5soixb/
+author:PancakeLegend
+subreddit:LifeProTips
+score:2172
+numComments:81
+isOver18:False
+hasPostBody:False

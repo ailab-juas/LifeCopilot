@@ -1,0 +1,26 @@
+title:
+YSK if your employer treats you like an employee but forces you to work as an independent contractor, you can (and should) file taxes as an employee anyway.
+
+content:
+If you are classified as an Independent Contractor as far as worker status, but your boss makes you adhere to a schedule, requires you to work on site, provides your equipment, tells you exactly what to do and how to do it (as opposed to expressing needs and letting you fulfill them in your own way), then you are most likely actually an employee.
+
+Classifying you as an I.C. relieves a lot of tax burden from the employer if they can get you on that status. You assume that burden as well as your own. That's fine, IF you really are an I.C.
+
+But many employers want to control their contractors as though they are employees while enjoying the freedom from taxes associated with actual employees. THEY CANT HAVE BOTH. In fact, this is a form of tax evasion and tax fraud and not only should you alert the IRS at tax time, it is your obligation.
+
+Even if you're an I.C. you can file taxes as an Employee if you believe you should have been classified as such. You'll of course have a much lighter tax obligation to the IRS in this case. You'll also need to submit a form with documentation explaining why you believe you were wrongly classified. Your employer gets to appeal and tell their side of the story too. If the IRS determines you're an employee, sweet, that's it you're now an employee. If they determine the I.C. classification was correct, the taxes you filed will be reverted to reflect that, which is where you would have ended up anyway with the original scenario.
+
+So if you're an I.C. getting ready to file taxes but you think you shouldn't be paying all your employer's taxes for them, this is your solution. 
+
+Just be warned, you're probably gonna piss off the employer, but an employer that's pulling this type of shit probably deserves to be caught. If you don't work there anymore, great. But if you still do, consider how this might affect you at work before filling. 
+
+Edit: [Here's the IRS resource on the classification of work status.](http://www.irs.gov/Businesses/Small-Businesses-&amp;-Self-Employed/Independent-Contractor-Self-Employed-or-Employee)
+Don't do this unless you're very well aware of all the pros and cons!!
+
+url:https://reddit.com/r/YouShouldKnow/comments/1z6tqv/
+author:milehightechie
+subreddit:YouShouldKnow
+score:1740
+numComments:296
+isOver18:False
+hasPostBody:True

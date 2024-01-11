@@ -1,0 +1,19 @@
+title:
+LPT: (online shopping) When you next see a discount code online e.g. "use CODE10 for 10% off" - there is absolutely no harm in trying CODE20 first.
+
+content:
+In many cases there are codes that are valid all year round but they only get advertised at certain times. 
+
+Heck! Whenever you're at the online checkout and you see the option to apply a discount code, try a generic one like "TWITTER10" or "BRAND10".
+
+(Source: I am a digital marketer that sets these codes up and am also lazy.)
+
+EDIT: A popular comment is that there is a browser extension called Honey that does this for you.
+
+url:https://reddit.com/r/LifeProTips/comments/7w0uao/
+author:youngadamralph
+subreddit:LifeProTips
+score:26591
+numComments:950
+isOver18:False
+hasPostBody:True

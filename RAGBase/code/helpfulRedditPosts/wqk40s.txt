@@ -1,0 +1,15 @@
+title:
+LPT: When in doubt, ask, instead of assume
+
+content:
+This is a tip my manager gave me when I was newly joined the company. It has helped me since, not only in professional environment, but also life in general.
+
+Have you ever caught yourself assuming someone is stupid instead of trying to help them understand? In my experience most people will not take the extra effort and just assume instead.
+
+url:https://reddit.com/r/LifeProTips/comments/wqk40s/
+author:AriyaSavaka
+subreddit:LifeProTips
+score:1835
+numComments:113
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+YSK that during snow emergemcies a lot of parking garages offer free parking
+
+content:
+This is not true for all garages, but you can find out usually by checking their website or social media pages.
+
+It was devised to help clear out snow emergency routes, but is also a great way to to avoid having to shovel out your car.
+
+url:https://reddit.com/r/YouShouldKnow/comments/425r0a/
+author:AnosmiaStinks_ithink
+subreddit:YouShouldKnow
+score:1298
+numComments:72
+isOver18:False
+hasPostBody:True

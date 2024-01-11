@@ -1,0 +1,29 @@
+title:
+LPT: Download digital user manuals as soon as you buy anything, and store them on some sort of cloud storage account.
+
+content:
+This is something I've been doing for years and years.
+
+Any time I buy anything, the first thing I do is I go online and download the digital user manual. 99% of the time it's just a small PDF file.
+
+Then I rename the PDF to something easily searchable, and then I save it to my cloud storage account. At the moment I'm using OneDrive.
+
+Saving it to cloud storage is a huge help because you can pull it up on your phone quickly.
+
+-------------------------------
+
+For example...
+
+This is what triggered this post... Just now, I realized a digital clock I have on the wall hasn't been auto updating for daylight savings time changes. It's supposed to be one of those atomic clocks that just updates on its own.
+
+The manufacturer no longer makes this clock, and the user manual is no longer on their site, and it's impossible to find anywhere online. However, when I bought the clock, I emailed their support email and asked if they had it. They were more than happy to send it to me.
+
+So now, I was able to open the PDF on my phone, look through it and I figured out how to reset the clock, and force it to perform a manual wireless sync. It's now syncing again and back on the wall.
+
+url:https://reddit.com/r/LifeProTips/comments/i6acf3/
+author:chadbaldwin
+subreddit:LifeProTips
+score:1657
+numComments:68
+isOver18:False
+hasPostBody:True

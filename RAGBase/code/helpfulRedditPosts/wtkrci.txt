@@ -1,0 +1,15 @@
+title:
+YSK: There's a site to look up license plates in the US to get the details of a vehicle
+
+content:
+Why YSK: This website will show you all the details of a vehicle, say if there was a hit and run and you got a license plate which you can use for a police report. In case you couldn't describe the car exactly.
+
+https://www.vehiclehistory.com/license-plate-search
+
+url:https://reddit.com/r/YouShouldKnow/comments/wtkrci/
+author:SpxUmadBroYolo
+subreddit:YouShouldKnow
+score:2224
+numComments:97
+isOver18:False
+hasPostBody:True

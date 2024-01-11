@@ -1,0 +1,26 @@
+title:
+LPT: If you are considering a major behavioural change as a “New Years Resolution” it is worth looking in to the Transtheoretical Model of Change. It involves several stages over time rather than (impulsively) trying to make a major life change “overnight”, and it not at all difficult to understand
+
+content:
+It is tempting say, “I am going to stop/start [insert habit here] in 2017, starting January 1st!” because tradition and you know you want to or need to. But major life change takes more than a decision: it takes planning, time, dedication  and *practice*. The Transtheoretical Model, developed starting in 1977, offers a template of stages that engage you in a process of change over time. Think of it as slowly shifting gears—up *or* down, depending on your goals. Rather trying to get rolling from zero in fifth gear or stopping from 55 by slamming into PARK, your engine (body/mind) will thank you!
+
+Making major changes in your life is *hard*, but understanding this model is not.
+
+PsychCentral has a [solid outline/overview](https://psychcentral.com/lib/stages-of-change/?all=1)
+
+Further reading and resources:
+
+[The Wikipedia entry for the Transtheoretical Model](https://en.wikipedia.org/wiki/Transtheoretical_model)  
+[SocialWorkTech has nice downloadable diagrams  in a variety of formats](http://www.socialworktech.com/2012/01/09/stages-of-change-prochaska-diclemente/)  
+[A detailed overview from the Lungenzentrum Liesing (PDF, in English)](http://www.lungenordination.at/TTM.pdf)  
+[The HABITS Lab at the University of Maryland, Baltimore](http://habitslab.umbc.edu/)
+
+I wish you a happy and healthy 2017. As my grandfather used to say, "Take it easy, but take it!"
+
+url:https://reddit.com/r/LifeProTips/comments/5lar5m/
+author:crozplays
+subreddit:LifeProTips
+score:8707
+numComments:134
+isOver18:False
+hasPostBody:True

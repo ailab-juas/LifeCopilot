@@ -1,0 +1,21 @@
+title:
+YSK That Chiropractic upper spine manipulation is associated with serious injury and stroke.
+
+content:
+[Here is a link to a literature review that concludes significant risk.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1905885/) 
+
+&gt;Spinal manipulation, particularly when performed on the upper spine, is frequently associated with mild to moderate adverse effects. It can also result in serious complications such as vertebral artery dissection followed by stroke. Currently, the incidence of such events is not known. In the interest of patient safety we should reconsider our policy towards the routine use of spinal manipulation.
+
+I know a lot of people love going to the chiropractor. A close friend of mine just spent Thanksgiving in the ICU with her husband; he had a vascular dissection that the doctor thinks is likely from neck manipulations, that led to a series of strokes. He's now in long term rehab. He is *uninsured.* It's super fucked up that this isn't common knowledge, regardless of how "rare" it might be. 
+
+&amp;#x200B;
+
+They think he should be able to make a full recovery, but it's going to take a good long while. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/a1yk8r/
+author:PrioriIncantatem
+subreddit:YouShouldKnow
+score:9287
+numComments:1138
+isOver18:False
+hasPostBody:True

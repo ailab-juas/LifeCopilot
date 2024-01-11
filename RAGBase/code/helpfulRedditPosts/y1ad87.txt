@@ -1,0 +1,13 @@
+title:
+LPT: If times are tough and you need to lean on food banks or other sources to get food, just know that you can safely eat many foods well beyond their expiration or “best by” date
+
+content:
+I used to volunteer at a food bank and there are commonly accepted guidelines on when  foods are still safe to eat based on dates. Here is a good resource for those who are curious https://www.cmu.edu/student-affairs/resources/cmu-pantry/shelf-life.pdf
+
+url:https://reddit.com/r/LifeProTips/comments/y1ad87/
+author:Lickmyrucksack
+subreddit:LifeProTips
+score:4714
+numComments:141
+isOver18:False
+hasPostBody:True

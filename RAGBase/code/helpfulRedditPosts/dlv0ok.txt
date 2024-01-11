@@ -1,0 +1,13 @@
+title:
+LPT: If your school doesn't accept Wikipedia as a reference for a project, you can instead scroll to the bottom of the Wikipedia page and find the sources (citations) on everything and link those instead.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/dlv0ok/
+author:Hyracle
+subreddit:LifeProTips
+score:2242
+numComments:131
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: Keep a separate master resume with ALL previous work experience. When sending out a resume for application, duplicate the file and remove anything that may be irrelevant to the position. You never know when some past experience might become relevant again, and you don’t want to forget about it.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/d94yq3/
+author:[deleted]
+subreddit:LifeProTips
+score:3764
+numComments:120
+isOver18:False
+hasPostBody:True

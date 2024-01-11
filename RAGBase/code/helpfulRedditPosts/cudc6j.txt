@@ -1,0 +1,19 @@
+title:
+YSK that the primary driver of deforestation in the Amazon is due to cattle ranching, accounting for 80% of current deforestation rates.
+
+content:
+ Cattle ranching is the largest driver of deforestation in every Amazon country, accounting for 80% of current deforestation rates. Amazon Brazil is home to approximately 200 million head of cattle, and is the largest exporter in the world, supplying about one quarter of the global market. Low input cost and easy transportation in rural areas make ranching an attractive economic activity in the forest frontier; low yields and cheap land encourage expansion and deforestation. Approximately 450,000 square kilometers of deforested Amazon in Brazil are now in cattle pasture. Cattle ranching and soy cultivation are often linked as soy replaces cattle pasture, pushing farmers farther into the Amazon.   
+
+
+Consider significantly reducing or eliminating beef from your diet. Your conscious consumption or participation in the cattle ranching industry supports deforestation in the Amazon, Brazil is the largest exporter of beef. Once grazing pastures are exhausted by cattle ranching they are often converted into soy farms.  Even in America, beef consumption contributes to Amazon deforestation. Cargill, a US company, is the largest soybean producer in Brazil, and that company provides feed to US farms to feed cattle. The rainforest is being destroyed not just to raise cattle, but to raise feed for cattle, and Cargill is the largest culprit in the latter.   
+
+
+ [https://globalforestatlas.yale.edu/amazon/land-use/cattle-ranching](https://globalforestatlas.yale.edu/amazon/land-use/cattle-ranching)
+
+url:https://reddit.com/r/YouShouldKnow/comments/cudc6j/
+author:theycallmealex
+subreddit:YouShouldKnow
+score:37863
+numComments:2031
+isOver18:False
+hasPostBody:True

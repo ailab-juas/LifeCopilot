@@ -1,0 +1,18 @@
+title:
+YSK sitting all day has a profound affect on your health... even if you exercise regularly.
+
+content:
+In a new study published in the Journal of Applied Physiology, researchers from the University of Missouri looked at past studies into the number of steps people took each day. They found that people taking fewer than 5,000 steps per day were much more likely to develop chronic health conditions. Those who took more than 10,000 steps per day were at a much lower risk.
+
+It is a common misconception that, by exercising, a person is leading an active lifestyle. Whether or not you are considered "active" or "sedentary" is in fact down to the amount of time spent on your feet, not the amount of exercise done. If someone exercises every day, but spends the rest of the day sitting at their desk or on the sofa, they are still at risk of certain chronic illnesses.
+
+[Here's some more detailed information on the subject](https://www.medichecks.com/blog/post/Is-sitting-the-new-smoking?_48/).
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/2y1wpj/
+author:rooster
+subreddit:YouShouldKnow
+score:1552
+numComments:309
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: To take better notes in class, act like you are taking them for someone else. 
+
+content:
+If you act like you are taking notes for someone else, you will spend more time thinking about and understanding the concepts before writing them down. They'll also be more useful when you want to use them to study for a test.
+
+url:https://reddit.com/r/LifeProTips/comments/12k1uq/
+author:kameronk92
+subreddit:LifeProTips
+score:1417
+numComments:107
+isOver18:False
+hasPostBody:True

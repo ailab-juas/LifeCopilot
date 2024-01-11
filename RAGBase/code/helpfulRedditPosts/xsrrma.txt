@@ -1,0 +1,13 @@
+title:
+YSK: you can get a refund for any apps downloaded on iTunes in the last 6 months.. even if you’ve used them!
+
+content:
+Why YSK: sometimes we forget to cancel before the free trial ends (or after!) you can cancel anytime and request a refund of any fees associated with each app, even if you have used them. Say I downloaded canva 3 months ago and used it a handful of times but won’t use it again. I can “report an issue” in my iTunes account and choose from the drop down menu “forgot to cancel” for each month (in this case, 3 months) and they will refund you for all 3 months.
+
+url:https://reddit.com/r/YouShouldKnow/comments/xsrrma/
+author:sickerthan_yaaverage
+subreddit:YouShouldKnow
+score:1649
+numComments:39
+isOver18:False
+hasPostBody:True

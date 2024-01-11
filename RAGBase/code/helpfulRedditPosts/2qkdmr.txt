@@ -1,0 +1,18 @@
+title:
+LPT: When trying to persuade someone, replace "but" with "and."
+
+content:
+For instance:
+"I like your idea but I want to show you mine."
+vs
+"I like your idea and I want to show you mine"
+
+Total change in connotation. Goes from making these two things work against each other, to putting you and the other person on the same side and making them less defensive. Instead of negating what they said, you're adding to it.
+
+url:https://reddit.com/r/LifeProTips/comments/2qkdmr/
+author:burnthebridgex
+subreddit:LifeProTips
+score:1022
+numComments:103
+isOver18:False
+hasPostBody:True

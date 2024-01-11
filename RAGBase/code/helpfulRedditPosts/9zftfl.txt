@@ -1,0 +1,13 @@
+title:
+YSK if any of your Amazon “save for later” items go on sale you’ll get a notification
+
+content:
+Includes lighting deals!
+
+url:https://reddit.com/r/YouShouldKnow/comments/9zftfl/
+author:AndyDufresne001
+subreddit:YouShouldKnow
+score:3460
+numComments:56
+isOver18:False
+hasPostBody:True

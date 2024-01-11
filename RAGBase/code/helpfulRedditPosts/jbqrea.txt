@@ -1,0 +1,13 @@
+title:
+LPT: Online HS/college teachers, if you do exams without browser safeguards (or anything like it) and simply trust your students, make it open book. You'll get more quality answers and your students are probably cheating anyway so you're losing out .
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/jbqrea/
+author:egyptty888
+subreddit:LifeProTips
+score:17327
+numComments:622
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,25 @@
+title:
+YSK If you have an iPhone with “Listen for ‘Hey Siri’” turned on, you can shout, “Hey Siri, where are you?” all around your house when you lose your phone, as Siri will respond, “I’m right here.”
+
+content:
+**Why YSK:** because, if you’re like me, you lose your phone roughly every 4.5 hours. I literally bought an Apple Watch just so i could use the ping feature, but expecting someone who frequently loses their phone to remember to charge a watch is really funny. 
+
+Instead, I’ve discovered I can just go room-to-room and shout, “hey Siri, where are you?” and my phone will say, “I’m right here,” or some iteration thereof. 
+
+**Note:** it doesn’t work if “listen for ‘Hey Siri’” is turned off, which is a setting under Siri and Search. It doesn’t work if you can’t use sound to locate things, unfortunately (for those of you like me losing or without hearing in one ear, with a cochlear implant, or some other impaired hearing). 
+
+It also doesn’t work if the light sensor is blocked. There is a “pocket” feature where “Hey Siri” doesn’t work if the light sensor doesn’t sense any light (next to the forward facing camera). If the phone thinks it’s in a pocket, the feature is turned off. So if your phone is under a blanket, in a bag, or in a fridge it won’t work (though being in a fridge makes this feature not work for multiple reasons, at least in my experience).
+
+**Edit:** u/theedgeofoblivious has informed me that you can also use Google Home to find your phone if you have it by using it to call your phone! Isn’t technology ~~always listening~~ cool?
+
+**Edit #2: found a few solutions for cases when this doesn’t work!** first, if it doesn’t work for you when your phone is on silent, go into settings &gt; Siri &amp; Search &gt; Siri Responses &gt; switch from When silent mode is off to Always. 
+
+Next, to let Hey Siri work when your phone is face down or in a dark place, go to settings &gt; Accessibility &gt; Siri &gt; and turn on Always Listen for Hey Siri
+
+url:https://reddit.com/r/YouShouldKnow/comments/ydynb8/
+author:unknowncinch
+subreddit:YouShouldKnow
+score:9218
+numComments:265
+isOver18:False
+hasPostBody:True

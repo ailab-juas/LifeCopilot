@@ -1,0 +1,31 @@
+title:
+YSK: Always practice defensive driving. It doesn't matter if the other person was 100% at fault if you crash/get injured
+
+content:
+Probably at least a third of all dashcam videos posted to /r/idiotsincars that involve a near-miss or crash could have been prevented if people had practiced defensive driving. As a note, defensive driving is not only following all road rules, but also accounting for the fact that other people are likely not going to follow them. While you can't prevent every accident, you can prevent a number of common accidents. As the common phrase goes, the cemetery is full of people who had the right-of-way.
+
+Some defensive driving tips:
+
+* Before proceeding when the traffic light turns green, look both ways to make sure nobody is trying to run a red, even if it means waiting a full second after it turns green. When going through signals, if you can safely do so, try to at least glance at both directions to make sure nobody is approaching (this may not always be possible due to traffic or blind-spot reasons - your number one priority is keeping an eye on traffic and conditions on your roadway)
+
+* Even though maintaining recommended car spacing is nearly impossible in major cities during rush hour (due to the fact that other people will simply cut in front of you), you should at the absolute very least try to maintain 2 car lengths if you cannot maintain a recommended one car length per 10 mph. You should NEVER under any circumstance tailgate someone for three reasons. One, you never know if someone will need to abruptly stop, and you are likely to cause an accident. Two, you increase the odds of being involved in a road rage incident. Three, you are actively contributing to traffic. Research has shown that irresponsible driving behaviors like tailgating cause phantom traffic jams as people need to overcompensate for slow downs to prevent collisions. 
+
+* You should never go out of your way to screw someone over, even if they are blatantly breaking road rules. While you are in no obligation to let someone cut in who is trying to skip the line, you should also not go out of your way to block them in if they are forcing a maneuver. If someone is tailgating you, move over and let them pass, even if they are being incredibly irresponsible. People who have no respect for traffic laws probably have no respect for you either, and often lack the foresight or emotional control to not do something that will land them in prison. Swallow your pride and worry about your car and its safety, and not whether other people are getting their just desserts. Even though justice boners are rarely served, let the cops sort it out, and don't try to be a vigilante.
+
+* You have to drive slower when there is rain, wet roads, and especially snow. This is ESPECIALLY critical if you are in a region that rarely receives rain or snow. Other people are not accustomed to driving in these conditions and are likely to spin out or skid. Even if you are experienced in driving in these conditions, other people are not, and you should always assume other people are going to mess up. Also, be mindful that older roads often do not have the same drainage/slope engineering of newer roads along with the fact that they may be degraded. They are more likely to have issues with ponding which is prime territory for hydroplaning.
+
+* As soon as you detect something that may cause issues down the road, you should start to gradually slow down. Waiting until a point in which you have to slam on your breaks may result in you spinning out or not having enough time to stop. Worse yet, the person behind you may not be as good at stopping as you are. Even if you can stop in time, the person behind you may not be able to. Losing a few seconds to slowing down for nothing is much better than taking a chance and having to spend a day at the auto repair shop from being rear-ended. Gradually tapping your brakes can help alert a non-attentive driver behind you that something may be going on.
+
+* Headlights should always be used not only at night, but also at Dusk and Dawn, as well as any time it is raining, storming, snowing, foggy or otherwise if viewing conditions are worsened. Its often not about you being able to see better, but other people being able to see you better. You don't want to T-Bone someone who thought it was safe to cross the intersection because they didn't see your lights, even if it was 100% their fault that they didn't have the right-of-way. Only use your brights if there is no fog and there are no other drivers around you (mainly on low-traffic country roads with no lighting). Using your brights may temporarily blind other drivers increasing the chance they may crash into you or something else.
+
+* Stay away from erratic drivers if you can. Erratic behaviors include: swerving, irregularly going from fast to slow on a steady stretch of highway, driving irregularly slowly for a major roadway, unusual lane changes, or poor car maintenance. Either pass them and go on ahead, or let them pass you and go up ahead. Generally I like to stay away from trucks too as they can obstruct vision and take significantly longer than cars to stop (not to mention if there is an accident they will probably be fine while you are a pancake). It can be worth it to briefly speed if it means getting away from a high-risk vehicle.
+
+* There are countless other things you can do to reduce your risks as a driver, but I can't list everything here. Generally, assuming other drivers will mess up and building that into your driving will help you prevent accidents.
+
+url:https://reddit.com/r/YouShouldKnow/comments/gt23h7/
+author:papperonni
+subreddit:YouShouldKnow
+score:19706
+numComments:414
+isOver18:False
+hasPostBody:True

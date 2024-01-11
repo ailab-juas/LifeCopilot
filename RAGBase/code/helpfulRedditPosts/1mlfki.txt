@@ -1,0 +1,15 @@
+title:
+Google has an extensive, searchable, online collection of magazines dating back to the 1960's.
+
+content:
+LINK: http://books.google.com/books?as_pt=MAGAZINES&amp;rview=1
+
+Lots of great articles, photos and vintage advertising.
+
+url:https://reddit.com/r/YouShouldKnow/comments/1mlfki/
+author:lookslikesinbad
+subreddit:YouShouldKnow
+score:1337
+numComments:83
+isOver18:False
+hasPostBody:True

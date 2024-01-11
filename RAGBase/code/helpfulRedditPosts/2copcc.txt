@@ -1,0 +1,13 @@
+title:
+LPT: What to do when you're beginning to look for a job. How to primp your online persona, resume, cover letter, etc even with limited experience.
+
+content:
+I found this article very helpful and useful. [You can find it here.](http://www.lynda.com/articles/get-a-job) 
+
+url:https://reddit.com/r/LifeProTips/comments/2copcc/
+author:readcommentbackwards
+subreddit:LifeProTips
+score:3962
+numComments:641
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: If you constantly vent your problems to someone, make sure to also call them when things are going well. Good listeners can sometimes get overwhelmed, and it's nice to hear positive news.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5rgw0q/
+author:anthson
+subreddit:LifeProTips
+score:51282
+numComments:925
+isOver18:False
+hasPostBody:False

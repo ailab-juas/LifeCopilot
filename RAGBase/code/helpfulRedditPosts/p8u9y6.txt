@@ -1,0 +1,13 @@
+title:
+LPT: Silence is a choice and not engaging people is often a wise move. Don't feel the need to offer an opinion nor talk to people if you don't have to.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/p8u9y6/
+author:HomelandersHairgel
+subreddit:LifeProTips
+score:1469
+numComments:55
+isOver18:False
+hasPostBody:False

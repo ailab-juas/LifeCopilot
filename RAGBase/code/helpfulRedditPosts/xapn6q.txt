@@ -1,0 +1,13 @@
+title:
+LPT: Black Friday is coming soon. It's a good idea to check the prices now of the items you want and compare them later with Black Friday prices. There are still scammers out there that increase the prices two weeks before sale starts and later drops them to actual standard price.
+
+content:
+And you can also start saving some money now :)
+
+url:https://reddit.com/r/LifeProTips/comments/xapn6q/
+author:Greendead
+subreddit:LifeProTips
+score:9190
+numComments:198
+isOver18:False
+hasPostBody:True

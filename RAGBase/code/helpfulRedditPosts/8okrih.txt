@@ -1,0 +1,15 @@
+title:
+LPT: My piano teacher told me it's always better to practice 20 minutes every day at a skill rather than 60 minutes every 3 or so days.
+
+content:
+This has helped me, at least. Especially if I set a timer aside. It sticks with me longer and I find I improve that much faster if I set aside time every day for what I want to get better at.
+
+EDIT: 20 minutes was just an example. If you want to practice an hour a day, do so. It's better to practice an hour a day vs 3 every 3 days. Its the frequency not so much the time. 
+
+url:https://reddit.com/r/LifeProTips/comments/8okrih/
+author:banana__phone
+subreddit:LifeProTips
+score:9790
+numComments:238
+isOver18:False
+hasPostBody:True

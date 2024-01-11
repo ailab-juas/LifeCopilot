@@ -1,0 +1,32 @@
+title:
+If you use a multi-computer setup try Garage Mouse without Borders to use your mouse and keyboard across your computers.
+
+content:
+If you used a multi computer setup for a while you may have found [Synergy](http://synergy-foss.org/). Synergy allows you to use your main desktop mouse and keyboard on other computers. 
+
+After using Synergy for a few days I was annoyed to choose which input to be used. After some search I found [Garage Mouse without Borders](http://www.microsoft.com/en-in/download/details.aspx?id=35460). In fact it allows you to use the input of any connected device.
+
+Give it a try, its free and safe to use, the setup is quite easy.
+
+**Edit**: It's **Windows only**. Forgot to mention it, because I'm just using it on my Windows machines.
+If you work across Windows and Mac you can try [ShareMouse](http://www.keyboard-and-mouse-sharing.com/), but I hit into a bug when using multiple monitors on one machine. ShareMouse has similar features as Garage Mouse.
+
+**Edit2**: Thanks to /u/duclicsic , he recommends [x2x](https://github.com/dottedmag/x2x/) for **Linux**.
+
+tl;dr:
+
+* **Windows** machines give *[Garage Mouse without Borders](http://www.microsoft.com/en-in/download/details.aspx?id=35460)*  a try
+
+* **Windows and Mac** try *[ShareMouse](http://www.keyboard-and-mouse-sharing.com/)*
+
+* **Windows, Mac and Linux** try *[Synergy](http://synergy-foss.org/)*, which requires one computer to act as host (Only host can control mouse/kb across multiple devices).
+
+* **Linux** try *[x2x](https://github.com/dottedmag/x2x/)*
+
+url:https://reddit.com/r/LifeProTips/comments/1pqu96/
+author:Riwolfes
+subreddit:LifeProTips
+score:1385
+numComments:187
+isOver18:False
+hasPostBody:True

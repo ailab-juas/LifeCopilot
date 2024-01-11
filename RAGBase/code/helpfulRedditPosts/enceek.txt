@@ -1,0 +1,13 @@
+title:
+LPT: Move frame by frame on YouTube with the period and comma keys. ( . and , )
+
+content:
+Not sure if this has been said before, but I've used it a lot since I learned it.
+
+url:https://reddit.com/r/LifeProTips/comments/enceek/
+author:DaFunkPunk
+subreddit:LifeProTips
+score:2824
+numComments:62
+isOver18:False
+hasPostBody:True

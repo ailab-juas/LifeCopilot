@@ -1,0 +1,15 @@
+title:
+YSK that most bacteria do not visibly 'glow' under UV light and using it to determine how clean a surface is flawed
+
+content:
+&gt; A disturbing trend is the promotion of fluorescence under UV as a diagnostic tool for unsanitary areas, doubtless fuelled by TV crime dramas where natural fluids or organic matter are detected with UV, as well as in other TV formats in the ‘How Minging Is Your…’ genre. I’m now seeing systems being promoted in food and healthcare claiming you can expose bacteria on surfaces with UV ‘because bacteria fluoresce’. Some even suggest such systems are suitable for validation of cleaning effectiveness in food prep and healthcare. I’m calling Bollocks on that notion for some very simple reasons – but not Utter Utter Bollocks (µ²B) on the entire concept because the detail is a lot more interesting. To geeks like me, at least.
+
+http://www.rectofossal.com/bacteria-glow-dark/
+
+url:https://reddit.com/r/YouShouldKnow/comments/4gfuyg/
+author:tinyp
+subreddit:YouShouldKnow
+score:1717
+numComments:107
+isOver18:False
+hasPostBody:True

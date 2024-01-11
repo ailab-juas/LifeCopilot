@@ -1,0 +1,13 @@
+title:
+LPT If you want to buy the cheapest airline tickets online use your browser's incognito mode
+
+content:
+This LPT has helped me many times. The reason this works is because websites use cookies to track your browsing habits and searches. If you find a cheap ticket but browse the web before buying your initial "cheap" ticket gonna cost more.
+
+url:https://reddit.com/r/LifeProTips/comments/13mdr5/
+author:[deleted]
+subreddit:LifeProTips
+score:5014
+numComments:711
+isOver18:False
+hasPostBody:True

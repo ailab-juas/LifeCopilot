@@ -1,0 +1,13 @@
+title:
+YSK - A king sized blanket is much more comfortable for a queen sized bed
+
+content:
+Why YSK: people like to assume a queen bed needs a queen blanket. However, this is not the case (especially with 2 people in the bed). A king size blanket hangs off the sides of the bed just the perfect amount and ensured you have enough blanket at all times.
+
+url:https://reddit.com/r/YouShouldKnow/comments/v3mx9m/
+author:maxpown3r
+subreddit:YouShouldKnow
+score:11821
+numComments:446
+isOver18:False
+hasPostBody:True

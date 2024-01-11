@@ -1,0 +1,13 @@
+title:
+LPT: If someone writes on a whiteboard in permanent marker, go over the entire area that has the permanent marker in on it with a whiteboard marker. The two different inks will react with each other and then can be erased with a whiteboard eraser.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/20ay1g/
+author:Kubrick_Fan
+subreddit:LifeProTips
+score:2284
+numComments:185
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: Need a throwaway email on the spot? Mailinator.com provides a free public inbox for random things that require an email.Use any phrase followed by "@mailinator.com." Example: Potatoes@mailinator.com.
+
+content:
+This is different from creating a standard email account because you do not need to create the inbox on mailinator.com first. It creates the box when something is sent to it. If you need to verify an email to access something, you can also check the inbox by visiting mailinator.com and searching for the specific inbox. Keep in mind it is public so anything involving sensitive information is best kept out. But just for a quick throwaway it works nicely.
+
+url:https://reddit.com/r/LifeProTips/comments/51pgj3/
+author:PsychoticBipolarChic
+subreddit:LifeProTips
+score:1321
+numComments:75
+isOver18:False
+hasPostBody:True

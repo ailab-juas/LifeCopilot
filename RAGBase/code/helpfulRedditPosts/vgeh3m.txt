@@ -1,0 +1,13 @@
+title:
+LPT - An effective and non-confrontational method to get out of an uncomfortable conversation is simply to say “I don’t think we’ll solve this problem between the two of us”
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/vgeh3m/
+author:powertripp82
+subreddit:LifeProTips
+score:1521
+numComments:75
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: If you want to learn a new language, figure out the 100 most frequently used words and start with them. Those words make up about 50% of everyday speech, and should be a very solid basis.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/84exvu/
+author:rishabhbector
+subreddit:LifeProTips
+score:74782
+numComments:3189
+isOver18:False
+hasPostBody:False

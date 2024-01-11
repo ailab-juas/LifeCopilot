@@ -1,0 +1,15 @@
+title:
+LPT: When proofreading a written sentence for spelling errors, read it backwards.
+
+content:
+It forces you to recognize each individual word, instead of quickly scanning over each word
+
+Edit: there's been a lot of comments about spellcheck, which is a good idea, but I was referring to a handwritten sentence.  Kind of a dead art, I know
+
+url:https://reddit.com/r/LifeProTips/comments/4mlima/
+author:popularloser
+subreddit:LifeProTips
+score:1587
+numComments:120
+isOver18:False
+hasPostBody:True

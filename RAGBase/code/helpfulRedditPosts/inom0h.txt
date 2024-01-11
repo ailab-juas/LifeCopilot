@@ -1,0 +1,17 @@
+title:
+LPT: Always explain WHY a procedure exists, so the person you're teaching doesn't blindly follow it without thinking.
+
+content:
+I work in Accounts Payable for a large international company. We recently had a very large invoice show up as overdue and unpaid. While investigating, I discovered the reason it wasn't paid was because the "expected" cost was different from the "actual" cost. Interviewing the employee who originally attempted to process the invoice, they said they hadn't paid it because the numbers didn't match. They had been told "If they don't match, you can't pay it." So that's what they did. They were never told WHY that's a policy - it's meant to catch when the actual cost is MORE than the expected cost. We don't want to pay more than we were planning without reviewing the situation, but paying LESS than expected is totally fine.
+
+Yes, a lower invoice can sometimes be because the bill was screwed up, but in this case it was just that the project took less time than originally estimated. If the original trainer had taken the time to explain WHY we have that policy, the employee would have been able to objectively examine the situation, realize that it was okay to pay in this case, and we wouldn't have faced late fees and disruptions in service.
+
+Always take the extra time to explain the "whys" of any procedures and policies. Helping the person you're teaching understand the thinking behind a policy allows them to evaluate their circumstances, and make an informed decision.
+
+url:https://reddit.com/r/LifeProTips/comments/inom0h/
+author:Dartarus
+subreddit:LifeProTips
+score:19506
+numComments:363
+isOver18:False
+hasPostBody:True

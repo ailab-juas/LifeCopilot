@@ -1,0 +1,13 @@
+title:
+LPT: always use PayPal for subscriptions.
+
+content:
+PayPal let’s you see a list of who you’re paying with what credit card and let’s you cancel through their service reliably in case a company won’t let you cancel or keeps charging you.
+
+url:https://reddit.com/r/LifeProTips/comments/co312d/
+author:Benzx1
+subreddit:LifeProTips
+score:1057
+numComments:150
+isOver18:False
+hasPostBody:True

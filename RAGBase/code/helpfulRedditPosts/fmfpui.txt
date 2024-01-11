@@ -1,0 +1,15 @@
+title:
+YSK your car should be occasionally turned on and run even if you are sheltering in place.
+
+content:
+I am not a mechanic (and someone who is can explain this better) but even if you are not planning to use it you should occasionally start it up and drive around the block/let it idle for 15-20 min every week or so.
+
+Edit: an added bonus is for those of us who street park in a city you’ll be up to date in the event of a temporary no parking zone (for tree/sewage work for example)
+
+url:https://reddit.com/r/YouShouldKnow/comments/fmfpui/
+author:dapperDave0
+subreddit:YouShouldKnow
+score:1557
+numComments:91
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+YSK In the UK there is a free confidential helpline for old people who feel lonely and seek friendship and advice. You can also volunteer for this service.
+
+content:
+[https://www.thesilverline.org.uk/](https://www.thesilverline.org.uk/)
+
+url:https://reddit.com/r/YouShouldKnow/comments/d4jsql/
+author:jbuk02
+subreddit:YouShouldKnow
+score:1209
+numComments:13
+isOver18:False
+hasPostBody:True

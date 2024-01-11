@@ -1,0 +1,59 @@
+title:
+YSK that one can of tuna contains more mercury than a kid might receive if they got a full round of vaccinations.
+
+content:
+Why you need to know this? So you can turn anti-vaxers efforts on tuna instead and save countless vulnerable lives in the process.
+
+EDIT
+So this turned into a really great discussion. Thank you guys so much for the great info and many, many laughs. Suffice to say it's been a good day. I was asked for a bit of a summary for the latecomers so I'll give it my best shot based on the questions and answers given here. 
+
+First and foremost: eating tuna with moderation is A-OK! Tuna salad does not cause autism just like mercury doesn't cause autism. There are, however, recommendations regarding intake that everyone should be aware of. If you are pregnant, are nursing, have young children (under 5) or have a compromised immune system, talk to your doctor. 
+https://www.fda.gov/food/foodborneillnesscontaminants/metals/ucm351781.htm
+
+There are different types of mercury with different properties. Ethylmercury a byproduct of vaccine componant thimerosal. It can be toxic if inhaled in, you guessed it, toxic amounts. Methylmercury is highly toxic when ingested too often, is absorbed in the digestive tract and is found in fish like Albacore tuna and many other species of fish and shellfish. Your weight has an impact on how toxic a dose can be.
+https://www.cdc.gov/biomonitoring/Mercury_FactSheet.html
+
+Thimerosal is a component of vaccines that breaks down into ethylmercury (eg non-toxic) that is barely used today. Overall, mercury is not used in vaccines. Thimerosal is mainly used as an anti-bacterial and anti-fungal agent.
+https://www.cdc.gov/vaccines/hcp/patient-ed/conversations/downloads/vacsafe-thimerosal-color-office.pdf
+
+The claim that mercury in thimerosal caused autism is false and came from Andrew Wakefield. His paper was retracted due to faulty methodology and he was disbarred as a doctor (and yes, that is apparently the right way to describe a doctor getting stripped of his medical licence).
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3136032/
+For the real nerds, here is the original paper:
+https://www.thelancet.com/journals/lancet/article/PIIS0140673697110960/fulltext
+
+Some people here played with the mercury from thermometers as children and now seem to collectively be waiting to die. If you are/were one of those children, you can breathe easy. It doesn't really go through your skin.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3514464/ 
+
+Toxic methylmercury accumulated in food chains and is not supposed to be at such high levels in porpoises, fish and shellfish. We've made a mess of the place.
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0197220
+
+Also, randomly, here's a link to the brainchild of a 16 year old now spending his days cleaning up the oceans.
+https://www.theoceancleanup.com/
+
+The main point I was trying to make is that you need to follow the logic. I don't hate tuna, I don't want you to hate it either. It's really amazing how many of you dove in and started researching for yourself. We need more of you in the world. And to all of you claiming I need to cite my sources, you are entirely correct. The burden of evidence lies with the claimant. I hope this appeases you.
+(source: me)
+
+Also Jim Halpert is a smug bastard.
+https://www.reddit.com
+
+And all of you artistically inspired me to do this...
+https://www.redbubble.com/people/say-something/works/35843731-save-tuna?asc=u&amp;ref=recent-owner
+
+
+
+
+
+
+
+
+
+
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/a89fpa/
+author:SaySomethingDesign
+subreddit:YouShouldKnow
+score:18312
+numComments:665
+isOver18:False
+hasPostBody:True

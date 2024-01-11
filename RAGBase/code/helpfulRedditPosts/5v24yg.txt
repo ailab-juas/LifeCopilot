@@ -1,0 +1,13 @@
+title:
+LPT: All signs indicate that this summer will be the hottest ever in North America. If you will need to buy an air conditioner or will have trouble paying higher electric bills, you should start saving for this right now.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5v24yg/
+author:Frashizzle
+subreddit:LifeProTips
+score:23825
+numComments:2238
+isOver18:False
+hasPostBody:False

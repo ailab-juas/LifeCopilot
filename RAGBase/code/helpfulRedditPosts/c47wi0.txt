@@ -1,0 +1,13 @@
+title:
+LPT: If you have to reheat noodles, use butter. The butter will keep the noodles from clumping together.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/c47wi0/
+author:Bengals_1928
+subreddit:LifeProTips
+score:1677
+numComments:101
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+YSK that if you're telling someone that an accident happened to a loved one, and the person is ok, you should preface it by telling them the person is ok before telling them about the accident
+
+content:
+This will relieve them of worrying that the person died if you start it off by saying they were in an accident.
+
+url:https://reddit.com/r/YouShouldKnow/comments/hnxkiq/
+author:MO2004
+subreddit:YouShouldKnow
+score:30969
+numComments:589
+isOver18:False
+hasPostBody:True

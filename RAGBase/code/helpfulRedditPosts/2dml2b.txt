@@ -1,0 +1,13 @@
+title:
+LPT: Webpage hidden by a banner telling you to deactivate adblock? Use adblock to block the banner. Not a banner but a prompt window complaining about adblock, disable JavaScript for that page.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/2dml2b/
+author:Billogi
+subreddit:LifeProTips
+score:1878
+numComments:442
+isOver18:False
+hasPostBody:False

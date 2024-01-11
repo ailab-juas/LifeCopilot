@@ -1,0 +1,13 @@
+title:
+YSK gasoline containing ethanol will generally shorten the life of your snowthrower, lawn mower, etc. Use a stabilizer and/or purchase gas w/o ethanol.
+
+content:
+I use gas station gas, premix it with a stablizer and run it out after every use.  Then I add a small amount of ethanol free gas (expensive) to the tank and run that out too.  It's a pain, but better and cheaper than getting all of my small motors repaired every year / few years.
+
+url:https://reddit.com/r/YouShouldKnow/comments/43vfno/
+author:OPVFTW
+subreddit:YouShouldKnow
+score:1566
+numComments:214
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,19 @@
+title:
+YSK there are 5000+ active subreddits, here are all of them.
+
+content:
+I use reddit very less but i like it a lot. I never knew that reddit community is such a vast. I wanted to see how many subreddits are there in reddit which are active and ended up making this long list of 5000+ subreddits. I found this list previously submitted by someone at /r/YouShouldKnow, so i thought why not to bring it back for those who missed.
+
+**Note: This list is a mix of NSFW and SFW, so check it before you open any of them.**
+
+Here is the List - https://docs.google.com/spreadsheet/ccc?key=0Agpb7THmQnOtdGRzcnNZSGVZcmlQVUM5aXVQS2NPUWc#gid=0
+
+**This list again back for those who missed it 7 months back!**
+
+url:https://reddit.com/r/YouShouldKnow/comments/21c1z7/
+author:ashyman
+subreddit:YouShouldKnow
+score:1685
+numComments:178
+isOver18:False
+hasPostBody:True

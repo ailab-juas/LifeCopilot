@@ -1,0 +1,13 @@
+title:
+YSK: Flickr gives you 1TB of photo/video storage for free
+
+content:
+It's on https://www.flickr.com . But make sure when you install it to tweak your privacy settings.
+
+url:https://reddit.com/r/YouShouldKnow/comments/7219rv/
+author:Genericandhere
+subreddit:YouShouldKnow
+score:4604
+numComments:276
+isOver18:False
+hasPostBody:True

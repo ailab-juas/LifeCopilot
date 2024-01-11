@@ -1,0 +1,29 @@
+title:
+YSK that email etiquette goes a long way and your question is likely to be answered much faster if you're nice.
+
+content:
+**Why you should know**: because being polite to people who get the same enquiry 20 times every day will get your problem sorted much faster.
+
+I work in a college, and my job is to make sure applicants get housing. Every year, there is a waiting period before we allocate housing which applicants are informed of *many* times, and we get emails ranging from:
+
+*'Dear XXX, I know you get this question a lot but when might we hear about housing allocations?'*
+
+to:
+
+*'Why have my friends heard about housing and not me? I'm pissed with waiting.'*
+
+(Both are verbatim)
+
+The former **will definitely get answered first**, even if it comes in later. When you send an email to a company, you're sending a written correspondence to a human who is often paid the least in their office for very repetitive work. It is commonplace among my colleagues and colleagues in other colleges to basically not give a rat's ass about your enquiry at all.
+
+In the case of the former, employees may even use loopholes in the bureaucracy to help you out and give as much information as possible.
+
+In the case of the latter, employees will likely make use of the absolute official channels to ensure you get drowned in a sea of bureaucracy; you'll be restricted by the letter of service level agreements, and your email will absolutely not be a priority.
+
+url:https://reddit.com/r/YouShouldKnow/comments/fab3n1/
+author:yorkshirenation
+subreddit:YouShouldKnow
+score:13353
+numComments:279
+isOver18:False
+hasPostBody:True

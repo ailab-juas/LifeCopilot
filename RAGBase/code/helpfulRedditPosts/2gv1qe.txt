@@ -1,0 +1,35 @@
+title:
+LPT: Don't pay anyone to "diagnose" your check engine light.
+
+content:
+If your car is 1996 or newer and you get a check-engine light, don't pay a shop upwards of $100 just to run the code, there's better options.
+
+**Option 1: Auto Parts Stores**
+
+Most Auto parts stores have a code reader and will check your codes for you for free. Get the actual code that comes up on the screen and write it down. You can put this code into Google with the year/make/model of your vehicle to see common causes. 
+
+**Option 2: Buy a code reader**
+
+ You can buy a pretty simple code reader for [under $20](https://www.google.com/search?q=code+reader) online. You can also get an [ELM 327](https://www.google.com/search?q=elm+327) Bluetooth reader that will work with your smartphone. Torque Pro ($5 - Google Play Store) will read your codes, clear them, and even give you live engine data along with functioning as a dynomometer for 0-60 times etc. 
+
+If you're not a mechanic, chances are you'll still need a trip to a repair facility to fix the problem, but this will give you a head start without paying to have the code read. A lot of times you'll even find a simple answer to the problem online by doing some research. For instance EVAP (Evaporative Emissions) codes are often times caused by a loose or poorly seated gas gap. 
+
+
+
+Edit: Since most apparently did not read the whole thing:
+
+&gt;**If you're not a mechanic, chances are you'll still need a trip to a repair facility to fix the problem** 
+
+I'm not advocating DIY repair of your car, but knowing whether you have a misfire (big deal), or a small EVAP leak (not a big deal) can be very beneficial when you own a car on a budget. 
+
+Edit 2: "Diagnose" should have said "read". Diagnosis is not the same as reading a code.
+
+Edit 3: Removed product links per rules
+
+url:https://reddit.com/r/LifeProTips/comments/2gv1qe/
+author:BillNyeDeGrasseTyson
+subreddit:LifeProTips
+score:3473
+numComments:1195
+isOver18:False
+hasPostBody:True

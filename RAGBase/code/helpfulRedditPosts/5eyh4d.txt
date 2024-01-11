@@ -1,0 +1,15 @@
+title:
+LPT: The best way to remember new words - do a Google Images search of it.
+
+content:
+As a part of my preparations for a test required that I improve my English vocabulary. However, the meanings of some words were really difficult to remember. I used to do a Google News search of the word to see examples of the word used in context (an earlier LPT I saw here). One day I clicked on Google Images by mistake and saw a picture related to the word 'contumacious' and instantly knew that I wouldn't forget it. I had similar results with the word 'alacrity'. Now I do a Google Image search of every new word I come across. 
+
+Note: The less common the word, the more effective Google Images search
+
+url:https://reddit.com/r/LifeProTips/comments/5eyh4d/
+author:PANiC0290
+subreddit:LifeProTips
+score:1248
+numComments:65
+isOver18:False
+hasPostBody:True

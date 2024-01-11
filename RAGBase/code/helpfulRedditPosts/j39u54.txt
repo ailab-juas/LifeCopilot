@@ -1,0 +1,13 @@
+title:
+LPT: When giving advice, use the phrase “perhaps” in replacement of “I think” so it comes off more as a suggestion and not an opinion. It will be more likely to be heard and taken into consideration.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/j39u54/
+author:raviji22
+subreddit:LifeProTips
+score:50252
+numComments:924
+isOver18:False
+hasPostBody:False

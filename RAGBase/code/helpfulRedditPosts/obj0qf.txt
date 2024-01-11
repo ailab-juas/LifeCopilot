@@ -1,0 +1,13 @@
+title:
+LPT: If you’re constantly making a routine and dropping it the next day because you feel too tired to follow it, try making three different routines; one for low-energy, one for mid-energy, one for high-energy.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/obj0qf/
+author:[deleted]
+subreddit:LifeProTips
+score:16654
+numComments:265
+isOver18:False
+hasPostBody:False

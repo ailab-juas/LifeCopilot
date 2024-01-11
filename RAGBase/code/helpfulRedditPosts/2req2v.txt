@@ -1,0 +1,13 @@
+title:
+YSK whether to rent or buy
+
+content:
+I am looking to buy a home and my real estate agent sent me this tool.  It helped me make some tough financial decisions so I thought I'd pass it on.  http://www.nytimes.com/interactive/2014/upshot/buy-rent-calculator.html?_r=1&amp;abt=0002&amp;abg=1
+
+url:https://reddit.com/r/YouShouldKnow/comments/2req2v/
+author:slaterobot
+subreddit:YouShouldKnow
+score:1224
+numComments:276
+isOver18:False
+hasPostBody:True

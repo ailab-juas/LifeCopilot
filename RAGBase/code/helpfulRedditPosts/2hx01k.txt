@@ -1,0 +1,13 @@
+title:
+LPT: To avoid a generic answer: Ask, "What have you been listening to lately?" instead of, "What kind of music do you like?"
+
+content:
+People always answer, "What kind of music do you like?" with, "I like all kinds of music" or some variation of the same, which is awkward and tells you nothing. Asking, "What have you been listening to lately?" is typically answered with something more like, example: "I have really been liking Artist #1's new album *blank*, but I cant stop listening to Artist #2 new song *blank*." This gives you far more information and makes for a more quality conversation. Hope this helps! 
+
+url:https://reddit.com/r/LifeProTips/comments/2hx01k/
+author:flambashingsly
+subreddit:LifeProTips
+score:3128
+numComments:524
+isOver18:False
+hasPostBody:True

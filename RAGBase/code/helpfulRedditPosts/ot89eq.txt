@@ -1,0 +1,15 @@
+title:
+LPT: If you’re feeling unmotivated or dreading having to exercise, set your expectations and workout goals as low as you can and go from there. You’ll often end up surprising yourself. Doing something, no matter how small, is better than nothing at all.
+
+content:
+There are many days when working out just feels like a complete chore and is extremely daunting. Breaking down your workout plan into small, easily reachable steps makes the process more actionable.
+
+Getting your workout clothes on and saying “I’ll walk for 10 minutes and see how it goes” or “I’ll do 10 push ups and see how it goes” oftentimes provides the momentum to spark motivation and energy to do more.
+
+url:https://reddit.com/r/LifeProTips/comments/ot89eq/
+author:super_corndog
+subreddit:LifeProTips
+score:1128
+numComments:39
+isOver18:False
+hasPostBody:True

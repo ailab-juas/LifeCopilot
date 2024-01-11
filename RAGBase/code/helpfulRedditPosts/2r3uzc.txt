@@ -1,0 +1,13 @@
+title:
+YSK about the app WhoSampled that lets you search which samples are used by searching artist name or song name. The app explores the DNA of modern music.
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/2r3uzc/
+author:Vodka_redbull
+subreddit:YouShouldKnow
+score:1148
+numComments:42
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: At your work, try to be involved in the process of hiring new employees, even if your job is not directly related to HR or hiring. This interviewing experience from "the other side" will give you great behind-the-scenes experience for your own future interviews for other jobs.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/bjnvtx/
+author:thorface
+subreddit:LifeProTips
+score:5971
+numComments:161
+isOver18:False
+hasPostBody:False

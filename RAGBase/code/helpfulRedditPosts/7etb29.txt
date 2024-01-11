@@ -1,0 +1,13 @@
+title:
+LPT: Before you send that risky text, imagine what it would sound like being read out loud by a judge in a courtroom
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/7etb29/
+author:Xerxes_Aluminium
+subreddit:LifeProTips
+score:15039
+numComments:544
+isOver18:False
+hasPostBody:False

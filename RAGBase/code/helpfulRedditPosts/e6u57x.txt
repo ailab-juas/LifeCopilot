@@ -1,0 +1,23 @@
+title:
+YSK that if a traffic light is clearly mistimed and causing unnecessary traffic, you can email or call the local department of transportation and let them know
+
+content:
+They will oftentimes fix it and do it quickly.
+
+Edit - yes, it clearly depends on where you live. In addition, some lights are controlled by the city, some by the state, some by tribal communities, etc. 
+
+Also, there are different types of lights. Some are timed and some are sensored. Timed lights may be intentional or simply badly mistimed. Sensored lights often malfunction and trigger for a direction with no traffic or default to a direction it shouldn't.
+
+Edit 2- and yes, some lights are timed in a way that don't make sense at face value. Sometimes they're properly designed to improve traffic flow down the street
+
+Edit 3- here are my experiences. A couple with sensor issues and one with a timing issue. The sensored issues were pretty basic. In less frequented areas of my suburb in sacramento (California for those not from the USA), I noticed that the lights would trigger for directions of traffic with zero cars coming. It would stop the main flow of traffic for quite a while with zero cars coming in the direction with the green light. I googled the Sacramento department of transportation and found an email address. Both times I did this, the light was fixed the next time I came though. Awesome!
+
+My timing issue example took much longer to resolve, but this one is saving people a massive amount of time and I feel great about it. Here in my Sacramento suburb, we have a pretty busy road called Bradshaw. There are a few intersections with a lot of traffic, but one in particular would back up for over a mile stopping hundreds of cars two lanes deep at rush hours in the evening. The crossroad in question here wasn't a heavily trafficked road (Florin road if you're familiar), but it would basically favor Florin's direction to where they would have to wait one light cycle and Bradshaw would have to wait 7-10 light cycles to get through. I emailed the city and didn't hear a word. I figured there was simply a different reason they held up traffic there and I let it go and found a different route home, while still using Bradshaw occasionally. After 7 months I finally decided to reply to my own email and asked the guy if there was anything he could do. The next day he responded and apologized and sent someone to check it out. The next day the light was basically fixed. People on Bradshaw were waiting normally one or maximum two light cycles and the significantly fewer people on florin were waiting slightly longer, still no more than one light cycle. I figure each person was saving 6-8 minutes per day on that commute home. With thousands of cars, that adds up.
+
+url:https://reddit.com/r/YouShouldKnow/comments/e6u57x/
+author:Chasicle
+subreddit:YouShouldKnow
+score:6537
+numComments:166
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,17 @@
+title:
+YSK: If you’re lactose intolerant, there’s cheap pills/chewables that can help out.
+
+content:
+Why YSK: I’m lactose intolerant and had to avoid pretty much all dairy for close to 20 years of my life, until one day I discovered lactase pills! These pills/chewables contain the missing lactase enzyme our bodies needs in order to break down and digest lactose. You can get them super cheap at places like Walmart and target (usually next to where like pepto bismol would be), they come in tiny pill form or chewable form, and you just take the proper dose (check the bottle) right before you consume dairy and boom, no more dairy issues! I’ve been using them for years now and no longer have any issues with dairy. You only take them right before you consume dairy, it’s not like a daily supplement (unless you want to eat dairy everyday). These were a life saver for me and I’ve talked to so many people that had no idea! 
+
+
+
+Just to note, everyone’s body is different and these may not work for everyone that’s lactose intolerant, but for $3 it’s worth a shot!
+
+url:https://reddit.com/r/YouShouldKnow/comments/x7fqws/
+author:SPOOKESVILLE
+subreddit:YouShouldKnow
+score:2533
+numComments:374
+isOver18:False
+hasPostBody:True

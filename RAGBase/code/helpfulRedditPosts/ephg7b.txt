@@ -1,0 +1,13 @@
+title:
+LPT: Shopping on Amazon? Check the barcode on the item when you receive it. If you bought as “New” and got the “New” price, there shouldn’t be a barcode sticker labeled as “LPN”. If there is, your items not new and you can have potential of getting your money back either partial or full.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/ephg7b/
+author:[deleted]
+subreddit:LifeProTips
+score:1128
+numComments:39
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+YSK that if you are being pulled over on a secluded road at night you can call the 911 operator to confirm the person stopping you is an officer.
+
+content:
+Imitating a police vehicle is a common trick criminals use to pull over unsuspecting drivers and take advantage of the person or their valuables.
+
+If you are unable to get a cellular connection, simply turn on your hazards and slowly drive to the nearest safe location. If it is legitimate, the officer may be annoyed, but you will not get in trouble.
+
+url:https://reddit.com/r/YouShouldKnow/comments/i2nqcy/
+author:nix201
+subreddit:YouShouldKnow
+score:2962
+numComments:114
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,15 @@
+title:
+YSK on an iPhone, if you can’t copy the text on a page (like it’s a picture), take a screenshot, then long-press the text in the screenshot. It should recognize the text and let you copy the text.
+
+content:
+I was trying to copy a comment that wouldn’t post, but the app wouldn’t allow me to copy the text. Took a screenshot and copied from there. It’s handy!
+
+Why YSK? It can come in handy when having to copy text that you can’t normally select. I just used it to copy the number off my virtual ID card to use at an online store.
+
+url:https://reddit.com/r/YouShouldKnow/comments/uog30q/
+author:IllustriousHorse9027
+subreddit:YouShouldKnow
+score:1981
+numComments:62
+isOver18:False
+hasPostBody:True

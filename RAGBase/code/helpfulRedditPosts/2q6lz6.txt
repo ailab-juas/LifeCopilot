@@ -1,0 +1,13 @@
+title:
+LPT: Reduce the amount of blue light of your display device to reduce the strain on your eyes
+
+content:
+Blue light causes a lot of strain on the eyes and affects the sleep cycle to an extent.
+
+url:https://reddit.com/r/LifeProTips/comments/2q6lz6/
+author:Raomystogan
+subreddit:LifeProTips
+score:2690
+numComments:764
+isOver18:False
+hasPostBody:True

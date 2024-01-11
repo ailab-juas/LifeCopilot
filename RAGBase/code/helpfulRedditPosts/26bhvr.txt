@@ -1,0 +1,13 @@
+title:
+YSK that VLC media player can play movies directly from .rar files without extracting them first
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/26bhvr/
+author:chew_toyt
+subreddit:YouShouldKnow
+score:1772
+numComments:115
+isOver18:False
+hasPostBody:False

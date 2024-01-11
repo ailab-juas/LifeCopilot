@@ -1,0 +1,13 @@
+title:
+LPT Set a timer while studying and pause it during any type of break
+
+content:
+Good for people (like myself) who can spend hours on end at the library but barely get any work done.  Set it as soon as you start working and pause it when looking at your phone, using the bathroom, talking to friends, etc.  Doing this motivates you by making you feel like you're "on the clock" and gives you a good perspective on how much work you've actually done.  It also makes it harder for you to get distracted since you have to go out of your way and stop the timer
+
+url:https://reddit.com/r/LifeProTips/comments/52cqco/
+author:juicycouturexoxo2006
+subreddit:LifeProTips
+score:4446
+numComments:227
+isOver18:False
+hasPostBody:True

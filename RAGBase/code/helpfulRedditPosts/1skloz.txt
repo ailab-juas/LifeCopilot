@@ -1,0 +1,27 @@
+title:
+YSK that clicking "delete" does not actually delete a submitted post.
+
+content:
+I was browsing Reddit, when I ran across [a post](http://redd.it/1msbvl) that should have been removed. That's when I realized that clicking "delete" only deletes your username from the post, OP's flair from showing up in the subreddit, and prevents it from being searchable (at least on Reddit). 
+
+However, the text/link in the post are still there. In fact, it's readily accessible on the profiles of anyone who liked/disliked, commented, or saved the post. Also, it can be searched outside of Reddit, especially when including the title in the query, as is still in the website (or archives depending on how old it is).
+
+The only way to remove the post is to click "edit", remove all text and type whatever you like, and click "save". Now, you can click "delete", and the only thing that can be seen when revisited will be the vacuous message you replaced the original post with. 
+
+**Test Post:** Everyone go to [this post](http://www.reddit.com/r/offmychest/comments/1sloey/some_times_i_like_to_pour_flour_all_over_my_body/) and like or dislike the post. I am going to delete it within an hour just to prove a point. If you have liked/disliked/commented on the post by that time, you will still see the post in your profile. 
+
+**Edit:** So I deleted the post, now go to your liked (or disliked) posts and you should see the post there. If you commented instead of voting, click on the "context" button under your comments on your profile. You may need to click something like "see all comments" to get the text of the post. 
+
+**Edit 2:** Okay, so it seems like I just made an ass out of myself because not all subreddits have the same algorithms or processes of being deleted. It appears that posts in offmychest that get deleted, actually get the text replaced with "[removed]", but in places like "confession" the texts remain the same. Thanks /u/Niggaimnotracist for your **[comment](http://www.reddit.com/r/YouShouldKnow/comments/1skloz/ysk_that_clicking_delete_does_not_actually_delete/cdytwrq)**, which illustrates this. He submitted a self post to confession and **[his post](http://redd.it/1slsgd)** is still there after being deleted. Also, it seems not to be consistent since **[this post](http://www.reddit.com/r/offmychest/comments/1s5ole/my_precarious_grasp_on_reality_is_slipping/)** is still visible after being *deleted*. I could speculate, but let's just say the best thing to do is edit it, remove the text, and then delete it. 
+
+**Another Test:** [This is a confession post I just submitted and deleted](http://www.reddit.com/r/confession/comments/1sluas/i_assumed_all_subreddits_act_the_same/).
+
+**Last Edit:** Seems that user [Niggaimnotracist](http://www.reddit.com/r/YouShouldKnow/comments/1skloz/ysk_that_clicking_delete_does_not_actually_delete/cdytwrq) was right when he said **[the moderators got involved](http://www.reddit.com/r/YouShouldKnow/comments/1skloz/ysk_that_clicking_delete_does_not_actually_delete/cdz4mhr)** and that's why the *test* post says "removed" instead of showing the text.
+
+url:https://reddit.com/r/YouShouldKnow/comments/1skloz/
+author:[deleted]
+subreddit:YouShouldKnow
+score:1144
+numComments:85
+isOver18:False
+hasPostBody:True

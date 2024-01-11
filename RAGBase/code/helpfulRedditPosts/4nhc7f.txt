@@ -1,0 +1,15 @@
+title:
+LPT when you need to take something apart, take photos
+
+content:
+This will help guide you back through the assembly. It's especially useful if you have many steps and parts or if you need to remember where wires and such are connected.
+
+EDIT: front page eh? Shout out to Biggie and Andrew
+
+url:https://reddit.com/r/LifeProTips/comments/4nhc7f/
+author:Skaterk1ng
+subreddit:LifeProTips
+score:5287
+numComments:618
+isOver18:False
+hasPostBody:True

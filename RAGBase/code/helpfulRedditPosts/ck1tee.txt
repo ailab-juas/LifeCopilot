@@ -1,0 +1,13 @@
+title:
+LPT: If you're taking something moderately complicated or technical apart - take photos of it before you start working on it. Then, when you reassemble it, you'll know where things go like specific coloured wires or small washers, etc
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ck1tee/
+author:-OctopusPrime
+subreddit:LifeProTips
+score:3296
+numComments:103
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+YSK that you can get free Google Play credit.
+
+content:
+Using the Google Opinion Rewards app you can fill out short surveys and receive Google Play credit. All for free.
+
+url:https://reddit.com/r/YouShouldKnow/comments/3jvbmq/
+author:bobbydaniel36
+subreddit:YouShouldKnow
+score:1228
+numComments:329
+isOver18:False
+hasPostBody:True

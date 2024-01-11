@@ -1,0 +1,18 @@
+title:
+YSK experiencing a clinical mental health problem at some point in life may actually be the norm, rather than the exception.
+
+content:
+The problem with many studies on mental health is that they don’t follow people over time. So when they tell you something will affect 1 in 4, that statistic might seriously understate reality. In the early 70s, a research team from Duke University started following 1,037 babies, collecting a large amount of health and psychological data at multiple points between the ages 11-38.   
+
+
+What they found was that 82.7% of subjects met the clinical criteria for mental disorder at least once between late childhood and midlife, and only 17.3% never actually developed clinical symptoms.I think this is important because it shows us that what looks like a rare disease may, in fact, be a social epidemic — or, rather, human experience.
+
+[Here's a link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5304549/) to the peer-reviewed study.
+
+url:https://reddit.com/r/YouShouldKnow/comments/hscc3k/
+author:Ellie_D
+subreddit:YouShouldKnow
+score:24291
+numComments:358
+isOver18:False
+hasPostBody:True

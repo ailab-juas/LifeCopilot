@@ -1,0 +1,21 @@
+title:
+YSK: If you suspect data loss due to file deletions or hardware problems, trying to fix it yourself instead of seeking immediate professional help may drastically reduce the chances of a successful recovery.
+
+content:
+This applies to all storage mediums including hard drives, SSDs, and USB flash drives.
+
+About half the time I see tech support threads about hard drive failure or accidentally deleted files, the OP has tried some DIY methods found via Google. And most of the time these are incorrect or misunderstood methods that can do further damage to already failing hardware, or overwrite data which was otherwise recoverable.
+
+The best thing to do if you suspect a storage device failure is to shut down the system and seek reputable help. Note that 'reputable' help isn't always the first person to reply to your thread on any tech support forum. Make sure you get second and third opinions before taking any action. I've seen downright dangerous advice voted up as if it's expert advice on this very site. Tread carefully with your data and advice from strangers on the internet.
+
+A helpful step you can take ahead of time is to burn a Linux live DVD like Ubuntu and put it in a safe place for later. This will be helpful for troubleshooting drive issues or data loss without booting into the broken system and risking further damage. It will be especially helpful if you don't have another computer to use to access the web with.
+
+Naturally, good backup habits should mean you don't need any of this advice, but I know from experience telling people to keep backups before they've had a catastrophic failure is like pissing into the wind.
+
+url:https://reddit.com/r/YouShouldKnow/comments/63txj5/
+author:Fantastitech
+subreddit:YouShouldKnow
+score:1141
+numComments:102
+isOver18:False
+hasPostBody:True

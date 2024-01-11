@@ -1,0 +1,13 @@
+title:
+LPT: Avoid doing things you love with people who make you unhappy.
+
+content:
+There is neurological evidence to support this. When our brains encode memories, they encode them with the stimuli we're experiencing at the time they were encoded. If an individual makes you unhappy while you're doing something you love, the emotional quality associated with that individual can be coupled with your memory of the event. The result is that you may end up liking that thing less because of the negative association. Protect your hobbies and the things you love from people who bring negativity.
+
+url:https://reddit.com/r/LifeProTips/comments/o0j1xp/
+author:aqroyal
+subreddit:LifeProTips
+score:1095
+numComments:54
+isOver18:False
+hasPostBody:True

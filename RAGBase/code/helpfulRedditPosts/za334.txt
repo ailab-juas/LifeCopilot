@@ -1,0 +1,13 @@
+title:
+LPT: Before you throw away a post-it, run it between the keys on your keyboard to collect crumbs and fluff
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/za334/
+author:ABorealis
+subreddit:LifeProTips
+score:2784
+numComments:224
+isOver18:False
+hasPostBody:False

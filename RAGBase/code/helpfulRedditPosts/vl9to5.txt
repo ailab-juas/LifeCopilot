@@ -1,0 +1,13 @@
+title:
+LPT: If you drink a lot of fruit juice from the grocery store, consider taking an empty jug and pouring half a new bottle into it. Fill both to the top with water. Shake. Even diluted 1:1, you can barely tell the difference and you will get twice the value and half the sugar.
+
+content:
+Your kids probably won't notice. If it's too watery, try a 2:1 ratio of juice to water.
+
+url:https://reddit.com/r/LifeProTips/comments/vl9to5/
+author:latchkey_adult
+subreddit:LifeProTips
+score:4646
+numComments:422
+isOver18:False
+hasPostBody:True

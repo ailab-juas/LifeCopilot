@@ -1,0 +1,17 @@
+title:
+YSK unvented gas cooktops release unsafe levels of toxic gases in the home.
+
+content:
+Why YSK: Studies have shown that unvented gas cooktops expose people indoors to excessive levels of nitrogen dioxide, carbon monoxide and formaldehyde which can cause a myriad of respiratory problems and cardiovascular disease. 
+
+Below is a link to a recent study that deserves more attention. Stay safe! Vent those cooktops folks! Even when just the oven is on.
+
+[Study: Pollutant exposures from natural gas cooking burners.](https://ehp.niehs.nih.gov/doi/10.1289/ehp.1306673)
+
+url:https://reddit.com/r/YouShouldKnow/comments/qot7u7/
+author:Puzzleheaded-Big1680
+subreddit:YouShouldKnow
+score:9024
+numComments:447
+isOver18:False
+hasPostBody:True

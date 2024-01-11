@@ -1,0 +1,23 @@
+title:
+YSK: Your Vizio smart TV is spying on you unless you manually turn it off
+
+content:
+About a year ago, [Vizio was fined $2.2 million dollar for collecting and selling customer viewing habits without their consent](https://www.nytimes.com/2017/02/07/business/vizio-television-vizio-collected-viewers-habits-consent.html). Their TVs do this by periodically capturing screenshots to figure out what viewers were watching and sold that information to third-parties, which was called "Automated Content Recognition" (ACR). 
+
+Practically all of their newer models are shipped with this enabled by default and they even remotely turned on ACR on older models, but it can be disabled through a somewhat hidden menu setting. 
+
+[Vizio's guide on disabling ACR] (https://support.vizio.com/s/article/Smart-Interactivity-Broadcast-Interactivity-FAQ-How-to-turn-Smart-Interactivity-Broadcast-Interactivity-on-or-off?language=en_US).
+
+[How to disable it on Samsung, LG, Sony brand TVs](https://www.consumerreports.org/privacy/how-to-turn-off-smart-tv-snooping-features/).
+
+**Edit:** Not only that, they also collect other private info of your devices, ["Vizio’s ACR software 'also periodically collects other information about the television, including IP address, wired and wireless MAC addresses, WiFi signal strength, nearby WiFi access points, and other items.'](https://consumerist.com/2017/02/06/vizio-to-pay-2-2-million-for-watching-tv-watchers-without-telling-them/) - Thanks /u/carlsan
+
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/7sgxzh/
+author:Andythefan
+subreddit:YouShouldKnow
+score:15484
+numComments:866
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: If you’re planning a camping trip or a national park trip or anything of that nature, check the moon cycles and try to go during the new moon phase. You’ll see way more stars.
+
+content:
+Obligatory reactive LPT from someone who just planned a trip to Joshua Tree during the wrong moon cycle.
+
+url:https://reddit.com/r/LifeProTips/comments/iinx71/
+author:katsuthunder
+subreddit:LifeProTips
+score:51042
+numComments:507
+isOver18:False
+hasPostBody:True

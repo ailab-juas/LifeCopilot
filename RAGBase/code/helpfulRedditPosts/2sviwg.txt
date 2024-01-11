@@ -1,0 +1,15 @@
+title:
+YSK you can most likely file your taxes for free online if you made under $60k in 2014
+
+content:
+http://freefile.irs.gov/
+
+The IRS' FreeFile service lists all the businesses that allow you to file for free. I used one last year, it took about 20 minutes to fill out the forms and then they direct deposited my refund within a month of filing. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/2sviwg/
+author:pooyah_me
+subreddit:YouShouldKnow
+score:2542
+numComments:255
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+YSK To only put one name on a cheque that is intended for a wedding gift
+
+content:
+Why YSK: It makes it a lot more difficult for the newlyweds to deposit a cheque with two names on it - especially if you have addressed them as having the same last name. Not everybody assumes their partner’s last name, and even if intend to, their last name won’t be legally changed for a while.
+
+url:https://reddit.com/r/YouShouldKnow/comments/qjp67k/
+author:brainpain152
+subreddit:YouShouldKnow
+score:10667
+numComments:374
+isOver18:False
+hasPostBody:True

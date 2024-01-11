@@ -1,0 +1,15 @@
+title:
+YSK that if you owned an iPhone 6, 6s, plus, or 7, you are eligible to submit a claim for $25 due to Apple throttling your performance without telling you.
+
+content:
+Apple recently settled claims that they purposefully slowed iPhones. You are entitled to up to $25 if you owned a covered iPhone before December 21st, 2017 and experienced a slowdown. https://www.smartphoneperformancesettlement.com/
+
+https://www.forbes.com/sites/jimwang/2020/07/14/how-to-claim-your-25-from-apples-battery-slowdown-settlement/#e159f9e5369a
+
+url:https://reddit.com/r/YouShouldKnow/comments/i0a5ef/
+author:smdcupvid
+subreddit:YouShouldKnow
+score:31547
+numComments:1014
+isOver18:False
+hasPostBody:True

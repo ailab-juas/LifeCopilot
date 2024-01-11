@@ -1,0 +1,13 @@
+title:
+LPT: While shopping for just about anything, remember to ask yourself, "How hard is it to clean this thing?"
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/ppduzk/
+author:SojourningCPA
+subreddit:LifeProTips
+score:1463
+numComments:126
+isOver18:False
+hasPostBody:False

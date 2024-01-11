@@ -1,0 +1,13 @@
+title:
+LPT: At Disney but don’t want to wait three hours for a ride? Save the ride with the longest wait for 20 minutes before closing. Disney won’t kick you out of the line until you finish the ride.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/c43r5y/
+author:Wizardboy720
+subreddit:LifeProTips
+score:5270
+numComments:440
+isOver18:False
+hasPostBody:False

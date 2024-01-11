@@ -1,0 +1,46 @@
+title:
+YSK about the 'Good Samaritan in Drug Overdose Act', a Canadian Law which provides some legal protection for individuals (or their friends) who seek emergency help during a drug overdose, and their American Counterparts: '911 Good Samaritan' laws in some states.
+
+content:
+# For Americans (Update):
+
+[This](http://pdaps.org/datasets/good-samaritan-overdose-laws-1501695153) interactive site displays Samaritan laws by state (as of January 1 2007 to July 1, 2018). Much more up to date than my [previous link](http://choopersguide.com/content/911-good-samaritan-laws-by-state.html).
+
+I sincerely apologize for any misinformation I spread by not properly researching the previous link, I was not expecting this to blow up the way that it has, but I still should have looked into that more thoroughly. My baddest of bads.
+
+Also, if you want to help bring good samaritan laws to your state, [this website](https://drugfree.org/help-bring-good-samaritan-laws-to-your-state/.html) has a form letter. If you feel passionately about this issue in your home state, then please reach out.
+
+&amp;#x200B;
+
+# Details on the law in Canada
+
+[link](https://www.canada.ca/en/health-canada/services/substance-use/problematic-prescription-drug-use/opioids/about-good-samaritan-drug-overdose-act.html?fbclid=IwAR2yolZb1_N-1yg_vB47oBel2_ydH26EX9AnOS0AG_ZEugNVjpSZDah95fI) to the Canadian act.
+
+The act can protect you from:
+
+* Charges for possession of a controlled substance (i.e. drugs) under section 4(1) of the Controlled Drugs and Substances Act
+* Breach of conditions regarding simple possession of controlled substances (i.e. drugs) in:
+   * pre-trial release
+   * probation orders
+   * conditional sentences
+   * parole
+
+&amp;#x200B;
+
+The act does not protect you from:
+
+* outstanding warrants
+* production and trafficking of controlled substances
+* all other crimes not outlined within the act
+
+&amp;#x200B;
+
+Stay safe out there :).
+
+url:https://reddit.com/r/YouShouldKnow/comments/awi23b/
+author:EverythingEverybody
+subreddit:YouShouldKnow
+score:3525
+numComments:90
+isOver18:False
+hasPostBody:True

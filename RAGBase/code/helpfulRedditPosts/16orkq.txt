@@ -1,0 +1,13 @@
+title:
+If you have to give someone your Social Security number, subtract 1 from each number, email it, and verbally tell them to add 1 to each number.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/16orkq/
+author:Ayuchuco
+subreddit:LifeProTips
+score:1339
+numComments:320
+isOver18:False
+hasPostBody:False

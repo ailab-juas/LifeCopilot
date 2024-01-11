@@ -1,0 +1,13 @@
+title:
+LPT: If your significant other says they're not hungry for dinner and you end up cooking for yourself, just cook for two.
+
+content:
+The likelihood that they smell your food and get hungry enough to eat is pretty high, and if not then you have leftovers for tomorrow.
+
+url:https://reddit.com/r/LifeProTips/comments/fxlhjn/
+author:Serraph105
+subreddit:LifeProTips
+score:11668
+numComments:407
+isOver18:False
+hasPostBody:True

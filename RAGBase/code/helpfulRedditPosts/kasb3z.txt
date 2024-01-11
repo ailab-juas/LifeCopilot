@@ -1,0 +1,13 @@
+title:
+LPT: When proofreading emails or papers, read your work out loud instead of in your head. It is much easier to catch small errors when you hear yourself speaking.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/kasb3z/
+author:[deleted]
+subreddit:LifeProTips
+score:2152
+numComments:61
+isOver18:False
+hasPostBody:True

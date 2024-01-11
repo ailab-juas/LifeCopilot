@@ -1,0 +1,13 @@
+title:
+LPT: (USA) If you are driving in the left lane and you see someone behind you, no matter what speed you’re going, you should try and move over. The left lane is for overtaking.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/yat456/
+author:5krunner
+subreddit:LifeProTips
+score:3601
+numComments:633
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,13 @@
+title:
+LPT: If you find an affordable piece of clothing that works great for you, get a second copy if you can. Clothing wears out and gets lost or stained.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/qnpkgx/
+author:TheFrebbin
+subreddit:LifeProTips
+score:19831
+numComments:650
+isOver18:False
+hasPostBody:False

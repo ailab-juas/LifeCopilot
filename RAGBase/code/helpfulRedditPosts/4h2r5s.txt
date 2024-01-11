@@ -1,0 +1,13 @@
+title:
+LPT: in Australia, any post office will let you get cash out for free, avoiding ATM fees
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/4h2r5s/
+author:jaspobrowno
+subreddit:LifeProTips
+score:4093
+numComments:589
+isOver18:False
+hasPostBody:False

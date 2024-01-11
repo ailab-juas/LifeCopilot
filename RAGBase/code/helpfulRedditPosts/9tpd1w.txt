@@ -1,0 +1,13 @@
+title:
+YSK: If you can't open the login page for a public wifi, type 8.8.8.8 in the browser to force the login page to open
+
+content:
+I struggled a lot with this when I try to get online an airport, at a coffee shop, or in a hotel / conference room. The correct wifi network is selected but the login never shows up. I found out recently that you can hit 8.8.8.8 in the browser and that'll force the login page to open.
+
+url:https://reddit.com/r/YouShouldKnow/comments/9tpd1w/
+author:microtopian
+subreddit:YouShouldKnow
+score:17109
+numComments:342
+isOver18:False
+hasPostBody:True

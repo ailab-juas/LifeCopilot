@@ -1,0 +1,13 @@
+title:
+LPT: if you use your personal computer for work, consider using a different user account for it.
+
+content:
+By using a different user account, you separate two major concerns from each other and eliminate the likelihood of unkowingly sharing personal data with your work peers. Moreover, at the end of each working day/session you can quickly switch accounts and continue your personal activities were you left them the day before. It will also help you to mentaly switch away from work topics by not seeing any traces of your work related material in your personal account.
+
+url:https://reddit.com/r/LifeProTips/comments/zozc9a/
+author:gondowana
+subreddit:LifeProTips
+score:3507
+numComments:213
+isOver18:False
+hasPostBody:True

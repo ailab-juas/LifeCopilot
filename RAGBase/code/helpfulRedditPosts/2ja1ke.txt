@@ -1,0 +1,15 @@
+title:
+LPT - Don't use WD-40 to lubricate your bike chain. It contains a solvent and will actually breakdown the remaining lube on your chain.
+
+content:
+The light lubricant in WD-40 will last a couple of days before your chain starts chirping like a flock of birds is following you.
+
+Get real bike chain lubricant from a bike shop to stop those squeaks and actually make you feel like you're pedaling faster.
+
+url:https://reddit.com/r/LifeProTips/comments/2ja1ke/
+author:meh109
+subreddit:LifeProTips
+score:3946
+numComments:1036
+isOver18:False
+hasPostBody:True

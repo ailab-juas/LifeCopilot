@@ -1,0 +1,13 @@
+title:
+LPT: Just because you start something doesn't mean you have to finish it. A movie, an album, an exotic new dipping sauce! If it doesn't make you happy don't spend your time on it.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/y49qbe/
+author:[deleted]
+subreddit:LifeProTips
+score:1477
+numComments:84
+isOver18:False
+hasPostBody:True

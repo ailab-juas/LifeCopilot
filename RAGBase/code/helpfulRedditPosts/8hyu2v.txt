@@ -1,0 +1,17 @@
+title:
+YSK your phone’s GPS and compass still work even without internet. Save an offline version of your maps so you can still navigate around if you lose service.
+
+content:
+Google maps lets you save maps to your phone. You can just select an area to download. Useful for traveling or saving data.
+
+I’m not sure if I’m stating the obvious or not so if you guys already know all this then just ignore me.
+
+Edit: Saving Google maps offline - [iPhone](https://support.google.com/maps/answer/6291838?co=GENIE.Platform%3DiOS&amp;hl=en) | [Android](https://support.google.com/maps/answer/6291838?co=GENIE.Platform%3DAndroid&amp;hl=en)
+
+url:https://reddit.com/r/YouShouldKnow/comments/8hyu2v/
+author:1halfazn
+subreddit:YouShouldKnow
+score:10106
+numComments:316
+isOver18:False
+hasPostBody:True

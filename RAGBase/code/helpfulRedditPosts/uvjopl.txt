@@ -1,0 +1,13 @@
+title:
+LPT: Multitasking only works when tasks support each other. Running while listening to music is great. Doing intense cardio while having a conversation is bad.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/uvjopl/
+author:chainraz
+subreddit:LifeProTips
+score:6640
+numComments:136
+isOver18:False
+hasPostBody:False

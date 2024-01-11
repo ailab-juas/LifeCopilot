@@ -1,0 +1,14 @@
+title:
+LPT: If you are getting an elderly person something electronic for the holidays, PLEASE help them set it up and give them a run through on how to use it
+
+content:
+I work tech support and it’s so sad when we get these little old people who have some fancy new gadget but they can’t figure out how to use it. We can only explain so much over the phone and a technician visit is expensive. 
+Take some time to set it up and show them how to use it! (Especially the input button)
+
+url:https://reddit.com/r/LifeProTips/comments/k7gplq/
+author:ftg2468
+subreddit:LifeProTips
+score:2252
+numComments:95
+isOver18:False
+hasPostBody:True

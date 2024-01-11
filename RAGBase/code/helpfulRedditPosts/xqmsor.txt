@@ -1,0 +1,18 @@
+title:
+YSK that more people drown in deserts than die of thirst. Desert sand doesn't soak up water rapidly so heavy rain can quickly produce flash floods.
+
+content:
+Why YSK: People typically don't consider the possibility of drowning in desert environments. It's not common but something to be aware of.
+
+More from USGS:
+
+  
+"Rain does fall occasionally in deserts, and desert storms are often violent. A record 44 millimeters of rain once fell within 3 hours in the Sahara. Large Saharan storms may deliver up to 1 millimeter per minute. Normally dry stream channels, called arroyos or wadis, can quickly fill after heavy rains, and flash floods make these channels dangerous " ([https://pubs.usgs.gov/gip/deserts/features/](https://pubs.usgs.gov/gip/deserts/features/))
+
+url:https://reddit.com/r/YouShouldKnow/comments/xqmsor/
+author:Lagavulin16_neat
+subreddit:YouShouldKnow
+score:3255
+numComments:95
+isOver18:False
+hasPostBody:True

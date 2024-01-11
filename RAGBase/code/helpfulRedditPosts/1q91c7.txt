@@ -1,0 +1,14 @@
+title:
+YSK you can learn Spanish, French, Italian, German and Portuguese for free on Duolingo.com
+
+content:
+The service is designed so that, as users progress through the lessons, they simultaneously help to translate websites and other documents. From the creators of reCAPTCHA. Link to video: http://www.youtube.com/watch?v=-Ht4qiDRZE8&amp;feature=youtu.be
+(Duolingo starts at 8:15).
+
+url:https://reddit.com/r/YouShouldKnow/comments/1q91c7/
+author:LadyCherrigan
+subreddit:YouShouldKnow
+score:1201
+numComments:100
+isOver18:False
+hasPostBody:True

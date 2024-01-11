@@ -1,0 +1,14 @@
+title:
+LPT: How to Memorize Anything Fast and Make it Stick - The Method of Loci
+
+content:
+I just came across this video trending number one in r/LifeHacks. It teaches how to memorize anything from numbers, languages, names, faces and so on using the principles of Association, Location and Imagination.
+https://www.youtube.com/watch?v=XsFC83wewNk
+
+url:https://reddit.com/r/LifeProTips/comments/5hankc/
+author:SarahBiez7
+subreddit:LifeProTips
+score:1207
+numComments:50
+isOver18:False
+hasPostBody:True

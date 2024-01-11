@@ -1,0 +1,13 @@
+title:
+LPT: When researching a given topic, be aware of confirmation bias. This is the tendency to seek out and give more weight to information that supports one’s preconceptions and hypotheses, while also giving less credence to or even ignoring sources and data that against one’s preconceived notions.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/hcmhe6/
+author:HamboneBanjo
+subreddit:LifeProTips
+score:30531
+numComments:542
+isOver18:False
+hasPostBody:False

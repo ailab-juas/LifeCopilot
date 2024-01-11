@@ -1,0 +1,13 @@
+title:
+LPT: Before signing up for any subscription service online, first look up how to cancel said subscription. A lot of shady companies will try to make it as complicated as possible and might continue billing you even if you just signed up for a free trial.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/8g3zm8/
+author:Bodiless_Baboonsman
+subreddit:LifeProTips
+score:1913
+numComments:147
+isOver18:False
+hasPostBody:False

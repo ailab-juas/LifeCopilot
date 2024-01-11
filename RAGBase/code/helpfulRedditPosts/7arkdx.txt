@@ -1,0 +1,13 @@
+title:
+LPT: If you're trying to explain net neutrality to someone who doesn't understand, compare it to the possibility of the phone company charging you more for calling certain family members or businesses.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/7arkdx/
+author:PeeWees_Hermin
+subreddit:LifeProTips
+score:86794
+numComments:2414
+isOver18:False
+hasPostBody:False

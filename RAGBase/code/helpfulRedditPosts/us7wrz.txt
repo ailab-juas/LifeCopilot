@@ -1,0 +1,19 @@
+title:
+ysk. there is a website and app that cuts all the adds and stories out of a recipe that you just searched for
+
+content:
+Why ysk.
+
+It's called just the recipe. You just paste the URL of the recipe you are looking at and it will literally remove all the crap you don't want.
+
+All the stuff s out how they came up with the recipe, about how their dog like to watch them cook.
+
+It has Changed my life
+
+url:https://reddit.com/r/YouShouldKnow/comments/us7wrz/
+author:Human_Parfait9516
+subreddit:YouShouldKnow
+score:6587
+numComments:165
+isOver18:False
+hasPostBody:True

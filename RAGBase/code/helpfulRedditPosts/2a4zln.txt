@@ -1,0 +1,13 @@
+title:
+LPT: Use the a penny and a rubber band to prevent your skirt from exposing too much when you bike
+
+content:
+As shown by these wonderful ladies in the [Penny-In-Yo-Pants](http://vimeo.com/98808131) video.
+
+url:https://reddit.com/r/LifeProTips/comments/2a4zln/
+author:aillemaco
+subreddit:LifeProTips
+score:2128
+numComments:729
+isOver18:False
+hasPostBody:True

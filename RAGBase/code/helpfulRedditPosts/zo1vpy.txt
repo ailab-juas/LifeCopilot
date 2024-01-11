@@ -1,0 +1,19 @@
+title:
+LPT: if you have a Google account, learn to use Takeout and download your data occasionally so you aren't devastated when Google bans you forever without warning.
+
+content:
+People do completely innocent things but Google doesn't care: rules are rules, they say! There's no appeals or recourse. One guy did a charge back because he ordered two Pixel phones by mistake. Locked out. Another guy took pictures of an evolving rash of his baby's genitals for the doctor to see. Locked out forever.
+
+You have a Google phone with hundreds of contacts? Gone. Photos and videos of once in a lifetime experiences? Gone. Appointments with reminders on your calendar? Gone. Do you log into online banking with your Gmail? Forget it. All those files you save in Google drive? Keep notes? Books, movies, apps and games you purchased?  Never to be seen again. Google ~~was forced to provide Takeout, so they~~ did the bare minimum and it's not intuitive or elegant. Try to find tutorials. It's worth your effort just in case.
+
+Edit: seems &gt;&gt; seen
+
+Here's the Reddit post to understand the charge back: [https://www.reddit.com/r/tifu/comments/zndbku/tifu\_by\_accidentally\_buying\_two\_google\_pixels\_and/](https://www.reddit.com/r/tifu/comments/zndbku/tifu_by_accidentally_buying_two_google_pixels_and/)
+
+url:https://reddit.com/r/LifeProTips/comments/zo1vpy/
+author:capoderra
+subreddit:LifeProTips
+score:4338
+numComments:393
+isOver18:False
+hasPostBody:True

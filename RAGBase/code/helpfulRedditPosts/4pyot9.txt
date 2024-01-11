@@ -1,0 +1,15 @@
+title:
+YSK about TraffickCam, an app you can use to submit photos of hotel rooms to a database that helps stop human trafficking.
+
+content:
+There's more about the app here: http://fox2now.com/2016/06/22/snapping-a-picture-of-your-hotel-room-could-help-stop-human-trafficking/
+
+Title sums it up; authorities are able to compare photos of victims being held in hotel rooms to photos in the database and track down the traffickers.
+
+url:https://reddit.com/r/YouShouldKnow/comments/4pyot9/
+author:gynoceros
+subreddit:YouShouldKnow
+score:3142
+numComments:192
+isOver18:False
+hasPostBody:True

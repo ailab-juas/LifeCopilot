@@ -1,0 +1,38 @@
+title:
+LPT: When writing your resume, use the STAR method to describe what you did in previous positions: Situation, Task, Action, Result
+
+content:
+This is generally used for answering interview questions but is just as effective on paper. Hiring managers and other resume readers don't have the time to make these kinds of inferences about your skills and experiences, so you need to show them exactly what you have to offer. Spell it out for them. 
+
+Let's say you tutored some kids while in high school. Maybe your descriptive points look something like this:
+
+* Tutored several Grade 10 students in math
+* Explained mathematical concepts and assisted in test preparation
+
+The main question you want to ask yourself after each point is, "so what?" Okay, you taught some kids math, how are those skills applicable for the position you're applying for?
+
+So using STAR, let's break it down:
+
+Situation: These kids need help learning math. 
+
+Task: Teach them math.
+
+Action: Okay, so how are you teaching them math? By explaining mathematical concepts and assisting in test preparation. 
+
+Result: The goal is to improve their academic performance and understanding of the subject. When applicable, use numbers. A 25% improvement is more helpful than "improvement" with no quantifier.
+
+Employers want to know about results, since they tend to be good indicators of ability. As such, I recommend formatting descriptive points as "[Result] through means of [Action]". 
+
+So now we have:
+
+* Improved Grade 10 students' academic performance by up to 25% by explaining mathematical concepts and assisting in test preparation
+
+Tada! Isn't that so much better?
+
+url:https://reddit.com/r/LifeProTips/comments/9gctz1/
+author:thisbesveil
+subreddit:LifeProTips
+score:5307
+numComments:93
+isOver18:False
+hasPostBody:True

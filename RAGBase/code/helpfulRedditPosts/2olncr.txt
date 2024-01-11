@@ -1,0 +1,17 @@
+title:
+LPT: Windows 7 and 8 has a hidden steps recorder software that you can use to record what you do on the screen and it turns it into step-by-step instructions next to screen captures.
+
+content:
+Search PSR or steps recorder in on your computer to find it. Try it!
+
+Comes in handy whenever your parents have a computer problem and you are miles away. Its pretty awesome.
+
+Edit: Thanks for the GOLD!
+
+url:https://reddit.com/r/LifeProTips/comments/2olncr/
+author:epigrammedic
+subreddit:LifeProTips
+score:4432
+numComments:426
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: Before travelling abroad, download an offline map of the area you are travelling to and stay in "Airplane mode". Phones can still track GPS signals in this mode. You will be able to avoid roaming charges and still check where you are at all times.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/6nkj4l/
+author:[deleted]
+subreddit:LifeProTips
+score:9226
+numComments:493
+isOver18:False
+hasPostBody:True

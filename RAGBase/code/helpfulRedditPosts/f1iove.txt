@@ -1,0 +1,13 @@
+title:
+LPT: If you can, spend a little more on stuff you use every day for work. Spending a little more to increase your quality of life at work can make a huge difference.
+
+content:
+I used to get pretty cheap shoes until I spent a little more to get better ones which made a huge difference since I have to stand a lot for work.
+
+url:https://reddit.com/r/LifeProTips/comments/f1iove/
+author:Techie_Jesus
+subreddit:LifeProTips
+score:2214
+numComments:195
+isOver18:False
+hasPostBody:True

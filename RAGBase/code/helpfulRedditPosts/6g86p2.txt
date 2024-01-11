@@ -1,0 +1,13 @@
+title:
+LPT: When buying a comforter for your bed, buy one for the next size up bed.
+
+content:
+Have a queen bed? Buy a king sized comforter. Never worry about who has more of the blanket again.
+
+url:https://reddit.com/r/LifeProTips/comments/6g86p2/
+author:NapalmRunner
+subreddit:LifeProTips
+score:1722
+numComments:161
+isOver18:False
+hasPostBody:True

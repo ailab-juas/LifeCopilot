@@ -1,0 +1,13 @@
+title:
+LPT: When checking for comprehensive reviews, make sure to check the 4/5 and 2/5 star ones. These will usually provide you with fair comments about the product/service compared to the 5 and 1 star reviews.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/j7n3y2/
+author:amisentient
+subreddit:LifeProTips
+score:2633
+numComments:82
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,33 @@
+title:
+YSK: Babies do not shiver when they are cold. If you see a baby shivering it needs to be fed immediately because it probably has an extremely low blood sugar.
+
+content:
+Babies have a major problem with thermoregulation (keeping a normal temperature). Because of this, many people think that when a baby starts to shiver it is cold. That's not true. If your intervention is to try to warm the baby it will more than likely die of hypoglycemia (low blood sugar). Keep this in mind and it could save a baby's life. 
+
+TLDR: don't try to warm a baby up when it shivers, feed it instead. 
+
+Realizing the magnitude of this post, I must state that this is not a common occurrence. It will likely never happen to your child. There is no need to be frightened as a parent. I was just trying to be helpful. 
+
+Edit 1: Source 1: http://www.stanfordchildrens.org/en/topic/default?id=hypoglycemia-in-the-newborn-90-P01961 (shows signs of hypoglycemia including 'jitteriness, which is often confused as shivering.)
+
+edit 2: better source 2: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3726172/ (shows baby's do not shiver to regulate body temperature, I know this study is done on adults but it has great information on non shivering thermogenesis)
+Source 3: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2446425/  (More great info on brown adipose tissue - the main source of thermoregulation in neonates)
+Source 4: not scholarly but relates the sources above.  http://www.sciengist.com/newborn-human-babies-cant-shiver-thats-why-they-have-brown-fat/
+
+edit 3: I probably should have said newborns or neonates instead of babies, basically this applies to those in their first months of life. 
+Also, there is more than 1 reason for a newborn to have what seems like a 'shiver,' however low blood sugar will be the case almost all of the time 
+
+edit 4: Added Another source on brown adipose tissue (the main form of neonatal thermoregulation) 
+
+edit 5: cleaned up source list, replaced sources with others that stated the point more clearly.
+
+final edit: Read the sources guys, they aren't stating my point word for word, I recognize that. If you do not believe me for some reason then just google "do babies shiver."  I just wanted my sources to come from scholarly articles. 
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/6r8ruo/
+author:egrocket
+subreddit:YouShouldKnow
+score:25828
+numComments:633
+isOver18:False
+hasPostBody:True

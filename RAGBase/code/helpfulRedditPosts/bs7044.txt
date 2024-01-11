@@ -1,0 +1,13 @@
+title:
+LPT: When making rice, use chicken broth instead of water. Will turn even the most bland rice into something delicious.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/bs7044/
+author:BenNSyder
+subreddit:LifeProTips
+score:2181
+numComments:246
+isOver18:False
+hasPostBody:False

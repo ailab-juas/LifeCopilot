@@ -1,0 +1,22 @@
+title:
+LPT: When interviewing for a job and given a chance to ask questions, ask "Were there any qualifications you were specifically looking for in a candidate that I didn't fully demonstrate to you?"
+
+content:
+This gives you an opportunity to share an experience related to their area of concern.  Also ask, "What are challenges that employees new to this position typically struggle with?"  You can then show how you have overcome those struggles already and are better able to get going sooner.
+
+Edit: This post isn't intended to get feedback on your interviewing skills. It is intended to give you an opportunity to prove you are a good match for what they are looking for.  I definitely think asking for interviewing feedback is a terrible idea in an interview.  
+
+I'm an engineer and this question may translate differently to other fields.  With job descriptions that can be upwards of two pages long, you may not be able to cover everything in your responses.  And a lot of times with engineering managers, they either aren't great at talking to people or they have never interviewed before. 
+
+Finally, as with any LPT, if you think it isn't useful, downvote it and move on.  I just wanted to share something that helped me with people that may be looking for an edge.  
+
+
+
+
+url:https://reddit.com/r/LifeProTips/comments/6157kk/
+author:Generic_User_USA
+subreddit:LifeProTips
+score:1084
+numComments:108
+isOver18:False
+hasPostBody:True

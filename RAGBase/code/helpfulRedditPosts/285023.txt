@@ -1,0 +1,114 @@
+title:
+YSK A slow computer is not necessarily a reason to buy a new computer!
+
+content:
+Too often I see people resign themselves to their slow computers and then they go to the store and get sold on an overpriced computer they don't need, ESPECIALLY if your needs are limited to web browsing/word processing and other lite applications. 
+
+So here's a guide on how to bring your old slow computer back up to speed. This is primarily for Windows computers, but solutions are also applicable to Apple computers as well.
+
+
+**1) Do a little housekeeping**  
+Over time, through normal operations, your computer system gets a little 'tangled up' with things like bad registry entries or fragmented hard drives. An occasional clean up can often help computers that have not had some housekeeping done in a while.
+
+Programs to use:  
+[CCleaner](https://www.piriform.com/ccleaner) for registry fixing and cleaning of 'junk' files.  
+Windows has a [built in defragmenting tool](http://windows.microsoft.com/en-us/windows/improve-performance-defragmenting-hard-disk#1TC=windows-7) that can analyze your drive for fragmentation, and fix any fragmentation.  
+Solid State Drives will probably see no benefit from defragging. (Thanks to /u/Jacen47 for the reminder)
+
+**2) Still slow? Virus/Malware removal**  
+Removal of harmful processes on your computer is crucial to ensure your systems computing power is put into what you want to do and not malware. Though this can be sometimes be time-consuming and difficult it is well worth-while to avoid having to shell out for a new system.  
+Sometimes virus removal may move beyond a laypersons' skill set, but fret not, we address that later! For the purpose of this guide, I'll just give the basics. If anyone wants information on advanced virus removal, feel free to pm me.
+
+
+Method:  
+Get a virus scanner. [MBAM](https://www.malwarebytes.org/) is an industry standard and a very good piece of software. Another piece of AV software I personally use is [AVG](http://free.avg.com/us-en/homepage) -- The computer scanning portion of the software is free.
+
+On a side note: ~~AVOID USING NORTON/SYMANTEC, OR MCAFFE. If you have these, *they are probably, at least partly, responsible for your computer being slow.*~~ They're actually alright now, compared to where they were a number of years ago. (Thanks /u/moosemoomintoog and others for bringing it to my attention) There are lots of good AVs out there, to go into detail for all of them would extend beyond our scope... For paid software, I'd *personally* recommend bitdefender, but the best free option, in my opinion, is still AVG.
+
+If you detect a virus you can't remove conventionally by the means above: Try [starting your computer in safe mode](http://windows.microsoft.com/en-us/windows/start-computer-safe-mode#start-computer-safe-mode=windows-7) by repeatedly pressing the "F8" key as your computer starts up. Select 'safe mode' and run MBAM and AVG while in safe mode.
+
+If even that fails, [combofix](http://www.bleepingcomputer.com/download/combofix/) is a good ***last-resort*** for the layperson. But is ***very powerful,*** so ***USE ONLY AS DIRECTED!*** [Guide for combofix](http://www.bleepingcomputer.com/combofix/how-to-use-combofix)
+
+I'll cut this section here for brevity sake. Again, if you want some help with advanced malware/virus removal, feel free to pm me.
+
+**Edit:** oh yeah, _System Resore Points!_ [System restores](http://windows.microsoft.com/en-us/windows7/products/features/system-restore) points are also a good option to try and eliminate malware. If you happen to have a restore point saved at a point in time before you encountered major issues.
+
+
+**3) Still slow? Consider reinstalling the operating system** *  
+Sometimes problems are very deep-rooted and are difficult, if not impossible to remove. A sure-fire option to eliminate malware/viruses and other system problems is to start fresh!  
+
+**EDIT:** Please don't try to reinstall your operating system if this is out of the scope of your skill set. You should be familiar with installing an OS from scratch and be able to make sure you won't have driver issues! You should check and see if your HDD has a recovery partition or backup program that will allow you to get back to a 'factory' setting position. (More on that below)   
+Thanks again /u/Balthanos
+
+Don't have your Windows serial key? Not a problem! There are plenty of key-finder programs [like this one](http://sourceforge.net/projects/ekeyfinder/) that can grab it for you, and for your other pieces of software as well!  
+Don't have the windows install disc? Also not a problem! You can [install (win7 here) from a disc image](http://pcsupport.about.com/od/windows7/a/install-windows-7-usb.htm) You may have to search for the disc image files... [Windows 7 disc images can be found here.](http://answers.microsoft.com/en-us/windows/forum/windows_7-windows_install/where-can-i-download-windows-7-iso-i-have-a/7d964b05-2be9-4800-bc7f-3ca30356fc3d)  
+
+Other than that, this is pretty straight-forward. A fresh start. Make sure the entire drive is formatted before installing. This usually happens by default.
+
+**EDIT:** If you have a computer you didn't build yourself, chances are your hard drive has some sort of recovery or backup section from which you can launch a system restore to get you back to how your computer came from the factory. This may be a more suitable option for anyone who may find reinstalling the OS beyond your ability. These functions may also allow you to keep some of your data as well, depending on the specific manufacturer and backup/restore options.  
+Thanks /u/Balthanos for reminding me that this may be out of scope for many people and what colossal fuck up it was to forget about OEM backups.
+
+**4) Still slow? Consider replacing the hard drive**
+
+If reinstalling the operating system did not correct your slow system, that means your issue is probably physical, but that doesn't necessarily mean you need to replace your whole system. Your hard drive is the only part of your system that has any major moving parts that can slow down over time with use (assuming its not a solid-state drive, which has no moving parts); it's usually the first thing to fail on any computer. I just replaced my SO's 5-year old laptop HDD with a solid-state drive and it runs faster than her new one!
+
+Replacing a hard drive is simple and easy. Many guides are available on replacing hard drives on both laptops and desktop computers. 
+
+(Just google it!) [That's how 99% of computer problems get solved!] **&amp;lt;--- Something YSK in and of itself!**
+
+
+ANYHOW, there it is. Just something I wanted to share to help people out. Sorry that this is a VERY VERY long post, but hopefully it helps somebody out. Cheers!
+
+Edited: Grammar. Words. English is hard.  
+Edit: Oh, and another thing: **super-caked on dust** can cause temperature issues, which in turn, can cause your CPU to slow itself down to avoid overheating. So get that dust out of there! Those 'air-in-a-can' dusting things work pretty well.
+
+Edit: Decided to add a few more things.
+
+**Further considerations**
+
+
+**Performance bottlenecks:**
+
+Deciding whether or not to upgrade can be a big decision, especially for those working on a budget. So it's doubly important you make sure your upgrade will actually improve your performance! There are 3 main components to your computers 'speed:' Your **Processor** --- **Memory (RAM)** --- and **Hard Drive**   
+
+If one of these components isn't up-to-snuff, upgrading a different component probably won't give you much benefit, so identifying your 'bottleneck' is important.
+
+Figuring out whether your processor or memory is the bottleneck is easy. Simply open up your task manager (ctrl+shift+esc OR ctrl+alt+del) and under the 'performance' tab you will see your CPU(processor) and RAM usage shown as a percent of your total available. If you find one or the other is constantly 'maxed out' -- it usually indicates your bottleneck.  
+Upgrading RAM is easy for both desktop and laptop computers (tons of guides online for this, just look). A processor can be upgraded on desktop computers, but can be a bit tricky if you don't know what you're doing, and it may be grounds to get a new system. Processors on laptops are also *sometimes* upgradable, but require a lot of work just to get to it.
+
+
+Probably the most difficult bottleneck to notice is your Hard Drive. Typically, your standard 5400RPM HDD will be fine for most uses. However, the problem is that with use over time, it will slow down drastically. Usually it's not a problem until it is, if that makes sense. If you notice your computer takes a lot longer to boot up than it did a year or two ago, it may indicate a slow HDD. Like your processor and RAM, you can view your disk usage in the [resource monitor](http://www.pcworld.com/article/241677/how_to_use_resource_monitor.html) however, the usage is not displayed as a percentage of 'total speed available' but rather as a percentage of the fastest it has been recently. In any case, if you find your disk utilization is constantly at '100% of it's highest use' that should be a clear indicator it's time for a new drive.
+
+
+Certain activities, like gaming, or video editing have special needs. For gamers and video editors alike: a GPU is essential for demanding games and editing software. For video editing especially a **fast** hard drive is a good investment; 7200RPM is good, solid state is better. If you don't know what you have, your typical hard drive these days is probably a 5400 RPM drive.
+
+Thanks /u/michaelfarker for recommending RAM upgrade for this guide.
+
+
+**It just may be a really damn old computer and it's time for an upgrade**
+
+Rule of thumb: You want to *at least* have the [*minimum* specs for Windows 7.](http://windows.microsoft.com/en-us/windows7/products/system-requirements) If you don't, consider upgrading your RAM/HDD to meet the requirements or getting a new system. These days you probably don't want to be caught with less than 2GB of RAM. 4GB should be plenty for most.
+
+Thanks /u/Merosi for inspiring this addition.
+
+
+Again sorry for anything that seems 'Wall-of-text-y' Thank you everyone for your kind words, it warms my heart to know people appreciate this!
+
+
+Edit: my most popular reddit post to date. The unbridled joy I feel over my Internet cool points is indescribable.
+
+
+**Edit:** Man, I still cannot believe how popular this post has become. I originally thought like, maybe 3 people to use this guide. Please keep in mind this guide is FAR from all-inclusive. As much as I'd like to make more additions and include some very great suggestions users have been giving me, I just can't justify it for the scope of this guide........... I wrote this in mind for the people who are trashing their new computers for newer computers. Seriously, if your system came with Win Vista or Win 7, there's no reason to replace it unless you have some serious special needs for heavy applications like gaming or video editing/graphic design.  
+Thanks again everyone for taking such great interest in my words.
+
+
+
+**Reddit Gold!** My internet coolness has never been so high! Thank you. Thank you so much. I'm practically in tears! (sad, isn't it? lol)
+
+url:https://reddit.com/r/YouShouldKnow/comments/285023/
+author:ManyInterests
+subreddit:YouShouldKnow
+score:1449
+numComments:319
+isOver18:False
+hasPostBody:True

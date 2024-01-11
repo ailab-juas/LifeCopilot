@@ -1,0 +1,22 @@
+title:
+LPT: The Fibonacci sequence can help you quickly convert between miles and kilometers
+
+content:
+The Fibonacci sequence is a series of numbers where every new number is the sum of the two previous ones in the series.
+
+1, 1, 2, 3, 5, 8, 13, 21, etc.  
+The next number would be 13 + 21 = 34.
+
+Here's the thing: 5 mi = 8 km. 8 mi = 13 km. 13 mi = 21 km, and so on.
+
+Edit: You can also do this with multiples of these numbers (e.g. 5\*10 = 8\*10, 50 mi = 80 km). If you've got an odd number that doesn't fit in the sequence, you can also just round to the nearest Fibonacci number and compensate for this in the answer. E.g. 70 mi ≈ 80 mi. 80 mi = 130 km. Subtract a small value like 15 km to compensate for the rounding, and the end result is 115 km.
+
+This works because the Fibonacci sequence increases following the golden ratio (1:1.618). The ratio between miles and km is 1:1.609, or very, very close to the golden ratio. Hence, the Fibonacci sequence provides very good approximations when converting between km and miles.
+
+url:https://reddit.com/r/LifeProTips/comments/681gf7/
+author:bilde2910
+subreddit:LifeProTips
+score:31887
+numComments:2176
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: If you ask someone for feedback on a document and they take the time to give you feedback, let them know something that you incorporated into your document from theirs. This way, they'll feel appreciated/heard, and perhaps take time to give you more detailed/critical feedback if you ask again.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/jcxjeg/
+author:e_lar22
+subreddit:LifeProTips
+score:32448
+numComments:214
+isOver18:False
+hasPostBody:False

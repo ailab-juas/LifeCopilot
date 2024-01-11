@@ -1,0 +1,13 @@
+title:
+LPT: If you use a running app that maps your runs and posts them publically. Don't always start and end your runs at your front door.
+
+content:
+I noticed a friend of mine was doing this since lockdown and it makes it so easy for anyone with unsavory ideas of knowing where you live and what time you go out every day on your run.
+
+url:https://reddit.com/r/LifeProTips/comments/lgh5ou/
+author:ViktorBoskovic
+subreddit:LifeProTips
+score:2728
+numComments:169
+isOver18:False
+hasPostBody:True

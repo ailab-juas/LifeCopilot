@@ -1,0 +1,13 @@
+title:
+LPT: Never answer online surveys that ask you questions like "what's your pet's name" or "what's your birthday". They're common password reset questions, and the only purpose of them is to grab your accounts.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/i9j3cd/
+author:404oops
+subreddit:LifeProTips
+score:9024
+numComments:228
+isOver18:False
+hasPostBody:False

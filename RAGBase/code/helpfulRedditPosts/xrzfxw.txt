@@ -1,0 +1,13 @@
+title:
+LPT: You don't need to be qualified for a job, just less unqualified than the other job applicants.
+
+content:
+People don't realize, a lot job postings end up attracting weak candidate pools where the company is choosing from a group of people where no one checks all the boxes.
+
+url:https://reddit.com/r/LifeProTips/comments/xrzfxw/
+author:MrLongJeans
+subreddit:LifeProTips
+score:28174
+numComments:719
+isOver18:False
+hasPostBody:True

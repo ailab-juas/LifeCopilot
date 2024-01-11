@@ -1,0 +1,13 @@
+title:
+LPT - Before ordering on Doordash, Grubhub, etc., check the restaurant's website. Many places still offer their own delivery service despite being available through third party services, and it's significantly cheaper when they do. Also, you may find menu items not listed outside their site.
+
+content:
+[deleted]
+
+url:https://reddit.com/r/LifeProTips/comments/n2wyt2/
+author:[deleted]
+subreddit:LifeProTips
+score:41239
+numComments:1199
+isOver18:False
+hasPostBody:True

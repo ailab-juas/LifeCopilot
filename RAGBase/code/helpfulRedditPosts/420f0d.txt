@@ -1,0 +1,21 @@
+title:
+YSK A really fast way to see accurate snowfall predictions is to check your local NOAA website
+
+content:
+With the impending northeast storm, there's a lot of sites pushing out snowfall predictions. News channels know that's what you want to see, which is why they bury it behind long videos inside crappy sites.
+
+So go to where they get their info - and where pilots and captains have for 40 years - the NOAA. For example, here are 4 sites for major northeast cities. No ads, no videos, just forecast and snowfall predictions. I just find the core JPEG and bookmark it, and refresh it to see the updated totals. 
+
+NYC: http://www.erh.noaa.gov/okx/stormtotalprecip.php  
+Boston: http://www.weather.gov/box/winter  
+Philly: http://www.weather.gov/phi/winter  
+DC: http://www.weather.gov/lwx/winter (thanks Fenton_Ellsworth)  
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/420f0d/
+author:s0wd3n
+subreddit:YouShouldKnow
+score:1162
+numComments:126
+isOver18:False
+hasPostBody:True

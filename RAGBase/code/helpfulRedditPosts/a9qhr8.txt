@@ -1,0 +1,19 @@
+title:
+YSK about ghostproject.fr, which allows you to check if your password has been leaked similar to haveibeenpwned.com AND it shows you a portion of your leaked password so you can verify which password is compromised
+
+content:
+It scans nearly 1 billion credentials that were recently released in a data dump. It's not as up to date as haveibeenpwned but it's still an invaluable resource.
+
+Moving forward, most security experts suggest using some kind of password manager like Dashlane, iCloud keychain, or LastPass so you use a variety of passwords keeping you much more secure.
+
+[Ghost Project](https://www.ghostproject.fr)
+
+[Have I Been Pwned](https://www.haveibeenpwned.com)
+
+url:https://reddit.com/r/YouShouldKnow/comments/a9qhr8/
+author:greengrasser11
+subreddit:YouShouldKnow
+score:5084
+numComments:207
+isOver18:False
+hasPostBody:True

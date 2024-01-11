@@ -1,0 +1,23 @@
+title:
+LPT: No e-mail or network privacy in the workplace
+
+content:
+I work in IT, and I want to warn everyone that what  you send/receive via e-mail and via the network at your job has no expectation of privacy. Any IT staff person with the proper authorization can look at your emails, and you will never know it. 
+
+Your company owns both  the e-mail server and the network, so they have the absolute legal right to “monitor traffic” on it. This includes not only your email messages, but the IP addresses (at least!) of all the websites you visit. 
+
+Please, don’t risk your career by sending something prohibited by your company (racist, sexist, porn, etc.) that you may have to explain later.  
+
+I’ve seen and worked with “blacklist appliances” which simply plug into a corporate network switch and automatically sends the boss an email whenever an employee visits a prohibited or questionable site. I’ve also seen managers install spyware to automatically grab screenshots of what you are working on, and it sends it back to them via email. 
+
+I’ve personally seen information security staff  take apart an employees’s workstation, make a complete copy of the hard drive, then put it back again so it looks like nothing happened. 
+
+Finally, IT forensics tools can recover data and files from hard drives which have been re-partitioned and reformatted.  The one I’ve used (EnCase) can recover data from your hard drive going back to several previously installed operating systems!
+
+url:https://reddit.com/r/LifeProTips/comments/j0pqpz/
+author:mvsopen
+subreddit:LifeProTips
+score:1005
+numComments:298
+isOver18:False
+hasPostBody:True

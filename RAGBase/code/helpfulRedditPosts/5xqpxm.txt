@@ -1,0 +1,13 @@
+title:
+LPT: Clean the house/apartment before going on vacation. You'll come back home to a stress free environment.
+
+content:
+It makes coming home feel that much better. The last thing you want to do is come back to a dirty place where you have to clean. 
+
+url:https://reddit.com/r/LifeProTips/comments/5xqpxm/
+author:Petaa10
+subreddit:LifeProTips
+score:1312
+numComments:35
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: If you are moving and need boxes, try your local liquor stores first. Most stores are happy to give away boxes for free and they hold up great for heavier items.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/i0erlb/
+author:totzalotz
+subreddit:LifeProTips
+score:24970
+numComments:699
+isOver18:False
+hasPostBody:False

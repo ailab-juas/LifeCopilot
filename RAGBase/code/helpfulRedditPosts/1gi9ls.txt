@@ -1,0 +1,18 @@
+title:
+YSK that you shouldn't depend on your task manager to report rogue processes. Windows provides simple commands to hide processes from the Task Manager
+
+content:
+Using 
+
+    FindWindowEx()
+    SendMessage()
+
+ you can remove ListView items from the processes tab. Since these are basic Windows commands, they do not show up as viruses.
+
+url:https://reddit.com/r/YouShouldKnow/comments/1gi9ls/
+author:SEGnosis
+subreddit:YouShouldKnow
+score:1071
+numComments:89
+isOver18:False
+hasPostBody:True

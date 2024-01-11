@@ -1,0 +1,20 @@
+title:
+LPT: You can program a smart phone to dial through a phone tree with a single button click
+
+content:
+If you need to call a number that has a phone tree often or, in the case of calling the IRS, repeatedly, you can program the phone tree into your phone so you don't have to dial though it manually each time. 
+
+Call them once manually and write down the buttons you have to press to navigate the phone tree. Then create a contact for the number, enter their phone number, then the numbers you have to press to go through the phone tree, separating each of them with commas(comma = 2 second pause). If you need a longer pause, you can stack commas together. If some part requires you to talk, you can do that during the commas, but if its just entering a number most of the time you can just dial the number in, if that is the case you can make it part of the dial command no commas needed. Getting the pauses right may take a bit of trial and error, but usually you can sort it out in 3-4 calls. Slower phone trees may need 2 commas between each number.
+
+as an example, this is what I built to get to the part of the IRS you need for getting the data for a W2 that wasn't sent to you:  
+1-800-829-1040,,1,2,1,3,2,,,,,,,,,,,2,4
+
+This cut the amount of time it took to get to the department I needed from \~1.5 min to 45 seconds and I only needed to hit a single button to dial the entire tree. This is important because the IRS doesn't have a hold queue, you either get an agent or it hangs up on you. I was able to call them 40 times in a row in \~30 minutes with 100% accuracy.
+
+url:https://reddit.com/r/LifeProTips/comments/yscthz/
+author:bigloser42
+subreddit:LifeProTips
+score:2605
+numComments:109
+isOver18:False
+hasPostBody:True

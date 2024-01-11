@@ -1,0 +1,13 @@
+title:
+LPT: If your camera is stolen you can use the serial number stored in your photos to search the web for other photos taken and posted online with the same camera
+
+content:
+http://www.stolencamerafinder.com
+
+url:https://reddit.com/r/LifeProTips/comments/5qpeec/
+author:bballboy699
+subreddit:LifeProTips
+score:1336
+numComments:30
+isOver18:False
+hasPostBody:True

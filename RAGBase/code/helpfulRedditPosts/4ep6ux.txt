@@ -1,0 +1,18 @@
+title:
+LPT If you are going to paste a long command in a Linux terminal, type '#' beforehand; in case the paste comes already with an ENTER, the command will not execute and you have a chance to review and change before executing it.
+
+content:
+Wow I'm surprised how many Linux users there are here. It says something about Reddit demographics.
+
+Many pointed to the C-x C-e trick to bring the editor ($EDITOR). Definitely useful for multiple lines but when you know it is just one line the # is way faster.
+
+Also, AFTER you have pasted it, you can use C-a (or HOME) to go to the beginning of the line and remove the # and hit ENTER right there, you dont need to go to the back of the line again.
+
+
+url:https://reddit.com/r/LifeProTips/comments/4ep6ux/
+author:PepsiCoPata
+subreddit:LifeProTips
+score:5030
+numComments:633
+isOver18:False
+hasPostBody:True

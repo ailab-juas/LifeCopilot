@@ -1,0 +1,13 @@
+title:
+LPT: you can access all the Piratebay content using WayBackMachine.org
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/2oy94v/
+author:notelephantpoop
+subreddit:LifeProTips
+score:1459
+numComments:119
+isOver18:False
+hasPostBody:False

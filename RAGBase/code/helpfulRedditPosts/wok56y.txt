@@ -1,0 +1,13 @@
+title:
+LPT: When you’re feeling bored or have excessive free time during the day, decide to do something that will directly make tomorrow easier/better.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/wok56y/
+author:Jeterea
+subreddit:LifeProTips
+score:4379
+numComments:124
+isOver18:False
+hasPostBody:False

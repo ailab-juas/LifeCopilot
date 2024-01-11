@@ -1,0 +1,13 @@
+title:
+LPT: Skip unskippable ads by reporting them for any reason.
+
+content:
+To skip an ad, press the tiny i (bottom left corner), press report, and give a random reason, takes hardly 2-3 seconds :D This way you can support the creators you want, and skip ads when you want to without compromising the app for the browser etc.
+
+url:https://reddit.com/r/LifeProTips/comments/uf476e/
+author:Reddit_Faker123
+subreddit:LifeProTips
+score:3190
+numComments:277
+isOver18:False
+hasPostBody:True

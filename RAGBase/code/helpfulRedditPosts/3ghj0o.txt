@@ -1,0 +1,13 @@
+title:
+YSK How to read more and remember what you read
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/3ghj0o/
+author:sheajathossion
+subreddit:YouShouldKnow
+score:1579
+numComments:196
+isOver18:False
+hasPostBody:False

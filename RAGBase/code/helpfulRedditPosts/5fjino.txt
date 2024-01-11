@@ -1,0 +1,13 @@
+title:
+LPT: If it takes you less than two minutes to perform a task, do it right away, don't postpone it
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/5fjino/
+author:JalelTounsi
+subreddit:LifeProTips
+score:1036
+numComments:66
+isOver18:False
+hasPostBody:False

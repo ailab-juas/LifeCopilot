@@ -1,0 +1,13 @@
+title:
+LPT if you have a pet that needs medication at certain times of the day. follow it up with special treats or food. you may lose track of time or forget, but they sure won't.
+
+content:
+My cat lets me know every night when she needs her meds, because that means treat time. And she will never let me forget treat time.
+
+url:https://reddit.com/r/LifeProTips/comments/wsuluy/
+author:koalastalker
+subreddit:LifeProTips
+score:12165
+numComments:206
+isOver18:False
+hasPostBody:True

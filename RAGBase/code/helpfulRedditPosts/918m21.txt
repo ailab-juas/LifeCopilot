@@ -1,0 +1,14 @@
+title:
+YSK how to recover unsaved drafts on Microsoft Word.
+
+content:
+After you accidentally close it, open Microsoft Word again.
+Click _File_ - _Info_ - _Manage Versions_ - _Recover Unsaved Documents_
+
+url:https://reddit.com/r/YouShouldKnow/comments/918m21/
+author:thecheckeredflick
+subreddit:YouShouldKnow
+score:2941
+numComments:57
+isOver18:False
+hasPostBody:True

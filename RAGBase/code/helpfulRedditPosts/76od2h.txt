@@ -1,0 +1,13 @@
+title:
+LPT : If you're buying a second hand car be sure to check that the tires aren't overinflated to make the car seem more responsive.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/76od2h/
+author:jidacah
+subreddit:LifeProTips
+score:13456
+numComments:641
+isOver18:False
+hasPostBody:False

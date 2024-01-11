@@ -1,0 +1,13 @@
+title:
+LPT: If you lose your dog in unfamiliar terrain leave your coat overnight for the dog to find
+
+content:
+If your dog takes off in a panic when they are in unfamiliar terrain it may take them a good while to stop panicking and running. By the time they calm down they may be completely lost. If you have to stop searching at night you should leave your coat or a blanket that smells like you/your home/your dog at the place you were last together. If the dog retraces its steps at night and finds a familiar item they will often just lie down on top of it. If you make sure you are back at first light in the morning you might find them there waiting for you.
+
+url:https://reddit.com/r/LifeProTips/comments/tzc5cv/
+author:shlopti
+subreddit:LifeProTips
+score:14397
+numComments:302
+isOver18:False
+hasPostBody:True

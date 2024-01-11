@@ -1,0 +1,13 @@
+title:
+YSK how to get rid of "Sign up to see this page!" popups
+
+content:
+A lot of you computer people probably already know this, but I didn't. Getting rid of those pop-ups that grey out the screen is actually really easy. Just right click and go to "inspect element".  Then hover over the pop-up and you'll see the corresponding html down below. Delete that line. Do the same for the grey background. Enjoy! 
+
+url:https://reddit.com/r/YouShouldKnow/comments/37v02i/
+author:witch-haus
+subreddit:YouShouldKnow
+score:1219
+numComments:110
+isOver18:False
+hasPostBody:True

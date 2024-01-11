@@ -1,0 +1,29 @@
+title:
+YSK: Most electronic safes can be opened very easily.
+
+content:
+Why YSK: Electronic safes are not true security.
+
+**When buying a safe, you are balancing security vs the illusion of security. Safes with electronic combos can be opened very quickly with the right tools.** The right tools cost about  £153.58. disconnecting the ribbon cable of a safe from the key code panel and plugging it into a black box will allow a new code to be saved to memory.See a dumb box in action [https://www.youtube.com/watch?v=PxYJqRfXNxM](https://www.youtube.com/watch?v=PxYJqRfXNxM)
+
+Side note: that safe is actually held together by styrofoam.
+
+Bigger safes are the same, the only difference being it can take a few mins.
+
+When you buy a safe all you're buying is time. That's it. Someone wants to get in the box they will. There is no residential safe sold that can truly stop someone from getting into it.That said, mechanical safes are more secured than chip, because chip safes have bypasses built into them - whereas mechanical safes require a skilled safe-cracker or destruction of the lock to open.
+
+The cheaper a safe is the easier it is to get into. Expanding on what [Hans\_of\_Death](https://www.reddit.com/user/Hans_of_Death/) said  cheap electronic safes often are worse than cheap mechanical safes when it comes to bypasses like this, they are right. Most commercial safes you pick up without the help of a buddy can be opened very quickly. General rule of thumb is for every £229.72 spent, you're buying 10 more mins to get into it. This LTP is intended for gun safes or larger models where you can have a real difference between taking a while to open (destructive that is) vs a few mins with a code box.
+
+A lot of safe manufactures sell you on the security of a door or how much prying it can take. That's bogus. Safes are opened from the side or top with a grinder.
+
+Buying a safe is always a trade off between security and convenience.That said, this tip should help you know the difference between a manual safe that requires time or force, and a electronic one with built in bypasses and core integrity faults. No safe manufacturer will ever tell you about these boxes, but they exist and they work very well.
+
+&amp;#x200B;
+
+url:https://reddit.com/r/YouShouldKnow/comments/tdw13v/
+author:[deleted]
+subreddit:YouShouldKnow
+score:2137
+numComments:76
+isOver18:False
+hasPostBody:True

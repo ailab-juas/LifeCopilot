@@ -1,0 +1,13 @@
+title:
+LPT: Sacrificing a couple hours of sleep to do more is counterproductive, especially if you're doing tasks that require lots of brainpower like writing, solving puzzles, studying, etc. Getting enough rest will let you work faster and more efficiently in the long term.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/r14mzy/
+author:bonbonunicorn
+subreddit:LifeProTips
+score:21318
+numComments:495
+isOver18:False
+hasPostBody:False

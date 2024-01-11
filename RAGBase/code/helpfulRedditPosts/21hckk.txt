@@ -1,0 +1,13 @@
+title:
+LPT: Make your vehicle a contact in your phone. In the notes section record your VIN, insurance policy number, oil type, license plate, etc. for info at your fingertips when you need it.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/21hckk/
+author:SithLard
+subreddit:LifeProTips
+score:3496
+numComments:278
+isOver18:False
+hasPostBody:False

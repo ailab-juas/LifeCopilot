@@ -1,0 +1,13 @@
+title:
+YSK that if you aren’t getting a 2% raise every year, you’re losing money(in the USA).
+
+content:
+Why YSK: The annual inflation rate for the USA is [about 2%](https://www.statista.com/statistics/244983/projected-inflation-rate-in-the-united-states/). Every 5 years, you’ll have 10% less purchasing power, so make sure you’re getting those raises whether it be asking your boss or finding a new job at a new place.
+
+url:https://reddit.com/r/YouShouldKnow/comments/lqqkze/
+author:EpicBlueDrop
+subreddit:YouShouldKnow
+score:49247
+numComments:1931
+isOver18:False
+hasPostBody:True

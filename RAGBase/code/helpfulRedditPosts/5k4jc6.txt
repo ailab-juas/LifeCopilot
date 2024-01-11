@@ -1,0 +1,23 @@
+title:
+LPT: Don't rely on WiFi if Ethernet is an option.
+
+content:
+To put it simply WiFi sucks. Its convenient sure, but its rarely the fastest or most reliable option. 
+
+Even the newest and fastest WiFi cards/adaptors are slower than Ethernet, and rarely do they give you the speed they claim. For example I recently was asked to sort out a friends 'slow' internet. He had 200Mb service, but could only get 70, even with a 450Mb, 5GHz WiFi card and a nice strong signal. I could also only get the same on my phone, even when 2ft from the Router.
+
+The solution was a Gigabit capable powerline connector, which sends the signal over your homes power circuits. These resulted in 213Mb as reported by speedtest.net.
+
+
+EDIT: Yes there are options like a better router, but they cost a lot more than powerline connectors and often look like modern art sculptures. Many people also cant set up a new router, or their ISP wont let them use another one.
+If your PC is close enough to use a direct Ethernet cable then that's even better, in this case it resulted in 225Mb.
+
+TL;DR WiFi sucks, use a cable.
+
+url:https://reddit.com/r/LifeProTips/comments/5k4jc6/
+author:_Middlefinger_
+subreddit:LifeProTips
+score:3598
+numComments:769
+isOver18:False
+hasPostBody:True

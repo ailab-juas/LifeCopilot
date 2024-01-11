@@ -1,0 +1,13 @@
+title:
+LPT: If you need a quick or cheap engraved ID tag for your keys or luggage, go to a pet store and use their tag machine.
+
+content:
+For only a few dollars each you can have it engraved to have your full name, ~~address~~, **Email** address and several phone numbers.
+
+url:https://reddit.com/r/LifeProTips/comments/3mkyae/
+author:rorylord
+subreddit:LifeProTips
+score:4627
+numComments:456
+isOver18:False
+hasPostBody:True

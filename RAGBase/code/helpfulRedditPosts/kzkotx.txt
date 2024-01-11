@@ -1,0 +1,13 @@
+title:
+LPT: Always tell a child who is wearing a helmet how cool you think their helmet is. It will encourage them to always wear it in the future.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/kzkotx/
+author:mashingLumpkins
+subreddit:LifeProTips
+score:118582
+numComments:1792
+isOver18:False
+hasPostBody:False

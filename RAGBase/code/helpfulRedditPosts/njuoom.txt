@@ -1,0 +1,19 @@
+title:
+LPT: Never put personal data in Facebook posts like "your rapper name"
+
+content:
+Those posts like: "Your pet name + your middle name backwards is your super duper rapper name" are created for stealing your data. Most of them are aimed to collect the data that could be useful for security questions during account recovery.
+
+[EDIT] Not only your social security number, birthday etc. should be protected. You should never post pet name, favourite food, band, colour, first car, teacher, and other things that are used as a security questions.
+
+Basically the less they know about you, the better.
+
+Bonus points if you are using fake info for answering security questions in the first place, like random characters stored in a password manager. Thanks u/mikepictor for mentioning that!
+
+url:https://reddit.com/r/LifeProTips/comments/njuoom/
+author:xKoem
+subreddit:LifeProTips
+score:1776
+numComments:124
+isOver18:False
+hasPostBody:True

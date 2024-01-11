@@ -1,0 +1,15 @@
+title:
+YSK that a loose headphone jack is probably just stuffed with lint and needs to be cleaned
+
+content:
+**Warning: Be careful not to damage the copper connections on the sides.**
+
+There are different methods on the internet like using a ~~[q-tip](https://youtu.be/lFQJsR-Y2BI?t=18)~~[Maybe not a good method because of the cotton fibers] or [rolled-up tape](https://youtu.be/FphlXSXjxeQ?t=36). Personally, I used an [interdental brush](https://upload.wikimedia.org/wikipedia/commons/a/a9/TePe_Interdental_Brushes_original.jpg). It worked fine and my headphones don't unplug themselves anymore
+
+url:https://reddit.com/r/YouShouldKnow/comments/blptft/
+author:NewAccount_WhoThis
+subreddit:YouShouldKnow
+score:3366
+numComments:124
+isOver18:False
+hasPostBody:True

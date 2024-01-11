@@ -1,0 +1,15 @@
+title:
+LPT: How to disable your 'online' status on Reddit
+
+content:
+Click preferences, scroll to privacy options (or ctrl+F 'online status'). Click to toggle off.
+
+What a dumb fucking feature that nobody asked for.
+
+url:https://reddit.com/r/LifeProTips/comments/lx565y/
+author:m0na_lisa_overdrive
+subreddit:LifeProTips
+score:28233
+numComments:995
+isOver18:False
+hasPostBody:True

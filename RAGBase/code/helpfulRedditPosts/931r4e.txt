@@ -1,0 +1,13 @@
+title:
+LPT: If you ask people to take their shoes off before coming in your house, have a chair or stool by the front door.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/931r4e/
+author:crovax3000
+subreddit:LifeProTips
+score:4887
+numComments:805
+isOver18:False
+hasPostBody:False

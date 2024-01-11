@@ -1,0 +1,13 @@
+title:
+LPT: Whenever you see a non-skippable ad, close your eyes and mute your device. From now on, every annoying ad will be a little respite for your eyes and mind.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/zwbez2/
+author:kuba16ss
+subreddit:LifeProTips
+score:20009
+numComments:669
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,21 @@
+title:
+YSK these basic online shopping tips to save you money and frustration
+
+content:
+Why YSK: Black Friday is coming soon and you will see a lot of deals and it can be hard to find if they are good or not. In general you shouldn't buy something you don't actually need but if you find something you want to buy, here are some tips that will make sure you are getting a good deal
+
+* Always check price history. There are a lot of services out there that show historic price data. It will you show you if the product that’s marketed as 50% off is actually 50% off or not. In a lot of cases its not. Also prices on online stores change very often and a lot of times you can save 10-30% if you just wait a couple of weeks
+
+* Check reviews. In most cases looking at the recent reviews and 3 star reviews gives you a good idea. If you are still not sure you can try websites that scan these reviews and try to weed out fake reviews. And looking for reviews on Reddit works great (if available).
+
+* Check previous deals. A quick search on reddit communities like buildapcsales, gamedeals will give you a rough idea of what’s a good price and how often it drops to that price. Also even if it seems like a good deal on one store it might be cheaper on other websites. For example you can get Xbox series S for $250 on many stores($50 off) which is a good deal but you can get the same on Target for $250 and also get a $50 Gift Card
+
+Also you can return items in most major stores until January end (useful if you find it cheaper later on). The point is that spending a few minutes researching goes a long way. And there are countless tools available that can help you
+
+url:https://reddit.com/r/YouShouldKnow/comments/yzeyvh/
+author:int9r
+subreddit:YouShouldKnow
+score:3460
+numComments:146
+isOver18:False
+hasPostBody:True

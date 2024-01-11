@@ -1,0 +1,21 @@
+title:
+LPT: A doctors office telling you they "accept your insurance" is very different than a doctor being participating with an insurance.
+
+content:
+Many people will call a doctors office and ask "do you accept cigna/bluecross, etc".
+
+The office will say "yes, we *accept* your insurance"
+
+That does not always mean they are an "In-Network" preferred provider.
+
+Saying "we accept your insurance" often means "we will take your card and bill your insurance as a courtesy." But if they are out of network, you have a huge deductible to meet, or get no coverage at all if your plan has no out of network benefits.
+
+What you want to verify is if the provider is an ***"In-Network, participating, preferred provider"*** with your insurance. It is always a good idea to verify this directly with your insurance carrier and not with the doctors office. They have thousands of patients across dozens of different insurance companies and it is dangerous to rely on a doctors office to have accurate information about *your* insurance company.
+
+url:https://reddit.com/r/LifeProTips/comments/1qwer5/
+author:thenewyorkgod
+subreddit:LifeProTips
+score:2487
+numComments:505
+isOver18:False
+hasPostBody:True

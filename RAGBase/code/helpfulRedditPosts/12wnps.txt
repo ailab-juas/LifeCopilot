@@ -1,0 +1,13 @@
+title:
+LPT: When viewing websites that have slideshows, press the print button to view everything on one page.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/12wnps/
+author:liamjmc
+subreddit:LifeProTips
+score:1836
+numComments:101
+isOver18:False
+hasPostBody:False

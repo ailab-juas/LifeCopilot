@@ -1,0 +1,15 @@
+title:
+LPT: To save battery life on your iPhone when using the GPS, take a screen shot of the direction list and view it through your photos.
+
+content:
+Don't forget to 'End Route' after taking the screen shot. Your battery will still get sucked up if you exit out and forget to end the route.
+
+To take a screen shot on the iPhone: Simultaneously press the Home and the Sleep button. It will show up in your pictures.  
+
+url:https://reddit.com/r/LifeProTips/comments/1fifi3/
+author:taleebee
+subreddit:LifeProTips
+score:1638
+numComments:195
+isOver18:False
+hasPostBody:True

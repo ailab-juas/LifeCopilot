@@ -1,0 +1,25 @@
+title:
+YSK in the US, "At-will employment" is misconstrued by employers to mean they can fire you for any reason or no reason. This is false and all employees have legal protections against retaliatory firings.
+
+content:
+Why YSK: This is becoming a common tactic among employers to hide behind the "At-will employment" nonsense to justify firings. In reality, At-will employment simply means that your employment is not conditional unless specifically stated in a contract. So if an employer fires you, it means they aren't obligated to pay severance or adhere to other implied conditions of employment.
+
+It's illegal for employers to tell you that you don't have labor rights. The NLRB has been fining employers who distribute memos, handbooks, and work orientation materials that tell workers at-will employment means workers don't have legal protections.
+
+https://www.natlawreview.com/article/labor-law-nlrb-finds-standard-will-employment-provisions-unlawful
+
+Edit:
+
+&gt;Section 8(a)(1) of the Act makes it an unfair labor practice for an employer "to interfere with, restrain, or coerce employees in the exercise of the rights guaranteed in Section 7" of the Act.
+
+Employers will create policies prohibiting workers from discussing wages, unions, or work conditions. In order for the workers to know about these policies, the employers will distribute it in emails, signage, handbooks, memos, texts. All of these mediums can be reported to the NLRB showing that the employers enacted illegal policies and that they intended to fire people for engaging in protected concerted activities. If someone is fired for discussing unions, wages, work conditions, these same policies can be used to show the employer had designed these rules to fire any worker for illegal reasons.
+
+Employers will then try to hide behind At-will employment, but that doesn't anull the worker's rights to discuss wages, unions, conditions, etc., so the employer has no case.
+
+url:https://reddit.com/r/YouShouldKnow/comments/tzsb30/
+author:adimwit
+subreddit:YouShouldKnow
+score:34810
+numComments:788
+isOver18:False
+hasPostBody:True

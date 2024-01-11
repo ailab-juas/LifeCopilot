@@ -1,0 +1,13 @@
+title:
+YSK that "farther" refers to physical distance, while "further" refers to metaphorical or figurative distance.
+
+content:
+This is a distinction that a lot of people seem to miss :)
+
+url:https://reddit.com/r/YouShouldKnow/comments/3gdftd/
+author:coogzzz
+subreddit:YouShouldKnow
+score:1245
+numComments:37
+isOver18:False
+hasPostBody:True

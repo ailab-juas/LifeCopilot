@@ -1,0 +1,13 @@
+title:
+LPT: When applying for a new job take a note/screenshot of the key responsibilities so if you ever need to leave you can copy it and add those to your CV.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/8xnbw5/
+author:superdrived
+subreddit:LifeProTips
+score:18852
+numComments:338
+isOver18:False
+hasPostBody:False

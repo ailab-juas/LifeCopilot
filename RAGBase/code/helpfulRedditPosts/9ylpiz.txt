@@ -1,0 +1,15 @@
+title:
+YSK that you can easily convert an hourly wage to salary (and vice versa) by doubling the amount and adding three zeros. It's not exact, but is really useful to estimate the amount in your head
+
+content:
+For example $15.00 / hour to salary is 15 x 2 + 000 = $30,000 / year. 
+
+Actual amount (based on a 40 hour work week) is $31,200. Pretty close for just doing the math in your head. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/9ylpiz/
+author:xarzilla
+subreddit:YouShouldKnow
+score:2513
+numComments:129
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT if you have bagels about to expire and you plan on freezing them cut them first
+
+content:
+No hassle later... Just pop them straight in the toaster.
+
+url:https://reddit.com/r/LifeProTips/comments/5um0dl/
+author:moustachio-banderas
+subreddit:LifeProTips
+score:1442
+numComments:109
+isOver18:False
+hasPostBody:True

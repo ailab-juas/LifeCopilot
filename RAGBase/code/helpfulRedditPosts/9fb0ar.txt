@@ -1,0 +1,25 @@
+title:
+YSK: If you are looking for a home to buy or rent, and the landlord gives you the box code to gain access (and it actually gets you into the house), do NOT wire any money for the dposit without meeting them face-to-face.
+
+content:
+This is a relatively new scam that has been popping up. Here's how it works:
+
+\- Scammer contacts legitimate landlord about a property, gets the box code and goes into the house to take pictures.
+
+\- Scammer creates a fake posting on Zillow, Trulia, etc. and advertises the property for far less $$
+
+\- You contact the scammer and they give you the legitimate box code to get in. You see the property and you like it.
+
+\- Scammer asks you to wire the funds to cover the deposit into their account since they are "out of town" for some sob-story reason.
+
+&amp;#x200B;
+
+And then you are out of the deposit. Consider a real-estate agent who specializes in these kinds of things!
+
+url:https://reddit.com/r/YouShouldKnow/comments/9fb0ar/
+author:stark0788
+subreddit:YouShouldKnow
+score:5248
+numComments:133
+isOver18:False
+hasPostBody:True

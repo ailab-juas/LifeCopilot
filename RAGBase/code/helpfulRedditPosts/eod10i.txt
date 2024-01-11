@@ -1,0 +1,13 @@
+title:
+LPT: if you're feeling down, compete a simple task around the home/office. When I'm feeling down all day and I do a simple task like the dishes, when I'm done, the sense of accomplishment helps my mood tremendously
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/eod10i/
+author:marcus474
+subreddit:LifeProTips
+score:1876
+numComments:53
+isOver18:False
+hasPostBody:False

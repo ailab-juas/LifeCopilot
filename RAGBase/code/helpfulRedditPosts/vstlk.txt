@@ -1,0 +1,13 @@
+title:
+YSK about this giant list of useful websites.
+
+content:
+
+
+url:https://reddit.com/r/YouShouldKnow/comments/vstlk/
+author:ibleedblu7
+subreddit:YouShouldKnow
+score:1360
+numComments:85
+isOver18:False
+hasPostBody:False

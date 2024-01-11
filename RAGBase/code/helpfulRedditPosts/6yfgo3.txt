@@ -1,0 +1,19 @@
+title:
+YSK: When viewing Google Maps with Satellite view selected, the cloud shapes and positions are now real time.
+
+content:
+Give it a shot.   
+
+Maps.google.com (All Browsers)
+
+Earth.google.com (Chrome Browser)
+
+Unconfirmed for Mobile.
+
+url:https://reddit.com/r/YouShouldKnow/comments/6yfgo3/
+author:HotboxedTardis
+subreddit:YouShouldKnow
+score:4331
+numComments:151
+isOver18:False
+hasPostBody:True

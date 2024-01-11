@@ -1,0 +1,13 @@
+title:
+LPT: When you buy a new internet router, set the network name and password exactly as your previous router and all your devices will connect automatically
+
+content:
+Depending on how many connected devices you have this could save a lot of time
+
+url:https://reddit.com/r/LifeProTips/comments/jdarv9/
+author:Carnanian
+subreddit:LifeProTips
+score:1130
+numComments:69
+isOver18:False
+hasPostBody:True

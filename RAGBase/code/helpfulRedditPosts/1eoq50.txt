@@ -1,0 +1,13 @@
+title:
+LPT: On Windows 7, the "snipping" tool will give more useful and to-the-point screenshots. Type "snip" into the program search.
+
+content:
+It lets you select an area of the screen and even annotate it before you save it.
+
+url:https://reddit.com/r/LifeProTips/comments/1eoq50/
+author:Fire_Chicken
+subreddit:LifeProTips
+score:1199
+numComments:172
+isOver18:False
+hasPostBody:True

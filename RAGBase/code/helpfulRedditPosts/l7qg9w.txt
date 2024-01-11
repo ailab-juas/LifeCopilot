@@ -1,0 +1,13 @@
+title:
+LPT: If you have elderly family members living alone, tape a piece of paper with your contact info and any important personal information to their fridge. That way, if paramedics get called, they will have quick access to this info without having to dig around.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/l7qg9w/
+author:ByTheOcean123
+subreddit:LifeProTips
+score:20702
+numComments:244
+isOver18:False
+hasPostBody:False

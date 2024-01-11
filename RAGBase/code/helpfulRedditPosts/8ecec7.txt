@@ -1,0 +1,13 @@
+title:
+YSK that each of your power tools has a specific serial number on it. You should keep track of these numbers in case of a robery.
+
+content:
+Police can use these numbers to get alerts if someone is selling reported stolen tools. 
+
+url:https://reddit.com/r/YouShouldKnow/comments/8ecec7/
+author:ByOdensBear
+subreddit:YouShouldKnow
+score:3895
+numComments:142
+isOver18:False
+hasPostBody:True

@@ -1,0 +1,13 @@
+title:
+LPT: When you're finding it difficult to make a decision, flip a coin. Either the decision is made for you, or you will feel disagreement with the outcome and have a better idea of what you truly want to do.
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/6c9zqj/
+author:JMRW97
+subreddit:LifeProTips
+score:2280
+numComments:80
+isOver18:False
+hasPostBody:False

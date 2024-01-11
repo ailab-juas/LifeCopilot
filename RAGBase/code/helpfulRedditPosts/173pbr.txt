@@ -1,0 +1,13 @@
+title:
+LPT: Install DropBox on your phone, even if you don't use it. If someone steals your phone, any pictures they take will be automatically uploaded to your account and you will have a better chance of identifying the thief!
+
+content:
+
+
+url:https://reddit.com/r/LifeProTips/comments/173pbr/
+author:cwumed
+subreddit:LifeProTips
+score:1767
+numComments:339
+isOver18:False
+hasPostBody:False

@@ -1,0 +1,15 @@
+title:
+YSK: People will often use different terms in order to trick others into believing an event was more/less severe than it actually was.
+
+content:
+Why YSK: You should know this because (especially in our current day and age) people will intentionally use terminology to heighten or diminish the impact of an event. It is good to be mindful of this psychological trick in order to remain as objective as possible when analyzing facts and current events.
+
+For example, jumping out to surprise your friend could be described by some as a “surprise”; however it could easily be described later as an attempt to “scare”, “frighten”, or even “terrorize” the person you were attempting to “surprise”. There are plenty of similar examples of the sort out there, especially on the internet. Stay mindful of the terminology that is used to describe situations when reading or listening to someone.
+
+url:https://reddit.com/r/YouShouldKnow/comments/p6v5n3/
+author:Davethebuilder92
+subreddit:YouShouldKnow
+score:9392
+numComments:536
+isOver18:False
+hasPostBody:True

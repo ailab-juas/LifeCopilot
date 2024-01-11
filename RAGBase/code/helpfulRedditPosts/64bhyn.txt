@@ -1,0 +1,28 @@
+title:
+LPT: If you have Windows and notice that your computer is slower than usual (disk usage is consistently at 100%), disable "Show me tips, tricks, and suggestions as you use Windows" then restart your computer
+
+content:
+**Disclaimer:** May be a Windows 10 exclusive bug.
+
+
+*Click on start menu button* --&gt; **Settings** --&gt; **System** --&gt; **Notifications &amp; actions** --&gt; *Disable said option*
+
+I was using my computer when I noticed it felt much slower than usual. I opened the task manager and saw that my HDD was running 100% of the time.
+
+
+[So I checked Reddit for a solution and found it.](https://www.reddit.com/r/techsupport/comments/3h4wjg/windows_10_high_disk_usage_100_ive_seen_a_thread/cu4nz2y/)
+
+
+I also disabled the rest of the notifications and quick settings since I didn't need them.
+
+
+
+**EDIT:** Fixed instructions
+
+url:https://reddit.com/r/LifeProTips/comments/64bhyn/
+author:E06SP
+subreddit:LifeProTips
+score:6578
+numComments:581
+isOver18:False
+hasPostBody:True
