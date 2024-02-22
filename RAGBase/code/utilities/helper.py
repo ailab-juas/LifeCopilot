@@ -21,6 +21,7 @@ from langchain.document_loaders.base import BaseLoader
 from langchain.document_loaders import TextLoader
 from langchain.chat_models import ChatOpenAI
 from langchain.schema import AIMessage, HumanMessage, SystemMessage
+from langchain.agents import initialize_agent, Tool, AgentType
 
 from utilities.formrecognizer import AzureFormRecognizerClient
 from utilities.azureblobstorage import AzureBlobStorageClient
@@ -34,6 +35,8 @@ import pandas as pd
 import urllib
 
 from fake_useragent import UserAgent
+
+from utilities.tools import LifeKnowledgeSearchTool, IotDeviceControlTool, MansionPriceTool, LifeKnowledgeSearchConfig
 
 class LLMHelper:
     def __init__(self,
@@ -108,6 +111,10 @@ class LLMHelper:
 
         self.user_agent: UserAgent() = UserAgent()
         self.user_agent.random
+
+        self.current_contextDict = {}
+        self.current_sources = None
+        self.current_answer = None
 
     def add_embeddings_lc(self, source_url):
         try:
@@ -211,7 +218,49 @@ class LLMHelper:
         sources = sources.replace('_SAS_TOKEN_PLACEHOLDER_', container_sas)
         sources = self.filter_sourcesLinks(sources)
 
-        return question, result['answer'], contextDict, sources
+        self.current_contextDict = contextDict
+        self.current_sources = sources
+        self.current_answer = result['answer']
+
+        return result['answer'], contextDict, sources
+
+
+    def get_general_operation_lang_chain(self, question, chat_history):
+
+        lfTool = LifeKnowledgeSearchTool(config=LifeKnowledgeSearchConfig(chat_history=chat_history, get_semantic_answer_lang_chain_func=self.get_semantic_answer_lang_chain))
+        tools = [
+            MansionPriceTool(),
+            lfTool,
+            IotDeviceControlTool(),
+            # Tool(
+            #     name="生活の知恵機能",
+            #     func=semantic_run,
+            #     description="ユーザの問い合わせが生活の知恵が必要な場合は、生活の知恵ナレッジから返答することができます。"
+            # ),
+            # Tool(
+            #     name="建物の価格機能",
+            #     func=semantic_run,
+            #     description="ユーザが引っ越しや新しい家を探している場合は、この機能をりようすることができます"
+            # ), 
+            # Tool(
+            #     name="IoTデバイス制御",
+            #     func=iot_device_run,
+            #     description="ユーザが自宅のデバイスを制御したい際に利用することができます。"
+            # ),
+        ]
+
+        agent = initialize_agent(
+            tools,
+            llm=self.llm,
+            agent=AgentType.OPENAI_FUNCTIONS,
+            verbose=True,
+            return_intermediate_steps=True)
+
+        result = agent({"input":question})
+
+
+        return question, result['output'], self.current_contextDict, self.current_sources
+
 
     def get_embeddings_model(self):
         OPENAI_EMBEDDINGS_ENGINE_DOC = os.getenv('OPENAI_EMEBDDINGS_ENGINE', os.getenv('OPENAI_EMBEDDINGS_ENGINE_DOC', 'text-embedding-ada-002'))  

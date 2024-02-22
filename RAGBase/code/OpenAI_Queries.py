@@ -187,7 +187,8 @@ try:
         st.session_state['question'], \
         st.session_state['response'], \
         st.session_state['context'], \
-        st.session_state['sources'] = llm_helper.get_semantic_answer_lang_chain(st.session_state['question'], [])
+        st.session_state['sources'] = llm_helper.get_general_operation_lang_chain(st.session_state['question'], [])
+#        st.session_state['sources'] = llm_helper.get_semantic_answer_lang_chain(st.session_state['question'], [])
         st.session_state['response'], followup_questions_list = llm_helper.extract_followupquestions(st.session_state['response'])
         st.session_state['followup_questions'] = followup_questions_list
 
@@ -197,6 +198,9 @@ try:
     if st.session_state['sources'] or st.session_state['context']:
         st.session_state['response'], sourceList, matchedSourcesList, linkList, filenameList = llm_helper.get_links_filenames(st.session_state['response'], st.session_state['sources'])
         st.write("<br>", unsafe_allow_html=True)
+
+    # Display the answer
+    if st.session_state['response'] != '':
         st.markdown("Answer: " + st.session_state['response'])
  
     # Display proposed follow-up questions which can be clicked on to ask that question automatically

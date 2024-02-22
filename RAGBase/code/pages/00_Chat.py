@@ -56,7 +56,8 @@ try :
     if st.session_state.chat_askedquestion:
         st.session_state['chat_question'] = st.session_state.chat_askedquestion
         st.session_state.chat_askedquestion = ""
-        st.session_state['chat_question'], result, context, sources = llm_helper.get_semantic_answer_lang_chain(st.session_state['chat_question'], st.session_state['chat_history'])    
+#        st.session_state['chat_question'], result, context, sources = llm_helper.get_semantic_answer_lang_chain(st.session_state['chat_question'], st.session_state['chat_history'])    
+        st.session_state['chat_question'], result, context, sources = llm_helper.get_general_operation_lang_chain(st.session_state['chat_question'], st.session_state['chat_history'])    
         result, chat_followup_questions_list = llm_helper.extract_followupquestions(result)
         st.session_state['chat_history'].append((st.session_state['chat_question'], result))
         st.session_state['chat_source_documents'].append(sources)
@@ -93,5 +94,5 @@ try :
             st.markdown(f'\n\nSources: {st.session_state["chat_source_documents"][i]}')
             message(st.session_state['chat_history'][i][0], is_user=True, key=str(i)+'user' + '_user', avatar_style=user_avatar_style, seed=user_seed)
 
-except Exception:
+except Exception:   
     st.error(traceback.format_exc())
