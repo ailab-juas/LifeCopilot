@@ -1,18 +1,14 @@
-# import numpy  as np
 import pandas as pd
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import mean_absolute_error
-import lightgbm as lgb
 import pickle
 
-def price_get(ent_minute, ent_area):
+
+def get_price(ent_minute, ent_area) -> float:
     filename = 'ml_model.sav'
     model_load = pickle.load(open(filename, 'rb'))
 
     df_real_X = pd.DataFrame(columns=['post', 'eki', 'minute', 'mad', 'area', 'born', 'bai'])
 
     # 特徴量
-    #
     df_real_X = df_real_X.append({'post': 6.994685678,  #市区町村コード
                                   'eki': 6.938155853,   #最寄り駅(博多)
                                   'minute': ent_minute, #最寄り駅からの時間(分)
@@ -25,10 +21,10 @@ def price_get(ent_minute, ent_area):
     # 予測
     y_real_pred = model_load.predict(df_real_X)
 
-    # 'return'を使って、関数の戻り値を指定します。
-    return y_real_pred
+    # 値の整形
+    price_log = y_real_pred[0]
+    price = round(10**price_log/10000)*10000
+    return price
 
 
-price_log = price_get(10, 70)[0]
-price = round(10**price_log/10000)*10000
-print(price)
+
