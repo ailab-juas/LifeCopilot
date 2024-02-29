@@ -75,6 +75,8 @@ class IotDeviceControlTool (BaseTool):
             status = "Device " + device_id + " is turned off."
         else:
             status = "Invalid command."
+
+            print("iot device command send." + status)
         return status
     
     async def _arun(self, device_id, command):
