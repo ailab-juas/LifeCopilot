@@ -25,7 +25,7 @@ class MansionPriceTool (BaseTool):
     description = "This tool calculates the price of a mansion based on the number of rooms and the area of the mansion."
 
     def _run(self, area:ManshonAreaEnum, area_m2:int, minutes_to_station:int):
-        if area == "hakata":
+        if area == "tokyo":
             price = get_price(minutes_to_station, area_m2)
             result = "The price of the mansion is " + str(price) + " yen."
         else:
