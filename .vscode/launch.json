@@ -30,7 +30,7 @@
             ],
             "python": "${workspaceFolder}/RAGBase/.venv/Scripts/python",
             "cwd": "${workspaceFolder}/RAGBase/code",
-            "justMyCode": false
+            "justMyCode": true
         },
     ]
 }

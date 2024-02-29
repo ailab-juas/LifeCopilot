@@ -3,41 +3,53 @@ from pydantic import Field, BaseModel
 from enum import Enum
 from typing import Optional, Type
 from collections.abc import Callable
+from utilities.price_get import get_price
 
 class ManshonAreaEnum(str, Enum):
     tokyo = "tokyo"
     saitama = "saitama"
     kanagawa = "kanagawa"
     chiba = "chiba"
+    hakata= "hakata"
     other = "other"
 
 class MansionPriceToolCheckInput(BaseModel):
-    rooms: int = Field(..., title="Number of rooms", description="The number of rooms in the mansion.")
-    area: str = Field(..., title="Area", description="The area of the mansion in square meters.")
+    area: ManshonAreaEnum = Field(..., title="Area", description="The area of the mansion region.")
+    area_m2: int = Field(..., title="Area m2", description="The area of the mansion in square meters.")
+    minutes_to_station: int = Field(..., title="Minutes to station", description="The number of minutes to the nearest station.")
+#    rooms: int = Field(..., title="Number of rooms", description="The number of rooms in the mansion.")
 
 
 class MansionPriceTool (BaseTool):
     name = "MansionPriceTool"
     description = "This tool calculates the price of a mansion based on the number of rooms and the area of the mansion."
 
-       
-    def _run(self, rooms:int, area:ManshonAreaEnum):
-        price = rooms * 100000 + self.ManshonAreaToPrice(area)
-        return price
-    
-    def ManshonAreaToPrice(self, area:ManshonAreaEnum):
-        if area == "tokyo":
-            return 100000
-        elif area == "saitama":
-            return 80000
-        elif area == "kanagawa":
-            return 90000
-        elif area == "chiba":
-            return 70000
-        elif area == "other":
-            return 60000
+    def _run(self, area:ManshonAreaEnum, area_m2:int, minutes_to_station:int):
+        if area == "hakata":
+            price = get_price(minutes_to_station, area_m2)
+            result = "The price of the mansion is " + str(price) + " yen."
         else:
-            return 0
+            result = "sorry we can't calculate the price of the mansion in this area."
+        
+        return result
+       
+    # def _run(self, rooms:int, area:ManshonAreaEnum):
+    #     price = rooms * 100000 + self.ManshonAreaToPrice(area)
+    #     return price
+    
+    # def ManshonAreaToPrice(self, area:ManshonAreaEnum):
+    #     if area == "tokyo":
+    #         return 100000
+    #     elif area == "saitama":
+    #         return 80000
+    #     elif area == "kanagawa":
+    #         return 90000
+    #     elif area == "chiba":
+    #         return 70000
+    #     elif area == "other":
+    #         return 60000
+    #     else:
+    #         return 0
     
     async def _arun(self, rooms, area):
         return self._run(rooms, area)

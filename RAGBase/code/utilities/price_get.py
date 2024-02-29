@@ -1,9 +1,11 @@
 import pandas as pd
 import pickle
 
-
+# 博多限定の価格予測モデル
+# entminute: 最寄り駅からの時間(分)
+# entarea: 面積(m2)
 def get_price(ent_minute, ent_area) -> float:
-    filename = 'ml_model.sav'
+    filename = './utilities/ml_model.sav'
     model_load = pickle.load(open(filename, 'rb'))
 
     df_real_X = pd.DataFrame(columns=['post', 'eki', 'minute', 'mad', 'area', 'born', 'bai'])
