@@ -30,6 +30,7 @@ from utilities.customprompt import PROMPT
 from utilities.redis import RedisExtended
 from utilities.azuresearch import AzureSearch
 from utilities.NewAzureOpenAI import NewAzureOpenAI
+import langchain
 
 import pandas as pd
 import urllib
@@ -37,6 +38,8 @@ import urllib
 from fake_useragent import UserAgent
 
 from utilities.tools import LifeKnowledgeSearchTool, IotDeviceControlTool, MansionPriceTool, LifeKnowledgeSearchConfig
+
+langchain.verbose = True
 
 class LLMHelper:
     def __init__(self,
@@ -115,6 +118,8 @@ class LLMHelper:
         self.current_contextDict = {}
         self.current_sources = None
         self.current_answer = None
+        langchain.verbose = True
+
 
     def add_embeddings_lc(self, source_url):
         try:
@@ -191,13 +196,14 @@ class LLMHelper:
         return dataFrame
 
     def get_semantic_answer_lang_chain(self, question, chat_history):
-        question_generator = LLMChain(llm=self.llm, prompt=CONDENSE_QUESTION_PROMPT, verbose=False)
-        doc_chain = load_qa_with_sources_chain(self.llm, chain_type="stuff", verbose=False, prompt=self.prompt)
+        question_generator = LLMChain(llm=self.llm, prompt=CONDENSE_QUESTION_PROMPT, verbose=True)
+        doc_chain = load_qa_with_sources_chain(self.llm, chain_type="stuff", verbose=True, prompt=self.prompt)
         chain = ConversationalRetrievalChain(
             retriever=self.vector_store.as_retriever(),
             question_generator=question_generator,
             combine_docs_chain=doc_chain,
             return_source_documents=True,
+            verbose=True,
             # top_k_docs_for_context= self.k
         )
         result = chain({"question": question, "chat_history": chat_history})
