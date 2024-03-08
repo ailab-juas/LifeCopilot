@@ -15,7 +15,11 @@ def main():
     # files_data = list(map(lambda x: {'filename': x['filename']}, files_data))
     # Send a message to the queue for each file
     index = 0
+    startindex = 0
     for fd in files_data:
+        index = index +1
+        if index < startindex:
+            continue
 
         file_name = fd['filename']
         # Generate the SAS URL for the file
@@ -30,7 +34,6 @@ def main():
             llm_helper.convert_file_and_add_embeddings(file_sas , file_name)
 
         llm_helper.blob_client.upsert_blob_metadata(file_name, {'embeddings_added': 'true'})
-        index = index +1
         print(f"Processed {index}/{len(files_data)} files")
 
 

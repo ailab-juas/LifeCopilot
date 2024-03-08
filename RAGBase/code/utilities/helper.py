@@ -122,43 +122,52 @@ class LLMHelper:
 
 
     def add_embeddings_lc(self, source_url):
-        try:
-            documents = self.document_loaders(source_url).load()
-            
-            # Convert to UTF-8 encoding for non-ascii text
-            for(document) in documents:
-                try:
-                    if document.page_content.encode("iso-8859-1") == document.page_content.encode("latin-1"):
-                        document.page_content = document.page_content.encode("iso-8859-1").decode("utf-8", errors="ignore")
-                except:
-                    pass
+        retrycount = 0
+        while True:
+            try:
+                documents = self.document_loaders(source_url).load()
                 
-            docs = self.text_splitter.split_documents(documents)
-            
-            # Remove half non-ascii character from start/end of doc content (langchain TokenTextSplitter may split a non-ascii character in half)
-            pattern = re.compile(r'[\x00-\x09\x0b\x0c\x0e-\x1f\x7f\u0080-\u00a0\u2000-\u3000\ufff0-\uffff]')  # do not remove \x0a (\n) nor \x0d (\r)
-            for(doc) in docs:
-                doc.page_content = re.sub(pattern, '', doc.page_content)
-                if doc.page_content == '':
-                    docs.remove(doc)
-            
-            keys = []
-            for i, doc in enumerate(docs):
-                # Create a unique key for the document
-                source_url = source_url.split('?')[0]
-                filename = "/".join(source_url.split('/')[4:])
-                hash_key = hashlib.sha1(f"{source_url}_{i}".encode('utf-8')).hexdigest()
-                hash_key = f"doc:{self.index_name}:{hash_key}"
-                keys.append(hash_key)
-                doc.metadata = {"source": f"[{source_url}]({source_url}_SAS_TOKEN_PLACEHOLDER_)" , "chunk": i, "key": hash_key, "filename": filename}
-            if self.vector_store_type == 'AzureSearch':
-                self.vector_store.add_documents(documents=docs, keys=keys)
-            else:
-                self.vector_store.add_documents(documents=docs, redis_url=self.vector_store_full_address,  index_name=self.index_name, keys=keys)
-            
-        except Exception as e:
-            logging.error(f"Error adding embeddings for {source_url}: {e}")
-            raise e
+                # Convert to UTF-8 encoding for non-ascii text
+                for(document) in documents:
+                    try:
+                        if document.page_content.encode("iso-8859-1") == document.page_content.encode("latin-1"):
+                            document.page_content = document.page_content.encode("iso-8859-1").decode("utf-8", errors="ignore")
+                    except:
+                        pass
+                    
+                docs = self.text_splitter.split_documents(documents)
+                
+                # Remove half non-ascii character from start/end of doc content (langchain TokenTextSplitter may split a non-ascii character in half)
+                pattern = re.compile(r'[\x00-\x09\x0b\x0c\x0e-\x1f\x7f\u0080-\u00a0\u2000-\u3000\ufff0-\uffff]')  # do not remove \x0a (\n) nor \x0d (\r)
+                for(doc) in docs:
+                    doc.page_content = re.sub(pattern, '', doc.page_content)
+                    if doc.page_content == '':
+                        docs.remove(doc)
+                
+                keys = []
+                for i, doc in enumerate(docs):
+                    # Create a unique key for the document
+                    source_url = source_url.split('?')[0]
+                    filename = "/".join(source_url.split('/')[4:])
+                    hash_key = hashlib.sha1(f"{source_url}_{i}".encode('utf-8')).hexdigest()
+                    hash_key = f"doc:{self.index_name}:{hash_key}"
+                    keys.append(hash_key)
+                    doc.metadata = {"source": f"[{source_url}]({source_url}_SAS_TOKEN_PLACEHOLDER_)" , "chunk": i, "key": hash_key, "filename": filename}
+                if self.vector_store_type == 'AzureSearch':
+                    self.vector_store.add_documents(documents=docs, keys=keys)
+                else:
+                    self.vector_store.add_documents(documents=docs, redis_url=self.vector_store_full_address,  index_name=self.index_name, keys=keys)
+                return
+
+            except Exception as e:
+                logging.error(f"Error adding embeddings for {source_url}: {e}")
+                if retrycount > 3:
+                    raise e
+                else:
+                    print(f"Retrying adding embeddings for {source_url}")
+                    retrycount += 1
+
+        
 
     def convert_file_and_add_embeddings(self, source_url, filename, enable_translation=False):
         # Extract the text from the file
@@ -370,7 +379,12 @@ class LLMHelper:
         return answer, matched_sources, filenameList_lowered
 
     def get_links_filenames(self, answer, sources):
-        split_sources = sources.split('  \n ') # soures are expected to be of format '  \n  [filename1.ext](sourcelink1)  \n [filename2.ext](sourcelink2)  \n  [filename3.ext](sourcelink3)  \n '
+        
+        if sources != None:
+            split_sources = sources.split('  \n ') # soures are expected to be of format '  \n  [filename1.ext](sourcelink1)  \n [filename2.ext](sourcelink2)  \n  [filename3.ext](sourcelink3)  \n '
+        else:
+            split_sources = []
+            
         srcList = []
         linkList = []
         filenameList = []

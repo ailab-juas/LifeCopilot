@@ -69,11 +69,11 @@ try :
         history_range = range(len(st.session_state['chat_history'])-1, -1, -1)
         for i in range(len(st.session_state['chat_history'])-1, -1, -1):
 
+            answer_with_citations = None
             # This history entry is the latest one - also show follow-up questions, buttons to access source(s) context(s) 
             if i == history_range.start:
                 answer_with_citations, sourceList, matchedSourcesList, linkList, filenameList = llm_helper.get_links_filenames(st.session_state['chat_history'][i][1], st.session_state['chat_source_documents'][i])
                 st.session_state['chat_history'][i] = st.session_state['chat_history'][i][:1] + (answer_with_citations,)
-
                 answer_with_citations = re.sub(r'\$\^\{(.*?)\}\$', r'(\1)', st.session_state['chat_history'][i][1]).strip() # message() does not get Latex nor html
 
                 # Display proposed follow-up questions which can be clicked on to ask that question automatically
@@ -89,9 +89,13 @@ try :
                     if followup_question:
                         str_followup_question = re.sub(r"(^|[^\\\\])'", r"\1\\'", followup_question)
 
-            answer_with_citations = re.sub(r'\$\^\{(.*?)\}\$', r'(\1)', st.session_state['chat_history'][i][1]) # message() does not get Latex nor html
-            message(answer_with_citations ,key=str(i)+'answers', avatar_style=ai_avatar_style, seed=ai_seed)
-            st.markdown(f'\n\nSources: {st.session_state["chat_source_documents"][i]}')
+            if(answer_with_citations != None):
+                answer_with_citations = re.sub(r'\$\^\{(.*?)\}\$', r'(\1)', st.session_state['chat_history'][i][1])
+                answer_with_citations = re.sub(r'\$\^\{(.*?)\}\$', r'(\1)', st.session_state['chat_history'][i][1]) # message() does not get Latex nor html
+                message(answer_with_citations ,key=str(i)+'answers', avatar_style=ai_avatar_style, seed=ai_seed)
+
+                st.markdown(f'\n\nSources: {st.session_state["chat_source_documents"][i]}')
+
             message(st.session_state['chat_history'][i][0], is_user=True, key=str(i)+'user' + '_user', avatar_style=user_avatar_style, seed=user_seed)
 
 except Exception:   
